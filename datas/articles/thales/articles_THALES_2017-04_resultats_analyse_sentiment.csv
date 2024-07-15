@@ -1,0 +1,458 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+SES and Thales Unveil Next-Generation Capabilities Onboard SES-17 - SES | Satellite,"Tue, 04 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNlcy5jb20vcHJlc3MtcmVsZWFzZS9zZXMtYW5kLXRoYWxlcy11bnZlaWwtbmV4dC1nZW5lcmF0aW9uLWNhcGFiaWxpdGllcy1vbmJvYXJkLXNlcy0xN9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"After the global pandemic brought unprecedented disruption to the world of cruise, the industry is now roaring back to life. Join the SES Cruise team to find out what we have up our sleeves when it comes to enabling a new era of guest connectivity experiences.","{'label': 'Neutral', 'score': 0.8329463005065918}",neutral,0.8329463005065918,0
+"DCNS, Thales jointly secure $4B French frigate deal - Defense News","Mon, 24 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9uYXZhbC8yMDE3LzA0LzI0L2RjbnMtdGhhbGVzLWpvaW50bHktc2VjdXJlLTRiLWZyZW5jaC1mcmlnYXRlLWRlYWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Correction: This story has been updated to correctly attribute the announcement about the budget set aside for the FTI program to France's defense minister.
+
+
+
+PARIS — France signed a contract April 20 for a program to build five intermediate frigates, or FTI, for the French Navy, the defense procurement office announced April 21.
+
+""The contract was awarded to DCNS and Thales (for the radar related activities) by the Direction Générale de l'Armement 20 April 2017,"" the DGA said on its website. ""The first delivery is set for 2023.""
+
+
+
+A budget of €3.8 billion (U.S. $4.1 billion) has been set aside for the FTI program, Defense Minister Jean-Yves Le Drian said at the Euronaval trade show in October.
+
+
+
+That contract grants DCNS and Thales the status of joint prime contractors on the warship, sharing the responsibility respectively between the naval shipbuilder and electronics specialist.
+
+
+
+The French Ministry of Defence separately announced April 21 that the minister had launched the program and also attributed to the warship a product name adopted by DCNS specifically to target the export market.
+
+
+
+That ministerial announcement came just a couple of days before the April 23 first round of voting in the presidential election, as expected. The contract ties France to the naval program no matter which candidate wins in the polls.
+
+
+
+
+
+""In line with the decision taken by the minister mid-March in the ministerial investment committee, Jean-Yves Le Drian launched today (sic) the production of five intermediate frigates of the 'Belharra' class,"" the Defence Ministry said in an April 21 statement.
+
+DCNS announced at Euronaval the Belharra name for its export version of the FTI project. The French Navy and DGA refer to the planned warship as FTI.
+
+""The future frigate is positioned in the market segment of ships of medium tonnage, for which there is strong export demand,"" the ministry said.
+
+The warship ""is indispensable to conduct the operations guaranteeing the security of operations and the French maritime approaches in the face of threats, particularly from submarines, which have rapidly grown,"" Le Drian said. The frigate is due to enter service in 2025, he said.
+
+Building a Belharra will require two million work hours for DCNS, of which 300,000 will be for the design office, the company said in a statement.
+
+Belharra refers to a giant wave on the coast of the Basque region, southwest France.
+
+Work on the new warship, which will include a high level of digital technology, ""also allows us to develop a frigate that addresses the expectations of a dynamic international market,"" DCNS Chairman and CEO Hervé Guillou said in a statement.
+
+Thales will supply the Sea Fire multifunction radar, Captas-4 compact towed sonar array, Aquilon naval communications and Sentinel electronic warfare system, the company said in a statement.
+
+The FTI is designed to conduct anti-submarine warfare, air defense and anti-ship missions, as well as carry special forces units. The ship will carry a helicopter or flying drone, and it will be armed with MBDA Aster 30 surface-to-air missiles.
+
+DCNS has previously estimated a world market of at least 40 of the intermediate frigate.","{'label': 'Neutral', 'score': 0.9999812841415405}",neutral,0.9999812841415405,0
+"French agency places military vehicle order with Nexter, Renault Trucks Defense, and Thales - Military Embedded Systems","Tue, 25 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMihwFodHRwczovL21pbGl0YXJ5ZW1iZWRkZWQuY29tL3JhZGFyLWV3L3NlbnNvcnMvZnJlbmNoLWFnZW5jeS1wbGFjZXMtbWlsaXRhcnktdmVoaWNsZS1vcmRlci13aXRoLW5leHRlci1yZW5hdWx0LXRydWNrcy1kZWZlbnNlLWFuZC10aGFsZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"French agency places military vehicle order with Nexter, Renault Trucks Defense, and Thales
+
+News
+
+Mariana Iriarte Technology Editor Military Embedded Systems
+
+Image by Thales VERSSAILLES. Nexter, Renault Trucks Defense, and Thales officials received the first production order by the French Procurement Agency (DGA) for 319 GRIFFON and 20 JAGUAR vehicles as part of the Multi-role Armored Vehicle contract.
+
+The contract includes logistic support and the associated training. The first deliveries of the GRIFFON expected in 2018 and of the JAGUAR in 2020 to support the SCORPION program, which provides for the delivery by the Temporary Business Grouping of 1,668 GRIFFON vehicles and 248 JAGUAR engines to the French army, as well as the associated logistic support facilities.
+
+The GRIFFON Multi-role Armored Vehicle and the JAGUAR Armored Reconnaissance and Combat Vehicle, respectively replace the VAB and the AMX10RC, the SAGAIE ERC and the VAB Hot, used by the French army for over thirty years. ehicle contract.
+
+Read more on military vehicles:
+
+
+
+The key to preparing vehicles for A-PNT
+
+Power distribution from the ground up
+
+Canadian special forces combat vehicle contract won by Polaris Defense","{'label': 'Neutral', 'score': 0.9986957907676697}",neutral,0.9986957907676697,0
+Thales Alenia Space Delivers Panels For GEO KOMPSAT 2 Satellites - Via Satellite,"Tue, 18 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTcvMDQvMTgvdGhhbGVzLWFsZW5pYS1zcGFjZS1kZWxpdmVycy1wYW5lbHMtZ2VvLWtvbXBzYXQtMi1zYXRlbGxpdGVzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space has sent South Korea the third of three panels making up the communications payloads on the two GEO KOMPSAT 2 (Geostationary Earth Orbit Korea Multi-Purpose Satellite) satellites being built by Korea Aerospace Research Institute (KARI). KARI will integrate this last panel in the GEO KOMPSAT 2B satellite, and follows the two panels already delivered by the company at the end of last year for the GEO KOMPSAT 2A satellite.
+
+GEO KOMPSAT 2 is a key South Korean space program that will provide vital meteorological, oceanographic and environmental data for both government bodies and private end-users. The program comprises two satellites, each weighing around 3.5 tons, to be located at 128.2 degrees east longitude. The two satellites are scheduled for launch in 2018 and 2019.
+
+The GEO KOMPSAT 2A satellite will carry out meteorological and space environment monitoring, using two main instruments: the Advanced Meteorological Imager (AMI) and the Korean Space Environment Monitor (KSEM). The GK2B will monitor oceans and the Earth’s environment, also using two dedicated instruments: the Geostationary Ocean Color Imager-2 (GOCI-2) and the Environmental Monitoring Spectrometer (GEMS).
+
+Thales Alenia Space integrated and tested the three communication panels in its plant in Spain. These panels house the subsystems that transmit to Earth the raw data from the instruments, as well as a communications payload comprising two repeaters, used to retransmit processed data to end-users.","{'label': 'Neutral', 'score': 0.9999990463256836}",neutral,0.9999990463256836,0
+"19 GRIFFON and 20 JAGUAR vehicles ordered from Nexter, Renault Trucks Defense and Thales by the DGA as part of ... - EDR Magazine","Thu, 27 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS8xOS1ncmlmZm9uLWFuZC0yMC1qYWd1YXItdmVoaWNsZXMtb3JkZXJlZC1mcm9tLW5leHRlci1yZW5hdWx0LXRydWNrcy1kZWZlbnNlLWFuZC10aGFsZXMtYnktdGhlLWRnYS1hcy1wYXJ0LW9mLXRoZS1zY29ycGlvbi1wcm9ncmFtbWXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The French Procurement Agency (DGA) placed the first production order with Nexter, Renault Trucks Defense and Thales for 319 GRIFFON and 20 JAGUAR vehicles as part of the Multi-role Armored Vehicle contract. This contract includes logistic support and the associated training.
+
+A crucial stage in the SCORPION programme, the awarding of this conditional tranche will thus launch the production of these new vehicles after only 27 months of development.
+
+The GRIFFON Multi-role Armored Vehicle and the JAGUAR Armored Reconnaissance and Combat Vehicle, both of which benefit from a high level of protection, respectively replace the VAB and the AMX10RC, the SAGAIE ERC and the VAB Hot, used intensively by the Army for over thirty years. They will enable the French Army to have a state-of-the-art combat tool with the best protection technologies and the best possible use to be made of digitised data on the battlefield.
+
+The Nexter, Renault Trucks Defense and Thales teams are perfectly aligned in order to achieve the contractual milestones and to meet the qualification and production commitments, with the first deliveries of the GRIFFON in 2018 and of the JAGUAR in 2020. Pooling of know-how and innovation capabilities creates the strength to design “connected” vehicles for tomorrow’s collaborative combat, featuring a high level of protection, optimum adaptability by means of the vehicles’ ability to be reconfigured according to the operational requirements, great mobility, and leading edge weapon systems.
+
+The SCORPION programme provides for the delivery by the Temporary Business Grouping of 1,668 GRIFFON vehicles and 248 JAGUAR engines to the French Army, as well as the associated logistic support facilities.
+
+Jean-François Pellarin, Director of the SCORPION programme within the Temporary Business Grouping and the representative for the EBMR contract, stated “We are proud of this new sign of confidence on the part of the French Procurement Agency and can’t wait to start producing this new equipment, which will project the operational capabilities of the Army to the future “.","{'label': 'Neutral', 'score': 0.9758194088935852}",neutral,0.9758194088935852,0
+"Thomas Pesquet, space photographer - Thales","Fri, 21 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy90aG9tYXMtcGVzcXVldC1zcGFjZS1waG90b2dyYXBoZXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"November 17, 2016. Astronauts Peggy Whiston, Oleg Novitski and Thomas Pesquet, representing NASA, the Russian space agency Roscosmos, and the European Space Agency (ESA), have boarded the Soyuz MS-03 capsule. The Proxima mission is now in the starting blocks, ready to take these three astronauts to the International Space Station, circling the Earth at an altitude of 400 kilometers. After the traditional countdown, the rocket lifts off. The launch is successful, everybody smiles! Peggy, Oleg and Thomas arrive safe and sound two days later, as the Soyuz docks to the ISS. They get a hero’s welcome inside the ISS crew space. As you can see on their faces, they’re overjoyed!
+
+
+
+Thomas Pesquet, the tenth French astronaut to travel to the International Space Station, has been preparing for this mission for over six years.. @Thom_astro [his Twitter handle] quickly starts to share his passion for space with the public. And space fans the world over are delighted to share, via social networks, his experiences on the Station, favorite songs, funny anecdotes (like the first haircut “made in ISS”), and more.
+
+Sunrise or Sunset?
+
+
+
+But it’s above all his photos of our planet that have attracted the most attention, because Thomas Pesquet is clearly a very talented space photographer. ESA’s latest astronaut has shot the Earth from all angles: desert landscapes, offbeat shots, snow-covered land… taken both day and night. A city at night has its own beauty, and this is magnified when the shots are taken from the International Space Station! Thomas’ photos are magic, offbeat, infused with poetry, sometimes amusing, and always caring, earning him unanimous praise.
+
+Dubai by night
+
+
+
+Over the last few months, Thomas Pesquet has been able to bring Space into thousands of households, especially their younger members. In fact, many space fans on Earth have come to identify with the astronaut, a rather rare thing these days. Like your favorite teacher, Thomas Pesquet has made space really ACCESSIBLE. He has undoubtedly sparked renewed interested in this sector, and perhaps inspired new vocations among the younger generation.
+
+Mumbai - India
+
+Thomas Pesquet focuses
+
+""Eye of Africa"" - Sahara desert, Mauritania
+
+At Thales Alenia Space, we wanted to pay a modest tribute to Thomas’ photography, by showing a small selection of his photos. If you want to see more of these exceptional shots, just follow Thomas Pesquet on social media. All of Thomas Pesquet’s space shots were taken from the Cupola, the observatory module on the Space Station, nicknamed “The Window into Space”. Offering astronauts an unexcelled view of Earth, the Cupola was built by Thales Alenia Space in Turin, Italy. @Thom_astro: when will you organize a photo exhibition on terra firma?
+
+Persian Gulf
+
+
+
+
+
+Paradise in the antipodes: Tahiti and French Polynesia!
+
+
+
+
+
+A frozen lake in the Himalayas
+
+
+
+
+
+France at night
+
+
+
+
+
+Soyuz flying over Europe
+
+Many more stunning photos by Thomas Pesquet available on the following link: click here
+
+Photo copyrights: © ESA / © NASA - Photos by Thomas Pesquet","{'label': 'Neutral', 'score': 0.8632892966270447}",neutral,0.8632892966270447,0
+Northrop Firebird Tests Collision Avoidance System For UAVs - UASweekly.com - UASweekly.com,"Sat, 01 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdWFzd2Vla2x5LmNvbS8yMDE3LzA0LzAxL25vcnRocm9wLWZpcmViaXJkLXRlc3RzLWNvbGxpc2lvbi1hdm9pZGFuY2Utc3lzdGVtLXVhdnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Northrop Grumman’s Firebird optionally manned demonstrator has completed an early shakedown of the anti-collision system intended to make the skies safe for unmanned and manned aircraft.
+
+The flight tests over Mojave, California, will provide the data that shows how well the version of the Airborne Collision Avoidance Warning Systems (ACAS) designed for unmanned air vehicles (UAVs) conforms to simulation models. Any discrepancies will be used to refine the models, which shoulder the load of the development activity for the new system.
+
+“The flight tests collected data necessary to validate simulation models and help inform the continued development of ACAS Xu,” says Greg Boerwinkle, UAV program manager for ACSS, a joint venture of L-3 Communications and Thales.
+
+ACAS is being developed by a mixture of government agencies, national laboratories, and private contractors.
+
+The US Federal Aviation Administration is spearheading the development of ACAS, which is intended to replace the Traffic Alert and Collision Avoidance Warning System (TCAS) for all aircraft, whether manned or unmanned.
+
+Working for the FAA, the Massachusetts Institute of Technology’s Lincoln Laboratory and the Johns Hopkins Applied Physics Laboratory developed the software for ACAS Xu, the version dedicated for UAVs.
+
+The laboratories delivered that software to ACSS, which integrated the code into its T3CAS hardware, which includes functions for traffic and collision avoidance, terrain awareness and warning and a transponder.
+
+The result, ACAS Xu, was installed in the Firebird demonstrator, a twin-boomed, optionally manned aircraft designed by Scaled Composites engineer Cory Bird.
+
+ACSS and Northrop supplied additional aircraft for the demonstration, which flew a series of collision trajectories with the Firebird. The ACAS Xu system on the Firebird is supposed to detect the impending collision using an onboard sense-and-avoid sensor package, then perform a series of steps. It first sends “resolution advisories” to the host aircraft and the “intruders”, then coordinates maneuvers with the TCAS on board the other aircraft.
+
+Ideally, ACAS Xu will make the UAV safer to operate in national airspace than if a pilot was in the cockpit, Boerwinkle says.
+
+“The capabilities under development for large UASs to detect and avoid collisions will be substantially better than the ability of a pilot to see with the human eye and avoid collisions,” he says.
+
+In addition to ACAS Xu, the project is also developing ACAS Xa and Xo for manned aircraft equipped with TCAS already.
+
+Source: flightglobal.com","{'label': 'Neutral', 'score': 0.9995638728141785}",neutral,0.9995638728141785,0
+"Iridium hails performance of new satellites, targets four more launches this year – Spaceflight Now - Spaceflight Now","Fri, 28 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vc3BhY2VmbGlnaHRub3cuY29tLzIwMTcvMDQvMjgvaXJpZGl1bS1oYWlscy1wZXJmb3JtYW5jZS1vZi1uZXctc2F0ZWxsaXRlcy10YXJnZXRzLWZvdXItbW9yZS1sYXVuY2hlcy10aGlzLXllYXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Eight of Iridium’s first ten upgraded communications satellites launched in January started providing voice and data relay service ahead of schedule, and SpaceX says it can launch up to 40 more Iridium spacecraft by the end of the year, Iridium officials reported Thursday.
+
+“I’m happy to report that our initial batch of Iridium Next satellites are now fully operational and working very well,” said Matt Desch, CEO of Virginia-based of Iridium Communications.
+
+Engineers are repositioning the other two new-generation Iridium spacecraft in orbit to replace other satellites, part of a “highly-choreographed process” to complete a refresh of the company’s entire constellation by mid-2018, Desch said Thursday in a quarterly earnings call with investment analysts.
+
+The first eight Iridium Next satellites entered service in March and early April, taking the place of aging first-generation spacecraft launched in the late 1990s.
+
+After their deployment from the second stage of a SpaceX Falcon 9 rocket launched from Vandenberg Air Force Base in California, the satellites boosted their altitude from a 388-mile-high (625-kilometer) drop-off orbit into the operational constellation at an altitude of 485 miles (780 kilometers) alongside the craft they were intended to replace.
+
+Ground controllers then instantaneously switched off the inter-satellite communications links on the old satellite and turned on the links on the new craft, a procedure Iridium calls a slot swap.
+
+The Iridium fleet consists of 66 operational satellites distributed in six orbital tracks, with 11 slots in each plane. The remaining two Iridium Next satellites deployed into Plane 6 on Jan. 14 are drifting into a different plane, a movement that will take around 10 months.
+
+“We completed the commissioning of these Iridium Next satellites about one week ahead of schedule, which is a real testament to the planning and preparation of our satellite operations team,” Desch said. “What’s important is that our experience with in-orbit testing, slot swaps and the new satellite performance gives us confidence that we’ll be able to manage the roughly 60-day launch cycle (we’re) targeting following the second launch.”
+
+Iridium’s next 10 satellites are set for launch June 29 aboard another Falcon 9 booster. Desch said the spacecraft will begin shipping from their factory in Gilbert, Arizona, to the Vandenberg launch base in mid-May for fueling and attachment with the rocket’s multi-payload dispenser, which accommodates the 10 satellites inside the Falcon 9 nose cone.
+
+SpaceX and Vandenberg Air Force Base officials have confirmed the June 29 launch target, according to Desch.
+
+The June 29 launch is set for 1:02 p.m. PDT (2002 GMT; 4:02 p.m. EDT), according to Iridium. That is timed to place the next 10 satellites into Plane 3 of the Iridium network.
+
+The Iridium Next assembly line in Arizona, managed by Orbital ATK in partnership with satellite-designer Thales Alenia Space, is producing spacecraft at a rate to manufacture all of the Iridium Next satellites by the end of 2017, Desch said.
+
+Thales Alenia Space and Orbital ATK have manufactured more than 40 of the 81 Iridium Next satellites under contract, according to Desch.
+
+Iridium originally planned to launch 70 of the Iridium Next satellites on seven Falcon 9 rockets by the end of 2017, but SpaceX launch delays caused by rocket failures and production bottlenecks have pushed that target to mid-2018.
+
+At the time of the Jan. 14 launch, SpaceX and Iridium aimed to launch the second group of Iridium Next satellites in April. But Iridium announced in February that liftoff of the next batch of Iridium Next platforms would be delayed two more months, citing rocket production issues and a cramped launch manifest at SpaceX.
+
+Desch said Thursday that SpaceX has upped its production and launch tempo.
+
+“With SpaceX increasing cadence on production and launch, they’ve also provided us launch dates for three more launches in 2017 — in August, October and December.” he said. “So we’re hoping they stay on track as we’re ready to deploy satellites as soon as they can launch them.”
+
+Iridium booked an eighth launch with SpaceX earlier this year, a mission that will loft five more Iridium Next satellites, committing the company to launch at least 75 of the 81 new-generation spacecraft on Falcon 9 rockets. The extra launch will take off by early 2018 in tandem with two U.S.-German research satellites to make the best-ever measurements of Earth’s gravity field.
+
+The upgraded $3 billion Iridium Next network will offer faster broadband connections, improved functionality and 3G-equivalent cellular phone services for Iridium’s pool of nearly 870,000 subscribers, a client list that includes the U.S. military, oil and gas companies, aviation and maritime operators, and mining and construction contractors.
+
+“The satellites’ faster processors, larger memory and modern engineering design are delivering better voice quality as well as faster data throughput for our maritime, aviation and IoT (Internet of Things) customers,” Desch said. “While our current network is performing amazingly well for its age, the statistics for our newest satellites are even better.
+
+“I can’t wait for coming launches and the impact of the additional (Iridium) Next satellites will have on the overall work performance, and that’s even before we introduce new services,” he said.
+
+All of the Iridium Next satellites now entering service also carry piggyback payloads for Aireon, an affiliate of Iridium, to help air traffic controllers track airplane movements worldwide. Four of the Iridium Next satellites launched in January host an antenna to monitor maritime traffic for exactEarth, a Canadian company, and Harris Corp. of Melbourne, Florida.
+
+Tom Fitzpatrick, Iridium’s chief financial officer, said Thursday that the company is now earning its first revenue from the new Iridium Next satellites.
+
+“For the first time this quarter, we are realizing revenue from hosting and data services on our first batch of Iridium Next satellites,” Fitzpatrick said.
+
+“In Q1, we realized less than $100,000 in revenue from Aireon and Harris Corp. based upon several Iridium Next satellites been put into service during the quarter,” Fitzpatrick said. “With eight next generations that now operational, we anticipate the revenue from hosting and data services will continue to ramp with each successful launch and incremental Iridium Next satellites placed into service in 2017.”
+
+Aireon took control of the first airspace monitoring payload on an Iridium Next satellite in early March, kicking off tests to verify the orbiting instruments can locate aircraft around the world.
+
+Air traffic authorities in Canada, Ireland, Italy and Denmark are part of the Aireon joint venture with Iridium.
+
+Organizations responsible for managing airspace in France and Spain have signed agreements with Aireon since the January launch to evaluate the airplane tracking service, and the Federal Aviation Administration conducted the first test of the Aireon system using a flying laboratory in March to check its performance for potential use by U.S. air traffic controllers.
+
+“A flight test coordinated with the FAA was the ultimate validation accomplishment for the Aireon system to date and is a textbook example of how a public-private partnership can thrive,” said Vinny Capezzuto, chief technology officer and vice president of engineering at Aireon.
+
+The arrival of new Iridium Next satellites in orbit allows engineers to retire older satellites.
+
+Desch said Iridium decommissioned the first of its now-disused satellites, Space Vehicle No. 40, a few weeks ago. The satellite, which launched on a Delta 2 rocket in November 1997, fired thrusters to lower its orbit below the Iridium fleet, emptied its propellant tanks, depleted its batteries, opened its electrical relays and positioned its solar panels for maximum drag, he said.
+
+The maneuvers ensure most Iridium satellites will re-enter the atmosphere and burn up with a year after completing the decommissioning procedures, according to Desch.
+
+Two more aging Iridium satellites will go through a similar process in the next few weeks, he said.
+
+Some of the healthiest first-generation satellites will be moved to a temporary storage orbit around 12 miles (20 kilometers) below the operational constellation as spares.
+
+“Those legacy satellites lowered to storage orbit will be maintained as contingency measures until all 75 Iridium Next satellites are in service,” Desch said. “As a practice, we’re keeping the best of the legacy satellites in orbit as either operational satellites or temporary spares, and then we’ll de-orbit the rest pretty quickly.”
+
+“We will continue this process for all legacy satellites that we aren’t using as temporary spares, and will eventually de-orbit all the Block 1 spares after Iridium Next is completed next year,” Desch said.
+
+Skywatchers used to observing Iridium satellites, known for their bright flares around sunrise and sunset, should be sure to catch a glimpse over the next year. The design of the company’s refreshment satellites is not expected to produce the flares.
+
+Email the author.
+
+Follow Stephen Clark on Twitter: @StephenClark1.","{'label': 'Neutral', 'score': 0.9999582767486572}",neutral,0.9999582767486572,0
+DCNS To Build Next French Naval Frigates - MarineLink,"Fri, 21 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1hcmluZWxpbmsuY29tL25ld3MvZnJpZ2F0ZXMtZnJlbmNoLWJ1aWxkNDI0NDk50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"DCNS said it has been awarded a contract from the French Defense Ministry for the development and construction of five intermediate-size frigates (FTIs) intended for the French Navy. DCNS will propose a French version of its new BELH@RRA frigate. The first of the five frigates from this French Defense Procurement Agency (DGA)-managed program should be delivered in 2023 with an entry into active service in 2025.
+
+A latest-generation digital frigate for the French Navy
+
+The new BELH@RRA frigate will be designed and developed by DCNS, in joint project management with THALES for the development of the new-generation radar it will be equipped with.
+
+The initiation of the FTI program will benefit the DCNS Group's employment basins, the foremost of which being the DCNS Lorient site and its subcontracting partners: the design of the BELH@RRA frigates represents about two million hours of work for the DCNS design offices. For the entire DCNS Group, the construction of a BELH@RRA frigate represents on average two million hours of work, of which three hundred thousand hours for the design offices.
+
+Hervé Guillou, Chairman and CEO of DCNS, said, “DCNS is proud to contribute, alongside THALES, to the renewal of the French naval forces thanks to a new vessel responding to the needs of a world-class navy. It is key component of our range of military vessels and the attribution of this contract also allows us to develop a frigate that addresses the expectations of a dynamic international market.”
+
+A world-class frigate of a displacement of 4,000 metric tons intended for anti-submarine warfare, the French version of the BELH@RRA is designed to respond to the various French national needs. It will be endowed with extended self-defense and special forces projection capacities. Last but not least, it will integrate the new THALES SEA FIRE four flat antenna radar and will be equipped with Aster 30 missiles from MBDA.
+
+The first frigate for “digital natives”
+
+Developed for crews that will take the commands around 2020, the BELH@RRA frigates will benefit from the very latest digital technologies. They will, in particular, be equipped with a latest-generation combat system. This will bring greater rapidity for tactical analysis, decision taking and weapons deployment.
+
+The integration of the latest digital technologies will ensure that the vessel will be able to evolve over a period of almost forty years. The information-processing systems will be modernized incrementally to be adapted to changes in the operational context, the emergence of future threats and the short renewal cycles for new technologies.
+
+With the BELH@RRA frigate, DCNS intends to continue the success enjoyed by La Fayette-class frigates, a reference on the naval-defense market with over twenty units sold around the world. DCNS completes its product line by positioning this new frigate between the 6,000-metric-ton FREMM multi-mission frigate segment and that of the 2,500- to 3,000-metric-ton Gowind corvettes.","{'label': 'Neutral', 'score': 0.9846857786178589}",neutral,0.9846857786178589,0
+An end to getting lost at the airport? - Royal Aeronautical Society,"Fri, 21 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmFlcm9zb2NpZXR5LmNvbS9uZXdzL2FuLWVuZC10by1nZXR0aW5nLWxvc3QtYXQtdGhlLWFpcnBvcnQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airports can be busy, complex and confusing places - and not just for passengers - but to airliner crews themselves attempting navigate around unfamiliar terminals. TIM ROBINSON reports from a recent RAeS Heathrow Branch Lecture on improvements coming to onboard ground navigation systems.
+
+It is a paradox that the most highly automated bit of being an airline pilot these days is actually the most fun part - the ‘flying’ bit and the freedom of piloting an aircraft through the skies. Meanwhile, one of the most stressful, yet routine tasks, that of taxiing around an airport to and from a runway remains firmly a manual operation and essentially unchanged for decades.
+
+In the meantime, airport hubs have grown like topsy, becoming ever more complex and busy, with additional taxiways, signage, multiple gates and at many airports, ongoing construction projects or temporary restrictions.
+
+The result is that even for experienced pilots with the latest paper of electronic maps, navigating around an airport can be a disorientating experience - made worse by weather conditions (eg: fog), time of day (night or bright reflections in sunrise/sunset), confusing signage, or temporary restrictions - as well as having to take and understand directions from the ATC tower.
+
+It thus seems incredible that today, a modern airliner, equipped with the latest in navigation systems and avionics and able to autoland in zero visibility, taxiing around an airport in poor visibility, the crew might well be reduced to counting off the taxiways using their fingers to find the correct turn-off.
+
+"" runway incursions now are running at two a day in Europe and four a day in the US""
+
+But new technology is on the way to help. Giving an overview of the problem, solutions and future of airport navigation to a RAeS Heathrow Branch lecture in March were Pierre Carpentier (Product Line Manager Avionics Functions) and Olivier Frerotte (Design Authority, Airport Operations Functions) from Thales Group.
+
+Accidents and damage
+
+Dubai Airport uses a 'Follow the Greens' lighting system to help pilots navigate on the ground. (GCAA)
+
+Getting lost at the airport, is not just a matter of pilots’ bruised egos but can have safety and economic implications. While airlines have continued to maintain their outstanding safety record in the skies in recent years due to training and the latest equipment the upshot has been an increased focus on ground movement risks and incidents. The vast majority of these never make the news but the consequences, as in the world’s worst aviation disaster in Tenerife in 1977, can be fatal. Setting out the wide scale of the problem at the start of their talk, Carpentier and Frerotte noted that runway incursions now are running at two a day in Europe and four a day in the US. In addition, they observed, ground safety mounts up, with damage on the ground (clipped wingtips, collision with baggage trucks etc) costing airlines approximately $4-7bn a year.
+
+To improve navigation around busy airports, various solutions, both onboard and offboard, have been implemented or suggested. Taxiway lights, controlled by ATC are one system in use at London Heathrow and Dubai and rely on the aircrew to ‘follow the greens’ to reach the gate or runway. However, as well as a ground controller it also requires a lights operator, increasing manpower requirements for the airport. It thus will not be available at every airport. Another off-board solution mooted in recent years has been the Taxibot - a fuel efficiency system designed to tow airliners to the runway automatically before they start their engines. While low-fuel prices has meant that the Taxibot concept has so-far failed to take-off - it would also not aid the crews situational awareness themselves.
+
+Enter the moving map
+
+Onboard moving maps bring increased situational awareness to aircrews.
+
+A third solution, and rapidly gaining popularity, is the onboard moving map which Carpentier and Frerotte both work on for Thales. First introduced a decade ago on the Airbus A380 in 2007, the integrated airport map, (whether produced by Thales or its competitors) has now become standard on new airliners and top-of-the-line bizjets. In the latest Thales version on the A350 XWB, for example, a trackball allows pilots to zoom in and manipulate the display. Interestingly, one sector unrecptive so far to airport navigation moving maps has been regional aircraft - perhaps a reflection of the smaller, simpler airports that regional airlines operate from.
+
+Of course, we all have GPS devices in the form of smartphones and tablets - so why not just use Google Earth? Carpentier and Frerotte revealed that the high standards demanded by the aeronautical industry means a cockpit moving map must have accuracy far beyond a consumer device. For example 5m accuracy was required and the airport database updated every 28 days. The latency effect too meant that the moving map avionics uses both GPS and the aircraft’s inertial navigation to achieve 3-5m accuracy. For aircraft navigating narrow taxiways or positioning at large junctions, this high accuracy is vital.
+
+Leveraging consumer tech
+
+Video showing the latest Thales TopWings EFB moving map features (Thales)
+
+For older aircraft lacking the inbuilt airport moving map avionics of the A350, A380 or 787, one obvious solution is to put moving map functions onto EFB (electronic flight bag) device. This approach, leveraging the latest consumer tech of tablets and smartphones allows for a low-cost, rapid development retrofit solution. Thales, under its TopWings EFB, includes the Thales Pad, based on a ruggedised tablet. However, for EFBs vs inbuilt avionics there can be drawbacks - such as awareness only, it being limited to a cockpit side display (instead of a larger central MFD) and integration with avionics functions.
+
+At the lecture, Carpentier and Frerotte also showed off the newest version of Thales’ moving map technology integrated with TopWings and outlined future enhancements. In particular, the latest version, launched last year, takes its cues from smartphone and tablets in the way in which pilots interact with it with ’pinch and zoom’ touch controls. As well as the top-down view, a new 3D view tilts the view into a forward arc, above and behind the aircraft, enhancing the crew’s situational awareness. On a touchscreen display, pilots can now search for gates or taxiways with a ‘autocomplete’ style text search function. The moving map now includes automatic or manual taxi routing functions - with the user able to change the taxi route by dragging a finger on the screen to adjust the route - without having to type in new taxiways.
+
+As well as the in-built airport database of obstacles, buildings, gates and taxiways, the new moving map also allows crews to enter their own annotations on the map, for example warning of temporary obstacles or hazards - an extremely useful function for the next crew to fly to that airport. Conveniently, the EFB can now have up to four airport tabs open at the same time.
+
+Future enhancements
+
+D-Taxi would provide a datalink exchange for airliners during taxiing and ground operations. (Eurocontrol)
+
+Beyond this, future evolutions of airport moving map technology will see technology already in use in the air (such as datalink CPDLC and ADS-B tracking) introduced to cover the ground segment of operations too, allowing for a seamless environment. Datalink taxi routing (D-TAXI) , for example, will see clearances and taxiing routes sent by ATC to the aircraft’s moving map directly, with the pilot only having to approve a route. This will cut down on voice transmissions - often the source of errors themselves. This has already been tested under the European SESAR initiative.
+
+Meanwhile, incorporating ADS-B air traffic on the ground will allow for increased situational awareness and help prevent runway incursion tragedies such as Tenerife. Equipping airport ground vehicles too with ADS-B would also providea huge boost to crew’s awareness.
+
+Finally, Carpentier and Frerotte revealed that airport moving map guidance would also most likely be coming to airliner HUD (head-up displays) in the future. With Thales already providing HUDs for airliners such as the A350 XWB, integrating airport navigation with extra symbology to give a ‘virtual follow the greens’ line would enhance situational awareness by allowing the pilots to keep eyes out of the cockpit.
+
+Summary
+
+Graeme Catnach, RAeS Heathrow Branch Chairman thanks the speakers for their insightful lecture.
+
+This sort of moving map technology (which ironically car drivers take for granted these days with SatNavs), is a welcome step in moving ground operations into the 21st century. Old and bold pilots might argue that at many airports, experience and current signage is adequate to prevent getting crews getting lost. However, there still remain a worrying number of minor incidents, from collisions with ground vehicles, clipping buildings (or other aircraft) with wingtips and runway incursions that any improvement in situational awareness is a benefit - particularly as airports get bigger, more crowded and more complex.
+
+The lecture was rounded off by a Q&A session which, given its location (BA’s Waterside HQ) led to some extremely knowledgeable questions on the subject from local RAeS members. It also highlights a key strength of the RAeS in the local Branch’s ability to attract expert and knowledgeable industry speakers. Go attend your next local RAeS Branch event!
+
+Tim Robinson
+
+","{'label': 'Negative', 'score': 0.9934129118919373}",negative,0.9934129118919373,-1
+IAI emerges as lowest bidder for Indian Army's radar program - Defense News,"Mon, 03 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9icmVha2luZy1uZXdzLzIwMTcvMDQvMDMvaWFpLWVtZXJnZXMtYXMtbG93ZXN0LWJpZGRlci1mb3ItaW5kaWFuLWFybXktcy1yYWRhci1wcm9ncmFtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"NEW DELHI — Israel Aerospace Industries on Friday emerged as the lowest bidder against Thales of France for the Indian Army's $500 million procurement program of 66 new-generation 3-D surveillance and tracking radars, which will replace aging Flycatcher radar systems.
+
+
+
+However, signing of the contract with IAI will take time because the Indian Ministry of Defense will continue to pursue an even cheaper option for the program, a senior MoD official said.
+
+
+
+As per tender norms, IAI will discharge 30 percent of the contract value as offsets to Indian companies, he added.
+
+
+
+Executives from both IAI and Thales were unavailable for comments.
+
+
+
+Following the failure of an acquisition during its first attempt, the MoD floated a second Buy Global request for proposal in December 2012 to Raytheon of the United States, Thales, IAI, SELEX Sistemi Integrati of Italy and Rosoboronexport of Russia. The RFPs also were sent to two Indian companies — state-owned Bharat Electronics Limited and private sector Larsen & Toubro.
+
+
+
+Rheinmetall Defence of Germany was not given the tender because it was blacklisted in July 2010 for 10 years.
+
+
+
+However, only Thales, IAI, and L&T (with Cassidian, which is now Airbus, and Elta Systems of Israel) submitted a bid.
+
+
+
+
+
+Out of the three bidders, only IAI and Thales, both foreign original equipment manufacturers, were cleared after field trials from August to December 2015, followed by a commercial bid opening last week where IAI emerged as the lowest bidder.
+
+An initial RFP was issued in 2008 and was sent to Rheinmetall Defence, Thales, IAI, Rosoboronoexport, Bumar of Poland and Raytheon. Only Thales and Rheinmetall Defence filed their bids. The other vendors did not file their technical or commercial bids for the program.
+
+However, Rheinmetall Defence was rejected because it did not conform to the specified requirements for the Flycatcher's successor. And Thales could not field its radar for trials, thus its tender was withdrawn.
+
+An executive with industry advocate the Federation of Indian Chambers of Commerce and Industry, who spoke on condition of anonymity, said: ""For Indian private industry participating in this program, the import of radio frequency systems and parts [for radar] are classified as restricted items in India, and thus their import is in denial category for private sector companies without specific authorization, which resulted [in] months delay in imports severely constrained system assembly, integration and trials.""
+
+A senior Indian Army official said the Flycatcher radar systems currently in service are outdated. Flycatcher is a legacy system more than 20 years old, thus the system's replacement is essential for systems compatibility with the upgraded air defense gun program being undertaken, according to Rahul Bhonsle, a defense analyst and retired Indian Army brigadier.
+
+The CEO of a private sector defense company, speaking on condition of anonymity, said if the MoD had kick-started the Make in India program for 3-D surveillance and tracking radar systems in 2008, domestic companies would have supplied these radar systems by now. ""This is primarily for defending India's vulnerable assets and locations. Since all the critical technologies are already available within India, Indian OEM will be in a position to deliver contemporary system under Buy India category,"" he said.
+
+The senior MoD official said this program will go ahead and not be scrapped, but also noted that air defense fire control radars
+
+, while 3-D/4-D surveillance radars (both short and long range),
+
+​ are the future requirements of the Army, and these can easily be built by domestic companies either on their own or through program-level partnership with a foreign companies.
+
+""There is a distinct possibility of converting this program into Make in India; it is surprising why same has been perused based on a legacy request for information and request for proposal. Today, Indian companies in public and private sector have the capability to manufacture these, albeit in tandem with technology collaboration,"" Bhonsle said.
+
+Vivek Raghuvanshi is the India correspondent for Defense News.","{'label': 'Neutral', 'score': 0.9982258677482605}",neutral,0.9982258677482605,0
+PTDI CN-235 Update - Asian Military Review,"Wed, 05 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMTcvMDQvcHRkaS1jbi0yMzUtdXBkYXRlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Indonesian Aerospace (PTDI) can be taciturn unless you visit the firm’s Bandung facility in the west of the island of Java, or alternatively if they are exhibiting at an air show such as the 2017 Langkawi International Maritime and Aerospace exhibition on the Malaysian island of Langkawi.
+
+During the exhibition, PTDI was energetically marketing its CN-235 turboprop special mission aircraft. The firm builds the CN-235 under licence from Airbus. The Indonesian company has worked on two batches of CN-235MPA maritime patrol aircraft under the Indonesian government’s Maritime Patrol-1 (MARPAT-1) and MARPAT-2 contracts in recent years. Tackling piracy, smuggling, people-trafficking and illegal fishing is now a top priority for a country boasting the biggest archipelago in the world.
+
+The first batch of three CN-235MPAs for the Indonesian Navy (Tentara Nasional Indonesia-Angkatan Laut/TNI-AL) have been integrated with a FLIR Systems Star Safire-III optronics payload and Thales AMASCOS mission system. All three of these aircraft are now operational with the TNI-AL’s 800 Squadron in Surabaya, East Java. Work on a second batch of three aircraft started in 2014, which saw the integration of the the Telephonics AN/APS-143C(V)3 Ocean Eye X-band (8.5 Gigahertz/GHz to 10.68GHz) airborne surveillance radar and a Star Safire-III system onto two navy CN-235MPAs and a single example for the Indonesian Air Force (Tentara Nasional Indonesia-Angkatan Udara/TNI-AU)
+
+Work to this effect commenced in 2015 and was completed by late 2016. However, the TNI-AU example has also been fitted with a Leonardo SAGE electronic support measure. The SAGE system allows the TNI-AU to detect and locate potentially threatening radar systems. There is a requirement for the first TNI-AU CN-235MPA delivered in 2007 to be upgraded now, probably with a similar systems, possibly including SAGE, but so far no contract has been signed. This aircraft was one of three ordered in 1996which were to be fitted with the Thales AMASCOS system. However only a single airframe was ever delivered (in 2007) because of the 1997 Asian financial crisis which saw the devaluation of the Indonesian rupiah. The balance of two aircraft were delivered in a transport configuration.
+
+Meanwhile PTDI’s Ade Yuyu Wahyuna, vice president of business development and marketing was keen to point out to asianmilitaryreview.com recent successes in other areas of CN-235 business. The company continues to market the CN-235ASW anti-submarine warfare aircraft with which it collaborated with Turkish Aerospace Industries on a Turkish Navy contract for six CN-235ASWs. It carried out the aircraft modifications and assembly of the aircraft’s magnetic anomaly detector boom; the only CN235s fitted with such a system. Moreover, in the unlikeliest of partnerships, PTDI worked with Israel Aerospace Industries’ (IAI) ELTA Systems division on a Republic of Korea Coast Guard acquisition for four CN-235-220MSA maritime surveillance aircraft between 2011 and 2012. PTDI built the aircraft’s radome which housed the IAI EL/M2022 X-band airborne surveillance radar.","{'label': 'Neutral', 'score': 0.9999969005584717}",neutral,0.9999969005584717,0
+Ocius Bluebottle on track for CTD test - Australian Defence Magazine,"Thu, 13 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL29jaXVzLWJsdWVib3R0bGUtb24tdHJhY2stZm9yLWN0ZC10ZXN00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Patrick Durrant | Sydney
+
+Following its launch in December last year, Ocius Technology's Bluebottle Stinger unmanned surface vessel (USV) has been undergoing trials in the lead up to a CTD program demonstration in August.
+
+In 2015, Ocius teamed with aerospace and defence electronics company Thales to win DST Group Capability Technology Demonstrator funding to develop a USV suitable for ASW. The prototype, christened Bruce and developed in conjunction with Steber International, has been put through its paces since February in the enclosed waters of Botany Bay and Lake Macquarie, but will soon be trialled in the open waters off Jervis Bay.
+
+ADM spoke with Ocius Technology CEO Robert Dane who said they were ahead of schedule for the pre-CTD trials and the protoype was achieving if not out-performing the key performance indicators (KPIs) that had been set.
+
+“Our speed KPI is 5 knots and we're doing six; we've got to sail within 50 metres of waypoints and we're sailing right over them; we're also exceeeding the sea state requirements,” Dane said.
+
+The 5.6 metre Bluebottle has been designed to carry a 105 kilogram payload which includes a winch, cable and a towed array or 'Stinger' developed by Thales. The array will be provided by Thales in May and Dane said that to date they had been towing drogues that replicated the drag measurements provided by Thales. An equivalent weight has been used for the proposed winch, which will also be fitted along with the array for the Jervis Bay trials.
+
+“It's not a significant drag, in fact during the trial on Botany Bay the boat seemed to be performing normally and I had to question whether the drogue had parted from the cable!” Dane said.
+
+The Jervis Bay and open ocean trials planned in May will further test the ability of the Bluebottle USV to perform to requirements. Dane confirmed the prototype had thus far been exposed to winds up to 25 knots in enclosed waters, but saw no reason why increased swell or wind conditions would hamper the performance of the craft.
+
+During the Lake Macquarie trial the Bluebottle's solar panel mast and power management system were tested and despite skies being overcast for 11 out of the 12 trial days, the diffuse light provided the solar sail and deck panels with power ranging from 100-350 watts.
+
+""Even on an overcast day, there's all this light that bounces between the cloud and the water – we were really pleased with the amount of solar power we were harnessing but also the amount of power being used by the boat.”
+
+With recorded morning battery levels indicating 80 per cent charge and the evening levels around 93 per cent, Dane felt satisfied the craft could operate sustainably for a very long period of time.
+
+“Theoretically it could operate for ever but the long-term effects of bio-fouling would counteract that.”
+
+The team had also conducted successful collision avoidance trials on the lake using automatic identification systems (AIS) commonly used by merchant shipping.
+
+“In the enclosed waters we had to apply geo-fencing so Bruce wouldn't venture into shallow water or navigation hazards, and then we approached it on a collision course with our support craft equipped with an AIS. Bruce demonstrated it was able to take avoiding action while at the same time staying clear of other hazards.”
+
+Ocius was also developing visual recognition software as a collision avoidance measure despite this not being a KPI for the CTD.","{'label': 'Neutral', 'score': 0.9999808073043823}",neutral,0.9999808073043823,0
+$2 billion for NASAMS GBAD system - Australian Defence Magazine,"Mon, 10 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzLzItYmlsbGlvbi1mb3ItbmFzYW1zLWdiYWQtc3lzdGVt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Government has provided approval for a single supplier limited Request for tender (RFT) for the development of a Short Range Ground Based Air Defence (GBAD) system to improve protection for deployed personnel under Project Land 19 Phase 7B.
+
+The tender will be released to Raytheon Australia in the first half of 2017 to develop its highly successful National Advanced Surface to Air Missile System (NASAMS) for the ADF. Raytheon will be the Prime System Integrator (PSI) for Army's future GBAD capability.
+
+Minister for Defence Senator Marise Payne said the project is the first step in the development of the Australian Army’s contribution to the ADF’s Integrated Air and Missile Defence (IAMD) Program announced in the 2016 Defence White Paper.
+
+The Government will invest up to $2 billion in the system which will provide the inner most layer of Australia’s enhanced integrated air and missile capability. Raytheon’s proposal for second pass consideration by Government will be based upon the Raytheon/Kongsberg NASAMS capability that is fielded in seven nations, including the US and Norway. The system can utilise different launchers, radar technologies and missile types for a range of different ground based air and missile defence missions.
+
+In collaboration with Defence and CEA Technologies, Raytheon Australia will also investigate the option of the Medusa system; an incorporation of Australian AESA sensor technology into the proven baseline of NASAMS.
+
+“Medusa is the only system that can provide short and medium range capability using in-service ‘dual use’ AIM-9X and AMRAAM missiles, as well as AMRAAM-ER (still in development), providing a single system to meet both Army’s short range and RAAF’s medium range Ground Based Air and Missile Defence requirements,” Raytheon Australia MD Michael Ward told ADM in September 2016.
+
+The capability will be operated by the Army’s 16th Air Land Regiment.
+
+“A modern and integrated ground-based air defence system is needed to protect our deployed forces from increasingly sophisticated air threats, both globally and within our region,” said Minister Payne.
+
+“Australia’s current short-range capability is 30 years old and due to be retired early next decade. The replacement system will provide improved protection for our deployed servicemen and women.”
+
+Minister for Defence Industry Christopher Pyne said the Government will ensure there are opportunities for Australian industry participation, with direct access to Raytheon Australia for local businesses to showcase their abilities via a Risk Mitigation Contract.
+
+“As part of this contract Raytheon will hold workshops across the country to engage with local industry, giving them an opportunity to be part of the supply chain for this project worth up to $2 billion.
+
+“Defence will collaborate with Raytheon Australia and Canberra-based CEA Technologies to look at integrating the Canberra-based firm’s radar into an upgraded NASAMS.
+
+“CEA Technologies’ ground breaking phased array radar system has already been incorporated into Australia’s ANZAC class frigates and this project will trial the technology in a land-based role.”
+
+Through the Risk Mitigation Activity Defence and Raytheon will also investigate using Thales Australia’s ‘Hawkei’ protected mobility vehicle, manufactured in Bendigo, Victoria, as a potential platform for the system’s missile launchers.
+
+Defence will complete a detailed analysis prior to returning to Government for final consideration in 2019.
+
+For more read ADM Editor Katherine Ziesing's article covering Air 6500 and Land 19 Phasse 7B.","{'label': 'Positive', 'score': 0.7673203349113464}",positive,0.7673203349113464,1
+"IDEX 2017: Thales New F90 Export, Distribution of F90s Through Caracal - - The Firearm Blog","Tue, 18 Apr 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWZpcmVhcm1ibG9nLmNvbS9ibG9nLzIwMTcvMDQvMTgvaWRleC0yMDE3LXRoYWxlcy1uZXctZjkwLWV4cG9ydC1kaXN0cmlidXRpb24tZjkwcy1jYXJhY2FsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Firearm Blog would like to extend its thanks to reader and contributor Giorgio, who lent his journalistic services to us at this years IDEX conference in Abu Dhabi in February. Thanks, Giorgio!
+
+At the 2017 International Defense Exhibition and Conference (IDEX), Caracal presented several new weapons which they are currently or will soon be license-producing or distribution. The first of these is the export variant of the Thales F90, which is evidently going to be distributed via Caracal into the region:
+
+Thales new F90 export rifle differs considerably from the previously displayed F90s and EF88s that we have seen. The front end appears to be basically identical to the previous rifles, but the rear end is completely different. The new F90 chassis is considerably smaller than the previous version, and comes with the addition of a new magazine release location in front of the trigger guard, somewhat like the familiar AR-15. A lower and more ergonomically placed ambidextrous bolt catch should – in conjunction with the new magazine release – allow for more rapid reloads. Just behind that is a new set of QD sling mounting points, one on each side. The construction lower itself has been changed too; gone is the vibration welding of all previous AUG variants, and in its place the two stock halves are screwed together, similar to how the P90 and F2000 are put together. This likely reduces cost, as vibration welding can be imprecise and lead to a higher rejection rate than the uglier but functional bolt together method. Finally, the F90 export variant uses the near-ubiquitous AR-15 pattern of magazine, instead of the translucent polymer AUG pattern.
+
+EDIT: Sources tell me these are in fact early prototypes of the F90 NATO variant, and production versions will have vibration-welded halves like the AUS F90 and AUG. Also, the forward magazine release does not interfere with the grenade launcher mounting.
+
+Photos of the new Thales F90 export at the Thales booth, courtesy of SITTA (Le Service des Informations Tactiques et Techniques des Armements), used with permission:
+
+In the next post, we’ll get into two other firearms that will be distributed through Caracal, including one notable handgun that is being license-produced right in the UAE.
+
+About IDEX: The International Defence Exhibition and Conference (IDEX) is the largest defence and firearms exhibition in the Middle East. It has been held bi-annually since 1993, and boasted an attendance over 100,000 in 2017 (for comparison, the 2017 SHOT Show had an attendance of about 65,000). IDEX is a general defense show rather than firearms-specific, but due to its huge size and regional importance it is often the scene for many small arms-related announcements.","{'label': 'Neutral', 'score': 0.9999958276748657}",neutral,0.9999958276748657,0

@@ -1,0 +1,413 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Space Q&A: all about Stratobus - Thales,"Fri, 22 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9zcGFjZS1xYS1hbGwtYWJvdXQtc3RyYXRvYnVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Space Q&A: all about Stratobus Share this article
+
+
+
+LinkedIn
+
+Space Q&A. Hello Jean-Philippe Chessel
+
+JPC. Hello
+
+Space Q&A. You're in charge of the Stratobus program at Thales Alenia Space. Could you briefly describe this program for us?
+
+JPC. Stratobus is a concept for an autonomous stratospheric platform, midway between a satellite and a drone. The project was selected by the French Ministry of Industry and Digital Technology within the scope of the New Industrial France program, and is being carried out with a group of partners, including Airstar Aerospace and CEA-Liten. Thales Alenia Space is the industrial prime contractor. Stratobus is a 5-ton airship, operating at an altitude of about 20 kilometers (above the airspace dedicated to air traffic and the jet stream), that can host payloads of 250 kg and provide 5 kW of power. It will be 100 meters long, 33 meters maximum diameter, and offer a lifespan in the stratosphere of five years. Stratobus has been endorsed by the Pégase competitiveness cluster, in charge of launching a dirigible industry in France.
+
+Space Q&A. What type of applications will it be used for?
+
+JPC. Stratobus is a multimission platform, intended for both civil and military applications. On observation missions, it will mainly be used for surveillance (secure industrial sites, border monitoring, early detection of piracy at sea) and environmental management (erosion, detection of maritime pollution, weather measurements, maritime traffic management). The oil & gas industry has also shown keen interest, because it would help identify threats under any weather conditions, using a radar payload, along with sensors operating in the visible and infrared bands, with image resolution down to 10 cm. In the maritime sector, Stratobus will be able to detect a suspect boat at 200 km, alert the appropriate authorities, and anticipate the risks of piracy, especially on oil platforms. It would also be possible to deploy four or five Stratobus platforms to monitor 1,000 km of borders, all year long and in any weather.
+
+In the telecom sector, Stratobus could be used to bridge the digital divide in regions where Internet is not yet accessible (desert zones in Africa, for instance), and to bolster the GSM network for major events such as the Olympics.
+
+Stratobus could also be used for navigation, for instance to augment GPS coverage in dense traffic zones. And it could be used during natural disasters, such as the recent earthquake in Nepal, to reestablish Internet and telephone connections for better management of humanitarian efforts. One of the major advantages of Stratobus is that it's transportable, because of its modular design, allowing it to be packed in standard shipping containers. That means it is perfectly capable of being shipped by sea, rail or air. Furthermore, it doesn't need a launch system; an area the size of a football field is enough for it to take off and reach the stratosphere in less than four hours.
+
+Space Q&A. Both the press and social networks have given Stratobus extensive coverage in the last year. How do you explain this enthusiasm?
+
+JPC. The concept is based on innovative technologies. For instance, Stratobus uses a solar concentrator inside the balloon (Thales Alenia Space patent) and a reversible fuel cell that provides a large amount of onboard energy, while minimizing weight and the envelope's surface area, day or night. Another innovation is that Stratobus uses a ""ring around the balloon"" to allow it to rotate so that it's always facing the Sun during the day, in all seasons. The reversible fuel cell is powered by a solar array, and stores enough energy during the day to power Stratobus at night. It uses two electric motors located on either side of the balloon to maintain its stationary position.
+
+Space Q&A. Public opinion was obviously shaped at the time by the Hindenburg disaster in 1937. But technologies have changed today. What makes the Stratobus concept different from the Hindenburg generation of airships?
+
+JPC. The Hindenburg was a tropospheric airship with a semi-rigid structure that carried passengers. Stratobus has an envelope made of flexible materials, non-rigid on purpose, slightly over-pressurized, to reduce weight. Tremendous technological progress has been made on this envelope, specially developed for Stratobus. In fact, it comprises three envelopes with specific functions: two of them to contain the lifting gas, and the third made of a very strong carbon fiber fabric, the same as used on the sails of certain racing yachts. This technology, confirmed by Air Liquide, guarantees the security of the stratospheric platform, in relation to the risk of inflammable hydrogen. Furthermore, the envelope can be used with helium as well as hydrogen.
+
+Space Q&A. Similar projects are being presented in the United States (Google's Loon balloons), Europe and Japan. From the technical standpoint, how is Stratobus different?
+
+JPC. The solar concentrator and the ring that enables rotation of the envelope are significant differences, maximizing power-to-weight ratio and reducing size. The envelope can be folded up and placed in a 40-foot container, which means it was designed for easy transport. It is both lighter and stronger than the stratospheric airship projects soon to be introduced in the States. The onboard power also enables it to remain permanently stationary, a feature that it is the only one to offer among the HAPS [High Altitude Platform System] projects. Furthermore, it's repositionable, autonomous, and resistant to the wind, thanks to motors powered by photovoltaic cells, via the reversible fuel cell. Japan conducted flight tests of two large, non-powered stratospheric balloons in 2010. But the project was halted because Japan decided to prioritize its space program. In Europe, there is not really any competing solution on the market. I would just mention the Capanina dirigible that ESA flew for a week in the middle of the 2000s, to validate a radio-frequency link with the ground.
+
+
+
+Space Q&A. In which region would Stratobus be most effective?
+
+JPC. Based on over 20 years of stratospheric measurements using CNES sounding balloons, confirmed by data from NASA, we can state that the wind speed in the tropics does not exceed 90 km/h throughout the year. Stratobus's power enables it to counter winds of this force, and remain stationary. So its can handle five-year missions, with annual ground maintenance of a couple days every year. During these maintenance stops, a spare Stratobus would ensure mission continuity for the full five-year span. In France, for example, the Stratobus could be used continuously for eight month non-stop missions. Statistical data from [French space agency] CNES shows that during the four coldest months of the year, the winds in France may reach 110 km/h in the stratosphere. In this specific case, there are two options: either let Stratobus drift for a predefined time period; or bring it down. It can descend in less than four hours. Outside of zones in the tropics, Stratobus could be used for seasonal missions, such as forest fire monitoring during the summer, etc.
+
+Space Q&A. What types of customers/businesses would be interested in this concept?
+
+JPC. Because it's a multi-mission concept, there are a large number of potential customers: telecom operators, governments, defense departments, oil companies, gendarme and police forces, etc.
+
+Space Q&A. What are the competitive advantages in choosing Stratobus?
+
+JPC. Stratobus doesn't need a launcher to reach the stratosphere, and its price is very competitive. Operating on a regional basis, within a radius of 200 km, it can handle a large number of missions, both military and civil. Another main advantage is that it's stationary, autonomous, and above all repositionable, to follow changing customer requirements. Stratobus could well be used for defense as well, to inform and protect soldiers in different theaters of operation. The space sector today is undergoing major changes. For telecoms, in particular, customers now expect flexibility, modularity, competitiveness and production under tight deadlines. Stratobus perfectly reflects this new technological landscape, which is increasingly demanding in terms of innovative solutions.
+
+
+
+Space Q&A. What's the current program status?
+
+JPC. To meet our time-to-market goal, we have to complete the development of key technologies, build subsystem prototypes and finalize the design in just two years, from early 2016 to end-2017. From 2018 to 2019, we will build the first Stratobus, Prototype Flight Model (PFM). Then we will need six months to a year for flight testing, to be certified and receive flight authorization so we can start production.
+
+Space Q&A. When would it be available?
+
+JPC. The product will be commercialized towards 2020.
+
+Space Q&A. How does Stratobus complement a conventional satellite solution?
+
+JPC. Stratobus is in no way a substitute for the traditional satellite market. On the contrary, because of its dedicated regional scope, it is a perfect match for satellites' global coverage
+
+Space Q&A. Thank you, Jean-Philippe Chessel, for having answered our questions. Stay tuned for the next Space Q&A!
+
+VIDEO: Stratobus, halFway between a drone and a satellite","{'label': 'Neutral', 'score': 0.9999995231628418}",neutral,0.9999995231628418,0
+Thales to compete for Rifleman Radio orders - UPI News,"Thu, 14 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTUvMDUvMTQvVGhhbGVzLWdyYW50ZWQtbXVsdGlwbGUtYXdhcmQtSURJUS1jb250cmFjdC1mb3ItQXJteS1yYWRpb3MvMzkxMTQzMTU3NDYwOS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales' AN/PRC-154A Rifleman Radio. Photo by Thales.
+
+ARLINGTON, Va., May 13 (UPI) -- The U.S. Army has contracted Thales to provide it with Rifleman Radio systems through an indefinite-delivery/indefinite quantity award. The award, which allows Thales to compete for orders under the Rifleman Radio program, has a five-year base period of performance with a five-year option. Advertisement
+
+The Army's acquisition strategy is to let multiple award recipients to compete for individual orders once their initial radios are delivered and pass qualification testing.
+
+The approved radios are to be fielded beginning in 2017.
+
+Thales said the Army's projected IDIQ contract cost through 2025 for radios, including accessories, technical support and sustainment, is a maximum $3.9 billion.
+
+Thales is offering the Army its AN/PRC-154A Rifleman Radio, which provides voice and data simultaneously.
+
+""Thales remains committed to the Rifleman Radio program and to supporting the Army's network modernization initiative,"" said Michael Sheehan, president and chief executive officer of Thales Defense and Security Inc. ""We look forward to continuing to deliver the nation's soldiers a decisive advantage on the battlefield.""","{'label': 'Neutral', 'score': 0.9977601766586304}",neutral,0.9977601766586304,0
+Thales chairman-elect Proglio quits in spat over Russian interests - Yahoo Finance,"Tue, 12 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHA6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL3Byb2dsaW8tZ2l2ZXMtY2hhaXJtYW5zaGlwLWZyZW5jaC1kZWZlbnNlLTA3MzMwNjk2MC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Henri Proglio, Chief Executive Officer of France's state-owned electricity company EDF, visits the World Nuclear Exhibition 2014, the trade fair event for the global nuclear energy sector, in Le Bourget, near Paris October 15, 2014. REUTERS/Charles Platiau
+
+By Jean-Baptiste Vey and Jean-Michel Belot
+
+PARIS (Reuters) - Henri Proglio gave up the chairmanship of defense group Thales (TCFP.PA) on Tuesday, bringing into the open a simmering row with Economy Minister Emmanuel Macron over the veteran French businessman's Russian interests.
+
+Macron had this month asked the former boss of power utility EDF (EDF.PA) to cut his ties with state-owned Russian nuclear company Rosatom if he wanted the Thales role.
+
+In an interview with Le Monde newspaper on Tuesday, Proglio announced he would not take the chairman's job and accused Macron of conducting a smear campaign.
+
+""I have had enough of suspicion, of humiliation ... This has to stop, taking me for a puppet, a spy, a greedy man, a traitor,"" he was quoted as saying.
+
+""For weeks now I have been sullied by a campaign fed by Bercy,"" he added, in reference to the ministry's Paris headquarters.
+
+Proglio, 65, had survived for three years under a Socialist government as a key figure in state-controlled corporate life, despite being an appointee of a previous center-right government under former President Nicolas Sarkozy.
+
+Against expectations, President Francois Hollande kept him on as head of EDF after taking power in 2012, and had backed him as Thales chairman when the company's other main shareholder, the Dassault family, proposed him in December.
+
+Macron denied any campaign against Proglio, whose decision comes a day ahead of an annual shareholder meeting that would have effectively confirmed him in the Thales chairmanship.
+
+""It was normal that we asked Henri Proglio to choose between taking on a non-executive role at the head of Thales and his undertakings, actual and paid, close to major players in the Russian military and civil nuclear sector,"" Macron told reporters.
+
+""It seemed incompatible to us. It's not a problem of law, it's a problem of ethics and conflict of interest.""
+
+POLITICAL REASONS
+
+Thales is a major contractor for Dassault Aviation's (AVMD.PA) Rafale jets and for the Mistral helicopter carriers, whose delivery to Russia has been delayed due to western concerns over its part in the Ukraine crisis.
+
+Story continues
+
+In the interview, Proglio said concerns about his Russian interests were ridiculous and a ruse to get him out of the job to punish him for his Sarkozy connections.
+
+""Behind all this is an attempt to bring down a man for political reasons ... I defy all attempts to pigeonhole me politically. I am above all a businessman.""
+
+Proglio is a board member of ABR Management, part of Russian Bank Rossiya, which is subject to U.S. sanctions against Russia.
+
+According to Le Monde, he also sits on the boards of two companies tied to Rosatom: Akkuyu Nuclear JSC and Fennovoima Ltd, created to handle nuclear power projects in Finland and Turkey.
+
+Macron said Thales' existing chairman and CEO, Patrice Caine, would lead the search for a replacement. The state and the Dassault family each hold about a quarter of Thales.
+
+Thales, whose shares were down 2 percent, declined comment.
+
+(Writing by Andrew Callus; Editing by David Holmes and Keith Weir)","{'label': 'Neutral', 'score': 0.9995593428611755}",neutral,0.9995593428611755,0
+Thales selected for U.S. Army Rifleman Radio program - Thales,"Wed, 13 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvcHJlc3MtcmVsZWFzZS90aGFsZXMtc2VsZWN0ZWQtdXMtYXJteS1yaWZsZW1hbi1yYWRpby1wcm9ncmFt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales selected for U.S. Army Rifleman Radio program Share this article
+
+
+
+LinkedIn
+
+Thales has recently been selected to provide the U.S. Army with Rifleman Radio systems. This award, under a ten-year (five-year base with five-year option) indefinite-delivery/indefinite-quantity contract, will allow Thales to compete for the different orders of the program.
+
+The selection is for the Rifleman Radio Full Rate roduction (FRP) program, also part of the U.S. Army’s Joint Tactical Radio System (JTRS) Handheld, Manpack and Small-form Fit (HMS) program. The Army’s projected contract cost through 2025 for radios, accessories, technical support and sustainment, will not exceed $3.9 billion.
+
+The Army’s acquisition strategy is to compete individual delivery orders following qualification testing. Testing will be performed on radios delivered under the initial delivery order. Qualified radios are expected to begin being fielded in 2017.
+
+Thales’ enhanced AN/PRC-154A Rifleman Radio is the most advanced, fielded, and proven soldier radio on the market, delivering voice and data simultaneously. It provides secure, inter-squad, networked communications and situational awareness to the soldier at the tactical
+
+edge of the battlefield, improving mission effectiveness.
+
+Thales has been involved in the development and fielding of the Rifleman Radio since 2004 under Low Rate Initial Production (LRIP). The Army has procured more than 21,000 radios to date under the LRIP.
+
+""Thales remains committed to the Rifleman Radio program and to supporting the Army’s network modernization initiative. We look forward to continuing to deliver the Nation’s soldiers a decisive advantage on the battlefield. With the Thales Rifleman Radio soldiers will be provided with the best in class solution using the most capable soldier radio on the market.” - Michael Sheehan, President and CEO, Thales Defense and Security, Inc.
+
+Thales has leveraged over two decades of handheld radio design experience in its latest Rifleman Radio solution, which exceeds the original program requirements by improving battery life, mission weight, and waveform performance while also enhancing the user interface.","{'label': 'Positive', 'score': 0.6425479054450989}",positive,0.6425479054450989,1
+IFC system security in the fray as industry eyes ACARS opportunity - Runway Girl Network,"Thu, 21 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTUvMDUvc3lzdGVtLXNlY3VyaXR5LWluLXRoZS1mcmF5LWFzLWluZHVzdHJ5LWV5ZXMtYWNhcnMtb3Zlci1pcC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"As multiple airlines exploit inflight connectivity systems for operational data – and the industry is seeing a push to move non-safety ACARS traffic over broadband pipes – the overall demand for bandwidth is growing, as is the need for higher security, reliability and redundancy.
+
+Earlier this year at the Aircraft Interiors Expo (AIX) in Hamburg, Thales InFlyt Experience VP of sales Mike Moeller suggested that limiting connectivity on a plane to a single network might work against the overall goal of providing sufficient bandwidth and redundancy. “Let’s have the technology on the aircraft so that wherever I fly I use the best network available,” he said.
+
+For normal consumer usage this might just be a cost or convenience consideration, but when ACARS data gets involved it is a much more serious issue, especially at a time when security researchers (they of the white hat and presumably the black hat variety) are seeking to find vulnerabilities in IFE and connectivity systems, and garnering headlines for their experiments.
+
+During AIX, Thales InFlyt Experience CEO Dominique Giannoi spoke of his company’s ability to transmit operational data – think airplane health monitoring, real-time electronic flight bag (EFB) applications, credit card transactions, etc – plus non-safety ACARS data, and even black box data in the event of an emergency, over larger, faster, cheaper bandwidth sources, like Thales’ regional Ka connectivity solution (powered by ViaSat Exede) or its forthcoming Global Xpress Ka offering, when the delayed service becomes available.
+
+Giannoi said his company’s history in securing global financial transactions and the ability to migrate some of that technology into the inflight arena will aid its work in this regard.
+
+“We already have the infrastructure, the tools, the software in place to secure highly sensitive data. We will move this into the airline world. Our vision is that In the future we will use the best pipe available to transfer data in a very secure way,” he said.
+
+Born out of necessity in the late 1970s as an automated time clock system for crew, and later fully integrated with two-way interfaces to flight management, data recording, maintenance, cabin crew and flight crew with the dawn of the Boeing 747-400, ACARS has morphed into a catchall datalink for all sorts of safety and non-safety utilizations. Messages may be of three broad types – Air Traffic Control (ATC), Aeronautical Operational Control (AOC) and Airline Administrative Control (AAC) – and are usually transmitted via VHF, HF and/or L-band satcom with either SITA OnAir or Rockwell Collins (through its ARINC buy) acting as service providers.
+
+However, because ACARS wasn’t well structured from the beginning, there is nothing in a message telling you this is safety or non-safety. This is just one of myriad issues that must be addressed as industry explores migrating non-safety ACARS data to broadband.
+
+ACARS-over-IP is a term folks have been using for quite a while. “I think SAS was doing a trial with Teledyne in 2006, so it has been around for a long time. The difficulty [was] both the fact that you [didn’t] have a very advanced IP network on board the aircraft, and the pipes that were supporting ACARS over IP before were relatively small,” noted Andrew Kemmetmueller, Gogo’s new VP of Connected Aircraft Services during AIX. “So with a broadband pipe now on the aircraft that’s available both in the air and on the ground, connected to pretty advanced IP systems on board, server functionality, etc, we’re now able to really support what we call ACARS-over-IP functionality very well.”
+
+The industry seems to be in general agreement that true safety services should remain on dedicated Inmarsat and Iridium L-band channels for obvious security reasons. Ku and Ka-band connectivity providers “can do flight bag updates cheaply” and other ops-related transmissions, “but you’ll still need us on board, especially because of our ability to be certified as a safety service” per ICAO’s requirements for the Future Air Navigation System (FANS), said Iridium CEO Matt Desch. Iridium and its forthcoming nextgen service over Iridium NEXT satellites “will be on a lot of those aircraft” fitted with Ku and Ka, he added, and Inmarsat’s SwiftBroadband will be “primary competition in this” in the coming years.
+
+Then of course comes the issue of packaging it all together, and providing more attractive pricing for airlines. Glenn Latta, president of Thalys InFlyt Experience’s Connectivity & TV segment, acknowledged that bundling the systems together is something the company would consider for customers. When specifically asked if Thales was packaging the regular connectivity service with the Iridium NEXT safety services solution Latta replied, “We have the opportunity to do that.”
+
+The last remaining piece comes with getting all of that hardware on an aircraft without causing significant increases in drag or weight. Ka-band and Ku-band antennas for inflight connectivity and live television, respectively, already fit under a single radome on hundreds of aircraft flying with Thales’ solution on JetBlue and a portion of United’s Boeing narrowbodies. RGN has learned that there is still room under that radome, especially for a smaller antenna like that used for the Iridium NEXT connection. This sort of packaging “looks feasible today”, confirmed Iridium director of product management Brian Pemberton last week at the APEX Technology Conference in Los Angeles. It seems that all of the pieces of that particular puzzle are there; it is only a matter of assembling them into the right bundle and finding a buyer.
+
+Additional reporting by Mary Kirby
+
+Featured image credited to istock.com/Clare Bonthrone","{'label': 'Neutral', 'score': 0.8307356238365173}",neutral,0.8307356238365173,0
+6 Innovative In-Flight Technologies Keeping Passengers Distracted - Skift Travel News,"Wed, 13 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc2tpZnQuY29tLzIwMTUvMDUvMTMvc2l4LWhhbmQtbWUtZG93bi1pZmUtc29sdXRpb25zLXdoaWNoLWFyZS1wcmV0dHktZ29vZC1uZXdzLWZvci1wYXNzZW5nZXJzL9IBamh0dHBzOi8vc2tpZnQuY29tLzIwMTUvMDUvMTMvc2l4LWhhbmQtbWUtZG93bi1pZmUtc29sdXRpb25zLXdoaWNoLWFyZS1wcmV0dHktZ29vZC1uZXdzLWZvci1wYXNzZW5nZXJzL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en,"Hybrid IFE/wIFE and “hand-me-down” mixed installations are where we’re headed industry-wide for video entertainment, but—some apps aside—the always-reliable in-flight magazine will continue to enjoy pride of place in the seat pocket in front of you.
+
+The days of one type of in-flight entertainment (IFE) for the rich at the front of the aircraft and another for the poor folks stuck at the back are still with us — and staying that way.
+
+But advances in technology are giving birth to the era of “trickle down IFE”—flexible systems which let airlines to pass on the benefits of premium entertainment content to cabin sections and on routes where, previously, little or no IFE was available.
+
+Airlines have recognized that they must do something to appease weary and crowded passengers. IFE systems play an important role in this strategy, but traditional embedded seat-back IFE systems represent a large capital investment, and require more investment in new seats built-to-fit or a retrofit of existing seats—neither of which is cheap. Plus, the regulatory requirements and lead-times to develop these systems often means they are dated compared to other consumer electronics, even immediately after their installation.
+
+Because of this, airlines have usually kept IFE exclusive to long-haul flights, with some over-head entertainment on mid-haul flights. For the most part, short-haul flights have enjoyed quality in-flight magazines.
+
+But developments in recent years are changing this model, and making the installation of IFE on mid-haul and short-haul routes tempting to airlines. Solutions vary from hardware and wireless in-flight entertainment (wIFE), or a combination of these two.
+
+Here are six recent IFE/wIFE innovations which have airlines taking a fresh look at entertainment:
+
+Gogo has gone goo-goo for content. The new Gogo content portal, which brought a rich and varied collection of content to Delta Airlines last year, is now also giving American Airlines passengers something extra special to watch on flights which previously had no (or limited) in-flight entertainment.
+
+It gives passengers their choice of more than 400 titles including free movies, pay-to-watch movies, and exclusive television programs, accessed through the Gogo connectivity portal, with no need sign up for Wi-Fi onboard. The entertainment app can be loaded before boarding, or onboard the aircraft, or passengers using laptops can access the portal through their browser.
+
+Global Eagle Entertainment (GEE) already entertains passengers on airlines around the world, including Southwest, with a mix of free and on-demand movies and live-TV delivered to passengers’ electronic devices. It recently brought a fresh tune to the mix through a unique partnership with Beats Music, which launched on Southwest Airlines.
+
+In addition just revealed a new rotating antenna which can provide Global Ku-band high speed connections which will support uninterrupted Wi-Fi, video streaming, and live TV around the world.
+
+Lufthansa Systems’ BoardConnect brings a wide selection of content, Internet access and shopping direct to passengers’ portable electronic devices. Through a partnership with PXCOM, it’s also bringing handy features to its platform which include booking tickets for tours, making reservations for hotels or ground transport, and finding other helpful destination information. It also debuted a special seat-frame which will let airlines place the latest generation of tablets on seat-backs with a quick and easy installation.
+
+The Blue Box system makes providing IFE easy, offering a rich selection content either pre-loaded on its own locked iPads, which airlines hand out to passengers, or via an onboard streaming system which lets passengers enjoy the entertainment on their own devices (or both). Like other wIFE systems, passengers do not have to be connected to the internet to enjoy the show. Bluebook flies on a number of airlines around the world, with TAP Portugal adopting the system for its mid-haul routes just this February.
+
+Panasonic revealed its new eXO IFE/wIFE mix in-flight entertainment solution which lets airlines customize their aircraft configuration for embedded IFE, overhead IFE, wIFE or all three—whatever suits the airline’s route strategy. Airlines can upgrade or change the assortment of IFE equipment with little hassle. The company announced that China Southern, Asia’s largest airline, was its launch customer, putting eXO on 54 of its new its single-aisle aircraft to be delivered starting 2016, with the option to add another 50 aircraft in future. Panasonic also offers a high-speed connectivity and Live TV services to its customers.
+
+Thales plans to shake the market up a bit with the reveal of the new Thales InFlyt Experience, a soup-to-nuts IFEC (in-flight entertainment and connectivity) solution built around the company’s strengths in technology and communications, complimenting its acquisition of LiveTV from JetBlue last year. Thales gives airlines an assortment of options for content and services through its AVOD (Audio Video On Demand) seat-back IFE systems, or wirelessly on their own electronic devices, and InFlyt includes high-speed Wi-Fi access.","{'label': 'Neutral', 'score': 0.9998138546943665}",neutral,0.9998138546943665,0
+Satnews Publishers: Daily Satellite News - Satnews,"Thu, 07 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiMWh0dHA6Ly93d3cuc2F0bmV3cy5jb20vc3RvcnkucGhwP251bWJlcj04MjAyODcxODPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Satnews Daily
+
+Turkey’s Göktürk-1 Satellite Enroute To Ankara AIT Center... For Environmental Tests
+
+[SatNews] Thales Alenia Space, Telespazio and SSM, announced that the Göktürk-1 observation satellite for the Turkish Ministry of Defense has been shipped today to Ankara AIT center to start environmental tests. The global contract, signed by Telespazio as the prime contractor and the Turkey’s Ministry of National Defense comprises an Earth observation satellite equipped with a high-resolution optical sensor, a satellite integration and test center to be built in Turkey, and the complete ground segment, in charge of mission control, in-orbit operation, data acquisition and processing. Local industrial partners include TAI, Aselsan, Tübitak UEKAE, Roketsan and TR Teknoloji.
+
+Thales Alenia Space has built the satellite and has developed the integration and test center in Turkey. Telespazio is the Prime Contractor and system integrator and, in addition is responsible for the ground segment, the satellite launch service and launch insurance procurement, the operations of the system including the Launch and Early Orbit Phase, In Orbit Test phase and the Integrated Logistics Support to the End User.
+
+Turkish industry has been involved in the system design and development, as well as supplying some Göktürk-1 system components : TAI provided elements of the satellite payload structure, Aselsan is in charge of the ground segment components image data reception and processing, Tübitak UEKAE in charge of the telecommand and telemetry ciphering devices and TR Teknoloji of the AITC building.
+
+Derived from the Proteus platform developed by Thales Alenia Space, the Göktürk-1 satellite includes a high-resolution optical instrument, derived from its strong heritage in this field of competency. The satellite is now assembled and integrated, it has been shipped to the new satellite integration and test center in Ankara which has been designed to be able to integrate several Satellites concurrently.
+
+Thales Alenia Space, in the frame of the Gokturk-1 contract with Telespazio, will be the first Company in the space industry to deliver a turnkey integration and test center.
+
+The Class 100,000 clean rooms, spanning more than 3,000 square meters, will house all the latest-generation equipment needed for satellite integration and testing. Systems include a mechanical vibration test bench (shaker), a 950 cubic meter acoustic test chamber, a thermal-vacuum chamber measuring over 350 cubic meters, a compact antenna test range and supports for the deployment of solar panels and antennas. Other resources include the system to test the satellite's physical properties (weight, center of gravity, inertia) and electromagnetic compatibility (EMC) test systems.
+
+Prof. Dr. Ismail Demir, Undersecretary for Defence Industries (SSM) said, “Göktürk-1 Program is a very important milestone for Turkish space and satellite road map. So far, RASAT and Göktürk-2 satellites were manufactured indigenously, launched into the space and operating perfectly. Building on these heritage coupled with the experience gained over Göktürk-1 program, Turkey now intends to manufacture new Earth observation and communication satellite systems in Turkey within the state-of-the-art Assembly Integration and Test Center (AITC) facility in Ankara. AIT Center which is going to be operated under responsibility of TUSAÅž is intended to be used both for domestic and international programs.”
+
+Luigi Pasquali, CEO of Telespazio said, “Thanks to its wealth of experience in the Earth observation sector, Telespazio plays a leading role in the major international programs and, together with its partner in the Space Alliance can offer a wide range of state-of-the-art solutions to its customers. This was reflected in Gokturk-1, as prime contractor, in managing the entire system and allowing, through the involvement of Turkish Industries, the development of their expertize, thus paving the way for future cooperation in the export market.”
+
+Jean Loïc Galle, President and CEO of Thales Alenia Space said, “Thales Alenia Space will be the first satellite manufacturer to have built a high resolution optical observation satellite to an export customer and to have delivered an AIT center abroad. This important milestone reflects both a new success of the Space Alliance offer and the capacity of Thales Alenia Space to be the natural partner to countries they want to expand their space program.""","{'label': 'Neutral', 'score': 0.9999951124191284}",neutral,0.9999951124191284,0
+Mars mystery: ExoMars mission to finally resolve question of life on red planet - Euronews,"Thu, 21 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9uZXh0LzIwMTUvMDUvMjEvbWFycy1teXN0ZXJ5LWV4b21hcnMtbWlzc2lvbi10by1maW5hbGx5LXJlc29sdmUtcXVlc3Rpb24tb2YtbGlmZS1vbi1yZWQtcGxhbmV00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"ADVERTISEMENT
+
+The ExoMars 2016 mission will try to answer one of the toughest and most intriguing questions of space exploration: is there or has there ever been life on Mars?
+
+Getting to Mars, landing there safely, and then beginning the search for life is a huge scientific and technical challenge for the huge team behind ExoMars, a joint ESA and Roscosmos project to search for life on Mars. It is the world’s biggest ever mission to the red planet.
+
+The first spacecraft is almost ready and Maurizio Capuano, the ExoMars 2016 Program Manager, accompanied Euronews’ on a privileged close encounter with the probe at Thales Alenia Space’s facility in Cannes, southern France.
+
+“This is ExoMars 2016 which next year will land on the red planet. The lower part will go into orbit around Mars, putting out its solar panels to get energy from the sun, and the upper part is the lander which will land directly on the Martian surface completely autonomously,” he explained.
+
+Two stage mission
+
+ExoMars is split into two missions; the first in 2016, the second in 2018. The spacecraft’s creators are on a tight test schedule as there is only a narrow window of opportunity to reach the target.
+
+“To go to Mars you have to wait for the right conjunction of Earth and Mars, and taking into account the orbits of the two planets, favourable conjunctions only happen every 26 months,” said Richard Bessudo, another of the mission’s program managers.
+
+Once at Mars, the spacecraft will split in two, with the satellite staying in orbit as the lander heads for the surface. ESA hopes this test capsule will perform Europe’s first ever controlled landing on Mars.
+
+Capuano invokes images of 1950s B movies to explain the lander: “It has a form that makes you think of spaceships, of UFOs if you like, because the aerodynamic shape of the object is the best way to control the entry in the Martian atmosphere.”
+
+Quest for life
+
+ExoMars 2016 will send back crucial information on how the lander performed. Meanwhile the 2016 orbiter acts like a giant nose, sniffing the Martian atmosphere for methane. The gas could be a clue to the possible presence of life.
+
+The 2016 findings will be vital to the success of the ExoMars rover mission, which is planned to be launched in 2018.
+
+“ExoMars 2018 is really opening a new chapter in Mars exploration,” said Jorge Vago, an ExoMars Project scientist. “For the first time we will address the third dimension, which is depth. This is very important, because it is in the subsurface, and at depth, that we have the best chance of finding evidence for the possible past presence of life on Mars.”
+
+Sending a machine to dig down into Mars is difficult and its very first hurdle is considered the greatest:- landing safely. Then the ExoMars rover will need to gingerly find its way around.
+
+Secrets below the surface
+
+The rover will aim for a landing site halfway between the Martian hills and the low-lying plains. It will look for places where water should be below the surface, and then it will drill down up to two metres.
+
+“The drill speed is quite low, when you compare to the drill that you use at home, let’s say for home work, explained Pietro Baglioni, ExoMars Rover Manager. “The drill is operating with 50-60 Watts, so it’s the power that you use for a bulb of a lamp normally. And it’s capable to do a great job, to dig a hole and get a sample.”
+
+NASA’s Curiosity rover has confirmed the habitability of Mars. So ExoMars will search for fossilized evidence of microbes, and hunt for traces of organic molecules.
+
+Jorge Vago said Mars secrets will be revealed at a microscopic level.
+
+“The microbes themselves would be too small to see, there are sizes in the range of one to a few microns, so you would need a big fat microscope to be able to see them, something we don’t have on our mission. But colonies of organisms can affect the deposition of rocks, and that we will be able to see. The other type of biosignature is organic molecules, and here you have to think of them as the Lego bricks of cells. “
+
+The big question
+
+The ExoMars rover can also spot any present day life on Mars, hidden beneath the surface away from harmful radiation. Is that even possible? Is there life on Mars? Pietro Baglioni is among the ExoMars experts who believe it is: “It’s of course the 100 million dollar question. I am convinced that there has been life on Mars.”
+
+His view is echoed by Vargo: “I think there is a reasonable chance that there may be some pockets of life deep in the subsurface.”
+
+ADVERTISEMENT
+
+However, Capuano is not convinced: “Personally I don’t think there’s life on Mars, but that’s my personal opinion.”
+
+The ExoMars mission could settle that beguiling question by the end of the decade.","{'label': 'Neutral', 'score': 0.9139803051948547}",neutral,0.9139803051948547,0
+Thales chosen to provide Crowsnest AEW solution - UK Defence Journal,"Fri, 22 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvdGhhbGVzLWNob3Nlbi10by1wcm92aWRlLWNyb3dzbmVzdC1hZXcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Ministry of Defence and Lockheed Martin UK have selected Thales as the preferred bidder to provide the RADAR and mission system at the heart of the Crowsnest, beating a solution proposed by Lockheed Martin UK themselves. The system will be fitted on AgustaWestland Merlin helicopters
+
+The solution proposed by Thales involves repurposing the existing the Searchwater 2000 radars currently providing the AEW capability. Positioned below the aircraft fuselage, the rotating array gains an unobstructed view below, covering effectively. The system folds up to the side of the aircraft when not in operation. Thales plans to utilise this system for the new platform, using a modernised and updated radar along with its associated Cerberus mission system.
+
+The programme is expected to see a total of eight AgustaWestland Merlin HM2 helicopters equipped with the systems, to replace the navy’s current fleet of aged Westland Sea King’s, which will begin to be retired from 2016.
+
+Crowsnest will provide airborne early warning capability for the new Royal Navy supercarriers, providing long range air, maritime and land detection. Crowsnest will also be able to support wider fleet and land operations, replacing the Sea King’s Airborne Surveillance and Control capability that has been deployed on regular operations since 1982.
+
+The MoD requires Crowsnest to be operational from when the last of the Sea Kings operating in the AEW/ASaC role are retired. Thales however says it can deliver a fully operational system 12 months ahead of schedule.
+
+Lockheed Martin UK will now conclude the project’s £27 million assessment phase, supported by Thales and AgustaWestland, the manufacturer of the Merlin helicopter.
+
+Philip Dunne, Minister of State for Defence Procurement, said:
+
+It is essential that our ships and particularly our future aircraft carriers will have the best possible protection. The Crowsnest system onboard our new Merlin Mk2 helicopter will deliver an essential surveillance and intelligence capability, providing early warnings to our personnel of any potential threats. The progress on Crowsnest complements the wider Queen Elizabeth Class carrier programme and shows that we are moving ever closer to providing this 21st century Carrier Strike capability for the Royal Navy.
+
+Air Vice-Marshal Julian Young, Director Helicopters at the MoD’s Defence Equipment and Support organisation, said:","{'label': 'Neutral', 'score': 0.9999624490737915}",neutral,0.9999624490737915,0
+An in-depth look at Project Marshall - Thales,"Wed, 06 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2RlcHRoLWxvb2stcHJvamVjdC1tYXJzaGFsbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"An in-depth look at Project Marshall Share this article
+
+
+
+LinkedIn
+
+In the last issue we saw that a major milestone for Project Marshall had been reached, as it has now been handed over to AQUILA, the joint venture between Thales UK and National Air Traffic Services (NATS). In this issue we take a more in-depth look at what Project Marshall is and how graduate Software Engineer Elliot Rosemeyer is involved.
+
+In October 2014, the Thales-NATS joint venture AQUILA was selected by the UK Ministry of Defence (MOD) to transform military Air Traffic Management (ATM) in the country and overseas in the form of Project Marshall.
+
+Marshall is a large and wide-ranging project for the provision of terminal air traffic management. This is essentially the provision of air traffic services to military and civil aircraft operating in and out of government aerodromes in the UK and overseas. It seeks to ensure a safe, efficient and sustainable ATM service for the UK Armed Forces, modernising ATM at over 100 MOD locations (including more than 60 airfields and ranges), in a contract worth an estimated £1.5bn over the course of its 22-year lifespan.
+
+Elliot Rosemeyer is a Software Engineer who joined the Thales Graduate Development Programme (GDP) in September 2014, just before the contract award was announced. He is based at the Crawley site and has recently been assigned to Marshall. Speaking of his involvement, Elliot says,
+
+“Just after I joined, Thales won Project Marshall, a £1.5 billion deal to upgrade the MOD’s aviation sites. I’m currently working on a tool that uses the raw navigational data provided by the MOD, to automatically generate maps that can be displayed on their radar screens.”
+
+Elliot particularly enjoys the level of responsibility afforded to him as a graduate,
+
+“What’s best about this task is that it’s all mine. I get to plan how I will tackle it, how it will be designed, how it’s used, how it looks, all based on the requirements provided by the MOD!”
+
+Marshall is a very large and very important contract for Thales UK, and it’s great to see that graduates are involved and are given a number of learning opportunities and responsibility to really contribute.","{'label': 'Neutral', 'score': 0.9999886751174927}",neutral,0.9999886751174927,0
+LU Northern line goes CBTC - Rail Engineer,"Fri, 08 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnJhaWxlbmdpbmVlci5jby51ay9sdS1ub3J0aGVybi1saW5lLWdvZXMtY2J0Yy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Listen to this article
+
+Much has been written to explain the operation and benefits of Communications Based Train Control (CBTC). By default, such technology has become associated with modern metro operations around the world. Lines that employ CBTC enjoy a significant increase in train running capacity as well as achieving automatic train operation (ATO), automatic train protection (ATP) and improved information to the travelling public.
+
+However, converting an existing line from conventional signalling to CBTC can be a tortuous process and London Underground has experienced some challenges with such upgrades. The Jubilee line has had a history of problems when, firstly, the original plan for ATO had to be abandoned prior to the Millenium and, secondly, the subsequent deployment of the Thales Seltrac system encountered many problems before commissioning was finally achieved in 2011 in readiness for the London Olympics.
+
+Even the Victoria line upgrade to CBTC using an Invensys (now Siemens) system needed considerable weekend line closures before a phased introduction could take place. However, perseverance is a virtue and the Northern line has recently been fully equipped and commissioned using the Thales Seltrac CBTC technology with only minimum disruption to the train service and hardly any of the users even noticing that an upgrade had taken place. Not being on the front page of the newspapers with reports of travel chaos is testimony to a successful project. Rail Engineer recently visited both London Underground and Thales to see how lessons had been learned.
+
+The Thales Seltrac system
+
+This technology, originally developed for the Vancouver Sky Train network, has been around since the 1990s.
+
+First used in the UK by Docklands Light Railway, the technology was designed for moving block operation using a continuous track-mounted loop that gives full ATO (Automatic Train Operation) and also allows trains to ‘close up’ during high density running.
+
+Each loop is mounted within the ‘four foot’ running rails with a transition every 25 metres where a phase change takes place. Train location is thus confirmed at every transition point and this works in conjunction with train odometry and accelerometers for accurate positioning data. The transmission from loop to train is an inductive couple of around 56KHz.
+
+Movement Authorities (MAs) are generated from the control centre equipment and are calculated in real time. The MA will extend forward as the train in front advances. To maximise capacity, as trains close up and slow down, the MA will allow a following train to get within 50 metres of the preceding train but the precise distance will depend on the gradient at that point and the actual speed of both trains.
+
+Each train receives an individually addressed telegram at least every three seconds or when a new command is given. In the event of no telegram being received in the timeframe, an automatic stop will happen. During normal running, the MA will take the train to the next station stopping point where the accuracy of position is at worst 50cm but is normally ± 10cm to align with platform screen doors.
+
+The core of the train equipment is two VOBCs (Vital On- Board Computers) with associated aerials to read the loop information, one at each end of the train. Each of these has a duplicated computer that requires both to be in agreement before commands to the train traction and braking systems can be transmitted (two out of two configuration). Both VOBCs act independently, with the one adjacent to the driving end normally being used once the driver logs in.
+
+Should this fail, the system will switch to the other VOBC at the rear which then automatically adjusts to the train length when assigning new Movement Authorities. The ‘distance to go’ is always calculated from the front of the train. Connection between the two VOBCs is by both hard wired train lines and a serial data link.
+
+Equipping the Northern line
+
+Both the Jubilee and Northern line upgrades were let as one contract in 2004 with design work taking place up to 2006. From then, a lull in proceedings occurred while Thales and London Underground took stock of how the installation, testing and commissioning would be progressed and to ascertain the demarcation of responsibilities. With the Jubilee line having priority and being commissioned over the period December 2010 to June 2011, extra time was available to plan for the Northern line which was seen as more complex with its two north south routes across central London, complicated junctions at Camden Town and Kennington, and two northern branches.
+
+The architecture of the Seltrac system as applied to the Northern line is structured around a dedicated fibre optic network from the control centre at a new north London site (Highgate) connecting into selected station equipment rooms. From these the information to the loops is fed by co- axial cable. To obtain full resilience, six transmission rings are provided that segment the railway into logical sections.
+
+The trains, known as 1995 stock, had been in service since the latter part of that decade and thus required retro-fitting with the CBTC equipment. This presented quite a challenge as the vehicles had lots of discrete computers for the various train functions coupled with a multitude of hard wiring. Around 2000 wiring changes per cab end, mainly to accommodate the double ended VOBC configuration, had to be carried out in the process of conversion.
+
+This work was done by Alstom, which own the trains and leases them to London Underground, but with the full participation of local staff at both Edgware and Morden depots. Retro-fitting is never easy, each train needing to be out of service for 14 days and costing £400k.
+
+Trains can operate in one of three modes:
+
+» Full ATO mode where the drivers have only to control door opening / closing and press two start buttons to set the train moving. The driver has a screen showing the MA for reference purposes. This is the normal operating condition.
+
+» Protected Manual Mode where the train is manually driven to the limits of the MA with the in-built train protection system causing automatic braking if the MA looks like being exceeded. Drivers may choose to use this mode as a means of greater vigilance when planned trackside work is taking place or when adhesion conditions are poor and more sensitive driving techniques are needed. All drivers are expected to use this mode on occasions so as to remain familiar with the operation.
+
+» Restricted Manual Mode for when the communication link to the train is lost. In such circumstances there is no Movement Authority but trains can be driven ‘on sight’ at a maximum speed of 17kph following a voice instruction from control. Safety protection is maintained by lineside ‘remote secure indicators’ that assure the correct setting of points and also by the continuing function of axle counters to give train position information. This mode is used in the depots to get a train to the system entry point but the occasions when it is used on the main line are now extremely rare.
+
+If a train suffers a major electrical or mechanical failure, a ‘train doctor’ at control talks the driver through various re- set procedures such as power down / power up. If this is not successful, an on-call technician will be despatched to the failed train and, if necessary, arrangements can be made for the following train to push the failure to a stabling siding.
+
+Changeover to CBTC operation
+
+Migration strategy centred around six stages, starting with the short section from High Barnet to West Finchley in February 2013, followed by the section to Highgate including Finchley Central and the Mill Hill East spur.
+
+Having gained some operational experience, the difficult section onwards to Angel and Euston was then tackled including the important Camden Town multi line junction.
+
+Stage four embraced both the central London routes (City and Charing Cross Branches) including the combining line junction at Kennington with its semi-circular reversal loop. Following that, the south line to Morden with its stabling depot was cut over and finally, in June 2014, the section from Belsize Park to Edgware including the depot at Golders Green was implemented.
+
+All this has enabled an increase in capacity with currently 26 trains per hour (tph) on the Bank branch, 22tph via Charing Cross and 30tph down to Morden. The normal service pattern is for Charing Cross line trains to run only as far as Kennington then traverse the reversal loop to run back northwards. Bank line trains run through to Morden. Northbound trains run to Edgware and High Barnet from both the Bank and Charing Cross routes with Mill Hill East being served by a shuttle from Finchley Central.
+
+In peak hours, trains can serve all terminal points from any station and this means a very complex timetable that has the effect of reducing the maximum possible throughput. As the London Underground engineer stated: “If you were building the Northern line again, you would not construct it the way it is.”
+
+At the start of a journey, the driver enters their number on the cab set-up panel and picks up the train timetable number. If these conform to what is expected, the train can set off once the appropriate MA is displayed. Simultaneously, the train goes to green on the controller’s screen whence progress is monitored on the line display.
+
+At terminal stations, or at intermediate locations where the train is due to terminate, the control centre display goes to orange until the driver re-inserts journey information in the far-end cab.
+
+The CBTC system has been linked to the existing platform indication displays giving a more accurate count down to the time and destination of the next arrival. Similarly, the existing track-to-train radio system (Connect) remains in service but with its control consoles transferred to the new control centre.
+
+Learning from past lessons
+
+Both London Underground and Thales were determined not to repeat the organisational and technical problems that occurred on the Jubilee line. A policy of ‘One Team Working’ was instigated with both parties occupying the same premises at Canary Wharf. By doing this, questions that previously took a week to get answered could now be resolved in minutes. Reliability Objective Groups were initiated and a six month period of shadow running was introduced that allowed the system to be soak tested whilst the trains remained driven to the old signalling.
+
+Another important decision was to retain a loop-based system rather than moving to radio transmission in line with general CBTC advancement. This was partly driven by both Jubilee and Northern line contracts having been let at the same time and some equipment having been purchased for both. The need to avoid new untested technology was, however, the overriding reason as this was just too risky. The number of commissioning stages was another factor, limiting these to manageable limits and starting with the simpler was a contrast to the Jubilee line introduction.
+
+The Northern line CBTC project cost has been around £330 million, which included the preparation and independent assessment of a safety case. Also included was the provision of the dedicated fibre network. A study is being carried out to see whether the London Underground Connect transmission network could be used in part as the bearer for future line upgrades, thus offering the prospect of some cost reduction.
+
+Future Plans
+
+An extension of the Northern line from Kennington to Battersea, with an intermediate station at Nine Elms, is now authorised and work will commence shortly with a completion date in 2018. This will connect into the Kennington turn back loop with the planned service being to divert all Charing Cross line trains to Battersea, thus allowing 32tph on both central London branches. Further increases in capacity up to 36tph will only be possible by additional segregation of services at Camden Town, but it is recognised that this will be at the expense of some passenger inconvenience and no final decision has yet been taken.
+
+Thales is also the nominated supplier for the much- troubled upgrade plan to equip the Sub Surface Lines with CBTC systems. Although these too will use the Seltrac design, this time it will be radio-based so a technology change becomes necessary. A preliminary contract is enabling some testing work to be done at the Old Dalby test track where the new S Stock is undergoing commissioning trials. Assuming success, radio technology should set the scene for eventual conversion of the remaining London Underground lines to CBTC operation.","{'label': 'Negative', 'score': 0.9904182553291321}",negative,0.9904182553291321,-1
+New surveillance system for future Royal Navy aircraft carriers revealed - GOV.UK,"Fri, 22 May 2015 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvbmV3LXN1cnZlaWxsYW5jZS1zeXN0ZW0tZm9yLWZ1dHVyZS1yb3lhbC1uYXZ5LWFpcmNyYWZ0LWNhcnJpZXJzLXJldmVhbGVk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The MOD and Lockheed Martin UK, as the prime contractor for Crowsnest, have selected Thales as the chosen bidder to provide the radar and mission system at the heart of the Crowsnest capability.
+
+The Crowsnest project will act as the Royal Navy’s eyes and ears for its next generation carriers, giving long range air, maritime and land detection, as well as the capability to track potential threats. Crowsnest will also be able to support wider fleet and land operations, replacing the Sea King helicopter’s Airborne Surveillance and Control capability that has been deployed on regular operations since 1982.
+
+Lockheed Martin UK will now conclude the project’s £27 million assessment phase, expected in 2016, supported by Thales and AgustaWestland, the manufacturer of the Merlin helicopter onto which the system will be able to be fitted.
+
+Once a decision has been taken to proceed into the manufacture phase, it is expected that around 300 jobs will be sustained across these companies in Crawley, Havant and Yeovil.
+
+Philip Dunne, Minister of State for Defence Procurement, said:
+
+It is essential that our ships and particularly our future aircraft carriers will have the best possible protection. The Crowsnest system onboard our new Merlin Mk2 helicopter will deliver an essential surveillance and intelligence capability, providing early warnings to our personnel of any potential threats. The progress on Crowsnest complements the wider Queen Elizabeth Class carrier programme and shows that we are moving ever closer to providing this 21st century Carrier Strike capability for the Royal Navy.
+
+Computer-generated image of a Merlin Mk2 with the Crowsnest surveillance system fitted to the side of the helicopter. The system will provide long range, early detection of potential air and surface threats. (Picture: Copyright Thales)
+
+The upgraded Merlin Mk2 helicopters are the world’s most advanced maritime helicopter, which already provide various functions including Anti-Submarine Warfare (ASW) and humanitarian duties.
+
+Crowsnest is part of the UK’s future aircraft carrier capability, which will deliver two Queen Elizabeth Class Aircraft Carriers and fifth generation Lightning II fast jets to operate from them across the world.
+
+Air Vice-Marshal Julian Young, Director Helicopters at the MOD’s Defence Equipment and Support organisation, said:
+
+Crowsnest will form an integral part of future carrier operations and act as the Royal Navy’s eyes and ears, providing protection through early warning and surveillance. We have accelerated our programme delivery strategy in order to sustain the capability seamlessly through our Merlin Mk2 helicopters as the Sea King Mk7 fleet retires from service in 2018, and we are confident that the programme will be delivered as planned.
+
+The Thales solution is an updated, improved and repackaged role-fit version of the Cerberus tactical sensor suite currently in service on the Sea King Mk7 helicopter.
+
+The design comprises of a single mechanically scanned radar head which uses an innovative system to provide 360o visibility from the underside of the helicopter, and which folds up to the side of the aircraft when not in operation.
+
+You can read more about the importance of Crowsnest to our Carrier programme from Minister of State for Defence Procurement Philip Dunne here. Images of Crowsnest and Merlin MK2 helicopters are also available to download.","{'label': 'Neutral', 'score': 0.9925560355186462}",neutral,0.9925560355186462,0

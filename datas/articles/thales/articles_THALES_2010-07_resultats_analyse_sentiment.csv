@@ -1,0 +1,176 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Alenia Space delivers its two satellite payloads for Arianespace's next Ariane 5 mission - Arianespace,"Thu, 01 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5hcmlhbmVzcGFjZS5jb20vbWlzc2lvbi11cGRhdGUvdGhhbGVzLWFsZW5pYS1zcGFjZS1kZWxpdmVycy1pdHMtdHdvLXNhdGVsbGl0ZS1wYXlsb2Fkcy1mb3ItYXJpYW5lc3BhY2VzLW5leHQtYXJpYW5lLTUtbWlzc2lvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The two payloads for Arianespace’s next Ariane 5 mission are now at the Spaceport following their dual delivery to French Guiana this week.
+
+A chartered An-124 cargo jetliner arrived at Cayenne’s Rochambeau International Airport with the Nilesat-201 and RASCOM-QAF1R spacecraft, both of which were built by Thales Alenia Space as prime contractor for their respective customers: Nilesat and RascomStar-QAF.
+
+The two satellites were transferred by road from the airport to the Spaceport, where they will begin their pre-launch checkout for a scheduled August 3 liftoff.
+
+Nilesat-201 will enable the Egyptian satellite operator Nilesat to deliver digital Direct-to-Home (DTH) TV and radio broadcasting, along with high-speed data transmission services, to North Africa and the Middle East.
+
+Utilizing a Spacebus 4000B2 platform, this relay platform is equipped with 24 Ku-band and 4 Ka-band transponders. Its launch mass will be approximately 3,200 kg., and after its deployment by Ariane 5, the satellite will be positioned at an orbital slot of 7 degrees West longitude for a 15-year design operating lifetime.
+
+The RASCOM-QAF1R spacecraft will ensure service continuity for the RascomStar-QAF operator and its customers, providing African access to advanced communications and information technologies – in particular rural telephony.
+
+RASCOM-QAF1R is based on the Spacebus 4000B3 platform, and is equipped with 24 equivalent 36 MHz transponders in both Ku-band and C-band. Weighing an estimated 3,050 kg. at launch, RASCOM-QAF1R will cover the African continent, as well as parts of Europe and the Middle East, from an orbital slot of 2.9 degrees East longitude.
+
+The August 3 mission will be Ariane 5’s third flight of 2010. It follows the June 26 mission that orbited the Arabsat-5A and COMS satellites, and the May 21 launch with ASTRA 3B and COMSATBw-2.","{'label': 'Neutral', 'score': 0.9999994039535522}",neutral,0.9999994039535522,0
+FARNBOROUGH: Face the facts with Thales Avionics' Michel Mathieu - Flightglobal,"Tue, 20 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZmFybmJvcm91Z2gtZmFjZS10aGUtZmFjdHMtd2l0aC10aGFsZXMtYXZpb25pY3MtbWljaGVsLW1hdGhpZXUvOTQ0MjIuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Michel Mathieu is head of Thales Avionics, which is exhibiting at the show for the first time as a dedicated division within the French conglomerate
+
+Why has Thales restructured its avionics business as a separate division?
+
+Avionics is a sizeable activity for Thales, with revenue of €2.4 billion ($2.95 billion). It's international, with 11,000 people, of which 5,000 are outside France and it has a unique business model in the commercial field. We need to share risks with the aircraft manufacturers, so Avionics deserves a special organisation and a special approach to do this kind of business.
+
+Which product lines have been incorporated into the division?
+
+Commercial, military and helicopter avionics, electrical products, all the services associated with these activities, in-flight entertainment (which is based in the USA), training and simulation (based in the UK, France, and a bit in Australia and Germany). There is also something that is very removed from avionics as a business sector, which is microwave and imaging solutions, and has been put in this division because it is a very process-oriented type of activity with a lot of production involved. It is in avionics that today you will find most of the production in Thales.
+
+© Thales
+
+How has the industry downturn affected your business?
+
+We are living in a kind of paradox today. Everybody is aware of the financial crisis in air transport, with its negative consequences on the business and production volumes, so it creates some difficulties but at the same time we have never been so busy in our labs developing avionics for new aircraft. All our centres are busy, which is the result of the ambitions of Thales. It has been the strategy of Thales for a long time to develop systems on as many aircraft as possible. We started off being highly devoted and specialised to Airbus in France and we realised it was not enough. We need to be able to reuse whatever we develop for several platforms, and this is happening.
+
+How challenging has it been running several development programmes simultaneously?
+
+We have won probably more programmes than we thought we would, and we are a bit overwhelmed by the quantity of development. Historically we have never reached this level of activity, so of course it puts stress on the organisation, but that's something we are coping with. We are glad to be in a large group like Thales and to have access to other resources. We have had to shift many engineers to avionics to cope with the sheer size of the developments we have. This is of course a bit painful today because of the overload it creates, but it's preparing a healthy mid-term where we should see our volume increase - of line fit and support. We will soon enter a phase where we will have a strong foundation for revenues and it will be time to prepare the next generation of aircraft.
+
+How have you fared in securing a presence on Airbus's latest widebody programme, the A350 XWB?
+
+The A350 is probably the biggest and most interesting development we have today. We are the second biggest supplier after the engine manufacturer for Airbus on the A350, because we have a wide presence from the cockpit to the integrated modular avionics. We are supplying the inertial navigation units for the first time on a commercial aircraft. We are providing the electrical conversion systems and [our partner] Diehl the cabin, door and lighting systems.
+
+Which other development programmes has Thales Avionics been working on?
+
+A: We are on regional transports as well: the ATR 600 and Superjet 100 for Sukhoi. These are two ambitious programmes for which we provide the complete avionics suites. For the Sukhoi aircraft we have system responsibility where we integrate the parts delivered by other suppliers. The two programmes are now successfully reaching the end of their development and we are coming very close to the certifications. The Sikorsky S-76D is an interesting programme, for which we supply the cockpit avionics. On the military side we are busy on the Airbus Military A400M.
+
+Is the A400M programme getting back on track?
+
+For the general avionics we were on time for the first flight last year. The test pilots are delighted with the performance of our systems. We have one system which is ambitious - the flight management system - which is still to be fully developed. FMS are always difficult to develop, and this is a sophisticated application, as it is plugged into many systems in the aircraft. It is extremely complex software. The aircraft system engineers and our FMS engineers need to work closely to get the overall system working. On the A400M, especially challenging is the fact that it will be a dual FMS, because it has to have the behaviour of a civil aircraft FMS to insert the aircraft in the civil traffic flow, and it has to have special military mission capabilities.
+
+The combination of all these modes makes it even more complex than the usual FMS. There is still a lot to do - the military part still needs a lot of development and tests together with Airbus. We are working closely with Airbus, but it will remain a technical and a management challenge because of the complexity, and it will keep us busy until the end of the development of the aircraft itself. There is a low-level flight requirement which is demanding.
+
+Is Thales Avionics making progress in the renegotiation of the terms of the A400M industrial contract?
+
+I'm quite optimistic that all these issues will be resolved. Overall it's a good aircraft. It's our job now to make it fly with what was promised to customers. There are financial difficulties; it's cost a lot of money for the whole industry and I cannot tell you that we are yet in full agreement on the financial aspects.
+
+What lessons has industry learned from the recent spate of delayed aircraft development programmes?
+
+We are in a field where things need to change. In the past I think we were all forced by the aircraft manufacturers to develop bespoke solutions and them to their needs. The technology was a limiting factor as well. We needed to design the pieces which could occupy a specific place on the aircraft and then be connected to a specific architecture designed by the aircraft manufacturer.
+
+I think we should see more standards in the future and we should be able to develop equipment or software applications that can be reused at least for the basic pieces on various platforms for various customers. That's really our vision for the future - to probably have fewer spikes in our cycles of development which are hurting us and are difficult to manage.
+
+Are you encouraged by progress to date with Europe's efforts to implement a next-generation air traffic management system?
+
+I'm amazed that it has taken so long. On paper it's obvious, if you think of a system of systems where you gather the airport, control centres on the ground and cockpit in the air, and you have a good datalinking and satellite communications. You close the loop and start optimising the air traffic flow, and you can reduce the distance between aircraft and fuel consumption, and you can improve the trajectory and so on. On paper for engineers it's a pleasure.
+
+How much can improved ATM systems contribute to reducing aviation's environmental footprint?
+
+We are working on the Clean Sky programme and we are active on that initiative. We are on all the working groups working on optimisation and we think that by using all the future possibilities of the FMS we could help the aviation industry to save a lot. But the time taken to decide to launch a new aircraft, and then to get it into operation, is long.
+
+It takes a long time to change the standards and that's why it will probably take 20 years. It started 10 years ago and we need another 10 years to see it active. It has started, and there are certain new functionalities that are on board our avionics, but to move to mass usage of these concepts it's rather long. There is no doubt that the savings will be huge - something like 50%. Everything contributes to that - you have the engine, ATM, avionics and the overall system. We are all working on that.
+
+Have you discussed with Airbus the possibility of offering an avionics upgrade as part of the A320 ""new engine option"" package?
+
+It is under discussion, but it's too soon to comment. There are various projects under discussion with Airbus.
+
+Source: Flight Daily News","{'label': 'Neutral', 'score': 0.9487887024879456}",neutral,0.9487887024879456,0
+Saudi Arabia's Ministry of Interior Signs Contract for 12 S-76D™ Helicopters - Vertical Magazine,"Wed, 21 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3Mvc2F1ZGktYXJhYmlhLXMtbWluaXN0cnktb2YtaW50ZXJpb3Itc2lnbnMtY29udHJhY3QtZm9yLTEyLXMtNzZkLWhlbGljb3B0ZXJzLWh0bWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"FARNBOROUGH AIR SHOW, London, England — Sikorsky Aircraft Corp. announced today that the Kingdom of Saudi Arabia’s Ministry of Interior (MOI) has signed a contract to procure 12 S-76DTM helicopters and has taken options to acquire eight additional S-76D aircraft. Sikorsky is a subsidiary of United Technologies Corp. (NYSE:UTX).
+
+The aircraft will perform security, transport and other missions. Delivery of the first helicopter is scheduled for early 2012.
+
+“We’re truly honored to work with the MOI and proud to be announcing the largest S-76D fleet order to date,” said Shane Eddy, vice president of Sikorsky Global Helicopters. “We appreciate the opportunity to show that the S-76D helicopter will provide the superior performance and capability that the MOI requires and is well-suited for operations throughout the region.”
+
+The S-76D helicopter is the latest model in the highly successful S-76® helicopter line. Sikorsky has produced and delivered nearly 800 S-76 helicopters. Among the S-76D helicopter’s features are all-composite, flaw-tolerant main rotor blades; an advanced Thales avionics system and autopilot; dual rotor speed for quiet mode operation with active vibration control; powerful Pratt & Whitney 210S engines; a quiet mode; and an optional Rotor Ice Protection System (RIPS) for all-weather capability. The S-76D helicopter also will offer an increase in useful load and extended range performance versus the S-76C+TM and S-76C++TM aircraft currently fielded.
+
+Sikorsky Aircraft Corp., based in Stratford, Conn., USA, is a world leader in helicopter design, manufacture and service. United Technologies Corp., based in Hartford, Conn., USA, provides a broad range of high technology products and support services to the aerospace and building systems industries.
+
+This release contains forward looking statements that involve uncertainties and that could change including the development of new technologies and execution of contract terms. These uncertainties could affect investment decisions and outcomes.","{'label': 'Positive', 'score': 0.9917539358139038}",positive,0.9917539358139038,1
+PICTURES: Royal Navy offered AEW-configured AW101 | News | Flight Global - Flightglobal,"Wed, 14 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vcGljdHVyZXMtcm95YWwtbmF2eS1vZmZlcmVkLWFldy1jb25maWd1cmVkLWF3MTAxLzk0NTIwLmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"AgustaWestland and Thales have stepped up their efforts to promote a development of the AW101 to replace the UK Royal Navy's venerable Sea King 7 airborne surveillance and control (ASaC) aircraft.
+
+As the incumbent suppliers of the RN's organic airborne early warning capability, the companies have joined forces to offer the AW101 Merlin equipped with Thales's Searchwater 2000 radar and Cerberus mission system.
+
+The RN's current 11 Sea King ASaC helicopters are due to be retired from use in 2016, and a new type is needed to operate from its two Queen Elizabeth-class future aircraft carriers. The selected type will be deployed alongside the UK's Lockheed Martin F-35B Joint Strike Fighters, as part of an embarked air wing of up to 40 aircraft.
+
+© AgustaWestland
+
+AgustaWestland says the Searchwater system's distinctive radar ""bag"" will be deployed through a rear ramp aperture during operations, providing 360° surveillance coverage, or else stored inside the aircraft when not in use.
+
+The Cerberus payload will be installed on a pallet, and two mission crew stations located towards the front of the aircraft's cabin. New capabilities would include the integration of a Link 16 datalink.
+
+""The solution we have developed capitalises on the substantial investment already made by the MoD in both the helicopter and the Cerberus mission system and radar,"" says Nick Whitney, senior vice-president for AgustaWestland's UK government business unit.
+
+© AgustaWestland
+
+Thales UK chief operating officer Ed Lowe says the design offers ""a low-cost, low-risk method of delivering ASaC with no capability gap"".
+
+The RN's current rotorcraft inventory includes 37 Merlin HM1s, as listed in Flightglobal's HeliCAS database. These are used for multi-mission tasks, including anti-submarine warfare operations.
+
+Meanwhile, AgustaWestland will give a show debut to its AW159 Lynx Wildcat at the Farnborough air show. The new model is being developed for use by the RN and British Army.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.9999833106994629}",neutral,0.9999833106994629,0
+What's the Most Fundamental Thing in the Universe? - ScienceBlogs,"Wed, 14 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc2NpZW5jZWJsb2dzLmNvbS9zdGFydHN3aXRoYWJhbmcvMjAxMC8wNy8xNC93aGF0cy10aGUtbW9zdC1mdW5kYW1lbnRhbC10aGnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"""I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use."" -Galileo Galilei
+
+Geez, Ethan, why don't you take on a bigger question?
+
+This question of ""fundamental things"" has a special meaning to scientists and natural philosophers, going all the way back to Thales of Miletus, 2600 years ago, who began asking about the arche (αρχή), which is the ""element"" or ""prime cause"" of existing things.
+
+Of course, the scientific enterprise was just beginning, so you can't fault Thales too much for coming up with ""water"". But I totally credit him with this great idea, that's governed all of scientific progress ever since:
+
+Natural phenomena are explicable by the natural workings of the Universe.
+
+(I'm paraphrasing, of course.) This, to me, is the greatest power of science: you can observe the way many things work, determine what laws they follow, and then generalize those laws to explain (and even predict) new phenomena. So come forward to the present day. Where are we now?
+
+This is the standard model. (Click above for a huge, poster-size image.) We have found a few different types of particles in the Universe with different masses, charges (both electrical and color), and spins (i.e., intrinsic angular momentum). As far as we know, these particles are ""fundamental"" in the sense that they cannot be broken down any further.
+
+But they do more than exist. These particles also interact, which (in our language) means they exert forces on each other, and they sometimes also react in various ways, turning some fundamental particles into others. Three of the fundamental forces work by exchanging particles,
+
+while gravity, lacking such a successful description of its force, works by mass (and other forms of energy) deforming spacetime.
+
+So in a nutshell, that's how everything we know works. These indivisible components of the natural world, with just a few fundamental properties (like mass, charge, and energy) and laws under which they interact, make up everything we know of in the Universe.
+
+There are also secondary quantities that, while we don't think of them as fundamental, play important roles in figuring out physical phenomena. I'm talking about quantities like Temperature. Heat, a form of energy, is what we think of as a fundamental quantity, but temperature is often more useful to talk about as a measurable quantity. For example, there are a number of people who get upset about the Sun's Corona because of its temperature.
+
+""The Sun's Corona is at a higher temperature than the surface of the Sun. OH NO!"" But the Sun's Corona is incredibly diffuse, and would do a far worse job of, say, cooking your pizza, than the Sun's surface would. Why? The Corona has far less heat and energy than the Sun's surface. Looking at fundamental quantities gives us an interesting perspective here. While there's an interesting question of ""how"" to be answered concerning the Corona, its high temperatures don't represent a fundamental problem with the way we think about the Universe.
+
+In other words, we don't go home at night worried that our understanding of the Universe will never be complete because of the temperature of the Sun's Corona.
+
+But gravity is a problem, in that sense. We don't know what causes it at a fundamental level. There are two major -- seemingly unrelated -- problems with it.
+
+The first one is that general relativity is so mind-bogglingly difficult to work with. If I give you a flat, empty Universe, Einstein's theory of gravity tells me what any particle in that Universe will do. Namely, remain in motion, unchanged by anything around it.
+
+BOR-ING! What if we put one point mass in that Universe?
+
+Well, now things are hard. If you've just got a mass, you've got this spacetime. If your mass is also charged, you've got this one. Massive and spinning? Try here. And massive, spinning, and charged? That's this one.
+
+You want to put a second mass in the Universe? Good luck with that analytically unsolvable problem. Our Universe, by the way, has about 1090 particles in it, so... well, in any case, that's the first problem with gravity.
+
+What's the second?
+
+We don't even know what causes gravity, at a fundamental level. Is there such a thing as a graviton? No one's sure. (Well, some people are sure, but those people aren't necessarily right.) Some people hope for a theory of quantum gravity, most of whom pin their hopes on string theory.
+
+These ideas are not without their problems, which I won't go into here in detail. But there is a new idea out there this year, courtesy of Erik Verlinde.
+
+The basic idea is that gravity is just a consequence of thermodynamics. (For an explanation of how one could visualize this, go here.)
+
+It's been getting a lot of press and a lot of people have been taking it up. I read the original paper and some follow-ups, and here's my take. I want to state that there's nothing that makes it inherently, obviously wrong. But there's a very important assumption that one needs to make in order to take this idea seriously, that may not be based in reality.
+
+First, there's this idea that people throw around very frequently, known as duality. Here's a definition from wikipedia:
+
+If two theories are related by a duality transformation, it means that the first theory can be transformed in some way so that it ends up looking just like the second theory. The two theories are then said to be dual to one another under that kind of transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+
+Here's the deal, though. You can't just change your variables, say ""I'm the dual of gravity,"" and be done with it. You need to ask yourself, ""are my dual variables still physical descriptors of the same phenomenon?""
+
+There's an old example from general relativity, back in our ""Universe with one mass"" model.
+
+If I stand a distance r away from the black hole (of Schwarzschild radius R), I can describe any point in this Universe using the parameter r/R.
+
+But dual to that is that at any point inside the Schwarzschild radius, which can be described by R/r. There's a huge problem with that, though.
+
+We have no information about what goes on inside of that black hole, and whether our descriptions are accurate at all. The math looks the same, but the physics may be very, very different. In other words, what happens outside of the black hole is physically meaningful, and describes fundamental forces. The dual transformation, with the flipped variables? Not necessarily.
+
+Verlinde's idea hinges on his assumption of the duality between gravity and thermodynamics (or entropy) being a physically valid one.
+
+And if he's right, this could lead to some potentially interesting avenues of inquiry. But there's a huge difference between two things being mathematically equivalent and being physically equivalent, and I am not yet convinced of the latter. Especially because I don't think of entropy as being all that fundamental. If I take a physical system, I can measure its entropy, but I can measure its temperature, too. But if I give you the energy, positions, and momenta of every particle in there, you can give me the entropy. If you give me the entropy... the reverse isn't true.
+
+But I've got this old-fashioned picture of how the Universe works in my head. In this picture, particles are the most fundamental things, and something's got to cause the forces between them. Are they other particles? Is it a curving of spacetime? Or is it something else? At this point, all of the ideas out there are speculative and purely mathematical, because nature is slow to give her clues away. So you'll hear more about these ideas from the news media and from scientists, because we just don't know yet.
+
+So there is this new idea out there, and while it isn't necessarily crazy, it isn't necessarily right or physically meaningful either. Hope this helps give you a little perspective!","{'label': 'Neutral', 'score': 0.9998573064804077}",neutral,0.9998573064804077,0

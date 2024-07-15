@@ -1,0 +1,608 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Versatile UAV Launched by Thales - Aviation International News,"Thu, 14 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTYtMDctMTQvdmVyc2F0aWxlLXVhdi1sYXVuY2hlZC10aGFsZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Versatile UAV Launched by Thales
+
+The Fulmar has been selected by the Malaysian Maritime Enforcement Agency, which is buying six systems to equip fast patrol craft.","{'label': 'Neutral', 'score': 0.999990701675415}",neutral,0.999990701675415,0
+"Thales Alenia Space Stratobus eyes contract in 2017, radio frequency approval in 2019 - SpaceNews","Thu, 07 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLXN0cmF0b2J1cy1leWVzLWNvbnRyYWN0LWluLTIwMTcta3VrYS1iYW5kLWZyZXF1ZW5jeS1vay1pbi0yMDE5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"TOULOUSE, France – Satellite builder Thales Alenia Space and six partners are investing their own money, plus grants from the French government, into the Stratobus high-altitude platform station (HAPS) on the assumption that the development yields a contract in 2017, the program manager said.
+
+The Stratobus backers are focusing only on Earth observations in the tropical regions for the moment, but expect to add telecommunications payloads once international regulators have authorized HAPS systems to operate in Ka-band.
+
+Current International Telecommunication Union (ITU) rules limit HAPS systems to the Q- and V-bands for fixed services communications, between 47 and 48 GHz. These higher frequencies are not well suited to rainy conditions.
+
+The U.S. government is leading the effort at the ITU to broaden the frequency regime for command and control of high-altitude drones to Ka- and Ku-band, already in mainstream use by satellite fleet operators. It is unclear whether HAPS could be covered under this.
+
+The U.S. position met with substantial resistance – for reasons that were never made clear — at the last quadrennial meeting of global regulators, WRC-15, which agreed only to create a study group to examine the issue in view to a decision at WRC-19. WRC-15 agreed to study future use of Ka-band for HAPS.
+
+Until additional frequencies are made available, Thales Alenia Space’s Stratobus will limit itself to optical and radar Earth observation, said Jean-Philippe Chessel, head of the Stratobus project.
+
+“If [the ITU decision at WRC-19] is positive, it will clearly open the telecommunications market for HAPS and for Stratobus,” Chessel said June 30 at the Toulouse Space Show.
+
+The French-Italian Thales Alenia Space announced Stratobus in April following the receipt of 17 million euros ($19.2 million) in financing from France’s PIA Investing in the Future public bond fund, plus 3 million euros from four regional governments in France that are home to the Stratobus industrial team.
+
+Chessel said the industrial partners are financing 60 percent of the development over the next two years, with French government support totaling 40 percent.
+
+The commercial version of Stratobus will measure 100 meters in length, as long as an Airbus A380, and 33 meters in diameter at its widest point. Its four electric-powered engines are designed to keep the platform steady at 20 kilometers in altitude in headwinds of up to 90 kilometers per hour. Air density at that altitude is less than half what it is on the ground.
+
+It will carry a payload, typically a radar or optical Earth observation sensor, weighing up to 250 kilograms, that will image an areas of between 250 and 300 kilometers for radar applications, and 40-60 kilometers for optical.
+
+The top half of Stratobus is transparent material. Attached to the underside of its roof is a solar panel drawing power both from the Sun above, and below from a row of solar power concentrator mirrors lining the floor.
+
+The space industry last viewed solar concentrators on the first models of Boeing’s large 702 telecommunications satellite platform. A design flaw caused the concentrators to damage the solar panels and resulted in reduced power, causing large insurance claims for the first batch of satellites. Boeing subsequently dropped the concentrator design, although in the years since then the damage to the satellites in terms of reduced operational life turned out to be less than originally feared.
+
+Chessel said the concentrators will triple the amount of solar illumination onto the solar array and provide the 150 kilowatts power day of total power demand for Stratobus, of which 5 kilowatts will be reserved for the payload.
+
+Stratobus’s volume is 50,000 cubic meters. Chessel said the pressurized gas will be either helium or hydrogen, with hydrogen preferred because it is less costly to produce and is lighter, saving 300 kilograms over helium. But hydrogen has the downside of requiring special safety procedures.
+
+Operating in the tropics with sufficient sunlight year-round, Stratobus could remain on station for up to five years, Chessel said. At more-northern latitudes, the platform would be limited to the spring and summer months and could operate for eight months.
+
+Chessel said the current budget is enough to carry the project’s development for two years. A critical design review is planned for 2018, after which a full-size test model could be flown in 2020. Thales Alenia Space has begun the process of Stratobus flight certification with the European Aviation Safety Agency. A new certification category is needed because HAPS platforms like Stratobus fall somewhere in between the existing regulations for balloons and drones.
+
+“We expect to have our first contract in 2017 to develop the first proto-flight model,” Chessel said. “It will be paid by the first customer and lead to the production of future flight models. Stratobus is a low-cost product, an order of magnitude less costly than a satellite, plus the fact that we don’t have a launcher. We can take off and land by gas management and we don’t need space-qualified components. Of course, this is a regional product only. It doesn’t provide global coverage like a satellite. The prospects we have today suggest we are going in the right direction in terms of product.”","{'label': 'Neutral', 'score': 0.9999842643737793}",neutral,0.9999842643737793,0
+Thales expansion takes off: 500 new jobs in Central Florida - Orlando Sentinel,"Mon, 11 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm9ybGFuZG9zZW50aW5lbC5jb20vMjAxNi8wNy8xMS90aGFsZXMtZXhwYW5zaW9uLXRha2VzLW9mZi01MDAtbmV3LWpvYnMtaW4tY2VudHJhbC1mbG9yaWRhL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales USA, a tech company focused on airline in-flight entertainment systems, has added to its local expansion plans with a new announcement on the Space Coast.
+
+The firm is now saying it will be adding 500 tech-focused jobs in Central Florida.
+
+Last month, the company said it would also be expanding in Orlando, with 173 new jobs. On Monday, the company said more than 300 jobs would be added on the Space Coast. Thales has U.S. affiliates based in California and Virginia; the international parent corporation is based in Paris.
+
+The jobs will be focused on high-tech research and development, specifically software, programming, data and some hardware design.
+
+Currently the company has offices in Orlando and Melbourne. The Melbourne facility is larger, focused on the company’s InFlyt Experience product, with about 400 jobs already.
+
+The company is seeking a lot more room to grow in Central Florida, up to 120,000 new square feet. A spokesman for the company said it may build new or rent existing space, in either Orlando or on the Space Coast.
+
+Thales made the Brevard announcement Monday at the Farnborough International Air Show in London, with Gov. Rick Scott.
+
+The current Orlando facility is listed as 12001 Science Drive, near the training and computer-simulation cluster by University of Central Florida.
+
+The company is being approved for up to $2.5 million incentives for the expansions. Thales says the Orlando jobs would pay an average annual wage of $53,255, which is at least 125 percent of the 2013 Orange County annual wage. Thales says the average value of benefits that will be available to employees is $20,294.
+
+Thales says it has about 62,000 employees around the globe and more than 3,000 for Thales USA. Its clients are in defense, aerospace, banking, ground transportation, finance, and air travel.
+
+Besides in-flight entertainment and connectivity systems, the company also makes instrument-landing systems and encryption technology, among other things.
+
+Thales USA also has a location in South Florida.
+
+pbrinkmann@orlandosentinel.com or 407-420-5660","{'label': 'Neutral', 'score': 0.9999963045120239}",neutral,0.9999963045120239,0
+Thales Alenia Space Looks to Space with Large Qualified 3D Printed Satellite Components and a New Collaboration - 3DPrint.com,"Wed, 13 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vM2RwcmludC5jb20vMTQyMDEyL3RoYWxlcy1hbGVuaWEtY29tcG9uZW50cy_SAThodHRwczovLzNkcHJpbnQuY29tLzE0MjAxMi90aGFsZXMtYWxlbmlhLWNvbXBvbmVudHMvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en,"One thing that’s exciting about working in an industry as new and fast-growing as 3D printing is that we’re constantly seeing firsts. First 3D printed glasses, first 3D printed heel bone, first industrial silicone 3D printer – nearly every day there’s a new thing that’s never been seen before, or there’s a record being set somewhere. Right now, it’s an industry of superlatives – biggest ever, fastest ever, most successful ever.
+
+Holding one of the “biggest ever” titles is the team of Thales Alenia Space (TAS) and Poly-Shape, which broke a very specific record by creating the largest-ever qualified parts to be 3D printed in Europe using powder-bed metal additive manufacturing for use in orbit. Like I said, very specific – but no less impressive. The partnership was begun last fall when the two companies agreed to manufacture support structures for South Korea’s newest communication satellites, Koreasat-5A and Koreasat-7.
+
+The antenna supports, which were printed by TAS using a Concept Laser X line 1000R 3D printer supplied by service bureau Poly-Shape, are basic structures that allow the satellites to communicate with the ground base, but the key of the 3D printed parts is their light weight. Although their dimensions are 450 x 205 x 390 mm, they weigh only 1.5 kg, significantly less than the same components manufactured by other methods.
+
+“The typical cost of putting 1 kg of material into orbit is around €20,000, so every gram really does count,” said Florence Montredon, Head of Additive Manufacturing for Thales Alenia Space. “The starting weight of the two new satellites is around 3,500 kilograms…The effects were huge: a 22% weight saving for the bionic AM structure compared to a conventionally-manufactured structure. Not forgetting the reduction in costs of around 30% with the finished part also being available very much earlier.”
+
+TAS used a AISi 7 Mg alloy to attain the components’ light weight without sacrificing strength, rigidity or corrosion resistance. The supports also ended up with an impressively low porosity of less than 1%, as demonstrated in the component validation process. Additional tests of tensile and shear strengths, along with fatigue resistance, also yielded positive results, according to TAS and Poly-Shape.
+
+By using additive manufacturing, the components were able to be produced in one piece rather than nine, as with traditional manufacturing methods. While the large size of the supports was a challenge, the massive, 630 x 400 x 500 mm build envelope of the X line 1000R, the largest of Poly-Shape’s 28 printers, was more than up to the task.
+
+“It is clear that we have identified AM as a good prospect for further projects,” said Montredon. “In the future, we would also like to incorporate thermal control technology or radio functions directly on or within the 3D structures. So functional integration is the next task. This is also a logical consequence of the potential offered by AM.”
+
+The supports, which each took six days to print, will be implemented on the two satellites, which are scheduled to go into orbit in early 2017. By that time, will they still hold the title of largest-ever parts to be 3D printed in Europe using powder-bed metal additive manufacturing for use in orbit? Who knows – maybe TAS and Poly-Shape will have broken their own record by then.
+
+Furthering its opportunities in space, Thales Alenia Space has also announced that they have signed a contract with Norsk Titanium toward the collaboration of development, testing, and production of titanium test components for use in space. Announced today, July 13th, the collaboration is set to create an initial qualification lot this year for titanium components supporting a joint test and acceptance program for spaceflight. Full production is then set to commence in 2017, as Norsk Titanium will then embark on full rate production of the Thales Alenia Space components.
+
+“We are thrilled to partner with Thales Alenia Space and to extend the benefits of Rapid Plasma Deposition from earth-based commercial airliners all the way into outer space. The space frontier is a great market for our titanium RPD parts since they are extremely fast to build, incredibly light, and can be used in applications of significant structural importance,” said Norsk Titanium CEO Warren M. Boley Jr.
+
+While full details on the engineering of the Rapid Plasma Deposition (RPD) parts for the qualification order have not been disclosed, each component produced using the RPD process is set to improve upon traditional forging processes. Each component has a three kilogram final mass, and the change to RPD is said to reduce the current part buy-to-fly ratio by half and cut the lead-time by half a year. Discuss further in the TAS Largest 3D Prints forum over at 3DPB.com.
+
+Please enable JavaScript to view the comments powered by Disqus.","{'label': 'Neutral', 'score': 0.7446275353431702}",neutral,0.7446275353431702,0
+Ruag Sells Opto-Electronics Business to Thales Alenia Space - Via Satellite,"Mon, 11 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTYvMDcvMTEvcnVhZy1zZWxscy1vcHRvLWVsZWN0cm9uaWNzLWJ1c2luZXNzLXRoYWxlcy1hbGVuaWEtc3BhY2Uv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"[Via Satellite 07-11-2016] Thales Alenia Space has reached a definitive agreement with Ruag to acquire the company’s opto-electronics business line. The transaction is subject to the usual closing conditions, and is expected to conclude by the end of the year.
+
+Based in Zurich, Switzerland, Ruag’s opto-electronics and instruments product unit specializes in scientific satellite instruments and in equipment for optical communications in space. The entity employs 75 people and recorded sales of 16.6 million euros ($18.4 million) in 2015.
+
+Thales Alenia Space plans to leverage this acquisition to expand its European footprint and enhance the solutions it offers for the science, Earth observation, and telecommunications markets. The purchase follows Thales Alenia Space’s formation of a U.K. subsidiary in 2014, a new Belgian facility in Leuven in 2014, and the opening of a plant in Germany in 2011.","{'label': 'Neutral', 'score': 0.9984353184700012}",neutral,0.9984353184700012,0
+Thales' Scorpion HMSD selected for South Korea's light armed helicopter - UPI News,"Thu, 14 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy51cGkuY29tL0RlZmVuc2UtTmV3cy8yMDE2LzA3LzE0L1RoYWxlcy1TY29ycGlvbi1ITVNELXNlbGVjdGVkLWZvci1Tb3V0aC1Lb3JlYXMtbGlnaHQtYXJtZWQtaGVsaWNvcHRlci81MjcxNDY4NTA4MDE2L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales will equip South Korea's light armed helicopter with the Scorpion helmet-mounted sight and display monocular system, the company announced Wednesday. Image courtesy Thales
+
+FARNBOROUGH, England, July 14 (UPI) -- Thales will equip South Korea's light attack helicopter with the Scorpion helmet-mounted sight and display monocular system, the company announced Wednesday. Thales will provide 400 Scorpion systems which will be installed on the helicopters in the early 2020s, Thales said in a statement. Advertisement
+
+Prime contractor Korea Aerospace Industries selected Thales at the end of an open competition.
+
+The amount of the contract was not disclosed.
+
+Korea's light armed helicopter program represents 200 aircraft.
+
+Scorpion's Hybrid Optical-based Inertial Tracking, or HObIT, head tracking system provides accurate, reliable and non-intrusive cockpit integration.
+
+It's the only full-color display on the market using a single display for day and night, while offering a smooth transition between day and night mode, Thales said.
+
+Scorpion is fully compatible with any standard night vision goggle.","{'label': 'Neutral', 'score': 0.9999887943267822}",neutral,0.9999887943267822,0
+"Rick Scott announces airliner entertainment company's expansion, 500 jobs - Florida Politics","Mon, 11 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy8yMTU5NTYtcmljay1zY290dC1hbm5vdW5jZXMtYWlybGluZXItZW50ZXJ0YWlubWVudC1jb21wYW55cy1leHBhbnNpb24tNTAwLWpvYnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A company providing airline and airplane in-flight entertainment systems plans to expand its Brevard and Orange county operations and add as many as 500 new jobs over the next five years, Gov. Rick Scott announced Monday during a trade mission to England.
+
+Thales, a French aerospace, transportation, defense and security technology company, announced plans to expand its InFlyt Experience unit, which has operations in both Melbourne and Orlando. The announcement came at the Farnborough Air Show in London.
+
+InFlyt also expects to seek another 100,000-120,000-square-foot facility expansion somewhere in Brevard, where the bulk of the 500 new jobs are expected to go. Scott and Thales executives announced 327 new jobs are envisioned in Brevard and 173 in Orlando.
+
+“I am proud to announce that Thales chose Florida to expand and create 500 new jobs for Florida families,” Scott said. “We met with Thales at the Paris Air Show last year, and it’s great to make this exciting announcement today in London. I look forward to seeing their continued success in our state.”
+
+Thames created InFlyt in 2014 after purchasing the LiveTV unit from JetBlue, which helped pioneer in-flight, satellite-fed entertainment systems in the air. That facility is located at the Orlando International Airport.
+
+Nearly 100 major international airlines have selected their IFEC systems and solutions, including passenger systems that integrate broadband communications and accommodate personal electronic devices.
+
+“Thanks to the leadership of Gov. Scott and other state and local officials, we are pleased to be able to further expand our competitive footprint in Florida,” Alan Pellegrini, president of Thales USA, said in a news release issued by the governor’s office. “The state’s pro-business agenda is helping to enable our targeted growth.”","{'label': 'Positive', 'score': 0.9310992956161499}",positive,0.9310992956161499,1
+3D Printed Satellite Metal Component Built by Thales Alenia Space and Poly-Shape with Concept Laser AM Technology - VoxelMatters,"Mon, 11 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy52b3hlbG1hdHRlcnMuY29tLzNkLXByaW50ZWQtc2F0ZWxsaXRlLW1ldGFsLWNvbXBvbmVudC1idWlsdC1ieS10aGFsZXMtYWxlbmlhLXNwYWNlLWFuZC1wb2x5LXNoYXBlLXdpdGgtY29uY2VwdC1sYXNlci1hbS10ZWNobm9sb2d5L9IBkwFodHRwczovL3d3dy52b3hlbG1hdHRlcnMuY29tLzNkLXByaW50ZWQtc2F0ZWxsaXRlLW1ldGFsLWNvbXBvbmVudC1idWlsdC1ieS10aGFsZXMtYWxlbmlhLXNwYWNlLWFuZC1wb2x5LXNoYXBlLXdpdGgtY29uY2VwdC1sYXNlci1hbS10ZWNobm9sb2d5L2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en,"Stay up to date with everything that is happening in the wonderful world of AM via our LinkedIn community.
+
+Once again, the aerospace industry is driving forward innovation and acting as the spearhead for digital manufacturing. The most recent signal comes from Thales Alenia Space. Working in collaboration with the 3D printing service company Poly-Shape, the company 3D printed satellite parts for the new South Korean communications satellites Koreasat-5A and Koreasat-7. Koreasat-7 is set to go into orbit in 2017 at position 116º East in order to provide coverage for South Korea, the Philippines, Indonesia and India. Koreasat-5A will cater for Korea, Japan, Indochina and the Middle East from the position 113° East. Koreasat-5A should be launched before 2017 second quarter.
+
+XXL 3D printed satellite component produced in collaborative working relationship
+
+The Koreasat-5A and Koreasat-7 antenna supports will be the largest volume parts so far produced by powder-bed-based laser melting of metals from Europe to be in orbit. With dimensions of 447 x 204.5 x 391 mm3 – and weighing just 1.13 kg – they really can be referred to as lightweight components. A really huge piece of engineering. The additively manufactured 3D components are used as basic antenna supports for the communication with ground base of the Koreasat-5A and Koreasat-7 satellites. An identical part was installed in both satellites. The dimensions presented a real challenge for Thales Alenia Space. They were manufactured by the French company Poly-Shape. It is a renowned partner to the aerospace industry when it comes to prototyping, 3D metal printing and assemblies.
+
+Lightweight 3D printed satellite construction and reduction in costs as crucial advantages
+
+Aluminum (Al) is the metallic material most commonly used for satellites due to its weight and thermal conductivity. The less weight that needs to be put into orbit, the better. Florence Montredon, Head of AM at Thales Alenia Space, says: “As a rule of thumb, the actual costs of putting 1 kg into orbit are around EUR 20,000. So every gram really does count. The starting weight of the two new satellites is around 3,500 kg.” AM’s potential for lightweight design was therefore a key reason to move away from the traditional methods. For these AM parts Thales Alenia Space chose an AISi7Mg alloy. Applications in space demand high strength, rigidity and resistance to corrosion from the materials that are used. The component validation process also revealed a low porosity rate on the finished component of < 1%. The tests of tensile and shear strengths also produced pleasing results. For example, the tests in relation to symptoms of fatigue according to Wöhler yielded values that significantly exceeded the required specifications. Minor deviations in the geometry were corrected with simple reworking, as was a small crack which was revealed by the CT. Fairly small pores inside the geometry were accepted following localized mechanical analysis. Ultimately, the parts successfully passed the dynamic tests carried out at Thales.
+
+Florence Montredon: “The effects were huge: A 22% weight saving for the bionic AM structure compared to a conventional structure. Not forgetting a reduction in costs of around 30% with the finished part being available very much faster.” The cost reduction of 30% is attributable to various factors. First there is the reduction in outlay on assembly: The redesign as an additive, bionic part replaced the number of parts that were previously produced from nine to one. And this was done through one-shot manufacturing, without the previous outlay on assembly. Secondly there was no need for mold construction, as casting would have needed to make the same part. Thirdly the temporal aspects are interesting when it comes to completing the ambitious stages of a project such as this on time. This is known in industry as time to market. In this sector, it is referred to as time to fly.
+
+Machine and plant technology from Concept Laser on XXL scale
+
+Poly-Shape has 28 3D metal printing machines which have different sizes of build envelope. The largest build envelope dimension for 3D printing with aluminum at Poly-Shape is currently an X line 1000R from Concept Laser. It offers a build envelope of 630 x 400 x 500 mm3 and has a closed system for reliable process and powder management in accordance with the ATEX directives. The X line 1000R also has a rotating mechanism which allows two build modules to be used reciprocally, thus guaranteeing constant production with no downtimes.
+
+This unique machine design not only results in greater availability, but also simple and above all secure handling when arming and disarming the machine. The follow-up model, the X line 2000R, has an even bigger build envelope (800 x 400 x 500 mm3), which is currently unique in the world when it comes to powder-bed-based laser melting. The usable build volume is again increased, in comparison to an X line 1000R, by around 27% from 126 l to 160 l. The follow-up model also operates with two lasers, each delivering 1,000 watts of power. The LaserCUSING process technology from Concept Laser was very important for the project: What makes systems from Concept Laser unique is stochastic navigation of the slice segments (also referred to as “islands”) which are processed successively. This patented process ensures a significant reduction in stresses when manufacturing very large parts. With huge dimensions of 447 x 204.5 x 391 mm3, it is obvious to want to control warping to the maximum extent possible. The X line 1000R offers balanced temperature regulation of the build envelope in order to prevent warping in the “oversized” parts. The large, bionic and intricate geometry takes a great deal of time to assemble: It took only a few days to print it.
+
+Design to suit the process
+
+The transition over to AM also means rethinking the design. To make full use of the potential offered by laser melting, it makes no sense to replicate a geometry 1:1. Lightweight design and bionics demand a design to suit the process. CAE-CAD-based methods are used to trim the 3D components to a performance-focused geometry, bionics, and lightweight design. The design was optimized in several transitions at Thales Alenia Space (AM design optimization), for example in respect of the various joining and mounting techniques. In addition, there was fine-tuning in the area surrounding the satellite in order to guarantee a maximum precision fit. The topology was optimized in 2-3 passages. The CAD data then underwent a redesign and smoothing before a mechanical analysis and simulation took place. Furthermore, the design was optimized to suit the process-related circumstances in the build envelope with Poly-Shape. This involved the orientation of the part in the build envelope and the necessary support structures. Thales Alenia Space also incorporated methods of LBM (Layer-Based Manufacturing). Florence Montredon: “It is clear that we have identified AM as a good prospect for further projects. In the future, we would also like to incorporate thermal control technology or radio functions directly on or within the 3D structures. So functional integration is the next task. This is also a logical consequence of the potential offered by AM.”
+
+3D printed satellite parts drawing roadmap to future of manufacturing
+
+In the Koreasat-5A and 7 project, the feasibility of highly sophisticated and very large AM parts for applications in space was highlighted. The redesign as an additive, bionic part made it possible to reduce the number of parts from nine to just one part. Thanks to this method, the manufacturing process was carried out in one shot, so without the previous outlay that was needed for assembly. There was also significantly enhanced potential for a lightweight design. 22% of the mass was saved with this AM solution. This resulted in a final weight of just 1.3 kg. This was a huge leap because in these applications every gram really does count. The 3D geometry was optimally trimmed for use in orbit. The project’s impressive results highlighted the potential that additive manufacturing offers in space travel and this project will undoubtedly not be the last of this type.","{'label': 'Neutral', 'score': 0.9825831651687622}",neutral,0.9825831651687622,0
+FARNBOROUGH: Thales introduces Malaysia's new ship-launched UAV - Flightglobal,"Tue, 12 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vY2l2aWwtdWF2cy9mYXJuYm9yb3VnaC10aGFsZXMtaW50cm9kdWNlcy1tYWxheXNpYXMtbmV3LXNoaXAtbGF1bmNoZWQtdWF2LzEyMTE1MC5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Get all the coverage from Farnborough air show on our dedicated landing page
+
+Thales has revealed its new Fulmar X unmanned air vehicle at the Farnborough show, and is preparing to deliver the first two systems to launch customer the Malaysian Maritime Enforcement Agency by the end of the year.
+
+Six of the UAVs were ordered by the agency in October 2015, and have been acquired to operate from its New Generation Patrol Craft vessel. All aircraft will be delivered by mid-2017.
+
+BillyPix
+
+Speaking at the show, Matt Moore, UAV product line manager at Thales, said the 20kg (44lb) carbonfibre aircraft has a 43nm (80km) range and 3m (9.8ft) wingspan, and can carry a payload of up to 4kg. It is currently integrated with an electro-optical sensor, but Thales is planning to introduce a radar for the system with third party suppliers.
+
+“It is a very light and small capability, but that is deceiving in terms of capability,” Moore says.
+
+Fulmar X is launched by catapult and recovered by net to allow for ship-based operations. It also uses a Thales-designed heavy-fuel engine and a stabilised communications system. Ship-based developmental testing was carried out in Spain, including landing the UAV on a moving target.
+
+The most tangible customer for Fulmar X after Malaysia is the Spanish military, and Thales expects a decision by the middle of next year.
+
+The new UAV builds on the earlier Fulmar system, developed by the Spanish division of Thales.
+
+Source: FlightGlobal.com","{'label': 'Neutral', 'score': 0.9999954700469971}",neutral,0.9999954700469971,0
+Textron Systems and Thales Successfully Test Fury® Weapon Guidance Package - Textron Systems - Cision News,"Mon, 11 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vbmV3cy5jaXNpb24uY29tL3RleHRyb24tc3lzdGVtcy9yL3RleHRyb24tc3lzdGVtcy1hbmQtdGhhbGVzLXN1Y2Nlc3NmdWxseS10ZXN0LWZ1cnktLXdlYXBvbi1ndWlkYW5jZS1wYWNrYWdlLGMyMDQzNTkw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"FARNBOROUGH INTERNATIONAL AIR SHOW, ENGLAND – JULY 11, 2016 – Textron Systems Weapon & Sensor Systems, a business of Textron Inc. (NYSE: TXT), and Thales announced today the successful testing of the Fury® lightweight precision guided glide weapon from the Shadow® Tactical Unmanned Aircraft System (TUAS) against static vehicle targets.
+
+
+
+The Fury was tested from a Textron Systems’ Shadow TUAS at the U.S. Army’s Yuma Proving Ground in Arizona on April 29. During the testing, the Fury was released from 8,000 feet altitude, conducted a Global Positioning System (GPS) guided fly-out maneuver and transitioned to the Semi-Active Laser (SAL) guided terminal engagement, directly striking a static vehicle target.
+
+
+
+“We are pleased with the test results and development progress of the Fury weapon system – the latest test proved out the GPS and SAL guidance capability from 8,000 feet and was a significant incremental step in the weapon’s development,” says Weapon & Sensor Systems Senior Vice President & General Manager Brian Sinkiewicz. “To date, the tests have demonstrated that the lightweight weapon features a mature and proven warhead and accurate guidance system paired with a fully integrated aircraft solution. With these results, we believe the Fury system could be a great complement to the Shadow TUAS, other UAS or light attack aircraft.”
+
+“We are delighted with the recent success of Fury,” says Thales General Manager Philip McBride. “Building on the technology used in the Lightweight Multirole Missile (LMM), this latest addition to the LMM family has proven the precision of the munition. Fury offers proportionate effects in time-critical, network-centric Close Air Support (CAS) and armed Information, Surveillance, Target Acquisition and Reconnaissance (ISTAR) missions against both fixed and moving targets”.
+
+Textron Systems and Thales began development of the Fury weapon system in 2014. The team utilizes their expertise in weapon systems and sub component and system-level integration in major United States and United Kingdom weapon system programs in development of the system. The team plans to co-market and produce the system for U.S. domestic and international markets.
+
+
+
+The Fury weapon uses a common interface for rapid integration on multiple manned and unmanned aircraft systems. The weapon’s tri-mode fuzing – impact, height of burst and delay – further enables a single Fury to address a broad target set, ranging from static and moving light armored vehicles to small boats and personnel. The precision weapon Fury is guided by a GPS-aided inertial navigation unit system with a Semi-Active Laser Seeker terminal guidance capability. This enables the weapon to engage both stationary and moving targets within 1 meter accuracy, or fly to specific target coordinates.
+
+Media Contacts:
+
+Public Relations Team
+
+Textron Systems
+
+(978) 657-2020
+
+PublicRelations@textronsystems.com
+
+Justine Degez
+
+Thales
+
++33 (0)6 89 34 53 09
+
+justine.degez@thalesgroup.com
+
+About Textron Systems
+
+Textron Systems’ businesses develop and integrate products, services and support for aerospace and defense customers, as well as civil and commercial customers including those in law enforcement, security, border patrol and critical infrastructure protection around the globe. Harnessing agility and a broad base of expertise, Textron Systems’ innovative businesses design, manufacture, field and support comprehensive solutions that expand customer capabilities and deliver value. Textron Systems consists of its Advanced Information Solutions, Electronic Systems, Geospatial Solutions, Lycoming Engines, Marine & Land Systems, Support Solutions, TRU Simulation + Training, Unmanned Systems and Weapon & Sensor Systems businesses. More information is available at www.textronsystems.com.
+
+About Textron Inc
+
+Textron Inc. is a multi-industry company that leverages its global network of aircraft, defense, industrial and finance businesses to provide customers with innovative solutions and services. Textron is known around the world for its powerful brands such as Bell Helicopter, Cessna, Beechcraft, Hawker, Jacobsen, Kautex, Lycoming, E-Z-GO, Greenlee, Bad Boy Off Road, Textron Systems, and TRU Simulation + Training. For more information visit: www.textron.com.
+
+About Thales
+
+Thales is a global technology leader for the Aerospace, Transport, Defence and Security markets. With 62,000 employees in 56 countries, Thales reported sales of €14 billion in 2015. With over 22,000 engineers and researchers, Thales has a unique capability to design and deploy equipment, systems and services to meet the most complex security requirements. Its exceptional international footprint allows it to work closely with its customers all over the world.
+
+Certain statements in this press release may project revenues or describe strategies, goals, outlook or other non-historical matters; these forward-looking statements speak only as of the date on which they are made, and we undertake no obligation to update them. These statements are subject to known and unknown risks, uncertainties, and other factors that may cause our actual results to differ materially from those expressed or implied by such forward-looking statements.
+
+# # #
+
+Tags:","{'label': 'Positive', 'score': 0.9658348560333252}",positive,0.9658348560333252,1
+"How Uber, Airbnb, and Etsy Attracted Their First 1000 Customers - Harvard Business School Working Knowledge","Wed, 13 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vaGJzd2suaGJzLmVkdS9pdGVtL2hvdy11YmVyLWFpcmJuYi1hbmQtZXRzeS1hdHRyYWN0ZWQtdGhlaXItZmlyc3QtMS0wMDAtY3VzdG9tZXJz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"New businesses often struggle finding their first customers. The challenge is even more difficult with startups in the sharing economy that launch as platforms connecting independent service providers with consumers.
+
+Take Uber. Its platform is two-sided, connecting people who need rides with people who have rides to offer. (Same idea as Airbnb, which connects people needing rooms with home-owners.) So to launch as a platform service, these companies need to find users on both the supply and demand sides.
+
+“Poaching customers is something all competitors do in different ways”
+
+“When you have a two-sided platform, you have to acquire both the customers and the services,” says Harvard Business School’s Thales Teixeira, Lumry Family Associate Professor of Business Administration.
+
+“It’s the classic chicken-and-egg problem,” he says. You can’t have one without the other, but which one do you find first—the customer chicken or the service egg? “As a small company you cannot afford to focus on both with the same amount of effort. You may need to prioritize one side.”
+
+Preparing to teach a new course on e-commerce marketing next spring, Teixeira made it his goal to find an answer. He studied three of the best-known and most successful startups—Uber, Etsy, and Airbnb—hoping to find some commonalities in how those businesses solved the dilemma.
+
+Spoiler alert: it’s the egg that needs incubating.
+
+As Teixeira reports in a new HBS case, Airbnb, Etsy, Uber: Acquiring the First Thousand Customers, all three platforms concentrated on getting the service side of the equation first, customers second. But there’s a catch. “It’s not just the chicken and the egg, you also want to select the right eggs,” explains Teixeira. “If you acquire the wrong eggs and ostriches come out, then you are in trouble. The chickens will run for the hills.”
+
+LESSON ONE: THINK LIKE A CUSTOMER
+
+From the beginning, it was clear to the founders of apartment-sharing site Airbnb that they’d need to find people willing to list their homes before finding people interesting in staying in them.
+
+“If you don’t have a supply of houses and apartments, people are not going to come,” says Teixeira. The problem was, where to find people willing to let strangers stay in their places. It’s not like they could go around San Francisco knocking on doors.
+
+Instead, founders Brian Chesky and Joe Gebbia thought like customers themselves, trying to figure out where they would go if Airbnb didn’t exist. It didn’t take them long to figure out the answer: Craigslist. The entrepreneurs figured they could do a better job of making apartments appealing than the online classified site, but first they had to siphon away its customers. To do that, Chesky and Gebbia created software to hack Craigslist to extract the contact info of property owners, then sent them a pitch to list on Airbnb as well.
+
+The strategy worked. With nothing to lose, property owners doubled their chances of finding a potential renter, and Airbnb had a ready supply of homes with which it could attract customers.
+
+“Poaching customers is something all competitors do in different ways,” says Teixeira. “If you are a website and you are providing content to users publicly, others can grab that information.” It’s not enough to just take someone else’s customers, though, he warns—you’ve got to give them something better than they had before.
+
+LESSON TWO: CREATE A BETTER EXPERIENCE
+
+Once they had apartment owners on the hook, the Airbnb founders realized they had a problem: the subpar photos that property owners were taking for Craigslist on their iPhones would never work for customers looking for an alternative to a hotel.
+
+“The first time a person goes on Airbnb, they are comparing the quality of photos to hotels that take glamorized shots,” says Teixeira. “They needed to compete at that level.”
+
+In order to do that, Chesky and Gebbia did something that would never be scalable: hired professional photographers to go to property owners’ homes to take inviting pictures. The gambit worked, making the site much more attractive than the competition, and setting a standard for photography that later property owners rose to match in order to compete against other homes.
+
+“The underlying principle of this is you should help your suppliers portray themselves in the best way possible, even if that is not scalable,” concludes Teixeira. “If you don’t have customers, there is nothing to scale.”
+
+Ride-sharing app Uber pursued a similar strategy. Rather than starting out with Uber Pool or Uber X, in which drivers use their own cars, the company started with black cars driven by professional drivers. That way, they could ensure that customers would have a great experience virtually every time they used the service—and they could then rely on customers to spread the news of that experience by word of mouth. “That’s why you get the supply side first—if you get the right suppliers, the customers will experience their high quality service and then do the marketing for you,” says Teixeira.
+
+Etsy also pursued a decidedly non-scalable strategy in finding the right eggs with which to launch its business. The platform, which serves as an online marketplace for craft vendors, started its business with an offline strategy: scouring craft fairs across the country to identify the best vendors at each, and pitching them on opening up an online store on the site. “They first brought their customers, and then they brought other artisans who followed the customers.” Once Etsy had the first-tier artisans on the site, the next tier naturally followed them.
+
+LESSON THREE: SEQUENCING IS EVERYTHING
+
+Uber and Airbnb were also smart about how they chose to expand, picking the right cities at the right time to maximize their success.
+
+Since Uber’s main competition was taxi cab companies, the startup researched which cities had the biggest discrepancy between supply and demand for taxis. They then launched during times when that demand was likely to be the highest, for example during the holidays when people tend to stay out late partying. It also ran promotions during large concerts or sporting events, when big crowds of people all needed cabs at the same time, and an individual might be more likely to take a chance on an unfamiliar company named Uber.
+
+In that way, the company acquired a large group of customers in one swoop. “First, they figured out how to get a bunch of customers all in one night, when the demand was high. Then, they made sure this first group of users had a great experience and brought in the next wave of customers via word-of-mouth,” says Teixeira. The company banked on the fact that once users realized how easy it was, it was only a matter of time before they started using it to go to work, then shopping for groceries, and so on.
+
+Airbnb followed a similar strategy with its rollout, launching in Denver in 2008 to coincide with the lack of hotel space during the Democratic National Convention and adding new cities at times when they had major conventions or other events.
+
+In addition to the obvious demand, the strategy has another benefit: “Your competitors don’t see you as a threat, since you are not taking away from their demand,” says Teixeira. By the time you have a foothold in the marketplace, it’s already too late for them to do anything about it.
+
+Launching in situations of high demand and low supply also helps startups acquire the right type of customers—those early adopters who might be more forgiving of a company while it works out the kinks. After all, beggars can’t be choosers, and if you are thankful to even have a room during a conference, maybe you’ll forgive the lack of hand towels. The last thing a company wants during its early phases is negative word-of-mouth.
+
+“You are still a startup,” says Teixeira. “You have to find people who are willing to accept your flaws and cut you some slack. Satisfying all their needs and wants is just not feasible at this early stage.”
+
+Next Lesson: From 1,000 to 100,000,000
+
+With early adopters in place, a company can start thinking about how to expand their customer base through more traditional means of marketing.
+
+To tackle that problem, Teixeira wrote a sequel case study, Airbnb, Etsy, Uber: Growing from One Thousand to One Million Customers, and is currently working on a third entry in the trilogy that will examine how a platform can go from one million to many millions of customers.
+
+In each case the strategies are different. While word-of-mouth might work for the first thousand it’s not going to get you to a million. “You have to be more proactive and control the acquisition process, which word-of-mouth does not allow for.”
+
+That’s where digital marketing can help, allowing companies to target specific customers through search ads or social media at a low cost.
+
+“It’s highly targetable and you can do it on the cheap,” says Teixeira—adding that digital marketing also makes it easy for companies to rapidly iterate its advertising message, tweaking it to figure out what works best. “Only after passing the millionth customer can you go into advertising on traditional media. That’s when you need massive scale, so you go to mass marketing.”
+
+As a company grows, it must consider the purpose of advertising in order to achieve the best effects in gaining new customers.
+
+“Some tools are better for the beginning, some are better when you are bigger,” says Teixeira. “It’s not about, should I use digital marketing or word-of-mouth or TV ads. The question only makes sense when you say, 'I am at this stage, what approach should I take?' Only when you answer that question will you know what tool is most appropriate.”
+
+In other words, he says, “You need the right size of eggs for each stage of your nest.”
+
+Visit Thales Teixeira's website The Economics of Attention.
+
+Related Reading
+
+Maybe Uber isn't God's Gift to Mankind
+
+
+
+Work 3.0: Redefining Jobs and Companies in the Uber Age
+
+
+
+Three-Dimensional Strategy: Winning the Multisided Platform
+
+","{'label': 'Neutral', 'score': 0.9968710541725159}",neutral,0.9968710541725159,0
+Vormetric to Offer Key Management-as-a-Service for Salesforce Shield Platform Encryption - PR Newswire,"Tue, 12 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3Zvcm1ldHJpYy10by1vZmZlci1rZXktbWFuYWdlbWVudC1hcy1hLXNlcnZpY2UtZm9yLXNhbGVzZm9yY2Utc2hpZWxkLXBsYXRmb3JtLWVuY3J5cHRpb24tMzAwMjk3MDI3Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"SAN JOSE, Calif., July 12, 2016 /PRNewswire/ -- Vormetric, a Thales company and a leader in enterprise data protection for physical, virtual, big data and cloud environments, today announced that it is participating in a pilot program to offer Key Management-as-a-Service (KMaaS) for Salesforce Shield Platform Encryption.
+
+Salesforce Shield Platform Encryption enables enterprises using Salesforce to natively encrypt data at rest across their Salesforce apps without compromise to business functionality. Vormetric Key Management-as-a-Service for Salesforce adds controls that enable organizations to help meet compliance and best-practice requirements by storing, managing and maintaining tenant secrets used to derive encryption keys within a secure Vormetric-hosted environment.
+
+Click to Tweet: Announcing #Encryption #KMaaS for #Salesforce Shield - @Vormetric bit.ly/29lPkpf
+
+Management of Salesforce encryption key lifecycles
+
+In order to meet compliance mandates, data residency requirements and best practices, enterprises using Salesforce Shield Platform Encryption may need to address some additional requirements for managing keys:
+
+Encrypted keying material storage separated from key usage locations
+
+Segregated management of tenant secret creation, rotation, deactivation and destruction
+
+Separation of duties for key management based upon organization and locale
+
+Auditing of encryption key management, usage and access
+
+Vormetric's KMaaS enables organizations to easily meet these requirements, while making use of Salesforce's SaaS-based platform to eliminate the need to deploy, maintain and resource encryption key management tasks.
+
+Simplifying encryption key management
+
+As identified in the 2016 Vormetric Data Threat Report , complexity is the top concern that organizations identified when considering the use of encryption and other data protection solutions. Vormetric KMaaS for Salesforce helps eliminate this complexity, enabling rapid deployment directly integrated with Salesforce and simplifying interfaces that can help organizations immediately begin protecting their sensitive data stored within Salesforce applications.
+
+Vormetric's management of tenant secrets used to derive encryption keys also eliminates the problems organizations typically encounter with on-premises installations, including integration and configuration of physical hardware and software. In addition, dedicated interfaces for Salesforce Shield Platform Encryption make it easier for security administrators to fully utilize encryption key management tasks.
+
+""Past data encryption options for SaaS resulted in reductions to business functionality, as encryption services were not integrated with SaaS infrastructure,"" said Vormetric Vice President of Cloud CJ Radford. ""This combined solution with Salesforce represents a new milestone – offering a complete, flexible encryption solution. Salesforce Shield Platform Encryption provides the robust encryption service, while Vormetric provides complementary capabilities to further address needs to meet compliance and best practices for managing of encryption key lifecycles outside of Salesforce. And all without the need for enterprises to become cryptographic experts.""
+
+A limited pilot is available. For more information on Vormetric Key Management as a Service for Salesforce offering, please visit: https://www.vormetric.com/products/kmaas
+
+To learn more about global trends and perceptions in data security, download The Vormetric 2016 Data Threat Report.
+
+Salesforce and others are among the trademarks of salesforce.com, Inc.
+
+About Vormetric, a Thales company
+
+Vormetric's comprehensive high-performance data protection platform helps companies move confidently and quickly. Our seamless and scalable platform is an effective way to protect data wherever it resides—any file, database and application, in any server environment. Advanced transparent encryption, powerful access controls and centralized key management let organizations encrypt everything efficiently, with minimal disruption. Regardless of content, database or application—whether physical, virtual or in the cloud—Vormetric Data Security enables confidence, speed and trust by encrypting the data that builds business. Vormetric Data Security was recently acquired by Thales Group and is now a Thales company.
+
+Please visit: www.vormetric.com and find us on Twitter @Vormetric.
+
+About Thales
+
+Thales is a global technology leader for the Aerospace, Transport, Defence and Security markets. With 62,000 employees in 56 countries, Thales reported sales of €14 billion in 2015. With over 22,000 engineers and researchers, Thales has a unique capability to design and deploy equipment, systems and services to meet the most complex security requirements. Its exceptional international footprint allows it to work closely with its customers all over the world.
+
+Positioned as a value-added systems integrator, equipment supplier and service provider, Thales is one of Europe's leading players in the security market. The Group's security teams work with government agencies, local authorities and enterprise customers to develop and deploy integrated, resilient solutions to protect citizens, sensitive data and critical infrastructure.
+
+Drawing on its strong cryptographic capabilities, Thales is a global leader in data protection and one of the world leaders in cybersecurity products and solutions for defence, critical infrastructure and telecommunication operators, industrial and financial companies. Covering the entire cybersecurity chain, Thales offers a comprehensive range of services and solutions that includes: cybersecurity consulting and testing, cyber-secured software centric system design / development / integration and certification, provision and through-life management of data protection products and services, secured IT outsourcing and cloud computing solutions, as well as managed security services based on our network of Security Operation Centers in France, the United Kingdom and the Netherlands.
+
+Logo - http://photos.prnewswire.com/prnh/20130626/SF38541LOGO
+
+SOURCE Vormetric
+
+Related Links
+
+http://www.vormetric.com
+
+","{'label': 'Positive', 'score': 0.858851432800293}",positive,0.858851432800293,1
+Thales Alenia Space Finishes Europasat Construction for Inmarsat IFC Network - Via Satellite,"Thu, 21 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTYvMDcvMjEvdGhhbGVzLWFsZW5pYS1zcGFjZS1maW5pc2hlcy1ldXJvcGFzYXQtY29uc3RydWN0aW9uLWlubWFyc2F0LWlmYy1uZXR3b3JrL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"[Via Satellite 07-21-2016]has completed the construction, integration and associated sub-system tests of’s Europasat satellite for the European Aviation Network (EAN) In-Flight Connectivity (IFC) solution. The manufacturer finished the satellite on schedule following an extensive two-year build process in Toulouse and Cannes, France. The satellite is now undergoing rigorous system end-to-end testing before it is declared ready for flight in 2017.
+
+Europasat is half of a joint satellite between Inmarsat and Hellas Sat, with Hellas-Sat’s payload, Hellas Sat 3, carrying 44 Ku-band transponders plus one for Ka-band. Along with the space segment, EAN also leverages an Air-to-Ground (ATG) network across the European Union (EU). Inmarsat partner Deutsche Telekom will operate the ATG LTE network of approximately 300 towers. The satellite has been custom-designed to provide Mobile Satellite Services (MSS) to aircraft flying over dense European routes, exploiting Inmarsat’s 30MHz (2 x 15MHz) S-band spectrum allocation in all 28 EU member states, plus Norway and Switzerland. Aircraft will switch automatically between satellite and terrestrial connectivity using an on–board network communicator.
+
+“The European Aviation Network … will offer unprecedented high-speed capacity at 75Mbps with near zero latency while flying over Europe, so passengers can enjoy an easy-to-use true broadband experience for internet streaming, gaming and other online services direct to their personal smart devices,” said Leo Mondale, president of Inmarsat Aviation.
+
+Over the coming months, the satellite will undergo thermal vacuum, mechanical and acoustic testing to ensure it operates nominally. Once these tests are complete, SpaceX will prepare the satellite for launch at Cape Canaveral in Florida. The launch, originally envisioned for 2016, is now scheduled to take place in 2017.","{'label': 'Neutral', 'score': 0.9999979734420776}",neutral,0.9999979734420776,0
+Sentinel-3A passes in-orbit commissioning review! - Thales,"Wed, 13 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9zZW50aW5lbC0zYS1wYXNzZXMtb3JiaXQtY29tbWlzc2lvbmluZy1yZXZpZXfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Sentinel-3A satellite, built by Thales Alenia Space and dedicated to environmental monitoring and oceanography, was launched from the Plesetsk Cosmodrome in Russia on February 16, 2016. It has just passed its in-orbit commissioning review (IOCR), showing that all functions are operating correctly and delivering the specified performance.After the launch and early orbit phase (LEOP), which proceeded very quickly for such a complex satellite, Thales Alenia Space, the European Space Agency (ESA) and Eumetsat (European Meteorological Satellite organization) carried out all operations needed to commission the various instruments and also adjusted data calibrations so that Eumetsat‘s Darmstadt facility could take over all routine operations.Carrying an array of state-of-the-art instruments, Sentinel-3 is the cornerstone of Europe’s vast Copernicus program, conducted by ESA in conjunction with the European Commission. The Sentinel-3A satellite carries four main payloads to perform its missions, which include oceanography, continental hydrology and surveillance of land vegetation.Sentinel-3A has been described as the “Swiss knife” of operational oceanography because of its multitasking capabilities. One of its major assignments is surface topography, which entails a very precise measurement of sea and wave heights, as well as wind speeds over oceans. It also measures the temperature and color of oceans, lakes and rivers.The data collected by the European satellite will help us improve oceanographic and atmospheric forecasts. This type of information allows us to better understand the current health of our oceans, better manage fishing resources, and accurately monitor changes in sea levels and the shrinking ice fields in the arctic.","{'label': 'Neutral', 'score': 0.7235017418861389}",neutral,0.7235017418861389,0
+Scorpion Selected for ASDOT Proposal - Aviation International News,"Tue, 12 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTYtMDctMTIvc2NvcnBpb24tc2VsZWN0ZWQtYXNkb3QtcHJvcG9zYWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Scorpion Selected for ASDOT Proposal
+
+An ASDOT contract is due to be awarded in September 2018, with delivery of the service to run for 15 years starting in January 2020.","{'label': 'Neutral', 'score': 0.9992109537124634}",neutral,0.9992109537124634,0
+Laser-guided Rocket For the French Army - Aviation International News,"Mon, 11 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTYtMDctMTEvbGFzZXItZ3VpZGVkLXJvY2tldC1mcmVuY2gtYXJtedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Laser-guided Rocket For the French Army
+
+After five years of development Thales subsidiary TDA is launching its Aculeus-LG laser-guided rocket with a French army order.","{'label': 'Neutral', 'score': 0.9890329837799072}",neutral,0.9890329837799072,0
+Considering JetBlue's IFE options for the Airbus A320neo - Runway Girl Network,"Fri, 08 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTYvMDcvY29uc2lkZXJpbmctamV0Ymx1ZXMtaWZlLW9wdGlvbnMtZm9yLXRoZS1haXJidXMtYTMyMG5lby_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"When JetBlue launched service 16 years ago – and provided complimentary DirecTV at every seatback – the offering was revolutionary. With the launch of JetBlue’s new A320 cabin in 2017, a new Thales Inflyt product called STV+ will be introduced, combining on-demand content and live TV in a seat-back Android device, with the option to stream to passenger devices. Starting in 2018, however, JetBlue will begin taking delivery of is first re-engined A320neo-family jets and these are not currently under contract to any seatback IFE provider. And so the company can take a (small) amount of time now to shop around and see what the field is able to offer for its needs. Word on the street is that the shopping has begun – one of many contracts in play for US airlines.
+
+The 36-channel seatback ‘LiveTV’ product on JetBlue’s A320s and Embraer 190s, and the nextgen 100-channel solution on offer on its A321s, are supported by Thales, which acquired LiveTV in 2014. Thales is also lead on JetBlue’s inflight connectivity contract; the connectivity is powered by ViaSat’s high-capacity Exede Ka service.
+
+Panasonic Avionics, Global Eagle Entertainment and Gogo all offer competing live television solutions, but via IPTV (television delivered via IP). And ViaSat is even working on IPTV seatback integration with Virgin America’s IFE hardware provider Panasonic. With multiple options from which to choose, JetBlue is in a strong position to play vendors off one another, raising an interesting opportunity for the New York-based carrier: What should it do next?
+
+There are many reasons to believe that JetBlue will not offer the direct broadcast solution on the A320neo that is now on offer on its A320ceos and E-190s. Among other things, the hardware has significant acquisition and carrying costs. Running a dual satellite solution to address different apertures and technologies (separate Ku and Ka antennas beneath the radome hood for TV and broadband connectivity, respectively) means added complexity and challenges, though getting both spectrum bands under a single radome is becoming more common; for instance, ViaSat recently received certification for a hybrid Ku/Ka-band antenna configuration to fly on A320s for Virgin America.
+
+The expense over time to transmit via IPTV over the same antenna used for broadband connectivity is competitive, and demand is strong especially when television content is free. But is demand 100-plus channels strong, (as offered now on the A321s, and as will be offered when the A320ceos are refurbished)? Some vendors don’t think so.
+
+In 2014, when Thales first teased a streaming DirecTV product for United to RGN, the firm indicated that an aircraft will almost never see more than 25 unique channels in use, even on a plane with 150 passengers and 99% usage of the system. Rival Panasonic agrees. The company has nine IPTV channels available today for its airline customers and expects to see that expand to 20 in the very near future. “You start to get down to very small percentages that watch things above 20,” Panasonic VP Global Communications Services David Bruner recently told RGN.
+
+Whether JetBlue chooses to do a streaming only or (more likely) keep an embedded IFE offering for its A320neos, the number of channels necessary to meet consumer demand may not be as high as the carrier is delivering at present.
+
+Geography also plays a role in the discussion for JetBlue. The carrier cannot provide DirecTV on international flights today because most of the flight time is spent outside the coverage area of the DirecTV satellite. Switching to an IPTV solution will solve that problem, though it also introduces others, namely in the area of content licensing. One of the reasons Panasonic has a limited set of channels available is because it negotiates global broadcast rights for the content. That’s critical to being able to deliver the content to all its customers’ flights. With JetBlue now operating roughly 30-35% of its daily capacity outside the US, content licensing should be a consideration for the carrier.
+
+Of course, there’s also the argument that passengers will simply use the Fly-Fi-branded broadband inflight connectivity on board and choose the content they want to watch on the Internet. One industry executive believes that approach will not meet the demand of today’s traveling public suggesting, “[TV] is as important and maybe even more so than broadband because people love to be entertained and they want it all the time. They also like to do these things simultaneously. So it is not like an either or kind of choice. But I see this being a monster separator and change agent over the next few years.”
+
+As the incumbent with a passenger base that is generally very satisfied with the onboard offerings Thales certainly has a strong position to hold onto the future JetBlue A320neo business, perhaps with STV+. But split fleets and shifting between operators is far from uncommon these days. There will be a competition to win the new JetBlue business. That should be good news for passengers. And given the lead times necessary for installations a decision is likely coming soon.","{'label': 'Neutral', 'score': 0.9987200498580933}",neutral,0.9987200498580933,0
+Successful Thales Lightweight Multirole Missile (LMM) firing from Aselsan MILAS turret - Navy Recognition,"Tue, 12 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMi_QFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlLzIwMTYvanVseS0yMDE2LW5hdnktbmF2YWwtZm9yY2VzLWRlZmVuc2UtaW5kdXN0cnktdGVjaG5vbG9neS1tYXJpdGltZS1zZWN1cml0eS1nbG9iYWwtbmV3cy80MTkzLXN1Y2Nlc3NmdWwtdGhhbGVzLWxpZ2h0d2VpZ2h0LW11bHRpcm9sZS1taXNzaWxlLWxtbS1maXJpbmctZnJvbS1hc2Vsc2FuLW1pbGFzLXR1cnJldC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"After firing the missile, the MILAS launcher exhibited perfect tracking accuracy with its Stabilised Electro Optics incorporating the Thales Catherine MP IR camera which guided the missile to its target 3.5km away and neutralizing it.
+
+
+
+The LMM had a direct impact on the target and inflicted devastating (extensive or comprehensive) damage to the boat as a result of its dual effect shaped charge and blast fragmentation warhead.
+
+
+
+Thales has collaborated with Aselsan to develop this unique solution to weaponise Fast Patrol Boats. There is a large global market for MILAS in defending against the growing threat to shipping from piracy, terrorists and rogue states employing a variety of FIAC platforms.
+
+
+
+The maritime environment creates a major challenge to conventional missiles in engaging Fast Inshore Attack Craft (FIAC) threats, due to their high mobility, small signature, and the severe background clutter. The unique Thales Laser Beam Riding concept enables the LMM to operate in this environment, which is just one of the reasons the Lightweight Multirole Missile has been selected to meet the operational requirements of the British Army and Royal Navy.","{'label': 'Neutral', 'score': 0.8675979971885681}",neutral,0.8675979971885681,0
+"Thales bets big on India, scouting for more partners - The Indian Express","Sun, 17 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvYnVzaW5lc3MvY29tcGFuaWVzL2ZyZW5jaC1kZWZlbmNlLXRoYWxlcy1iZXRzLWJpZy1vbi1pbmRpYS1zY291dGluZy1mb3ItbW9yZS1wYXJ0bmVycy0yOTE4OTYzL9IBhQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvYnVzaW5lc3MvY29tcGFuaWVzL2ZyZW5jaC1kZWZlbmNlLXRoYWxlcy1iZXRzLWJpZy1vbi1pbmRpYS1zY291dGluZy1mb3ItbW9yZS1wYXJ0bmVycy0yOTE4OTYzL2xpdGUv?oc=5&hl=en-US&gl=US&ceid=US:en,"India currently contributes less than 2.5 per cent to the company’s 14 billion Euro annual turnover. (Source: Wikimedia Commons)
+
+French defence major Thales is keen on increasing its over six-decade-old footprint in India and aims at roping the country in a much bigger way into its global supply chain.
+
+Maintaining that Thales has “ambitious plans” involving India, which currently contributes less than 2.5 per cent to the company’s 14 billion Euro annual turnover, a top executive said they are looking at more joint ventures besides the ones already in place with state-run BEL, Samtel and L&T.
+
+“We have ambitious plans for the future…we believe that we can go much further. We see our activities in India not only as the right approach to get some business here but we also see our activities as a way to increase our footprint in other countries through export from India,” Pascale Sourisse, Thales’ Senior Executive Vice President (International Development) told PTI.
+
+[related-post]
+
+Watch Video: What’s making news
+
+Advertisement
+
+She said the company’s strategy in India is defined not only by a regional or domestic view but should be seen as involving the country in the group’s global strategy.
+
+“We believe India will play a big role in the global strategy of Thales going forward. Our assessment is we need to do much more. Currently what we have done is to actually work on our purchasing policy to identify more Indian companies that can be suppliers,” Sourisse said.
+
+Talking about the company’s tie-ups with educational institutes like the IIT, Mumbai and Indian Institute of Science, Bangalore, she said India has a lot of engineers and the firm believes the country needs to have a stronger policy in the field of innovation.
+
+Talking about the joint ventures with BEL in radar technology, Samtel for avionics and L&T for software development, she said the aim is to use them more in the company’s supply chain.
+
+Advertisement
+
+She said they are also looking at involving other Indian companies and even the 300-strong Thales workforce in India in programmes in other countries.
+
+“There is a lot to do but we are confident that with the right focus we can improve the share of India in our global supply chain very substantially,” Sourisse said.
+
+Even though Thales, which is present in India since 1953, is slowly spreading its wings in the Indian civilian sector, like smart city projects and railways, besides the military segment, she said defence will continue to be the main focus.
+
+She said defence sector contributes more than half of the 300 million Euro turnover the company has in India.
+
+Advertisement
+
+“Our strategy for India is to grow this number of 300. India should participate in projects for other customers. We expect India to be one of our large (contributor) countries in Thales organisation,” she said.
+
+She also hoped that the much anticipated Rafale fighter jet deal will be inked soon. Thales is a major partner in the project. She said the company hopes that India will continue to purchase additional aircraft.
+
+“This solution (Rafale) is very well suited for Indian needs,” Sourisse said.","{'label': 'Neutral', 'score': 0.9233219623565674}",neutral,0.9233219623565674,0
+"The Week in Space: Business Digest, July 8-15 - ROOM Space Journal","Fri, 15 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vcm9vbS5ldS5jb20vY29tbXVuaXR5L3RoZS13ZWVrLWluLXNwYWNlLWJ1c2luZXNzLWRpZ2VzdC1qdWx5LTgtMTXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Britain selects international teams to study possible spaceport.
+
+The feasibility study contracts are valued at a total of 1.5 million British pounds ($2 million), and have been awarded to the following companies:
+
+
+
+Airbus Safran Launchers, prime contractor for Ariane 5 and Ariane 6 rockets; Deimos Space UK, associated with Firefly Space Systems (USA); Lockheed Martin (USA); Orbital ATK (UK); Virgin Galactic.
+
+So far the British government' policy regarding the spaceport has been limited to helping with the legal and regulatory framework that would make a British commercial spaceport possible, while not providing any subsidies for its development. According to Bob Waters, head of industrial strategy at the U.K. Space Agency, “What government is committed to do is taking forward a regulatory environment and a legal environment for introducing these vehicles. We have made absolutely no calls whatsoever about whether to invest money. It’s something we’ve never done, so this is a new regulation for us. We want to find out, from an operator’s perspective, what it would take to do this efficiently and cost effectively. We were also asking about technologies that would be needed and how U.K. companies could play a role with the primes that emerge in this area.”
+
+
+
+The studies are being overseen by the Center for Earth Observation Instrumentation and Space Technology (CEOIST), on behalf of the U.K. Space Agency and final results reports are expected to be submitted by November. The reports are expected to include possible business models, future small-satellite markets and infrastructure requirements for a spaceport.
+
+Rocket Lab wins launch contract from Planet.
+
+
+
+Rocket Lab, the company currently developing the Electron small launch vehicle has announced that it won a three-launch contract from remote sensing satellite company Planet, formerly Planet Labs. As per this contract, three of Planet's Dove satellites will be launched on Electron vehicles. A Dove satellite is a three-unit cubesat and weighs about five kilograms. According to Mike Safyan, director of launch and regulatory affairs at Planet, the number of satellites in each launch is likely to be between 20 and 25.
+
+The Electron vehicle has not yet seen its first flight, but if all goes well, the first Planet launch using Electron small launch vehicle can happen as early as the second quarter of 2017.
+
+Aside from Planet, Rocket Lab also has a three-launch contract with Moon Express, a commercial lunar lander developer, and has won a Venture Class Launch Services contract from NASA last year.
+
+Thales Alenia Space announces new contract with Orbital ATK.
+
+
+
+Thales Alenia Space, a joint venture between Thales (67%) and Leonardo-Finmeccanica (33%), announced the signing of a new contract with Orbital ATK, Inc.
+
+
+
+Under terms of the agreement, Thales Alenia Space will supply nine additional Pressurized Cargo Modules (PCM) to Orbital ATK for upcoming cargo resupply missions to the International Space Station (ISS). The cargo module is designed to transport crew supplies and science experiments on Orbital ATK’s Cygnus spacecraft under NASA’s Commercial Resupply Services contract. Cygnus recently delivered 7,900 pounds of cargo and science experiments to astronauts aboard the station and successfully completed its fifth mission under the contract. Orbital ATK is scheduled to complete 10 CRS-1 missions to the International Space Station before transitioning to launch cargo logistics missions under the CRS-2 contract in 2019.
+
+“We are truly proud of the renewed trust that Orbital ATK has put in us,"" said Walter Cugno, Vice President, Exploration and Science of Thales Alenia Space. “The signing of this latest contract represents the continued vote of confidence from a valued customer in our engineering and our facility that provides pressurized cargo modules to re-supply the International Space Station. We look forward to continuing this successful relationship for many years to come.”
+
+Sierra Nevada Corp. completes first milestone under NASA contract.
+
+
+
+Sierra Nevada Corp. (SNC) has announced that the first milestone under its NASA Commercial Resupply Services (CRS-2) contract on cargo delivery to the ISS has been completed. NASA has approved its plan for the various stages of SNC's Dream Chaser vehicle development. The monetary value of plan completion has not been released.
+
+SNC was one of three companies that won CRS-2 contracts – the other two were Orbital Sciences Corp. and SpaceX.
+
+“The accelerated completion of the first milestone under the CRS-2 contract award marks significant progress for SNC and the Dream Chaser program,” Mark Sirangelo, corporate vice president of SNC’s Space Systems division, said in a statement announcing the milestone.
+
+
+
+
+
+","{'label': 'Neutral', 'score': 0.9999940395355225}",neutral,0.9999940395355225,0
+"BDB: Doge saves the day, slime in Indian Harbour Beach and jobs - Florida Today","Tue, 12 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmZsb3JpZGF0b2RheS5jb20vc3RvcnkvbmV3cy8yMDE2LzA3LzEyL2JkYi1kb2dlLXNhdmVzLWRheS1zbGltZS1pbmRpYW4taGFyYm91ci1iZWFjaC1hbmQtam9icy84Njk2Mjg1Mi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"BDB: Doge saves the day, slime in Indian Harbour Beach and jobs
+
+Show Caption Hide Caption Rockledge family escapes early morning house fire A Rockledge family escaped an early morning house fire after their dog alerted them to the danger. Tim Shortt
+
+Doge to the rescue!
+
+In true Lassie style, a Rockledge dog saved the day when the pup alerted its owners to a fire in the house in the middle of the night. Before smoke alarms went off, Jade, a Shiba Inu, barked until its owners got the hint and woke up. There was trouble at the condo near Barnes Boulevard, an electrical fire had started in the kitchen around 3 a.m.
+
+The family and all of their pets were able to escape the condo before the fire completely gutted the house.
+
+Tara Zysset, along with her newborn baby, 4-year-old son, husband, four dogs, two cats and three turtles made it our safely. Whew, that's a lot of pets.
+
+Unfortunately, the family lost their home, most of their possessions and are now displaced. Thankfully, the Red Cross stepped in and the family (and their pets) have a temporary place to stay in Cocoa Beach. The cause of fire hasn't been determined yet, but can we all agree Jade deserves a nice juicy steak? Go pupper go! (PS: Legit. Doge saved the day. The popular doge meme is actually of a Shiba Inu, the same breed of dog as Jade).
+
+Here we go again...
+
+Move over, brown tide, your uglier green brother has come to town. Indian Harbour Beach residents are reporting green slime in area canals, making me wonder if the movie ""Flubber"" was real life.
+
+Get this. Remember when Brevard had to dump a million gallons of raw sewage into the canals in, I don't know, INDIAN HARBOUR BEACH?! Yeah. Same area we're finding the green slime. Now, it's not clear if the two incidents are related. What do we need a paternity test? Where's Maury?
+
+All kinds of scientists are testing the water, including those from the Florida Institute of Technology and the Fish and Wildlife Research Institute. The good news is that samples have determined this is not the algae found in South Florida that's turned the whole area into a scene from Ghostbusters. It's a bigger, more visually apparent type of organism that shows more than it grows. The algae isn't the same stuff that causes brown tide, either, so we may be off the hook with that.
+
+Either way, the hot summer months are problematic for our dirty waterways, so fear of another brown tide disaster is totally rational.
+
+All hail Thales!
+
+You get a job! You get a job! You get a job!
+
+Thales, a French multinational aerospace and defense company, may be Brevard's next Oprah. The company announced plans to add 327 more jobs in Melbourne and another 173 in Orlando. The jobs will pay an average of $64,356 annually. The company is reeling in $1.38 million in incentives, spread over 10 years for the deal.
+
+
+
+I'll let Business Reporter Wayne ""Show me the money"" Price explain the deets:
+
+""(Thales) engineers mostly design entertainment and Internet wireless systems for commercial aircraft. Formerly LiveTV — a Harris Corp. spin-off that was later purchased by JetBlue — Thales acquired the company in March 2014.""
+
+This big Thales announcement is actually what that ambiguous ""Project Marathon"" was all about. All these companies get super hush-hush when it comes to expansion and give themselves cool James Bond-like names. That means we've actually know about it for months, just not any of the details. So yay, the cat is out of the bag.
+
+Here's what most of us don't know, though: How to pronounce the name of this place. I fooled you with the header here. It doesn't rhyme with hails, I just wanted it to. It's actually ""tal is."" French people and their fancy words.
+
+Contact Saggio at 321-242-3664 or jsaggio@floridatoday.com. Twitter: @jessicajsaggio Instagram:@jessicajsaggio Snapchat: JuhJuhJuh
+
+Be sure to check out the Boiled Down Brevard Podcast, too!","{'label': 'Neutral', 'score': 0.9995057582855225}",neutral,0.9995057582855225,0
+Textron AirLand Scorpion jet selected for ASDOT bid - Skies Magazine,"Tue, 12 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc2tpZXNtYWcuY29tL3ByZXNzLXJlbGVhc2VzL3RleHRyb24tYWlybGFuZC1zY29ycGlvbi1qZXQtc2VsZWN0ZWQtZm9yLWFzZG90LWJpZC_SAVxodHRwczovL3NraWVzbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy90ZXh0cm9uLWFpcmxhbmQtc2NvcnBpb24tamV0LXNlbGVjdGVkLWZvci1hc2RvdC1iaWQvP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"Pictured from left to right: Steve Wadey, CEO of QinetiQ; Scott Donnelly, chairman and CEO, Textron; Victor Chavez, CEO Thales U.K.; and Sir Steven Dalton, senior air advisor to Textron AirLand. Textron Photo
+
+QinetiQ, Thales and Textron AirLand, a Textron Inc. company, have announced a collaboration that will bid for the UK. .Ministry of Defence’s upcoming Air Support to Defence Operational Training (ASDOT) program.
+
+The three companies’ CEOs met at Farnborough International Airshow to announce the signing of the memorandum of understanding (MOU) setting the foundation for the bid.
+
+The operational training activities that will comprise the ASDOT program are currently fulfilled by a number of providers, both military and civilian. This team will propose an innovative, cost effective, technologically advanced reliable managed service using the Textron AirLand Scorpion jet equipped with Thales and QinetiQ sensors to provide a broad spectrum of training for all three armed services.
+
+The competitive contract, expected to be awarded in September 2018 with a service delivery start in January 2020, is anticipated to be worth up to £1.2 billion over 15 years.
+
+What will each company offer?
+
+QinetiQ
+
+QinetiQ will offer the safe operation of a highly capable and flexible mixed fleet of Scorpion and other platforms—including maintenance and provision of pilots. Its proposal will include integration of sensors and jamming pods into the aerial fleet and certification of the aircraft to ensure compliance with military air worthiness regulations.
+
+The solution will include provision for the introduction of synthetic operational training and airborne aerial target capabilities.
+
+Steve Wadey, QinetiQ CEO, said: “Our test and evaluation pedigree makes us ideally placed to introduce the highly capable Scorpion for use in the ASDOT program. Our people are experts in cost effective aircraft operation, providing significant savings to the MOD while offering the highest standard of support to U.K. defence operational training. Collaborative working of this nature is vital within the aerospace and defence industries, and I believe this partnership puts us all in a strong position to succeed.”
+
+Thales
+
+Thales’s breadth of training service provision for air platforms spans from jet fighters, tactical transporters, helicopters to refueling aircraft.
+
+Thales brings extensive experience in delivering fully managed training services and engineering bespoke high fidelity training equipment such as full mission simulators for leading air platforms such as A400M, Voyager, Tornado, Rafale, Mirage 2000, Hawk and Eurofighter.
+
+Thales has an international footprint providing training and simulation products and services to a global customer network.
+
+As a world leading supplier of aircraft sensors and mission systems, Thales will also offer a range of sensors optimized for situational awareness, threat replication and targeting training, as well as electronic warfare capability. Thales systems and sensors designed for defence and security applications provide superior intelligence gathering and threat detection to make better informed decisions.
+
+Victor Chavez, Thales U.K. CEO, said: “Through this unique partnership with QinetiQ and Textron and the complementary expertise within our respective fields, we have the opportunity to offer all three armed services the most effective, cutting edge technology coupled with world leading training and services expertise. The UK. Ministry of Defence will be able to benefit from the collaboration of technologies and knowledge to deliver important long-term Air Operational Training services.”
+
+Textron AirLand
+
+Textron AirLand will offer its Scorpion jet, selected by QinetiQ and Thales after a comprehensive analysis of over 50 aircraft. This selection was based on the aircraft’s multi-mission capability, combined with unparalleled acquisition and operating costs and a dispatch reliability rating exceeding 98 per cent.
+
+Scott Donnelly, Textron’s chairman and CEO, said: “The Scorpion jet provides the multi-role capability and performance necessary to perform the ASDOT program missions at a fraction of the acquisition and operating costs compared to any other aircraft in its class. Textron is confident this team will provide the platform and support necessary to carry out vital military training missions. We look forward to strengthening our relationship with these industry-leading companies as we compete for the ASDOT program.”
+
+Designed and built with leading-edge technologies, the Scorpion is a bold new direction for tactical aircraft. The aircraft is very versatile in terms of mission flexibility with a centre payload bay, six hard points, high dash speeds and extended endurance and loiter time at cruise speeds.
+
+The Scorpion is built to excel in many roles, including intelligence, surveillance and reconnaissance, close air support, armed reconnaissance, maritime and border patrol and jet training missions.","{'label': 'Neutral', 'score': 0.5715845227241516}",neutral,0.5715845227241516,0
+MoD awards Thales Future Support Contract for Watchkeeper - ADS Advance,"Wed, 06 Jul 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFkc2FkdmFuY2UuY28udWsvbW9kLWF3YXJkcy10aGFsZXMtZnV0dXJlLXN1cHBvcnQtY29udHJhY3QtZm9yLXdhdGNoa2VlcGVyLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"MoD awards Thales Future Support Contract for Watchkeeper
+
+The UK Ministry of Defence has awarded Thales a £80 million contract to deliver Support to the British Army's combat proven Watchkeeper Unmanned Aircraft System (UAS).
+
+The Support Contract will provide technical support over the coming years and provide important additional capacity for training in order to generate operational capability.
+
+Training support will see the continuation of the Watchkeeper Training Facility, training solutions design, updates to training courseware, and additional instructional capacity for pilot and mission system operators, maintainers and support crew.
+
+Advertisement
+
+In addition to supporting force generation, through training, Thales will provide direct maintenance support, which includes the provision of trained personnel to enhance the Army’s front-line engineering capacity.
+
+Other important areas of support include a flexible, responsive technical query service; maintenance and updates of technical documentation and supply support, and the repair and deep storage maintenance for the equipment held in reserve.
+
+The award of this contract will sustain around 160 high-quality engineering jobs at locations across the UK including Crawley, Leicester, Bristol and Boscombe Down.
+
+Defence Secretary Michael Fallon said: “This £80 million agreement ensures the British Army’s Watchkeeper system will provide UK troops with next-generation battlefield intelligence for years to come. Sustained support for Watchkeeper is a key part of the UK Government’s 10-year £178 billion equipment plan to provide our Armed Forces with the kit they need now and into the future.”
+
+Advertisement
+
+Building on the previous initial support contract, Thales and the UK Ministry of Defence have worked together to provide a value for money solution that will meet the needs of the UK Armed Forces and ensures it has the serviceable equipment and training solution in place to generate increased capacity for operations over the coming years.","{'label': 'Neutral', 'score': 0.57314532995224}",neutral,0.57314532995224,0

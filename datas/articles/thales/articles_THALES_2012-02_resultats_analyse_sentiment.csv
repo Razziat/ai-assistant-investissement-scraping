@@ -1,0 +1,50 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+ESA - A new generation of meteorological satellites - European Space Agency,"Fri, 24 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5lc2EuaW50L0FwcGxpY2F0aW9ucy9PYnNlcnZpbmdfdGhlX0VhcnRoL01ldGVvcm9sb2dpY2FsX21pc3Npb25zL21ldGVvc2F0X3RoaXJkX2dlbmVyYXRpb24vQV9uZXdfZ2VuZXJhdGlvbl9vZl9tZXRlb3JvbG9naWNhbF9zYXRlbGxpdGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Europe’s next fleet of meteorological satellites is set to debut in 2017, following today’s signing of the development contract. While Meteosat Third Generation will ensure full continuity with the current Meteosat satellite family, it will also introduce significant improvements.
+
+At an event held today at ESA’s headquarters in Paris, the contract between ESA and Thales Alenia Space for developing the new Meteosat Third Generation (MTG) family of satellites was signed.
+
+Following on from Meteosat Second Generation, MTG is a cooperative venture between Eumetsat and ESA, and will ensure continuity of high-resolution meteorological data to beyond 2037.
+
+The cooperation on meteorological missions between Eumetsat and ESA is a success story that started with the first Meteosat satellite in 1977 and continues today with Meteosat Second Generation and the polar-orbiting MetOp series.
+
+The new series will comprise six satellites: four MTG-I imaging and two MTG-S sounding satellites.
+
+The first two prototype satellites are scheduled for launch in late 2017 and mid-2019, respectively. Both satellites will be positioned in geostationary orbit above the equator at a longitude between 10ºE and 10ºW.
+
+In addition to the advanced imaging capabilities offered by the Flexible Combined Imager, the satellites will offer an all-new infrared sounding capability and imaging of global lightning that will provide early warning of severe storms.
+
+MTG-S will also carry the Sentinel-4 payload for the Global Monitoring for Environment and Security (GMES) programme. This advanced payload will analyse atmospheric chemistry and identify concentrations of trace gases like ozone and nitrogen dioxide.","{'label': 'Positive', 'score': 0.9889984726905823}",positive,0.9889984726905823,1
+Taipei eyes complaint over Mirages - 台北時報,"Tue, 07 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRhaXBlaXRpbWVzLmNvbS9OZXdzL2Zyb250L2FyY2hpdmVzLzIwMTIvMDIvMDcvMjAwMzUyNDg3MdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Taipei eyes complaint over Mirages
+
+By J. Michael Cole / Staff Reporter
+
+
+
+
+
+Taiwan could soon file a complaint against France over alleged illegal commissions and kickbacks surrounding the 1992 sale of 60 Mirage 2000-5 fighter aircraft, reports said yesterday.
+
+The news comes a little more than six months after defense company Thales wired US$875 million into a Taiwanese government bank account following a decade-long legal battle over kickbacks and illegal commissions for the US$2.5 billion sale by Thomson-CSF (which became Thales in 2000) of six Lafayette-class frigates to the Taiwanese navy in 1991.
+
+Taiwanese authorities said the documents supporting claims that illegal commissions and kickbacks were paid to arms brokers in the Mirage sale were classified and in the possession of the Ministry of National Defense, adding that their content could not currently be made public.
+
+A Mirage 2000 fighter takes off from Hsinchu Air Base on Dec. 9, 2010. Photo: Liu Hsin-de, Taipei Times
+
+The International Court of Arbitration will go through the documents to determine whether the sale — part of a project codenamed Tango, which also included spare parts, maintenance and upgrades for the aircraft — involved illegal commissions and kickbacks. If the court rules that such activity did take place, France could reportedly face fines of as much as 1 billion euros (US$1.3 billion).
+
+According to French media, the initial contract for 48 Mirage 2000-5Ei interceptors and 12 Mirage 2000-5D twin-seat trainers in 1992 amounted to 22.8 billion francs (US$4.53 billion at the time), with Dassault Aviation and Thomson-CSF as the principal contractors and Matra providing the weapons systems.
+
+However, Taiwan paid an additional 6 billion francs for the aircraft, a discrepancy that prompted the Control Yuan in 2002 to recommend that a probe be launched. The 6 billion francs could represent the amount paid in illegal commissions and kickbacks, reports said.
+
+The Taiwanese air force announced in May 2010 that a review of the Mirage contract had been started. Reports at the time said Andrew Wang (汪傳浦), one of the arms dealers used as an intermediary in the Lafayette scandal, might also have played a role in the Mirage sale.
+
+According to information that could not be independently verified, French officials discreetly approached the administration of former president Chen Shui-bian (陳水扁) after 2002 to ask it to cancel any legal procedures against French defense contractors over the Lafayette and Mirage sales.
+
+The Mirage aircraft, which remain in service, are all based in Hsinchu.
+
+The Bureau Francais de Taipei yesterday refused to comment on the matter, telling the Taipei Times it was closely following developments on the issue.
+
+The Paris-based Court of Arbritation last night would not confirm whether Taiwan had filed a complaint over the Mirage deal, saying that all arbitration cases were confidential.","{'label': 'Neutral', 'score': 0.999010443687439}",neutral,0.999010443687439,0
+From H450 to Watchkeeper: Will the Long and Costly UAV Journey Be Worthwhile? | AIN - Aviation International News,"Wed, 15 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTItMDItMTUvaDQ1MC13YXRjaGtlZXBlci13aWxsLWxvbmctYW5kLWNvc3RseS11YXYtam91cm5leS1iZS13b3J0aHdoaWxl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"From H450 to Watchkeeper: Will the Long and Costly UAV Journey Be Worthwhile?
+
+Pending delivery of the definitive Watchkeeper system, the UK opted to introduce the standard Hermes 450 UAV, provided by Elbit and Thales under an innovative service-by-the-hour contract.","{'label': 'Neutral', 'score': 0.9013139009475708}",neutral,0.9013139009475708,0

@@ -1,0 +1,162 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Thales, Recaro partner on new integrated IFEC/seat - Flightglobal","Fri, 17 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vdGhhbGVzLXJlY2Fyby1wYXJ0bmVyLW9uLW5ldy1pbnRlZ3JhdGVkLWlmZWMvc2VhdC85NTkxMi5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has partnered with Recaro to integrate new in-flight entertainment and connectivity (IFEC) into a popular slimline seat.
+
+Under the arrangement, Thales' new seat-centric TopSeries smart video displays will be fitted to Recaro's award-winning Comfort Line (CL) 3620 economy-class seat for long-range travel.
+
+""We are responding to market demands by integrating the new IFE technology in our successful seat,"" says Eckhard Behnert, director product group management at Recaro.
+
+The seat is based on the unique single-beam principle that replaces the two conventional support beams with a single beam giving the seat a much leaner profile.
+
+""The flexible material in the headrest, the foot net, the ultra-thin backrest and other innovations all add up to an exceptionally comfortable experience for airline passengers,"" says Behnert.
+
+Thales' new passenger display is, in of itself, an IFEC system, he notes. With high capacity local storage and no seatbox to be found anywhere, ""the monitor is a modular design that offers airlines tremendous flexibility in terms of what they want to offer their passengers"".
+
+The monitor in the featured Recaro seat is available in various colours. The screens are 11in and 12in-class with a popular touch-screen navigation capability much like today's smart phones.
+
+""What's more, the modular design of the display improves serviceability and reduces cost of ownership. No longer are maintenance crews required to manage cabling between the seat box and display in order to replace the entire monitor for repair. The new TopSeries enables module component replacement, which allows the airline to swap-out only the module that requires attention in far less time and at a much lower cost,"" says Recaro.
+
+""Plus, the same holds for upgrades. The monitor accommodates up to four modules (audio jacks, USB, PED interface and an optional fourth slot for future features) that interface between the passenger and the system. With this design, an airline can add, subtract or exchange interface modules in a timely cost effective manner. In short, components can be exchanged on-wing without removing the entire display.""
+
+Source: Air Transport Intelligence news","{'label': 'Positive', 'score': 0.6933521628379822}",positive,0.6933521628379822,1
+Thales Antenna Contract For Canadian Navy - MarineLink,"Wed, 29 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm1hcmluZWxpbmsuY29tL25ld3MvY29udHJhY3QtY2FuYWRpYW4tYW50ZW5uYTMzNTY3MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Canada has been awarded a contract to supply the Canadian Navy with dedicated UHF satellite communication (SATCOM) omni-directional antennas for four of the Halifax-class frigates that are being con¬verted to command ships.
+
+
+
+The QHASS (Quadrifilar Helix) antenna was developed by Thales UK’s underwater systems business in Templecombe, Somerset, specifically to provide enhanced low-angle performance in the UHF SATCOM frequency band.
+
+
+
+""For more than 40 years Thales has been a major provider of sensors and systems to the Canadian Navy, and a variant of this antenna has been in operation with the Navy on its Iroquois-class destroyers for five years,” said Paul Kahn, Thales Canada President and CEO.
+
+
+
+As a compact omni-directional antenna, the QHASS system can be installed onto any platform with no specific mounting or stabilization. The QHASS antenna pattern is matched to provide optimum link margin performance at all elevation angles.
+
+","{'label': 'Neutral', 'score': 0.985478401184082}",neutral,0.985478401184082,0
+Fleet of Solar Sail Spacecraft Envisioned for Future Data Gathering Missions - Universe Today,"Sun, 19 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnVuaXZlcnNldG9kYXkuY29tLzc0MDAwL2ZsZWV0LW9mLXNvbGFyLXNhaWwtc3BhY2VjcmFmdC1lbnZpc2lvbmVkLWZvci1mdXR1cmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"[/caption]
+
+Future missions to explore the outer planets could employ fleets of ‘data-clippers’, maneuverable spacecraft equipped with solar sails, to ship vast quantities of scientific data back to Earth. According to Joel Poncy of satellite developer Thales Alenia Space, the technology could be ready in time to support upcoming missions to the moons of Jupiter and Saturn.
+
+
+
+“Space-rated flash memories will soon be able to store the huge quantities of data needed for the global mapping of planetary bodies in high resolution.” said Poncy. “But a full high-res map of, say, Europa or Titan, would take several decades to download from a traditional orbiter, even using very large antennae. Downloading data is the major design driver for interplanetary missions. We think that data clippers would be a very efficient way of overcoming this bottleneck.”
+
+Poncy and his team have carried out a preliminary assessment for a data clipper mission. Their concept is for a clipper to fly close to a planetary orbiter, upload its data and fly by Earth, at which point terabytes of data could be downloaded to the ground station. A fleet of data clippers cruising around the Solar System could provide support for an entire suite of planetary missions.
+
+“We have looked at the challenges of a data clipper mission and we think that it could be ready for a launch in the late 2020s. This means that the technology should be included now in the roadmap for future missions,” said Poncy.
+
+Spurred by the success of the Japanese Space Agency’s current solar sail mission, IKAROS, Poncy’s team have assessed the communications systems and tracking devices that a data clipper would need, as well as the flyby conditions and pointing accuracy required for the massive data transfers. Recent advances in technology mean that spacecraft propelled by solar sails, which use radiation pressure from photons emitted by the Sun, or electric sails, which harness the momentum of the solar wind, can now be envisaged for mid-term missions.
+
+“Using the Sun as a propulsion source has the considerable advantage of requiring no propellant on board. As long as the hardware doesn’t age too much and the spacecraft is maneuverable, the duration of the mission can be very long. The use of data clippers could lead to a valuable downsizing of exploration missions and lower ground operation costs – combined with a huge science return. The orbiting spacecraft would still download some samples of their data directly to Earth to enable real-time discoveries and interactive mission operations. But the bulk of the data is less urgent and is often processed by scientists much later. Data clippers could provide an economy delivery service from the outer Solar System, over and over again,” said Poncy.
+
+Poncy will be presenting an assessment of data clippers at the European Planetary Science Congress in Rome on Monday September, 20, 2010.
+
+Source: European Planetary Science Congress","{'label': 'Neutral', 'score': 0.9978728294372559}",neutral,0.9978728294372559,0
+Thales SA delivering on R200m FREMM console deal - defenceWeb,"Sat, 25 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRlZmVuY2V3ZWIuY28uemEvc2VhL3NlYS1zZWEvdGhhbGVzLXNhLWRlbGl2ZXJpbmctb24tcjIwMG0tZnJlbW0tY29uc29sZS1kZWFsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales South Africa (TSA) is currently delivering workstations (pictured) and related combat suite equipment under a 12.4 million euro contract to France for fitment to the first batch of that country’s new multi-mission European frigates (FREMM).
+
+TSA is manufacturing 17 composite-material operator’s consoles and three steel remote electric cabinets (RECs) for each of seven French and one Morocco FREMM, totalling 136 consoles and 24 RECs. Each ship is also being provided with three 57-inch flat-screen displays. The company is negotiating to supply a further 72 consoles (18 per ship), 12 RECs and 12 screens for a further four FREMM. That deal could be worth a further seven million euro.
+
+The technology being exported to France is similar to that developed for Project Sitron, the South African Navy’s frigate programme. The Valour-class frigates are fitted with Thales combat suites. Company official say there is a major difference in layout between the SA and French designs, with the former being more-traditional steel consoles with stacked screens and the latter being work-stations (see picture) with horizontal anti-flickering display screens.
+
+TSA has also had success with its Mikros compact modular combat suite, selling six – consisting of the appropriate hard- and software – to the Royal Thai Navy. Three are being fitted to a new-built class of 42m patrol vessels, while the remainder will be retrofitted to a class of 68m gunboats. The system was first displayed at last year’s SeaPower for Africa Symposium and is seen a contender for Project Biro, the SA Navy’s mooted patrol vessel acquisition.
+
+Mikros comprises of common compact console that can either be programmed as a sensor control or as a fire control system. Mikros offers naval and paramilitary users effective and efficient solutions that it within the scope of requirement, space, weight and budget, Thales sales literature adds. The compact sensor control system “facilitates the conduct of surveillance operations by providing a sensor/console pairing which incorporates much of the situational awareness and planning functionality normally only found in more complex combat management systems (CMS).” The compact fire control system “provides a dedicated tracker and fire control solution, the components and performance of which can be tailored to meet the unique space, weight and threat requirements of individual users.”
+
+The systems can be fitted independently as stand-alones or can be linked together to provide a complete CMS solution for a smaller vessel.","{'label': 'Neutral', 'score': 0.999995231628418}",neutral,0.999995231628418,0
+Great expectations | News | Flight Global - Flightglobal,"Mon, 06 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZ3JlYXQtZXhwZWN0YXRpb25zLzk1NjQ2LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Several days after Virgin Atlantic revealed a deal with Panasonic Avionics to bring new in-flight entertainment and connectivity (IFE&C) systems - plus mobile communications - to its on-order Airbus A330s, news surfaced that the carrier's indomitable founder Richard Branson envisaged offering passengers live television by the time the 2014 football World Cup rolls around.
+
+There appeared to be just one problem. The agreement Branson announced in June called for the carrier to fit its widebodies with Inmarsat Swiftbroadband-centred IFE&C, which, while a giant leap forward for the carrier in terms of in-flight connectivity, is not the sort of solution that will support live streaming of soccer matches throughout the aircraft.
+
+
+
+Thales's next-generation IFE&C system comes with a new, intelligent touchscreen passenger control that enables passengers to control games and IFE selections. Picture: Thales
+
+But that seemed to be a minor particular. Branson had previously said that he wanted passengers to be able ""to get in the air what they get on the ground"", leading to the natural conclusion that live television would eventually be on the menu. Virgin chief executive Steve Ridgway echoed Branson's sentiments, telling Flight International at the time that the carrier was relying on Panasonic to do ""all the technical stuff"" to accomplish the carrier's ultimate goal of offering high-bandwidth in-flight internet.
+
+This would in turn enable the type of IPTV service required to keep Virgin's football-loving passengers satiated.
+
+Virgin's comments underscore a growing trend among mid- and long-haul carriers to dream big for their widebody cabins and promise passengers that they will see significant improvements in the in-flight experience. Airlines are acutely aware that the technology now exists to support highly efficient in-flight entertainment hardware with ""connected"" applications, satellite-based mobile and wi-fi communications, reliable software and engaging content, and that these systems and services have become the cost of doing business. As such, they are turning to IFE&C stakeholders to deliver the goods.
+
+""In-flight entertainment is not an option but a must-have product, especially for mid- and long-range travel. Most other legacy airlines feel the same. In-flight entertainment can be a key factor for increasing revenue and reinforcing brand identity to the passengers. It's an important competitive point in the global airline industry,"" says Y H Lee, general manager of passenger marketing development at Korean Air, which placed a significant order for Thales TopSeries IFE in 2007, but also offers Panasonic's 3000i and eX2 platforms on aircraft in its fleet.
+
+
+
+Korean's latest Thales TopSeries IFE offers a multitude of entertainment and information options to passengers. Picture: Korean Air
+
+Lee notes, however, that ""providing merely a good IFE system in the cabin is not enough. It's the entire combined, memorable in-flight experience: does the customer feel welcome and attended to? Are their seats comfortable? Do they enjoy their meals? Are the cabins and restrooms kept clean? Are there a variety of entertainment options?""
+
+Hawaiian Airlines director of transformation Allan Staker agrees with the notion that IFE ""is something people demand"". The carrier, which is offering eX2 on its new A330s, wanted to ""find the best way to occupy passengers' time and give them exactly what they're looking for"" and believes it found that with the Panasonic embedded IFE solution.
+
+For the first time in history, the IFE&C community appears well and truly ready to accept the integral role it plays in helping to deliver the passenger experience for the world's commercial airlines. The World Airline Entertainment Association has even taken the step of changing its name to the Airline Passenger Experience Association.
+
+""Basically a lot of what we have been promising as an industry, we have to deliver now. We have to deliver an experience that matches people's expectations and we have the tools now to do so. There is nowhere else to hide. It is exciting times,"" says Wale Adepoju, chief executive of IFE&C consultancy IMDC.
+
+Before they upgrade to higher-bandwidth solutions, some carriers intend to initially take advantage of the fact that SwiftBroadband-based connectivity is linefit offerable on Airbus widebodies as well as on some Boeing widebodies, and is expected to be made offerable on the 787.
+
+Qatar Airways, for instance, recently placed a sweeping new order for Thales's next generation TopSeries IFE&C system on up to 60 787s. The ""connected"" applications offered on the new system, such as social media, and the mobile connectivity provided by Airbus/Sita joint venture OnAir, will be powered with SwiftBroadband.
+
+UPGRADE PATHS
+
+Emirates, which is in the midst of fitting its fleet with Panasonic partner AeroMobile's mobile connectivity solution also envisages a steady upgrade path, first to SwiftBroadband and then to higher-bandwidth functionality. The carrier recently tapped OnAir to provide SwiftBroadband-supported mobile connectivity to its Airbus A380s.
+
+""People are doing everything on iPhones, iPads [and the like]. More and more of that mobile connectivity will be demanded in future and they'll expect to be connected all the time. That's obviously the end game. How you technically achieve that on aircraft in the interim is the big challenge for airlines. We obviously look closely at that,"" says Emirates vice-president corporate communications, product, publishing digital and events Patrick Brannelly.
+
+But others airlines are prepared to go beyond the 432Kbps data rate of SwiftBroadband and retrofit their aircraft with Ku-band satellite-based connectivity, which supports far greater speeds, like that which was previously offered by now-defunct Connexion by Boeing (CBB).
+
+In partnership with Panasonic, CBB's largest customer, German flag carrier Lufthansa is set to reignite high-speed internet on aircraft already fitted with CBB antennas and intends to extend Panasonic's Ku-band offering - with new EMS antennas - to the rest of its long-haul fleet. It is testing in-flight wi-fi on four Airbus widebodies. ""Connectivity enables programme enrichment, possibly with live television for big sporting events and the like. That is a possibility we're closely looking at,"" says Lufthansa vice-president product management and innovation Christian Körfgen.
+
+Cathay Pacific and its Dragonair subsidiary have signed on to equip their entire fleets with Panasonic's full global communications suite (GCS), including internet, mobile connectivity and a Cathay Pacific-branded free entertainment portal that will be accessible through all passenger devices and seatback screens and will include airline-specific advertising and live television with a pay-per-view capability for special events.
+
+Turkish Airlines is also among Panasonic's publicly announced GCS customers. ""I don't think there is an airline right now that we deal with that doesn't have some pretty grandiose plans with what they want to do with their cabin product,"" says Panasonic Avionics executive director of corporate sales and marketing Neil James.
+
+AN IFE&C EVOLUTION
+
+The evolution occurring with IFE&C systems is not limited to the addition of connectivity, however. SwiftBroadband-supported applications are simply part of the myriad improvements that Thales is making to its next generation TopSeries hardware on order from Qatar and several other undisclosed customers.
+
+""One of the key attributes of our next-generation system - which is based on our Airbus A350 offering but is being scaled and offered earlier for the 787and will be available for retrofit on a number of aircraft types - is the genesis of what we displayed at the Aircraft Interiors show in Hamburg earlier this year. We are decreasing the dependency on the head-end equipment and increasing the capacity of the system within the seat. We have not removed the benefit of having a server-based distribution architecture, but we are in the process of making it unnecessary if there is an issue with the system,"" says Thales vice-president of marketing and customer proposition Stuart Dunleavy.
+
+""The seat-end equipment has been enhanced to offer high levels of local storage and now, with the way flash memory is moving, the system can scale anywhere between 60 gigabytes to 500 gigabytes. To put that into context, even with 100 gigabytes, you can hold a lot of movies and a lot of applications. So, in the event of a catastrophic failure, we have proven and shown you can remove a server from the network and the movie will continue playing without a blip and without any perceived change to the passenger.""
+
+Thales continues to believe that there is ""a huge benefit"" for the IFE&C system to be connected to the server, ""as there are more opportunities to update content in a more efficient manner because you're only updating one server"", says Dunleavy. ""However, a balance of seat-centric capability with server distribution architecture is the way forward, as this will improve overall reliability and redundancy with the airline.""
+
+Leveraging the sort of mainstream presentation formats that the consumer market is enjoying, such as high-definition video, is an area in which Thales and Panasonic have each committed development.
+
+""There is a whole new series of monitors coming down the pike and every single one will be HD. And in terms of audio quality, we'll have virtual surround sound. You can do that with hardware or software. We've done both,"" says Panasonic's James.
+
+The biggest challenge with HD in in-flight entertainment is determining the screen size and resolution at which the additional quality is actually perceptible by the viewer.
+
+""Technology is changing rapidly, and airlines want to keep pace with what consumers enjoy at home. But many of the technologies being enjoyed in the home are tied to bigger and bigger screens. The Digital Content Management Working Group that I have chaired for nearly 10 years is attempting to determine at what screen size and at what resolution the increased definition is actually discernible by a viewer,"" says Michael Childers, an independent consultant whose consultancy, LightStream Communications, focuses on content management, supply chain automation and integration, and intellectual property issues.
+
+""While it may be that airlines simply want to be able to use the term HD to describe their systems, it is of questionable value on many in-flight entertainment screens,"" he says.
+
+Walt Disney Studios Motion Pictures, non-theatrical senior vice-president Linda Palmer notes that, with respect to HD video, ""more can be done and I believe more will be done in the not too distant future. I keep hearing HD is on the horizon and I think that will be great for the front of the aircraft. I am not sure it is discernible on a 10in seatback screen in economy class.""
+
+
+
+Lufthansa is offering Panasonic eX2 IFE on its new Airbus A380s and plans to eventually provide in-flight connectivity on the aircraft. Picture: Lufthansa
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.9337188601493835}",neutral,0.9337188601493835,0
+Special Forces want Scorpion's sting - defenceWeb,"Tue, 28 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRlZmVuY2V3ZWIuY28uemEvc2EtZGVmZW5jZS9zYS1kZWZlbmNlLXNhLWRlZmVuY2Uvc3BlY2lhbC1mb3JjZXMtd2FudC1zY29ycGlvbnMtc3Rpbmcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The South African Special Forces will shortly receive a Thales Defence Systems (TDS) Scorpion automated weapons platform for testing and evaluation. At present just one system has been ordered at a cost of R7.5 million but officials say they are “waiting for a production order soon.” The system has also already been demonstrated in the Middle East.
+
+The Scorpion is a self-contained direct and indirect automated mortar and rocket fire control system mounted on a palletised platform that can be fired from the back of a vehicle in less than 15 seconds from stopping versus 15 minutes with a conventional system. Company literature available at the Africa Aerospace & Defence exhibition in Cape Town last week noted this was made possible through “ballistic calculations,orientation methods and recoil absorbsion.” The system can fit a range of 60mm, 81mm and 82mm mortar tubes as well as rocket systems such as the Chinese 12-barrel Type 63 107mm multiple rocket launcher system.
+
+The system consists of a motorised mortar and rocket platform providing automated tube laying and correction twinned with an observer sighting system. This includes an angle measurement pedestal to sense the position and attitude of the vehicle. Position sensing is by inertial means supplemented by a global positioning system and distance information.
+
+The pedestal also carries an observer payload that includes the Thales Sophie binocular/thermal imager with laser rangefinder, camera, dismountable digital magnetic compass and a The system can also share target and situational data between observer and launcher vehicles via a datalink or radio or receive such data from “other sources”.
+
+“By combining precision [knowledge of one’s] own position with good target data, the fire solution and mortar laying data can easily be computed. The computed values are then used to control the motorised platform to lay the mortar/rocket tubes accurately. This can be done without relying on external (traditional) survey methods. The system can effective shoot-and-shift during an engagement and attack again from a different position without the need to survey the new position. The fire solution and mortar laying data updates automatically in the background.”","{'label': 'Neutral', 'score': 0.99998939037323}",neutral,0.99998939037323,0
+SAAF Gripens to gain new recce pods - defenceWeb,"Tue, 28 Sep 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRlZmVuY2V3ZWIuY28uemEvYWVyb3NwYWNlL2Flcm9zcGFjZS1hZXJvc3BhY2Uvc2FhZi1ncmlwZW5zLXRvLWdhaW4tbmV3LXJlY2NlLXBvZHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Optronics has delivered an undisclosed number of its Digital Joint Reconnaissance Pod (DJRP) to SAAB of Sweden for installation on the South African Gripen. The announcement, made last week during the Africa Aerospace & Defence exhibition in Cape Town, did not mention numbers or the value of the deal. Saab will now start a series of integration flight trials.
+
+The media release adds the DJRP completed its factory integration tests at the company’s Scottish operation in Glagow in June. Handover of the reconnaissance pod to the South African Air Force (SAAF) will occur after the integration phase. Aviation journal Flightglobal reports this will be from June next year.
+
+Christian Lamoureux, CEO of Thales South Africa, says the company is “proud of this important milestone in our long-standing relationship with the South African Air Force.”
+
+Thales Optronics’ sales and marketing director Geraint Lloyd describes the DJRP as “a bespoke reconnaissance sensor with broad-area swath coverage”, and confirms that the company was selected via prime contractor Saab. The DJRP is integrated onto fighter aircraft, such as the Gripen, and takes high-resolution images of the battlefield as it flies overhead. The digital images from the pod are then exploited by Image Analysts on the ground to assess what tactical decisions need to be taken.
+
+The programme may be further along than the statement suggests. Journalists attending the SAAF’s air capability demonstration earlier this month were given a black-and-white photograph printed on site at Roodewal of the crowd watching the spectacle, downloaded by datalink from a passing Gripen.
+
+Flightglobal adds Thales Optronics beat competition from Rafael’s Reccelite and a system already in use with the Swedish Air Force’s Gripens – believed to be from Danish supplier Terma – to win the SAAF deal.
+
+The selection represents a follow-on success for Thales, with the company having previously acquired UK supplier W Vinten, which provided its Vinten 18 wet film reconnaissance systems for the SAAF’s now-retired Denel Cheetah fighters, Flightglobal adds.
+
+Weighing around 250kg, the DJRP has already been integrated with the UK Royal Air Force’s BAE Systems Harrier GR7/9 and Panavia Tornado GR4 strike aircraft, and with BAE’s Hawk advanced jet trainer. With the SAAF’s inventory including 24 Hawk 120s, Lloyd says the reconnaissance pod’s “multi-platform capability” was a significant factor in its selection for the service.","{'label': 'Neutral', 'score': 0.9999784231185913}",neutral,0.9999784231185913,0

@@ -1,0 +1,358 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales-Led Team Gets $164M Deal for Anglo-French Naval Mine-Hunting Drone - Defense News,"Thu, 20 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9uYXZhbC8yMDE2LzEwLzIwL3RoYWxlcy1sZWQtdGVhbS1nZXRzLTE2NG0tZGVhbC1mb3ItYW5nbG8tZnJlbmNoLW5hdmFsLW1pbmUtaHVudGluZy1kcm9uZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS – Britain and France today awarded a contract worth some €150 million ($164 million) to Thales, leader of an Anglo-French industrial team that will build two prototype unmanned mine hunting units under the bilateral Maritime Mine Counter Measures project.
+
+
+
+
+
+Laurent Collet-Billon, head of the Direction Générale de l'Armement procurement office, and his British ministerial counterpart, Harriet Baldwin, handed over the contract to Patrice Caine, Thales chairman, at the Euronaval trade show.
+
+
+
+
+
+Thales leads a cross-Channel industrial team comprising BAE Systems, respectively British and French partners ASV and ECA, and also European suppliers Saab and Kongsberg.
+
+
+
+The contract is for delivery in 2019 of two identical units of mine-hunting drones, to be deployed from a mother ship or the shore, the DGA said in a statement. The French Navy and the Royal Navy will each receive a prototype for testing.
+
+
+
+
+
+The trials will be conducted from the shore, with tests from a mother ship to come later, a DGA spokesman said.
+
+
+
+
+
+The undersea project signaled a determination to pursue close defense cooperation under the Anglo-French 2010 Lancaster House treaty, the procurement chiefs said.
+
+
+
+
+
+The MMCM deal was ""proof of the strategic importance of this bilateral cooperation,"" Collet Billon said after thanking Baldwin for attending the contract signing. The equipment will be identical, interoperable, and attract interest of other navies, he said. There is an expectation of export potential in the world market, he added.
+
+
+
+
+
+The contract ""signifies not just a leap forward in collaborative programs, but most crucially a strengthening of the bond between our two nations,"" Baldwin said. The MMCM project was for industry and government ""a truly collaborative effort and testament to what we can achieve when we work as one team.""
+
+
+
+
+
+Some 150 British jobs would be sustained by the anti-mine project, she said.
+
+
+
+
+
+DGA displayed on the defense ministry stand a small scale model of a surface unmanned vehicle from British firm ASV. This small boat will deploy a Thales towed sonar to collect data, while an ECA automated underwater vehicle and Saab remote operated vehicle will also gather information for assessment and destruction of mines.
+
+
+
+
+
+These elements will form part of the Anglo-French MMCM project, which also contributes to the French SLAM-F anti-mine program, a next generation system intended to replace the existing 11-strong fleet of mine hunters. The French military budget law has noted acquisition of four mother ships for the anti-mine program, which is intended to remove naval crews out of harm's way by relying on undersea and surface drones.
+
+
+
+
+
+The MMCM contract fulfills a March 3 joint statement made by British and French political leaders at the Anglo-French summit held at Amiens, northern France.","{'label': 'Neutral', 'score': 0.9999728202819824}",neutral,0.9999728202819824,0
+Emirates picks Thales AVANT embedded IFE for first 50 777X twinjets - Runway Girl Network,"Tue, 25 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTYvMTAvZW1pcmF0ZXMtc2VsZWN0cy10aGFsZXMtYXZhbnQtZm9yLTc3N3gtZW1iZWRkZWQtaWZlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"SINGAPORE — Emirates has selected Thales’ AVANT embedded inflight entertainment system for the first 50 of its forthcoming fleet of Boeing 777X aircraft, marking not only a shift away from Panasonic Avionics’ eX family of IFE, but also the first time a 777X customer has chosen its inflight entertainment. Emirates will begin taking deliveries in 2020 of the 150 aircraft from the 777X family it has on order from Boeing, and the airline’s divisional vice president for customer experience Patrick Brannelly tells Runway Girl Network that the first 50 aircraft “sees us through a couple of years, at least”.
+
+“What happens after that is to be determined,” Brannelly notes, explaining that the rate “has not been announced, but it’ll be pretty quick. You can’t take 50 in one day. We tend to take one or two aircraft a month. The world may change, and the important thing to realise here is that when you place an order like this for the 777X, you’re buying systems that are going to stay in service for twelve years, to 2032 or 2034. If you had to build your iPhone now for the next twelve years, it’s almost unbelievable that anything can last more than nine months now. So it gives us flexibility.”
+
+Emirates has been a key Panasonic Avionics IFE customer “since about 1997”, Brannelly admits. “It’s a big decision to change. Panasonic have been a great supporter of Emirates and together we’ve done a lot of new things for the first time. They’ve been great in terms of working with us. The 777X sparked a tender process, as is normal, and the whole package that we were offered from Thales just made more sense to us for the future. It’s not just the physical hardware but what you do with it. What’s really critical is the customer experience on the platform. To be honest a lot of the platforms are perfectly capable in terms of processors, display size and display quality.”
+
+Details are relatively skimpy as yet, with Thales promising to provide “the state-of-the-art AVANT inflight entertainment solution featuring an innovative and highly customizable user experience”, and that customers will enjoy “an immersive and engaging experience”. Of course, at four years out it is perhaps understandable if the nitty-gritty is still to be developed as technologies mature between now and the design freeze. One clear objective, however, is that the system be upgradeable, both in terms of hardware and of software.
+
+“We always have upgraded the front end,” Brannelly says. “You’ll see bigger and bigger screens, and behind that you’ve seen over the years better processors. There is an opportunity to upgrade as you go through. This batch of orders, I would imagine, will have the last one very similar to the first one. Now, a lot of it is software, so what you can do with the software – that should be changing every week, like you do with your phone.”
+
+“The hardware is much more robust,” Brannelly explains. “The screens don’t really break any more. Most of the problems that airlines are facing — with all these systems — is on the software side. You have an incredibly complex system. It’s far more complex than your television at home, for example. I don’t really think the hardware will change, although it may do. But we want to get to a point where the software is absolutely robust. What is robust software? With an iPhone, they launch a brand new model and do an update three days later, if not the day you take it out of the box. So we need to get to this kind of methodology in the future, to be able to add services that customers want, quickly.”
+
+Making that process faster and easier is a key part of the deal with Thales, Brannelly says. “Today it’s a really cumbersome affair. It can take months to fix software on the aircraft. Part of the deal is we’re going to look at everything that we do and think how we can do it better. I want it to be a fantastic experience for engineers, and for the airline: not just passengers signing up for our frequent flyer program or ordering a Coke, but a lot more in tune with the business. That’s the future.”
+
+The significance of the move is underscored by plans also announced to create a local repair operation and a custom innovations center for the passenger experience called “Discovery Dubai”. Thales will manage the centre, and it will “enable Emirates teams to develop and shape their future passenger engagement initiatives and programs in the air and on the ground”.
+
+“We’ve been working together in quite some detail for a long time, so we’re quite advanced,” Brannelly notes, highlighting that the tender process has been in the work for “more than a year. It’s not just ‘we’ve got screens’, it’s how you integrate it into some of the seats that will go on that aircraft that have not been announced. You’re looking at two seat vendors, say, for one of the classes. So it’s very complicated to get all the ducks in a row.”
+
+Overall, though, Brannelly expects to be making many more announcements for the 777X – IFE vendor selection for another 100 on-order 777X aircraft plus connectivity for the entire 777X fleet has yet to be announced. “Emirates are always upgrading, so you’ll see innovations in every cabin. You’ll see innovations before the 777X as you’ve seen in the past.
+
+Related Articles:
+
+Featured image credited to Emirates","{'label': 'Neutral', 'score': 0.9999452829360962}",neutral,0.9999452829360962,0
+TALIOS targeting pod tested on Rafale fighter - UPI News,"Mon, 17 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTYvMTAvMTcvVGhhbGVzLXRhcmdldGluZy1wb2QtaW50ZWdyYXRlZC10ZXN0ZWQtb24tUmFmYWxlLWZpZ2h0ZXIvMzMxMTQ3NjY3ODQ0OC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The TALIOS targeting pod mounted onto a Rafale fighter. Photo courtesy Thales
+
+PARIS, Oct. 17 (UPI) -- Thales' new-generation TALIOS laser targeting pod has successfully completed a more than two-hour first flight on a Rafale fighter. The prototype targeting long-range identification optronic system collected high-quality images taken using the ""day"" channel, and offered remarkable performances in pointing and telemetry, Thales said. Advertisement
+
+""TALIOS is the first optronic targeting pod to cover the entire decision chain, from intelligence gathering through to neutralization,"" the company said in an announcement. ""With the latest-generation high-resolution infrared and electro-optical sensors, line-of-sight stabilization, and high performance image processing, its capabilities range from deep strike with precision-guided munition, to air-to-air target identification and close air support, both during the day and at night.""
+
+The TALIOS pod is to be used on French Air Force and Navy Rafales and is a major part of a development program for the fighters.
+
+The TALIOS pod development and Rafale integration programs run in parallel. Adjustment and performance measurement tests will continue throughout next year.","{'label': 'Positive', 'score': 0.9989190101623535}",positive,0.9989190101623535,1
+Emirates signs multi-million dollar deal with Thales to provide IFEC solutions for new Boeing 777X fleet - Aviation24.be,"Tue, 25 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5hdmlhdGlvbjI0LmJlL2FpcmxpbmVzL2VtaXJhdGVzLWFpcmxpbmUvZW1pcmF0ZXMtc2lnbnMtbXVsdGktbWlsbGlvbi1kb2xsYXItZGVhbC10aGFsZXMtcHJvdmlkZS1pZmVjLXNvbHV0aW9ucy1uZXctYm9laW5nLTc3N3gtZmxlZXQv0gGVAWh0dHBzOi8vd3d3LmF2aWF0aW9uMjQuYmUvYWlybGluZXMvZW1pcmF0ZXMtYWlybGluZS9lbWlyYXRlcy1zaWducy1tdWx0aS1taWxsaW9uLWRvbGxhci1kZWFsLXRoYWxlcy1wcm92aWRlLWlmZWMtc29sdXRpb25zLW5ldy1ib2VpbmctNzc3eC1mbGVldC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en,"Tuesday, October 25, 2016 — Dubai, U.A.E., 25 October 2016 – Emirates today announced it has signed an agreement with Thales to equip its Boeing 777X fleet with Thales AVANT inflight entertainment system. The airline will work in partnership with Thales to develop and enhance the state-of-the-art inflight entertainment and connectivity (IFEC) system to be fitted on its new Boeing 777X aircraft due for delivery starting in mid-2020.
+
+This major investment underscores Emirates’ continued commitment to providing the best possible passenger experience, and its strategy to ensure the best and latest technology complements its young and modern fleet.
+
+“Our partnership with Thales represents a significant investment and emphasis on customer experience, which has always been a priority for us. The new Boeing 777X aircraft will herald a new era for the Emirates fleet, and we want to ensure that our product offering on these fuel-efficient planes will be a benchmark for the industry, including the inflight entertainment experience. We look forward to revealing more details when the time is right,” said Adel Al Redha, Executive Vice President and Chief Operations Officer, Emirates Airline.
+
+He added: “In addition to customers, the size and long-term nature of this deal also benefits the broader aviation industry, and we are pleased that this new partnership will help support thousands of highly skilled jobs across the Thales ecosystem – in France and elsewhere around the world.”
+
+The deal covers IFEC systems for Emirates’ first 50 Boeing 777X aircraft. The airline has a firm order of 150 Boeing 777X aircraft. The new Thales AVANT system will feature an innovative and highly customisable user experience, providing a further boost to Emirates’ award winning inflight entertainment system, ice.
+
+“Thales is proud to be selected by Emirates to provide the award winning AVANT inflight entertainment solution for their future B777X fleet. Emirates is at the forefront of innovation in passenger experience delivering remarkable services to its customers and Thales is honoured to support this continued success. We are committed to delivering excellence in customer satisfaction and driving the highest standards in passenger engagement, now and into the future,” said Dominique Giannoni, CEO, Thales InFlyt Experience.
+
+Emirates has an unbeaten 12-year record as the winner of World’s Best Inflight Entertainment award at the Skytrax World Airline Awards. The airline offers up to 2,500 channels on demand including the latest blockbuster movies, award-winning television box sets, comedy series, live TV, music and computer games. Currently, 85% of Emirates’ fleet of 240 passenger aircraft is equipped with Wi-Fi on board including all A380 aircraft and 107 aircraft are equipped with live TV, which has up to nine channels of live news and sport.","{'label': 'Positive', 'score': 0.999996542930603}",positive,0.999996542930603,1
+Thales Shows Off Autonomous Stealth Drone at Euronaval - Defense News,"Wed, 19 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9uYXZhbC8yMDE2LzEwLzE5L3RoYWxlcy1zaG93cy1vZmYtYXV0b25vbW91cy1zdGVhbHRoLWRyb25lLWF0LWV1cm9uYXZhbC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — Thales presented at the Euronaval trade show its work on a stealthy, multimission drone dubbed the Autonomous Underwater and Surface System (AUSS), a company-funded ""black program"" pitched at the French Navy and other navies.
+
+
+
+A black program is one that is sensitive in nature and previously undisclosed.
+
+
+
+The AUSS drone has a tapered nose, is torpedo-shaped with the standard 21-inch diameter, and is designed for anti-submarine missions, mine warfare and civil missions underwater and on the surface, Thales executives told reporters Oct. 17. That flush design helps autonomy. The company is in talks with undisclosed potential clients to design a full solution.
+
+
+
+
+
+Thales spent three years, invested millions of euros, and teamed with 19 small and medium companies to build a prototype, which has undergone five sea trials at Brest, northwest France. The company combined its sonar and systems experience to develop the drone and will talk to more firms to add capabilities.
+
+An AUSS drone is designed to carry payloads to collect sonar, visual and electronic data, and link up on satellite communication. The aim is to deliver an agile ""pool dancing"" device capable of a 360-degree turn, a speed of 17 knots and an emergency stop of 10 meters. Two weeks of mission is offered.
+
+A key feature is to hold the drone stable out of sight just below the surface and extend a sensor mast for intelligence, surveillance and reconnaissance of activity on shore. That surface operation is a departure from the established underwater operations of Thales sonar activities.
+
+""It marks the coming of age of the unmanned maritime systems industry in France,"" Pierre Eric Pommellet, senior vice president of Thales Defence Mission Systems, said in a statement.
+
+In civil operations, the drone could be used for inspection of offshore oil and gas platforms and pipeline.
+
+The ""crown jewel"" is a great deal of software intended to allow long-range and long-distance operation after deployment by submarine, ship or via the shore, a Thales executive said. That software underpins the autonomy that aims to allow the drone to ""decide for itself"" how to operate safely. Thales will work with naval shipbuilder DCNS to develop a means to fit the drone on ships and submarines.
+
+Thales executives declined to comment on whether the drone might be fitted on the Barracuda nuclear-powered attack submarine under construction for the French Navy.","{'label': 'Neutral', 'score': 0.9999959468841553}",neutral,0.9999959468841553,0
+Press Release: Emirates selects Thales AVANT IFE for its 777X fleet - - Runway Girl Network,"Tue, 25 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTYvMTAvZW1pcmF0ZXMtc2VsZWN0cy10aGFsZXMtYXZhbnQtaWZlLWl0cy03Nzd4LWZsZWV0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Emirates is the launch customer for the 777X with 150 aircraft on order and deliveries scheduled to start in 2020. Thales will be the first to equip its inflight entertainment systems on the 777X platform.
+
+Inflight entertainment is at the heart of the Emirates brand. With the selection of AVANT, Emirates will offer lightweight, large, ultra-high definition 4K screens in every seat. Premium class passengers will also enjoy new handsets with multi-screen functionality and controls providing an intuitive user experience.
+
+The airline’s award winning information, communications and inflight entertainment custom brand is an industry leader in passenger experience, and Thales’s partnership with Emirates will focus on helping the airline drive the highest standards of innovation from seat-back entertainment to wireless cabin connectivity, big data management and cyber security.
+
+In support of Emirates’ long-term ambitions, Thales will establish Discovery Dubai – a custom innovations center for the passenger experience – in the United Arab Emirates. Managed by Thales, the center will enable Emirates teams to develop and shape their future passenger engagement initiatives and programs in the air and on the ground. Thales will also be setting up a repair center to provide operational support and services to Emirates.
+
+Featured image credited to Thales","{'label': 'Positive', 'score': 0.9975323677062988}",positive,0.9975323677062988,1
+"Five minutes with... Jean-Yves Tolot, chairman, Thales Saudi Arabia - Gulf Business","Sat, 08 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZ3VsZmJ1c2luZXNzLmNvbS9maXZlLW1pbnV0ZXMtamVhbi15dmVzLXRvbG90LWNoYWlybWFuLXRoYWxlcy1zYXVkaS1hcmFiaWEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"1. Thales had a good year in the Middle East last year. How has it been so far this year regionally?
+
+From a global perspective, 2015 saw the group achieve sales of over €14bn, with an order growth of over 20 per cent from 2014. This year’s order intake should reach another significant level for the group specifically from emerging markets.
+
+In regards to the Middle East, group sales came in at about 10 per cent for 2015 representing a 56 per cent increase from 2014. Moreover, the group’s order intake across the region saw a huge increase of over 90 per cent from 2014 into 2015, making the Middle East market the highest growth market for the group across all regions.
+
+So far this year, we have experienced a robust start amidst current market sentiment due to the oil price. Moving forward into the second half of the year, we expect another sustainable level of business this year across the region with a number of major projects in the pipeline.
+
+2. Have you seen any major impact from the oil price drop in the region? Especially in Saudi Arabia?
+
+The global business trend of urbanisation is continuing to grow in the region as we see a lot of Middle Eastern countries going for new or upgrading existing infrastructure, especially in ports, airports, and rail and security matters.
+
+It is clear that the region has had to face and to adapt to a very significant oil price drop over the past 18 months, with priorities now redefined and projects delayed.
+
+However globally, and particularly in Saudi Arabia, the fundamentals remain positive and the market is there. The dynamic created by Vision 2030 will undoubtedly develop opportunities in the near future.
+
+3. Can you elaborate on your work on the kingdom’s railway project?
+
+The North-South Railway project, managed by Saudi Railway Company (SAR), represents a major infrastructure project in Saudi Arabia. The new railway track will stretch from the capital to the Jordanian border and from Al Jalamid to the Arabian Gulf (Dammam), and will include seven passenger and freight stations as well as 41 sidings and junctions. The project will a have huge impact on the economy, none more so than preparing the kingdom’s mining industry for export markets.
+
+For this particular project, Thales is implementing the European Train Control System (ETCS) Level 2. This is the first implementation of ETCS Level 2 in the Middle East and at the same time, the longest implementation of the ETCS standard in the world as it will stretch over 2,400 km. Thales will continue to put a lot of emphasis on main line and urban rail projects in the kingdom.
+
+4. Saudi has recently unveiled its Vision 2030 to diversify its economy away from oil. What role do you hope to play in this strategy?
+
+Thales deploys solutions for defence, security, aerospace and transportation which allows for stability and economic development across the kingdom.
+
+Vision 2030 is offering many opportunities that Thales is willing to develop through long term partnerships with the Saudi government, local industrial companies, universities and research organisations. Thales is already working on some potential projects in line with the Vision 2030 roadmap with the perspective to implement transfer of technology and manufacturing locally.
+
+6. Do you plan to increase your workforce in the kingdom in the short term?
+
+Thales has been a pioneer in the field of localisation and as such has set up aggressive plans to develop national capabilities by recruiting young Saudi men and women through cooperation with universities or directly from the market. Of the 700 employees we have in Saudi Arabia, 30 per cent are Saudi nationals within highly skilled roles such as project managers and engineers.
+
+Our strategy is to localise activities and further develop capabilities in the region through training and knowledge transfer programmes within our defence as well as security and civil businesses. This could be done both internally or by developing business with partners through industrial cooperation schemes.
+
+7. Looking ahead, which are main sectors where you see further growth in the country?
+
+Within Saudi Arabia, the group operates heavily in the aerospace, space, security, defence and transportation industries and is ready to contribute to the development of the business in any of them.
+
+In line with the local context and the kingdom’s strategy, it appears that the defence and security business as well as infrastructures projects are high priorities. In the security business for example, we consider that there will be a number of opportunities, from site security (borders, ports, airports, critical sites, holy sites) to data protection like cyber security.
+
+8. Lastly, what is Thales’ long term plan for Saudi Arabia and the overall Middle East?
+
+I’d say that Middle East and Saudi Arabia in particular are strategic countries for Thales. Our plan is to continue to develop our business through a strong industrial network based on partnerships with local companies.","{'label': 'Positive', 'score': 0.999894380569458}",positive,0.999894380569458,1
+Tim Peake opens new Thales facility in Belfast - The Engineer,"Tue, 18 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZWVuZ2luZWVyLmNvLnVrL2NvbnRlbnQvbmV3cy90aW0tcGVha2Utb3BlbnMtbmV3LXRoYWxlcy1mYWNpbGl0eS1pbi1iZWxmYXN0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is to produce electric propulsion systems for geostationary satellites in the UK, following the opening of a new facility in Northern Ireland.
+
+The astronaut Tim Peake officially opened Thales’ Space Propulsion Integration Centre in Belfast today.
+
+Known as Hall-effect Thrusters, the propulsion systems will use electrical energy collected from the sun to accelerate inert xenon gas from an electric thruster. The thrusters have an exhaust velocity of approximately 10,000m per second, or between 50 and 100 times the speed of sound in air.
+
+This can reduce the cost of launching a satellite, or allow them to carry larger loads, according to Dougie Davidson, head of space programmes at Thales Belfast.
+
+“It makes it possible to carry a larger payload, or to launch a satellite at a lower cost because of the reduction in the amount of fuel that has to be carried,” he said. “It can save approximately 400kg of launch weight for a four-tonne satellite.”
+
+Electric propulsion systems use around one-fifth of the propellant used by conventional chemical engines. This is particularly important at a time when the economics of space propulsion are in the spotlight, said Davidson.
+
+The facility is part of an investment programme by Thales to expand space design and manufacturing in the UK, after the company formed Thales Alenia Space in 2014. This investment programme will also include the expansion of existing space engineering centres at Bristol and Harwell.
+
+The company plans to build four geostationary satellite propulsion modules each year at the facility, Davidson said.
+
+“The geostationary satellite is the largest class of satellite, and we have some capacity to produce smaller satellite propulsion systems as well,” he said.
+
+The decision to invest in space engineering and manufacturing in the UK was also partly due to the government’s efforts to promote the industry, the company said.
+
+These efforts include securing a significant share of the European Space Agency’s Neosat programme for the UK.
+
+The Neosat programme aims to develop new technology platforms for three to six tonne geostationary satellites. Its ultimate goal is to enable Europe to take a 50 per cent share of the global geostationary satellite market, said Davidson.","{'label': 'Neutral', 'score': 0.9998986721038818}",neutral,0.9998986721038818,0
+Thales joins AMGC's drive to boost manufacturing - Australian Defence Magazine,"Thu, 13 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL3RoYWxlcy1qb2lucy1hbWdjLXMtZHJpdmUtdG8tYm9vc3QtbWFudWZhY3R1cmluZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Patrick Durrant | Sydney
+
+Thales Australia has joined the Advanced Manufacturing Growth Centre [AMGC] as the first industry member after an agreement was signed late last week.
+
+In partnering with the AMGC, one of six centres established as part of the Government’s $248 million Growth Centres Initiative, Thales will work with the organisation and future members to develop a more innovative, globally competitive manufacturing sector in Australia.
+
+To showcase the company’s pedigree in this regard, and particularly its world-leading research and manufacturing in the sonar and acoustics domain, CEO Chris Jenkins hosted the managing director of AMGC Dr Jens Goennemann on a tour of the Thales facility in Rydalmere, Sydney.
+
+""To build and sustain complex systems like the future submarine in country requires a wide landscape of advanced manufacturers.""
+
+A passionate mechanical engineer who specialised in acoustics, Jenkins proudly explained the sophisticated work being undertaken by the 450 employees at the facility. Dr Goennemann and ADM were shown the process by which ceramics are developed and incorporated into highly sensitive hydrophones, transducers, sonars and towed arrays.
+
+“We’re turning out the world’s leading sonar sensors here,” Jenkins said. “The product we are developing is globally exported – we do the transducers for the UK and French submarines, we’re also doing the sonars for the FREMM ASW frigates in Europe, the big low frequency units.”
+
+The advanced work Thales has been doing for many years in the sonar space represents exactly the kind of methodology and mind-set the AMGC is seeking to foster throughout Australian industry.
+
+“What we have here is a highly specialised advanced manufacturer that isn’t focused on interstate rivalry but rather its ability to compete on the world stage with something niche and so sophisticated,” Dr Goennemann said. “That is exactly why we’ve chosen Thales as our first member company.”
+
+In joining the AMGC as a Tier 1 member, Thales will support the AMGC in achieving key functions such as assisting Australian advanced manufacturers of all sizes to connect with the global supply chain.
+
+“A successful multinational company, like Thales, that reaches across industry, utilising its strength to connect with SMEs before making them part of the global supply chain, is precisely what we are looking for in a Tier 1 member,” Dr Goennemann said.
+
+Both Jenkins and Goennemann agreed the global market was huge, and it was better for Australian manufacturers to seek out “small slices of a very large cake” than to continually fight among themselves for the scraps of a smaller local cake, often ending up with nothing.
+
+Thales will also work with the centre to identify and develop growth projects. For Dr Goennemann, it simply won’t be enough to focus all of the nation’s efforts into building the future submarines, as complex a project as that will be.
+
+“In order to benefit from what is evolving for the Australian economy, this will require a vibrant and broad base of advanced manufacturers,” he said. “To substantially participate in building and sustaining complex systems like the future submarine in country requires a wide landscape of advanced manufacturers – I am concerned we have a gap there, but we have some time to work on that gap.”
+
+To that end, the AMGC hopes to support Government in mapping Australian defence industry capabilities as far as advanced manufacturing is concerned, as Dr Goennemann explained. “We need to see what we have and what we should have for capability and sovereignty reasons in order to support the building and sustaining of future complex systems that benefits defence and the nation overall.""
+
+Jenkins said that the AMGC membership opportunity has happened at the perfect time and for Thales it represents one of the mechanisms that can change the way industry works in Australia.
+
+“Right now, in the defence sector, the Government and its policy is saying the methodology must change – this helps us figure out what we can do to change the environment and improve the supply chain enterprise.”
+
+He stressed it wasn’t just about Government simply spending more money on industry, but also about industry lifting to match that spend with confidence – and in so doing perpetuate a mutually reinforcing cycle.
+
+“By defence industry proving it’s willing to invest in this whole process of being globally competitive, the taxpayer will get a better outcome – a virtuous cycle is created whereby a globally competitive Australian defence industry sector can win and perform value for money work on projects.”","{'label': 'Neutral', 'score': 0.998994767665863}",neutral,0.998994767665863,0
+Press Release: Thales to provide IFE solutions for Emirates 777X fleet - Runway Girl Network,"Tue, 25 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMioQFodHRwczovL3J1bndheWdpcmxuZXR3b3JrLmNvbS8yMDE2LzEwL2VtYmFyZ28tb2N0b2Jlci0yNS0xcG0tc2luZ2Fwb3JlLXRpbWUtcHJlc3MtcmVsZWFzZS10aGFsZXMtYXZhbnQtd2lsbC1wcm92aWRlLWlmZS1zb2x1dGlvbnMtZm9yLWVtaXJhdGVzLWJvZWluZy03Nzd4LWZsZWV0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"On the opening day of APEX 2016 in Singapore, Thales announces AVANT inflight entertainment solution has been selected by Emirates airline for its future fleet of Boeing 777X aircraft.
+
+Emirates, the world’s largest international airline, has 150 Boeing 777X aircraft on order and deliveries are scheduled to begin in 2020. Thales will be the first to equip its inflight entertainment systems on the 777X platform.
+
+The contract is the result of Thales’s significant commitment to strengthen its presence in Dubai. It will also accelerate job creation in the Middle East, Europe and the United States.
+
+In support of Emirates’ long-term ambitions, Thales will establish Discovery Dubai – a custom innovations center for the passenger experience – in the United Arab Emirates. Managed by Thales, the center will enable Emirates teams to develop and shape their future passenger engagement initiatives and programs in the air and on the ground. Thales will also be setting up a repair center to provide operational support and services to Emirates.
+
+Emirates 777X aircraft will be equipped with the state-of-the-art AVANT inflight entertainment solution featuring an innovative and highly customizable user experience.
+
+With the selection of AVANT, Emirates customers will enjoy an immersive and engaging experience.
+
+Thales is committed to using its strengths in technological innovation, communications, big data management and cyber security to enhance Emirates inflight experience leadership position. The airline’s award winning inflight entertainment system, ice is an industry leader in passenger experience, and Thales’s partnership with Emirates will focus on helping the airline drive the highest standards of innovation for ice, from in-seat entertainment to wireless cabin connectivity.
+
+About Thales
+
+Thales is a global technology leader for the Aerospace, Transport, Defense and Security markets. With 62,000 employees in 56 countries, Thales reported sales of $15.5 billion in 2015. With over 22,000 engineers and researchers, Thales has a unique capability to design and deploy equipment, systems and services to meet the most complex security requirements. Thales’ unique international footprint allows it to work closely with customers all over the world.","{'label': 'Positive', 'score': 0.999984860420227}",positive,0.999984860420227,1
+Varun Gandhi 'Honey Trapped': 5 questions to ask Modi government now - DailyO,"Fri, 21 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5kYWlseW8uaW4vcG9saXRpY3MvdmFydW4tZ2FuZGhpLWFiaGlzaGVrLXZlcm1hLXByYXNoYW50LWJodXNoYW4teW9nZW5kcmEteWFkYXYtcmFmYWxlLWRlYWwtc2NvcnBlbmUtbGVha3MtdGhhbGVzLW1hbm9oYXItcGFycmlrYXItMTM1MzHSAZcBaHR0cHM6Ly93d3cuZGFpbHlvLmluL2FtcC9wb2xpdGljcy92YXJ1bi1nYW5kaGktYWJoaXNoZWstdmVybWEtcHJhc2hhbnQtYmh1c2hhbi15b2dlbmRyYS15YWRhdi1yYWZhbGUtZGVhbC1zY29ycGVuZS1sZWFrcy10aGFsZXMtbWFub2hhci1wYXJyaWthci0xMzUzMQ?oc=5&hl=en-US&gl=US&ceid=US:en,"On Thursday, October 20, in an explosive press conference, eminent Supreme Court lawyer Prashant Bhushan and political analyst Yogendra Yadav – both of whom are members of the newly launched Swaraj Abhiyan, brought into public domain disclosures that rock a number of boats floating in the choppy waters of both the current NDA government and the previous UPA regime.
+
+In the press conference, Bhushan and Yadav handed over two letters from one C Edmonds Allen, an American lawyer who was the erstwhile business partner of the notorious arms dealer Abhishek Verma, both written to Prime Minister Narendra Modi, dated August 25, 2016 and September 16, 2016.
+
+Advertisement
+
+While the letter dated August 25 details alleged roles played by a bunch of naval officers in leaking out the defence secrets pertaining to the 2005 Scorpene submarine deal to Abhishek Verma, who is currently out on bail, the letter dated September 16 traces Verma’s close relationship with BJP MP Varun Gandhi, and significantly enough, claims that Gandhi was “honeytrapped, compromised” into revealing minutes of a top secret government defence meeting.
+
+While the press note and the annexures containing copies of C Edmonds Allen’s letters put out by Bhushan and Yadav can be accessed on their website, a number of questions arise in the wake of these revelations.
+
+Varun Gandhi was 'honeytrapped, compromised' claims C Edmonds Allen's letter. [Photo: Agencies]
+
+1. Why no action from PMO yet?
+
+If the letters have been in possession with the Prime Minister’s Office for about a month for the one dated September 16 and nearing two months for the one dated August 25, what have been the reasons that there was virtually no action taken by the government on any of the alleged accused? Can the PMO and indeed PM Modi clarify if he had initiated any internal inquiry, any proceeding whatsoever in the wake of the revelations by C Edmonds Allen?
+
+Advertisement
+
+Not only that, even Abhishek Verma, who has served jail terms twice in relation to the Navy War Room Leak case as well as the Scorpene submarine bribing scam, is currently out on bail. Moreover, what legal action will be taken against the slew of naval officers, as well as Verma’s “Romanian wife” Anca Neacsu, who were involved in various dubious capacities in brokering the Scorpene deal, getting hefty kickbacks to the tune of Rs 1,000 crore as per this Outlook magazine coverstory and the 2006 PIL by Prashant Bhushan.
+
+Arms dealer Abhishek Verma, the centre-piece of this prolonged tale of murk and corruption in Indian defence sector. [Photo: India Today]
+
+2. Will allegations against Varun Gandhi be investigated and will he resign until the investigation is over?
+
+In the letter dated September 16, C Edmonds Allen mentions as many as seven emails which Abhishek Verma sent out to his associates, all of which either brag about the presence of Varun Gandhi, or indicate his presence in future meetings. While the subject of the letter says “arms dealer Abhishek Verma has compromised your national security and the evidence already exists with the CBI”, the very first line of the body text reads: “a Member of Parliamnet of the Defence Consultative Committee named Varun Gandhi has been honeytrapped and compromised by the notorious arms dealer Abhishek Verma.”
+
+Advertisement
+
+The letter also names Anca Neacsu, Ravi Chauhan, Air Marshal H Masand, Israeli Gili Golan and Wing Commander Sam Surve as being involved in the conspiracy to honeytrap and blackmail Varun Gandhi into ferrying out sensitive defence secrets. It goes on to say that photos of Varun with foreign escorts are in possession of various foreign intelligence agencies, including those from Israel, thanks to Abhishek Verma.
+
+Moreover, an email from Verma dated September 8, 2010 boasts of a top-level defence meeting held on September 4, 2010 with Brigadier Fredrik Hillelson from Sweden, which was attended by Varun Gandhi. How did Verma come to know of the meeting unless it was mentioned by Varun Gandhi himself? Allen goes on to enclose several more communications between Verma and his associates that allegedly show that between 2008 and 2012, before Verma was arrested once again, he actively colluded in selling defence secrets to the highest bidder and boasting of brokering mega deals between foreign defence companies and Indian defence sector.
+
+In the light of these disclosures, what action will the Modi government take to get into the heart of the matter? Given that mainstream media is mostly focusing on the sleazy aspect of the case, dropping names like Nicoleta every five minutes, will the crux of the matter be lost in pursuit of TRP-seeking sensationalism?
+
+Yogendra Yadav and Prashant Bhushan. [File photo/PTI]
+
+3. What did defence minister Manohar Parrikar mean when he said there was “dalali” in 2006 and what does he mean when he says that “Rafale deal is the best deal ever”?
+
+When, on October 10, defence minister Manohar Parrikar shot back at Congress vice-president Rahul Gandhi’s “khoon ki dalali” jibe, he said, “We know there was dalali in 2006 when there was deal of submarines. There was dalali also in helicopters deal.”
+
+He obviously means the Scorpene submarines and the AgustaWestland VVIP chopper deals here. Was Parrikar aware of the letters sent by C E Allen, or was he simply talking what is already public knowledge, particularly after the August 29, 2016 scoop by the newspaper The Australian that said that over 23,000 pages of sensitive data pertaining to the Scorpene submarine design and stealth capabilities have been leaked and it’s in possession of that tranche, significantly one on “Project 75”, which was the design and acquisition details of the kilo-class submarines.
+
+Given that another Australian newspaper, The Sydney Morning Herald, reported in February this year that the “French sub-builder DCNS, awarded the right to build Australia’s $50 billion submarine fleet [was] embroiled in a multi-million dollar bribery scandal over a submarine contract in Malaysia”, and “the allegations in Malaysia have engulfed the country’s prime minister and spun out into a sordid tale of bribery, blackmail and murder”, is it obvious that DCNS, the company also bagging the Scorpene submarine deal in 2006 in India, was/is an international offender.
+
+Cut to 2016, and on September 23, 2016, about two weeks before Manohar Parrikar’s previous comment on dalali, the Rafale deal was announced to much fanfare. Only problem was, instead of the original Rs 90,000 crore for 126 Rafale aircraft, of which 18 were to be acquired ready-to-fly and the rest 108 were to be made in India in collaboration with one of the Indian companies, possibly HAL, with technology transfer in the contract, now the deal was spiked to Rs 58,000 crore for mere 36 Rafale fighter jets, and the technology transfer clause was duly dropped. The French company, Dassault, which bagged the Rafale deal, in other words gained almost three times the original price per aircraft. How is this significantly bloated deal the “best deal ever”?
+
+Can Manokar Parrikar kindly explain?
+
+4. Why was Thales not blacklisted before and why would it not be blacklisted now?
+
+Now we come to this kingdom of murk’s heart of darkness, the best kept secret that links both the Scorpene deal and the Rafale deal. It goes by the name of Thales.
+
+Now according to Thales Group’s website, “Thales is DCNS’s main shareholder (35 per cent), alongside the French state”. When DCNS bagged the contract for renewal of its submarine fleet with the Australian ministry of defence, Thales bragged about it in its website on April 26, 2016. Of course, the Scorpene submarine data leak scoop was published in August 29. As mentioned in point 3 above, it was DCNS, which got the Scorpene submarine contract in 2006, but allegations of bribery and corruption were already out that year.
+
+What’s the connection between Thales and Dassault Aviation, which has bagged the Rafale contract? Dassault is the second largest shareholder in Thales Group, with a stake of 25.9 per cent (the largest shareholder being the French state at 27.1 per cent in Thales).
+
+So effectively, Thales owns a chunk of DCNS’ shares, while Dassault owns a big slice of Thales. Common to both the deal, one proven shady, the other looking extremely suspicious but inviting little interrogation as of now from the mainstream media, is the French company Thales Group.
+
+On India Today’s Newsroom programme on October 20, it was said that the ministry of defence has categorically ruled out any blacklisting of any company as of now. Does it mean that Thales would not invite any questions whatsoever? In fact, in the press note put out by Swaraj Abhiyan, one of the five demands that Yadav and Bhushan make happens to be related to Thales Group. Given that it was Bhushan who led the PIL against Scorpene deal in 2006, which was quashed after a shoddy investigation by the CBI, why would the points raised by them once again be not taken seriously?
+
+5. How is it that tainted and/or untested companies are part of PM Narendra Modi’s “Make in India” dream?
+
+Now another interesting detail about Dassault Aviation and Rafale deal. Actually, a two-part detail.
+
+One: In February 2012, when Rafale deal was still being considered by the then UPA government, and Dassault Aviation was in the bidding stage though a clear frontrunner given its significantly low quotes, Mukesh Ambani’s Reliance Industries signed a pact for partnering in the defence and homeland security sector. How much stake does Mukesh Ambani’s RIL have in Dassault Aviation? Does giving money to Dassault Aviation means also benefitting Mukesh Ambani’s RIL?
+
+Two: Who has got 50 per cent of the offset contract in the Rafale deal? It’s Anil Ambani’s Reliance Defence, a barely one-year-old company that was touted as Anil’s great entry into India’s booming defence sector, following big brother Mukesh’s footsteps. Not only does Reliance Defence owe Rs 12,600 crore to public sector banks, but Anil Ambani's Reliance Group as a whole owes Rs 1,21,00 crore to PSU banks. Now, it’s obvious that Anil’s Reliance Defence was awarded the contract as a shining example of Make in India initiative by PM Modi. However, what benefit or expertise or experience does a one-year-old company with no tested record in defence manufacturing and that's neck-deep in debt can bring to the table that the public sector Hindustan Aeronautics Limited (HAL) with its decades of defence manufacturing experience cannot?
+
+That the Rafale deal involves Thales – a company that has been under the radar for years now, and Reliance Defence – a company that is so new that it baffles the mind why at all it has been considered in a defence deal as sensitive and as strategically important as this, the MMRCAs (Medium MultiRole Combat Aircraft) to be used by the Indian Air Force in highly explosive combat situation, is indeed an intriguing question. Is this how PM Modi’s “Make in India” dream going to come true?","{'label': 'Neutral', 'score': 0.9997313618659973}",neutral,0.9997313618659973,0
+Thales' NS200 long range AESA surveillance radar makes world premiere at Euronaval 2016 - Navy Recognition,"Tue, 18 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiwAFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtZXhoaWJpdGlvbnMvMjAxNi1hcmNoaXZlcy9ldXJvbmF2YWwtMjAxNi80NDU1LXRoYWxlcy1uczIwMC1sb25nLXJhbmdlLWFlc2Etc3VydmVpbGxhbmNlLXJhZGFyLW1ha2VzLXdvcmxkLXByZW1pZXJlLWF0LWV1cm9uYXZhbC0yMDE2Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"NS200 brings advanced multi-mission capabilities to naval platforms up to destroyers with an unequalled 400 km range performance for this type of radar.
+
+
+
+
+
+Thanks to its unique dual-axis multi-beam design, the AESA-based sensor system provides high quality weapon support while maintaining fully automated detection and tracking of all naval threats. Various navies have already expressed their interest in the NS200 radar.
+
+NS200 is the larger version of the NS100, which is in full series production. In addition to more transmit and receive modules, NS200 uses newer and more powerful Gallium Nitride (GaN) technology. It answers to the need of a wide range of naval ships and missions, yielding logistics advantages across the fleet.
+
+""NS200 is the newest member of our successful S-band radar family. Together with SMART-S Mk2, the smaller NS100 and the four-faced, non-rotating SM400, Thales is in the unique position to meet the S-band requirements for virtually any naval ship,"" explained Geert van der Molen, Surface radars and above water systems VP at Thales in the Netherlands.
+
+NS200 is Thales’s first radar to be offered with a full lifecycle support programme for carefree operation. This programme covers training, status and obsolescence monitoring, scheduled maintenance and upgrades and smart spare kits. This will give users a better predictability of their yearly maintenance budgets, higher operational availability and functional upgrades throughout the product life-cycle.
+
+The NS200 presented on the Thales booth is a real system, not a mock-up. It is the First-Of-Class system from the production line.
+
+NS200 uses 2D digital beam forming at element level and dual-axis multi-beam to enable an optimal situational awareness, especially in littoral or otherwise complex operational environments.
+
+Being highly modular and scalable, NS200 enables a tailor-made sensor for customer-specific requirements and operational profiles.
+
+NS200 offers an instrumented range of 400 km with simultaneous high elevation coverage. The system can be delivered with integrated X-band surface surveillance radar and an IFF Interrogator.","{'label': 'Positive', 'score': 0.9992344379425049}",positive,0.9992344379425049,1
+Will quit politics if 1% of the claims is true: Varun Gandhi - The Times of India,"Fri, 21 Oct 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2luZGlhL3dpbGwtcXVpdC1wb2xpdGljcy1pZi0xLW9mLXRoZS1jbGFpbXMtaXMtdHJ1ZS12YXJ1bi9hcnRpY2xlc2hvdy81NDk2NzM5Ni5jbXPSAXpodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS93aWxsLXF1aXQtcG9saXRpY3MtaWYtMS1vZi10aGUtY2xhaW1zLWlzLXRydWUtdmFydW4vYW1wX2FydGljbGVzaG93LzU0OTY3Mzk2LmNtcw?oc=5&hl=en-US&gl=US&ceid=US:en,"NEW DELHI: A US-based lawyer has alleged that his former business partner and controversial arms dealer Abhishek Verma “honey-trapped” BJP MP Varun Gandhi and some senior military officers with foreign sex workers to extract sensitive information about defence deals The allegations have been made in two letters sent to PM Modi’s office on August 25 and September 16 by lawyer-turned-whistleblower C Edmonds Allen , who has over the years supplied hundreds of documents to CBI and other agencies against Verma, an accused in the infamous Navy war-room leak of 2005 and other cases.Purportedly backed with “CDs and photos of the MP with foreign prostitutes in compromising positions”, the September 16 letter alleges that Verma and his associates “compromised” and blackmailed Varun Gandhi, who was then a member of the parliamentary consultative committee on defence , and possibly other MPs and their staff as well as some officers.Making public documents sent by Allen in a press conference here on Thursday, except for “the sleazy photographic evidence”, Swaraj Abhiyan leaders Prashant Bhushan and Yogendra Yadav said their intention was to show how both the Congress and the BJP “participate in, collude with and protect each other in compromising vital national security interests”.They claimed that Thales, a company in the scorpene submarine project, had not been blacklisted as it would affect the deal for Rafale fighters. Rafale manufacturer Dassault controls Thales, said Bhushan.Varun Gandhi strongly rejected all charges as “totally ridiculous”, holding he would quit politics “even if 1% of all this” was true. “The entire information presented does not contain an iota of proof that either I had access or shared any communication regarding sensitive information to Verma,” said Varun.Verma, who had gained a dubious reputation as a big-time middle-man in Indian defence deals before being arrested under the Official Secrets Act in the war-room leak case in July 2006, also refuted the allegations. “Allen is a blackmailer…he has morphed the pictures,” said Verma, who is out on bail.Allen alleged there was “enough evidence” against Verma, his Romanian wife Anca Maria Neacsu, Air Marshal Harish Masand (retd) and others for having conspired to compromise Varun Gandhi and others to get vital information on defence deals for different arms manufacturers. One of the manufacturers mentioned is Hawker Beechcraft Corporation, which was in the running to get a contract for supplying trainer planes to IAF.Swaraj Abhiyan said the war-room leak case, the Rs 18,000-crore deal inked in October 2005 with French companies for construction of six Scorpene submarines and the recent Rs 59,000-crore deal for 36 French Rafale fighters, were all inter-linked.They alleged that Verma, son of a former Congress MP, was the middleman in the Scorpene deal but the then UPA government supressed a proper probe to “bury the case”. The NDA government, after it assumed office in May 2014, also did not pursue the matter despite defence minister Manohar Parrikar himself recently admitting that commissions were paid in the Scorpene deal.“The NDA government did not blacklist Thales (one of the main French companies in the Scorpene project). Any action against middlemen in the Scropene deal would have led to the blacklisting of Thales, which in turn would have jeopardised the recent Rafale deal. Thales is after all controlled by (Rafale manufacturer) Dassault,” said Bhushan.“Moreover, contrary to previous announcements of getting 126 aircraft, the government has now bought just 36 fighters by paying double the earlier price per unit,” he added. The government should immediately order registration of an FIR against Verma and Thales in the Scorpene case as well as “come clean” on the price negotiations for the Rafale fighters from the beginning till the end. “The Rafale deal should be scrapped,” he added.","{'label': 'Neutral', 'score': 0.9916425943374634}",neutral,0.9916425943374634,0

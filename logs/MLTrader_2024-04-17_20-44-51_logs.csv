@@ -1,0 +1,43 @@
+2024-04-17 20:44:51,583: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-17 20:44:54,416: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 20:44:54,416: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-17 20:44:54,416: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 20:44:54,416: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 20:44:54,416: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 20:44:54[0m
+2024-04-17 20:44:54,416: asyncio: INFO: [MLTrader] Getting historical prices for SPY, 30 bars, 
+2024-04-17 20:44:54,440: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:44:56,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:44:56,596: asyncio: ERROR: [MLTrader] DataFrame constructor not properly called!
+2024-04-17 20:44:56,611: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 47, in on_trading_iteration
+    df = pd.DataFrame(df)  # Assurez-vous que df est un DataFrame avec les colonnes attendues
+         ^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\frame.py", line 886, in __init__
+    raise ValueError("DataFrame constructor not properly called!")
+ValueError: DataFrame constructor not properly called!
+
+2024-04-17 20:44:56,611: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-17 20:44:56,627: root: INFO: Backtesting finished
+2024-04-17 20:44:57,930: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 20:44:58,086: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 20:44:58,086: backtest_stats: INFO: Backtest took 0:00:06.518501 for a speed of 0.000

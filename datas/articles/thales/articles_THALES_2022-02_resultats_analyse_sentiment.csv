@@ -1,0 +1,1134 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"ETHM, the 3D printed electrical thruster mechanism - Thales","Thu, 10 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9ldGhtLTNkLXByaW50ZWQtZWxlY3RyaWNhbC10aHJ1c3Rlci1tZWNoYW5pc23SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The electrical thruster mechanism (ETHM) was developed by Thales Alenia Space (in France and in UK) for its all-electric Spacebus Neo platforms used for geostationary communications satellites. It steers the electric thrusters in two axes to provide orbital positioning and attitude control throughout the satellite’s lifetime. Developing the ETHM required innovative research in additive manufacturing, making it a key part of our Spacebus Neo product line.
+
+A major technological innovation
+
+
+
+The ETHM is a particularly complex mechanism, comprising no fewer than seven structural parts of titanium, with a design optimized by Thales Alenia Space’s engineers. By optimizing these shapes according to their functions, as well as reducing weight, our engineers came up with organic forms that offered the best combination of operational, mechanical and thermal functions.
+
+According to Xavier François, head of mechanisms, “Thales Alenia Space can already draw on a strong track record in 3D-printed structural components for space, but we have now expanded our scope of expertise with the ETHM. These types of mechanisms demand special skills because of their size, the critical nature of the system and its high precision.”
+
+The thruster bracket alone requires 249 different measurements after its precision machining. The ETHM is one of the first complete space mechanisms designed from the ground up for additive manufacturing. Because of the number of parts involved in this mechanism (28 for each Spacebus Neo-based satellite) and their relatively large size (up to 360 mm), we set up a triple-source supply chain and a technical qualification phase for prototypes representing the final shapes.
+
+Spacebus Neo is part of the Neosat Programme, a European Initiative with 17 participating countries for the development and in-orbit demonstration of the new satellite product lines. As an ESA Partnership Project Spacebus Neo has federated the European industry towards this next-generation satellite platform, achieving a competitive leap forward in the highly dynamic communication satellite market. This was achieved thanks to the combined expertise and excellent collaboration of Thales Alenia Space, ESA and CNES.
+
+An unprecedented challenge
+
+Three shipsets of four ETHM units each have been produced since 2019, with fully satisfactory results for several different customers reflecting our major technical and organizational advances. 3D-printed parts of titanium have proven to be totally reliable. These components are already used on two telecom satellites in orbit, as well as on another satellite now being integrated at Thales Alenia Space. In fact, the production process has been so successful that it’s changing the additive manufacturing paradigm, from one-off fabrication to small production runs.
+
+The Thales 3D Morocco team presents the parts made for Thales Alenia Space.
+
+In 2019, Thales Alenia Space began transferring the manufacture of these 3D-printed parts to Thales 3D Morocco. The plant continues its development to support Thales’ ambitious roadmap for the additive manufacture of metal parts.
+
+Innovation and digital transformation at Thales Alenia Space
+
+Additive manufacturing is an integral part of our comprehensive strategy built on innovation and digital transformation, reflected in the Factory of the Future concept. In today’s fiercely competitive communications satellite market, you have to manufacture “more, faster and cheaper”. New technologies have become the key to building more satellites in less time, against the backdrop of a fast-evolving industrial environment. The Factory of the Future therefore aims to introduce state-of-the-art, highly cost-competitive technologies that are essential to any company’s digital transformation. And we’re not just talking about additive manufacturing, but also robots, cobots, Industry 4.0, augmented and virtual reality, digital twins and much more. The word “innovation” may have become something of a cliché, but its essential meaning comes into its own at Thales Alenia Space! Today, all the communications satellites rolled out of our clean rooms incorporate 3D-printed parts. All in all, there are already several thousand aluminum and titanium 3D printed parts in orbit.
+
+Stay tuned for the latest innovative news from Thales Alenia Space!
+
+Illustations: © Initium3d - © Thales Alenia Space/Creative Spirit- © Thales Alenia Space - © Thales 3D Morocco","{'label': 'Positive', 'score': 0.9804044365882874}",positive,0.9804044365882874,1
+"Utimaco, Thales, and Futurex are Leaders in ABI Research's Hardware Security Module OEM Competitive Assessment - PR Newswire","Thu, 24 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3V0aW1hY28tdGhhbGVzLWFuZC1mdXR1cmV4LWFyZS1sZWFkZXJzLWluLWFiaS1yZXNlYXJjaHMtaGFyZHdhcmUtc2VjdXJpdHktbW9kdWxlLW9lbS1jb21wZXRpdGl2ZS1hc3Nlc3NtZW50LTMwMTQ4ODk1OC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"NEW YORK, Feb. 24, 2022 /PRNewswire/ -- The latest Hardware Security Module OEM competitive assessment by global technology intelligence firm ABI Research provides an unbiased examination and ranking of six prominent Hardware Security Module (HMS) providers. Ranking criteria are split between present-day implementation and forward-looking innovation potential, and include customer flexibility, as-a-service options, partner ecosystem, go-to-market strategies, new applications, form factor, security algorithms, certification and compliance, applications (General Purpose and Payment), and architecture. The companies evaluated and ranked include:
+
+Market Leaders: Utimaco, Thales, Futurex
+
+Mainstream: Entrust, Securosys, Kryptus
+
+""The HSM market is changing rapidly, dynamized by digital transformation strategies driving cloud migration, IoT adoption, and expanded use cases notably in automotive, healthcare and industrial markets. This is propelling highly flexible HSM offerings that can scale easily and adapt quickly to emerging demands,"" says Michela Menting, Research Director with ABI Research. ""Competitive differentiation is underscored by hybrid deployments, integration capabilities, crypto-agility, and modularity.""
+
+Utimaco scored first overall in the assessment, followed by Thales and Futurex. Utimaco's leadership is attributable to the fact that it delivers on a vision for a converged HSM platform, abstracting the underlying hardware platform from the applications and thus enabling a highly modular offering.
+
+Thales, a market leader in the digital security space, ranked a close second, with a high-level and comprehensive HSM offering on all fronts, with diverse form factors and varied deployment models to application choice and richness of feature-set.
+
+Futurex came in third, showcasing an extensive payment HSM platform with strong cloud integration and service availability, enabling it to carve itself a particularly successful niche in the HSM market which it is actively expanding.
+
+No competitor in this assessment is lackluster, with the three resulting companies, Entrust, Securosys, and Kryptus scoring well enough to be included in the Mainstream category. Entrust is a strong market contender with a well-established background and deep expertise in the General Purpose HSM space. Swiss visionary startup Securosys impresses with innovating encryption technology and new application usage (and notably in Blockchain), and Kryptus is a breakout domestic company from Brazil expanding rapidly internationally with a highly competitive converged offering.
+
+""While the market leaders are primarily incumbent HSM providers, there is a small flurry of startups emerging to challenge the status-quo, among which Securosys and Kryptus are two of the most notable to have made it into this assessment. The coming year will no doubt see new players entering the market, from niche domestic firms to large service providers, all looking to compete in a security market typified by a growing appetite for HSM applications. From key management and PKI, to identity, authentication, and access control use cases, HSM providers offer the platforms to create trusted foundations that will help secure a continuously expanding digital ecosystem,"" concludes Menting. ""HSM market competition is thus set to intensify and is set for significant opportunity with the advent of 5G networks and quantum computing.""
+
+These findings are from ABI Research's Hardware Security Module: OEM competitive assessment report. This report is part of the company's Cybersecurity Applications research service, which includes research, data, and ABI Insights. Competitive Assessment reports offer comprehensive analysis of implementation strategies and innovation, coupled with market share analysis, to offer unparalleled insight into a company's performance and standing in comparison to its competitors.
+
+About ABI Research
+
+ABI Research is a global technology intelligence firm delivering actionable research and strategic guidance to technology leaders, innovators, and decision makers around the world. Our research focuses on the transformative technologies that are dramatically reshaping industries, economies, and workforces today.
+
+ABI Research是一家国际科技情报公司，为全球科技领袖、创新人士和决策者提供实用的市场研究和战略性指导。我们密切关注一切为各行各业、全球经济和劳动市场带来颠覆性变革的创新与技术。
+
+For more information about ABI Research's services, contact us at +1.516.624.2500 in the Americas, +44.203.326.0140 in Europe, +65.6592.0290 in Asia-Pacific, or visit www.abiresearch.com.
+
+Contact Info:
+
+Global
+
+Deborah Petrara
+
+Tel: +1.516.624.2558
+
+[email protected]
+
+SOURCE ABI Research","{'label': 'Positive', 'score': 0.9999992847442627}",positive,0.9999992847442627,1
+Advent to Sell IDEMIA; Thales Expresses Interest—Report - findBIOMETRICS,"Mon, 07 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmluZGJpb21ldHJpY3MuY29tL2FkdmVudC10by1zZWxsLWlkZW1pYS10aGFsZXMtZXhwcmVzc2VzLWludGVyZXN0LTUwMjA3MS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"After years of corporate restructuring, IDEMIA could be up for sale and a potential break-up, according to a Reuters report. What’s more, the company’s biggest rival, Thales, could be a buyer.
+
+Citing unnamed sources, the report asserts that Advent International, IDEMIA’s parent company, has begun consulting investment banks about an auction process that could get underway later this year. IDEMIA could be sold for a value of up to $4.6 billion. Alternatively, it could be carved out into distinct business units, with its government-focused business alone valued at about €3 billion (or roughly $3.4 billion), and its enterprise-focused businesses valued at around €1 billion (about $1.1 billion).
+
+Such efforts would bring further transformation to a security giant that has already experienced more than its fair share of restructuring. IDEMIA was formed through the merger of Oberthur Technologies and Safran Identity & Security in 2017. A number of leadership changes were announced the next year, and in 2019 the company announced the consolidation of its Financial Institutions, Connected Objects, and Mobile Operators divisions into a new business unit called Secure Enterprise Transactions.
+
+Now, carrying a heavy debt, the company is looking to capitalize on heightened cybersecurity demand in the wake of the pandemic and its attendant wave of digital transformation, according to Reuters.
+
+Thales, another French firm that is highly active in the biometrics industry, has already suggested that it is “potentially interested” in a transaction, but ruled out diversifying beyond its core businesses, which comprise digital identity and security, defense, and aerospace. That would suggest that breaking up IDEMIA into discrete components is a requirement for Thales to be a buyer.
+
+Thales’s potential involvement is further complicated by antitrust concerns. The company had to leap through several regulatory hoops to complete its acquisition of Gemalto in 2019, and could require government approval to pursue any major acquisitions involving another domestic technology or defence firm. As such, the company isn’t expected to engage in any serious dealmaking until after France’s upcoming election in April.
+
+Reuters’ report comes in the wake of a major biometric border screening contract win for IDEMIA from Danish authorities, as well as the announcement of an access control collaboration with Genetec in Japan, toward the end of last year. The company has also recently launched a new curb-to-gate biometric passenger processing solution for the North American market, and two new additions to its MorphoWave line of contactless fingerprint scanners.
+
+–
+
+February 7, 2022 – by Alex Perala","{'label': 'Neutral', 'score': 0.9999215602874756}",neutral,0.9999215602874756,0
+Thales Eyes Purchase Of Atos Cybersecurity Business: Reports - CRN,"Thu, 03 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9zZWN1cml0eS90aGFsZXMtZXllcy1wdXJjaGFzZS1vZi1hdG9zLWN5YmVyc2VjdXJpdHktYnVzaW5lc3MtcmVwb3J0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Eyes Purchase Of Atos Cybersecurity Business: Reports
+
+Thales has approached several investment firms including Bain Capital to discuss a joint deal that would have the private equity firms picking up the IT services parts of Atos that Thales isn’t interested in owning.
+
+Thales is putting together a plan to buy Atos’ $1.41 billion cybersecurity business in a move that would break up the beleaguered IT services giant.
+
+The Paris-based conglomerate and its adviser Centerview Partners have approached several investment firms including Bain Capital to discuss a deal that would have the private equity firms picking up the parts of Atos, No. 24 on the 2021 CRN Solution Provider 500, that Thales isn’t interested in owning, Reuters and Bloomberg reported Wednesday. Atos didn’t respond to a CRN request for comment.
+
+Thales said in a statement Wednesday that it’s potentially interested in acquiring any cybersecurity asset that could be for sale but added that no discussions with Atos are underway on this matter. The company has no intention of moving into markets such as global IT services that it doesn’t serve already, according to the Thales statement.
+
+id unit-1659132512259 type Sponsored post
+
+[Related: Atos CEO Vows ‘Swift Turnaround’ After Issuing New Profit Warning]
+
+Atos’ stock is up 0.09 percent to $37.03 per share since the acquisition reports were published, while Thales’ stock is down 0.5 percent to $18.22 per share over the same period. In addition to Bain, Thales’ advisers have also begun talks with CVC Capital Partners and PAI Partners over a possible joint bid for Atos, but the timing of such a move remains unclear, one source told Reuters.
+
+Neither Bain, CVC nor PAI immediately responded to CRN requests for comment.
+
+Bain, meanwhile, would use any joint buyout of Atos to expand its portfolio of tech assets in Europe, where it also controls Italian IT firm Engineering Group, Reuters reported. In such a deal, Thales would buy Atos’ big data and cybersecurity (BDS) arm, while private equity firms would swallow Atos’ $6.99 billion infrastructure and data management and its $4.38 billion business and platform solutions units.
+
+Atos has rebuffed previous overtures by Thales for its BDS business and would view any move by private equity funds to launch a public offer and delist Atos from the Paris Stock Exchange as hostile and unwarranted, a source told Reuters. Similarly, the French government is expected to strongly oppose any break-up of Atos with the country’s presidential elections looming in April, Reuters reported.
+
+The company’s BDS business has enjoyed robust growth in recent years, with revenues climbing to $1.41 billion in 2020, up 15.8 percent from $1.22 billion in 2019. That’s in stark contrast to Atos’ infrastructure and data management and business and platform solutions divisions, which saw sales fall by 3 percent and 7.9 percent, respectively, in 2020.
+
+Atos’ BDS practice has benefitted from an aggressive acquisition strategy, with the company buying Canadian cybersecurity consulting firm In Fidem in January 2021, Austrian consulting provider SEC Consult Group and Netherlands-based company Motiv ICT Security in December 2020, and Reston, Va.-based managed detection and response provider Paladion and Paris’ digital.security in November 2020.
+
+The company had a difficult 2021 under former CEO Elite Girard, who failed in his attempt to acquire Tysons, Va.-based solution provider DXC Technology and disclosed that auditors discovered accounting errors in Atos’ North American division. Then in January, new CEO Rodolphe Belmer warned of a “severe gap” in the company’s 2021 financial results, which sent Atos’ stock to its lowest level since 2012.
+
+On the Thales side, the company’s digital identity and security business saw sales jump to $3.42 billion in 2020, up 17.3 percent from $2.92 billion a year earlier thanks largely to the company’s $5.63 billion acquisition of Amsterdam-based Gemalto, which closed in April 2019. But sales for the sector slumped to $2.41 billion in the first nine months of 2021, down 4.3 percent from $2.52 billion a year earlier.
+
+Thales and Atos went toe-to-toe in late 2017 to buy digital security vendor Gemalto, with Atos entering a $5.05 billion acquisition offer on Nov. 28, 2017, that would have created a cybersecurity, IoT and payments powerhouse. But Thales bested Atos with a $5.63 billion bid on Dec. 17, 2017 that sought to form a cybersecurity business well-positioned to address IoT, cloud and mobile security challenges.","{'label': 'Neutral', 'score': 0.9999924898147583}",neutral,0.9999924898147583,0
+Thales Alenia Space wins study contract to develop payload to extract Oxygen on the Moon - Thales,"Tue, 22 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLXdpbnMtc3R1ZHktY29udHJhY3QtZGV2ZWxvcC1wYXlsb2FkLWV4dHJhY3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space wins study contract to develop payload to extract Oxygen on the Moon Share this article
+
+
+
+LinkedIn
+
+Selected by the European Space Agency, Thales Alenia Space leads study to develop a demonstration payload to extract oxygen from Moon rock to sustain human activities on the Lunar surface
+
+Bristol, February 23, 2022 – Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), has signed a study contract with the European Space Agency worth one million euros for a payload concept to extract oxygen from Moon rock.
+
+© Esa
+
+For a sustainable habitation on the Moon, humans will need to utilise resources that they find on the Moon rather than transport these resources from Earth; one of these resources is oxygen. Thales Alenia Space teams in the UK have worked with AVS, Metalysis, Open University and Redwire Space Europe to specify a demonstration payload for a European Space Agency Lunar Mission that uses molten salt and electrolysis to extract oxygen from Moon rock ‘regolith’. The winning proposal from an ESA competition between multiple industrial consortia, this payload concept will demonstrate that In Situ Resource Utilisation (ISRU) can be performed on the Moon efficiently and to produce oxygen in the quantities required by future Moon colonies.
+
+Andrew Stanniland, CEO of Thales Alenia Space in the UK commented
+
+This contract award is incredibly exciting. The adaption of processes and tools to the space environment, many of which we take for granted on Earth, will be critical in many areas of our future. I am proud that our dedicated teams will be leading this study together with our valued partners AVS, Metalysis, Open University and Redwire Space Europe to solve the complex challenge of creating oxygen to sustain life on the lunar surface.
+
+David Binns Systems Engineer at ESA's Concurrent Design Facility added
+
+ESA is looking forward to working with Thales Alenia Space in the UK and their partners to develop an oxygen extraction demonstrator further as part of the space resources initiative. Finding solutions to the challenges posed to make sustainable lunar exploration a reality.
+
+Thales Alenia Space at the heart of the Lunar industrial challenge.
+
+Thales Alenia Space, already responsible for the thermomechanical systems on the European service module for Orion, is heavily involved in the European Space Agency's contribution to the Lunar Gateway with the development of the I-HAB (International - Habitat) and ESPRIT (European System Providing Refuelling, Infrastructure and Telecommunications) modules. For Northrop Grumman, Thales Alenia Space is also developing the pressurized module for HALO (Habitation And Logistics Outpost), one of the first two elements of the Lunar Gateway, to be launched by the end of 2023.
+
+The Lunar Space Station, Gateway
+
+The Lunar Gateway is one of the pillars of NASA’s Artemis program, supporting a sustainable presence on the Moon and exploration beyond. It’s an international project, led by the two main contributors NASA (United States) and ESA (Europe). Weighing about 40 metric tons, the Gateway will be automatically assembled piece by piece and placed in a “near rectilinear halo orbit” (NRHO) around the Moon. It mainly comprises habitation modules for the crew, power and propulsion systems, logistics modules, communications systems, a robotic arm and docking ports. It is not intended for permanent occupancy, but will be able to host 4-person crews for periods of one to three months. Gaining new experience around the Moon will prepare NASA to send the first humans to Mars as from 2030 – and the Gateway will play a key role in this process.
+
+Studies for a sustained human presence on the Moon
+
+Along with current projects Thales Alenia Space has also been chosen to design advanced solutions for a sustained human presence on the Moon. One of these visionary studies is EL3, or the European Large Logistic Lander (EL3). A free-standing part of international lunar exploration activities, it’s a versatile system designed to support a variety of missions. It is aimed to provide cargo and logistics services for NASA-led lunar missions via Artemis and support a European mission to study the Lunar South Pole with a robotic laboratory derived from the designed sample fetch rover.
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space has around 7,700 employees in 10 countries with 17 sites in Europe and a plant in the US.
+
+www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki Tel.: +33 (0)4 92 92 70 94 sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis Tel.: +33 (0)6 78 64 63 97 catherine.des-arcis@thalesaleniaspace.com
+
+Jill Hutchinson Tel +44 (0) 7854 959 805 jill.hutchinson@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.999953031539917}",neutral,0.999953031539917,0
+Second Generation COSMO-SkyMed Satellite Successfully Launched - Thales,"Tue, 01 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3NfcmVsZWFzZS9zZWNvbmQtZ2VuZXJhdGlvbi1jb3Ntby1za3ltZWQtc2F0ZWxsaXRlLXN1Y2Nlc3NmdWxseS1sYXVuY2hlZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The dual use Italian Constellation at the Service of Security and Sustainability
+
+Rome, 1 February 2022 – The second satellite of the COSMO-SkyMed Second Generation (CSG) constellation, built by Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%) and operated in orbit by Telespazio, a joint venture between Leonardo (67%) and Thales (33%), was successfully launched today at 00.11 CET from Cape Canaveral Air Force Station, Florida (USA), on board of a SpaceX Falcon 9 rocket.
+
+Fifteen minutes after the separation from its launcher, the satellite was acquired and controlled by Telespazio's Space Centre based in Fucino.
+
+© SpaceX
+
+The second-generation COSMO-SkyMed (COSMO-SkyMed - COnstellation of Satellites for the Mediterranean basin Observation) is a constellation financed by the Italian Space Agency (ASI) with funds allocated by the Italian Ministry of University and Research alongside the Italian Ministry of Defence. It will guarantee the operational continuity of SAR (Synthetic-Aperture Radar) Earth observation services currently provided by the four first-generation COSMO-SkyMed (CSK) satellites launched into orbit between 2007 and 2010 and still operational.
+
+© Thales Alenia Space
+
+“The success of this launch represents a key milestone for the entire COSMO-Skymed Second Generation constellation. In its final configuration of 4 satellites, it will ensure a real leap in terms of technology and performance, consolidating the worldwide leadership of Thales Alenia Space in space Radar Earth Observation infrastructure. Today, the second generation aims to define the performance standard for all radar observation systems from Space. - commented Massimo Comparini, Deputy CEO and SEVP Exploration, Observation and Navigation at Thales Alenia Space- COSMO-SkyMed is an industrial success story and demonstrates our ability to deal with dual use programs, meaning collaborating at the same time with different customers like the Italian Space Agency and the Italian Defense Ministry. Keeping the entire constellation COSMO-SkyMed at the forefront of the future, is essential to preserve the primacy of the entire industrial supply chain in a space market in continuous evolution. It will also allow the ensure the continuity of data serving both security and sustainability needs”.
+
+“We are proud as the Leonardo Group and as Telespazio to be among the creators of the development and affirmation of the most advanced satellite radar constellation in the world - said Luigi Pasquali, Leonardo’s Space Activities Coordinator and CEO of Telespazio - COSMO-SkyMed, with its highly innovative operating capabilities, has been contributing since 2007 to the continuous monitoring of the Earth’s surface, responding to the needs related to security and management of natural events providing a contribution of primary importance to its users, both civil and defense"".
+
+© E-geos
+
+With the positioning in orbit of the second satellite, which uses the latest technologies and engineering solutions, CSG will progressively replace the first generation system, increasing system performance, and significantly extending the range of applications offered, in view of the final configuration of four satellites. The entire system, including the ground segment, will set the performance standard for all radar observation systems from space, in terms of accuracy, image quality and flexible user services.
+
+Over the years, the data obtained by the COSMO-SkyMed system have provided fundamental information in monitoring the environment and the territory, for safety or for emergency management. As a participating mission in the European Copernicus program, COSMO-SkyMed images are of great importance in the European Commission's Emergency Mapping Rapid Mapping service, which makes satellite maps of areas affected by a natural emergency or humanitarian crisis available in a few hours, such as the La Palma volcanic eruption, for which COSMO-SkyMed provided data and maps of lava movements. This service is involving an international consortium led by e-GEOS (Telespazio 80% / ASI 20%).The work carried out on the island has shown one of the most innovative features of the second generation COSMO-SkyMed satellites, the ability to acquire data with two - in some ways, four - different polarizations, with important benefits in terms of rapid response and efficiency in the use of the satellite resource. In the past the same result was obtained with multiple passes of the satellite.
+
+© Thales Alenia Space
+
+Industry role
+
+For COSMO-SkyMed, Italian industry plays a leading role, with Leonardo and its joint ventures Thales Alenia Space and Telespazio, together with a significant number of small and medium-sized enterprises
+
+Thales Alenia Space is in charge of the entire Second-Generation COSMO-SkyMed programme, including satellite design and development, as well as the design, integration and commissioning of the end-to-end system. Telespazio is responsible for the design and development of the CSG ground segment and the provision of Integrated Logistics and Operations Services (ILS and OPS).
+
+Telespazio's Fucino-based Space Centre, a joint venture between Leonardo (67%) and Thales (33%), will manage the satellite's Launch and Early Orbit Phase (LEOP), from where the first telemetry data sent by the satellite will be acquired.
+
+Leonardo contributes to the programme by providing attitude control equipment, as well as state-of-the-art units for the management and distribution of electrical power.
+
+COSMO-SkyMed data is marketed worldwide by e-GEOS, a joint venture between Telespazio (80%) and ASI (20%) which develops applications and provides operational services based on the same data.
+
+About THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 1.850 billion euros in 2020 and has around 7,700 employees in 10 countries with 17 sites in Europe and a plant in the US. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Cinzia Marcanio
+
+Tel.: +39 (0)6 415 12685
+
+cinzia.marcanio@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 129 91
+
+marija.kovac-somministrato@thalesaleniaspace.com
+
+About the Space Alliance
+
+The Space Alliance, founded in 2005, is a strategic partnership between Leonardo and Thales, the major industrial groups in the aerospace industry in Italy and France. It includes two joint ventures: Telespazio (Leonardo 67%, Thales 33%) and Thales Alenia Space (Thales 67%, Leonardo 33%). The complementary capabilities of Thales Alenia Space in satellite systems and Telespazio in the services associated with them provides the Space Alliance all the assets needed to respond positively and effectively to the needs of the market, which today are increasingly focused on applications related to space technologies. In this scenario, Telespazio and Thales Alenia Space have a unique offering of its kind, ranging from the field of communications to navigation, as well as scientific research and observation, which enables both companies to consolidate their position in the aerospace and defense and security markets.
+
+ABOUT TELESPAZIO
+
+Telespazio is one of the world's main operators in the space services sector. These include the design and development of space systems, the management of satellite launch and in-orbit control services, Earth observation services, integrated communications, satellite navigation and localisation, and scientific programmes. Telespazio plays a leading role in its relevant markets by leveraging the technological expertise it has acquired through 60 years of activity, through developing its own infrastructures, and through its participation in space programmes such as Galileo, EGNOS, Copernicus and COSMO-SkyMed. In 2020, Telespazio generated sales of EUR 540 million while employing 3,000 people in nine countries.
+
+www.telespazio.com
+
+TELESPAZIO – PRESS CONTACTS
+
+Paolo Mazzetti Tel: +39 335 6515994 paolo.mazzetti@telespazio.com
+
+Alessandro Iacopini Tel: +39 331 6004894 alessandro.iacopini@telespazio.com","{'label': 'Neutral', 'score': 0.9765797257423401}",neutral,0.9765797257423401,0
+Cygnus spacecraft successfully docked to the International Space Station - Thales,"Mon, 21 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9jeWdudXMtc3BhY2VjcmFmdC1zdWNjZXNzZnVsbHktZG9ja2VkLWludGVybmF0aW9uYWwtc3BhY2Utc3RhdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The latest Cygnus resupply vessel, named in honor of former astronaut and renowned climate scientist Piers Sellers, has successfully docked to the International Space Station (ISS). The 17th Cygnus operational mission was launched by an Antares 230+ rocket from NASA’s Wallops Flight Facility, Wallops Island, Virginia, on Saturday, February 19.
+
+© NASA
+
+The Cygnus spacecraft comprises two main sections: a Service Module from Northrop Grumman, and an enhanced Pressurized Cargo Module (PCM) developed and built by Thales Alenia Space. The PCM carries more than 3,700 kg (8,200 lb.) of payload, including vital crew supplies, such as water, food and personal items. It also includes spare parts and supplies for scientific experiments performed by the orbital laboratory, which demonstrates new technologies and enables research not possible on Earth.
+
+The experiments carried on this mission included kits for testing cancer cell therapies and investigating how microgravity impacts skin aging, along with a system to try alternative approaches to growing plants without soil. Experiments such as these will help us prepare for future long-duration missions in space, while leading to important developments that could improve life on Earth. Each Cygnus mission lasts about three months.
+
+© NASA
+
+Thales Alenia Space’s Turin plant is already producing the next three Cygnus Pressurized Cargo Modules: PCM-18 is undergoing advanced integration in preparation for a launch planned in August 2022, while both PCM-19 and PCM-20 are being assembled.
+
+Thanks to the long-standing collaboration between Thales Alenia Space and Northrop Grumman, Cygnus has been delivering critical supplies to the ISS since 2013.","{'label': 'Neutral', 'score': 0.9958868622779846}",neutral,0.9958868622779846,0
+Maritime forces grapple with the return of naval combat - Thales,"Wed, 16 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZ3JvdXAvbWFnYXppbmUvbWFyaXRpbWUtZm9yY2VzLWdyYXBwbGUtcmV0dXJuLW5hdmFsLWNvbWJhdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Maritime forces grapple with the return of naval combat Naval Defence Data analytics quantum computing Share this article
+
+
+
+LinkedIn
+
+Geopolitical tensions, overfishing and energy security are just some of the major issues currently playing out in the maritime space. These pressures are prompting unprecedented investment in new capabilities and a deep-seated transformation in naval fleets. Vice Admiral (rtd) Eric Chaperon, Thales’s Naval Defence Advisor, shares his insights into what the navy of the future will look like.
+
+We seem to be witnessing large-scale rearmament of naval forces around the world. Why is this happening?
+
+The strategic importance of the maritime space is a key factor here. The figures speak for themselves: three billion people worldwide rely on the sea for food,1 90% of traded goods are transported over the waves2 and undersea cables carry 99% of international data traffic.3
+
+Yet we obviously live in a time of rising geopolitical tensions. China and the Unites States are jostling for naval supremacy. The Middle East remains beset by conflict. Relations between NATO and Russia are at their lowest ebb in recent memory. And Turkey and other countries have made their ambitions clear.
+
+© Thales
+
+Marine resources are also expected to come under growing pressure in the years ahead, as overfishing, offshore oil and gas production, and mineral extraction take their toll. This strain will only increase as climate change continues. So it’s no surprise that the eyes of the world will once again be trained on the sea.
+
+As global powers flex their naval muscles, the calm that once prevailed on the oceans is giving way to friction, bringing with it an increased risk of high-intensity conflict.
+
+What does this large-scale rearmament mean, practically speaking?
+
+It means massive investments on a scale we haven’t seen before – or at least not since the Cold War. China, for instance, has expanded its fleet by the size of the French Navy in just four years. That’s the most extreme example, but nations big and small are following the same path.
+
+At the same time, the naval arms race isn’t just a question of size. We’re also witnessing intense competition on the technology front, as countries seek to outdo their rivals in terms of military prowess. As operational and technological superiority become increasingly inseparable, naval forces will need to undergo a radical transformation.
+
+Can you explain, in broad terms, what this transformation will involve?
+
+Essentially, this change will revolve around three trends: drones, data and quantum technologies.
+
+Drones will become increasingly commonplace in every environment. That much is certain. Sooner or later, we’ll reach a point where we witness drone-on-drone or swarm-on-swarm combat. This isn’t the stuff of science fiction. It is taking place before our very eyes, and we need to plan accordingly. This development will have profound implications for naval doctrine.
+
+Use-of-force thresholds will be lower than we’ve seen in the past, not least because neutralising an unmanned system is an entirely different proposition from destroying a crewed aircraft or naval vessel, and because taking out a drone won’t necessarily result in open warfare.
+
+What’s more, drones increasingly operate in the so-called “grey areas” between military and non-military missions, paving the way for asymmetric and hybrid strategies. For instance, a criminal group could, at least in theory, inflict millions of euros of damage on a warship with a drone costing just €5,000.
+
+In another new development, we could well see drones being deployed to conduct espionage and sabotage operations on undersea cables, ushering in an era of ""seabed warfare"".
+
+Operational and technological superiority will become increasingly inseparable in tomorrow's naval forces.
+
+How can these new threats be countered?
+
+Countering drones poses a unique set of challenges. As they become smaller and more disparate in design, they are becoming harder to detect. Neutralising them is equally problematic. Missile strikes aren’t always possible, especially if the drone is operating close to a port or flying over a built-up area. And when you compare a missile worth a million euros with a drone costing only thousands or tens of thousands, it’s clear that this is rarely a cost-effective option.
+
+The answer will likely lie in a hybrid approach that combines directed energy weapons, such as lasers and high-powered microwave devices, with physical interception systems. It goes without saying that agile thinking and innovation will prove vital in facing down this fast-growing threat in every environment: above water, underwater and in the air.
+
+Can’t our own forces harness the potential of drones, too?
+
+Absolutely. Maritime drones will prove extremely useful for mine countermeasures in enemy-controlled territory, and for discreet surveillance and intelligence-gathering missions, for instance. We could also use them to monitor our own territorial waters, freeing up naval crews to focus their time and expertise on tasks with higher added value.
+
+But there are several obstacles to overcome before we reach that point. From a financial standpoint, sophisticated drones are expensive. And there are also regulatory issues that need to be resolved. How much autonomy should these unmanned craft be given? How do we ensure that humans always stay in control? These aren’t easy questions.
+
+Could you expand on the second part of the transformation: data and data processing?
+
+Modern sensors such as radars and sonar systems generate vast amounts of data, and the only way to extract useful insights from such large datasets is to use artificial intelligence.
+
+Navies, like the other armed forces, will need the capability to process and exploit data captured by every sensor in the theatre of operations. Likewise, an effective detection and response capability relies on sensors and effectors that are able to communicate with each other in real time. Everything will need to happen at breakneck speed. Increasingly fast-paced threats such as drones and hypersonic missiles – which can top speeds of 3 km per second – mean that, when it comes to detection and response, time is of the essence. We call this “collaborative combat”.
+
+The French Navy fully recognises the importance of data. It has set up the Marine Data Service Centre (CSD-M) in Toulon and will soon be opening an artificial intelligence centre in Brest, and Thales is playing a leading role in both of these projects.
+
+© Damen
+
+Turning to the third and final part of the transformation, how do you see quantum technologies being a game-changer?
+
+The second quantum revolution will bring about dramatic change, including for naval forces. In terms of sheer computing power, quantum computers will dwarf the capabilities of the systems available today.
+
+Quantum technologies will also allow us to develop miniature antennas that raise the bar for sensitivity to an entirely different level. These ground-breaking new sensors will be much easier to transport and will set new standards of performance, dramatically increasing our detection capabilities.
+
+A new generation of inertial navigation systems, again made possible by quantum technologies, is also on the horizon. In the future, surface ships and even submarines will be capable of navigating autonomously with pinpoint precision, and without the need for calibration or GPS position fixing. Post-quantum cryptography will also be a game-changer, leading to communication systems that are completely secure and trustworthy.
+
+This transformation of naval forces will require substantial investment. Technological and financial difficulties aside, so you foresee any other challenges?
+
+Yes, there are two in particular.
+
+The first has to do with the pace of change. Technology platforms tend to have long design and development cycles, whereas innovation in hardware typically happens over shorter periods. And software development cycles are even quicker. Reconciling these different timescales will prove challenging. After all, we clearly can’t wait 20 or even 30 years for the next upgrade!
+
+Resilience is another key issue, and industry has a major role to play here too. As the industry partners of modern naval forces, one of our tasks is to develop systems that are user-friendly and capable of operating in degraded mode. That requires a constant effort to develop user interfaces that allow operators to get the very best out of their equipment, because performance and ease of operation should go hand in hand. Designing systems that will work in degraded mode is another huge challenge, especially in today’s increasingly digital environment, which lacks natural immunity to attacks. Other priorities include more robust training to provide crews with the specific knowledge and expertise they need, and stepping up contractor logistic support capabilities, including hotline support for remote operators and crews.
+
+On a final note, my sense is that fortunes of naval forces and the naval defence industry are increasingly intertwined, and that the two will develop an ever-closer working relationship. We are living through a period of major technological change. Yet tighter budgets restrict the ability of most countries to expand the size of their naval fleets. Our role, therefore, is to help naval forces to enhance the military value of their assets. This calls for a new kind of relationship in which naval defence contractors, customers and users work together, through a process of co-innovation, to ensure that technologies and tactical deployment concepts move forward as one. With its extensive range of technology expertise and its experience of every type of operational environment, Thales has a key role to play in this process.
+
+
+
+1 Sustainable Seafood | WWF
+
+2 Ocean shipping and shipbuilding - OECD
+
+3 Threats beneath the sea","{'label': 'Neutral', 'score': 0.9979631900787354}",neutral,0.9979631900787354,0
+Thales strengthens its ESR organisation to prepare for the future - Thales,"Mon, 14 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZ3JvdXAvbmV3cy90aGFsZXMtc3RyZW5ndGhlbnMtaXRzLWVzci1vcmdhbmlzYXRpb24tcHJlcGFyZS1mdXR1cmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales strengthens its ESR organisation to prepare for the future corporate responsibility Sustainability Share this article
+
+
+
+LinkedIn
+
+The Group has created a new Environmental and Social Responsibility Department and made governance changes to help achieve its ambitions in this field. Isabelle Simon, Group Secretary and General Counsel, explains why.
+
+Why has Thales decided to change the way it implements its corporate social responsibility strategy?
+
+© Eric M - Encre Noire
+
+We needed an organisation that reflects the growing importance of these issues. Until recently, companies viewed environmental, social and governance matters through the lens of legal and regulatory compliance and communication. But things have changed. Today, these topics are considered strategic priorities.
+
+There is growing awareness of the urgent need for action if we are going to create a more sustainable, more inclusive world. The stakes are very high, and in the case of the environment in particular, the world is facing an existential challenge. Citizens, politicians, businesses and the whole of civil society now recognise the enormity of the tasks ahead. Thales is fully engaged with the changes of our times, and we are 100% determined to play our part.
+
+In practical terms, these challenges translate into risk factors of ever increasing importance. Pressure on businesses to do more is inexorably rising, and companies have a lot to lose by not keeping pace with the changes. It is perfectly conceivable, for example, for a company to be excluded from a market due to material failings or reputational issues in these areas. Regulators monitor the application of a growing number of rules and standards, and are demanding more and more transparency from businesses. Investment strategies are increasingly shaped by the risks related to a company's ESG (Environmental, Social, and Governance) performance, and the volume of funds flowing into socially responsible investments is growing very rapidly.
+
+On the other hand, a clear and substantiated corporate social responsibility policy can constitute a real competitive advantage for a business today. It makes a company more attractive to its stakeholders — investors, customers, current and future employees, business partners and civil society as a whole.
+
+Does that mean that Thales is going to step up its ESR commitments?
+
+It's important to remember that the Group has pursued a proactive and widely recognised ESR policy for many years, with a focus on ethics, diversity and inclusion as well as environmental and societal responsibility. Just recently, the Carbon Disclosure Project rated Thales among the top-performing companies for its climate action1.
+
+And the movement is really gaining strength now. First we included ESR objectives in the variable compensation of all eligible employees, who make up 70% of our workforce. Then we announced a significant increase in our CO 2 emissions reduction targets during an Investors Day dedicated to ESG issues in late 2021. We have also taken steps to drive continuous improvement in our compliance policies (including ISO 37001 certification), and put in place new rules of ethical conduct for our digital developments.
+
+This growing momentum is important, but we need to keep our sights firmly fixed on the future. Today we need to lay the foundations for future initiatives in several areas of ESR, and we need to deliver on the commitments we have already made. In the not-too-distant future, missing these extra-financial targets will be just as damaging for a company like Thales as failing to meet its financial guidance.
+
+CSR, ESG… what is the difference? Although both concepts revolve around the impact a company has on society and on the environment, CSR and ESG are not used in the same context. CSR (Corporate Social Responsibility) refers to companies’ intentional integration of social, societal and environmental concerns into their business and their relationships with stakeholders. With climate and environmental stakes becoming increasingly important, many companies have come to replace it with “ESR” (Environmental and Societal Responsibility). ESG is the abbreviation of Environmental, Social & Governance. It is a concept used mostly by investors to qualify the criteria used to assess how responsible a company is. The addition of the “G” for “Governance”, which is not found in CSR, serves to underline how important matters of ethics and transparency at the most senior levels of the company are for this assessment.
+
+How has Thales modified its ESR organisation and governance to achieve these ambitions?
+
+To step up to future challenges more effectively and ensure that our employees engage more closely with our commitments, we have decided to set up an integrated ESR department reporting directly to the Group Secretary and led by a Chief Sustainability Officer, Anne Bolot-Gittler. This new department will have a team of about 15 people who used to work for various other departments. By working together as a single organisation, they will be able to provide a more integrated response and act as the Thales ""task force"" on every aspect of ESR.
+
+The new department's scope of action will be very broad. It will be organised as three centres of expertise: one for environmental and health & safety issues, one for social and societal issues such as diversity & inclusion and Thales Solidarity, and one to deal with transverse issues: indicators, reporting, benchmarking, stakeholder communications, regulatory and societal intelligence, etc.
+
+We have chosen this organisation because we believe that no single aspect of ESR is more important than another. Climate concerns may make the headlines more often than most, but social and ethical questions are also of major importance for us.
+
+We are also going to adjust the Group's governance model so that these issues are handled at the highest level of the organisation, starting with a few changes at Board level with the addition of two members to address ESR topics in its relevant committee.
+
+A new strategic ESR committee is also going to be set up, which will include the Chairman & CEO and several members of the Executive Committee.
+
+Last but not least, we believe that a corporate social responsibility policy will only work properly if it is implemented with the business and by the business. These issues need to take centre stage in our operational activities, our forward planning and our management decisions. This is why we have decided to create a network of ESR correspondents, with the Strategy & Marketing VP of each Global Business Unit and each Major Country, and also to name ESR coordinators for key functions. Thanks to them, we will make sure that ESR considerations gradually permeate every level of the Group and eventually become part and parcel of every operational decision and thus an integral component of Thales’s DNA.
+
+The notion of trust is at the core of our purpose (“building a future we can all trust”) and it has never been more relevant than today. In a time when it is so easy to be accused of greenwashing, we really need to prove that we’re serious about our commitments and taking material steps to meet them. These organisational changes give us the means to continue to build a company where responsibility goes ever more hand in hand with sustainable and profitable growth.
+
+1 Carbon Disclosure Project rates Thales among top-performing companies","{'label': 'Neutral', 'score': 0.6703628897666931}",neutral,0.6703628897666931,0
+ESA Astronaut Alexander Gerst tests lunar module living conditions at Thales Alenia Space in Turin - Thales,"Fri, 18 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9lc2EtYXN0cm9uYXV0LWFsZXhhbmRlci1nZXJzdC10ZXN0cy1sdW5hci1tb2R1bGUtbGl2aW5nLWNvbmRpdGlvbnMtdGhhbGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"European Space Agency astronaut Alexander Gerst has recently tested the future cislunar human accommodation inside a physical mockup and a virtual reality environment at Thales Alenia Space in Turin, where Lunar Gateway is largely being built, including the International Habitation Module (I-HAB).
+
+© Thales Alenia Space
+
+A session inside the Crew Quarter Compartment simulator allowed Alexander Gerst to experience this environment and provide feedback on the actual habitable volume of the compartment that will be used by the crew for their personal activities, including sleeping and personal communications. ESA Astronaut gave a positive feedback about the area and its volume and addressed specific recommendations, providing suggestions that will be extremely useful for Thales Alenia Space’s team in the next design phase.
+
+© Thales Alenia Space
+
+Other features of I-HAB were tested virtually in the Gateway4U collaborative environment developed by Thales Alenia Space. The support team, comprising staff from ESA, Thales Alenia Space and NASA, participated in a very constructive remote concurrent engineering session while Alexander Gerst was interacting within the virtual habitat. The team collected vital feedback to support the development of the module.
+
+© Thales Alenia Space
+
+Following this session, Marcella Salussolia, I-HAB Program Manager at Thales Alenia Space, said: “Our human-centric approach, with the involvement from the outset of the program of astronauts like Alexander Gerst, Samantha Cristoforetti and Luca Parmitano, makes a vital contribution to the module design. This process gives us an unprecedented opportunity to tailor the module to the actual needs of future users of the International Habitat.”
+
+© Thales Alenia Space
+
+Franco Fenoglio, in charge of Human Planetary Exploration at Thales Alenia Space, added: “For us, this is another positive step forward, and one that spotlights the sound design solutions being developed by Thales Alenia Space. Through the development of a significant part of the International Space Station, we are developing a strong legacy, along with new innovative solutions, that underpin our vision of all present and future infrastructures dedicated to human space exploration.”
+
+© Thales Alenia Space
+
+About I-HAB
+
+I-HAB is a pressurized module that will provide crew living quarters, resources utilization for pressurized and unpressurized scientific experiments plus docking ports to supply interfaces and resources to vehicles in transit. Drawing on Thales Alenia Space’s long-standing expertise in the development of pressurized modules for the ISS, along with new technologies and processes, I-HAB will mark the transition from the ISS to a new generation of space infrastructures for deep space exploration. It will meet evolving requirements and performances for lighter structures and optimized micrometeorites protection system, evolved docking systems and hatches, enhanced functional and avionic architectures, more efficient thermal control system with deployable radiators to ensure full autonomous capability of heat rejection, innovative conditioning systems. The I-HAB will experience for the first time long exposure in the deep space environment, offering the opportunity to test and prove potential design solutions for protection against cosmic radiations. Being unmanned for most of its time on orbit, it will also require dedicated solutions for the robotic operations, either on board and externally. One of the key evolving step with respect to the ISS will be focused on designing, with the support of virtual reality technique, more comfortable internal accommodations, with exploitation of modular and reconfigurable solutions to optimize room and comfort for the crew. The module will be provided by Europe with contributions from the other space Agencies like environmental and life support system from JAXA, avionics and software parts from NASA and robotic components from CSA; the integration of all these elements in I-HAB will leverage on the large experience already acquired by Thales Alenia Space during the ISS Nodes 2 and 3 activities already developed in cooperation. I-HAB is planned for launch in 2026. Thales Alenia Space in Italy is program prime contractor, with responsibility for overall program management, product assurance and safety, system engineering, functional design, all components concerning human factors, thermal and mechanical systems, the primary structure and production of hatches, and the assembly, integration and testing (AIT) phase. Thales Alenia Space in France is in charge of software and avionics subsystems.","{'label': 'Neutral', 'score': 0.9904223680496216}",neutral,0.9904223680496216,0
+Celebrating International Day of Women and Girls in Science - Thales,"Fri, 11 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2NlbGVicmF0aW5nLWludGVybmF0aW9uYWwtZGF5LXdvbWVuLWFuZC1naXJscy1zY2llbmNl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Celebrating International Day of Women and Girls in Science International Women in Engineering Share this article
+
+
+
+LinkedIn
+
+February 11th, was the United Nations International Day of Women and Girls in Science, which highlighted the gender imbalance in Science, Technology, Engineering and Mathematics (STEM) related fields. We believe it is important to support women and girls who aspire to have a career in science and engineering and are actively working with educational bodies and STEM partners to encourage future talent in to the business.
+
+We want to recognise our female talent and the work they do that contributes to our world leading technology. We had the pleasure of speaking to our employees, Charlotte Grinyer and Zereh Pam to find out why they chose a career in science and engineering.
+
+Meet Charlotte Grinyer
+
+Charlotte Grinyer
+
+Hi, my name is Charlotte Grinyer and I am a Research Engineer within Research, Technology and Innovation (RTI).
+
+I studied physics at university, but quickly realised that I wanted to apply my skills to emerging technologies within engineering. Getting involved in AI and Machine learning during my Thales internship made me realise how passionate I was about this area. Working in an innovation-based domain has so many possibilities, so pursuing a career in Research Engineering was a natural fit!
+
+I love the opportunity to connect with other Thales research departments on an international scale and I was lucky enough to spend six months working in Montreal with their AI research team. Maintaining these connections and being able to bring knowledge back to the UK has really contributed to my development.
+
+Despite there being excellent role models in science and space, none of them really spoke to me. I think this shows how important it is that we highlight women in wider and varying roles, as women in engineering should be the expectation, not just an inspiration.
+
+I hope to continue my development, with the goal of becoming a Thales Expert. I believe it is important we continue to recognise female talent and make meaningful developments within technology that contribute to a better future.
+
+It would be great to see more female engineers in the field!
+
+Meet Zereh Pam
+
+Zereh Pam
+
+Hi, my name is Zereh Pam and I am a Software Engineer Degree-Apprentice, working in the Aerospace sector.
+
+I chose to do a software apprenticeship because I am enthusiastic about technology and wanted to get first-hand experience working in this dynamic industry. I enjoy problem solving and becoming fluent in different programming languages, as it makes development even more fun.
+
+My mother inspired me to go into STEM, as she was an Avionics Engineer and she passed her passion for aviation down to me; it gave me the confidence to learn more about the roles that existed in this area. Cecilia Payne-Gaposchkin also inspired me. Her 1925 thesis on the composition of the Sun was rejected at first, but later accepted by others. They did not offer astrophysics degrees to women at that time, but she persevered and her research has been foundational in modern astronomy. It is because of great minds like her we can understand the stars better!
+
+Doing a software apprenticeship has been great because you are able to learn and immediately put that knowledge to use. I have also built up confidence with my skills and I have found innovate ways of making my code more efficient and robust.
+
+I definitely encourage others to consider STEM related careers and my goal is to become a Chartered Engineer, working on space related projects; astronomy has always been a deep interest of mine.
+
+It would be great to see more women from all backgrounds in this field as together we can achieve great things.
+
+Early Careers
+
+Find out more at our Early Careers page.","{'label': 'Positive', 'score': 0.8902524709701538}",positive,0.8902524709701538,1
+"Airbus, Air France-KLM, ATR, Dassault Aviation, Groupe ADP, Safran and Thales welcome the Declaration of Toulouse ... - Airbus","Fri, 04 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMi0wMi1haXJidXMtYWlyLWZyYW5jZS1rbG0tYXRyLWRhc3NhdWx0LWF2aWF0aW9uLWdyb3VwZS1hZHAtc2FmcmFuLWFuZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"We will continue to invest in the maturation, development and implementation of decarbonisation technologies - notably operations, next-generation aircraft and engines, Sustainable Aviation Fuels (SAF) and synthetic fuels - and look to institutions to support the development and deployment of innovations, especially through proven public-private research partnership instruments (such as Clean Aviation, SESAR, and CORAC), as well as appropriate support policies to accelerate fleet renewal and SAF incorporation under viable economic conditions for all stakeholders.","{'label': 'Neutral', 'score': 0.9876471757888794}",neutral,0.9876471757888794,0
+Thales to Equip German NH90 Frigate Helicopters With FLASH Sonar - The Defense Post,"Thu, 24 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzAyLzI0L3RoYWxlcy1nZXJtYW4tbmg5MC1mbGFzaHNvbmFyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Germany’s Federal Ministry of Defence has tapped French aerospace firm Thales to equip the German Navy’s NH90 multi-role frigate helicopters with Folding Light Acoustic System for Helicopters (FLASH) sonar.
+
+According to Thales, the FLASH dipping sonar system provides “exceptional” anti-submarine warfare (ASW) capabilities to an ASW helicopter. It helps detect, locate, and classify stealthier submarines in territorial waters.
+
+The company explains that the low-frequency wideband sonar offers long-range detection and low false alarm rates in the open ocean and littoral waters. The system also provides unmatched area coverage with the help of the company’s latest BlueTracker buoy processing technology.
+
+“In a world where Navies are facing growing and sometimes unexpected threats and challenges, anti-submarine warfare is resurging as a key discipline for the 21st century and Thales’ FLASH dipping sonar product range offers the best solutions to ensure Navies effectiveness and safety at sea,” the French firm said in a press release.
+
+Once the integration is complete, the NH90 helicopters will reportedly be the first in the world to process both the FLASH dipping sonar and SonoFlash expendable sonar system.
+
+‘Most Capable Variant’
+
+Thales managing director for underwater systems Gwendoline Blandin-Roger explained that the recent agreement between the company and the German Navy shows that the FLASH sonar system is a “trusted solution” that meets the country’s ASW requirements.
+
+She also said that the German Navy will receive the “most capable variant” of the FLASH sonar system that the company has ever delivered, ensuring the best operational service for underwater operations.
+
+More than 500 FLASH-based systems have reportedly been ordered and delivered to 18 naval forces, including the US Navy, UK Royal Navy, French Navy, Royal Australian Navy, Royal Norwegian Navy, and South Korean Navy.
+
+NH90 Helicopter
+
+Developed by aviation firm NHIndustries, the NH90 is a medium-sized, twin-engine frigate helicopter capable of supporting ASW and anti-surface ship warfare operations.
+
+It can fly at up to 300 kilometers per hour, a maximum range of 800 kilometers, and is equipped with anti-submarine and air-to-surface missiles.","{'label': 'Neutral', 'score': 0.8295494318008423}",neutral,0.8295494318008423,0
+Thales to Supply FLASH Dipping Sonar to German Navy - Naval News,"Tue, 22 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzAyL3RoYWxlcy10by1zdXBwbHktZmxhc2gtZGlwcGluZy1zb25hci10by1nZXJtYW4tbmF2eS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales to Supply FLASH Dipping Sonar to German Navy For the first time, the German Navy will rely on Thales to equip its NH90 Multi Role Frigate Helicopter (MRFH) with FLASH SONICS. The FLASH system (Folding Light Acoustic System for Helicopters) is currently the leading dipping sonar on the international market and has become the benchmark system for the world's major navies.
+
+Thales press release
+
+In a world where Navies are facing growing and sometimes unexpected threats and challenges, Anti-Submarine Warfare is resurging as a key discipline for the 21st century and Thales FLASH dipping sonar product range offers the best solutions to ensure Navies effectiveness and safety at sea.
+
+The key benefits of this low-frequency wideband sonar include long-range detection and low false alarm rates in open ocean as well as littoral waters. Associated with an active and passive sonobuoy processing system, FLASH provides an unrivalled anti-submarine warfare capability. The shortest dive cycle time, combined with the latest Thales BlueTracker (SONICS) buoy processing capability, provides unmatched area coverage. This version of the FLASH SONICS includes the latest technology available.
+
+French Navy NH90 NFH helicopter deploying a FLASH sonar. French Navy picture.
+
+Already ordered or in service today in 18 navies including US Navy, the UK Royal Navy, the French Navy, the Royal Australian Navy, the Royal Norwegian Navy or the Republic Of Korea Navy, FLASH has demonstrated its unrivalled capabilities and reliability at sea in any environment.","{'label': 'Positive', 'score': 0.9999709129333496}",positive,0.9999709129333496,1
+Thales Alenia Space to extract oxygen on the Moon - SpaceWatch.Global,"Thu, 24 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vc3BhY2V3YXRjaC5nbG9iYWwvMjAyMi8wMi90aGFsZXMtYWxlbmlhLXNwYWNlLXRvLWV4dHJhY3Qtb3h5Z2VuLW9uLXRoZS1tb29uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Edinburgh / Bristol, 24 February 2022. – Thales Alenia Space has signed a €1 million study contract with ESA for a payload concept to extract oxygen from Moon rock.
+
+In order for humans to establish a sustainable Moon habitat, lunar resources will have to be utilized rather than transporting these from Earth. Such resources include water and oxygen among others.
+
+Thales Alenia has teamed up with AVS, Metalysis, Open University and Redwire Space Europe to work on a demonstration payload. ESA’s Lunar Mission uses molten salt and electrolysis to extract oxygen from the Moon rock, regolith, Thales Alenia said.
+
+The concept won an ESA competition between multiple industrial consortia. The demonstration will validate that In Situ Resource Utilisation can be performed on the Moon efficiently to produce oxygen.","{'label': 'Neutral', 'score': 0.9999911785125732}",neutral,0.9999911785125732,0
+Thales provides the Civil Registry of Colombia with a solution for managing fingerprints – Intelligent CIO LATAM - Intelligent CIO,"Fri, 25 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnRlbGxpZ2VudGNpby5jb20vbGF0YW0vMjAyMi8wMi8yNS90aGFsZXMtcHJvdmlkZXMtdGhlLWNpdmlsLXJlZ2lzdHJ5LW9mLWNvbG9tYmlhLXdpdGgtYS1zb2x1dGlvbi1mb3ItbWFuYWdpbmctZmluZ2VycHJpbnRzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The National Registry of Civil Status of Colombia approved the Thales fingerprint scanner, which meets the requirements established by the Technical Annex version 2 of Resolution 5633, which defines the primary conditions and security procedures to access the biometric database from the National Registry of Civil Status.
+
+This easy-to-use scanner enables fast and reliable fingerprint capture by using its embedded processing and the details extracted to provide FBI PIV-certified identity authentication.
+
+The device integrates advanced algorithms that support real-time fake finger detection and encryption of captured images to protect them against phishing, making it the best choice for security applications. The Registry may use finger readers to protect Colombian citizens’ identity in a great variety of applications, such as banking, law enforcement, border control and physical and logical access control.
+
+Jerome Copin, General Director for Andean countries, Thales, said: “Thales is one of the few companies that meet the new requirements of version 2 of the Technical Annex of the resolution, and we are proud that the National Registry of Civil Status of Colombia has approved the Thales biometric solution to verify the identity of its citizens.”
+
+“With more than 200 biometric implementations in 80 countries around the world, Thales has a strong ability to adapt to new market requirements quickly and efficiently, and we are excited to start working in Colombia,” said Copin.
+
+Click below to share this article","{'label': 'Positive', 'score': 0.9685339331626892}",positive,0.9685339331626892,1
+Thales to equip French military tanker aircraft with secure satcom solution - EDR Magazine,"Tue, 08 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy10by1lcXVpcC1mcmVuY2gtbWlsaXRhcnktdGFua2VyLWFpcmNyYWZ0LXdpdGgtc2VjdXJlLXNhdGNvbS1zb2x1dGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"8 February 2022 – In 2025, Thales will deliver satellite stations to the French Ministry of the Armed Forces. Once integrated into the Phénix MRTT1 tanker aircraft, these stations will enable broadband connections anywhere in the world, and will be able to withstand jamming in aggressive electromagnetic environments.
+
+The high availability of these stations, their compact design and flexibility of integration make them high-performance tools capable of connecting large military or government aircraft such as the MRTT, A400M and AWACS.
+
+The contract is the first of its kind in Europe, and further consolidates Thales’s leadership in secure, resilient satellite connectivity and its ability to provide a sovereign solution backed by the know-how of France’s defence industrial and technological base.
+
+As part of France’s SYRACUSE IV military satellite telecommunication programme, the French defence procurement agency (DGA) has awarded Thales and its partners the 17-year MELISSA2 contract for the development, integration and support of aircraft satcom stations.
+
+To meet the connectivity needs of the French Air and Space Force as high-intensity conflict returns, Thales will provide a resilient, high-data-rate satellite station capable of connecting large military aircraft in all circumstances.
+
+The Thales terminal is derived from a proven satcom product that has accumulated over 30,000 flight hours on commercial airliners. The militarised version is specifically designed to maintain connectivity with command centres in jammed environments and severely degraded flight and weather conditions. It operates with France’s SYRACUSE IV sovereign satellite system and is also compatible with any allied military or commercial satellites.
+
+This ARINC3 standard satcom station uses the military and civilian K a bands. It is installed on the fuselage of large aircraft,such as the MRTT tanker, A400M transport and AWACS surveillance planes.
+
+The Thales teams and their partners successfully overcame a host of technical challenges to design a highly compact device, despite aeronautical and electromagnetic constraints, achieve extremely high-precision pointing to maintain a stable link with the satellite during aircraft manoeuvres, and manage cyber threats.
+
+This first in aviation further consolidates Thales’s leadership in the European market for secure, resilient military satellite communications. For over 10 years, Thales has provided critical STANAG 4606 compliant communications for NATO and the land and naval forces of 12 countries in Europe, the Middle East and Asia.
+
+The industrial organisation put in place by Thales for the MELISSA contract includes partners recognised by the DGA, such as the French SME Eclipse,4 as well as Thales’s Gennevilliers and Cholet industrial competence centres and its Brive production facility. This organisation will guarantee timely delivery of the contract and the long-term sovereignty of the supply chain, and will consolidate the expertise of France’s defence technological and industrial base in the area of satellite technology.
+
+“The DGA’s decision to equip France’s military tanker aircraft with our secure satellite communication solution is a source of great pride for the Thales teams and reflects our unique know-how and European leadership in secure, resilient satellite connectivity. This ultra-high performance sovereign solution will be a key asset for the French forces engaged in high-intensity conflict missions.” Jean-Claude Schmitt, Vice President, Network and Infrastructure Systems, Thales.
+
+Image courtesy Thales","{'label': 'Neutral', 'score': 0.9735021591186523}",neutral,0.9735021591186523,0
+Thales launches aviation and biometrics research centers in Singapore - Biometric Update,"Wed, 16 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJpb21ldHJpY3VwZGF0ZS5jb20vMjAyMjAyL3RoYWxlcy1sYXVuY2hlcy1hdmlhdGlvbi1hbmQtYmlvbWV0cmljcy1yZXNlYXJjaC1jZW50ZXJzLWluLXNpbmdhcG9yZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Multinational digital ID provider Thales has strengthened its partnership with the Singapore Economic Development Board (EDB) with the goal of deploying more cutting-edge biometrics, fintech and cloud aviation solutions in the country.
+
+The renewed partnership will reportedly focus on two separate initiatives aimed at enhancing Singapore’s digital ID ecosystem.
+
+“Singapore has been a key location for Thales’ digital transformation plans,” says EDB Executive Vice President Tan Kong Hwee. “This new decision to grow its tech innovation activities in emerging areas such as 5G, Biometrics and Cloud here is testament to Singapore’s strength as a tech ecosystem.”
+
+The first of Thales’ new expansion projects is the establishment of an InFlyt Experience Cloud Centre of Excellence at the Thales Digital Factory in Singapore.
+
+The move will see the company work on several inflight-focused entertainment digital services and technologies linked to the cloud, including site reliability expertise, security analysis, and other ‘push-to-cloud’ projects.
+
+These technologies will be utilized to provide maintenance of aircraft systems but also to allow integration in onboard payment options or third-party solutions like gaming.
+
+The second initiative announced by Thales in Singapore is the creation of a Digital Identity & Security Engineering Competence Centre (ECC) in the country.
+
+The project will hire a team of 350 engineers working on advanced research, product development, and project delivery for customers worldwide.
+
+As part of the collaboration with EDB, roughly 200 of these engineers will work on new digital innovation projects based on technologies related to 5G, fintech, and biometrics.
+
+The latter category will include embedded artificial intelligence (AI) for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud prevention.
+
+“Over the last decade, we are grateful and privileged to have had the strong support of the EDB to grow our presence and reputation as a digital technology leader here,” comments Thales’ Country Director and Chief Executive for Singapore Kevin Chow. “We are excited about the next growth chapter, as we further develop our local competencies in new and fast-growing areas such as 5G, Cloud, Biometrics, and FinTech.”
+
+Article Topics
+
+5G | biometrics | cloud services | digital ID | fintech | research and development | Singapore | Thales | Thales Digital Identity and Security","{'label': 'Positive', 'score': 0.9999834299087524}",positive,0.9999834299087524,1
+Thales UK Clinches $122M Challenger 3 Tank Sight Contract - The Defense Post,"Wed, 09 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzAyLzA5L3RoYWxlcy10YW5rLXNpZ2h0LWNvbnRyYWN0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Rheinmetall BAE Systems Land has awarded Thales UK a 90 million pound ($122 million) contract to deliver next-generation sights for the British Army’s Challenger 3 Main Battle Tank.
+
+The contract includes panoramic and fixed azimuth weapon aiming sights for the vehicle commander and gunner and a Signal Processing System for “video tracking and Wide Area Search and Detection capability.”
+
+The sights will enable high definition day and night vision for the crew, increasing their ability to see from a distance and “accurate target identification, tracking, digital imagery, and firing ranges.”
+
+Challenger 3 Upgrade
+
+Rheinmetall is upgrading the fleet of Challenger 2 tanks as part of an 800 million pound ($1.13 billion) contract through 2027. The upgrade is part of the UK military’s restructuring plan to reduce the number of Cold War-era Challengers from the current 227 to 148 and extend their retirement to 2040.
+
+The upgrade includes enabling the platform to digitally connect with other combat vehicles, increasing its lethality and survivability.
+
+“Its digital open architecture will ensure that it is integrated across the battlefield, its main armament will overmatch its adversaries and the crew will be afforded a unique level of protection. It is a battle winner,” Deputy Chief of the General Staff Lieutenant General Chris Tickell said.
+
+The tank will also feature a new L55 120mm smoothbore main gun that can fire more accurate and penetrative “kinetic anti-tank rounds and programmable multi-purpose ammunition.”","{'label': 'Positive', 'score': 0.5775906443595886}",positive,0.5775906443595886,1
+"Thales Australia successfully sea trials sovereign enhanced designed, developed and manufactured minesweeping ... - Thales","Mon, 28 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWFzaWEvYXVzdHJhbGlhL25ld3MvdGhhbGVzLWF1c3RyYWxpYS1zdWNjZXNzZnVsbHktc2VhLXRyaWFscy1zb3ZlcmVpZ24tZW5oYW5jZWQtZGVzaWduZWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Surrounded by ocean, Australia is heavily reliant on seaborn trade for its economic prosperity. The sea safety of Australia’s oceans is dependent on strategic choke points remaining open and sea lanes being kept clear and undisrupted by mines. These mines are a combination of legacy mines from the World Wars, and modern digital mines designed with a very low target strength, making them increasingly difficult to detect.
+
+One of Thales Australia’s sovereign minesweeping capabilities is the Combined Influence Sweep (CIS) which was designed and manufactured in conjunction with the Defence Science and Technology Group. The CIS, successfully in operation for over 20 years, supports both domestic and global mine sweeping operations with some of the world’s most advanced navies.
+
+A key component of the CIS is the Infrasonic Advance Acoustic Generator (IAAG) which, when towed through the water in-conjunction with multiple Maxi Dyads (large metallic cylinders that produce strong magnetic fields), can produce low frequency sounds that are similar to large ship propellers.
+
+The minesweeping team, based at Rydalmere, recently embarked on a program to improve the towing stability of the IAAG in more extreme towing and sea conditions.
+
+To improve towing stability, the team, led by the Project Design Authority Adam Bolton, conducted a thorough engineering design cycle. Beginning with small scale, 3d printed models of the existing IAAG and proposed alternative designs. These models were towed underneath a kayak and filmed with underwater cameras to support the team’s understanding of the issues.
+
+The team then engaged an Australian company AMOG, which specialises in maritime dynamic numerical simulation who in turn engaged a local university to carry out flow tank testing of different 3d IAAG models to obtain IAAG hydrodynamic coefficients.
+
+AMOG then created a digital model of the full Maxi Dyad sweep (with the IAAG) and validated the model against previous tow trial data. Through the analysis in the digital environment, the required IAAG hydrodynamic characteristics were determined. These hydrodynamic characteristics were obtained by designing a modification kit for the IAAG which included new shrouds and adjusting ballast. To complete the validation process, a full-scale engineering prototype was then built and a sea trial inside Sydney Harbour and outside in open ocean was carried out.
+
+For the acoustic aspects, the Systems Engineering Manager Alan Andrews supervised the trial and reconfirmed acoustic output monitoring, position tracking and remote control of the IAAG capability from the towing vessel, via the Sweep Tracker Monitor System (STMS). A separate Thales Underwater Systems developed acoustic monitoring system (TAMS) was also deployed from a trial support vessel, in order to record the IAAG acoustic output which will be analysed offline at the Rydalmere site.
+
+Overall the trial was successful in confirming the modification kit applied to the IAAG, has enhanced the hydrodynamic performance of the IAAG. This will result in enhanced capabilities for our customers in keeping their sea lanes safe.
+
+A thank you to Polaris Marine who provided the tow vessel and support crew.","{'label': 'Neutral', 'score': 0.9997966885566711}",neutral,0.9997966885566711,0
+The second-generation PRISMA Earth observation system gets underway The consortium led by Thales Alenia Space ... - Thales,"Mon, 21 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9zZWNvbmQtZ2VuZXJhdGlvbi1wcmlzbWEtZWFydGgtb2JzZXJ2YXRpb24tc3lzdGVtLWdldHMtdW5kZXJ3YXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The second-generation PRISMA Earth observation system gets underway The consortium led by Thales Alenia Space signs the feasibility study contract with Italian Space Agency Share this article
+
+
+
+LinkedIn
+
+The consortium led by Thales Alenia Space signs the feasibility study contract with Italian Space Agency
+
+Rome, February 21, 2022 - Thales Alenia Space, the joint venture between Thales (67%) and Leonardo (33%), has signed a contract with the Italian space agency (ASI) to conduct a feasibility study for the PRISMA Second Generation (PSG) hyperspectral Earth observation system. It will be leading a consortium that includes Leonardo, Telespazio (the joint-venture between Leonardo (67%) and Thales (33%), e-GEOS and SITAEL.
+
+© Asi
+
+Lasting nine months, the feasibility study will take an innovative approach to support the development of applications in both national and international markets, such as improved monitoring of natural and atmospheric resources, while providing the data needed to more effectively manage regional development and environmental risks.
+
+The feasibility study will capitalize on increased interest in hyperspectral imaging by consolidating the technological excellence achieved through the PRISMA demonstration mission. It will deliver higher performance in line with the updated application requirements specified by the European Space Agency (ESA) for the upcoming Copernicus Hyperspectral Imaging Mission for the Environment (CHIME), deployed as part of Europe’s vast Copernicus environmental monitoring program.
+
+The main challenge for hyperspectral technology is to capture images with high quality and spatial resolution, with frequent re-visit times and high signal to noise ratio. PRISMA SG will represent a significant step forward over the first-generation PRISMA system, improving spatial resolution via enhanced platform and instrument agility.
+
+Thales Alenia Space in Italy will build the new satellite and take complete responsibility for system design, drawing on its proven experience in Earth observation satellites for Copernicus and the first and second-generation COSMO SkyMed satellites. Thales Alenia Space was also chosen by ESA in 2020 to design and build the two CHIME environmental monitoring satellites. Leonardo contributes to the payload with OHB as prime contractor.
+
+Leonardo provided the PRISMA hyperspectral instrument, already in orbit, and will also build this payload for PRISMA SG, but offering even higher performance to address the rapidly growing number of government, scientific and industrial applications.
+
+Telespazio will be responsible for designing the PRISMA SG ground segment, while e-GEOS, a joint Telespazio (80%) and ASI (20%) company, will be in charge of market analysis and will also help Leonardo define user requirements.
+
+SITAEL, a space company and a part of Angel Group, capitalizing on the national investments on electric propulsion, will participate in the trade-offs of satellite and platform as well as study the configurations to make PRISMA SG an “all-electric” satellite, thus ensuring the maneuverability and operational flexibility that only this type of satellites provide. Moreover, thanks to its extensive experience in control electronics, as in the case of the ESA Copernicus CHIME mission, SITAEL will study the sophisticated control unit of the hyperspectral payload, aiming at the scalability of a cutting-edge and consolidated technology that is able to speed up the development time as well as the implementation costs.
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 1.85 billion euros in 2020 and has around 7,700 employees in 10 countries with 17 sites in Europe and a plant in the US.
+
+www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki Tel: +33 (0)4 92 92 70 94 sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis Tel: +33 (0)6 78 64 63 97 catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac Tel: +39 (0)6 415 129 91 marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Positive', 'score': 0.54328453540802}",positive,0.54328453540802,1
+"Airbus, Air France-KLM, ATR, Dassault Aviation, Groupe ADP, Safran and Thales welcome the Declaration of Toulouse ... - Safran","Fri, 04 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zYWZyYW4tZ3JvdXAuY29tL3ByZXNzcm9vbS9haXJidXMtYWlyLWZyYW5jZS1rbG0tYXRyLWRhc3NhdWx0LWF2aWF0aW9uLWdyb3VwZS1hZHAtc2FmcmFuLWFuZC10aGFsZXMtd2VsY29tZS1kZWNsYXJhdGlvbi0yMDIyLTAyLTA00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"- With this landmark Declaration, Europe becomes the first regionworldwide to have reached an agreement between public authoritiesand private stakeholders on a broad aviation decarbonisation platform
+
+
+
+- Airbus, ATR, Air France-KLM, Dassault Aviation, Groupe ADP, Safranand Thales confirm their commitment to a collective approach toaddress the challenges of a transition to sustainable aviation
+
+
+
+@Airbus @ATRaircraft @AirFranceKLM @Dassault_OnAir @GroupeAdp @Safran @thalesgroup
+
+
+
+
+
+Toulouse, 4 February 2022 - European industry leaders Airbus, Air France-KLM, ATR, Dassault Aviation, Groupe ADP, Safran and Thales welcome the declaration made in Toulouse by the European Commission and Member States under the French EU Presidency. Together:
+
+
+
+
+
+- We welcome the commitments of the European Commission and Member States to workwith the European aviation industry to achieve the decarbonisation of the sector by 2050in alignment with the Destination 2050 roadmap.
+
+
+
+
+
+- We will continue to invest in the maturation, development and implementation ofdecarbonisation technologies - notably operations, next-generation aircraft and engines,Sustainable Aviation Fuels (SAF) and synthetic fuels - and look to institutions to supportthe development and deployment of innovations, especially through proven public-privateresearch partnership instruments (such as Clean Aviation, SESAR, and CORAC), as wellas appropriate support policies to accelerate fleet renewal and SAF incorporation underviable economic conditions for all stakeholders.
+
+
+
+
+
+- We urge the European Commission to implement the launch of industrial alliances thatwill be critical to align the entire ecosystem around this joint ambition, particularly theRenewable and Low-Carbon Fuels Value Chain Industrial Alliance, the Alliance for ZeroEmission Aviation and the European Raw Materials Alliance.-We also welcome the call for all partners worldwide to work together towards the adoptionat the 41st ICAO Assembly of an ambitious long-term aspirational goal (LTAG) forinternational aviation.
+
+
+
+
+
+- We call for the commitments taken by the European Union to be adopted globally to accelerate the decarbonisation of our industry. In the meantime, we urge the European Union to implement mechanisms to ensure a level playing field and to avoid any carbon leakage linked to distortion of competition among stakeholders within the global aviation ecosystem.
+
+Note to editors
+
+This common statement highlights the wish to establish a European map defining the volumes of biomass deposit available for the production of SAF, as well as the production capacities of synthetic fuel. It calls for better research on disruptive aeronautical technologies (aircraft, engines), to put in place regulatory mechanisms to facilitate the replacement of aircraft and to pursue initiatives to optimize trajectories and fuel consumption.","{'label': 'Neutral', 'score': 0.9737600684165955}",neutral,0.9737600684165955,0
+Challenger 3 gets new upgrade from an old friend - Thales,"Wed, 16 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2NoYWxsZW5nZXItMy1nZXRzLW5ldy11cGdyYWRlLW9sZC1mcmllbmTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Challenger 3 gets new upgrade from an old friend Challenger 3 Share this article
+
+
+
+LinkedIn
+
+Syd as a Challenger 2 Commander
+
+Syd Gould is a sales manager for Thales Optronics and Vehicle Sights business who was recently involved in securing a £90m contract to upgrade the UK’s Challenger 3 main battle tank (MBT). Providing new sights, state of the art video tracking, and Wide Area Search and Detection (WASAD) capability for both the vehicle commander and gunner Thales’ contribution to this £800m upgrade programme led by RBSL will increase the range and visual detail available to the crew, providing more accurate target identification and firing ranges in all conditions, night and day. The Challenger 3 upgrade programme will make significant enhancements to the vehicle and provide the British Army with world-class capability.
+
+However a little over 15 years ago Syd was commanding a Challenger 2 tank in the Queen’s Royal Lancers, and is now one of nearly 400 veterans employed by Thales in the UK and who play a vital role in delivering relevant, new technology to the Armed Forces which they used to serve. We asked Syd what it meant to him to be involved in this programme.
+
+Tell us about your experiences with the Challenger 2 tank whilst serving with the Queen’s Royal Lancers?
+
+I served as a Challenger 2 Crew Commander and Tank Crewman on operational tours in Iraq and Bosnia and did overseas training in Canada, Denmark, Germany, and Poland. This was over a 10 – 15 year period over mixed deployments in different environments, but for me the most important thing was to be part of an effective crew, understanding our mission capabilities and limitations of firepower, mobility, and protection.
+
+You know what it is like to command a MBT, what will these upgrades mean to the soldiers serving in a MBT regiment today?
+
+A Tank Commander or indeed a Tank Crewman’s purpose is to understand, deliver and execute a mission with lethal effect. At the centre of this new contract Thales will help those serving soldiers today to embrace technology when they use our new sighting systems, sensors and mission systems. A Tank crew has a critical role for the new Brigade Combat Team, which I am sure the Royal Armoured Corps will be proud of.
+
+How do you think your experience serving as a soldier, and specifically as tank crew, has helped you deliver new capabilities to the British Army?
+
+Having experienced many different challenges whilst commanding or being part of a tank crew I feel I can advise and provide subject matter expertise for our team that may not have that insight meaning that we provide better, user-focused capabilities. I believe combining technology with user expertise allows Thales to meet and understand requirements. Thales has a history of providing best in class sensors and sighting systems for the British army so providing a personnel insight will no doubt continue to help the team in the future.
+
+…now part of the Thales team
+
+What does it mean to you to be able to deliver new capability to the Challenger 3?
+
+I am proud to be part of the winning Thales Team who, through RBSL, will deliver this to the Army and other nations looking for a best in class capability. The Royal Armoured Corps has a proud history of providing the punch when asked for. I hope that this role in the future will not change but improve using the technology that we create in Thales. I might not command a tank anymore but now it’s my job to source and encourage the adoption of new capabilities for those that follow in my footsteps in the Royal Armoured Corps. I hope that my training and experience will mean that I stay focused in order to deliver the punch that the Army needs. I’m still really excited to be part of the team, no matter how broad that team now is – I’m right there in the turret with my fellow soldiers.
+
+What’s next? What new capabilities can you see on the horizon for the soldiers of the British Army’s Royal Armoured Corps?
+
+Tank Warfare as I knew it will change. Technology and new ammunition for the UK Armoured Regiments will provide much needed accuracy and lethality upgrades for serving soldiers. But also new Active Protection Systems (APS) will keep them safer and upgraded mission systems will introduce AI based ‘digital crew’ members to help relieve the cognitive burden on soldiers utilising multi-sensor capabilities. I even see a future where there might not even be a crewman like me inside the tank … but maybe not yet. Either way I think the MBTs of tomorrow will still pack a punch.
+
+Challenger 3 image (top) © RBSL","{'label': 'Neutral', 'score': 0.9799554944038391}",neutral,0.9799554944038391,0
+Thales Alenia Space to develop future satellite navigation systems - SpaceWatch.Global,"Tue, 08 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BhY2V3YXRjaC5nbG9iYWwvMjAyMi8wMi90aGFsZXMtYWxlbmlhLXNwYWNlLXRvLWRldmVsb3AtZnV0dXJlLXNhdGVsbGl0ZS1uYXZpZ2F0aW9uLXN5c3RlbXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Edinburgh, 8 February 2022. – Thales Alenia Space announced that it has been awarded a contract by the French Space Agency CNES to develop a Dual Frequency Multi Constellations (DFMC) SBAS prototype.
+
+The project is part of the next generation of SBAS (satellite-based augmentation system), just like EGNOS, the European Geostationary Navigation Overlay Service satellite system.
+
+The prototype will complement both GPS and Galileo systems and will benefit from signals transmitted on multiple frequencies. This will ensure highly accurate and reliable performance in aviation navigation and landing as well as other applications.
+
+The developed prototype will be deployed and tested in operation using a geostationary satellite. The performance will be analyzed in detail according to international standard criteria, the company said. This will be the first time in European satellite navigation system history that a DFMC SBAS signal is emitted over Europe and Africa.","{'label': 'Positive', 'score': 0.9744174480438232}",positive,0.9744174480438232,1
+Perseverance celebrates first birthdayand fires one millionth laser shot on Mars - Thales,"Fri, 18 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL3NwYWNlL3ByZXNzX3JlbGVhc2UvcGVyc2V2ZXJhbmNlLWNlbGVicmF0ZXMtZmlyc3QtYmlydGhkYXlhbmQtZmlyZXMtb25lLW1pbGxpb250aC1sYXNlctIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Perseverance celebrates first birthdayand fires one millionth laser shot on Mars Lasers Share this article
+
+
+
+LinkedIn
+
+One year ago almost to the day, on the evening of 18 February 2021, the Mars 2020 mission’s Perseverance rover landed in Jezero Crater, carrying with it the French-U.S. SuperCam, a greatly enhanced version of the ChemCam instrument already operating on the NASA MSL mission’s Curiosity rover on Mars since August 2012. The Los Alamos National Laboratory (LANL) and a consortium of French research laboratories with the IRAP – Astrophysics and Planetology Research Institute (CNRS/CNES/Paul Sabatier University Toulouse III) as science lead, developed both instruments jointly. SuperCam and ChemCam have now fired one million laser shots between them on Mars.
+
+The one-millionth laser shot was commanded from the French Operations Centre for Science and Exploration (FOCSE) at CNES’s field centre in Toulouse, France. This symbolic milestone is the latest in a unique scientific and technological adventure that has already yielded a wealth of results. The Curiosity and Perseverance rovers are operated alternately for one week from the FOCSE and then from LANL in the United States.
+
+Developed and built by Thales and overseen by CNES under R&D programmes first started 20 years ago, SuperCam’s and ChemCam’s lasers are the most powerful currently operating on the surface of another planet. Able to reach targets within a 10-metre radius of their rovers, these lasers expand the field of possibilities for scientific investigation while reducing driving distances.
+
+ChemCam’s laser – the first power laser on the surface of another planet – delivered in 2008 and operational since August 2012, is still in service and has clocked up 887,000 firings, each yielding a measurement of chemical composition. Over the 25 kilometres they have covered on the surface of Mars, Curiosity and ChemCam have revealed the existence of ancient environments that could once have supported microscopic lifeforms.
+
+Like ChemCam, SuperCam fires an infrared laser beam at target rocks, vaporizing them at the impact point into a plasma at a temperature of around 10,000°C. An optical spectrometer combined with a camera then analyses the flash from this plasma using a technique called Laser-Induced Breakdown Spectroscopy (LIBS) to determine a rock’s elemental chemical composition.
+
+Unlike ChemCam, SuperCam can fire a second green laser beam to determine the molecular composition of rocks non-destructively. The energy exchanged between the green laser beam and its targets generates light of a different colour that is then analysed to identify molecules in rocks. This molecular analysis technique, called remote Raman spectroscopy, is being tested out with Perseverance for the first time on Mars.
+
+SuperCam’s laser, delivered in 2019 and operational on Mars since February 2021, has clocked up 62,000 firings of its green mineralogy laser and as many with its infrared laser. It has already made a decisive contribution to the initial science results of the Mars 2020 mission, proving that there was once a lake in Jezero Crater.
+
+
+
+Perseverance @NASAJPL-Caltech (3)","{'label': 'Neutral', 'score': 0.9999731779098511}",neutral,0.9999731779098511,0
+Setting our sights beyond the UK - Thales,"Tue, 15 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3NldHRpbmctb3VyLXNpZ2h0cy1iZXlvbmQtdWvSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Setting our sights beyond the UK Share this article
+
+
+
+LinkedIn
+
+In a great example of cross-Thales cooperation Thales in the UK has won the contract to supply its latest armoured vehicle sight to the German Army.
+
+Thales in Germany recently signed a contract with Krauss-Maffei Wegmann (KMW) for the delivery of four Panoramic Above Armour Gimbal (PAAG), designed and built by Thales in Glasgow, to the German Armed Forces to equip the BOXER 8x8 armoured vehicle.
+
+The stabilized PAAG is an electronic surveillance system that is remotely controlled from inside an armoured vehicle and gives multiple users a fully stabilised long-range ‘Detection, Recognition, Identification’ (DRI) and far target location capability, on the move during day and night conditions. This state-of-the-art observation and surveillance system will be installed with a new Joint Fire Support Team (JFST) mission module.
+
+Building on over sixty years of exceptional optronic solutions for armoured vehicles Thales can now add the PAAG, its first contract for this system, to the over 50 National Land Forces currently equipped by Thales with cutting edge vehicle sight solutions.
+
+Stephen McCann, Managing Director of Thales in the UK’s vehicle integration business in Glasgow, said:
+
+I am so proud of our team here in Glasgow who won this export contract against stiff competition. PAAG is our newest armoured vehicle sight but it builds on sixty years of exceptional optronic solutions for armoured vehicles from this factory. Delivering Multi-Sensor capability in a digital, above armour package, this incredibly powerful sight is a worthy addition to our long line of innovative solutions. This success will bring continued investment and employment to Thales Scotland for years to come.
+
+The system with thermal imaging device and high-resolution daylight colour camera enables targets to be identified in the range of up to four kilometres, depending on their size. In continuous operation, the entire hemisphere around the vehicle can be covered. A laser rangefinder offers measuring distances of up to ten kilometres. It can also be raised above the vehicle roof to allow the monitoring of targets from behind a ridgeline without putting the user in a direct line of sight, which greatly reduces operational risk.
+
+Automatic Video Tracking (AVT) and Assisted Target Detection (ATD) enhances the User Experience by reducing the manual workload and highlighting threats invisible to the human eye. Combined with an artillery command and control system PAAG will contribute significantly to the capability being fielded.
+
+PAAG’s easy swap out sensor pack contains a host of sensors including a Thermal Imaging camera, a SWIR, 3 HD TV cameras, a laser rangefinder, a laser target designator and a laser pointer. This compact combination of sensors gives the operator the 24/7 stabilised full 360° situational awareness and target location input required by the JFST.
+
+Oliver Dörre, CEO and Country Director Thales in Germany, said; ""We are delighted that the German Armed Forces and our long-standing partner Krauss-Maffei Wegmann have chosen most advanced optronics from Thales for its BOXER JFST. This means that the German Armed Forces are now one of the 50 armies worldwide that rely on our trusted solutions for their vehicle optronic.""
+
+The BOXER Programme, managed by the European armament’s agency OCCAR, provides the German, Netherland, Lithuanian and the British Armies, with a new generation of all terrain armoured utility vehicles on the basis of balanced capabilities of transport capacity, mobility, protection, survivability, growth potential and efficient life cycle costs.
+
+The JFST programme in Germany will see the delivery of two prototype JFST-heavy vehicles based on the BOXER 8x8 Armoured Vehicle coupled with a new JFST Mission Module integrating Thales PAAG. The Boxer vehicle is also enhanced with Protector RS4, the worlds most fielded Remote Weapons System supplied by Kongsberg. Read more here.
+
+The BOXER is an 8x8 all-terrain heavily armoured utility vehicle with a unique modular concept of a common drive module and an exchangeable mission module, making it a flexible military vehicle, thus ensuring maximum strategic and tactical mobility in a wide range of operational scenarios.","{'label': 'Positive', 'score': 0.9991797804832458}",positive,0.9991797804832458,1
+2022 Career Trackers - Thales,"Mon, 07 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy8yMDIyLWNhcmVlci10cmFja2Vyc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In late 2021, Thales Australia announced the signing of a 10-year contract with CareerTrackers, a national non-profit program with the goal of creating pathways and support systems for Indigenous youth to attend and graduate from university and gain industry experience. We spoke with this year’s interns to find out their story and their experiences at Thales so far.
+
+Hannah Spittles
+
+As the youngest of three children, Hannah saw each of her older siblings go on to study various degrees at university – her sister graduating with a nursing degree and her brother studying a biomedical engineering degree. Not wanting to be outdone, she has started a Bachelor of Occupational Therapy at Charles Sturt University at Port Macquarie. She is no stranger to fun-filled camping trips with large groups of friends and so transitioning into university life has been a smooth ride.
+
+Hannah is a proud Wirajuri woman, the largest Aboriginal clan from central New South Wales. Her dad’s aunty owns a memorial dedicated to Aboriginal clans. The memorial includes numerous heritage rocks and artefacts. It is a sacred and important meeting place for the Wirajuri people and Hannah visits the site five times a year to connect with her Indigenous heritage. “Every time I go there, I learn a different story. It’s very special,” says Hannah.
+
+Hannah was keen to sign up with CareerTrackers after she saw how the advisors had worked with her brother to keep him on track with his studies and helped him with finances and finding accommodation. “They provide holistic support. When he failed one subject, they worked with him to make sure he kept a study routine to ensure he passed the next time. For me, they helped me realised the steps I needed to take to achieve my career aspirations.”
+
+It was CareerTrackers who matched her up with Thales and Hannah has been placed within the Talent Acquisition team in Human Resources. “I have been taking part in reviewing resumes, which will come in handy when I apply for graduate positions!” laughs Hannah “I’m really enjoying my experience with Thales. Everyone has been so welcoming and willing to help.”
+
+Lachlan Tuck
+
+Lachlan grew up in the coast town of Coalcliff, halfway between Sydney and Wollongong. He fondly recalls going on many family road trips all around Australia, the highlight being when they visited Uluru. He always knew he wanted to pursue engineering in university and so straight after high school, he enrolled in a Bachelor of Engineering at the University of Wollongong majoring in Mechatronics because it provides a balanced mix of mechanical, electrical and software subjects.
+
+Lachlan’s Indigenous heritages comes from his paternal grandmother’s side and belongs to the Worimi nation, the traditional custodians of a large area of land bounded by four rivers, Hunter River to the south, Manning River to the north, the Allyn and Patterson Rivers to the west. Lachlan says ‘having family spread out all across NSW makes it difficult to stay in touch, but we try to have regular family BBQ gatherings”. Another way he stays connected with his Indigenous culture is through his involvement with CareerTrackers, “it has been great to meet other indigenous students through the program and also through the university’s Indigenous Community Centres and events.”
+
+Lachlan had known about CareerTrackers since high school because he had seen his older sister go through the program with great success. Through the program he has completed two previous internships with the NSW Telco Authority before Thales, where he has been placed in the Digital Systems business. During this short period of time, he has already been involved in several projects – one being to configure a new AV system in the lab and another being to write a script so large amounts of data can be converted into meaningful information that is easy to read. “Although the data conversion is only a small task in a big project, its fantastic to know that my work will feed into a larger project,” says Lachlan.
+
+Lachlan is grateful to be involved in CareerTrackers and believes the program is making a huge difference to young indigenous students by helping them secure internship opportunities. “My involvement with CareerTrackers has meant I’ve gotten internships I wouldn’t have been able to set up myself. They’re playing a vital role in giving opportunities to people who want them.”
+
+Mitchell Cooper
+
+Sydney local Mitchell first got an insight into where an engineering degree, employment at a large multinational corporation and a sense of adventure could lead when his family moved to the United States in 2013 for his dad’s job as a software engineer for Microsoft. Having had this first-hand experience, Mitchell is looking forward to following a similar path and intends to break into the space industry. “I’m currently enrolled in a Bachelor of Space Engineering (Honours), majoring in Mechatronics at The University of Sydney. I’ve always loved LEGO and, in the States, I was involved in a robotics club that used LEGO so the degree is a natural extension of my interests.”
+
+Mitchell belongs to the Boandik clan, a tribe that originated near the Mount Gambier region in south-eastern South Australia and also in western Victoria. His grandmother is a well-known Indigenous artist and he relishes the stories that she tells of Aboriginal history and culture. His mother is an Aboriginal financial counsellor who advocates nationally for the Indigenous community and is a great inspiration to Mitchell.
+
+Mitchell’s older sister had been involved in the CareerTrackers for three years and had only great things to say about it so she encouraged Mitchell to sign up as well. Before starting his internship, he hadn’t heard of Thales but he soon realised the breadth and depth of Thales’s involvement in numerous industries. Mitchell has been placed within the Acoustics team in the Underwater Systems business. where he is learning a lot about the manufacturing process of acoustic piezo-ceramics used in many of Thales’s Underwater Systems products. “I’m really enjoying learning about the different processes and am really looking forward to starting my degree now to gain further knowledge.”
+
+Mitchell says that the partnership between CareerTrackers and Thales has been an important step for Thales’s Reconciliation Action Plan. “I think Thales is showing that they are prepared to engage with the First Nations community and to make a meaningful difference for Indigenous people wanting to enter the industry.”
+
+Izayah Tuigamala
+
+Izayah grew up in the heart of Sydney and is a proud supporter of the South Sydney Rabbitohs. He is currently enrolled in a Bachelor of Laws at the University of New South Wales and hopes to build a career in the legal profession. Though, like a true future lawyer, he is careful not to box himself into a corner by adding the caveat ‘I want to keep my options open’ for whatever may come his way.
+
+Izayah’s connection with Indigenous heritage is through his mother, who sadly passed away a few years ago. He readily engages in community events such as the recent Yabun Festival, an annual gathering and recognition of Aboriginal and Torres Straight Islander cultures held on 26 January. He also enjoys meeting with the elders who live around his area to understand their stories and bushwalking in National Parks to view Indigenous art.
+
+Izayah first heard of CareerTrackers through his high school teacher and since signing up for the program, they have provided workshops to help prepare him for interviews as well as setting up interviews at various companies that he otherwise wouldn’t have thought to intern at. “I had never heard of Thales before and I’m constantly amazed at just how many employees there are and the countries that Thales operates in.” He has been placed within the procurement function and is learning a lot about the processes involved in getting projects started. He is also gaining insight into how multi-national corporations work and what it’s like to work a full week. “I’m so thankful to be part of CareerTrackers and also to Thales for giving opportunities to young Aboriginals to get them into the workforce.”
+
+","{'label': 'Neutral', 'score': 0.999984860420227}",neutral,0.999984860420227,0
+Image: Getting I-HAB ready for lunar orbit - Phys.org,"Mon, 21 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIyLTAyLWltYWdlLWktaGFiLXJlYWR5LWx1bmFyLW9yYml0Lmh0bWzSAT9odHRwczovL3BoeXMub3JnL25ld3MvMjAyMi0wMi1pbWFnZS1pLWhhYi1yZWFkeS1sdW5hci1vcmJpdC5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"Credit: Thales Alenia Space
+
+ESA astronaut Alexander Gerst visited Thales Alenia Space in Turin recently to test out and provide feedback on accommodations for the next human outpost in space, the lunar Gateway.
+
+As the name implies, the Gateway will be located within the moon's orbit and is being built by Thales Alenia Space on behalf of ESA. Among its components is the International Habitation Module or I-Hab.
+
+As crew quarters are designed with humans in mind, Alex both toured the mock-up and stepped into the crew quarter simulator to provide some experienced feedback. After two missions to the International Space Station—Blue Dot (2014) and Horizons (2018)—totalling 362 days in space, Alex is no stranger to living in special conditions.
+
+Using virtual gear, Alex experienced an immersive environment representing the interior of I-Hab, as if he were present on the lunar Gateway in orbit around the moon. What did he think?
+
+Overall, the feedback was positive. Alex provided some recommendations that will help Thales Alenia Space's design team improve the next iterations.
+
+Alex and fellow ESA astronaut Luca Parmitano similarly assisted this process in 2021, but due to COVID-19 restrictions were only able to do so remotely.
+
+Involving astronauts in the module design process allows engineers to capitalize on the astronauts' experience aboard the International Space Station. Their feedback will guide upcoming design phases, to support a user-centered approach.
+
+""Exciting to see and work on the future of lunar exploration,"" said Alex. ""The Gateway will be different to the International Space Station but an evolution of over two decades of living and working in low-Earth orbit. Next destination: lunar orbit.""
+
+I-Hab is a major part of the Gateway, and together with the communications and refueling module ESPRIT and ESA's service module for the lunar spacecraft Orion, Europe is proving to be a vital partner in the Artemis program and humankind's return to the moon.","{'label': 'Neutral', 'score': 0.9845744967460632}",neutral,0.9845744967460632,0
+Rising to the Challenge - Thales,"Thu, 03 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3Jpc2luZy1jaGFsbGVuZ2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Rising to the Challenge Challenger 3 Share this article
+
+
+
+LinkedIn
+
+In the presence of Alister Jack, Secretary of State for Scotland, Thales in Glasgow signed a £90m subcontract to deliver next generation armoured vehicle sights for the British Army’s upgraded Challenger 3 Main Battle Tank (MBT).
+
+Awarded by Rheinmetall BAE Systems Land (RBSL) the seven-year contract will protect key manufacturing skills in the UK across the whole supply chain and continue to support 700 skilled engineers and technicians based at the Glasgow site, including 30 apprentices currently receiving training at the Thales site in Glasgow where the majority of the integration work will take place.
+
+The contract will provide sights (panoramic and fixed azimuth weapon aiming sights) for both the vehicle commander and gunner. Thales will also provide a Signal Processing System (SPS), which will deliver state of the art video tracking and Wide Area Search and Detection (WASAD) capability.
+
+The sights will act as the eyes of the crew, enabling them to view the battlefield in high definition in all conditions, night and day. The system will increase the range and the detail available to the crew, as well as provide accurate target identification, tracking, digital imagery and firing ranges.
+
+The sights will be tailored to meet Challenger 3 specifications and form an integral part of the wider £800m upgrade programme, as announced by RBSL and the UK MOD in May 2021. The Challenger 3 programme will make significant enhancements to the vehicle and provide the British Army with a world-class capability, made in the UK.
+
+Scottish Secretary Alister Jack said:
+
+“This is fantastic news. This contract gives the British Army the advanced capability it needs to ensure the country’s security. I met many of the Thales workforce on a recent visit, and was impressed by their capability and enthusiasm. This contract will support highly skilled jobs in Scotland - in total, UK defence spends around £2 billion a year in Scotland, supporting more than 12,000 jobs.”
+
+Dr Marco Noeding, RBSL Managing Director, said:
+
+“RBSL is committed to ensuring the Challenger 3 programme delivers positive industrial impact for the UK. This means collaborating and working closely with our suppliers to deliver impressive capability and technology for British soldiers, as well as protecting UK engineering and manufacturing skills at the same time.”
+
+“We are very pleased to have achieved this latest milestone with Thales. Together, we will add value to UK defence and engineering on an enduring basis.”
+
+Stephen McCann, Managing Director of Thales in the UK’s vehicle integration business in Glasgow, said:
+
+“Thales’ continued supply and support of cutting-edge technology into the British Army’s armoured capability is a testament to the fantastic engineering capability of our team in Glasgow. We are tremendously proud of our key role in the defence of the nation, which has endured since 1888, and this contract gives us the opportunity to further invest in innovation and the future of our team, including through our apprenticeship scheme. A relationship we are very pleased to continue and grow.”
+
+L to R: Major Pete Rooney, David Low, Michelle Gilchrist, Rory Breen, Alister Jack, Dave Clark, Stephen McCann
+
+Challenger Tank images © RBSL 2022","{'label': 'Positive', 'score': 0.7682833671569824}",positive,0.7682833671569824,1
+"Thales plans MRO, double staff count - The Times of India","Wed, 23 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiwQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9idXNpbmVzcy9pbmRpYS1idXNpbmVzcy90aGFsZXMtaW5kaWEtcGxhbnMtZG91YmxlLWhlYWRjb3VudC1pbi1hLXllYXItdG8tYnVpbGQtaGFyZHdhcmUtZGV2ZWxvcGVyLWRyb25lLWF2aW9uaWNzLXBsYW5uaW5nLWFuLW1yby10b28vYXJ0aWNsZXNob3cvODk3NTI3MTguY21z0gHFAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2J1c2luZXNzL2luZGlhLWJ1c2luZXNzL3RoYWxlcy1pbmRpYS1wbGFucy1kb3VibGUtaGVhZGNvdW50LWluLWEteWVhci10by1idWlsZC1oYXJkd2FyZS1kZXZlbG9wZXItZHJvbmUtYXZpb25pY3MtcGxhbm5pbmctYW4tbXJvLXRvby9hbXBfYXJ0aWNsZXNob3cvODk3NTI3MTguY21z?oc=5&hl=en-US&gl=US&ceid=US:en,"NEW DELHI: In major expansion plans for India, French aerospace and defence major Thales Group is looking at setting up its own maintenance, repair and overhaul (MRO) centre in India.The avionics major has so far been developing flight management system (FMS) software at its engineering competent centre in Bengaluru where it has about 260 engineers.It is going to build the hardware on which this software is embedded, in India too and will double the number of engineers on roll in a year, Yannick Assouad , Thales’ EVP (avionics), told TOI Tuesday.“India has a major thrust on drones. We are also looking at developing avionics for drones in the country too. This visit to India has been an eye-opener for me,” Assouad, a French national, said. For the proposed MRO, Thales is open to both a JV with a suitable partner or fully owned one. With these plans, the company is planning an investment in millions of dollars in the country.“We also provide onboard WiFi and are going to do that around the world. That will be possible by tying up with local partners. In India we are looking at doing so with a local satellite provider for the same,” she said.“India has a very good set of highly skilled engineers and in good numbers. It is not easy to get good engineers as they are always sought after by all companies. We need engineers and India is the place for us to be in.”Thales’ FMS allows pilots to enter the route to be taken in the flight computer. This allows the plane to fly at the right speed, altitude and direction even when it is on auto pilot mode.With major Airbus customers in India that use this system like IndiGo and AirAsia India , Thales is looking at setting up an MRO here to be able to maintain and repair the systems in the country.“On MRO: We look forward to exploring localization and repair options in avionics and IFE for airlines flying in India and internationally. The MRO could be through a JV or it could be fully owned subsidiary of Thales. However, we are still at an early stage with regard to this,” she said.“The avionics we plan to develop for drones in India will allow users to identify, track and geo-cage drones”, allowing for their safer use.Indian plans to use drones for a multitude purposes raging from e-commerce deliveries to drone taxis in coming years.","{'label': 'Neutral', 'score': 0.9999909400939941}",neutral,0.9999909400939941,0
+Thales delivers signalling system for section of Adif rail network - Global Railway Review,"Wed, 09 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTMxNzk2L3RoYWxlcy1kZWxpdmVyLXNpZ25hbGxpbmctc3lzdGVtLWh1bWFuZXMtbW9uZnJhZ3VlLXJhaWx3YXktc2VjdGlvbi1hZGlmL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales delivers signalling system for section of Adif rail network
+
+1 SHARES
+
+The new signalling system represents an increase in safety and reliability for the Humanes-Monfragüe railway section, as well as the quality of sustainable travel between stations.
+
+Credit: Thales
+
+After work began in mid-2018, Thales have finished the adaptation of the signalling installations, train protection systems and centralised traffic control of the Humanes-Monfragüe section and handed over to Adif. These facilities represent an increase in the safety and reliability of infrastructure, as well as the quality of service, in the nearly 230km that separate the two stations.
+
+The section now completed is part of the conventional gauge line that connects Madrid with Valencia de Alcántara and is compatible with the future high-speed line of the Plasencia-Badajoz section. These works respond to the interest of improving the railway connection between Madrid and Extremadura, providing better connectivity, comfort and a sustainable option of travel.
+
+The action has involved the installation of new electronic interlockings, of which six are Thales technology (Griñon, Illescas, Villaluenga-Yuncler, Montearagón, Erustes and Villamiel), as well as the extension, adaptation and modification of two existing Thales technology interlockings (Humanes and Torrijos). With regards to signalling and train protection equipment, LED signals, safe train detection systems based on electronic axle counters, electric switch actuators and ASFA (Automatic Signal and Braking Announcement) systems have been included in the new stations.
+
+It has also led to the entry into service of the Single Track Automatic Release Blocking System (BLAU) with Centralised Traffic Control (CTC), replacing the current telephone blocking system, in accordance with the Adif’s Telephone Blocking Suppression Plan, which means that the safety of traffic on the section is improved and that traffic management is carried out centrally from the Centralised Traffic Control Centres (CTC) of Chamartín (Madrid), Manzanares (Ciudad Real) and Santa Justa (Seville).","{'label': 'Positive', 'score': 0.9997538924217224}",positive,0.9997538924217224,1
+Lithgow marks a new era of precision manufacturing for regional New South Wales - Thales,"Mon, 21 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWFzaWEvYXVzdHJhbGlhL3ByZXNzLXJlbGVhc2UvbGl0aGdvdy1tYXJrcy1uZXctZXJhLXByZWNpc2lvbi1tYW51ZmFjdHVyaW5nLXJlZ2lvbmFsLW5ld9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"21 February 2022, Lithgow, NSW - Thales Australia’s Lithgow Arms business today marked the beginning of a new industrial era for its Lithgow facility and 140-strong workforce, with a sod turning ceremony to commence construction of a new $6.5 million building, the first phase of an industrial plan to transform the Lithgow Arms facility in regional New South Wales.
+
+Building on $70 million of investment by Thales Australia in the Lithgow facility that has included new equipment and product development over the past decade, phase 1 of this new industrial plan will establish a modern manufacturing and integration hub for the design, development and precision manufacture of next generation weapons systems for the Australian Defence Force, industrial partners and export customers.
+
+Testament to Lithgow’s distinguished, century-long heritage of producing world-leading smallarms and weapons systems for the Australian Defence Force, the ceremony was attended by leaders from local, state and federal governments including, Paul Toole MP, Deputy Premier of New South Wales and Member for Bathurst; Andrew Gee MP, Minister for Defence Personnel, Minister for Veterans Affairs and Member for Calare, and Senator for New South Wales Jim Molan.
+
+Attending the ceremony today, Deputy Premier for New South Wales and Member for Bathurst, Paul Toole MP said “This is a momentous occasion for both Thales and Lithgow today. The $6.5 million investment by Thales in a new facility here in Lithgow shows that Thales is going to be in Lithgow for a long long time.
+
+“Today marks the future, and a new era that not only secures existing advanced manufacturing jobs here in Lithgow, but will continue to create new jobs into the future. This is a significant driver of the local economy because investments like this will ensure Lithgow has a strong future, and will go from strength to strength as we move forward.”
+
+Since 1912, the Lithgow small arms factory has proudly supported Australia’s soldiers in every major conflict, and employed over 5 generations of local workers. This industrial transformation plan will harmonise the steadfast traditional precision manufacturing of yesteryear with the introduction of new digital technologies, and globally benchmarked high precision manufacturing techniques. A necessary step in achieving the company’s Industry 4.0 ambitions.
+
+New technologies will include 3D printing, as well as the installation of automated electro-plating and other metal treatment capabilities. A new purpose-built live firing test and evaluation capability will support systems integration of existing and new technologies for developmental advanced weapons systems such as the Digital Battle Rifle, and the acceleration of research and technology development of other digitised small-arms and weapon system platforms.
+
+Corry Roberts, Vice President Land, Thales Australia & New Zealand said “We are a company that loves to make complex stuff - and we take our stewardship of this strategic manufacturing facility very seriously.
+
+“This factory doesn’t only have a great history – it has a great future as well. Patient long term investment in this factory and the skills of the people that work here over the past decade, has clearly demonstrated our long-term commitment to growing and maintaining an enduring, sustainable and resilient sovereign industrial capability for the Australian Defence Force in regional New South Wales. Our $6.5 million investment in this new facility is just more evidence of that.
+
+“We are proud of our heritage and our people – and we are excited today to be celebrating the commencement of a new era for the Lithgow factory, and the continuation of delivering truly Australian, truly sovereign weapons and weapons systems capabilities now, and into the future.”
+
+The new development will expand the world-leading precision-manufacturing capability of Lithgow Arms to also support new sovereign manufacturing partnerships for strategic ADF programs, including the recently announced partnership with Rheinmetall Defence Australia. Coupled with the company’s recent announcement to expand its partnership with Fuller Global and Outdoor Sporting Agencies (OSA) to help grow its export markets by 300% in the next 2 years, Lithgow Arms will create a possible 40-50 new jobs in regional New South Wales.
+
+The precinct will also provide facilities to enable collaboration across research institutions, SME partners, and key industrial partners to create the soldier systems and small arms of the future, and secure the next generation of manufacturing and engineering skills in Lithgow and across the Central West.","{'label': 'Neutral', 'score': 0.9993541836738586}",neutral,0.9993541836738586,0
+Defense giants eager to bolster satellite business - Korea Economic Daily,"Fri, 11 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmtlZGdsb2JhbC5jb20vYWVyb3NwYWNlLWRlZmVuc2UvbmV3c1ZpZXcva2VkMjAyMjAyMTEwMDA40gExaHR0cHM6Ly9hbXAua2VkZ2xvYmFsLmNvbS9uZXdzQW1wL2tlZDIwMjIwMjExMDAwOA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kompsat-6 will be built by LIG Nex1 Co. and Airbus Defence and Space
+
+KAI employees demonstrate VR equipment for maintenance training in December 2021
+
+In the era of space privatization, satellites are the driving forces.South Korea’s main defense systems makers are turning away from arms exports to focus all their attention on the next-generation satellite market.LIG Nex1 Co. recently signed a partnership agreement with Thales Group on geostationary satellite manufacturing.Thales Alenia, a Franco-Italian joint venture between Thales and Leonardo, announced on Jan. 31 that it has signed a contract with the LIG Group subsidiary to provide digital processors for the GEO-KOMPSAT 3 (Geostationary Earth Orbit Korea Multipurpose Satellite 3) communications satellite.The multi-band communications satellite will provide broadband satellite communication services in South Korea, ensuring service continuity of the COMS 1 satellite, currently in in-orbit operations.In particular, the new satellite will support the Korea Coast Guard's satellite communications; secure stable information on monitoring water disasters; and provide the Ministry of Science and ICT with a satellite communication system for an emergency response to disaster situations.The Electronics and Telecommunications Research Institute (ETRI) of Korea is responsible for the satellite payloads, while the Korea Aerospace Research Institute (KARI) operates the satellite platform.Initially, LIG Nex1 has signed an agreement with Airbus Defence and Space's German arm to collaborate in building Arirang 6 or KOMPSAT 6 (Korean Multi-purpose Satellite 6.)The deal is not going as planned, however, due to the difficulty in securing parts to synthetic aperture radar (SAR,) an integral part of the planned sub-meter class SAR Satellite.Hit by the supply bottleneck, LIG Nex1 decided to bolster its efforts on developing a multipurpose geostationary satellite scheduled for launch in 2027.As part of a development project for the Korean Positioning System (KPS,) LIG Nex1 also wants to develop its own satellite parts with homegrown technology.The KPS development project boasts the largest investment amount ever in the country’s space development history with 3.7 trillion won ($3.1 billion) over the course of 14 years from 2022.The Ministry of Science and ICT, The Korea Aerospace Research Institute, and LIG Nex1 will lead the project.South Korea lacks its own satellite positioning system and relies solely on the GPS, operated and maintained by the US Department of Defense.Am LIG Nex1 employee said, “The key components of a satellite will be developed with domestic technology and KPS will create more than 7 trillion won in economic value.”LIG Nex1 was established in 1976 as Goldstar Precision. The LIG Group subsidiary makes missiles, torpedoes, and communication systems among others.
+
+Korea Aerospace Industries Ltd. (KAI,) another defense and aerospace giant, also aims to develop satellites.In July 2021, K AI and Elon Musk’s SpaceX agreed to collaborate on the launch of next generation mid-sized satellites The country’s sole aircraft maker announced on July 18 that it signed a deal with SpaceX for the latter’s projectile to carry the No. 4 satellite slated for 2025.The Korea Aerospace Research Institute (KARI) is leading the project; with the goal of developing five 500-kg satellites using the country’s own technology.KAI signed a business agreement with Airbus last October and formed a task force for the collaboration earlier this year.The two companies will focus their collaborative efforts on the development of small low-orbit satellites. Faster than the bulkier counterparts, the smaller versions are mostly used in observing the Earth and surveillance patrol.KAI was originally established as a joint venture of Samsung Aerospace, Daewoo Heavy Industries' aerospace division, and Hyundai Space and Aircraft Company (HYSA) in 1999. The company developed a number of satellites and was involved in the production of several foreign-designed aircraft via licensing agreements.
+
+Hanwha Systems Co., for its part, has joined hands with British startup OneWeb to enter the space-based internet network market by utilizing small and low orbit satellites.The aim is to send hundreds of satellites into space to build 5G networks.Hanwha Systems is developing technology for satellite communication between satellites and stations based on Earth, with the aim of completing a prototype by the end of the year.The common denominator among the three defense heavyweights is the emphasis on synergy effects.Rather than simply launching a satellite into space, the companies hope to create a synergy effect with other sectors – in urban air mobility, for example.US financial services firm Morgan Stanley estimates the global space industry to generate more than $1 trillion or more in revenue by 2040, up from the current $387 billion. The average annual growth rate is forecast to hover above 5%.The number of satellites worldwide is also expected to increase from 8,018 last year to 20,000 by 2025. By 2030, the number is forecast to rise to 38,018.Jeong Min Nam at peux@hankyung.com Jee Abbey Lee edited this article.","{'label': 'Neutral', 'score': 0.9999843835830688}",neutral,0.9999843835830688,0
+Exclusive-Advent gears up for $4.6 billion sale of French biometrics firm IDEMIA - sources - Yahoo Finance UK,"Fri, 04 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9leGNsdXNpdmUtYWR2ZW50LWdlYXJzLTQtNi0xNTI0NDczMjMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"FILE PHOTO: A view shows skyscraper office properties at the financial and business district of La Defense near Paris
+
+By Julien Ponthus and Pamela Barbaglia
+
+LONDON (Reuters) - Advent International is looking to sell its French biometrics and fingerprint identification firm IDEMIA in a deal worth up to $4.6 billion as it seeks to capitalise on growing demand for cybersecurity assets in Europe, two sources told Reuters.
+
+The U.S. buyout fund is reviewing a series of options to sell IDEMIA, including a possible break-up of the company which was formed in 2016 by combining Safran's identity and security business with Oberthur Technologies, the sources said.
+
+The move comes as governments around the world have stepped up their data protection defences during the pandemic due to the increased threat of cyberattacks while companies are vying to provide identification services to their clients.
+
+ADVERTISEMENT
+
+Cybercrime worldwide has jumped 600% during the pandemic, according to research published by Embroker, as hackers are upping their game and developing new malware to attack and infiltrate systems with the shift to remote working.
+
+IDEMIA, which is also backed by Bpifrance, provides facial recognition and other biometric identification products as well as ID tools for border control, working closely with government agencies to verify travellers' identity and avoid irregular immigration.
+
+Advent has asked investment banks to pitch for a mandate as it wants to launch an auction process later this year, the first source said.
+
+The sale, which is valued at 3 billion to 4 billion euros ($4.59 billion), has already drawn interest from France's defence firm Thales which could only bid for parts of IDEMIA due to antitrust hurdles, the sources said.
+
+Thales said this week that it was ""potentially interested"" in any cyber-security asset that could be up for sale, stressing it would not diversify beyond its three core businesses of aerospace, defence and digital identity and security.
+
+Private equity firms are also keen to join the race for IDEMIA, which is based on the outskirts of Paris, but no deal or pre-emptive approach is expected to come before the French election in April, the sources said.
+
+Story continues
+
+A spokesperson for Advent declined to comment.
+
+Thales declined to comment.
+
+BREAK-UP?
+
+IDEMIA, which underwent a 2020 leadership change when Pierre Barrial stepped in as CEO, has benefited from the post-pandemic rebound but is still carrying a heavy debt load and its key credit metrics remain weak, according to rating agency Moody's.
+
+It reported core earnings of 360 million euros in 2020 and overall revenues of about 2 billion euros, the first source said.
+
+To fetch the highest price Advent could carve out IDEMIA's prized government business, valued at about 3 billion euros, and sell it separately from its enterprise operations which provide sim cards for mobile phones and payments platforms and could be worth about 1 billion euros, the sources said.
+
+Thales is waiting in the wings as it wants to bulk on cybersecurity but would struggle to swallow IDEMIA's enterprise assets due to the overlap in sim-card supply following its purchase of Dutch firm Gemalto in 2019, the first source said.
+
+The French defence group, which is controlled by Dassault Aviation and the French state, has eyed a similar move for Atos' cybersecurity business, known as BDS, but would need support from the government for any tie-up involving strategic defence interests or technology.
+
+A 2018 French government study said consolidating the industrial base in cyber defence would be ""advisable"" to provide high security while ensuring companies were economically viable. ($1 = 0.8719 euros)
+
+(Reporting by Julien Ponthus and Pamela Barbaglia, additional reporting by Tim Hepher; Editing by Kirsten Donovan)","{'label': 'Neutral', 'score': 0.9997356534004211}",neutral,0.9997356534004211,0
+Will UK firm's new deal to extract oxygen from lunar rocks help humans live in space? - Daily Mail,"Sat, 26 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTA1NTU5NjkvV2lsbC1VSy1maXJtcy1uZXctZGVhbC1leHRyYWN0LW94eWdlbi1sdW5hci1yb2Nrcy1oZWxwLWh1bWFucy1saXZlLXNwYWNlLmh0bWzSAYMBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMDU1NTk2OS9hbXAvV2lsbC1VSy1maXJtcy1uZXctZGVhbC1leHRyYWN0LW94eWdlbi1sdW5hci1yb2Nrcy1oZWxwLWh1bWFucy1saXZlLXNwYWNlLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en,"A British-based company is working on technology which could pave the way for humans to live on the Moon.
+
+Thales Alenia Space has won a contract from the European Space Agency to draw up a blueprint for a machine to extract oxygen from lunar material.
+
+The project could be launched into the atmosphere in the next two years.
+
+Thales Alenia Space has won a contract from the European Space Agency to draw up a blueprint for a machine to extract oxygen from lunar material
+
+Under the plans, an unmanned spacecraft would scoop up lunar rocks and feed them into its mechanism.
+
+The rocks would then be crushed into dust and the dust pressed into tablets.
+
+Experts believe heating these tablets should trigger the release of oxygen, which would be stored in tanks for future use.
+
+If the project proves a success, it could lay the groundwork for astronauts to base a space station on the Moon for the first time.
+
+Scientists hope to spend a year working on designs before the manufacturing process begins, which will require further funding.
+
+The current €1 million (£840,000) contract was awarded after a four-year bidding process.
+
+Roger Ward, chief technical officer at Thales Alenia Space, said: 'We want to provide oxygen to manned lunar research stations.
+
+'We wish to have lunar research stations, much like Antarctic research stations, which are permanent and people can go backwards and forwards from – rather than just go up there for a few days every 20 years.
+
+'To make that sustainable we need resources and so that's when you start thinking about lunar villages and the need for resources such as oxygen to support that.'
+
+The chemical process has been developed by Rotherham-based company Metalysis, which has made pioneering technology to extract metals from rock for 3D printing.
+
+If the project proves a success, it could lay the groundwork for astronauts to base a space station on the Moon for the first time (stock photo used)
+
+The Natural History Museum holds Moon rock available for comparison to rocks on Earth, which have been used to prove the technology works.
+
+The move comes amid a spike in interest in the 'lunar economy', fuelled by a booming space industry spearheaded by billionaires Jeff Bezos, Elon Musk and Richard Branson.
+
+Mr Ward said: 'Once upon a time, putting people on the Moon was a huge challenge. But it should become almost routine in the next few years.
+
+'The commercialisation of space means that we should get to the point where going to the Moon is very normal.'
+
+Thales Alenia Space is a joint venture between French-owned Thales and Italian- owned Leonardo.
+
+Thales has sites in Bristol, Belfast and Oxfordshire.
+
+Late last year Nasa admitted that it would miss a deadline set by former US president Donald Trump's administration to return humans to the Moon's surface by 2024.
+
+The mission is now not expected until 2025. It is seen as a testbed for 'long-duration' trips by astronauts to Mars.
+
+Scientists hope that eventually tourists will be able to stay on the Moon and that it could also be used as a refuelling station for spacecraft travelling deeper into space.
+
+Will UK firm's new deal to extract oxygen from lunar rocks help humans live in space?","{'label': 'Neutral', 'score': 0.9992998838424683}",neutral,0.9992998838424683,0
+RBSL awards £90m subcontract to Thales UK for Challenger 3 sighting systems - ADS Advance,"Tue, 08 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFkc2FkdmFuY2UuY28udWsvcmJzbC1hd2FyZHMtOTBtLXN1YmNvbnRyYWN0LXRvLXRoYWxlcy11ay1mb3ItY2hhbGxlbmdlci0zLXNpZ2h0aW5nLXN5c3RlbXMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"RBSL awards £90m subcontract to Thales UK for Challenger 3 sighting systems
+
+A £90 million subcontract has been awarded to Thales UK, based in Scotland, to deliver next generation sights for the British Army’s upgraded Challenger 3 Main Battle Tank (MBT).
+
+Copyright RBSL
+
+The contract was signed by RBSL and Thales, with the Secretary of State for Scotland in attendance, at Thales’s site in Glasgow where the majority of the integration work will take place.
+
+The contract will protect key manufacturing skills in the UK and sustain 700 skilled engineers and technicians based in Glasgow, including 30 apprentices currently receiving training.
+
+Advertisement
+
+The contract will provide sights (panoramic and fixed azimuth weapon aiming sights) for both the vehicle commander and gunner. Thales will also provide a Signal Processing System (SPS), which will deliver state of the art video tracking and Wide Area Search and Detection (WASAD) capability.
+
+The sights will act as the eyes of the crew, enabling them to view the battlefield in high definition in all conditions, night and day. The system will increase the range and the detail available to the crew, as well as provide accurate target identification, tracking, digital imagery and firing ranges.
+
+The sights will be tailored to meet Challenger 3 specifications and form an integral part of the wider £800 million upgrade programme, as announced by RBSL and the UK MoD in May 2021. The Challenger 3 programme will make significant enhancements to the vehicle and provide the British Army with a world-class capability, made in the UK.
+
+Scottish Secretary Alister Jack said: “This is fantastic news. This contract gives the British Army the advanced capability it needs to ensure the country’s security. I met many of the Thales workforce on a recent visit and was impressed by their capability and enthusiasm. This contract will support highly skilled jobs in Scotland - in total, UK defence spends around £2 billion a year in Scotland, supporting more than 12,000 jobs.”
+
+Dr Marco Noeding, RBSL Managing Director, said: “RBSL is committed to ensuring the Challenger 3 programme delivers positive industrial impact for the UK. This means collaborating and working closely with our suppliers to deliver impressive capability and technology for British soldiers, as well as protecting UK engineering and manufacturing skills at the same time.”
+
+Advertisement
+
+“We are very pleased to have achieved this latest milestone with Thales. Together, we will add value to UK defence and engineering on an enduring basis.”
+
+Stephen McCann, Managing Director of Thales in the UK’s vehicle integration business in Glasgow, said: “Thales’ continued supply and support of cutting-edge technology into the British Army’s armoured capability is a testament to the fantastic engineering capability of our team in Glasgow. We are tremendously proud of our key role in the defence of the nation, which has endured since 1888 and this contract gives us the opportunity to further invest in innovation and the future of our team, including through our apprenticeship scheme. A relationship we are very pleased to continue and grow.”","{'label': 'Neutral', 'score': 0.5471652150154114}",neutral,0.5471652150154114,0
+Thales Drives Fintech Development in Singapore With EDB's Support - Fintech Singapore - Fintech News Singapore,"Tue, 15 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZmludGVjaG5ld3Muc2cvNTkyMDAvc2VjdXJpdHkvdGhhbGVzLWRyaXZlcy1maW50ZWNoLWRldmVsb3BtZW50LWluLXNpbmdhcG9yZS13aXRoLWVkYnMtc3VwcG9ydC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from the Singapore Economic Development Board (EDB).
+
+To this end, Thales has established its Digital Identity & Security Engineering Competence Center (ECC) in Singapore with a team of 350 engineers working actively on advanced research, product development, and project delivery for customers worldwide.
+
+As part of its collaboration with EDB, close to 200 of these engineers will work on new digital innovation in the aforementioned sectors.
+
+Thales’ engineers from the ECC will engage in software engineering and development for the fintech sector.
+
+This includes research on security software for biometric payment cards, mobile security and risk-based authentication software, as more governments and institutions accelerate the pace of adoption for digital financial services.
+
+In addition, other teams in the ECC will work on advanced research for biometrics, including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud prevention, offering governments and enterprises high-technology solutions for secure ID management.
+
+“Over the last decade, we are grateful and privileged to have had the strong support of the EDB to grow our presence and reputation as a digital technology leader here. We are excited about the next growth chapter, as we further develop our local competencies in new and fast-growing areas such as 5G, cloud, biometrics and fintech.”
+
+Kevin Chow, Country Director and Chief Executive, Thales in Singapore
+
+“This new decision to grow its tech innovation activities in emerging areas such as 5G, biometrics and cloud here is testament to Singapore’s strength as a tech ecosystem. We look forward to Thales’ activities to develop innovative solutions, products and services for the world, from Singapore.”
+
+said Tan Kong Hwee, Executive Vice President, EDB","{'label': 'Positive', 'score': 0.9999878406524658}",positive,0.9999878406524658,1
+"Jamaica Defence Force Acquires Additional Armoured Vehicles – Jamaica Information Service - Government of Jamaica, Jamaica Information Service","Tue, 22 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vamlzLmdvdi5qbS9qYW1haWNhLWRlZmVuY2UtZm9yY2UtYWNxdWlyZXMtYWRkaXRpb25hbC1hcm1vdXJlZC12ZWhpY2xlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The county’s security capabilities have been significantly strengthened with the addition of six new armoured vehicles to the Jamaica Defence Force (JDF) fleet.
+
+Prime Minister and Minister of Defence, the Most Hon. Andrew Holness, commissioned the Thales Bushmaster Protected Mobility Vehicles (BPMV) into service during a ceremony at the JDF’s headquarters, Up Park Camp, Kingston, on Monday (February 21).
+
+Manufactured by Thales Australia, the Bushmaster or infantry mobility vehicle is an 11-tonne four-wheel-drive unit designed to protect up to 10 occupants in extreme and hostile environments.
+
+The six vehicles comprise three troop carrier variants that provide secured transportation for soldiers and three ambulance variants that will enable the occupants to evacuate and treat personnel sustaining injuries, under armoured protection.
+
+They bring the total number of troop carrier variants to 15 and the overall complement of Thales-manufactured PMVs in the JDF’s fleet to 18.
+
+Prime Minister Holness said the Government remains committed to making the financial investments in Jamaica’s security assets and ensuring “a balanced use of resources across all our security forces”.
+
+He pointed out that investing in the JDF is equivalent to doing likewise in all areas of Jamaica’s security framework, noting that the organisation plays a supporting role in all aspects of the country’s safety.
+
+“In building out the capacity of the JDF, you’re building out the capacity of your border security; you’re building out the capacity for your internal security; you’re building out your capacity for disaster response; you’re building out your capacity for managing your airspace [and] you’re building out capacity for managing your cyberspace,” he asserted.
+
+Mr. Holness noted that contrary to the perception that soldiers are “ensconced at Up Park Camp and not in the field,” the reality is that the JDF personnel are “fully utilised” and stretched right across Jamaica, carrying out various functions.
+
+The Prime Minister emphasised that the Government has a duty to provide soldiers with equipment, such as protected vehicles, to ensure their efficiency and effectiveness in executing their duties.
+
+He pointed out that the Administration’s intention is to ensure that the JDF is fit for purpose so it can respond to current and future challenges.
+
+“These vehicles will add significant capacity to our disaster response capabilities; they also give [the JDF] increased visibility and presence in communities that are now challenged with high violence and crime,” he said.
+
+Mr. Holness added that these “multifunctional assets” will aid in medical evacuation, disaster preparedness and response, training, and border security.
+
+He further noted that they will help to support the operations of the recently established joint anti-gang task force of the JCF and JDF.
+
+Chief of Defence Staff (CDS), Rear Admiral Antonette Wemyss-Gorman, who welcomed the provisions, said the increased fleet of PMVs will improve the flexibility of the troops on the ground as they conduct operational activities islandwide.
+
+“As we continue our efforts to support the JCF in internal security operations, these PMVs will serve to improve our operational efficiency and effectiveness islandwide,” she said.
+
+The CDS thanked Prime Minister Holness and Deputy Prime Minister and Minister of National Security, Hon. Dr. Horace Chang, for their continued support to the JDF’s ongoing strategic transformation.
+
+In his remarks, Thales Australia’s Programme Manager for International Support Vehicles and Tactical Systems/Protected Vehicles, Ron Van Der Doorn, said the company values its lasting relationship with the Government of Jamaica, which is now approaching 10 years of support.
+
+He pointed out that the partnership, which commenced in 2012, saw the delivery of an initial 12 Bushmaster infantry mobility troop vehicles to the JDF.
+
+Following this, a vehicle support contract was entered into which extends to 2024 and supports the latest delivery of “prominent and reliable vehicles” Mr. Van Der Doorn said.
+
+“Thales looks forward to the ongoing relationship with the JDF, be it with the provision of additional infantry mobility vehicle platforms, product improvement, or with training and upskilling of the JDF’s soldiers,” he said.","{'label': 'Positive', 'score': 0.7147014737129211}",positive,0.7147014737129211,1
+"Digital Identity Solutions Market Growing at a CAGR 16.2% | Key Player Experian, GBG, Equifax, Mitek Systems, Thales ... - Digital Journal","Fri, 25 Feb 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvZGlnaXRhbC1pZGVudGl0eS1zb2x1dGlvbnMtbWFya2V0LWdyb3dpbmctYXQtYS1jYWdyLTE2LTIta2V5LXBsYXllci1leHBlcmlhbi1nYmctZXF1aWZheC1taXRlay1zeXN0ZW1zLXRoYWxlcy1ncm91cNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"“NEC (Japan), Samsung SDS (South Korea), Thales Group (France), GBG (UK), TELUS (Canada), Tessi (France), Daon (US), IDEMIA (France), ForgeRock (US), Jumio (US), iProov (UK), ID R&D (US), Refinitiv (UK), ImageWare Systems (US), OneSpan (US), Smartmatic (UK), Verisec (Sweden), Vintegris (Spain), AU10TIX (Cyprus), Signicat (Norway), RaulWalter (Estonia), Duo Security (US), Syntizen (India), HashCash Consultants (US), and Good Digital Identity (Czech Republic).”
+
+Digital Identity Solutions Market with Covid-19 Impact Analysis by Component (Solutions and Services), Solution Type (Biometrics and Non-Biometrics), Authentication Type, Deployment Mode, Organization Size, Vertical, and Region – Global Forecast to 2026
+
+In the post-COVID-19 scenario, the global digital identity solutions market size is projected to grow from USD 23.3 Billion in 2021 to USD 49.5 Billion by 2026, recording a Compound Annual Growth Rate (CAGR) of 16.2% from 2021 to 2026. The market’s growth in the market can be attributed to the increase in instances of identity-related frauds and data breaches and the need for compliance with various upcoming regulations.
+
+Based on solution type, the Biometric segment is estimated to lead the market in 2021.
+
+Based on solution type, the digital identity solutions market has been bifurcated into two segments: biometrics and non-biometrics. These solutions play a vital role in every organization. Most organizations are moving toward digitalization and cloud-based infrastructure, which help them drive businesses forward and strengthen customer relationships. Biometric segments market to hold the largest market share in the digital identity solutions market.
+
+Download PDF Brochure: https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=247527694
+
+Based on Vertical, Retail and eCommerce segment is estimated to lead the market in 2021.
+
+Retail and eCommerce is growing at an unprecedented rate in North America, Europe, and APAC. This vertical is targeted to extract highly confidential and sensitive data of critical sectors, including government, prime contractors, and suppliers.
+
+Major players, namely, include NEC (Japan), Samsung SDS (South Korea), Thales Group (France), GBG (UK), TELUS (Canada), Tessi (France), Daon (US), IDEMIA (France), ForgeRock (US), Jumio (US), iProov (UK), ID R&D (US), Refinitiv (UK), ImageWare Systems (US), OneSpan (US), Smartmatic (UK), Verisec (Sweden), Vintegris (Spain), AU10TIX (Cyprus), Signicat (Norway), RaulWalter (Estonia), Duo Security (US), Syntizen(India), HashCash Consultants (US), and Good Digital Identity (Czech Republic). These players have adopted various growth strategies, such as partnerships, agreements & collaborations, new product launches & product enhancements, and acquisitions to expand their presence in the digital identity solutions market. Partnerships, agreements & collaborations, and new product launches have been the most adopted strategies by the major players from 2018 to 2021 to innovate their offerings and broaden their customer base.
+
+NEC has expertise in the integration of IT and network technologies. NEC operates through business segments, namely, Public Business, System Platform Business, Global Business, Enterprise Business, and Network Services Business. It evolved as a major multinational IT and electronics company, with offices across the globe, including APAC, North America, Europe, and the Middle East. NEC Facilities (Japan), NEC Display Solutions (Japan), NEC Energy Solutions (US), and NEC Embedded Products (Japan) are a few of its subsidiaries. The company offers integrated solutions, components, and services for computing and communication applications. The company’s product portfolio comprises computers, data storage products, embedded systems, fiber optic devices, integrated infrastructure, network products, and software. The company’s solutions and services portfolio include big data analytics, biometric authentication, cloud, display, digital signage, OEM services, safety, and smart energy. NEC, through its products and solutions, serves various industries, including aerospace, agriculture, government, hospitality, logistics, manufacturing, retail, and transportation.
+
+Request For Sample Pages: https://www.marketsandmarkets.com/requestsampleNew.asp?id=247527694
+
+GBG is identity management and fraud prevention company. Initially, GBG was established as GB Information Management. In July 1999, GBG was acquired by Phonelink. In 2000, the company changed its name from Phonelink to Telme.com, and in 2004, the company changed its name from Telme.com to GBG. GBG is a global specialist in identity data intelligence. GBG has a presence in 79 countries with 17,000 clients ranging from banking, eCommerce, large enterprises, SMEs, as well as start-ups. Some of GBG’s clients include big brand names, such as Barclays, Aviva, and Bitcoin.
+
+GBG has two divisions: identity proofing and identity solutions. The identity intelligence solutions are provided through these two divisions. The solutions offer ID Registration, ID Verification, ID Trace and Investigate, ID Engage, and ID fraud and risk management software and services. GBG also includes the operations of software provider company, ID Scan Biometrics Ltd, which, by simplifying the identity verification and data capture process, automates customers’ and employees’ onboarding process.
+
+Media Contact
+
+Company Name: MarketsandMarkets
+
+Contact Person: Mr. Aashish Mehra
+
+Email: Send Email
+
+Phone: 18886006441
+
+Address:630 Dundee Road Suite 430
+
+City: Northbrook
+
+State: IL 60062
+
+Country: United States
+
+Website: https://www.marketsandmarkets.com/Market-Reports/digital-identity-solutions-market-247527694.html","{'label': 'Neutral', 'score': 0.5856808423995972}",neutral,0.5856808423995972,0

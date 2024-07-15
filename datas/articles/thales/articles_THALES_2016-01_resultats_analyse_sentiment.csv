@@ -1,0 +1,300 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales STV+ set to fly on JetBlue's A320 fleet - Runway Girl Network,"Mon, 25 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTYvMDEvdGhhbGVzLXN0di1zZXQtdG8tZmx5LW9uLWpldGJsdWUtYTMyMC1mbGVldC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"For the past several years the Thales InFlyt group, mostly through its LiveTV unit, has incrementally improved the in-seat, live television IFE environment. With the launch of JetBlue’s new A320 cabin early in 2017 these incremental changes will be replaced with a significant upgrade: STV+.
+
+The new Streaming TV product is the next generation of in-seat IFE, combining on-demand and live content on an Android OS device, plus the option to stream to end-user devices rather than embedded displays. And, for launch customer JetBlue, the new STV+ platform (the + indicates in-seat displays, not just streaming) is the company’s vision for the future of its inflight entertainment package.
+
+At first glance, the system will look very familiar to passengers. It will keep the live television options and add on-demand stored content. But the underlying technology for STV+ offers three main differences compared to the legacy LiveTV system which JetBlue has been flying through various iterations for 16 years:
+
+The screens are Android OS-based tablets rather than legacy video display units
+
+The tablets are Internet-enabled, taking advantage of the company’s FlyFi on-board connectivity platform for maintenance reporting and also potentially for content streaming
+
+The kit is NFC-enabled, allowing it to be paired with compatible mobile phones
+
+None of these three improvements is unique to the platform but, as JetBlue’s VP of brand & product development Jamie Perry explains, “[W]e think that what they do when aggregated together is it really starts to rethink what you can do with seat back entertainment. Instead of limiting it to stored content or DirecTV it becomes more like your mobile device.” This includes using the NFC connection to pair a mobile device as a remote control for the embedded screen (including as a gaming controller) or easily porting Android-based applications in to the in-seat kit.
+
+From a content perspective the STV+ kit offers significant potential but also requires a balancing act with the existing solutions. JetBlue has been aggressively expanding its Fly-Fi Hub streaming content solution and the stored content on the in-seat system now becomes complimentary to that. The company is actively seeking out STV+ programming different from the Hub selections, with a focus on its core demographics which include a higher proportion of families and Spanish-speaking customers. With the increase in content also comes the option for a change in the pricing model for the service. The live television will remain free but the company is still working out details on pricing models for the on-demand content.
+
+In the on-going debate about the future of embedded IFE versus the BYOD revolution JetBlue continues to believe that in-seat entertainment is important for its consumers. Perry describes the personal device option as “a complement to the seatback and not a substitute. If you were to take away seatback it would be taking away from the customer which is why we’re going down this path, but we’ll see how customer preference evolves.”
+
+The screen upgrade on JetBlue’s implementation of STV+ means a 10″ HD tablet screen rather than the old 5″ SD screen. The switch to a tablet brings several benefits to the company, in addition to the obvious passenger benefit of a bigger, brighter screen. The bulk of the processing is now handled by the device rather than electronics in a box under the seat. This means that malfunctioning systems can be easily monitored and repaired, a nod to the growing Internet of Things (IoT) environment on airplanes. Alas, it does not mean the wholesale disappearance of the under-seat IFE box, even as the brains of the display move up into the tablet. Perry admits there will still be a box underneath with some connectivity hardware, even as the traditional kit in that space is no longer present.
+
+And, while the STV+ system has the capability for streaming content to the video display via wifi, that will not be part of the implementation here. The devices still require power as well which is delivered via an ethernet cable; the same cable can also deliver the content. With no additional weight required, the cabled version avoids many potential challenges of streaming via wifi to that many devices simultaneously.
+
+The STV+ rollout is being tied to JetBlue’s cabin retrofit project which will see the carrier add twelve more seats to each A320 aircraft. The Core A321 planes will also get additional seats but they will keep the LTV4 system rather than upgrading to STV+. They will receive the AVOD upgrade; while the net experience to the passenger is the same the on-board technology is different for those aircraft.","{'label': 'Positive', 'score': 0.9001603722572327}",positive,0.9001603722572327,1
+Sagem Patroller beats out Thales Watchkeeper in French Army drone pick - Defense News,"Fri, 22 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9ob21lLzIwMTYvMDEvMjIvc2FnZW0tcGF0cm9sbGVyLWJlYXRzLW91dC10aGFsZXMtd2F0Y2hrZWVwZXItaW4tZnJlbmNoLWFybXktZHJvbmUtcGljay_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — The French Army and the procurement office have selected the Sagem Patroller for the tactical unmanned aerial vehicle over the Thales Watchkeeper, with the pick due to be formally approved at a ministerial investment committee meeting next month, French media reported.
+
+""As part of the program for the tactical drone system which aims to deliver the Army a new tactical drone system, the Patroller from Sagem will win the competition over the Patroller from Thales,"" weekly magazine Air & Cosmos reported Jan. 22.
+
+A contract for 14 units, comprising 10 operational aircraft and four for training, is worth some €300 million (US $324 million), with 10 years of maintenance. That contract value compares to the €350 million set aside in the revised multiyear defense budget.
+
+Procurement office Direction générale de l'armement, Safran's Sagem, and Thales declined comment.
+
+A pick of Patroller could double employment on UAVs at Sagem, which operates a plant at Montluçon, central France, local paper La Montagne reported. The regional paper is distributed in the Auvergne region, which includes the constituency for French President Francois Hollande, a source close to the deal said.
+
+Sagem, which built and maintains the Sperwer interim tactical drone, challenged Thales for the UAV deal, as the Watchkeeper was widely expected to be selected. The Dutch, Canadian and French forces flew Sperwer in Afghanistan.
+
+The Watchkeeper is in service with the British forces and there are close bilateral ties between Paris and London through the Lancaster House treaty on defense cooperation. There has been discussion of a French selection of Watchkeeper paving the way for a British pick of the Nexter VBCI infantry fighting vehicle.
+
+Watchkeeper is based on the Elbit Hermes 450 and is built by a joint venture that is held 49 percent by Thales and 51 percent by Elbit.
+
+Patroller has more than 80 percent French content, while Watchkeeper has around 10 percent, which Thales had pledged to boost to 30 percent, daily Le Monde reported.
+
+Patroller, based on the German Stemme S-15 civilian aircraft, flew from Toulouse, southwest France, in October and November 2014, showing its compliance with European air safety rules. That domestic capability is seen as a key factor.
+
+The Sagem UAV could be armed with laser-targeted rockets and anti-tank MMP medium-range missiles, website La Tribune reported.
+
+Patroller and Watchkeeper were the sole contenders in the tender as Airbus Defence and Space, as well as Israel Aerospace Industries, had decided against entering the competition. Airbus had teamed with Textron to offer the Shadow before opting out.
+
+Frédéric Mazzanti, vice president of Sagem optronics and defense division, outlined at the Paris Air Show last year the Patroller Cluster concept, a plan of industrial cooperation among some 25 French and European companies.
+
+Ecarys/Stemme delivers the aircraft, which will carry a radar and avionics from Selex, he said. Nearly 90 percent of the Patroller is made in France.
+
+Sagem placed the Patroller on ground display at the air show.
+
+In the evaluation, the Army liked the Patroller's high quality visual capability, transmission and capability for a pilot to fly in the aircraft rather than operating as unmanned, Le Monde reported. The UAV can carry a one ton payload and fly for 14 hours, compared to the required eight hours, at a range of 150 km.","{'label': 'Neutral', 'score': 0.999992847442627}",neutral,0.999992847442627,0
+Thales Launches Helicopter Training Center in Norway - FLYING,"Fri, 29 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmZseWluZ21hZy5jb20vdGhhbGVzLWxhdW5jaGVzLWhlbGljb3B0ZXItdHJhaW5pbmctY2VudGVyLWluLW5vcndheS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has achieved approval from the European Aviation Safety Administration (EASA) for its Level D Reality H Full Flight helicopter simulator and has opened the doors to a helicopter training center in Norway. The Reality H simulator in Stavanger is based on the Airbus Helicopters H225, formerly the Eurocopter EC225, which is commonly used in the north Atlantic sea by oil and gas operators.
+
+Realistic flight simulation is achieved through the simulator’s Hexaline all-electric six-axis motion system and ThalesView visual system. The Reality H simulator also features an integrated search and rescue (SAR) system.
+
+The Norway Training Center, is located in Stavanger, Norway and will be used by Thales’ launch customers Blueway Offshore Norway AS and Dancopter in Denmark.
+
+“The training center will train pilots in some of the most challenging conditions in the world and we want the training here to become a gold standard for any operator[s] wishing to have their pilots ready for any mission in the harshest and most challenging environments imaginable,” said Jean Jacques Guittard, Thales vice president and general manager of training and simulation activities.
+
+Thales opened its first helicopter training center in France in 2014 with a full motion Level B Airbus AS350 AStar simulator. The next Thales helicopter training center will be launched in Austria.","{'label': 'Neutral', 'score': 0.9985331296920776}",neutral,0.9985331296920776,0
+"Thales appoints Philippe Keryer as Executive Vice- President, Strategy, Research and Technologies - EDR Magazine","Thu, 28 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy1hcHBvaW50cy1waGlsaXBwZS1rZXJ5ZXItYXMtZXhlY3V0aXZlLXZpY2UtcHJlc2lkZW50LXN0cmF0ZWd5LXJlc2VhcmNoLWFuZC10ZWNobm9sb2dpZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Philippe Keryer has joined Thales as Executive Vice-President, Strategy, Research and Technologies, and will be a member of the company’s Executive Committee. He succeeds Hervé Multon who has been appointed Executive Vice-President, Europe and International Operations.
+
+A graduate of France’s Supélec engineering school and EDHEC business school, Philippe Keryer began his career in 1990 at Alcatel. After holding several strategic management positions, he was appointed President of the Mobile Radio Division in 2005, and President of EvoliumTM, a joint venture between Alcatel and Fujitsu.
+
+In 2007, he joined the board of Alcatel-Lucent Shanghai Bell and became President of Alcatel-Lucent’s Mobile Access division, where he was in charge of the GSM and UMTS radio access businesses.
+
+In 2009, Philippe Keryer was promoted to President of the Networks & Platforms business group and became a member of the Alcatel-Lucent Executive Committee.
+
+From 2013 to 2015, he was Chief Strategy and Innovation Officer where he played an important role in repositioning the Alcatel-Lucent group and in the merger of Alcatel-Lucent and Nokia. He was also successfully involved in developing and growing innovation, notably through the company’s research entity, Bell Labs.
+
+In August 2015, Philippe Keryer became directly involved in sustainable development and social innovation when he was appointed as the Chairman of the Alcatel-Lucent Foundation.","{'label': 'Neutral', 'score': 0.999991774559021}",neutral,0.999991774559021,0
+Thales and ASV Sign Agreement to Develop Autonomous USV Technology and Capability - Navy Recognition,"Mon, 25 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMi_QFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlLzIwMTYvamFudWFyeS0yMDE2LW5hdnktbmF2YWwtZm9yY2VzLWRlZmVuc2UtaW5kdXN0cnktdGVjaG5vbG9neS1tYXJpdGltZS1zZWN1cml0eS1nbG9iYWwtbmV3cy8zNDkxLXRoYWxlcy1hbmQtYXN2LXNpZ24tYWdyZWVtZW50LXRvLWRldmVsb3AtYXV0b25vbW91cy11c3YtdGVjaG5vbG9neS1hbmQtY2FwYWJpbGl0eS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is a global technology leader with a unique capability to design and deploy equipment, systems and services to meet customer’s operational requirements. ASV, an agile Small and Medium-sized enterprise (SME) with 60 employees spread across the UK and USA, has specialised expertise and experience in USV design, build, operation and maintenance.
+
+
+
+This agreement, which builds on the strong existing relationship and the combined skills and expertise of the two companies, provides world leading, innovative solutions for autonomous maritime requirements.
+
+
+
+Successful trials on Halcyon USV
+
+The collaboration has already successfully delivered the innovative Halcyon USV, a key asset of the French - UK Maritime Mine Counter Measures programme (MMCM1). Designed and built by ASV, it provides high speed transit, stability, manoeuvrability and endurance. When enhanced with Thales’s mission and autonomy management systems, Halcyon provides a highly capable and cost effective platform for the deployment of payloads for a wide range of maritime, civil, security and military applications.
+
+
+
+A recent success is the support provided by Thales, with their partners ASV and SeeByte, to the UK’s Defence Science and Technology Laboratory (DSTL) in the demonstration of a robust autonomous Mine Counter Measures (MCM) system through a collaborative systems approach. This was part of The Technical Cooperation Programme (TTCP), a multi-national forum for defence, science and technology.
+
+Halcyon, fitted with Thales’s mission management system and integrated with the ASView control system, operated collaboratively in the trials to demonstrate reliable autonomous operations involving
+
+complex behaviours in a range of scenarios and sea state conditions. These trials completed operator planned missions controlled from a remote operations centre, providing operator oversight and control over
+
+a communications link. It also showed how a USV can work autonomously with a multi-national squad of Unmanned Underwater
+
+
+
+Vehicles (UUVs). These successful trials represent a major milestone in Thales’s roadmap to deliver robust autonomous USV operations. The two companies are collaborating on the delivery of the French – UK
+
+Mine Countermeasures (MMCM) contract, a programme which is key to the transformation of mine countermeasures capabilities and the future operational use of unmanned naval systems.","{'label': 'Positive', 'score': 0.9999994039535522}",positive,0.9999994039535522,1
+Hanwha to supply tactical communication systems - The Korea Herald,"Tue, 05 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmtvcmVhaGVyYWxkLmNvbS92aWV3LnBocD91ZD0yMDE2MDEwNTAwMDk4N9IBOGh0dHBzOi8vbS5rb3JlYWhlcmFsZC5jb20vYW1wL3ZpZXcucGhwP3VkPTIwMTYwMTA1MDAwOTg3?oc=5&hl=en-US&gl=US&ceid=US:en,"Hanwha Thales clinched an agreement Tuesday to supply tactical information communication networks to the Defense Acquisition Program Administration, as Seoul seeks to improve its battlefield command and control systems, the company said.Under the 166.3 billion won ($139.9 million) deal, the Seoul-based defense contractor will deliver network management, tactical mobile communications and low-capacity trunk radio systems by the end of this year.Hanwha and the Agency for Defense Development developed the TICN systems from 2010-15 as part of Seoul’s 5 trillion won initiative project to boost its communication links in in future battlefields.The equipment facilitates rapid and precise command and control and decision-making by integrating various military communication networks and distributing information in real time.By Shin Hyon-hee ( heeshin@heraldcorp.com","{'label': 'Positive', 'score': 0.8847256898880005}",positive,0.8847256898880005,1
+Bushmaster Protected Mobility Vehicle was added to the arsenal of the Jamaica Defence Force - defence-blog.com,"Sun, 24 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9idXNobWFzdGVyLXByb3RlY3RlZC1tb2JpbGl0eS12ZWhpY2xlLXdhcy1hZGRlZC10by10aGUtYXJzZW5hbC1vZi10aGUtamFtYWljYS1kZWZlbmNlLWZvcmNlL9IBeWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9idXNobWFzdGVyLXByb3RlY3RlZC1tb2JpbGl0eS12ZWhpY2xlLXdhcy1hZGRlZC10by10aGUtYXJzZW5hbC1vZi10aGUtamFtYWljYS1kZWZlbmNlLWZvcmNlLz9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"On Wednesday January 13, 2016 a new tool was added to the arsenal of the Jamaica Defence Force with the addition of the Bushmaster Protected Mobility Vehicle. Following a brief opening and commissioning ceremony at Up Park Camp, the new PMVs were added to the fleet of armoured vehicles in the JDF.
+
+The event was attended by the Prime Minister of Jamaica, the Honorable Portia Simpson Miller, as well both the Minister of National Security and the Minister of Finance and the Public Service.
+
+Representatives of THALES, the producers of the Bushmaster platform and other invited guests were also in attendance. More to follow.
+
+- ADVERTISEMENT - CONTINUE READING BELOW -
+
+The Bushmaster Protected Mobility Vehicle or Infantry Mobility Vehicle is an Australian-built four wheeled, all-wheel drive armoured vehicle. The Bushmaster is based on a design by Irish company Timoney Technology Ltd under a licence agreement with Perry Engineering in Adelaide; that licence was sold, with permission granted by Timoney as required by the licence terms, to Thales Australia.
+
+Once the Bushmaster was selected by the Australian Army after trials in 1998 to meet the Bushranger project requirements, the range of variants was developed further by Thales Australia in Bendigo. Oshkosh Truck has a contract to provide support and would manufacture in the US if there were an American order. The Bushmaster is currently in service with the Australian Army, Royal Australian Air Force, Royal Netherlands Army, British Army and the Jamaica Defence Force.
+
+Also JSDF’s MRAP ‘Bushmaster’ first publish in Japan","{'label': 'Neutral', 'score': 0.9999840259552002}",neutral,0.9999840259552002,0
+QinetiQ starts fatigue testing on Thales’s Hawkei vehicle - Australian Defence Magazine,"Thu, 21 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL3FpbmV0aXEtc3RhcnRzLWZhdGlndWUtdGVzdGluZy1vbi10aGFsZXMtcy1oYXdrZWktdmVoaWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"QinetiQ Australia has commenced the second phase of full scale fatigue testing on the Hawkei vehicle at Thales Australia’s manufacturing facility in Bendigo.
+
+The eight week test program involves attaching a Hawkei production-level chassis to a 5x8 metre test rig for a series of tests to validate the predicted life of the structure and to demonstrate several improvements made since QinetiQ did the first phase of fatigue tests on the prototype in 2010.
+
+“During the tests, we push the Hawkei to its absolute limits,” QinetiQ's general manager (Land and Maritime) George McGuire, said.
+
+“We artificially recreate the various stresses the Hawkei might be under in the field by placing a combination of loads on the chassis, which are activated by computer-operated hydraulics powered by 100 litres of oil per minute. It is a very significant undertaking that requires a depth of technical expertise and practical implementation experience.”
+
+“Both phases of this project have involved a high degree of teamwork and commitment between Thales and QinetiQ using a mix of personnel, equipment and facilities,” director Operations at Thales Australia Peter Goodwin said.
+
+“These full scale fatigue tests will ensure the Hawkei performs for the Australian Army over a long period of time during different stages of operation throughout its service life.”
+
+The Commonwealth signed a $1.3 billion contract with Thales in October 2015 for delivery of 1,100 vehicles and over 1,000 trailers to the Australian Army. The three and a half year production phase is scheduled to begin from mid-2017, with first deliveries expected towards the end of that year.","{'label': 'Neutral', 'score': 0.9999567270278931}",neutral,0.9999567270278931,0
+"From vaporware to real world: the Crystal Cabin Awards, analysed - Runway Girl Network","Fri, 22 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTYvMDEvZnJvbS12YXBvcndhcmUtdG8tcmVhbC13b3JsZC10aGUtY3J5c3RhbC1jYWJpbi1hd2FyZHMtYW5hbHlzZWQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Crystal Cabin Awards, presented by the Hamburg Aviation Cluster at the Aircraft Interiors Expo each April, showcase the passenger experience innovations that can make a real difference to the future of commercial aviation.
+
+Sometimes the core improvement of a year is a little thing — one of those innovations that makes every flight just that little bit better, like Mohawk Air’s stain-resistant carpet, which improves the lifespan of the most trafficked material on the plane, or the Schneller AirFilm flex, a lightweight decorative laminate created to cover complex curves, or easy-refit LED lighting systems like STG Aerospace’s liTeMood or Cobalt’s Spectrum.
+
+F/LIST’s wood effect flooring is another impressive technical innovation that one would entirely expect to find in a first or business class cabin over the next few years.
+
+Sometimes it’s a massive screen for inflight entertainment, like the 22” or 26” portrait-orientation Digital Sky touchscreen from Thales (with B/E and Tangerine), or a tiny one, like Skylights’ SkyTheaters immersive goggles, which work for both 2D and 3D entertainment. Sometimes it’s the technology that governs how we interact with the hard product, like Reaktor Aero’s Nordic Sky IFE UX design for Finnair’s A350, Scholz & Volkmer’s implementation for Lufthansa, or Global Eagle Entertainment’s Airtime software solution to stream to passengers’ devices.
+
+These are, unfortunately, difficult to assess without being able to see or interact with the systems concerned.
+
+Or it’s a content innovation, like Turkish Airlines’ Invest Onboard system, a way to show IFE content that we haven’t seen before. Perhaps an airline will combine that idea with something like El Al’s startup incubator, which won an APEX Award last September.
+
+Sometimes it’s entirely new cabin concepts, like Formation Design Group’s interesting Lie-Flat Cabin Concept, a tricky one to get your head around, but interesting — think the “throne” formed by JetBlue’s Mint and similar seats, but in groups of five seats. It’s a smart way to solve a lot of the outstanding issues with staggered seats like Thompson Vantage.
+
+Less new is the elegant PriestmanGoode-designed new Swiss first class, since there is nothing particularly revolutionary about this quite elegant evolution of Swiss’ design language and cabins.
+
+Tangerine’s design of the Virgin Australia B/E Super Diamond outward-facing herringbone seat is also in the competition, despite the significant delays to production by B/E Aerospace as the result of head impact lethality safety concerns from regulators.
+
+Potential vaporware begs questions
+
+Many of these cabin concepts may never come to pass, however, like the 2-2-2 layout and three-door access of the Newface widebody, a concept boxwinged aircraft from a group of Portuguese designers that includes Embraer Composites Portugal. Embraer won an award last year for the cabin it later had to redesign extensively for practicality and head impact safety reasons, as RGN exclusively revealed at the Paris Air Show.
+
+Seymourpowell’s concept of double-bed first class cabins (think the seat in the Etihad Residence, but reclining into a bed) is attractive, but loses four seats from a twelve-seat cabin to create nothing more than a hallway. It’s also unlikely that most airlines would want to bet on half of their first class passengers travelling as a couple.
+
+Teague, B/E Aerospace and Panasonic’s Waterfront, a business class seat that is essentially customized Super Diamond with cellphone-based personalisation options that many of today’s mobiles don’t yet support, and Yasava’s Aiana Wave, which the company calls Executive First Class for corporate jets, but which doesn’t even recline, could also arguably be viewed as vaporware in the near term (a prototype of Waterfront was showcased at International CES, but the seat isn’t available until 2019). However, we may well see some of the technologies conceived for these ideas filter into the real world.
+
+Also more pie-in-the-sky versus today’s real world: Zodiac’s Lifestyle cabin concept, which tries “to think out of the box and develop a visionary cabin architecture that revolves around a new and more natural passenger experience” to walk around and have leisure space but doesn’t acknowledge that practically none of that is monetisable and many airlines aren’t big fans of passengers congregating in one place anyway. (Unless they’re in business or first class and at a bar, of course.)
+
+SII Deutschland suggests a centre section of four 17-18” seats be cut down to three 20” seats plus a storage compartment, notionally for senior citizens. It is unlikely that this is ever going to happen in an environment where more seats are being squeezed into aircraft, not less.
+
+Turkish Airlines also has an interesting concept (submitted by its cabin interior chief engineer, Ayşegül Durak) for a flip-down pivoting U-shaped headrest cushion that skates along the line of whether an innovation adds too many moving parts or too much additional complexity to a seat.
+
+Armrests that we may never actually see on aircraft are the latest battleground, with the the ComFly MARE armrest, which extends and retracts to allow for a longer armrest or easier access to the aisle, but which is adding a movable part where none is required, and the Soarigami divider, which will either disappear or become the next KneeDefender.
+
+Oh, and this:
+
+The Wishbone armrest. Solving that problem of “whoa, this economy seat is just too damn wide”. #paxex pic.twitter.com/7qoIM2cvmF — John Walton • @thatjohn.bsky.social (@thatjohn) January 22, 2016
+
+Much more likely: the Reliant-Lite Thermoplastic Carbon Composite Armrest Assembly, which is basically an armrest made of plastic that doesn’t require aluminium internals, saving weight.
+
+Of the university entries, as usual, the focus was on relatively blue sky thinking that doesn’t match with aviation reality. This is not quite so frustrating as when it comes from existing design houses and component makers, as it’s a great opportunity for the Hamburg Aviation Cluster to encourage young designers to look at the cabin. It would be good to see greater industry involvement in the future to create more realistic proposals.
+
+A notable exception, however, is the fascinating MultiSEP sliding bar concept from the Hamburg University of Applied Sciences, where the structure of the bar retracts during boarding, critical flight and leaving the aircraft to enable extra space, but slides out a metre to create surfaces into what is often unused space during cruise. Convertible common areas were a theme among the students this year, with TU Delft also presenting a (less impressive) entryway concept.
+
+Safety innovations feature in the shortlist
+
+New superstrong glass from AviationGlass is “based on a flexible polymeric sheet sandwiched between two ultra-thin glass sheets that undergo a special treatment during the various stages of the production process. The molecular structure of the glass is thus changed to make it stronger which results in clear or mirrored glass of a thickness of 1,7 mm. The glass is flexible, it is shock-absorbing and and the surfaces will never show any scratches.”
+
+The Innovint PED Containment Bag is also a smart idea for a storage-minimal solution to contain a burning PED. The bags come in three sizes, but it’s hard to understand the logic of trying to slide a smoking (and potentially burning) iPad into the iPad-sized bag — surely it’s better to save those precious seconds of fiddling with corners and just use the big one?
+
+It seems logical to give top marks to the Lufthansa Technik Inductive Cooking platform, which leverages the reduced-heat (and reduced flammability) home cooking technology for an airline galley application with an integrated fume hood that also enables safe direct-heat cooking. This is smart innovation.
+
+And in wider safety and health innovation, Boeing is presenting its Fresh Lavatory concept, which uses resistant surfaces and UV sanitisation to clean those increasingly smaller lavatories.
+
+Innovations we’ve previously seen reappear in the hope of an award
+
+Among the entries we’ve seen before are Gogo’s 2Ku and Astronics’ AeroSat low-drag, lightweight Ku-band radome, as well as the Sekisui Infused Imaging technology for cabin surfaces.
+
+Lufthansa Technik’s Qantas iPad solution — which RGN revealed last summer — is among the entrants, while on the other end of the high-tech-low-tech spectrum, the Kanar PED Pouch is also making an appearance.
+
+The Etihad tapered 787 first class seat (which debuted in September 2014, so it’s not entirely clear why it’s being entered for the 2016 awards) is also on the list.
+
+Teague, meanwhile doesn’t seem to have answered any of the obvious “why is this not just terrible for passengers” questions about its Poppi concept airline of the future since debuting it last year at APEX.
+
+Lightweight innovations continue to evolve the cabin
+
+Zodiac Inflight Innovations (the Rave entertainment side of the business) has a non-retracting, low-profile wireless screen for overhead use, which it notes can be used for second or even third screen functionality.
+
+Lufthansa Systems’ shrunk-down BoardConnect Portable streaming system is also of note, particularly given its 1kg weight and set-it-and-forget-it content updates over a mobile data link as well as USB.
+
+Elsewhere in the cabin, you’ll find a new lightweight baby bassinet from Aircraft Cabin Products, 1.5kg lighter than previous models, and the Flightweight trolley, knocking 5kg or 33 percent off the weight of previous models with a structure combining recycled materials and basalt.
+
+The Zodiac Flexnet, developed by TU Delft’s industrial design engineering faculty, uses a system of cables to replace the current support structure in the Zodiac 5751 seat, halving seatback depth and reducing weight by 20 percent.
+
+The inch-thick Bionic Partition from Autodesk’s The Living design studio and Airbus’ AP Works knocks 45 percent (15kg) off the weight of the rear door partition wall on an Airbus A320.
+
+And the Zodiac DMS Bifold door cuts 25 percent weight and 75 percent of the number of parts from the traditional lavatory door, as well as providing a rather more obvious place to push and pull — something that I still notice passengers not immediately getting right today.
+
+Wider cabin ambience also features strongly
+
+Diehl Aerosystems is also showing its DIANA concept cabin, which is very attractive — except one can’t help but note that the geometrical shapes are very reminiscent of the design language used by Etihad’s Facets of Abu Dhabi branding.
+
+I like the Diehl DIANA concept cabin, but nobody but Etihad wants their cabin to look like Etihad. #PaxEx pic.twitter.com/sCmepcn8Da — John Walton • @thatjohn.bsky.social (@thatjohn) January 22, 2016
+
+Diehl’s Dandelion projection and lighting system, however, is a great implementation of a really fascinating concept that has a wide variety of use cases, from speeding up boarding to ancillary advertising to cabin wayfinding during the night. B/E Aerospace’s Viu lighting system is also impressive.
+
+From the small details to the big picture, it will be fascinating to see whether the Crystal Cabin Awards panel focuses on real innovations that we will actually see or are already experiencing — or whether they will be sucked in by never-going-to-happen vaporware.","{'label': 'Neutral', 'score': 0.8134142756462097}",neutral,0.8134142756462097,0
+"PM Commissions JDF's Protected Mobility Vehicles Squadron – Jamaica Information Service - Government of Jamaica, Jamaica Information Service","Thu, 14 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vamlzLmdvdi5qbS9wbS1jb21taXNzaW9ucy1qZGZzLXByb3RlY3RlZC1tb2JpbGl0eS12ZWhpY2xlcy1zcXVhZHJvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Prime Minister, the Most Hon. Portia Simpson Miller, today (Jan.13) commissioned into service, the Jamaica Defence Force’s (JDF) new Protected Mobility Vehicles (PMVs) Squadron.
+
+The fleet is equipped with 12 Thales Bushmaster PMVs, three of which were acquired this month.
+
+The Thales Bushmaster is an Australian-built vehicle that is designed for rugged conditions. They are flexible enough for use in search and rescue (SAR) operations, as well as provide support for the security operations conducted by the JDF.
+
+Acquisition of the vehicles will enable the JDF to safely deploy soldiers to any location in Jamaica regardless of the physical threat or terrain they may encounter.
+
+Speaking at the commissioning ceremony held at Up Park Camp, the Prime Minister said the PMVs will aid the military in carrying out its mandate in protecting the nation.
+
+She said the vehicles will be part of the security assistance that the soldiers provide to the Jamaica Constabulary Force (JCF), and also “provide rapid response and relief to our citizens in times of natural disasters, and other emergencies.”
+
+Minister of National Security, Hon. Peter Bunting and Chief of Defence Staff, Major General Antony Anderson, noted that the vehicles will significantly improve the JDF’s capability in carrying out its range of operations and safeguard the country’s security.
+
+The Bushmaster PMVs are designed to provide protected mobility transport, with infantry able to dismount from the vehicles before going into action. They are capable of carrying up to nine soldiers and their equipment, and fuel and supplies for three days.
+
+They have multiple applications including combat and troop support as well as disaster recovery and response.
+
+The vehicles replace the JDF’s fleet of aged Cadillac Gage V150 Armoured Personnel Carriers (APCs), most of which were acquired almost 40 years ago.","{'label': 'Neutral', 'score': 0.9999650716781616}",neutral,0.9999650716781616,0
+Project Review: Land projects move into the spotlight - Australian Defence Magazine,"Fri, 01 Jan 2016 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL3Byb2plY3QtcmV2aWV3LWxhbmQtcHJvamVjdHMtbW92ZS1pbnRvLXRoZS1zcG90bGlnaHTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Although overshadowed by the commentary and rhetoric in response to major naval shipbuilding projects, the Land sector is now moving into the spotlight.
+
+Nigel Pittaway | Melbourne
+
+The headline program of course is Land 400 Phase 2, which will acquire a Combat Reconnaissance Vehicle to replace the Army’s weary ASLAVs. At around $10 billion for the overall program, which will also include Infantry Fighting and Manoeuvre Support Vehicles, Land 400 is a big-ticket project and one which will doubtlessly generate opinion and comment for months, if not years, to come. An RfI for Phase 3 was also released as this edition of ADM was in production.
+
+However, Land 400 isn’t the only Land program to achieve a significant milestone in the past year.
+
+Although some major Land programs – notably 121 Phase 3B, the acquisition of around 2,700 medium and heavy vehicles – have continued throughout the past year seemingly without major announcement or milestone, some programs which have been in the public spotlight include:
+
+L and 19 Phase 7A: At the end of June 2015, then-Defence Minister Kevin Andrews announced that the ADF’s Counter Rocket, Artillery and Mortar System (C-RAM) Sense and Warn Capability had been given combined First and Second Pass approval.
+
+Saab System Australia is the preferred tenderer, with a capability based around the three Saab Giraffe AMB radars previously acquired for protecting Australian bases in Afghanistan.
+
+The Commonwealth will provide around $325 million to sustain the capability for future operations and according to Andrews the importance of force protection to deployed personnel had prioritised funding ahead of the White Paper.
+
+L and 40 Phase 2: NIOA was awarded contracts in July for the delivery of next generation General Dynamics Mk.47 40mm (‘Striker 40’) Automatic Light Weight Grenade Launchers, fitted with a Lightweight Video Sight (LVS2) system, for deliveries beginning in 2016.
+
+Land 121 Phase 4: Arguably the biggest (and longest awaited) announcement of the year in the Land sector came in early October when Thales Australia’s Hawkei was selected in a $1.3 billion deal to fulfil the ADF’s Protected Mobility Vehicle – Light requirement.
+
+The home-grown Hawkei had been championed by at least one previous Defence Minister (and by just about everyone in the specialist media), but the wheels of process turn slowly and the announcement was the culmination of years of hard work by Thales and its partners.
+
+The Thales Hawkei finally saw a contract signed in 2015. Credit: Thales Australia
+
+Eleven hundred Hawkeis and over 1,000 trailers will be acquired, with the vehicles to be built at Thales’ Bendigo facility.
+
+Hawkei will incorporate a next-generation communications management system developed in Australia by Thales.
+
+Pilot vehicle production will begin in 2016 and deliveries will start from late 2017, ahead of full-rate production in 2018.
+
+Land 155: General Dynamics European Land Systems signed a $39 million contract in November 2015 for the production and delivery of its Improved Ribbon Bridge, under the project for enhanced gap crossing equipment.
+
+Australia will join Germany, Sweden and the US as users of the IRB and the contract covers the delivery of the bridge bays, logistics and training. The program was also a pilot program for the division, using a managing contractor framework for procurement. The model will be rolled out to other programs as appropriate, according to Defence.
+
+Land 200: Several elements of the ‘Land 200’ Battle Management System (BMS) combine, which broadly encompasses elements of Land 75, Land 125 and Land 2072, achieved milestones during the year.
+
+Final Operational Capability of Tranche One of the combine, which represents the re-equipment of 7 Brigade, together with an RAAF SECFOR squadron and some logistics and support units with a digital mounted and dismounted BMS, was declared at the end of March.
+
+Phase 3B of Land 125 rolled out a new generation of body armour, helmets, load carriage equipment, eye and hearing protection and packs to the Army’s 1 Brigade in August. The equipment is the first tranche of 21,000 sets of Soldier Combat Ensemble to be delivered over the next three years.
+
+The ADF’s new Thales Australia Austeyr EF88 rifle, being acquired by Land 125 Phase 3C, gained Second Pass approval in July. The enhanced weapon replaces the F88 which has been in service since 1988.
+
+Land 400: The $10 billion Land 400 is the largest Land program in Australia’s history and First Pass approval for the first tranche, Phase 2, which will acquire 222 CRVs was announced in February 2015.
+
+Tenders closed in early September and a shortlist of two (or possibly three) contenders is expected to be announced by the end of March next year.
+
+Known contenders are: BAE Systems Australia, teamed with Patria and supported by Saab (AMV35); General Dynamics Land Systems Australia, together with Thales Australia (platform undisclosed); Rheinmetall Defence, with Northrop Grumman, Supacat Australia and supported by Tectonics (Boxer); and ‘Team Sentinel’, comprising Elbit Land Systems Australia and Singapore Technologies (Sentinel, based on ST Kinetics’ Terrex).
+
+Land 2072 Phase 2B (formerly JP2072/2B) Second Pass approval was announced in June with the preferred tender being Boeing Defence Australia (BDA), together with partners GH Varley and Harris Communications Australia.
+
+Variously valued at $665 and $900 million, the contract will see BDA develop and deliver a modern digital communications system to support deployment of operational headquarters, providing digital wideband voice, data and video services over both wired and wireless infrastructure. IOC is expected in 2017 and FOC will follow in 2020.
+
+Looking Into The Crystal Ball – The Year Ahead
+
+Without the benefit of the new White Paper and associated capability plan, it is difficult to gauge which projects will be next to see significant traction.
+
+Australian Army soldiers from 6th Battalion, Royal Australian Regiment, conduct direct fire support weapons drills and tactics during the 7th Brigade open day in Chermside, Brisbane, on 12 September 2015. Credit: Defence
+
+Ongoing programs, such as those under the Land 200 umbrella, will continue to roll out capability to Army and the wider ADF and those in the 2012 version of the DCP which may gain momentum includes Land 121 Phase 5B, the acquisition of unprotected medium and heavy vehicles to facilitate tactical training. Around 1110 trucks and a number of modules and trailers are to be acquired, possible via extension or modification to existing contracts.
+
+One project highly likely to be given the formal green light is Land 19 Phase 7B, which will replace Army’s existing Saab RBS 70 Ground Based Air Defence (GBAD) system with a modern ground based force protection system, which is inclusive of Ground Based Air and Missile Defence and Counter-Rocket, Artillery, Mortar (C-RAM) capabilities.
+
+However it is Land 400 Phase 2 which will be in the spotlight in the immediate future, with down-select of the two or three shortlisted contenders to occur at the end of March and followed by an evaluation process which will see three vehicles from each competitor brought to Australia for testing, including the testing of one to destruction.
+
+Although somewhat further into the future, Phase 3 will replace the 400-odd M114AS4 APCs and industry is already carefully watching how the CRV phase will play out as it prepares for this next major round.","{'label': 'Neutral', 'score': 0.9999369382858276}",neutral,0.9999369382858276,0

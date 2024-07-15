@@ -1,0 +1,435 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales moves head office to Paris La Défense - Thales,"Mon, 05 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZ3JvdXAvcHJlc3MtcmVsZWFzZS90aGFsZXMtbW92ZXMtaGVhZC1vZmZpY2UtcGFyaXMtbGEtZGVmZW5zZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales moves head office to Paris La Défense Share this article
+
+
+
+LinkedIn
+
+Key points
+
+Thales occupies the top seven floors of offices in the 38-storey complex.
+
+The Carpe Diem tower is the first new building to open in the latest phase of the La Défense development and is an outstanding example of advanced technologies and innovative building techniques.
+
+The complex is an eco-designed building certified to the highest environmental standards.
+
+The corporate headquarters of the Thales Group has moved to the Carpe Diem tower in the La Défense business district of Paris. The move to these new, modern premises in a more prominent location is part of Thales's long-term strategy of growth and development and reflects the enduring values and ambitions of a truly global organisation.
+
+Thales is the first company to move into the new complex and now occupies the top seven floors of offices (floors 28 to 34) in the 38-storey tower, with total floorspace of 10,245 sq.m. for 440 employees.
+
+The Carpe Diem tower provides an improved working environment for Thales head office staff as well as numerous other geographic, operational, business and environmental advantages. The complex is one of the most recent towers to open at La Défense and meets the world's highest environmental building and energy efficiency standards. Carpe Diem has received a platinum LEED (Leadership in Energy and Environmental Design) label, the French High Environmental Quality (HQE) certification, as well as the French Very High Energy Performance label (THPE).
+
+The Carpe Diem tower enjoys a central location in Europe's largest business district and is exceptionally well served by public transport. The new building is an ideal workplace for Thales head office staff and provides an excellent setting for receiving customers and other visitors.
+
+New address of Thales corporate headquarters
+
+Phone numbers remain the same
+
+Tour Carpe Diem
+
+31 Place des Corolles – CS 20001
+
+92098 PARIS LA DEFENSE Cedex
+
+Tel: +33 (0)1.57.77.80.00","{'label': 'Positive', 'score': 0.9998111128807068}",positive,0.9998111128807068,1
+Thales Alenia Space Nabs $94 Million Contract for U.S.-French Ocean Topography Satellite - SpaceNews,"Tue, 06 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLW5hYnMtOTQtbWlsbGlvbi1jb250cmFjdC1mb3ItdS1zLWZyZW5jaC1vY2Vhbi10b3BvZ3JhcGh5LXNhdGVsbGl0ZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — The French space agency, CNES, on Jan. 6 signed the first of a planned three contracts for the U.S.-French Surface Water and Ocean Topography (SWOT) satellite, a mission in which the two governments plan to invest some $1.1 billion for a launch in 2020.
+
+The first contract, valued at 78 million euros ($94 million), was awarded to Thales Alenia Space of France for development of the SWOT satellite platform and its integration. Other contracts will follow for specific SWOT instruments.
+
+SWOT represents a large leap in capacity and coverage over the current series of Jason ocean-altimetry satellites developed by CNES and NASA and, more recently, with funding from the U.S. and European meteorological agencies — the U.S. National Oceanic and Atmospheric Administration and the 30-nation Eumetsat of Darmstadt, Germany.
+
+The Jason-2 satellite currently in orbit, and past its contracted service life, is the latest in the series, with Jason-3’s launch delayed to mid-2015 in part because of delays in NASA’s certification of the Space Exploration Technologies Corp. Falcon 9 rocket that will carry Jason-3, CNES officials said.
+
+In response to SpaceNews inquiries, NASA issued a statement saying its certification of Falcon 9 for Category 2 satellites — including Jason-3 — began in July 2012 and is not yet finished, but should be completed in time for a launch in May or June.
+
+“The launch of Jason-3 will most likely be delayed due to a combination of SpaceX CRS-6 [space station cargo supply] acceleration in the production queue for the launch vehicle, range availability and to ensure readiness to launch the mission,” NASA said in its statement. “Jason-3’s launch is currently scheduled for late March 2015, but is likely to move to the late May or early June timeframe, pending Western Range coordination.
+
+“NASA’s Launch Services Program (LSP) awarded a launch service task order (LSTO) for Jason-3 to SpaceX in July 2012. SpaceX has been working to achieve a Category 2 [medium risk] certification with LSP since the LSTO was awarded. SpaceX has made tremendous progress toward achieving Category 2 certification with NASA with the majority of the items having been successfully completed; however, there are a few open items that SpaceX is working on in order to fully complete their certification effort. No “end date” has been set, but the certification is on track for a NASA decision prior to the Jason-3 launch.”
+
+NASA approves Falcon 9 (above) launches of cargo to the international space station, but a higher-level certification is needed for more valuable science and other satellites. Credit: SpaceX
+
+NASA approves Falcon 9 launches of cargo to the international space station, but a higher-level certification is needed for more valuable science and other satellites. The U.S. Air Force is in the final stages of certifying Falcon 9 for U.S. military launches, and both NASA and the U.S. National Reconnaissance Office have coordinated their policies for certifying new rockets with the Air Force.
+
+It was also unclear whether the certification process has been slowed by the use of a recoverable Falcon 9 first stage for the launch. SpaceX is gradually introducing a reusable first stage into Falcon 9 operations. The Falcon 9 will have plenty of capacity remaining beyond what is needed to place the 2,000-kilogram SWOT satellite into its 890-kilometer orbit, making it a logical candidate for a stage-recovery mission.
+
+A fourth Jason satellite, this one built with larger European participation, is being financed with European Commission and European Space Agency funding.
+
+SWOT jumps a generation ahead. Its mission extends beyond precise measurements of ocean levels to include surface water levels in lakes and rivers using wide-swath interferometry from two Ka-band radar antennas, each 5 meters long, deployed at the end of two 5-meter booms extending from the satellite’s core.
+
+NASA is financing about two-thirds of SWOT’s overall budget, which including the ground support network and operations totals about $1.1 billion. NASA is providing the launch vehicle, the Ka-band radar interferometer, a radiometer and a GPS receiver.
+
+The French contribution, totaling more than $300 million, includes a nadir altimeter; the satellite’s platform and satellite assembly, integration and testing; a radio-frequency unit for the U.S.-built interferometer; and an altimeter. The U.K. Space Agency has contributed about 9 million euros to SWOT through CNES and will provide a part of the radar payload.
+
+The Jason-2 satellite currently in orbit, and past its contracted service life, is the latest in the series, with Jason-3’s (above) launch delayed to mid-2015. Credit: Jet Propulsion Laboratory
+
+The satellite will be designed to provide its radar instrument with a stability to within one micron over its 5-meter length to assure high-precision data on water surface levels. It has two solar arrays designed to deliver 2 kilowatts of power to the payload, with a data-transmission speed of 360 megabits per second — compared to 830 kilobits per second for Jason-3.
+
+CNES officials said they persuaded their government to use monies from a French public bond fund called Investments for the Future once they were persuaded that NASA would be able to find the $750 million it needs for SWOT.
+
+A U.S. Government Accountability Office (GAO) report in April said SWOT’s schedule and overall viability was at risk because of France’s difficulty in financing the SWOT nadir altimeter.
+
+CNES and Thales Alenia Space officials said that problem was solved when the French government agreed to boost its SWOT contribution to cover the nadir altimeter, which is similar to the altimeter to fly on Jason-3.
+
+Genevieve Fioraso, France’s minister for space, attended the contract-signing ceremony and said that after spending much of 2014 rounding up financial support in Europe for a next-generation Ariane 6 rocket, her ministry is looking to 2015 as a year when satellites — “where the added value is,” she said — will be a priority for the government.
+
+Thales Alenia Space Chief Executive Jean-Loic Galle said his company has committed to allocating at least 15 percent of the value of its SWOT contract to small and midsized companies, one of the conditions attached to the use of monies coming from the bond fund.","{'label': 'Neutral', 'score': 0.9994220733642578}",neutral,0.9994220733642578,0
+DCNS Loss To Trim Thales Profits €100M - Defense News,"Fri, 23 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9pbmR1c3RyeS8yMDE1LzAxLzIzL2RjbnMtbG9zcy10by10cmltLXRoYWxlcy1wcm9maXRzLWV1cjEwMG0v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — Defense electronics company Thales said Friday it would take a €100 million (US $112 million) hit on 2014 operating profits due to an expected net loss of €300 million at naval shipbuilder DCNS.
+
+Thales holds a 35 percent stake in DCNS, with the government owning 65 percent. DCNS contributed €40 million to Thales' operating profit in 2013.
+
+Expected losses at DCNS stem from a sharp rise in ""costs to complete"" on the Barracuda nuclear attack submarine and other naval programs, and also civil nuclear energy programs, notably the Jules Horowitz research reactor, Thales said in a statement.
+
+The expected €300 million net loss for 2014 at DCNS follows a comprehensive review of the company's programs, Thales said.
+
+Excluding the negative impact from DCNS, Thales said its 2014 results would reflect ""both stable order intake and sales,"" and growth of 5 to 7 percent in earnings before interest and taxes.
+
+Thales expects a ""break-even contribution"" from DCNS in 2015 and a recovery after this year, Chief Financial Officer Pascal Bouchiat of the defense systems company said on a conference call, Reuters reported.
+
+The review of costs and programs follows the appointment last year of Herve Guillou as chairman of the naval shipbuilder.
+
+DCNS has launched a cost-cutting plan to find €100 million of savings this year and will complete in the first half a strategic development program, a DCNS spokesman said.
+
+The high cost on the Barracuda was a cause for concern, and there is a potential for deeper losses on building the submarine, Sash Tusa, analyst at Edison Investment Research, said in a research note.
+
+""We see this as far more worrying: The Barracuda programme (for up to 6 boats) has been stretched out, and deliveries look to stretch from later this decade to the end of the following one,"" the note said.
+
+""Given BAE Systems' well publicized problems (and c.£1bn of charges) with the comparable Astute submarine programme for the UK, we think that the current c.€100-150m of charges that DCNS seems to have taken is likely only a starting point,"" the note said.
+
+DCNS' difficulties seemed to stem from the ""weak French defense budget,"" the note said. ""With spending increases looking inconceivable short-term, the ripple effect could yet impact Thales' Land and Air activities too,"" the note said.
+
+DCNS has appointed three directors in a bid to reorganize the company: Marie-Pierre de Baillencourt will oversee international business, Frank Le Rebeller finances, and Olivier de La Bourdonnaye industry. The company in October named Vincent Martineot-Lagarde as new program director for the Barracuda.
+
+The industrial management team seeks to coordinate research, production and the supply chain, the DCNS spokesman said. The company aims for greater control of the industrial process, international growth and diversification. There are also ambitions for a simpler organization, development of skills and the financial culture.
+
+Email: ptran@defensenews.com.","{'label': 'Negative', 'score': 0.999722421169281}",negative,0.999722421169281,-1
+How Thales of Miletus Changed the World - ZME Science,"Fri, 23 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnptZXNjaWVuY2UuY29tL2ZlYXR1cmUtcG9zdC9oaXN0b3J5LWFuZC1odW1hbml0aWVzL3Blb3BsZS90aGFsZXMtbWlsZXQtY2hhbmdlZC13b3JsZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Facebook
+
+X
+
+LinkedIn
+
+Pinterest
+
+Email
+
+There’s no wonder that Thales of Miletus has been named the first of the Seven Sages of Greece. Throughout his life, he managed to impose a scientific way of thinking in many areas, from mathematics to philosophy. An undisputed scholar, he lived between from 624 to 546 B.C., and made a colossal contribution to mankind’s knowledge. In many ways, you could say that Thales changed the world, but what makes him widely popular are usually the theorems which revolutionized math.
+
+Philosophical ideas
+
+Most of what we know today of Thales’ philosophy comes from Aristotle. Some believe that Thales left no writings whatsoever, but that’s still a matter of debate. Som think he wrote two works: ‘On the Solstice’ and ‘On the Equinox’, but neither of them still exists today.
+
+The very first pre-Socratic philosopher, Thales’ main preoccupation was to define the substance(s) which form the world around us. For this reason, many call him the world’s first scientist. He was among the first to attempt a naturalistic explanations to material phenomena, using a scientific method which doesn’t resort to mystical or mythological explanations.
+
+Thales also had vocal religious views: he believed in one single transcendental God, without a beginning or an end, who expresses itself through other gods. The philosopher’s idea of justice revolved around both the letter of the law and the spirit of the law – both justice and fairness were important to him. His idea of happiness included three major directions: a healthy body, a resourceful soul and a teachable nature.
+
+[Also Read: Meet Islam’s Da Vinci: Al-Biruni, father of geodesy, anthropology, and master of pharmacy]
+
+Among his core ideas, one was especially important. It may seem like common sense today, but it was highly controversial during his life time: the idea that we should expect the same support from our children as we give to our parents.
+
+However, Thales is chiefly known for his achievements in science and math. While meditating on the effects of magnetism and static electricity, he believed that the very power to move things without the mover itself changing was a characteristic of life; in other words, a magnet is also alive, in some way. If so, he believed, there would be no difference whatsoever between the living and the dead – if all things were alive, then these were supposed to have souls or divinities. The conclusion of this argument implied an almost complete removal of mind from substance, which, for the first time, opened the door to a non-divine principle of action. This is an idea philosophers are still working around to this day.
+
+Mathematics
+
+Thales is considered to be one of the most brilliant mathematicians in history. Today, we explicitly attribute five theorems to Thales, and he successfully applied two of them to the solution of practical problems.
+
+Definition :The circle is bisected by its diameter.
+
+:The circle is bisected by its diameter. Proposition : In isosceles triangles the angles at the base equal one another, and, if the equal straight lines are produced further, then the angles under the base equal one another.
+
+: In isosceles triangles the angles at the base equal one another, and, if the equal straight lines are produced further, then the angles under the base equal one another. Proposition : The vertical and opposite angles are equal.
+
+: The vertical and opposite angles are equal. Proposition : Equality of triangles (by two angles and a side)
+
+: Equality of triangles (by two angles and a side) Proposition: The angle in a semi-circle is right angle.
+
+Theories about Earth
+
+Water as the primary principle
+
+Thales’ cosmological dictum claims water is the basic element (the primary principle) in everything. The idea that the entire world derives from water is an example of material monism (roughly similar to Anaximenes’ later idea that everything in the world is composed from air). According to Aristotle, the method by which Thales explained his theory was analyzing the biological principles. In the biological world, there were three things Thales turned to:
+
+all life depends on water – remove the water from a plant and it dies; deprive animals water and they dies; all seeds are themselves nothing but moisture; heat (in the form of sun and moon) is generated out of moisture and kept alive by it.
+
+This last idea was based on the relationship between the heavenly bodies and the oceans.
+
+Thales believed that water was the origin of all things, the substance from which everything emerges and to which all things will return; moreover, he believed that things are ultimately water. Aristotle explains in ‘De Caelo’ that ‘[t]his [belief is the most ancient explanation which has come down to us, and is attributed to Thales of Miletus’.
+
+Earth is spherical
+
+It is believed that Thales was the first one to claim that Earth has a spherical form, although there is no testimony to support this. In his work, Aristotle mentioned some of Thales’ ideas, but somehow he missed this one, so there is no actual proof of this geographic philosophy.
+
+Earthquake theory
+
+What we know of this theory is that, first of all, it’s very consistent with the hypothesis that Earth floats on water. This principle was applied to explain the nature of earthquakes, too. Seneca attributed to Thales the following theory: on the occasions when the earth experiences an earthquake, it is actually fluctuating because of the roughness of oceans. This explanation, albeit wrong, is the first one to explain a natural phenomenon without invoking any supernatural or mystical entities.
+
+Astronomy
+
+the eclipse
+
+Thales is also believed to anticipated an eclipse of the sun – the one which occurred on 28th of May 585 B.C, according to Herodotus. Eudemus also mentioned Thales as being the first to discover the ‘eclipse of the sun and that its period with respect to the solstices is not always constant’.
+
+the solstice
+
+Diogenes Laertius mentioned that Thales ‘was the first to determine the sun’s course from solstice to solstice’, and also acknowledged the Astronomy of Eudemus as his source. It’s unknown how Thales got to the conclusion of solstices as a recurrent phenomenon, but Flavius Philostratus writes that: ‘[t]hales observed the heavenly bodies from Mount Mycale, which was close to his home’.
+
+the seasons
+
+Diogenes Laertius has written that ‘He (Thales) is said to have discovered the seasons of the year and divided it into 365 days’. The explanation for this is purely reasonable. Because of the determination of solstices and equinoxes, it’s only fair to presume that Thales could have also known the length of a solar year. Of course, it’s far-fetched to say that he discovered the seasons per se, given that the Egyptians have known about them for millenniums. But thanks to his understanding of the solar year, he may have related the information, thus being the first one to scientifically explain the seasons as we know them.
+
+Was this helpful? Thanks for your feedback!","{'label': 'Neutral', 'score': 0.9999746084213257}",neutral,0.9999746084213257,0
+UFC 183 results: Thales Leites submits Tim Boetsch with an arm-triangle choke - MMAmania.com - MMA Mania,"Sat, 31 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1tYW1hbmlhLmNvbS8yMDE1LzEvMzEvNzk1ODE0My91ZmMtMTgzLXJlc3VsdHMtdGhhbGVzLWxlaXRlcy1zdWJtaXRzLXRpbS1ib2V0c2NoLWFybS10cmlhbmdsZS1jaG9rZS1tbWHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Since returning to Ultimate Fighting Championship (UFC) in Aug. 2013, Thales Leites has ripped off four straight victories inside the Octagon. The former Middleweight title challenger was eager to make it five in a row when he clashed with Tim Boetsch at UFC 183, which took place tonight (Jan. 31, 2015) inside MGM Grand Garden Arena in Las Vegas, Nevada.
+
+The Brazilian jiu-jitsu ace did just that.
+
+Boetsch, who packs serious power, opened up the action with a combination as Leites tried to close the distance. In the clinch, Boetsch backed him off with an uppercut and was then poked in the eye. After a stop in the action because of an eye poke, Boetsch went head-hunting but Leites countered with a sweet shot that stunted his charge.
+
+As both fighters made it back to the center of the Octagon, Boetsch landed a big uppercut, but Leites absorbed it surprisingly well. Leites seems content to keep it standing, staying in the pocket and landing well -- he striking has improved markedly over the years.
+
+With one minute remaining in the round, Leites attempted a takedown, but Boetsch defended it easily. Thirty seconds to go, Boetsch lands several shots that makes Leites retreat and, in the process, he falls to the ground as ""Barbarian"" swarms for a possible finish.
+
+Leites, not noticeably dazed, was saved by the bell.
+
+To start the second stanza, Leites opened with a leg kick and then landed a left hook in an exchange shortly thereafter. Boetsch landed a nice straight right that backed up Leites, but he responded with a punch off the cage. Midway through the round, the fighters exchange haymakers in the center of the cage and Leites gets dropped. Boetsch couldn't capitalize and Leites ultimately landed on top and worked for an arm-triangle choke.
+
+Boetsch, somehow, was able to escape, but Leites secured full mount. And before Boetsch could even think about how to try and escape, Leites was already angling for another arm-triangle choke. This one, though, he wasn't going to let slip through his grasp as he cranked it counter clockwise and put Boetsch to sleep in seconds.
+
+Nice submission win for Leites, who ate several big shots and was very swollen post-fight.
+
+For complete UFC 183: ""Silva vs. Diaz"" results, including play-by-play updates, click here.","{'label': 'Neutral', 'score': 0.9998451471328735}",neutral,0.9998451471328735,0
+The Downes Side: UFC 183 Predictions - UFC,"Thu, 29 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnVmYy5jb20vbmV3cy9kb3duZXMtc2lkZS11ZmMtMTgzLXByZWRpY3Rpb25zP2xhbmd1YWdlX2NvbnRlbnRfZW50aXR5PWVu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+Don’t be scared boys and girls, it’s time for another edition of the Downes Side! Whether you’re from Stockton, Stockholm or lost a lot of money in the stock exchange, the only thing you have to fear is fear itself (and zombie cats).
+
+Luckily, the one thing you won’t have to worry about is if there will be a great night of fights this weekend. UFC 183 comes live to you from the MGM Garden Arena in Las Vegas, Nevada. In the main event of the night, Anderson Silva returns from his catastrophic leg injury to take on Nick Diaz. In the co-main event of the evening, Tyron “The Chosen One” Woodley and Kelvin Gastelum battle for a spot among the welterweight elite. Don’t forget to check under your bed, it’s fight time!
+
+JORDAN MEIN VS. THIAGO ALVES
+
+We open the main card in the welterweight division with Jordan Mein and Thiago Alves. A Strikeforce transplant, Jordan “Young Gun” Mein has lived up to his potential with two straight wins over Hernani Perpetuo and Mike Pyle. A skilled kickboxer, 16 of his career wins have come via KO. Another powerful striker, Thiago “Pitbull” Alves returned from a long layoff to edge out Seth Baczynski last April.
+
+The most evenly matched fight on the card, this is the true definition of a toss-up. Well...besides actually tossing up a coin, but you get the point. Mein strings his combinations together better, but Alves has the pure power advantage. Mein foolishly decided to stand toe-to-toe with Matt Brown a couple years ago. The same hubris here could wind up with the same result - a TKO loss. Much like the time Harry tried licking frost off the ski lift, I’d like to think that Mein has learned his lesson. He won’t get into a firefight, he’ll keep his distance and work his way to a unanimous decision win.
+
+THALES LEITES VS. TIM BOETSCH
+
+We move up to middleweight for Thales Leites and Tim Boetsch. Undefeated since his return to the UFC, the #11 ranked Leites gave Francis Carmont the first TKO loss of his career in over a decade his last time out. After one of the most successful barbarian winning streaks since Attila the Hun, Tim Boetsch has lost three of his last five fights.
+
+Once limited to simple grappler status, Thales Leites continues to show off his improved striking. He showcased his excellent sense of distance and finishing power against Carmont his last time out. Especially after watching that last performance, I fail to see how Boetsch pulls this off. If the Barbarian can work his way on the inside, he may have a chance, but that’s as likely as another rise of the Visigoths. Leites dodges Boetsch’s aggressiveness and counter punches his way to a second round TKO.
+
+JOE LAUZON VS. AL IAQUINTA
+
+We drop to lightweight for Joe Lauzon and Al Iaquinta. Rarely in a boring fight, Joe Lauzon worked his way through one of the rougher patches of his career to earn two straight wins over Mac Danzig and Michael Chiesa. Always willing to scrap, 18 of his career wins have come via submission. A veteran of season 15 of The Ultimate Fighter, “Raging” Al Iaquinta has used his boxing skills en route to five career KOs.
+
+Lauzon is his biggest enemy in this fight. Sometimes his desire to put on an entertaining fight and have fun trumps his desire to win. Iaquinta primarily relies on his hands, but he can do damage if he connects with his power punches. As long as Lauzon shows a bit of restraint, he’ll bring the fight to the ground and show his dominance. All three of Iaquinta’s losses have come by submission and the fourth comes here. Lauzon by submission round one.
+
+TYRON WOODLEY VS. KELVIN GASTELUM
+
+We return to welterweight with Tyron Woodley and Kelvin Gastelum. After having his shot at the title disappear with a loss to Rory MacDonald, Woodley returned strong with a first round TKO win over Dong Hyun Kim. A Division I wrestler at the University of Missouri, Woodley also has the highest knockdown rate in the division. Winner of season 17 of TUF, the 23-year-old Gastelum tries to keep the momentum going after a first-round submission win over Jake Ellenberger at UFC 180.
+
+Both of these fighters have strong grappling bases, but they aren’t afraid to throw strikes. Woodley especially likes to attack from the clinch. Given that he defends takedowns at a 93.67% rate, he shouldn’t worry about giving up position. Gastelum may have the greater work rate, but Woodley’s strikes have a greater effect. Gastelum has a long future in the 170-pound division, but this is too much for the young man. “The Chosen One” picks off the young upstart with a first round TKO.
+
+ANDERSON SILVA VS. NICK DIAZ
+
+Time for the main event! When talking about Anderson Silva, you have to use more superlatives than an episode of School House Rock. He has the most knockouts, highest striking accuracy, the most total finishes and is considered by many to be the greatest mixed martial artist of all time. He steps back into the Octagon for the first time since his horrific leg injury against Chris Weidman at UFC 168. When talking about Nick Diaz, what can you say? You may disagree with the way he carries himself and all that silly “professionalism” stuff, but the man knows how to fight.
+
+People get so caught up in Nick Diaz’s actions outside the cage that they forget about the things he’s capable of inside it. OH NO! HE MISSED OPEN WORKOUTS! WHAT DOES THAT MEAN? You know what it means? Absolutely nothing. He’s still going to go out there and fight like he has for over 13 years and 37 professional bouts. Now, once he steps into that cage, he has a tall order ahead of him. He rarely shows concern for absorbing low kicks, and Anderson Silva won’t show any hesitation to kick him regardless of what happened the last time around. Silva attacks the lower body and strikes his way to a decision win.
+
+That wraps up another soothing edition of the Downes Side. Follow me on Twitter @dannyboydownes. Also, don’t forget to leave your own thoughts, predictions, fears, doubts and suspicions on the page here. I’m with Nick Diaz, I don’t think Bill Belichick is telling us the truth.","{'label': 'Neutral', 'score': 0.9995299577713013}",neutral,0.9995299577713013,0
+Qatar Airways makes split inflight Internet decision in face of delay - Runway Girl Network,"Wed, 21 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTUvMDEvcWF0YXItYWlyd2F5cy1tYWtlcy1zcGxpdC1pbmZsaWdodC1pbnRlcm5ldC1kZWNpc2lvbi1pbi1mYWNlLW9mLWRlbGF5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"DOHA: It may seem a little ironic but it now appears likely that Qatar Airways’ new-design twinjets will be the last to be fitted with broadband inflight connectivity, as the carrier has confirmed its intent to adopt Inmarsat’s Global Xpress Ka-band service for its Boeing 787s and Airbus A350 XWBs, while expanding its equipage of Panasonic Avionics’ eXConnect Ku-band solution on other long-haul types in its fleet.
+
+We’ve known since March that Qatar Airways has been retrofiting a sub-fleet of Airbus A330-200s with eXConnect. In a recent closed roundtable interview in Doha, the airline’s CEO, His Excellency Akbar Al Baker, revealed to RGN that his designs on broadband go far beyond this small group of jets. However it does seem that the last aircraft in the Qatar Airways fleet to get faster connectivity will be the most modern.
+
+“We have now some of our A330s also fitted [with eXConnect],” he said. “The 777 will have Panasonic and the A330 will have Panasonic, but the 787 and the A350 will have to rely on the development of the [Inmarsat Global Xpress product] because they are not compatible.” There is a potential twist to the story, however, as discussed in greater detail on RGN Premium.
+
+Fellow Gulf carriers, Etihad Airways and Emirates, have also thrown Ku connectivity business at Panasonic in part because Panasonic is spending beaucoup bucks to offer a here-and-now global broadband solution; is adding what it characterizes as “massive capacity” at areas of the world that need it; and has the infrastructure in place to provide global support. All three carriers are also customers of Panasonic for embedded IFE, though Qatar is rolling out Thales IFE on its 787s and A350s.
+
+Qatar’s Boeing 787s and new A350 aircraft are line-fitted with Inmarsat SwiftBroadband (L-band spectrum); connectivity hardware is provided by Thales, and OnAir acts as service provider. However, Al Baker suggests that web-hungry passengers flying on these connected aircraft are not always satisfied with the speed. “To be honest, the Wi-Fi connectivity that is available on the airplane is not that high-speed and the capacity is not [great] … sometimes, somebody may feel that it is a little bit slow because so many people are using it.”
+
+While customers like Qatar Airways – already flying with SwiftBroadband from Thales and OnAir – are first in line for a quick upgrade to Inmarsat’s Global Xpress Ka-band service when it goes live, the program is delayed. Although one of Inmarsat’s I-5 Ka-band satellites is already in orbit, engine failure during the May 2014 launch of the Russian Proton rocket has stalled the program, and Inmarsat had been counting on Proton to ferry the remaining two satellites into space, now planned for this year. The program delay is material; consider, for instance, that Thales previously talked about Global Xpress being available in 2014.
+
+This means that in the meantime, passengers flying on Qatar’s newest babies, the 787 and the A350, will simply need to deal with slower download speeds. Al Baker has no intention of pulling out the Thales/OnAir equipment, nor does he seem thrilled with the idea of installing Panasonic hardware in addition to or instead of what he already has on these jets.
+
+OnAir recently released a a statement touting the benefits if Qatar’s SwiftBroadband offering onboard the A350. Notably in the statement, the deadline for Global Express installation is listed as 2016.
+
+Separately, Al Baker confirmed that Qatar Airways will adopt a black box streaming solution in the wake of MH370 and QZ8501. While he didn’t provide details about the airline’s partner, or choice of solution, it would be logical to suggest that Inmarsat’s ‘black box in a cloud’ service may be under consideration for the business. SwiftBroadband, which is poised to be cleared for safety services, could easily support such an offering.","{'label': 'Neutral', 'score': 0.999901294708252}",neutral,0.999901294708252,0
+Italian Commitment to Next-gen Radar Satellites in Time to Avert Gap - SpaceNews,"Wed, 21 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9pdGFsaWFuLWNvbW1pdG1lbnQtdG8tbmV4dC1nZW4tcmFkYXItc2F0ZWxsaXRlcy1pbi10aW1lLXRvLWF2ZXJ0LWdhcC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — The last-minute Italian government allocation of funding for a second-generation Cosmo-SkyMed dual-use radar Earth observation program came in time to permit prime contractor Thales Alenia Space Italy to assure the satellites’ launches in 2017 and 2018, Thales Alenia Space officials said.
+
+Ending a months-long drama that included pro-space-investment demonstrations outside Italian government offices in December, the government approved in late-December an amendment to its spending package that will cover the completion of two Cosmo-SkyMed satellites, a ground-segment upgrade and the satellites’ launch, company officials said.
+
+Elisio Prette. Credit: Telespazio
+
+“We owe a debt of thanks to the Italian government, and especially to ASI [the Italian Space Agency], which applied the necessary pressure,” Thales Alenia Space Italy Chief Executive Elisio Prette said in a Jan. 16 interview. “We understand this required an effort given the government’s recent support for the ExoMars mission.”
+
+ASI and the Italian Defense Ministry are joint owners of the new-generation Cosmo-SkyMed system, which for now comprises just two satellites. Planning for the first-generation system, whose four satellites were launched between June 2007 and November 2010, assumed that each satellite would operate for at least five years. The satellites include a submetric-ground-resolution mode for military use only, and several observing modes for civil and commercial use, with the sharpest at 1-meter resolution.
+
+All four satellites, in near-polar orbit at 619 kilometers in altitude, are reported in good health. But the two that entered service in 2007 and 2008 are expected to need replacement in 2017 and 2018 to assure data continuity, which is why ASI and Thales Alenia Space had been pressing the government for a financial commitment in 2014.
+
+An August tranche of 66.6 million euros ($87 million) assured continued work through the spring, and no longer. More than 150 million euros has already been committed to Cosmo-SkyMed, which the government estimated will cost 500 million euros to complete, including launch.
+
+In a statement, ASI said the new government commitment will allow ASI to pay 30 million euros per year between 2015 and 2018, with additional funds set aside to provide for the launch. Each satellite is expected to weigh 2,200 kilograms at launch and to operate for seven years.
+
+Sandro Fagioli, Thales Alenia Space’s Cosmo-SkyMed program manager, said the two second-generation satellites will feature control momentum gyros to give the satellites greater in-orbit maneuverability without sacrificing onboard fuel. The gyros, he said, are a new development at the company and will fly for the first time on Cosmo-SkyMed. Fagioli said that, as a backup, the satellites will also carry momentum wheels.
+
+Fagioli said the current satellites’ onboard electronics and fuel supply have permitted them to operate longer than expected, giving the government room to delay the launch of the second-generation system — which was always in the government’s strategic plan — until 2017, or 10 years after the launch of the first model.
+
+Thales Alenia Space is also a major supplier for Argentina’s two Saocom radar observation satellites. Saocom satellites’ radars operate in L-band, while Cosmo-SkyMed is in X-band.
+
+The Italian government had its hands full of planned space commitments in December. At a meeting of European Space Agency governments in Luxembourg, Italy committed to raising its annual contributions to the international space station, to funding a 50 percent-plus stake in upgrades of Europe’s Italian-led Vega rocket, and to assuring Italian leadership of Europe’s ExoMars mission to Mars.
+
+ASI said the Cosmo-SkyMed work will provide employment for nearly 400 engineers and technicians at Thales Alenia Space’s facilities in Rome, L’Aquila and Turin.
+
+For the Italian Defense Ministry, Cosmo-SkyMed is part of a bilateral agreement with the French Defense Ministry in which Italy gives France radar data and France gives Italy products from France’s optical reconnaissance satellites.
+
+ASI President Roberto Battiston, in a statement, said Cosmo-SkyMed is “a key national strategic asset” for territorial monitoring, civil protection and national security.
+
+[spacenews-ad]","{'label': 'Neutral', 'score': 0.9999912977218628}",neutral,0.9999912977218628,0
+Biomimetics: taking cues from nature - Thales,"Thu, 08 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvY2FzZS1zdHVkeS9iaW9taW1ldGljcy10YWtpbmctY3Vlcy1uYXR1cmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Biomimetics: taking cues from nature Share this article
+
+
+
+LinkedIn
+
+How can a butterfly’s wings help drive down the cost of transmitting information across the Internet? Or a burdock burr lead to a revolutionary new fastener? As scientists and engineers around the world have known for some time: the natural world is still the best source for inspiration.
+
+[This article is an extract from ""Innovations #3""]
+
+The iridescent wings of the butterfly Morpho Rhetenor have puzzled scientists for years. How do they achieve such an intense blue colour? Master painters such as Giotto had to crush the precious stone lapis-lazuli to obtain the pigment. But the butterflies can’t crush stones to cover themselves. So how do they do it?
+
+Under an electron microscope, scientists in the Thin Film Photonics Group at the University of Exeter discovered that the butterfly’s wings,reveal tiny comb-like structures, about the same size as the wavelength of light itself. This allows them to interact with light very strongly indeed ,and gives them their iridescent blue colouring.
+
+A similar iridescence was found on some marine worms and has been traced to a series of microscopic holes in the creature’s body hair.
+
+Now, a similar miniature mesh has been created artificially by Alfredo de Rossi of Thales Research & Technology Physics group, to control light in a very specific and potentially very useful way: “We are not the first to use light to control light, but we are attempting to do it in a smarter way,” he explains.
+
+The mesh confines light to a tiny volume, producing an extremely high density of light energy. The concentration generates an electrical field so strong that it can then be used to control other beams of light.
+
+“In a transistor, you have three terminals. The current on one terminal is used to control the flow of current across the other two,” de Rossi explains. “We have found an approach to do this with light. We don’t use electricity except to power up the equipment. All signals are carried on light.”
+
+Removing much of the need for electricity gives this technology the power to transform communications, which is currently expanding at an unsustainable pace. “Communication technology is consuming more energy due to the dramatic rise in communication traffic.
+
+According to many who study power consumption statistics in the telecoms domain, if this carries on, we will soon have to use all the electrical power that we produce just powering the Internet. Clearly this is impossible,” says de Rossi. The new systems that he and colleagues are pursuing use just milliwatts of power, offering enormous potential for the future of our increasingly interconnected world.
+
+The eyes have it
+
+This “biomimetic” approach to solving a pressing problem, by emulating aspects and systems from nature, seems to be inspiring a raft of new projects around the world and producing remarkable results.
+
+Researcher Jean-François Goudou and his team at Thales are two years into a project aimed at recreating human vision. It may appear that cameras, with their lens and detectors, already offer an acceptable imitation but this is not so, says Goudou. The eye is far more complicated.
+
+“The retina is not only a photon collector, it also processes the data. It does not provide an image to the brain but transmits information about the spatial and temporal features of what you are seeing,” says Goudou.
+
+The retina’s processing includes de-noising, contour recognition and orientation, as well as movement recognition. This is much more useful to a data-processing device such as the brain (or a computer) than an image which must first be “scanned” for its details before it can be processed.
+
+Another difference is that the pixels of a camera see the same field of view at the same resolution, whereas the eye has a very high resolution area in the centre, but less detail on the periphery.
+
+Goudou believes that a successful biomimetic system may be another few years away but, when it comes, it will make computer vision a much more efficient thing. It has obvious applications in robotics, which need to understand their surroundings quickly to be as responsive as possible.
+
+“This would allow a robot’s eyes to move very quickly to objects of interest in their field of view,” says Goudou. “The robots would also receive motion information about things in their environment.”
+
+This would be a step towards the ultimate biomimetic goal of producing artificial animals. Consider the exploration of other worlds: at the moment, rovers trundle across distant planets, sending images of their surroundings back to “drivers” on Earth, who help them navigate the alien landscape.
+
+This is a long-winded process and the use of wheels severely restricts where the rovers can go. Even the most modern rover, such as NASA’s Mars Curiosity, is terrible at coping with unexpected situations. What are the alternatives?
+
+“Talk to any biologist and they will tell you that the most impressive and adaptive systems are humans and animals. To survive, animals are capable of displaying astonishing adaptive capabilities,” says Christophe Meyer, senior expert, director of research and advanced studies, secure communication and information systems at Thales.
+
+What if you could design your rover as an artificial animal – something referred to as an “animat” – that can walk or crawl across any surface, recognising hazards and avoiding them? These could also be used on Earth in situations that are too dangerous for humans.
+
+Walk this way
+
+Meyer’s interest in biomimetics began early. His father worked with the pioneering MIT researcher Rodney Brooks, who set about developing adaptive robots. Meyer remembers one particular robot that was engineered to learn how to walk: “This robot built its own programme, allowing it to learn how to cover the largest area in the smallest amount of time,” says Meyer. The software was designed to learn how best to achieve its objective, rather than just slavishly following a set of commands – when one of the robots had a leg removed to simulate an accident, it relearned how to move. It may not have been as efficient, but it learned how to make the best of what it now had and was able to continue performing its mission. As well as the hardware biomimicry – for example, legs rather than wheels – there must also be biomimicry in the software. This leads to a new approach in the field of artificial intelligence.
+
+“In the old days, it was all about beating the Turing test,” says Meyer. This was a concept introduced by Alan Turing in 1950 in a paper entitled Computing Machinery and Intelligence. He posed the question, “Can machines think?” and proposed a test by which a person holds two conversations via computer screen and keyboard with participants that cannot be seen. One participant is a computer, one is a human. The computer passes the Turing test if the human asking the questions cannot determine which of the participants is human.
+
+Modern artificial intelligence does away with this lofty goal and simply concentrates on giving the machine enough smarts to achieve a goal. It doesn’t tell the machine how to do so, instead it lets the machine work out the details for itself based on what it can sense of its environment. In other words, it makes it up as it goes along.
+
+Meyer is in charge of Thales’s adaptive systems and biomimetics simulation project, which uses biomimetic software to simulate the behaviour of human beings in virtual environments. The SE-Star software allows building designs to be tested for their efficiency, safely and user friendliness before they are built.
+
+The project began five years ago when Meyer realised that human irrationality and behaviour in strange situations has been studied sufficiently well that it could be simulated on a computer.
+
+“We can now use the system to test critical infrastructure design before building the real thing. Then we populate this virtual environment with virtual people who behave realistically and see what happens,” he says. “For example, we can put a fire or smoke anywhere we want in the environment and see how people behave.”
+
+They can then change the placement of the exits and run the simulation again to see if more people can get out quickly.
+
+The same software tools can also be used for other applications.
+
+The first is to train people who use computer screens to monitor the movement of people, such as CCTV operators of crowd management systems.
+
+Currently, operators are trained by sitting with colleagues and watching daily operations but, to build expertise, they need to learn how to handle difficult situations. Simulations of real human behaviour offer a clear advantage.
+
+“We call this embedded training because you use your operational system but instead of being connected to reality, you are connected to a biomimetic simulation,” says Meyer.
+
+It is rather like pilots in flight simulators who practise emergency procedures, even though most will never encounter such a situation in real life.
+
+Another application in development is decision support. Simulation software can be used to test possible solutions before they are implemented.
+
+It works by taking a snapshot of a real-world situation – say the number of people in an unexpectedly busy airport – and transferring this to the simulation, where possible scenarios can be tested quickly.
+
+For example, additional X-ray machines could be opened or closed, staff could be moved from one operation to another.
+
+“We do not speak about automatic decision making because the system cannot say what will happen, only what could happen,” says Meyer. Nevertheless, it could help operators make good real-time decisions.
+
+“Taking inspiration from the microscopic world, artificial immune systems are now developed in my team by Fabien Flacher to provide new adaptive cyber security functions, able to detect complex intrusions in critical information systems as well as to dynamically follow the evolution of these systems,” adds Meyer.
+
+Biomimetics is a broad, sweeping discipline – from the smallest component to the largest system, answers can be found in nature. All engineers and technologists need to do is look for them.
+
+After all, nature has had four billion years of evolution to solve all sorts of problems.
+
+“This is just Darwinism speeded up,” says Meyer. As the old saying goes, imitation is the sincerest form of flattery – and Mother Nature should feel very flattered indeed.
+
+The heart of biomimetics
+
+Biomimetics transforms nature’s solutions into technology. Although its origins can be traced to Leonardo da Vinci’s drawings of bird-like wings designed to allow humans to fly, it was transformed into an academic field during the 1950s by American scientist Otto Schmitt. He coined the term as part of his doctorate, in which he designed an electrical circuit known as a “Schmitt trigger”, which uses feedback to convert an analogue electrical input signal into digital output. Schmitt was inspired by the way a neural impulse moves through squid nerves. Biomimetics transforms nature’s solutions into technology. Although its origins can be traced to Leonardo da Vinci’s drawings of bird-like wings designed to allow humans to fly, it was transformed into an academic field during the 1950s by American scientist Otto Schmitt. He coined the term as part of his doctorate, in which he designed an electrical circuit known as a “Schmitt trigger”, which uses feedback to convert an analogue electrical input signal into digital output. Schmitt was inspired by the way a neural impulse moves through squid nerves.","{'label': 'Neutral', 'score': 0.9997091889381409}",neutral,0.9997091889381409,0
+Oft-delayed NAIT LRT line set to open this spring - CBC.ca,"Wed, 21 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9vZnQtZGVsYXllZC1uYWl0LWxydC1saW5lLXNldC10by1vcGVuLXRoaXMtc3ByaW5nLTEuMjkyNzA2MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS4yOTI3MDYw?oc=5&hl=en-US&gl=US&ceid=US:en,"City officials say they are “cautiously optimistic” the long-delayed Metro LRT line will open in May 2015.
+
+The line, which will connect NAIT with Churchill Station, was originally slated to open in spring 2014, but was delayed six times due to problems integrating the line’s signalling with the existing LRT system.
+
+“Without question these delays are unacceptable to city council,” Mayor Don Iveson said.
+
+“We will be doing everything within our power to hold accountable those responsible in due course.”
+
+The mayor said the spring opening is still only a best case scenario, but he’s glad the end is in sight.
+
+The Metro Line links NAIT with Churchill LRT Station. (City of Edmonton) ​The technology at the heart of the issue — the Communication Based Train Control (CBTC) — allows LRT train to detect how close they are to each other, with a centralized master control in charge. Once operational, the CBTC technology should allow for more frequent train service.
+
+Before the project was handed over to the signalling contractor, Thales, it was ahead of schedule. However, the company had problems integrating their technology with the existing LRT software, which put the project behind by more than year.
+
+“These complexities, nobody could predict them early on in the project,” Thales vice-president Mario Peloquin said.
+
+To avoid yet more delays, the company must finish testing the system by March 23, 2015. Once Thales Group deems it safe, the city will be able to open the line in another four to six weeks.
+
+""This handover from Thales is a critical milestone for the project. It really determines the start of public services of the metro line,” Transportation services general manager Dorian Wandzura said.
+
+The city is holding back almost half of the company’s $55 million fee until the work is complete.
+
+The line will serve the areas around the Royal Alexandra Hospital, Kingsway Mall and NAIT.","{'label': 'Neutral', 'score': 0.9912236928939819}",neutral,0.9912236928939819,0
+Space by the Numbers: 117 - Thales,"Tue, 27 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9zcGFjZS1udW1iZXJzLTExN9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Space by the Numbers: 117 Share this article
+
+
+
+LinkedIn
+
+117: the number of satellites ordered from Thales Alenia Space for three telecom constellations in low or medium Earth orbit: Globalstar (24 second-generation satellites), O3b (12 satellites to date), Iridium NEXT (81 satellites).
+
+
+
+117 satellites, 3 constellations, 1 prime contractor: Thales Alenia Space
+
+With a total of 117 satellites ordered to date, Thales Alenia Space is the world leader in telecommunications constellations, a position that was recently bolstered with the successful launch of the third batch of O3b satellites on December 18, 2014. The company O3b Networks launched the O3b program to reduce the digital divide, by providing broadband telecom services to emerging markets in Asia, Africa and the Middle East. Thales Alenia Space built the 12 satellites in the constellation, now operational in orbit.
+
+
+
+117 satellites, 3 constellations, 1 platform: EliTeBUS
+
+
+
+© Iridium NEXT
+
+Designed by Thales Alenia Space to handle payloads exceeding 500 kg, with 2,000 watts of power, the EliTeBUS platform, validated in orbit, is easily adaptable to a wide variety of missions, including clusters of special satellites or constellations in low or medium orbit. Thales Alenia Space capitalized on its expertise in constellations to offer EliTeBUS, a high-performance, agile and flexible platform which is extremely cost competitive.
+
+
+
+© Globalstar Second Generation
+
+Stay tuned to Thales Alenia Space for our next episode of ""Space by the Numbers"".","{'label': 'Positive', 'score': 0.9989225268363953}",positive,0.9989225268363953,1
+ATO makes Indian debut in Hyderabad - International Railway Journal,"Tue, 06 Jan 2015 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9zaWduYWxsaW5nL2F0by1tYWtlcy1pbmRpYW4tZGVidXQtaW4taHlkZXJhYmFkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales was awarded a contract in 2012 to install its SelTrac CBTC system on the first phase of the network, which comprises three lines totalling 72km with 66 stations.
+
+Commercial services are due to begin on the initial section of Line 3 in March.
+
+A full description of the Hyderabad metro project can be viewed here.","{'label': 'Neutral', 'score': 0.9999927282333374}",neutral,0.9999927282333374,0

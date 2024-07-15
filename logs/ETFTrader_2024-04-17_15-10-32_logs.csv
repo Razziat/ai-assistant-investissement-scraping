@@ -1,0 +1,46 @@
+2024-04-17 15:10:32,121: asyncio: INFO: [ETFTrader] Executing the initialize lifecycle method
+2024-04-17 15:10:35,817: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 15:10:35,826: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 15:10:35,826: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 15:10:35,826: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 15:10:35,826: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:10:35[0m
+2024-04-17 15:10:35,842: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:10:37,182: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:10:42,944: asyncio: ERROR: [ETFTrader] 'REST' object has no attribute 'get_barset'
+2024-04-17 15:10:42,960: asyncio: ERROR: [ETFTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 79, in on_trading_iteration
+    macd_df, rsi_df = self.calculate_indicators()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 63, in calculate_indicators
+    prices = self.get_price_history(self.symbol, "1d", "2m")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 56, in get_price_history
+    barset = self.api.get_barset(symbol, timeframe, limit=time_period)
+             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'REST' object has no attribute 'get_barset'. Did you mean: 'get_asset'?
+
+2024-04-17 15:10:42,960: asyncio: INFO: [ETFTrader] Executing the on_bot_crash event method
+2024-04-17 15:10:42,960: root: INFO: Backtesting finished
+2024-04-17 15:10:43,440: asyncio: WARNING: [ETFTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 15:10:43,580: asyncio: WARNING: [ETFTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 15:10:43,580: backtest_stats: INFO: Backtest took 0:00:11.459437 for a speed of 0.000

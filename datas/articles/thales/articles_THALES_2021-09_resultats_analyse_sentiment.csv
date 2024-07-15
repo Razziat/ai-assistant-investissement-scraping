@@ -1,0 +1,1144 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Wearable payment devices (for banks & manufacturers) - Thales,"Wed, 15 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2JhbmtpbmctcGF5bWVudC9jYXJkcy9jb250YWN0bGVzcy93ZWFyYWJsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"• As part of the collaboration, Thales provides security and connectivity technologies (certified Secure Element along with its antenna), embedded into the wearables by Tappy Technologies. • The innovation offers Axis customers smooth and secure transaction, delivering...","{'label': 'Positive', 'score': 0.9999853372573853}",positive,0.9999853372573853,1
+Thales-led industry group moves to boost Europe's undersea-warfare chops - Defense News,"Tue, 14 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5kZWZlbnNlbmV3cy5jb20vZGlnaXRhbC1zaG93LWRhaWxpZXMvZHNlaS8yMDIxLzA5LzE0L3RoYWxlcy1sZWQtaW5kdXN0cnktZ3JvdXAtbW92ZXMtdG8tYm9vc3QtZXVyb3Blcy11bmRlcnNlYS13YXJmYXJlLWNob3BzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"LONDON — The European Commission has selected a consortium of companies, led by France’s Thales, to equip its navies against high-tech underwater threats including submarines, unmanned systems, and naval mines.
+
+Thales announced Monday that the SEANICE consortium it leads will study, test, prototype and develop new antisubmarine warfare systems for European navies. SEANICE (Anti-Submarine Warfare European Autonomous Networked Innovative and Collaborative Environment) is made up of 16 organizations spanning academia, research-and-development, and industry from six nations: France, Belgium, Italy, Latvia, Spain, and Portugal.
+
+The SEANICE program will run for two years, according to a European Commission document released in June. It was selected to receive funding from the European Defence Industrial Development Program (EDIDP). The total cost of the program is expected to be about 11.5 million euros (about $13.6 million), with a maximum European Union contribution of about 9 million euros ($10.6 million).
+
+The European Union is responsible for 56,000 km (about 34,000 miles) of coastline and 12,000 km (over 7,000 miles) of land borders. As naval operations have evolved in recent decades, the union will look to protect sea lines of communications and other assets from stealthy underwater threats from submarines, torpedoes, and unmanned systems, and provide additional situational awareness and underwater resilience to its own systems, Thales said in a press release.
+
+“Thales has gathered a unique European consortium of tech companies to bring cutting edge innovation on the next generation anti-submarine warfare systems,’’ said Gwendoline Blandin, Thales vice president of underwater systems in the release. “Together with our respective strength and technological advantage we are aiming for a breakthrough in the way European Navies can address existing and future underwater threats.”
+
+France’s industry partners include: Thales; Alkan SAS; ALSEAMAR; Naval Group; RTSYS; and Scalian D.S. Spain is represented by Airbus. Italy is represented by Leonardo; Engineering Ingegneria Informatica; Siel S.R.L.; and WSENSE S.R.L. The Latvian Maritime Academy and Belgium’s Université Libre de Bruxelles are also involved.
+
+Finally, the group is rounded out by Portuguese entities Centro de Engenharia e Desenvolvimento, Empresa de servicos e desenvolvimento de software S.A. (EDISOFT), and GMVIS Skysoft S.A.
+
+The EDIDP effort funding this program was the first grant program targeting joint capability development programs among EU nations, and was a precursor to the European Defence Fund. SEANICE was one of 26 proposals submitted in 2020 that was awarded funding; in total, about 717 proposals were submitted last year, per the commission.
+
+The consortium also received support from a Permanent Structured Cooperation (PESCO) program led by Portugal: the Maritime Unmanned Anti-Submarine System (MUAS).
+
+Vivienne Machi is a reporter based in Stuttgart, Germany, contributing to Defense News' European coverage. She previously reported for National Defense Magazine, Defense Daily, Via Satellite, Foreign Policy and the Dayton Daily News. She was named the Defence Media Awards' best young defense journalist in 2020.","{'label': 'Neutral', 'score': 0.9999943971633911}",neutral,0.9999943971633911,0
+"SEANICE, a consortium led by Thales, prepares European Navies for the future underwater threats - Naval News","Mon, 13 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL25hdmFsLW5ld3MvMjAyMS8wOS9zZWFuaWNlLWEtY29uc29ydGl1bS1sZWQtYnktdGhhbGVzLXByZXBhcmVzLWV1cm9wZWFuLW5hdmllcy1mb3ItdGhlLWZ1dHVyZS11bmRlcndhdGVyLXRocmVhdHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"SEANICE, a consortium led by Thales, prepares European Navies for the future underwater threats SEANICE is one of the 26 projects out of 63 to be selected for funding by the bi-annual European Defence Industrial Development Programme (EDIDP), which aims at enhancing the competitiveness of the EU defence industry. Built on a realistic use-case scenario for antisubmarine warfare within the European Union’s scope of operations, the project will study, design, test, prototype, and set the ground for the delivery of new technologies. SEANICE is at the leading edge of change and technological disruption, including the integration of drones and artificial intelligence functionality.
+
+Thales press release
+
+Over the last two decades, naval operations, especially underwater, have been evolving towards more connected, and complex, surveillance and combat modes. These rely on new types of assets, such as unmanned assets, and distributed sensors and effectors. There are ranges of underwater threats that can be encountered at sea: attack submarines, midget submarines, unmanned vehicles, heavyweight torpedoes, hyperfast torpedoes, and naval mines.
+
+With 56,000KM of coastline and 12,000KM of land borders to secure, the European Union (EU) has to address these threats to protect sea lines of communications in its Member States’ territorial waters and beyond, wherever the EU may decide to intervene to safeguard its legitimate interests.
+
+Consequently, European Navies, whether it be nationally or within an EU task force, have to cope with several new challenges including:
+
+Joint / Coordinated ASW operations
+
+Numerous and stealthy underwater threats
+
+Underwater resilience and situation awareness
+
+Increased number of unmanned and autonomous systems leading to potential saturating attacks
+
+To answer to the future needs of European navies to detect, identify, counter and protect against underwater threats, the European Commission has thus selected SEANICE,. This project contributes to several innovations and aims to bring new concepts already applied in the civilian world into the ASW operational theatre. It tackles the integration of new, unmanned assets, and intelligence and surveillance capabilities, to master today’s complexity of conducting ASW operations. It offers system-of-systems architecture that is compatible with current and future EU/NATO standards.
+
+Drawing on high-skilled, reliable, and specialized partners – who are champions in defence – SEANICE contributes to technological sovereignty and increased interoperability between EU Member- State forces.
+
+This multinational dimension, which teams the best players in antisubmarine warfare, is fundamental to embracing tomorrow’s European antisubmarine warfare capability and effectively pursuing future collaboration and innovation on defence capabilities and programmes. The SEANICE Consortium encompasses a significant number of EU partners, drawn from research, industry, and the SME sector. All partners have been carefully selected to generate, through collaboration, the maximum added value, in terms of meeting the needs of EU navies: Thales, Airbus Defence & Space, Alkan SAS, Alseamar, CEIIA, Edisoft, Engineering Ingegneria Informatica, GMVIS Skysoft, Latvian Maritime Academy, Leonardo SPA, Naval Group SA, RTSYS, Scalian DS, SIEL SRL, Université Libre de Bruxelles, Wsense SRL.
+
+SEANICE’s innovative ideas and concepts will reinforce the resilience and competitiveness of the European defence sector. The project puts in place the foundations that can ensure the European Defence Technological and Industrial Base‘s (EDTIB) evolution in the antisubmarine warfare segment.
+
+Gwendoline Blandin, Vice-president Underwater Systems, Thales:","{'label': 'Neutral', 'score': 0.7773579955101013}",neutral,0.7773579955101013,0
+"Army Orders $345M in Tactical Radios From L3Harris, Collins Aerospace & Thales - GovCon Wire","Mon, 27 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdvdmNvbndpcmUuY29tLzIwMjEvMDkvYXJteS1vcmRlcnMtMzQ1bS1pbi10YWN0aWNhbC1yYWRpb3MtZnJvbS1sM2hhcnJpcy1jb2xsaW5zLWFlcm9zcGFjZS1hbmQtdGhhbGVzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"L3Harris Technologies (NYSE: LHX), Raytheon Technologies‘ (NYSE: RTX) Collins Aerospace business and Thales have been awarded $345.2 million in delivery orders to commence the full-rate production of tactical radio systems for the U.S. Army.
+
+The Army said Friday the orders fall under a pair of multiple-award indefinite-delivery/indefinite-quantity contracts and comes after the 82nd Airborne Division’s First Brigade Combat Team completed a two-year operational experimentation program.
+
+Collins will produce 1,547 Manpack radios and Thales will manufacture 1,096 Leader units, while L3Harris will build 4,818 pieces of both systems.
+
+The service is procuring the two-channel communications devices as part of its Regionally Aligned Readiness and Modernization Model and Tactical Satellite Modernization initiatives.
+
+“Full-rate production of these radios across the force will provide our warfighters with the most advanced radio network capabilities available for enhanced situational awareness, which is critical for mission success,” said Col. Garth Winterle, the project manager for tactical radios.
+
+The 2nd Cavalry Regiment Stryker brigade combat team and other similar groups within the 25th Infantry Division will use the new radios.","{'label': 'Neutral', 'score': 0.9839014410972595}",neutral,0.9839014410972595,0
+Thales Solidarity Programme - Thales,"Wed, 08 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9nbG9iYWwvY29ycG9yYXRlLXJlc3BvbnNpYmlsaXR5L3RoYWxlcy1zb2xpZGFyaXR50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Because trust is essential for societies to flourish, innovation should be available to everyone. Thales is committed to sharing its talent and expertise with civil society so that everyone can be a part of the decisive transformations of the future.
+
+In 2019, Thales revised its corporate citizenship strategy in order to coordinate the Group's community engagement initiatives around a set of priorities and common criteria, increase their societal impact and continue the actions of the Thales Foundation after five years of significant achievements.
+
+This strategy is now organised as the Thales Solidarity programme. Initiatives supported across the Group aim to leverage innovation and technology to serve three focus areas:","{'label': 'Neutral', 'score': 0.8953384160995483}",neutral,0.8953384160995483,0
+Thales Alenia Space's Stratobus stratospheric airship passes a new development milestone - Thales,"Thu, 23 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlcy1zdHJhdG9idXMtc3RyYXRvc3BoZXJpYy1haXJzaGlwLXBhc3Nlcy1uZXfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space’s Stratobus stratospheric airship passes a new development milestone Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Flight demonstration of the StratobusTM emergency recovery system
+
+Cannes, September 23, 2021 – Thales Alenia Space, the joint company between Thales (67%) and Leonardo (33%), has carried out a demonstration flight designed to validate the emergency recovery system for the StratobusTM stratospheric airship, as part of the European Commission’s HEMERA 2020 project.
+
+© Thales Alenia Space
+
+StratobusTM is an autonomous airship 140 meters long, operating in the stratosphere at an altitude of 20 kilometers, which means that it belongs to the HAPS [High Altitude Platform System] family. It features a non-rigid envelope whose shape is maintained by helium at a higher pressure than the surrounding atmosphere. The demonstration flight of an open stratospheric balloon was carried out on September 11 at Kiruna, Sweden, and was designed to test the airship’s emergency recovery capacity. The test entailed cutting the envelope at an altitude of 20 kilometers, using a digital-pyrotechnic system, to trigger the airship’s controlled descent to the ground.
+
+© Thales Alenia Space
+
+Conducted by the Swedish Space Corporation, this 8-hour test flight was a resounding success, as it validated the airship’s emergency recovery concept. A live video feed confirmed the system’s effectiveness, in particular communications links with the ground, the command and control electronics, the digital-pyrotechnic system and its initiators, the pyrotechnic actuator and all instrumentation.
+
+“We would like to thank the Swedish Space Corporation and all our partners for their contributions to this successful demonstration,” said Yannick Combet, StratobusTM Program Manager at Thales Alenia Space. “It’s always very impressive to see this kind of flight with an open stratospheric ‘balloon’, especially when it’s based on innovative technologies like the activation of a digital-pyrotechnic system operating in a severe environment. Furthermore, this demonstration is a key step along the path to flight authorization for future reduced scale Stratobus demonstrators, followed by the certification of flight models.”
+
+Providing permanent regional coverage, StratobusTM is a perfect complement to satellite systems. It can carry payloads to perform a number of vital missions, including border surveillance, monitoring of high-value sites on land or at sea (video monitoring of offshore platforms, etc.), defense and security (the fight against terrorism and drug trafficking, etc.), environmental monitoring (forest fires, beach erosion, pollution, etc.) and telecommunications (internet, 5G).
+
+About THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 1.850 billion euros in 2020 and has around 7,700 employees in 10 countries with 17 sites in Europe and a plant in the US. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel.: +33 (0)6 78 64 63 97
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 129 91
+
+marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999167919158936}",neutral,0.9999167919158936,0
+SES-17 satellite has arrived in French Guyana - Thales,"Thu, 23 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9zZXMtMTctc2F0ZWxsaXRlLWhhcy1hcnJpdmVkLWZyZW5jaC1ndXlhbmHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"SES-17 telecommunications satellite left Thales Alenia Space’s clean rooms of Cannes on September 22nd, and has just reached Europe’s spaceport, in French Guiana. The satellite is scheduled for launch on October 22nd, where it will be orbited by Arianespace jointly with another Thales Alenia Space-built satellite: Syracuse 4A.
+
+High speed connectivity in the air as at home
+
+SES-17 is a high throughput geostationary communications satellite designed to enable SES customers to experience endless high-speed connectivity as well as a high degree of flexibility no matter where they operate: on land, at sea, or in the air. Its coverage zone will span North, South and Central America, the Caribbean and the Atlantic Ocean.
+
+The satellite incorporates cutting-edge technologies and is set to deliver the best connectivity experience for customers operating in the aeronautical, maritime, enterprise, and government markets.
+
+A satellite driven by a powerful digital transparent processor
+
+Based on our Spacebus NEO electrical platform, this flexible satellite is driven by a very powerful 5th generation digital transparent processor, built by Thales Alenia Space. The digitalization actually offers the capability to adjust capacity where and when you need and also allows us to process more capacity than the previous generation by a x100 scale factor.
+
+SES and Thales Alenia Space teamed up to optimize the new-generation payload, making the satellite even more attractive to SES’ customers in the highly competitive mobility and data markets, and for governments to accelerate their digital inclusion plans in the Americas.
+
+Being the new flagship of the SES fleet, SES-17 will also be used to supply in-flight multimedia services through Thales’ FlytLIVE system, allowing airline passengers to enjoy endless connectivity in the air, just like at home.
+
+Fair wind to SES’ satellite and looking forward to the launch!
+
+Illustrations: photos © Marie-Ange Sanguy - Artistic views © Thales Alenia Space","{'label': 'Neutral', 'score': 0.8001019954681396}",neutral,0.8001019954681396,0
+Thales to develop game-changing directed energy weapons - Thales,"Thu, 09 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1kZXZlbG9wLWdhbWUtY2hhbmdpbmctZGlyZWN0ZWQtZW5lcmd5LXdlYXBvbnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales to develop game-changing directed energy weapons Share this article
+
+
+
+LinkedIn
+
+The futuristic world of science fiction and reality have been brought a step closer today after a ground-breaking announcement by the UK Ministry of Defence.
+
+Thales has been awarded two contracts to explore the potential of high-powered laser and radio frequency weapons which could change the face of the future battlefield.
+
+Known as Directed Energy Weapons, these cutting-edge, powerful technologies will have the ability to detect, track and disrupt enemy targets – one using lasers and the other using radio frequency energies.
+
+Both systems are powered by electricity and operate without ammunition, offering UK armed forces potentially unparalleled levels of flexibility and capability in operational theatres.
+
+As part of the MOD’s Novel Weapons Programme, Thales will lead two UK consortia of industry partners to produce and trial advanced demonstrators with the Royal Navy and the British Army.
+
+Thales will lead the work of both the laser and radio frequency consortia from its world-leading technology base in Belfast, utilising the high skillsets of the 600 employees at the site and further demonstrating the leading role that the defence industry in Northern Ireland plays in supporting the UK Armed Forces.
+
+The laser consortium will include BAE Systems (Great Baddow), Chess Dynamics (Horsham), Vision4CE (Wokingham) and IPG (Coventry).
+
+The team will deliver a laser weapon demonstrator for user experimentation on a Royal Navy Type 23 frigate starting in 2023. Experiments will include detecting, tracking, engaging and countering Unmanned Aerial Vehicles, as well as other sea targets.
+
+For the land programme, Thales will develop a high power radio frequency system to be fitted to a MAN Support Vehicle for up to six months of Army user experimentation in 2023. The system will detect and track a variety of air, land and sea targets before delivering electromagnetic energy aimed at disrupting or damaging critical electronic components and processes in a target.
+
+The other consortium members include QinetiQ (Farnborough), Teledyne e2v (Chelmsford), and Horiba Mira (Nuneaton).
+
+Alex Cresswell, CEO and Chairman of Thales in the UK, said: “Our Belfast site has a proud history of delivering innovative solutions for the UK Armed Forces and we are excited about this next step forward in the business’ evolution. These contracts are potential game changers to tackle emerging threats, and will inspire the next generation of engineers in Northern Ireland.”
+
+Jeremy Quin MP, Minister for Defence Procurement, said: “We are investing £6.6 billion in research and development across Defence over the next four years, reaffirming our commitment to provide the Armed Forces with truly advanced capabilities.”
+
+“Directed Energy Weapons are a key element of our future equipment programmes and we intend to become a world-leader in the research, manufacture and implementation of this next-generation technology.”","{'label': 'Neutral', 'score': 0.9919710159301758}",neutral,0.9919710159301758,0
+"Sense, understand, orchestrate: the Multi-Domain Mission Support System - Thales","Wed, 15 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3NlbnNlLXVuZGVyc3RhbmQtb3JjaGVzdHJhdGUtbXVsdGktZG9tYWluLW1pc3Npb24tc3VwcG9ydC1zeXN0ZW3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sense, understand, orchestrate: the Multi-Domain Mission Support System CSG21 Share this article
+
+
+
+LinkedIn
+
+Just as the Carrier Strike Group (CSG) deployed in May, Thales won a £47 million, five-year contract to support the Multi Domain Mission Support System (MD MSS). We spoke to Darren Shepherd, Business Domain Lead and Paul Baller, Capture Lead, to find out more about this advanced system, where it originated, and how it’s being used onboard the HMS Queen Elizabeth.
+
+Can you both briefly describe your career journey into Thales?
+
+Darren: I’ve been with Thales for 33 years. I started as an apprentice at the Wells site back in 1988, before winding my way through various parts of the business to become Business Domain Lead - Air Operations and Services. MD MSS, previously known as ISTAR MSS and AirScape, is one of the programmes in my portfolio.
+
+Paul: I’ve been with Thales for 15 years, so I’m a relative newcomer compared to Darren. My defence career started at DERA (Defence Evaluation Research Agency) and after a spell at QinetiQ, I joined Thales to take up mainly Business Development roles. I now look after MD MSS and our Information Advantage campaign.
+
+So, can you explain what the MD MSS is and what it does?
+
+Darren: In a nutshell, MD MSS provides near real-time critical situational-awareness information for operators, and other systems, to plan and execute missions on a single pane of glass. Put another way, it allows you to bring all of your capabilities together at the right times, in the right place, to complete a mission.
+
+Paul: To build on Darren’s description, MD MSS is an IT system that provides a single source of truth for the operational environment, while giving access both to human operators and systems across the Multi Domain environment – for example, an operator using a third-party mission planning system would be consuming data services sourced from MD MSS. This type of data service provides advanced multi-domain integration (MDI) – which is becoming increasingly important to the MOD – as it brings a huge information and decision advantage.
+
+How did the MD MSS come into being?
+
+Darren: Back in the day, it started life as a Mission Planning System for the Nimrod Maritime Patrol Aircraft. Over the last 40 years, the system has been spiral developed and is now supporting multiple platforms, including the fifth-generation F-35B Lightning II onboard QEC.
+
+Paul: The modern-day system gives users and applications a better understanding of the military context. And the number of feeds into the system from land, sea, air, and also the space domain, has increased massively. Hence, it was time to rename it the Multi-Domain Mission Support System.
+
+So with the HMS Queen Elizabeth operating in air and sea domains, it makes sense for it to have the MD MSS capability?
+
+Paul: Correct. The initial requirement was very much driven by the F-35B Lightning capability’s need to connect to the UK’s defence infrastructure to operate in a UK context. The Fleet Air Arm then decided it would be useful for their operations on the HMS Queen Elizabeth, too, as did Maritime Operations. So we had a frenetic time getting the capability installed on board before CSG21 deployed.
+
+Darren: In fact, a month before Carrier Strike sailed, the Royal Navy identified a capability gap it believed MD MSS could fill. Our team managed to develop a series of new capabilities and applications, get them on board the carrier and through harbour acceptance trials, to support the deployment – all in four weeks. So a huge thank you to them for all their hard work to make it happen.
+
+So MD MSS is providing multiple feeds to other systems?
+
+Paul: Absolutely. Historically, a user sits in front of an MD MSS terminal to understand what's going on, but we’re now providing these same rich data feeds to machines via an open interface. So third-party systems can access them. Currently, MD MSS receives data from 15 sources in 11 different locations, and in 55 different formats. It processes about 240 messages a second, or 2.7 million a day. And it’s this information advantage that, ultimately, enables users to sense, understand and orchestrate their effects.
+
+Have you had any feedback on MD MSS, since CSG deployed?
+
+Darren: The feedback has been really good and we’re getting a lot of interest from other quarters too. Once HMS Queen Elizabeth is back from her deployment, we can talk to users properly and think about how we can enhance and develop its capabilities.
+
+Can we expect some significant developments over the course of the five-year support contract?
+
+Paul: While it's called a support contract, it also contains a significant element of development. This enables us to sit down with the customer every year and say, ""Right, this is what we have to do to maintain the system, but there’s a big chunk on top to evolve it based on your longer-term objectives, so let’s agree on how to do that”.
+
+Darren: This spiral development means we can add new capabilities with each new release. That four-week turnaround on the QEC was a great example of how fast we can work. We also run regular user-workshops during the year to show End Users how things are evolving and to get feedback. That way, we can make sure we’re meeting their requirements and expectations.
+
+Can you tell us more about the relationship between the Royal Navy and Thales?
+
+Darren: We’ve worked with the MOD and RAF for many years, but the Royal Navy is a fledgling relationship for our part of the business. It’s one that we want to evolve through CSG21 and the work we’re doing with both carriers. We want that relationship to become a bigger part of our future business. The good news is that they’re asking for additional systems to be installed, and want us to help them develop new capability.
+
+Images © Crown Copyright/© Thales","{'label': 'Neutral', 'score': 0.9999406337738037}",neutral,0.9999406337738037,0
+Thales selected to equip Dassault Aviation Falcon 2000 ALBATROS for AVSIMAR programme - Thales,"Mon, 20 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtZGVmZW5jZS9haXItZm9yY2VzL25ld3MvdGhhbGVzLXNlbGVjdGVkLWVxdWlwLWRhc3NhdWx0LWF2aWF0aW9uLWZhbGNvbi0yMDAwLWFsYmF0cm9z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Dassault Aviation has awarded Thales a contract to provide its SEARCHMASTER® surveillance radar for the AVSIMAR programme.
+
+Thales will also supply the mission navigation system, which includes the TopAXYZ inertial navigation system, the TopStar 100-2 military GPS and the TopShield CRPA anti-jamming system.
+
+Dassault Aviation is prime contractor for the French defence procurement agency's AVSIMAR programme to renew the French Navy's fleet of maritime surveillance and intervention aircraft. Ultimately, 12 Falcon 2000 ALBATROS aircraft are expected to be ordered for this programme.
+
+© Falcon 2000 XLS ©Dassault Aviation Falcon 2000 XLS ©Dassault Aviation
+
+Dassault Aviation has awarded Thales a contract to provide its SEARCHMASTER® surveillance radar and the mission navigation system for the AVSIMAR programme to renew the French Navy's fleet of maritime surveillance aircraft. The programme includes the acquisition of 12 Falcon 2000 ALBATROS aircraft to replace eight Falcon 50 M and five Falcon 200 Gardian aircraft that will be withdrawn from active service between 2025 and 2030.
+
+With the growing density of maritime traffic, threats such as fast inshore attack craft and jet-skis used by pirates and other illegal operators are an increasing cause for concern in every part of the world, including France's areas of interest. Best-in-class maritime surveillance capabilities therefore need to be deployed in coastal and littoral areas to detect and track these intelligent, agile targets in all sea states and visibility conditions.
+
+The ALBATROS aircraft will rely on Thales equipment to conduct maritime surveillance and intervention missions to meet these requirements.
+
+Thales equipment and systems on board the ALBATROS will include the jam-resistant mission navigation system, which will provide the aircraft's onboard sensors with extremely precise positioning data to meet operational requirements on civilian missions and in hostile military environments. Connected to the aircraft's mission system, the Thales solution includes the TopAXYZ inertial navigation system, the TopStar 100-2 military GPS and the TopShield CRPA anti-jamming system.
+
+The SEARCHMASTER® surveillance radar employs a variety of advanced radar modes to provide simultaneous short-range and long-range detection capabilities. As well as exposing small targets in heavy seas, it is also capable of detecting land vehicles and tracking their movements. Very high-resolution imaging and advanced target detection modes will boost operational performance to enhance tactical situation awareness even in extreme environmental conditions.
+
+This sophisticated suite of equipment will provide the Falcon 2000 ALBATROS aircraft with the level of precision and detection sensitivity needed to expose surface threats early enough for appropriate action to be taken in any situation.
+
+""This award validates our strategy of developing highly capable solutions for military platforms and constantly anticipating our customers' requirements. Our high-performance navigation systems, and our surveillance radars for special-mission aircraft including the SEARCHMASTER® radar, rely on the very latest technologies and are already in service with the armed forces.""
+
+Philippe Duhamel, Thales Executive Vice-President, Defence Mission Systems
+
+","{'label': 'Neutral', 'score': 0.9887635707855225}",neutral,0.9887635707855225,0
+Preparing Rosalind Franklin to discover Martian life - Thales,"Wed, 29 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9wcmVwYXJpbmctcm9zYWxpbmQtZnJhbmtsaW4tZGlzY292ZXItbWFydGlhbi1saWZl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The ExoMars 2022 mission is designed to find traces of past or present life under the Martian soil. Leading this search is the Rosalind Franklin rover, which features the Analytical Laboratory Drawer. The ALD is a sophisticated micro-laboratory capable of processing on-site the samples collected by a drill that penetrates the Martian soil down to a depth of two meters. It can detect organic contaminates which could be considered “living matter”.
+
+To safeguard this quest for traces of “Life on Mars”, the rover has to avoid any external contamination, which means that the rover lab is within an ultraclean zone, free of particles or spores originating in the integration process on Earth.
+
+© Thales Alenia Space
+
+The entire rover and especially the ALD were of course assembled in an ultraclean environment under strict planetary protection rules. But to make sure that the Rosalind Franklin rover, built by Airbus Defence and Space in UK, was perfectly clean, it was first checked out by Thales Alenia Space in Turin and is now inside the clean rooms of the company site in Rome for the so-called “bake-out” tests.
+
+The rover is currently positioned inside a vacuum chamber and subjected to high heat, up to the maximum temperature it can stand. This type of test ensures that even the smallest and most hidden contaminates will evaporate away.
+
+© Thales Alenia Space
+
+Throughout the entire test process, the rover’s ultraclean zone will be maintained at a pressure higher than the external environment. Contamination will be measured using quartz micro-balances, capable of detecting contamination down to the nanogram level.
+
+Any potential residual contamination will be deposited on the balances (kept at a temperature of minus 40°). The test will take a month, when contamination emissions will reach a plateau.
+
+© Thales Alenia Space
+
+In the meanwhile, the rover’s “Earth Twin” (ground test model) has been undergoing tests in the Rover Operational Center at Altec in Turin. Recent tests to drill and collect a sample at a depth of 1.7 meters and store it in the Analytical Laboratory Drawer for further analysis were successful.
+
+Thales Alenia Space’s Turin facility has completed maintenance and calibration operations on the landing platform’s scientific instruments, inside an ultraclean room. The complex process of checking all spacecraft functions continues, managed by an updated version of the software that is continuously adapted to the 2022 mission requirements.
+
+© Thales Alenia Space
+
+Mission background
+
+ExoMars 2022 is a European Space Agency program in conjunction with the Russian space agency Roscosmos, and with contributions from NASA.
+
+Thales Alenia Space is in charge of the design, development and verification of the entire system, the development of the Carrier Module navigation and guidance system and EDL/GNC development. It’s also in charge of the Rover system, including the Analytical Laboratory Drawer (ALD), as well as supplying basic parts of the Kazachok descent module, including the radar altimeter. Thales Alenia Space in Italy has formed a technical partnership with Lavochkin of Russia for the development of the descent module. OHB is in charge of developing the carrier module (CM), as well as supplying some ALD subsystems (SPDS mechanisms, structure and harness). The rover itself is provided by Airbus Defence and Space in the UK. Leonardo is developing the ExoMars drill, plus the drill and ALD mechanisms control unit and software. Altec (Aerospace Logistics Technology Engineering), a joint company between Thales Alenia Space in Italy (63.75%) and the Italian space agency ASI (36.25%), is responsible for the design, development and maintenance of the Rover Operation Control Center (ROCC) and for controlling the rover on the Martian surface
+
+The Thales Alenia Space-built Trace Gas Orbiter (TGO), from the first ExoMars mission, is already in orbit around Mars. In addition to studying trace gases in the Martian atmosphere, whether of biological or geological origin, it will also act as a data relay for communications from the ExoMars 2022 rover and surface science platform, as well as from rovers deployed by partner agencies.","{'label': 'Neutral', 'score': 0.9998917579650879}",neutral,0.9998917579650879,0
+Faces of Thales - Joe Aloisio - Thales,"Thu, 02 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy9mYWNlcy10aGFsZXMtam9lLWFsb2lzaW_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Speaking with Joe Aloisio for this Faces of Thales interview, it’s obvious he is driven by three primary things: love for his family and culture, the desire to keep challenging himself and the importance of believing in yourself. It’s these three values, along with Joe’s jovial attitude and sense of humour, that has served him well throughout his life and career. Read more about our Cairns based Subcontracts Administrator below.
+
+Joe, whose birth name is Iosefo after his Grandfather, was born in Wellington, New Zealand however, his family hails from the Pacific Islands; Tokelau and Fiji to be exact. His parents made the move to Sydney, Australia at the age of 6 however, uncomfortable with the Sydney pace, when Joe was 10, the family chose to resettle in Townsville; where a number of his family were already calling the Sunshine State home.
+
+“In Townsville, we were always surrounded by family, which is a really important thing in our culture; I believe it is the sense of support and respect towards our elders. You’d always see big feeds, big smiles and singing and dancing. We grew up in housing commission - we didn’t have a lot of material things but we had lots of love and support” Joe recalls.
+
+As a child, Joe’s dad worked a number of casual jobs and then settled into the Meat Works and Joe’s mum looked after the family and the house, or was ‘living the mum life’ as Joe terms it. ‘Living the mum life’ sounds like a big task indeed, as Joe is the eldest of seven kids; noting it was this position in the family that influenced his deep sense of responsibility.
+
+“Being the eldest child, there is always a level of responsibility that you have for your family. This, combined with our Christian values and the importance of learning and developing our Tokelaun culture, really shaped my values from a young age.”
+
+Joe went to an all-boys school in Townsville and looks back on that time fondly, remembering the close-knit group of friends that he had. “All of us Islander boys sat together and had our fish and taro lunches. We treated everyone with respect. We weren’t the meatheads or the bullies; we were the boys that had guitars and liked to sing.”
+
+It was through his time at school that Joe saw how hard his parents worked for their family; impressing upon Joe and his six siblings the importance of both ‘pushing hard’, but balancing this with the ‘Islander life and culture.’ It’s this latter side of life balance, and staying true to his culture, that has Joe fondly recalling the time he has asked his mum, “what was for lunch?” to which his Dad responded “take a coconut to school for lunch, you have fresh juice and then open it up you have fresh food.”
+
+Joe looks back and knows his parents did everything to provide the best opportunities to help lift their family and the community. Joe acknowledges it wouldn’t have been easy to say, “take a coconut to school,” but knew it came from a good place.
+
+When the time came to finish school, Joe took a path that even he was surprised by as he’d always grown up thinking he would become a tradie.
+
+“I was doing work experience as a boilermaker, electrician, fitter and turner but none of that felt right, so I took a completely different path and went to Uni instead and did a Bachelor of Law.”
+
+Joe insists he isn’t ‘academically smart’ but believes the most important elements of success is applying yourself and challenging yourself (alongside a few hours of intense cramming for exams). He believes with this approach you can achieve anything you put your mind to.
+
+Joe’s proudest moment at university came during the graduation ceremony when he looked over to his parents.
+
+“I remember seeing dad get emotional and I was just really proud. I was the first one in the family to go to university, so to hear how he spoke about my graduation, and what it meant to the community and to the kids in the family, that was something special.”
+
+It was while Joe was at university that he got his first taste of the Australian Army Reserves. Joe was looking for a part time job while studying and after realising you could get paid to do good work and get fit, Joe was sold.
+
+“I learnt a lot with the Army Reserves and had a lot of great experiences; it really helped open up my communication and leadership skills. I would really recommend the reserves to anyone that is looking to challenge themselves, meet new friends and develop skills that apply to everyday living.”
+
+After finishing law school, and at the time as a Business Development Manager (BDM) for a resourcing company, Joe moved to Brisbane to seek further growth in his career; obtaining a position as Subcontractor Specialist. He gained experience in contract management, compliance and managing supply chain vendors but after a while realised that life in Brisbane wasn’t the life Joe was looking for.
+
+“I struggled to transition from the BDM environment, which is chasing work, to the post execution position such as the Subcontractor Specialist; managing service level agreements. Couple this with the long drives from Hamilton, Amberly Barracks through to Gallipoli Barracks. I wasn’t at my best mentally, physically and spiritually.”
+
+Then, Joe spotted an opportunity with, you guessed it, Thales.
+
+After seeing a Contracts Administrator role in Darwin with Thales, Joe jumped straight on to Google to find out more on this company called “Thales.” After he saw a picture of a satellite on the Thales website and thought ‘Well, this looks like they know what they’re doing, that’s good enough for me,’ Joe promptly applied for the role.
+
+Joe laughs when remembering his interview for the role with Thales, saying that after the formal questions he was asked who he follows in the Rugby League. When he replied ‘North Queensland Cowboys’ he was then immediately asked ‘Do you have a tattoo of Jonathan Thurston on your back?’
+
+“I remember not knowing whether to take that seriously, but I did get an instant feeling that it would be a great place to work. How could it not be if you do your job well but are also able to have a laugh?” Joe says.
+
+He soon packed up his Brisbane life and moved to Darwin where he worked on the Armidale Class Patrol Boat ISS Program 2017 for 3 years. Joe knew that this would be a great move to get his mental, physical and spiritual strength back.
+
+Hearing Joe speak about his time in Darwin, it’s evident it was a valuable experience and he immensely enjoyed working with the Thales team, playing rugby with Pirates Rugby Union and being in the Army Reserves. However, before long, another opportunity arose that was just too good to refuse.
+
+A North Queenslander at heart
+
+A strong believer in taking opportunities as they present themselves, when there was a call out for people to support the 60-monthly maintenance cycles of the Armidale Class Patrol Boat in Cairns, Joe could not let this one slip. It’s at this point he gives a nod to Greg Gocher, Regional Production Manager, for helping to make this happen.
+
+“Greg really helped me get to Cairns. Not only did he help me get back to where my family is, but he’s definitely one of my mentors. I’ve seen his leadership skills and his big picture thinking – I like that type of leadership.’
+
+As a Subcontracts Administrator, Joe works closely with local vendors who are critical in enabling Thales to deliver mission ready and seaworthy vessels on time for the Royal Australian Navy. The work done in Cairns by Defence, Industry and Small and Medium Australian Enterprises is something that closely aligns with one of Joe’s values; working within a team.
+
+So, after a year working with Thales in Cairns, how is Joe settling in?
+
+“Good, really good. I am a father to be! Things will be changing that’s for sure for both my partner and I - come October, blessing from the man upstairs, that we will have a healthy baby boy.”
+
+“There’s a great team in Cairns and a great work life balance here. I play footy, I go fishing, I still do my reserves work and I’m also back closer to my family – it’s turned out great.”
+
+A particularly meaningful experience for Joe also came through the Army Reserves which, 15 years later, Joe is still an active member.
+
+In March 2020, while working in Cairns, Joe was deployed on Operation Resolute; assisting Border Force and local police helping to patrol the Northern Islands in the area and monitor sentry posts. More than an enforcement role, a critical component of the deployment was community engagement; building relationships with the locals through, as Joe says matter-of-factly, ‘yarning with the kids and their parents; talking about why we were there and also a little about fishing.’
+
+Joe Aloisio is many things: a fisherman, a staunch All Blacks supporter, a chess aficionado, an ‘almost contestant’ on the show Australian Survivor, and a fan of ‘talking a lot of Island slang at work.’ It’s these attributes, coupled with his sense of responsibility, desire to be challenged and deep commitment to his family and faith, that makes Joe a valued part of both his team in Cairns and the broader Thales community.
+
+Some important takeaways from Joe
+
+Family is everything – The love and support your family give you is priceless. Joe is very close with his family, so much so, that he tells me that his mum has added him on Snapchat.
+
+Time waits for noone – This is something Joe’s father instilled in him from a young man. Take chances, take opportunities, live. This advice nicely compliments his mum’s guidance of ‘do what makes you happy.’
+
+Manifest your beliefs and goals and believe in yourself – Joe’s story is testament to his strong sense of self belief. Anything you put your mind to, you can achieve it – it’s the Law of Attraction.
+
+Find a good mentor – Joe has had many mentors in life in his family, the church, through Defence and at Thales. Each have brought something unique and valuable to his life.","{'label': 'Neutral', 'score': 0.9999754428863525}",neutral,0.9999754428863525,0
+Railway industry elects new president: Hannes Boyer replaces Kari Kapsch - Thales,"Thu, 30 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9hdXN0cmlhL25ld3MvcmFpbHdheS1pbmR1c3RyeS1lbGVjdHMtbmV3LXByZXNpZGVudC1oYW5uZXMtYm95ZXItcmVwbGFjZXMta2FyaS1rYXBzY2jSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Railway industry elects new president: Hannes Boyer replaces Kari Kapsch Austria Share this article
+
+
+
+LinkedIn
+
+The General Assembly of the Association of the Austrian Railway Industry has elected Hannes Boyer as the new president. ​Hannes Boyer succeeds Kari Kapsch, who has held this position since 2019.
+
+Picture f.l.t.r.: Hannes Boyer (Thales), Angela Berger (VBI), Kari Kapsch (Kapsch)
+
+""It is a great honor for me to be the voice of the Austrian rail industry in these exciting and challenging times. In order to achieve the climate change, the railways must play an important role. We have great companies in Austria that can make an important contribution with their technologies and innovations. In the Association of the Railway Industry we are combining these forces in order to actively shape a piece of the future. I am looking forward to it!"" Hannes Boyer, CEO of Thales in Austria
+
+About the Association of the Railway Industry
+
+The Association of the Railway Industry represents the interests of the railway technology industry operating in Austria. The primary goal is to help shape the framework conditions for this growth-oriented and innovative industry on a national and international level. The member companies come from all production and development areas that implement solutions for a wide variety of rail transport systems. They range from safety, control and communication systems to vehicle components and complete rail vehicles. Dr. Angela Berger acts as managing director.
+
+​","{'label': 'Positive', 'score': 0.5519124865531921}",positive,0.5519124865531921,1
+Sensing the Battlefield – A matter of digital intuition - Thales,"Tue, 07 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3NlbnNpbmctYmF0dGxlZmllbGQtbWF0dGVyLWRpZ2l0YWwtaW50dWl0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sensing the Battlefield – A matter of digital intuition Share this article
+
+
+
+LinkedIn
+
+At Thales we have a vision for the future of land warfare; a vision of dispersed sensors collecting and sharing data which is collated, analysed, and formed into understanding which provides collective and systemic protection, and informs decisions. Drawing on the benefits of Multi-Domain Integration (MDI) to gather data from increasingly diverse and dispersed collection assets this vision is inspired by something closer and more familiar to everyone than you may imagine.
+
+Think of how we sense the world around us. We touch, hear, see, smell and feel – each sense adding bits of data to our perception. We also sense how others are behaving, reacting, or interpret and refer to what they have told us in the past or are telling us now. The brain, processing this data, immediately draws on a lifetime of experience, our knowledge of situations, inflection, movement, even changes in the ‘atmosphere’. This is intuition; a honed ability to join the dots offered by our senses to complete a fuller picture of the environment.
+
+Digital intuition
+
+Can you now envisage a battlefield observed with digital intuition? The senses include digital cameras and sights on myriad platforms, whether for aiding drivers or providing gunners with targets, all feeding in imagery from across the environment. Edge processing (software embedded in the sensor itself) augmenting the capability and deciding which data is important to pass on; terrain profiles, image recognition, anomaly detection, the action of processing reducing the actual amount of data being passed over crowded connectivity bearers.
+
+Other senses could include acoustic sensors, building and confirming an aural picture of the same environment, looking for the signature of a T72 tank, helicopter, two-stroke engine , or machine-gun – pin pointing firing points even before they are seen. Radars of all types, from man portable, C-RAM, and long range air space protection radars, provide overlapping and inter-arcing coverage. GPS feeds from soldiers and vehicles, reports, HUMS data and even meteorological information from the targeting sensors/computers on main battle tanks all contribute to an understanding of the battlefield. Increased Multi-Domain Integration would mean that the data from air and naval assets; IR sensors on aircraft, EW assets on ships, satellite observation and cyber surveillance could also add to a near complete picture of the conflict environment.
+
+Every waking second our body’s senses pickup and deliver eleven million pieces of information to our brain. You don’t request data from your senses, they are on constant send; from sensor to nerve endings via synapses to your brain; acting at once as a processing centre, a vast repository of information, and a decision maker. It would take years to work through the inputs consciously, almost all of it is filtered out, but if your brain picks up anything different, out of the ordinary, or special, you will sense that something needs attention.
+
+Big data and AI
+
+The application of Big Data Analytics and Artificial Intelligence using convolutional neural networks and self-learning algorithms help act as the ‘digital brain’, filtering the data, and applying ‘digital intuition’ to the ever changing and fluid situation. ‘Digital Crew’ sit metaphorically next to soldiers in armoured vehicles, or alone man autonomous platforms, enhancing and augmenting what they ‘see’ through their sensors, alerting them to what is different, dangerous, or of interest.
+
+All of these ‘digital senses’ are connected across the battlefield via software defined and fully encrypted radios, ensuring the safe delivery and complete trust of the data delivered to the Defence Cloud where data, cross domain, can be collated, analysed, processed and shared. Personal digital identity, the type of which we exercise daily in access to our banking app or online secure information adding further security to allow access to all, as if you were keeping your thoughts to yourself or sharing your deepest secrets or greatest knowledge.
+
+This is how Thales believes the future battlefield will work; dispersed sensors, sometimes operating autonomously, providing data and information into a central and ubiquitous shared cloud, providing information advantage and systemic protection through mutual support, to deployed forces and endangered populations and infrastructure in areas of conflict.
+
+We believe this because this is what we deliver. Across the spectrum of the Land Defence domain and beyond through multi-domain integration, Thales offer capability across all of these sensors, bearers, processing and software, with experience in delivering complex systems of systems, bringing the most advance technological solutions to our customers in both the civil and defence markets helping them address the problems they face and move towards the future they desire.
+
+We have a vision for the future of land warfare. It is a vision of digital intuition helping armies to see the unseen.
+
+Images ©Crown Copyright","{'label': 'Neutral', 'score': 0.9928491115570068}",neutral,0.9928491115570068,0
+"Cyber security at sea, defending against digital attacks on ships - Thales","Wed, 29 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtZGVmZW5jZS1uYXZhbC1mb3JjZXMvYWJvdmUtd2F0ZXItd2FyZmFyZS9tYWdhemluZS9jeWJlci1zZWN1cml0eS1zZWEtZGVmZW5kaW5nLWFnYWluc3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Cyber-attacks happen every day. Large commercial organizations are often targeted, but governments have also faced attacks. The mentioned targets have one thing in common: they are targets on land. Are ships invulnerable? No, and fortunately more and more attention is being paid to cyber security at sea.
+
+By Jaime Karremann - Naviesworldwide.com
+
+René van Buuren is cybersecurity authority Naval at Thales Netherlands. Marineschepen.nl spoke to him about digital defence at sea: “Information security has been around for a long time. But with the advent of the internet it has exploded and we call it cybersecurity. Partly thanks to office automation, everything in companies was suddenly connected to the internet and therefore vulnerable. And in my world, a naval ship is similar to a land based organization, with potential vulnerabilities, which are often interconnected. “
+
+Cybersecurity is not limited to the digital domain. “A cyber-attack can also have effects on things that we can see and feel in the physical world. That is important for naval and commercial ships. The cyber-physical consequences of an attack can be enormous. Stuxnet [a computer worm believed to have damaged a nuclear power plant in Iran, JK] is one of the best-known examples, but imagine if a potential next blockade in the Suez Canal were the result of a cyber-attack on the steering gear, which is not inconceivable. “
+
+Ships are often far from home and the internet connection is not always that fast, is a cyber threat realistic? “That is the most frequently asked question,” answers Van Buuren. “Nuclear power plants are hacked and they are not connected to the Internet. Cybersecurity goes much further than the Internet. A ship is an enormously complex system consisting of all kinds of military and commercial systems that are linked together. That automatically implies that there are a lot of potential vulnerabilities and a large attack surface [many possibilities for attacks, JK]. In addition, ships are in service for 30 years, during which time a lot of people and equipment come on board. “
+
+“You can get supply chain attacks such as Solarwinds”, Van Buuren continues. “This kind of attacks are common more and more. A supply chain attack is an attack on a supplier of your company. The infected software enters your company via that supplier.”
+
+“Cyber ​​threats at sea are also realistic because cyber-attacks have become part of hybrid warfare, in addition to military, economic, political and propaganda means. This means that opponents will use cyber-attacks to disrupt your operations. This does not have to be via the Internet and can be done via various attack paths. For example, it is widely known that some state actors equip maritime vessels with 4G masts and sail in the vicinity of naval ships in order to hack the phones of crew members.“
+
+Future: cyber positions in the command center?
+
+Navies are increasingly interested in adding protection against cyber-attacks. Cyber ​​security is an intrinsic part of the total solution for many new naval ships. According to Van Buuren, the German F126 frigates (MKS180) are an example where cybersecurity is a large and important part of the contract.
+
+“That’s the design side,” says Van Buuren. “You try to deliver it as well as possible, with all lines of defence. And that applies not only to the software in the CIC, but to the entire ship. All software, the sensors and the weapon systems must meet high cyber requirements.”
+
+Thoughts are now moving towards the next step. Van Buuren: “The modern side of cyber is about detection and response. The design must be in order; a fence around your house. But you also have to actively monitor and intervene. Naval ships have all kinds of resources on board to combat damage and fire. There will also be a cyber variant of this in the future. “
+
+That is not easy at sea, says Van Buuren: “On shore you have all the means at your disposal. How do you translate the ordinary cyber defence on land in a civilian company to a naval vessel in conflict? Then it becomes difficult. It depends on, for example, the available knowledge on board, the permitted connectivity and the mission conditions. Do you want to fix something quickly in order to keep fighting? That is something completely different from doing a recovery and update your systems when you’re in your homeport. “
+
+There is no one solution; it is a continuous process. according to Van Buuren. “We are talking about that at Thales and with our clients.”
+
+Not easy
+
+Thales focuses on cyber defence. “Cyber-offensive capabilities are capabilities for governments and not necessarily for the industry,” says Van Buuren when asked. “Besides, if you have ten missiles on board, you can achieve the same impact ten times. But a cyber weapon can generally only be deployed once. The moment that it is noticed, you cannot use it the second time.”
+
+Conversely, this also means that the threat posed to naval ships comes almost exclusively from a government; a state actor, and to a lesser extent from criminals. And not from someone who is bored and hacks a navy ship in a few hours. The major threats come from maritime cyber-attacks at the highest level by attackers with almost unlimited resources, i.e. state actors.
+
+Van Buuren: “The Solar Wind attack was preceded by many months of preparation by a huge team of experts. You have to have that kind of capacities in mind: the attacker must have to be eager, a lot of money and time.”
+
+For the defenders it is important to keep up with the developments. “It’s a cyber race,” says Van Buuren. “You are always one step behind and developments are going very fast.”
+
+“Cyber ​​security on ships is also difficult because a complex system of all kinds of information systems and operational systems are linked together, all of which have a completely different history and background.”
+
+Entire lifespan
+
+And such a complex system must remain protected for thirty years. “That’s another trend in cybersecurity thinking,” says Van Buuren. “We need to discuss this. Agreements must be made about updates: who is responsible for the updates? Do you also have to qualify again or do sea acceptance trials?”
+
+“Mid-life modernization of a naval ship is now the standard. But that is a different way of thinking than a regular cyber update. Many navies are also geared towards purchasing equipment and not the maintenance and releases that follows and often they have different organizations for purchase and maintenance.”
+
+These agreements about cybersecurity during its entire lifespan are important, because when the cyber security part of a ship is not properly maintained, means that the ship is a risk for friendly warships. “In the future it cannot be ruled out that certain warships will no longer have access to certain information during a combined mission because they do not have their security in order,” says Van Buuren.","{'label': 'Neutral', 'score': 0.8768644332885742}",neutral,0.8768644332885742,0
+"SEANICE, a consortium led by Thales, prepares European Navies for the future underwater threats - EDR Magazine","Mon, 13 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3NlYW5pY2UtYS1jb25zb3J0aXVtLWxlZC1ieS10aGFsZXMtcHJlcGFyZXMtZXVyb3BlYW4tbmF2aWVzLWZvci10aGUtZnV0dXJlLXVuZGVyd2F0ZXItdGhyZWF0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Monday, 13 September 2021 —
+
+The European Commission has selected SEANICE (AntiSubmarine Warfare European Autonomous Networked Innovative and Collaborative Environment), a consortium coordinated by Thales, to study, test, prototype and prepare the next generation of antisubmarine warfare solutions (ASW) based on manned-unmanned platform teaming.
+
+The SEANICE Consortium consists of 16 partners representing 6 countries: Belgium, France, Italy, Latvia, Portugal, and Spain. France is the Lead Nation and Thales is the coordinator of the consortium. SEANICE Consortium received the support from PESCO MUSAS (Permanent Structured Cooperation Maritime Unmanned Anti-Submarine System) led by Portugal.
+
+SEANICE will prepare European navies to face the future underwater threats such as attack submarines, midget submarines, unmanned vehicles, heavyweight torpedoes, hyperfast torpedoes, and naval mines.
+
+SEANICE is one of the 26 projects out of 63 to be selected for funding by the bi-annual European Defence Industrial Development Programme (EDIDP), which aims at enhancing the competitiveness of the EU defence industry. Built on a realistic use-case scenario for antisubmarine warfare within the European Union’s scope of operations, the project will study, design, test, prototype, and set the ground for the delivery of new technologies. SEANICE is at the leading edge of change and technological disruption, including the integration of drones and artificial intelligence functionality.
+
+Over the last two decades, naval operations, especially underwater, have been evolving towards more connected, and complex, surveillance and combat modes. These rely on new types of assets, such as unmanned assets, and distributed sensors and effectors. There are ranges of underwater threats that can be encountered at sea: attack submarines, midget submarines, unmanned vehicles, heavyweight torpedoes, hyperfast torpedoes, and naval mines.
+
+With 56,000KM of coastline and 12,000KM of land borders to secure, the European Union (EU) has to address these threats to protect sea lines of communications in its Member States’ territorial waters and beyond, wherever the EU may decide to intervene to safeguard its legitimate interests.
+
+Consequently, European Navies, whether it be nationally or within an EU task force, have to cope with several new challenges including:
+
+Joint / Coordinated ASW operations
+
+Numerous and stealthy underwater threats
+
+Underwater resilience and situation awareness
+
+Increased number of unmanned and autonomous systems leading to potential saturating attacks
+
+To answer to the future needs of European navies to detect, identify, counter and protect against underwater threats, the European Commission has thus selected SEANICE. This project contributes to several innovations and aims to bring new concepts already applied in the civilian world into the ASW operational theatre. It tackles the integration of new, unmanned assets, and intelligence and surveillance capabilities, to master today’s complexity of conducting ASW operations. It offers system-of-systems architecture that is compatible with current and future EU/NATO standards.
+
+Drawing on high-skilled, reliable, and specialized partners – who are champions in defence – SEANICE contributes to technological sovereignty and increased interoperability between EU Member- State forces.
+
+This multinational dimension, which teams the best players in antisubmarine warfare, is fundamental to embracing tomorrow’s European antisubmarine warfare capability and effectively pursuing future collaboration and innovation on defence capabilities and programmes. The SEANICE Consortium encompasses a significant number of EU partners, drawn from research, industry, and the SME sector. All partners have been carefully selected to generate, through collaboration, the maximum added value, in terms of meeting the needs of EU navies: Thales, Airbus Defence & Space, Alkan SAS, Alseamar, CEIIA, Edisoft, Engineering Ingegneria Informatica, GMVIS Skysoft, Latvian Maritime Academy, Leonardo SPA, Naval Group SA, RTSYS, Scalian DS, SIEL SRL, Université Libre de Bruxelles, Wsense SRL.
+
+SEANICE’s innovative ideas and concepts will reinforce the resilience and competitiveness of the European defence sector. The project puts in place the foundations that can ensure the European Defence Technological and Industrial Base‘s (EDTIB) evolution in the antisubmarine warfare segment.
+
+“Thales has gathered a unique European consortium of tech companies to bring cutting edge innovation on the next generation anti-submarine warfare (ASW) systems under the European Defence Industrial Development Programme (EDIDP). Together with our respective strength and technological advantage we are aiming for a breakthrough in the way European Navies can address existing and future underwater threats,” according to Gwendoline Blandin, Vice-president Underwater Systems, Thales.
+
+About SEANICE
+
+THE SEANICE Consortium consists of 16 partners representing 6 countries: Belgium, France, Italy, Latvia, Portugal, and Spain (with France as the Lead Nation and the support of PESCO MUSAS). This multinational dimension, which teams the best players in antisubmarine warfare, is fundamental to embracing tomorrow’s European antisubmarine warfare capability and effectively pursuing future collaboration and innovation on defence capabilities and programmes. The SEANICE Consortium encompasses a significant number of EU partners, drawn from research, industry, and the SME sector. These partners have been carefully selected to generate, through collaboration, the maximum added value, in terms of meeting the needs of EU navies.
+
+The partners are:
+
+THALES (COORDINATOR) France
+
+AIRBUS DEFENCE & SPACE SAU Spain
+
+ALKAN SAS France
+
+ALSEAMAR France
+
+CEIIA – CENTRO DE ENGENHARIA E DESENVOLVIMENTO (ASSOCIACAO) Portugal
+
+EDISOFT – EMPRESA DE SERVIÇOS E DESENVOLVIMENTO DE SOFTWARE S.A. Portugal
+
+ENGINEERING INGEGNERIA INFORMATICA S.P.A. Italy
+
+GMVIS SKYSOFT S.A. Portugal
+
+LATVIAN MARITIME ACADEMY Latvia
+
+LEONARDO S.P.A. Italy
+
+NAVAL GROUP S.A. France
+
+RTSYS France
+
+SCALIAN DS France
+
+SIEL S.R.L. Italy
+
+UNIVERSITÉ LIBRE DE BRUXELLES Belgium
+
+WSENSE SRL Italy
+
+This project has received funding from the European Defence Industrial Development Programme (EDIDP) under grant agreement EDIDP-UCCRS-2020-93-SEANICE","{'label': 'Neutral', 'score': 0.999891996383667}",neutral,0.999891996383667,0
+Thales & Weibel Sign Cooperation Agreement - European Security & Defence,"Wed, 29 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZXVyby1zZC5jb20vMjAyMS8wOS9hcnRpY2xlcy9leGNsdXNpdmUvMjQwODYvdGhhbGVzLXdlaWJlbC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Weibel Scientific have signed a cooperation agreement to develop and strengthen the bonds within European defence industry, creating shared international export opportunities. A
+
+t the Danish Embassy in Paris during the Danish Industrial days
+
+in the presence of the French Minister of Armed Forces, Florence Parly, and Danish Minister of Defence Trine Bramsen
+
+.
+
+ccording to a press release from Weibel , this involves integrating Weibel’s short-range ground mission radars into the Thales radar portfolio to address Ground Based Air Defence (GBAD) or C-UAV missions. The agreement was signed a","{'label': 'Positive', 'score': 0.9995598196983337}",positive,0.9995598196983337,1
+Train derailments and delays could be cut after trial of track fault detection system - Thales,"Tue, 21 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RyYWluLWRlcmFpbG1lbnRzLWFuZC1kZWxheXMtY291bGQtYmUtY3V0LWFmdGVyLXRyaWFsLXRyYWNrLWZhdWx0LWRldGVjdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Train derailments and delays could be cut after trial of track fault detection system transport Share this article
+
+
+
+LinkedIn
+
+A data gathering system is being trialled which could make the UK’s rail network safer, reducing costs and delays, by identifying derailment-causing track geometry faults sooner.
+
+After a successful feasibility study as part of Project ‘Automated Rail Geospatial Observation System’, Thales was awarded £500,000 from the Geospatial Commission via Innovate UK to trial equipment intended to detect and locate potential track faults.
+
+Guilherme Beirao, who leads Thales’s technical delivery for the project, said: “This is an opportunity to demonstrate an innovative use of technology with the aim of making our rail network safer and more efficient. That would be a big win for everyone involved in railways; Network Rail, the TOCs and passengers.”
+
+The system uses Thales’s Robust Train Positioning System, originally designed to support train operations. RTPS takes data from a number of varied train-borne sensors and track map data, using an algorithm to combine this data to pinpoint its position on the network.
+
+GWR Class 150
+
+Next month the system will be fitted to an in-service GWR Class 150 cab and over the next five months data from RTPS, along with pitch, yaw and roll measurements from the sensors, will be transmitted to Thales’s data centre. There, it will be analysed, and assessment algorithms developed along with warning thresholds, to alert operators to track geometry faults.
+
+Thales is working with York-based rail technology pioneer, Incremental, which is developing a user interface and threshold definition for the system, allowing Network Rail to define baselines and adjust warning threshold levels. This will also allow data collected from the system to be directly presented to track maintenance engineers and alert them of any abnormalities or developing faults.
+
+Network Rail has an obligation to survey its track. However, its specialist measuring trains are tied to specific schedules, and while busy lines are regularly surveyed, those carrying fewer services, typically for freight, are checked less often. Freight trains account for more than half of UK derailments which have serious consequences, such as days of rail service disruption.
+
+Fitting a survey system to even one in ten in-service trains would allow lines to be monitored more regularly. This would give early warning of potential problems which could be repaired before a derailment occurred or emergency speed restrictions had to be imposed, for which Network Rail has to compensate TOCs. Such a system could also verify finished repairs, allowing normal services to resume more quickly.
+
+Daniel Lee-Burnsall, Co-founder and Chief Executive Officer of Incremental, says: “We’re delighted to be working alongside Thales on this fantastic project. Creating solutions for the railway that reduce delays and disruption to passengers is at the core of everything we do, and we’re committed to making the railway better for everyone.
+
+“As an SME in the rail industry, it really is exciting to collaborate with large-scale businesses such as Thales. We’re a tried and tested partnership and we’re really looking forward to making a difference to the industry, once again, with this latest project.”
+
+“Incremental works in a very agile way, exactly how our R&D projects are managed,” said Guilherme. “We enjoy working with the team, who are passionate and proactive and we’re collaborating on a number of other projects as well.”
+
+Thales will present its findings to Network Rail, Innovate UK and the Geospatial Commission in a series of workshops in the new year.","{'label': 'Neutral', 'score': 0.997122585773468}",neutral,0.997122585773468,0
+FN Herstal and Thales presents new concept of Remote Weapon Station armed with machine gun and rockets | DSEI ... - Army Recognition,"Tue, 21 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiywFodHRwczovL3d3dy5hcm15cmVjb2duaXRpb24uY29tL2RzZWlfMjAyMV9uZXdzX29mZmljaWFsX2xhbmRfem9uZV9wdWJsaWNhdGlvbl9vbmxpbmVfc2hvd19kYWlseS9mbl9oZXJzdGFsX2FuZF90aGFsZXNfcHJlc2VudHNfbmV3X2NvbmNlcHRfb2ZfcmVtb3RlX3dlYXBvbl9zdGF0aW9uX2FybWVkX3dpdGhfbWFjaGluZV9ndW5fYW5kX3JvY2tldHMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"At DSEI 2021, International Defense Exhibition in London, UK, Belgian company FN Herstal in collaboration with the French company Thales presents a new concept of a remote weapon station armed with 12.7mm heavy machine and tube launchers FZ602 able to fire 70mm guided and unguided rockets that can be used against static and mobile ground targets.
+
+
+
+The new concept of FN Herstal Remote Weapon Station armed with 12.7mm machine and 70mm rocket launcher at DSEI 2021, International Defense Exhibition in London, UK. (Picture source Army Recognition)
+
+With this new concept of remotely operated weapon station (RWS), FN Herstal and Thales have developed a dual effector proof of concept to illustrate the complementarity between machine guns, guided and unguided rockets for ground-to-ground applications. In fact, the 12.7mm machine gun can be used as a short-range weapon system at a distance of up to 2 km while the 70 mm rockets can be used against ground targets at a medium-range of up to 6 km.
+
+In its close combat role, supporting first-line combatants, the direct fire of the 12.7mm machine gun and the 70mm rockets will ensure enhanced capability with complementary ranges and effects on target while in its indirect fire support role, the RWS will ensure higher accuracy at longer ranges on static and mobile targets.
+
+This new concept of RWS is based on deFNder Medium fully designed and developed by FN Herstal. The weapon station can be armed with all FN Herstal machine guns up to .50 cal, including the unique FN® M3R machine gun with a high firing rate of 1,100 rpm.
+
+The standard version of the deFNder™ Medium weapon station is equipped with and IR thermal uncooled camera which can be used for day and night combat operations mounted at the right side. One ammunition box is mounted at the left side with a capacity of 200 rounds of .50 caliber.
+
+In option, the deFNder™ Medium weapon station can be equipped with a full range of accessories.
+
+To extend the range capabilities of the FN Herstal deFNder medium station, a two tubes launcher system FZ602 is mounted on the top of the weapon station which is able to fire the FZ 70mm guided and unguided rockets developed by the Belgian company ‘Les Forges de Zeebrugge’ (FZ) which is part of Thales.
+
+FZ rocket systems are qualified and in operational use on more than 300 platforms including Airbus Helicopters, AgustaWestland, Hindustan Aeronautics, BAE Systems, Embraer, General Dynamics, Hawker Beechcraft, and other aircraft manufacturers.
+
+Guided and unguided FZ rockets can be fitted with different types of warhead and motors according to the mission's requirements to extend the combat range, lethality and enhance the precision effects of any platform.","{'label': 'Neutral', 'score': 0.99986732006073}",neutral,0.99986732006073,0
+"UK Defense Ministry Targets Laser, RF Weapons - Optics & Photonics News","Sun, 26 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHA6Ly93d3cub3B0aWNhLW9wbi5vcmcvaG9tZS9pbmR1c3RyeS8yMDIxL3NlcHRlbWJlci91a19kZWZlbnNlX21pbmlzdHJ5X3RhcmdldHNfbGFzZXJfcmZfd2VhcG9ucy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The UK Ministry of Defense (MOD) recently announced that it had awarded three contracts, amounting to some £72.5-million (US$99 million), to industry consortia that will develop demonstrations of directed-energy weapons for UK naval and army vehicles. The demos—which include both advanced laser and radio-frequency (RF) systems—constitute part of the MOD’s Novel Weapons Program. The program aims, according to the MOD, at tooling up the UK armed forces with “the best possible equipment ready to deal with new and emerging threats.”
+
+Thales and Raytheon UK lead consortia
+
+The consortia undertaking the new weapons demonstrations will be headed up by the defense contractors Thales Group, based in Belfast, Northern Ireland, and Raytheon UK, headquartered in Essex, England. Each of the three contracts will have a four-year term.
+
+Thales will lead two of the three contracts. One of these—which also includes the firms BAE Systems, Chess Dynamics, Vision 4CE and IPG—will aim at producing a high-powered laser weapon system for detecting, tracking and destroying unmanned aerial vehicles (UAVs), or drones. Under the contract terms, the demo laser system is to be installed on a Royal Navy Type 23 frigate by 2023.
+
+For the other contract, Thales, along with QinetiQ, Teledyne e2v and Horiba Mira, will develop a high-powered RF system to be fitted onto a UK Army MAN support vehicle in the same year, for six months of “user experimentation.” The RF system will be designed to track “a variety of air, land and sea targets,” and then deliver a blast of electromagnetic energy to gum up the target’s critical electronic systems.
+
+The third contract inked by the MOD, to be handled by a consortium led by Raytheon UK, will work toward providing a high-energy laser weapon system that would be fitted onto one of the UK Army’s Wolfhound land vehicles for “a period of comprehensive user experimentation.” Raytheon says the system, which would target UAVs in particular, “uses an electro-optical/infrared sensor that prosecutes highly maneuverable threats with precision and relative ease.” The Raytheon-led consortium also includes the firms Frazer Nash, NP Aerospace, and LumOptica.
+
+MOD’s £6.6 billion R&D investment
+
+These three directed-energy weapons contracts form only a small part of a £6.6 billion R&D investment on the ledger for MOD over the next four years. Jeremy Quinn, the UK Minister of Defense Procurement, noted in an MOD press release that the investment flags the ministry’s “commitment to provide the armed forces with truly advanced capabilities.”
+
+“Directed-energy weapons are a key element of our future equipment programs,” Quinn said. “We intend to become a world-leader in the research, manufacture and implementation of this next-generation technology.”","{'label': 'Neutral', 'score': 0.9999127388000488}",neutral,0.9999127388000488,0
+Thales to equip Falcon 2000 Albatros aircraft for French Navy - Navy Recognition,"Wed, 22 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMimwFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlLzIwMjEvc2VwdGVtYmVyLzEwNzIzLXRoYWxlcy10by1lcXVpcC1mYWxjb24tMjAwMC1hbGJhdHJvcy1haXJjcmFmdC1mb3ItZnJlbmNoLW5hdnkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"According to a press release published by Thales on September 20, 2021, Dassault Aviation has awarded Thales a contract to provide its SEARCHMASTER® surveillance radar and the mission navigation system for the AVSIMAR program to renew the French Navy's fleet of maritime surveillance aircraft. The program includes the acquisition of 12 Falcon 2000 ALBATROS aircraft to replace eight Falcon 50 M and five Falcon 200 Gardian aircraft that will be withdrawn from active service between 2025 and 2030.
+
+Follow Navy Recognition on Google News at this link
+
+Falcon 2000 XLS aircraft (Picture source: Dassault Aviation)
+
+With the growing density of maritime traffic, threats such as fast inshore attack craft and jet-skis used by pirates and other illegal operators are an increasing cause for concern in every part of the world, including France's areas of interest. Best-in-class maritime surveillance capabilities therefore need to be deployed in coastal and littoral areas to detect and track these intelligent, agile targets in all sea states and visibility conditions.
+
+The ALBATROS aircraft will rely on Thales equipment to conduct maritime surveillance and intervention missions to meet these requirements.
+
+Thales equipment and systems on board the ALBATROS will include the jam-resistant mission navigation system, which will provide the aircraft's onboard sensors with extremely precise positioning data to meet operational requirements on civilian missions and in hostile military environments. Connected to the aircraft's mission system, the Thales solution includes the TopAXYZ inertial navigation system, the TopStar 100-2 military GPS and the TopShield CRPA anti-jamming system.
+
+SEARCHMASTER combines state-of-the-art combat proven technologies, generic hardware design with the experience of generations of fighter and maritime surveillance radar to deliver a unique multirole capability and huge growth potential through software upgrade. Customers have access to large catalogue of sea, land and air surveillance functions to meet their mission requirements.
+
+SEARCHMASTER multi-role surveillance radar offers the highest level of operational performance, whatever the mission or host platform. In the maritime space, ultra-quiet submarines pose a continuing threat, whilst the use of small fast-attack craft and jet skis by pirates and other illegal operators is an increasingly serious concern. In large land areas, search and track a small moving vehicle or fixed objects of interest or along extensive borders is a great challenge while in the air there is an increasing need for surveillance against illegal traffic using small aircraft.","{'label': 'Neutral', 'score': 0.9963626265525818}",neutral,0.9963626265525818,0
+DSEI 2021: IAI Unveils New Sea Serpent Anti-Ship Missile - Naval News,"Sun, 26 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vZXZlbnQtbmV3cy9kc2VpLTIwMjEvMjAyMS8wOS9kc2VpLTIwMjEtaWFpLXVudmVpbHMtbmV3LXNlYS1zZXJwZW50LWFudGktc2hpcC1taXNzaWxlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"DSEI 2021: IAI Unveils New Sea Serpent Anti-Ship Missile Israeli Aerospace Industries (IAI) showcased for the first time the new Sea Serpent anti-ship missile, which was developed in collaboration with Thales, at the DSEI 2021 trade show in London.
+
+The new missile, first announced in April 2021, is intended to provide a compelling solution for arming the Royal Navy’s Type 23 frigates with an anti-ship and anti-surface missile capable of matching and outmatching a rapidly expanding range and intensity of current and emerging threats. The requirement is known as SSGW for surface to surface guided weapon.
+
+Speaking to Naval News, Maritime Director of IAI UK, Malcolm McKenzie, underlined that Sea Serpent would be the best antiship missile worldwide thanks to its operationalization technology.
+
+“It (DSEI-2021) is the first time IAI had shown Sea Serpent anywhere in the world. Sea Serpent itself has been an operationalization of technology into a missile system that makes it the best anti-ship and land attack missile system available in the world today.”
+
+
+
+Malcolm McKenzie, IAI
+
+The Sea Serpent is specifically developed to meet the demands of the Royal Navy. McKenzie said that there has obviously been a parallel development path with other missile systems in the IAI portfolio such as the Gabriel V selected by the Finnish Navy as well as the Blue Spear being developed with ST Engineering for the Republic of Singapore Navy. But Sea Serpent is specifically designed to meet the threats that the Royal Navy will field both today and most importantly, tomorrow. “I can say it is without doubt and far away the best missile in his class.” he claimed.
+
+Due to confidentiality concerns, McKenzie did not reveal information about the missile’s terminal phase, but he did reveal the general performance specifications of the Sea Serpent, saying, “The Sea Serpent is designed to give a good stand off range. In its flight profile, it can achieve greater than 290 km in a low profile mode. It has an extensive capability against peer plus threats. But I can’t give details about its terminal phase on this unclassified forum. I can say that it is hugely exciting and the Royal Navy will be pleasantly surprised with the capabilities that we are offering.”
+
+Sea Serpent anti-ship missile (full scale model) on IAI stand at DSEI 2021.
+
+IAI has been collaborating with UK partners to reduce the risk of Sea Serpent integration onto the Royal Navy’s Type 23 frigates. “We are confident that the footprint of Sea Serpent is in very many ways similar to that of the current Harpoon system. Therefore there would be minimal requirements to alter the ship installation to allow Sea Serpent to be fitted.” Mackenzie added.
+
+The Director also explained why IAI chose Thales to develop Sea Serpent, saying, “We have chosen Thales as our preferred partner to make sure that the social value elements of our delivery absolutely meet the government requirements, and that we can offer the UK a good return for the investment it will make in the Sea Serpent capability.”
+
+The Royal Navy’s requirements in terms of delivery date is very stringent (reportedly end of 2023) but IAI is confident they can meet this very tight schedule. “Sea Serpent will be delivered on time.” McKenzie said.
+
+About Sea Serpent missile
+
+IAI’s Surface-to-Surface missile, SEA SERPENT, is being offered to the Royal Navy’s SSGW program. It provides an agile, highly penetrative, combined anti-ship and land attack capability at ranges well beyond 200 kilometers.
+
+To provide precise target detection, discrimination, and classification, an innovative RF seeker head and a sophisticated data analysis and weapon control system are used. Overcomes both kinetic counter-fire and increasingly sophisticated electronic countermeasures, allowing the missile to locate and attack its target in littoral, open-ocean, and overland environments.
+
+It is specifically designed to prevail in contested, congested, and confusing situations characterized by a large number of decoys, disrupted reality, and heavy electronic interference, as well as clutter from the land and false returns.
+
+Sea Serpent incorporates mid-course updates from real-time ISTAR feeds and the ability to re-task in flight in fast-moving situations, particularly in cooperative engagements and distributed sensor-and-shooter networks. The missile also provides significant Military Off-the-Shelf (MOTS) advantages in terms of cost, time-to-procurement, entry into operational service, and risk reduction.","{'label': 'Neutral', 'score': 0.9916167855262756}",neutral,0.9916167855262756,0
+New partnership between QEP and Thales to spur innovation in quantum security and quantum sensors - NUS News,"Wed, 29 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5udXMuZWR1LnNnL25ldy1wYXJ0bmVyc2hpcC1xZXAtYW5kLXRoYWxlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The National University of Singapore (NUS) and Thales have inked a Memorandum of Understanding (MoU) to mark the start of a two-year partnership to jointly develop and test quantum technologies for commercial applications.
+
+Under the MoU, Singapore’s Quantum Engineering Programme (QEP) and Thales aim to advance quantum technologies and prepare industry players for their arrival. The partnership will see industry and academic experts from Thales and QEP develop capabilities to test and evaluate interdisciplinary quantum security technologies. They will also explore potential research collaboration opportunities in the fields of new materials and design for quantum sensing. In addition, they will organise joint activities such as seminars and conferences to share their expertise and showcase their research outcomes.
+
+QEP is an initiative launched in 2018 by the National Research Foundation, Singapore (NRF) and hosted at NUS. The projects under the collaboration span technologies for security and sensing, and involve QEP researchers across Singapore’s institutes of higher learning and research centres.
+
+Professor Chen Tsuhan, NUS Deputy President (Research & Technology), said, “Singapore’s drive in quantum technologies is creating exciting opportunities for the nation’s digital economy. Building on this momentum, QEP’s partnership with Thales, a forerunner in the quantum revolution, will accelerate innovation and development of quantum solutions that are commercially attractive locally and globally. The success of this collaboration will also bolster Singapore’s attractiveness as a testbed and springboard for deploying new quantum technologies.”
+
+With its track record in developing security and cybersecurity equipments, Thales will make available its SafeNet Luna Hardware Security Modules (HSMs) and high-speed network encryptors that support interfaces to quantum devices for research use. The algorithms and quantum random number generation technology in these equipment provide the crypto-agility to easily implement quantum-safe crypto and combat the threats of quantum computing. This equipment would be deployed for proof-of-concept trials and test beds in Singapore. In May 2021, Thales launched a network encryption solution capable of protecting enterprise data from future quantum cyber-attacks. It supplements standard encryption with a scheme resistant to quantum computing that is under consideration for international standards.
+
+“Quantum technologies open almost infinite possibilities for the future and our researchers see real potential in three types of quantum applications, namely in sensors, communications and post-quantum cryptology. Thales has a rich heritage in research and technology in Singapore and being part of the QEP is a strong testament to our collaborative approach towards using quantum technologies to solve real world, end-user challenges. While this initial partnership involves our network encryption technology to provide crypto-agility and cybersecurity, we continue to work with the R&T ecosystem in Singapore to explore new topics, including using novel materials for quantum sensing or in secured communications in quantum technologies,” said Mr Kevin Chow, Country Director and Chief Executive, Thales in Singapore.
+
+The joint team of scientists and engineers will also develop devices that tap on quantum physics for higher performance. This is an area of focus under Singapore’s Research, Innovation and Enterprise 2025 Plan (RIE2025).
+
+Mr Ling Keok Tong, Director (Smart Nation and Digital Economy) at NRF, said, “Quantum communications and security, as well as quantum devices and instrumentation are two significant focus areas under the QEP. This MOU will enable like-minded organisations like Thales to collaborate with our public sector research performers to translate their capabilities into impactful next-generation quantum technologies for application in the industry.”
+
+Thales, which has 33,000 engineers across the world, also aims to be a key player in what is often called the second quantum revolution, which exploits subtle properties of quantum physics and requires mastery of the associated technologies.
+
+Quantum communication, for example, relies on quantum physics to make secure encryption keys that can protect confidential messages sent over public networks, while quantum sensors can use quantum physics to make precise measurements. In the future, quantum sensors may help vehicles navigate without global-positioning systems, power new medical imaging technologies and contribute to many other fields.
+
+A third family of quantum technologies, quantum computing, harnesses quantum physics to process information in new ways. It brings the promise of surpassing supercomputers for some data problems but also carries the threat of being able to break some of today’s standard encryption.
+
+France-Singapore collaboration in quantum research
+
+Thales has its global headquarters in France, which has a strong partnership with Singapore in science and innovation. A meeting of the France-Singapore Joint Science and Innovation Committee (COSIMIX) in June 2021 included exchanges on potential cooperation in quantum technologies.
+
+There is intense global interest in quantum technologies for both countries. In France, a Quantum Plan announced by French President Emmanuel Macron in January 2021 dedicates 1.8 billion euros (S$2.8 billion) towards developing quantum technologies in the country. In Singapore, the Centre for Quantum Technologies (CQT) at NUS has been building up a pool of quantum expertise since its establishment in 2007. QEP is investing S$121.6 million to advance Singapore’s quantum ecosystem, supporting research that applies quantum technologies for solving user-defined problems and activities that engage industry. Quantum communication and security, as well as quantum sensing are two pillars of the programme.","{'label': 'Positive', 'score': 0.9568538069725037}",positive,0.9568538069725037,1
+American Airlines brings IFE maintenance in-house - Runway Girl Network,"Mon, 13 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjEvMDkvYW1lcmljYW4tYWlybGluZXMtYnJpbmdzLWlmZS1tYWludGVuYW5jZS1pbi1ob3VzZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"In a blow to American Airlines’ inflight entertainment system suppliers, the US major confirms to Runway Girl Network that it brought maintenance of all IFE systems in-house earlier this year.
+
+“As part of the Joint Collective Bargaining Agreement (JCBA), in February, the maintenance of all inflight entertainment (IFE) systems on our aircraft transitioned to the American Airlines Technical Operations team, allowing our team members the opportunity to further expand their IFE knowledge base and maintain these systems for our customers going forward,” an American Airlines spokesperson told RGN regarding the termination of its IFE maintenance contracts with Panasonic Avionics and Thales.
+
+American presently offers embedded IFE on its widebody fleet, and on an ever-decreasing number of select Airbus A320 family aircraft.
+
+Last year’s near idling of the commercial aviation fleet due to the coronavirus pandemic not only affected the sale of IFE and connectivity hardware to airlines. It meant that IFE hardware maintenance revenue – where companies like Panasonic and Thales usually thrive – was pummeled.
+
+RGN understands that American’s decision to bring IFE maintenance in-house is not directly related to the carrier’s $550 million investment in its Tulsa maintenance facilities.
+
+American, meanwhile, remains an outlier among US majors in its decision not to offer embedded IFE on narrowbodies flying medium- and long-haul. The carrier has, however, turned to DirecTV and Dish to bring inflight live sports and news networks to its passengers’ own devices across its domestic narrowbody fleet.
+
+Related Articles:
+
+Featured image credited to Jason Rabinowitz","{'label': 'Neutral', 'score': 0.99253910779953}",neutral,0.99253910779953,0
+Thales Partners with EVERING to Secure the Next-Generation of Wearable Fashion in Japan - Samoa Observer,"Thu, 16 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnNhbW9hb2JzZXJ2ZXIud3MvY2F0ZWdvcnkvYXJ0aWNsZS85MTU2NtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS LA DÉFENSE--(BUSINESS WIRE)--Sep 15, 2021--
+
+Contactless payment technology brings convenience to consumers worldwide, especially in the wake of the current pandemic. And, by bringing contactless payment devices to wearables to integrate more seamlessly into users’ daily lives. Thales, with its strong history in providing secure payment products to banks and other financial institutions, now takes this to wearable fashion in Japan.
+
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20210915005664/en/
+
+©EVERING
+
+The EVERING, an NFC ring, enables contactless payments working on a “ Less is Smart” premise. The waterproof ceramic ring supports cash less and touch less payments, offering a seam less experience for users to pay when the ring is held in close proximity to the payment terminal. The waterproof battery- less ring requires no charging, and marries fashion with technology, with the convenience of contactless transactions.
+
+Thales will provide both the secure embedded chip and Operating System as well as card personalisation services for the device, with EVERING as the Payment Card Issuer, enabling fast and secure contactless transactions on this ring. The payment data on the ring will be directly linked to customers’ prepaid bank accounts,. The payment personalisation services on the rings ensure optimal data management for EVERING. All integration and personalisation work on the rings will be undertaken by dedicated Thales teams in Asia, ensuring close collaboration with EVERING to meet the evolving needs of their end users.
+
+“We are delighted to partner with EVERING, a company that is bridging technology and fashion with the launch of their contactless payment ring. Thales has a long history of providing digital identity and security solutions in Japan, notably in the area of mobile communications and banking services. This collaboration takes our commitment a step further as we work with an innovative start-up to support their customers in this fast-evolving payment ecosystem. With this partnership, Thales is accelerating our business development efforts with alternative payment issuers in Japan, including Fintech companies, as we continue to refine our technology for wearable devices,” Cyrille Dupont, Country Director, Thales in Japan
+
+“Consumers in Japan acknowledge that contactless electronic transactions are the way forward, with rapid adoption accelerated by the pandemic. By combining aesthetics with functionality, and most importantly, security, the EVERING may well be a solution that can drive Japan towards becoming a cashless society. We decided to partner with Thales because of their proven track record in security and encryption technologies. With this partnership, we assure our customers that their financial transactions remain safe and secure and that the ring is equipped with international-standards of security technology,” Takeshi Kawada, Chief Executive Officer, EVERING
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global leader in advanced technologies, investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum computing – to build a confident future crucial for the development of our societies. The Group provides its customers – businesses, organisations and governments – in the defense, aeronautics, space, transport, and digital identity and security domains with solutions, services and products that help them fulfil their critical role, consideration for the individual being the driving force behind all decisions.
+
+Thales has 81,000 employees in 68 countries. In 2020 the Group generated sales of €17 billion.
+
+About Thales in Japan
+
+Present in Japan since 1970, Thales works with over 500 partners ranging from large enterprises to SMEs. The Group serves Japanese needs in scientific, security and defence (Japanese government), aerospace, digital identity & security solutions (various Japanese organizations, MNOs, banks, governmental or civil markets), spatial, transportation and various industrial applications.
+
+A strong portfolio of solutions and technologies enables Thales to meet customer and partner needs efficiently by supporting them in common projects. Key projects have enabled Thales in Japan to expand the business locally and to build a dynamic and skilled workforce.
+
+With close to 150 employees in Japan, mainly in Tokyo, Thales’ ambition is to boost its local presence by partnering with strategic key industrial Japanese players and to address the needs of the local ecosystem.
+
+About EVERING
+
+Founded in February 2020 in Tokyo, EVERING is a high-technology company that strives to be truly smart, starting from payments to endless possibilities. The company adopts the philosophy of “ Simplicity in Design, Flawless Execution and Straightforward Functionality ” in its products, thereby enabling an intuitive, seamless and refined user experience. By focusing only on the necessary elements in its products and coupling with a sleek design aesthetic, EVERING brings a new level of technology and design to Japan.
+
+PLEASE VISIT
+
+Digital Identity & Security
+
+Download HD photos
+
+View source version on businesswire.com:https://www.businesswire.com/news/home/20210915005664/en/
+
+CONTACT: PRESS CONTACTThales, Media Relations
+
+Digital Identity and Security
+
+Vanessa Viala
+
++33 (0)6 07 34 00 34
+
+[email protected] Thales, Communications in Japan
+
+Serene Koh
+
++65 6594 6898
+
+[email protected]
+
+KEYWORD: NEW YORK UNITED STATES FRANCE JAPAN NORTH AMERICA ASIA PACIFIC EUROPE
+
+INDUSTRY KEYWORD: TECHNOLOGY SECURITY CONSUMER ELECTRONICS
+
+SOURCE: Thales
+
+Copyright Business Wire 2021.
+
+PUB: 09/15/2021 08:34 AM/DISC: 09/15/2021 08:34 AM
+
+http://www.businesswire.com/news/home/20210915005664/en","{'label': 'Positive', 'score': 0.9155265092849731}",positive,0.9155265092849731,1
+MOD invests £72.5m in Directed Energy Weapons - The Engineer,"Tue, 21 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWVuZ2luZWVyLmNvLnVrL2NvbnRlbnQvbmV3cy9tb2QtaW52ZXN0cy03MjVtLWluLWRpcmVjdGVkLWVuZXJneS13ZWFwb25zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Ministry of Defence has awarded around £72.5m to UK industry consortia, headed by Thales and Raytheon UK, for production of Directed Energy Weapons.
+
+Part of the Novel Weapons Programme (NWP), the announcement will see significant investment in the development of directed energy engineers including around 30 new jobs to be created at Thales’ site in Belfast, Northern Ireland.
+
+Three DEW capability demonstrators will be developed as part of the investment. The first laser demonstrator (LDEW), led by Thales, will undergo user testing onboard a Royal Navy Type 23 frigate by detecting, tracking, engaging and countering Unmanned Aerial Vehicles (UAVs). Partners will include BAE Systems, Chess Dynamics, Vision4CE and IPG.
+
+The British Army’s Wolfhound armoured vehicle will host another laser demonstrator, developed by a consortium led by Raytheon, that will investigate capability against UAVs and other air threats. Frazier Nash Consultancy and NP Aerospace will work alongside Raytheon on this.
+
+Thales will also lead development of a radio frequency (RF) demonstrator, which will be used by the British Army, hosted on a MAN SV truck to detect and track air, land and sea targets. This will involve collaboration with Qinetiq, Teledyne e2v and Horiba Mira.
+
+“We’ll be part of the whole process of design, manufacture, integration, supporting the programmes once they’re on deployment, and then involved in the data analysis and system performance analysis when the systems come back after trials,” said Philip McBride, managing director, Thales Northern Ireland.
+
+MORE DEFENCE NEWS FROM THE ENGINEER
+
+The laser and radio frequency systems could offer benefits such as reduced operating costs, increased endurance and flexibility for the UK’s Armed Forces.
+
+“You'd have both of these weapons available 24/7, so you’re not dependent on a logistics chain,” McBride explained. “If you have power, you have these weapons available and that’s a huge benefit.”
+
+Reduced risk of collateral damage is also expected to be a key advantage, McBride added, due to the high accuracy and precision of the DEWs. If successful in trials, the LDEW system could be deployed on a broad fleet of ships, he told The Engineer, whilst the RF DEW capabilities could be applied to many small military vehicles provided the power requirements allow.
+
+The demonstrators will undergo user experimentation from 2023 to 2025. This will focus on operation and maintenance of the new systems and aims to provide knowledge and experience to assess whether DEW can be fully integrated into other defence assets.
+
+LDEW Infographic showing a Type 45 destroyer (Credit: Thales/BAE Systems)
+
+“One of the biggest issues we have with any LDEW technology is how you can hold a spot of radiation on a small moving turning target, which is agile, in the battle space,” said McBride. “So for us, pointing with accuracy and precision is something we can do and that’s why the contract has come our way — that needs to be further developed, because you absolutely need to keep energy on the target for a fixed period before it has any effect.”
+
+Thales’ recruits will include software engineers, electronic and mechanical engineers, laser specialists and RF specialists working on the programmes remotely as well as out of its Belfast base on top of its core team in Northern Ireland.
+
+This will provide opportunity to develop broader skills within the business for the current programmes as well as for future capabilities, McBride added, bringing in young engineers across the entire programme life cycle.
+
+“For engineers that join us, they’re right at the start of a new product line which isn’t going to go away. The MOD have set aside a lot of finance to take these weapons into full scale production, provided the demonstrators deliver what they need to — and we’re very well positioned for that, as are our new recruits and the ones who’ll follow them.”","{'label': 'Neutral', 'score': 0.9473701119422913}",neutral,0.9473701119422913,0
+From the Magazine: COURT FINDS THALES AUSTRALIA IN BREACH OF INTELLECTUAL PROPERTY USE - APDR - Asia Pacific Defence Reporter,"Tue, 07 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2Zyb20tdGhlLW1hZ2F6aW5lLWNvdXJ0LWZpbmRzLXRoYWxlcy1hdXN0cmFsaWEtaW4tYnJlYWNoLW9mLWludGVsbGVjdHVhbC1wcm9wZXJ0eS11c2Uv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Great care needs to be taken reporting court judgements, and in this case we shall rely heavily on the words of Queensland Supreme Court Judge, The Honourable Justice Thomas Bradley. He explained that the plaintiffs – the Austrian company Madritsch and their Australian representative Nioa – allege that Thales used confidential information about a solution to a problem affecting all Steyr assault rifles, including the Army’s Austeyr, in breach of a non-disclosure agreement.
+
+The brief background is that both the original 5.56mm Steyr AUG and its local derivative are gas operated weapons that were never designed to incorporate a 40mm under barrel grenade launcher. When the Australian Army decided that they wanted one fitted, the initial Thales solution had the unintended consequence that when fired the recoil pushed the bolt back slightly so that the weapon had to be manually re-cocked to fire a bullet. These events occurred in 2006.
+
+Normally legal findings are dry affairs – particularly in IP matters – but the judgement of Justice Bradley most definitely is not. If anyone wants to learn about how a gas operated military assault rifle works they should read the initial several dozen pages of the document, which come with illustrations, charts and clearly worded explanations. Judge Bradley has a background in industrial law and a private interest in Numismatics (the study of coins and medals) and these presumably further assisted him to explain the highly technical complexities of the matter. A link to the full judgement is here: queenslandjudgments.com.au caselaw/qsc/2021/170.
+
+In summary, Thales were initially unable to solve the grenade launcher problem, despite many attempts. They became aware that Madritsch had developed a solution for the Austrian Army. They entered into discussions with the company, obtained technical data and then six conversion kits for Austeyrs after signing various NDAs. Subsequently, Thales said that they were no longer interested in a deal with Madritsch, though it took some time for the conversion kits to be returned. In the meantime, Thales had implemented a solution for the Australian Army.
+
+Later at a defence technology exhibition, Madritsch came across a modified Austeyr rifle at the Thales stand and on closer inspection it looked like the changes were extremely similar – if not identical – to the ones that they had offered to sell. The heart of the judgement is from pages 53-56 in which Justice Bradley rejects significant parts of evidence from Thales claiming that it was just coincidental and questions the truthfulness and character of several of the key witnesses.
+
+There are many parts to his findings in favour of the plaintiffs and just one paragraph will illustrate the tone, writing on page 75:
+
+“I am satisfied that Thales engaged in this conduct with the purpose of misleading or deceiving the plaintiffs so that they (and Nioa in particular) would not make a direct approach to the Commonwealth about supplying the Madritsch Solution kits for the use of the ADF until such time as Thales was ready to offer its alternative solution to the bolt unlocking problem to the Commonwealth in the LAND 125-3C program.”
+
+Thales Australia said they were disappointed with the result. “Since the judgement was handed down on 26 July 2021 Thales has carefully assessed its options for an appeal. Today (20 August), we have lodged an appeal with the Queensland Court of Appeal on the basis that Thales was incorrectly found liable based on inferences that were not supported by the evidence, and in some respects were contrary to the evidence. The appeal is against both the breach of confidence and the misleading and deceptive conduct rulings. We look forward to the matters being heard by the Court of Appeal, most likely in 2022.
+
+This is an excerpt from APDR. To read the full story, click here.","{'label': 'Neutral', 'score': 0.9970394968986511}",neutral,0.9970394968986511,0
+South Africa resumes Zuma’s protracted arms deal trial - Al Jazeera English,"Tue, 21 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIxLzkvMjEvc291dGgtYWZyaWNhLXJlc3VtZXMtenVtYXMtcHJvdHJhY3RlZC1hcm1zLWRlYWwtdHJpYWzSAWJodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjEvOS8yMS9zb3V0aC1hZnJpY2EtcmVzdW1lcy16dW1hcy1wcm90cmFjdGVkLWFybXMtZGVhbC10cmlhbA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ex-President Jacob Zuma, who faces corruption charges over a $2.5bn arms deal in the late 1990s, failed to appear in court.
+
+South Africa’s former President Jacob Zuma has failed to appear in court to respond to corruption charges over a $2.5bn arms deal.
+
+The trial, which has dragged out for years, resumed on Tuesday after a 10-day delay to allow state-appointed doctors to assess evidence of his condition alongside his own medical team.
+
+Two months into a 15-month prison sentence for contempt of court, Zuma, 79, was released last month on medical parole to undergo unspecified surgery.
+
+While details of Zuma’s medical condition have been kept confidential, prosecutors argued ill health did not justify his absence.
+
+“Attendance in court is not optional,” state advocate Wim Trengove said as the trial kicked off at the Pietermaritzburg High Court in the southeastern KwaZulu-Natal province.
+
+He contested an instruction from Zuma to “carry on with his case without him” and noted a “difference of opinion” between doctors, with state medics finding Zuma “fit to stand trial”.
+
+On Monday, a top court had ruled against his demand to rescind its decision to sentence him to 15 months in prison for refusing to answer questions in a corruption investigation.
+
+Zuma responded by saying that South Africa was becoming a “constitutional dictatorship”.
+
+The trial started in May after numerous postponements as Zuma’s legal team battled to have the charges dropped. It has been repeatedly stalled by legal arguments, including Zuma’s request to replace lead prosecutor Billy Downer, whom he accuses of bias.
+
+Charges against Zuma were dropped in 2009 by former National Prosecuting Authority head Mokotedi Mpshe weeks before he was elected president.
+
+They were, however, reinstated in 2018, marking one of the longest-running legal battles in the country.
+
+The former president is jointly accused with French arms firm Thales and is facing 18 charges, including corruption, money laundering, and tax evasion racketeering linked to the arms deal in the late 1990s.
+
+Zuma has denied the charges and regards the criminal trial against him as politically motivated.","{'label': 'Neutral', 'score': 0.9955305457115173}",neutral,0.9955305457115173,0
+DSEI 2021: master minded Schiebel S-100 - EDR Magazine,"Fri, 17 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L2RzZWktMjAyMS1tYXN0ZXItbWluZGVkLXNjaGllYmVsLXMtMTAw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"By David Oliver
+
+Thales Defence Mission Systems and Schiebel has held a series of trials in response to emerging requirements that will equip deployed maritime operational vessels with a capability to provide a persistent, assured and integrated Intelligence, Surveillance, Target Acquisition and Reconnaissance (ISTAR) asset to find, track and identify surface threats, such as Fast Intruder Attack Crafts (FIACs) and single and multiple Unmanned Surface Vessels (USVs).
+
+The trials combined the capabilities of the Schiebel CAMCOPTER S-100 Unmanned Aerial System (UAS) equipped with an integrated sensor suite consisting of Thales’s I-Master radar, the IAI POP ULTRA EO/IR sensor pod and IFF.
+
+The S-100’s sensors, supported by an Automatic Identification System and fused together with the CarteNav AIMS Mission System provide the operator the ability to detect and identify unknown targets quickly.
+
+I-Master can be operated in both Synthetic Aperture Radar (SAR) and Maritime Moving Target Indication (MMTI) modes and once it detects and finds a contact, the on board EO/IR sensor is cross-cued to perform the identification. High-definition imagery and radar data is downloaded to the human operator and disseminated in real time through the host ship’s Combat Management System and to multiple users.
+
+The selection of the mature and proven CAMCOPTER S-100, with over 100,000 operating hours and in service with the Royal Australian Air Force and French Navy with Thales’ formidable sensor suite, comes at a time when the need for definitive maritime surveillance against asymmetric threats is increasingly called upon to ensure safe operation in high tempo, high-risk areas around the world.
+
+A live flying demonstration and sensor suite trial of this maritime capability took place with a UK-registered S-100 in UK airspace under CAA approvals in July latest three weeks along with a demonstration of full data integration into the Thales TACTICOS Combat Mission System using a Digital Supervisor/OARIS bridge.
+
+Head of Thales UK UAS Strategy and Product Development, Matt Moore, told EDR On-Line that further trials with the S-100 are scheduled to take place at Schiebel’s facility in Austria.
+
+Photo courtesy Thales/Schiebel","{'label': 'Neutral', 'score': 0.9998385906219482}",neutral,0.9998385906219482,0
+DSEI 2021: UK MCM follows a new course - Naval News,"Fri, 17 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vZXZlbnQtbmV3cy9kc2VpLTIwMjEvMjAyMS8wOS9kc2VpLTIwMjEtdWstbWNtLWZvbGxvd3MtYS1uZXctY291cnNlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"DSEI 2021: UK MCM follows a new course One key outcome of the UK government’s March 2021 Defence Command Paper ‘Defence in a competitive age’ was to set out plans for the phased replacement of the Royal Navy’s current mine countermeasures vessel fleet by a new generation of maritime autonomous systems.
+
+A pilot autonomous route survey capability, known as Project WILTON, became operational during 2020. Follow-on capabilities are being developed under the Mine Hunting Capability (MHC) programme, with the aim being to develop a scalable suite or ‘toolbox’ of mine hunting and sweeping capabilities that can be deployed from a range of maritime platforms, or from the shore.
+
+The Royal Navy is acknowledged to be one of the most proficient MCM forces in the world. Its current capability is based on the Sandown class minehunters parented by the First Mine Countermeasures Squadron at HM Naval Base Clyde, and the Hunt class vessels of the Second Mine Countermeasures Squadron based at HM Naval Base Portsmouth. Two ships from either squadron are forward based at Bahrain at any given time.
+
+The Sandown class are equipped with the Sonar 2093 variable depth minehunting sonar (now modified for wideband operation), while the Hunt class are fitted with the Sonar 2193 wideband hull-mounted sonar. Ships of both classes are currently being upgraded with the ORCA command information system (a variant of the Thales M-Cube product).
+
+However, under plans set out in the recent Defence Command Paper, the RN will over the next decade pursue a phased transition to a new MCM model based on maritime autonomous systems. While still in its Assessment Phase, the MHC programme has evolved an incremental procurement strategy that breaks the programme into a series of stand-alone capabilities. As a result, initial capability insertion/operational exploitation – known as MHC Block 1 – is being delivered in parallel with continuing evaluations of technology and concepts.
+
+The drawdown of the Royal Navy’s manned MCMV force began on 4 August this year when HMS Blyth and HMS Ramsey were formally decommissioned at Rosyth. Both vessels were subsequently handed over to Babcock for refit prior to transfer to the Ukrainian Navy.
+
+The drawdown of the RN’s remaining five Sandown-class minehunters – HMS Penzance, HMS Pembroke, HMS Grimsby, HMS Bangor and HMS Shoreham – will continue through to 2025. Their retirement is aligned to the introduction of operational demonstrator systems being procured under the umbrella of MHC Block 1.
+
+As part of MHC Block 1, a team led by Thales has been contracted to deliver three production standard autonomous minehunting systems based on the primary system developed under the French/UK Maritime Mine Countermeasures (MMCM) programme. The MMCM system architecture includes an unmanned surface vessel (USV) built by L3Harris, SAMDIS synthetic aperture payloads developed by Thales, and a Saab-supplied Multi-Shot Mine Neutralisation System.
+
+MHC Block 1 also includes three Sweep systems to be provided by Atlas Elektronik UK (AEUK). This builds on an MHC Sweep demonstrator previously delivered by AEUK using an 11 m ARCIMS USV – named RNMB Hussar – configured with a power generation module and towed magnetic, acoustic and electrical influences, including up to three coil auxiliary boats.
+
+Initial deliveries of MHC Block 1 systems are scheduled for late 2022. An investment decision point for MHC Block 2 – representing the main part of the MCM recapitalisation – is planned for 2024. The intention is that this will allow the remaining Hunt class vessels – HMS Brocklesby, HMS Cattistock, HMS Chiddingfold, HMS Hurworth, HMS Middleton and HMS Ledbury – to leave service between 2029 and 2031.
+
+In advance of MHC Block 1 and Block 2, Project WILTON represents an important first step. Based at HM Naval Base Clyde, WILTON is a composite peacetime MCM route survey capability assembled from a mix of assets: these include manned and unmanned surface craft, autonomous underwater vehicles, remotely operated vehicles and side scan sonar equipment, plus a portable operations centre and associated communications.","{'label': 'Neutral', 'score': 0.9999961853027344}",neutral,0.9999961853027344,0
+Thales wins deal to support Australian Army Land 400 Boxer - APDR - Asia Pacific Defence Reporter,"Tue, 28 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL3RoYWxlcy13aW5zLWRlYWwtdG8tc3VwcG9ydC1hdXN0cmFsaWFuLWFybXktbGFuZC00MDAtYm94ZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia has been contracted by Rheinmetall Defence Australia to manufacture critical weapons components for the Australian Army’s new Boxer 8×8 Combat Reconnaissance Vehicles, signifying a strong show of support for our defence industry.
+
+Minister for Defence Industry Melissa Price announced Thales would draw on its extensive experience and Australian supplier base to assist with the manufacture of components for the Boxer’s 30mm cannon. The components will then be assembled at Rheinmetall’s Military Vehicle Centre of Excellence in Redbank, Queensland, officially opened by Prime Minister Scott Morrison in October last year.
+
+Price said partnerships with local defence industry were critical to ensuring our industrial base effectively supported Australia’s national security. “This contract is a great testament to the Morrison Government’s commitment to strengthening Australia’s sovereign defence industrial capability and maximising opportunities for local business in defence manufacturing,” Price said. “Australian industry will play a vital role in the delivery of the Boxer vehicles. Rheinmetall will use suppliers across the country to design, build, assemble, test and support the Boxer vehicles for the Army. We are backing Aussie businesses and supporting local jobs.”
+
+Minister for Veterans’ Affairs and Defence Personnel Andrew Gee welcomed the announcement, which is a boon for jobs and investment in the Lithgow community. “In 1912, the Lithgow Small Arms Factory, which would become Thales Australia, began producing SMLE 303 rifles carried by Australian forces in WW1,” Gee said. “More than a century later, the tradition of the Australian Defence Force employing not only Australian-made but Lithgow-made weapons continues, with Thales Australia to deliver 30mm cannon components for the new Boxer 8×8 Combat Reconnaissance Vehicles. First samples of the weapon components manufactured by Thales Australia in Lithgow have been given the green light, passing stringent quality control checks by Rheinmetall in Germany. The manufacturing partnership will create about 10 new jobs and provide support for the 130 jobs already at the Lithgow site. The Lithgow Arms Factory is part of the fabric of the Lithgow region, and plays a key role in our national defence capability, ensuring our ADF personnel have access to world-class military weapons.”
+
+Rheinmetall Defence Australia will deliver and support 211 Boxer 8×8 Combat Reconnaissance Vehicles – a key investment under the 2020 Force Structure Plan – under the LAND 400 Phase 2 – Combat Reconnaissance Vehicle project to replace the Australian Army’s Australian Light Armoured Vehicles. The Boxer vehicles will provide enhanced mobility, firepower and protection in environments ranging from regional stability missions to high threat operations.
+
+Thales Australia has welcomed the announcement by the Minister for Defence Industry Melissa Price and the Minister for Veteran’s Affairs Andrew Gee of a new manufacturing partnership between Rheinmetall Defence Australia and Thales Australia. The partnership will also look at transferring to Australia the manufacture and sustainment of a range of mounted weapons, combining Thales Australia’s deep manufacturing expertise and domestic supplier base with Rheinmetall’s world-class mounted weapons.
+
+Through substantial technology transfer to Australia in support of a number of Defence projects, and with an aim of 100 percent Australian Industry Capability, this partnership will be a significant driver of growth in Australia’s sovereign capability, boosting investment in SMEs, R&D and delivering long-term jobs. Thales Australia has built a national industrial ecosystem to support the delivery of capability to the Australian Defence Force. In 2020 alone Thales Australia spent $657m with 1,841 Australian firms, 82 percent of which were SMEs.
+
+Thales Australia’s recent supply chain analysis with Accenture demonstrated that there is a substantial economic benefit from domestic defence spending, delivering thousands of jobs through hundreds of business across the nation. “Increasing Australia’s industrial capability will build Australia’s self-reliance and the capability of the broader Australian advanced manufacturing sector, which is vital to delivering a capability advantage to the Australian Defence Force,” said Chris Jenkins, chief executive officer, Thales Australia.","{'label': 'Neutral', 'score': 0.9701392650604248}",neutral,0.9701392650604248,0
+Thales Alenia keeps promise made to Schneider - Delano.lu,"Wed, 08 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vZGVsYW5vLmx1L2FydGljbGUvdGhhbGVzLWFsZW5pYS1rZWVwcy1zY2huZWlkZXIt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"""With this new digital centre, Thales Alenia Space plans to develop 'minimum viable products' in relation to its customers, be an anchor for the development of this business sector on a local and regional scale, and actively participate in the innovation ecosystem in Luxembourg,"" said Thales Alenia Space CEO Jean-Loïc Galle.
+
+That was more than two years ago. In a press release, the ministry of economy and the Luxembourg Space Agency announced on 18 June 2019 that the then economy minister, (LSAP), had signed a letter of intent with the French aerospace giant to create a centre of excellence in Luxembourg.
+
+On 1 September, the French company, which set up its Luxembourg subsidiary in June 2020, made the opening of the centre official in a separate statement. ""This new centre, Thales Alenia Space, in Luxembourg, will focus on the development of highly innovative digital solutions for telecommunication, observation and navigation space products. It will leverage big data, artificial intelligence and cybersecurity technologies to meet the challenges of complex satellite systems, while striving for excellence in terms of user experience,"" it said.
+
+Fourth city of the Digital Factory
+
+""One of the first missions of the centre will be to contribute to the development of the satellite product line Space Inspire by Thales Alenia Space, enabling the reconfiguration of in-orbit telecommunication missions as part of the Novacom II project, which is part of ESA's ARTES research and development programme. The centre's work will also focus on digital twins, digital solutions for better preparation and exploitation of Earth observation data, data enhancement engines, and others.""
+
+It should be noted that the Novacom II project has been led since the beginning of September by Frédéric Rouesnel, who has worked for LuxSpace, Luxinnovation – where he was in charge of space, the ministry of economy and the Luxembourg Space Agency.
+
+The Space Inspire product line allows, via software, to permanently reconfigure a satellite according to the needs of the operator's customers. This will be one of the strong points of Luxembourg's future SES-17 satellite, entrusted to Thales Alenia Space.
+
+The Luxembourg structure will follow its digital factory model, already tested since 2017, and its arrival in Montreal with cortAIx and Station F, and now at WeWork Paris and WeWork Singapore.
+
+This article was originally published on . It has been translated for Delano.","{'label': 'Neutral', 'score': 0.997713565826416}",neutral,0.997713565826416,0
+ResilientWorks magnet project to spearhead Wales' EV drive in heart of Tech Valleys - Business Wales,"Mon, 27 Sep 2021 10:10:03 GMT",https://news.google.com/rss/articles/CBMilQFodHRwczovL2J1c2luZXNzd2FsZXMuZ292LndhbGVzL3dhbGVzcnVyYWxuZXR3b3JrL25ld3MtZXZlbnRzLWFuZC1jYXNlLXN0dWRpZXMvbmV3cy9yZXNpbGllbnR3b3Jrcy1tYWduZXQtcHJvamVjdC1zcGVhcmhlYWQtd2FsZXMtZXYtZHJpdmUtaGVhcnQtdGVjaNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Economy Minister Vaughan Gething met global technology company Thales to see first-hand how work on the ResilientWorks test bed environment for electric and autonomous vehicles and energy infrastructure is progressing.
+
+ResilientWorks is set to be an industry leading magnet project, creating new, high-skilled jobs and economic opportunities whilst attracting organisations from start-ups to major international companies to help develop the next generation of low carbon technologies.
+
+The Welsh Government’s partnership with Thales is part of its £100 million Tech Valleys investment programme. The programme has a commitment to create 1,500 sustainable jobs focused on Blaenau Gwent and hinterland by capitalising on opportunities arising from the fourth industrial revolution, encouraging the adoption of digital technologies and developing high value advanced technologies that support cutting edge industries.
+
+Facilities will include research laboratories, a test track and a model street complex. Start-ups, SMEs, international companies and governments will all be able to use the new facility to robustly test emerging cutting edge, technology which in turn will help to build public confidence in innovations including the safety and reliability of autonomous vehicles.
+
+ResilientWorks will be located next to the National Digital Exploitation Centre (NDEC), a cyber-security centre of excellence partnership between Thales, the University of South Wales and the Welsh Government.
+
+Economy Minister Vaughan Gething said:
+
+The next revolution will be powered by knowledge. Tech industries rely on a smart workforce that’s trained in all the right skills and the local education system is already preparing the next generation for high-skill, high-value jobs.
+
+The facility is set to be a unique capability for UK Industry, bringing together critical national infrastructure, autonomous vehicles, and power systems in integrated testing and research.
+
+We believe ResilientWorks will be a genuine magnet project to spearhead Wales’ electric and autonomous vehicle efforts and secure energy drive in the heart of Tech Valleys. We stand ready alongside our industry partners to capitalise on the opportunities arising from emerging and developing technologies.
+
+Gareth Williams, Vice President Secure Information and Communications Systems, Thales said:
+
+We intend our Ebbw Vale campus to be a magnet for industry and public services and even at this build stage we have really significant interest in ResilientWorks from major players in the power and automotive industries. They’re attracted by the unique combination of capabilities we’re developing here.
+
+The Minister is visiting us on a day in which we’re also hosting Wales’s Technology Leadership Council and a strategic planning session for one of our key partners in the power industry, while our education team are out in local schools and colleges.
+
+“What we’re doing at Ebbw Vale, in partnership with government and universities, is making the valleys a centre for global technology and providing the foundation for Thales to grow further in Wales.
+
+Councillor Dai Davies, Deputy Leader and Executive Member for Regeneration and Economic Development commented:
+
+I’m pleased that the Economy Minister was able to visit Blaenau Gwent today to see this exciting development for himself. Electric vehicle technology is going to certainly help meet the challenge of reducing carbon emission in the longer term and it is great that this development work will take place here in Ebbw Vale.","{'label': 'Positive', 'score': 0.8774999380111694}",positive,0.8774999380111694,1
+Time’s up for Belinda Hutchinson - Honi Soit,"Mon, 20 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vaG9uaXNvaXQuY29tLzIwMjEvMDkvdGltZXMtdXAtZm9yLWJlbGluZGEtaHV0Y2hpbnNvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"In recent months, staff-led campaigns at RMIT and the University of Newcastle have pushed out Chancellors who respectively chaired gambling and mining companies. In both cases, staff, with the support of the NTEU, argued that leadership of companies in such exploitative and harmful industries was repugnant to the “values” of their universities.
+
+The departures of Ziggy Switkowski and Mark Vaile raise the question of whether a new ethical standard for university chancellors is developing. In the legislation which governs Australian universities, including the University of Sydney Act, members of university governing bodies (such as the Senate) are required to have “an appreciation of the object, values, functions and activities of the University.”
+
+In comments to Honi, NTEU National President Alison Barnes said that “the NTEU believes that university leaders have both an ethical and legislative obligation to demonstrate their commitment to supporting the values of their universities….as important institutions that provide social benefit and perform public good.”
+
+The University of Sydney’s Belinda Hutchinson is front of mind in any discussion about chancellors and ethics. When not performing her duties as Chancellor, Hutchinson also acts as the Chairman of Thales Australia, the local arm of French-owned global weapons manufacturer Thales Group, which has a far from perfect ethical record.
+
+Thus, the question must be asked: what are the values of the University, and is Belinda Hutchinson compatible with those values?
+
+Values
+
+The classical idea of a university is that the university serves knowledge in research and teaching, and in serving knowledge the university serves society. Thus, on this view, the core values and purposes of the university are (a) knowledge, and (b) public service.
+
+The University lists four official values on its website: courage and creativity; respect and integrity; diversity and inclusion; openness and engagement. Shucked of meaning, and couched as corporate comms from an HR pro forma, it is difficult to ascertain what these substantively refer to. In these values, there are no references to scholarship, knowledge, research, or public service, only vague incantations to “encourage each other to explore further” and “advocate for all to realise their full potential.” The only near-substantive value statement from the University — its recent motto of ‘Leadership for Good’ — comes from its marketing department.
+
+Thus, the University’s own current conception of its values is far from the classical ideal, and aligns more closely with the corporate world.
+
+Belinda Hutchinson
+
+Which brings us to Belinda Hutchinson. While Hutchinson has no experience working at a university, or indeed any academic experience beyond a Bachelor of Economics, she has an extensive corporate CV, with blue-chip directorships at Qantas, Coles Myer, QBE, Energy Australia, and, less reputedly, Tabcorp, Australia’s largest gampling company. In 2013, in her first year as Chancellor, Hutchinson resigned as the Chair of QBE’s board as the company posted a $280 million loss, far from expectations of a $1 billion profit that year. According to The Australian, “The company’s credibility was shot and serious questions asked about its processes, culture and acquisitions.”
+
+But in every corporate career, one has their missteps. Hutchinson’s corporate credentials are proven beyond doubt by the fact that she wrote the Australian foreword to Sheryl Sandberg’s infamous Lean In.
+
+At the top end of town, Hutchinson is extremely well connected. Even beyond the corporate world, Hutchison and her husband Roger Massy-Greene, a climate change denying former mining executive and Liberal Party donor, own the most expensive apartment in Australia’s most expensive suburb, Point Piper, just down the road from Malcolm Turnbull and UNSW Chancellor David Gonski, and amongst Sydney’s deepest pockets.
+
+In comments to Honi, the University praised Hutchinson and emphasised her record of philanthropy: “She was awarded the country’s top honour, a Companion of the Order of Australia, in recognition of her eminent service to business, tertiary education and scientific research, and for her philanthropic endeavours to address social disadvantage.”
+
+Hutchinson sits on a number of not-for-profit boards, including Australian Philanthropic Services and St Vincent’s Health Australia’s NSW Advisory Board, and “her family foundation supports a variety of community-based initiatives such as the Hunger Project in Malawi, Africa.”
+
+While Hutchinson and her husband do have a consistent record of philanthropy — including a donation of $50,000 to St Paul’s College in 2019 — such initiatives would be a minimum expectation for a couple of such wealth. In one deal alone in 2006, Massy-Greene fetched $124.5 million when Excel Coal, the company he chaired, was bought for $1.8 billion.
+
+Thales
+
+In 2015, Hutchinson was appointed Chairman of Thales Australia, the local subsidiary of French-owned Thales Group, the world’s eighth largest arms manufacturer. Putting aside the obviously murky ethics of weapons manufacturing in the first place, Thales has a distinctly mediocre moral record. In the last five years alone, it has been the subject of corruption and bribery indictments, been complicit in international humanitarian law violations in Yemen, and is the subject of a complaint to the International Criminal Court.
+
+Bribery and Corruption
+
+In South Africa, the corruption trial of former President Jacob Zuma is due to resume this week. Zuma is facing charges of fraud, racketeering, money laundering and corruption in relation to allegations that he and Thales were involved in “an organised criminal enterprise” between 1995 and 2001. According to prosecutors, Zuma, during the period he was National Chairperson of the African National Congress and Deputy President of South Africa, agreed to accept hundreds of payments from Thales in return for providing the company “political protection” and “ensuring there was no investigation” in relation to a controversial arms deal. Thales itself is also facing ongoing racketeering, money-laundering and corruption charges in South Africa for its alleged bribery of Zuma.
+
+In France, the former head of Thales Asia, Bernard Baiocco, and former Thales Group CEO Jean-Paul Perrier have been indicted over allegations of corrupt payments to former Malaysian Prime Minister Najib Razak in relation to a 2002 submarine deal. The two are accused of involvement in the payment of millions of Euros in kickbacks to an associate of Razak’s, Abdul Razak Baginda, in order to secure the deal. One payment, to a company controlled by Baginda’s wife, totalled 114 million Euros. The affair first came to light in 2006, when Mongolian model Altantuya Shaariibuu, with whom Baginda was having an affair, was shot dead and her body blown up near Kuala Lumpur. It has been suspected that the murder was linked to her work as a translator on the submarine deal. Two police bodyguards have been convicted over the murder. Baginda was acquitted in 2008 after standing trial for abetting the murder, while suspicions of Najib Razak’s involvement persist.
+
+Human Rights
+
+Thales has come under scrutiny for providing arms to Saudi Arabia and the United Arab Emirates, both of whom have been accused of war crimes in the ongoing conflict in Yemen. Last week, the UN Group of Eminent Experts on Yemen presented a report to the UN Human Rights Council, which found that “parties to the conflict continue to engage in serious violations of international human rights law and international humanitarian law.” The report also called for states to “stop providing arms and military support to the parties given the role of such transfers in perpetuating the conflict and potentially contributing to violations.”
+
+Thales Group manufactures the Damocles Targeting Pod, and sells the product to Saudi Arabia and the UAE, which use the pod in bombing raids in Yemen. The pod is attached to fighter jets, and allows the pilot to “guide by laser any type of missile onto its target.” According to the French Directorate of Military Intelligence, the Saudi-led coalition carried out more than 24,000 airstrikes in Yemen between 2015-2019, causing more than 8,300 civilian deaths.
+
+Saudi Arabian Tornado jet with Thales’ Damocles Targeting Pod attached
+
+Thales is the subject of a complaint to the International Criminal Court by the European Centre for Constitutional and Human Rights and Amnesty International over their supply of products that are used in the Yemen conflict. The complaint says that “European companies [including Thales] have substantially contributed to the aerial warfare carried out in Yemen and, as a result, may be potentially complicit in the Coalition’s serious violations of international humanitarian law, some of which amount to war crimes.”
+
+Melissa Parke, Australia’s former Minister for International Development and co-author of the UN Group of Eminent Experts report, told Honi that “the flow of weapons to warring parties in Yemen is perpetuating the conflict and the extreme suffering of the Yemeni people.”
+
+While Thales Australia is a separate legal entity to its parent company, and is not itself the subject of any complaints, concerns have been raised over its sale of MRAP ‘Bushmaster’ vehicles to Kopassus, an Indonesian army special forces group which is accused of human rights violations in East Timor and West Papua.
+
+****
+
+Melissa Parke further told Honi that “It is concerning to note that the Australian Chairperson of one of these arms manufacturers [that supply the Saudi-led Coalition] is also the Chancellor of one of Australia’s most prominent public universities. The University may wish to reflect on whether this is consistent with its expressed commitment to human rights.”
+
+When asked why it was appropriate for her to be leading USyd, a spokesperson for Hutchinson told Honi that she “is recognised as a leading advocate for the critical role of world-class education and research.” If the main qualification for being a Chancellor is being an “advocate” for education, then any schmuck could do the job.
+
+If the University wishes to publicly display itself as a valueless corporation committed to little other than profit and CBD schmoozing, then Hutchinson is perfectly suited to the job of Chancellor. However, if the University wishes to display any commitment to knowledge and, more importantly, public service — the core values of a University — then Belinda Hutchinson’s qualifications, experience and associations are not appropriate.
+
+As the University itself says, the role of Chancellor is “to ensure our high standing in the wider community.” Being Chair of the local branch of a company which is caught up in multiple large-scale international bribery scandals, abetts human rights violations, and is the subject of a complaint to the International Criminal Court does not ensure the University’s high standing in any community beyond Point Piper. It substantially detracts from it.
+
+If Mark Vaile and Ziggy Switkowski were not seen as good enough to lead a public institution, it is difficult to see how the chair of an arms company can display a proper appreciation of the values of a university.
+
+Belinda Hutchinson should not be the Chancellor.","{'label': 'Neutral', 'score': 0.9999724626541138}",neutral,0.9999724626541138,0
+US approves Australian TNT for military use - Australian Defence Magazine,"Fri, 17 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9kZWZlbmNlL2pvaW50L3VzLWFwcHJvdmVzLWF1c3RyYWxpYW4tdG50LWZvci1taWxpdGFyeS11c2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The US Department of Defense has certified Australian-made TNT to military specifications, paving the way for Australian TNT to be exported to the US from the Commonwealth-owned and Thales-operated plant in Mulwala, NSW.
+
+In a joint statement released following the 31st Australia-United States Ministerial Consultations (AUSMIN 2021) on Thursday, Foreign Minister Marise Payne welcomed the decision.
+
+""Australia also welcomes the recent decision for Australian-made TNT to be certified to U.S. military specifications as an alternate source of supply for the United States,"" Minister Payne said.
+
+Mulwala is one of only a limited number of facilities worldwide capable of producing TNT. The US imports large quantities of TNT supplies for military purposes.
+
+ADM understands that the certification process began prior to the Covid-19 pandemic. US defence officials physically assessed the plant in Mulwala, and further trial and assessment work on Australian TNT samples then continued in the US ahead of final certification this week.
+
+""It means we can engage with US customers who utilise TNT as part of their manufacturing process to supply the US military,"" Dion Habner, Managing Director of Australian Munitions, Thales Australia, said.
+
+Those customers could include General Dynamics, American Ordnance and the US military itself.
+
+TNT currently produced in Mulwala is mostly used for domestic military and civilian purposes in Australia. According to Habner, US certification means that Thales could double production of TNT to meet American demand – although increased freight costs remain a challenge.
+
+Until recently Thales Australia sourced toluene (a key ingredient of TNT, or trinitrotoluene) from overseas but has now secured local supply from Viva Energy in Geelong.
+
+""We're really pushing to secure local supply of those key ingredients,"" Habner said. ""The next US orders requiring TNT could be released next year, meaning we'd hope to see the first shipments exported in the back end of next year.
+
+""Defence's support and engagement with the US Department of Defense has been really beneficial.""
+
+Thales Australia is also using locally-made TNT to establish an Australian domestic filling and production capability for the 155mm M795 high-explosive artillery projectile. This activity is part of the Cooperative Research and Development Agreement (CRADA) between the US Army’s Development Command Armaments Center and Thales Australia.
+
+""We're working on the technology transfer to stand up this capability in Australia,"" Habner said. ""Having our locally-made TNT certified to American standards is a critical step in this process.""
+
+Thales' site in Mulwala also produces military-grade rocket propellant, solid fuel rocket motors and boosters, while the company's plant in Benalla manufactures high explosive artillery rounds.
+
+The company signed a $1.1 billion agreement with the Commonwealth in 2020 to operate the two facilities for the next decade.","{'label': 'Neutral', 'score': 0.9999070167541504}",neutral,0.9999070167541504,0
+£72.5-million investment for laser and radio frequency weapons - GOV.UK,"Tue, 14 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvNzI1bS1pbnZlc3RtZW50LWZvci1sYXNlci1hbmQtcmFkaW8tZnJlcXVlbmN5LXdlYXBvbnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The MOD has awarded three contracts worth around £72.5-million to UK industry to produce advanced laser and radio frequency demonstrators as part of the Novel Weapons Programme (NWP).
+
+Known collectively as Directed Energy Weapons (DEW), these next-generation technologies could revolutionise the battlefield and reduce the risk of collateral damage. The systems are powered by electricity and operate without ammunition, significantly reducing operating costs, increasing platform endurance and providing unprecedented offensive and defensive flexibility to personnel on the frontline.
+
+Awarded to consortia headed by Thales and Raytheon UK, the four-year contracts will create at least 49 new jobs and sustain 249 jobs.
+
+The first laser will undergo user testing onboard a Royal Navy Type 23 frigate by detecting, tracking, engaging and countering Unmanned Aerial Vehicles (UAV), whilst the British Army’s Wolfhound armoured vehicle will host a laser demonstrator that will investigate capability against UAV and other air threats. The radio frequency demonstrator will also be used by the British Army, hosted on a MAN SV truck to detect and track a variety of air, land and sea targets. This will create around 30 new jobs at Thales in Belfast, Northern Ireland.
+
+Minister for Defence Procurement, Jeremy Quin, said:
+
+“We are investing £6.6-billion in research and development across Defence over the next four years, reaffirming our commitment to provide the Armed Forces with truly advanced capabilities.
+
+“Directed Energy Weapons are a key element of our future equipment programmes and we intend to become a world-leader in the research, manufacture and implementation of this next-generation technology.”
+
+Marking a significant step towards the use of high-powered laser and radio frequency weapons across Defence, the investment reaffirms commitments outlined in the Defence Command Paper ensuring UK Armed Forces are equipped with the best possible equipment ready to deal with new and emerging threats.
+
+Further supported by an increase of £24-billion of Defence spending over the next four years and an additional £6.6 billion of funding for research and development, this a prime example of how the MOD is using research partnerships with industry to invest in the technology of tomorrow.
+
+These innovative capabilities will be integrated onto existing platforms for the Royal Navy and British Army and will undergo user experimentation from 2023 to 2025. The experimentation will focus on operation and maintenance of these new systems and will provide invaluable knowledge, information and experience to assess whether DEW can be fully embedded on other Defence assets in the future.
+
+MOD Director Strategic Programmes, Shimon Fhima said:
+
+“These technologies have the potential to revolutionise the future battlefield for our Armed Forces, enabling the prosecution of new targets in the land, sea and air domains and allowing commanders to meet mission objectives in new ways.
+
+“We must exploit at pace the cutting-edge technologies developed by the talented scientists and engineers across the UK to capitalise on its benefit.”
+
+The newly formed Team Hersa brings together the best acquisition skills from Defence Equipment and Support (DE&S) and the best in technical expertise from the Defence Science and Technology Laboratory (Dstl).
+
+Team Hersa will manage delivery of the demonstrators and is responsible for preparing Defence for the introduction of innovative weapons systems, ensuring the UK Armed Forces can successfully integrate the weapons on current aircraft, ships and vehicles.
+
+The new contracts will exploit decades of MOD experience developing cutting-edge laser and radio frequency weapons technology and globally recognised strengths in performance testing and evaluation of these systems.","{'label': 'Positive', 'score': 0.9529063701629639}",positive,0.9529063701629639,1
+MI6 and CIA supplied Afghan mujahideen with Belfast-built weapons - TheDetail.tv,"Fri, 24 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWRldGFpbC50di9hcnRpY2xlcy9taTYtYW5kLWNpYS1zdXBwbGllZC1hZmdoYW4tbXVqYWhpZGVlbi13aXRoLWJlbGZhc3QtYnVpbHQtd2VhcG9uc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is the French company which now operates the Shorts missile development base in east Belfast. Photo by Jonathan Porter, Press Eye.
+
+IN the 1980s, forerunners to the Taliban in Afghanistan – the mujahideen – were provided with hundreds of missiles built in Belfast.
+
+The Islamic fundamentalist fighters were supported by the USA and British governments in their war against the Soviet Union which supported the then communist regime in the south Asian country.
+
+A plan, hatched by MI6 and the Central Intelligence Agency (CIA), led to hundreds of blowpipe missiles built by Shorts – a weapons manufacturing company based in east Belfast – being sent to the mujahideen.
+
+War in Afghanistan, a book published in 1990 by Mark Urban – BBC Newsnight’s diplomatic editor, outlined how over 300 of the Belfast-built weapons were supplied to the jihadi group in the 1980s.
+
+During this period, the Afghan mujahideen fought along with religious extremists from across the Arab world including Osama bin Laden, from Saudi Arabia, who spearheaded Al Qaeda – the organisation behind the 9/11 attacks.
+
+Mikhail Gorbachev pulled Soviet troops out of Afghanistan in 1989 and the communist regime in the country was toppled just a few years later.
+
+Civil war continued with the Taliban formalising in the mid-90s under the leadership of former mujahideen fighters. As the decade progressed the Taliban’s dominance in Afghanistan grew, but the group was toppled within months of the USA and UK forces going to war in the country following 9/11.
+
+However, troops from both countries maintained a significant presence in Afghanistan until last month (August 2021) – 20 years later.
+
+For a long time, western military action in the country was said – by the relevant governments – to be significantly focused on the notion that Osama bin Laden was hiding in Afghanistan.
+
+However, the Al Qaeda leader was eventually killed by USA forces in 2011 in a compound in Abbottabad, Pakistan where he had been living – not Afghanistan.
+
+The Taliban’s recent takeover from the Afghan government, which had previously been propped up by western forces and resources, was swift and there is now a humanitarian crisis in the country.
+
+Eamon McCann has long campaigned against the arms trade. Photo by Kelvin Boyes, Press Eye.
+
+Socialist anti-war campaigner, Eamon McCann, told The Detail: ”We all know the mujahideen were armed by the west who were Osama bin Laden’s first arms supplier and then, after September 11, the question was ‘how did this happen?’ The Taliban could reasonably say to the west, ‘well you started it’.”
+
+The Derry man also referenced his ongoing concerns about the role of the arms trade in Afghanistan in more recent times.
+
+Mr McCann said: “The western governments will say ‘we spent so much money trying to bring democracy to Afghanistan’. It’s all a fraud, that money was simply transferred from the taxpayer to the arms companies.
+
+“Whether it’s the sale of missiles, gunships or super-modern, fancy-dan weapons which can bring down planes or drones or whatever – every arms company has a business interest in bloodshed.”
+
+The Belfast base of Shorts missile department is now operated by Thales, a French multinational company, which earlier in the year signed a £98.4m contract with the UK’s Ministry of Defence (MoD) to develop a short-range air defence machinery at its Northern Ireland base.
+
+Just last week, it was announced that the company’s Belfast plant signed a deal – as part of a consortium – to produce ‘directed energy weapons’ for the MoD which will use laser and radio frequency technology, with no ammunition, which Mr McCann described as a “cleaner way to kill”.
+
+Overall, the deal to produce these weapons is worth £72.5m to Thales and the other organisations in the consortium.
+
+Mr McCann spoke about his work as part of a successful campaign to get Raytheon, one of the world’s largest arms manufacturers, to move out of a base in Derry which he called “without hesitation” one of the biggest achievements of his politically-active life.
+
+He said: “No representative of any major political party or any major interest group in Derry, or anywhere else, would support the demand to get Raytheon out of Derry.
+
+“Many of them will now say they are against war and that ‘it’s terrible what’s happening in Afghanistan, in Yemen, in Somalia’...but hardly anybody is willing to advocate for the radical measures which are necessary.
+
+“We need a decisive shift in the pattern of investment and the pattern of production away from the arms trade, but towards renewable energy and cleaning up the environment. It needs to be right at the heart of politics.”
+
+Neither Thales nor the Foreign Office, which is responsible for MI6, responded to The Detail’s approaches for comments regarding the issues raised in this article.","{'label': 'Neutral', 'score': 0.9999760389328003}",neutral,0.9999760389328003,0
+Belfast missile-making firm Thales secures four-year MoD contract - Belfast Telegraph,"Tue, 14 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5iZWxmYXN0dGVsZWdyYXBoLmNvLnVrL25ld3Mvbm9ydGhlcm4taXJlbGFuZC9iZWxmYXN0LW1pc3NpbGUtbWFraW5nLWZpcm0tdGhhbGVzLXNlY3VyZXMtZm91ci15ZWFyLW1vZC1jb250cmFjdC80MDg1MDg0NC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Belfast based missile manufacturer Thales has been given a major boost after being part of a four-year Ministry of Defence (MoD) contract worth around £72.5 million.
+
+The company, situated in the east of the city, was awarded the contracts to develop a new weapon system that does not use traditional ammunition.
+
+The contract awarded to the consortium headed by Thales UK and Raytheon UK, will create 30 new jobs in Thales NI, with the site already employing around 600.
+
+Read more £98.4m contract from Ministry of Defence secures jobs at Belfast plant
+
+The new Directed Energy Weapons (DEW) being developed as part of the contract are powered by electricity and operate without ammunition, significantly reducing operating costs and according to the MoD, provide “unprecedented offensive and defensive flexibility to personnel on the frontline”.
+
+Philip McBride, Managing Director, Thales Belfast said: ""Winning these contracts is a good news story for Northern Ireland and its reputation as a hub of technology excellence.
+
+""They allow us to expand our capabilities and ensures we are a significant part of MoD’s thinking in developing and delivering Novel Weapons to the British Forces for many years to come.
+
+“The awards also help create a centre of excellence for novel weapons in Northern Ireland and allows us to broaden our skill base and develop the suitably qualified, experienced team we need for the future.
+
+“We are very pleased to be supporting the MoD on this ground-breaking technology and it’s a boost to the workforce to see UK MoD continue to invest in our business.
+
+""As a major defence prime, this will be an encouragement to the excellent supply chain we have here in Northern Ireland and shows that Government and MoD see Northern Ireland as a provider of high-tech solutions.”
+
+DEW are the next-generation technologies and regarded as having the potential to revolutionise the battlefield and reduce the risk of collateral damage.
+
+The three contracts will deliver two laser DEW demonstrators and on radio frequency DEW demonstrator.
+
+The first laser demonstrator will aid the Royal Navy’s Type 23 frigate by detecting, tracking, engaging and countering Unmanned Aerial Vehicles (UAV) as well as sea targets.
+
+The British Army’s Wolfhound armoured vehicle will also host this demonstrator which will also elevate capability in counter-UAV and other air threats, as well as prosecuting land-based targets.
+
+The radio frequency demonstrator will also be used by the British Army, hosted on a MAN SV truck detecting and tracking a variety of air, land and sea targets.
+
+East Belfast DUP MP Gavin Robinson said it is “hugely significant” that Belfast is at the centre of the technologies.
+
+""As part of a consortium from across the United Kingdom, Thales are looking not to the immediate years ahead, but to the challenges future decades will bring. They will be playing a central role in contributing to the UK's defence capabilities, but also further cementing east Belfast's place at the heart of Northern Ireland's defence industry,” he said.
+
+“Companies such as Thales are already home to world-class talent and contracts such as this will continue that and provide fantastic opportunities for engineers and specialists working in this field.""
+
+Minister for Defence Procurement, Jeremy Quin added: “We are investing £6.6 billion in research and development across Defence over the next four years, reaffirming our commitment to provide the Armed Forces with truly advanced capabilities.
+
+“Directed Energy Weapons are a key element of our future equipment programmes and we intend on becoming a world-leader in the research, manufacture and implementation of this next-generation technology.”
+
+In March this year, Thales won another MoD contract worth £98.4 million contract to maintain short-range air defence (Shorad) for the British Army and Royal Marines, securing more than 100 jobs at the site.","{'label': 'Positive', 'score': 0.997179388999939}",positive,0.997179388999939,1
+"Military Ground Vehicles Market Top Key Players - Thales Group, - openPR","Thu, 23 Sep 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8yNDA0MjA0L21pbGl0YXJ5LWdyb3VuZC12ZWhpY2xlcy1tYXJrZXQtdG9wLWtleS1wbGF5ZXJzLXRoYWxlcy1ncm91cNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Military Ground Vehicles Market Top Key Players - Thales Group, L3Harris Technologies, Northrop Grumman Corporation, Raytheon Technologies, General Atomics, Elbit Systems, Lenco Industries, Lockheed Martin Corporation, Navistar, Inc., Oshkosh Defense, Rhe
+
+https://bit.ly/3EGuq2R
+
+https://mobilityforesights.com/product/military-ground-vehicles-market/
+
+Remote control assumes that a person is controlling the robot vehicle from a distance. Remote control means such a distance that the operator cannot see what the car is doing in real time. As sensors and display technologies are important to give the driver a clear picture of the vehicle's surroundings and how it moves in that environment, the driver's knowledge of the vehicle's surroundings and how it interacts with that environment is intertwined. Via the control interface, the driver can control the behavior of the vehicle.With this shift to projection, ground forces had to adapt to new realities, being more flexible and mobile than ever before (both in terms of operational deployment on and in the theater of war, and in the theater of war). With the shift in emphasis on mobility rather than a higher armor level, light armored vehicles are becoming more and more popular with the armed forces in theaters of operations in the region.Request For Sample@GLOBAL MILITARY GROUND VEHICLES MARKET DEVELOPMENTS AND INNOVATIONS• Army now wants 1,750 new futuristic infantry combat vehicles- India• Rolls-Royce to Supply Power Systems for Israeli Armored Vehicles Under $194M Army Contract – US- IsraelGLOBAL MILITARY GROUND VEHICLES MARKET DYNAMICS• Defense forces around the world are investing in cutting-edge weapons capable of countering enemy targets, even when they are out of sight. The introduction of sophisticated equipment aims to minimize the risk of exposure of workers. However, the shift of combat from rural to closed urban areas has made staff vulnerable to new types of deadly traps such as IEDs. The growing use of IEDs against people around the world has become an important driving force in the defense segment of the autonomous car market.• It is becoming more and more common to use MGVs for counterinsurgency and military operations. The main goal is to reduce human suffering during a crisis. In urban combat, the MGVs work together with the UAVs to improve the military's situational awareness. There is also a growing demand for MGVs in civil and commercial applications such as the oil and gas industry; airports; law enforcement authorities; fire fighting; and agriculture, just to name a few examples.GLOBAL MILITARY GROUND VEHICLES MARKET SEGMENTATIONThe Global Military Ground Vehicles Market can be segmented into following categories for further analysis.By Technology Type• Standard Technology• Powered Technology• Autonomous Technology• Semi-Autonomous TechnologyBy Battery Type• Unmanned Systems• Manned SystemsBy Usage Application• Army based• Marine Based• Land Based• Naval BasedBy System Type• Homeland Security Operations• Military Operations• Mixed OperationsBy Product Component Type• Lethal Weapons• Non-Lethal WeaponsBy Product Type• Battle Tank Systems• Combat Vehicles• Unmanned Ground VehiclesBy Regional Classification• Asia Pacific Region – APAC• Middle East and Gulf Region• Africa Region• North America Region• Europe Region• Latin America and Caribbean RegionRECENT MARKET TECHNOLOGICAL TRENDS IN GLOBAL MILITARY GROUND VEHICLES MARKET• The internal combustion engine has been the dominant technology since the beginning of the automotive era. Electric vehicles have a bright future ahead of them due to the limited supply of fossil fuels and the associated environmental problems. Vehicle electrification has increased significantly in the commercial sector, but mileage and toll remain an issue, especially on the military vehicle platform. It is essential to extend the life of batteries, chargers and the chargers themselves.• JLTV is one of the newest technologies in military electric vehicles. The JLTV is a heavily armored 4x4 SUV designed to increase crew safety above the Humvee. The military intends to purchase three variants of the jeep, including a universal platform, a heavy weapon carrier and a melee weapon carrier. The 6.6-liter Duramax V8 diesel is at the heart of the JLTV's Banks 866T turbo diesel. However, from a logistics standpoint, one of JLTV's best features could actually put it at risk in the long run. The electric JLTV will provide several tactical advantages on the battlefield.COMPANIES PROFILED• Thales Group• L3Harris Technologies• Northrop Grumman Corporation• Raytheon Technologies• General Atomics• Elbit Systems• Honeywell Systems and Manufacturing Inc.• Krauss-Maffei Wegmann GmbH and Co. (KMW)• Lenco Industries• Lockheed Martin Corporation• Navistar, Inc.• Oshkosh Defense• Rheinmetall AG• STAT, Inc.• Textron• General Dynamics CorporationRead More Information:Contact:Company Name: Mobility ForesightsContact Person: Kunal RoyEmail: Send EmailPhone: +1-315-675-4056Address: P3&P4, HAL 3rd StageCity: BangaloreState: KarnatakaAbout Us:We are among the very few market research firms globally, specialized in mobility domain(s). Our zone of research entails automotive, aerospace, marine, locomotive, logistics and construction & agricultural equipment. We deal in syndicated research, custom research and consumer research for all the above domains mentioned.We envision the future of mobility every single day, following mobility domains is not just our profession rather it’s our passion. We are here, just to serve you in the most ideal way and your fulfillment is above everything else.","{'label': 'Neutral', 'score': 0.9956458210945129}",neutral,0.9956458210945129,0

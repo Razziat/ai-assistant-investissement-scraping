@@ -1,0 +1,782 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Boeing and Airbus Continue Competition For Bad News - WIRED,"Fri, 10 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDEyLzAyL2JvZWluZy1hbmQtYWlyYnVzLWNvbnRpbnVlLWNvbXBldGl0aW9uLWZvci1iYWQtbmV3cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The on again, off again competition between the world's two largest airplane makers continues with each company suffering recent issues with their newest aircraft.
+
+The Airbus A380 wing crack woes continue as the European Aviation Safety Agency expanded the airworthiness directive to cover all 68 of the A380s currently in service. In January only 20 of the super jumbos with the most take offs and landings were affected.
+
+The issue is not one of immediate safety concern, but the EASA wants inspections of brackets on the wing ribs to happen for the A380 fleet sooner rather than later.
+
+""EASA and Airbus are working closely together to ensure the continuing safe operations of the A380 aircraft type"" the agency said in a statement. ""In accordance with EASA, Airbus has established a repair scheme if cracks are found during the inspection. In parallel, EASA and Airbus are working on a long-term fix to be defined by the summer of 2012.""
+
+Not to be outdone with fixes needed to already finished airplanes, Boeing has announced it has discovered another problem with its new 787 Dreamliner. The issue is with small shims used to fill gaps between the composite fuselage barrel and the internal fuselage support structure.
+
+Shims are commonly used on most airliners during assembly to take up space that develops because of manufacturing processes. The problem in the 787 affects a section of the aft fuselage where the shims did not fit properly and could lead to delamination of the composites if left unchecked for a long period of time. The company says repairing existing airplanes affected by the shim problem will ""take days, not months"" to fix.
+
+Like Airbus, Boeing says the problem doesn't pose an immediate safety hazard and inspections and work on fixing the issue has already begun. Currently there are five 787s flying passengers, all with launch customer All Nippon Airways of Japan.
+
+Photo: Jason Paur/Wired.com","{'label': 'Negative', 'score': 0.5618826746940613}",negative,0.5618826746940613,-1
+"Boeing MAX v Airbus NEO; Fan size and optimizing the LEAP for MAX, Part 2 - Leeham News and Analysis","Fri, 10 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxMi8wMi8xMC9ib2VpbmctbWF4LXYtYWlyYnVzLW5lby1mYW4tc2l6ZS1hbmQtb3B0aW1pemluZy10aGUtbGVhcC1mb3ItbWF4LXBhcnQtMi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The war of words between Airbus and Boeing continued unabated at the Pacific Northwest Aerospace Alliance 11th Annual Conference this week in suburban Seattle.
+
+As fully expected, Airbus said its planes are better than Boeing and Boeing said its planes are better than Airbus. No news there.
+
+But Boeing revealed a little bit more detail on the 737 MAX vs the A320 neo that suggests their analysis gives another percentage point advantage than was originally announced last August.
+
+When MAX was announced, Boeing claimed, “The airplane’s fuel burn is expected to be 16 percent lower than our competitor’s current offering and 4 percent lower than their future offering” and “It will have the lowest operating costs in the single-aisle segment with a 7 percent advantage over the competition.” The slide shows an additional 1% advantage for fuel burn over neo and 17% over A320CEO (Current Engine Option, as Airbus now calls it), of +5 (VS 4) and +17 (vs 16). We asked Boeing about this, and we’re told the slide reflects rounding up the numbers and not an actual increase in the previously announced economic claims.
+
+Randy Tinseth, VP Market, showed this slide (click on the slide to enlarge), the first time we’ve seen one like it. The slide shows the improved fuel burn minus the negative impact of additional weight and drag to come up with net figures.
+
+What is also useful is that Boeing includes in the illustration the existing and planned fan diameters for the 737-800, the A320 and their successor airplanes. The assumptions used in the analysis are also listed on the slide.
+
+Airbus disputes the underlying Boeing analysis as well as claiming the assumptions used favor Boeing instead of real-world operating conditions. We covered the Airbus detail following ISTAT’s European Conference in Barcelona. We sought out Boeing at that time in order to include their detail in that posting; Boeing declined. Boeing held a tele-conference November 4, but it could only be characterized as a high-level look at the program. We’ve been trying for months (since last June, in fact) to follow up their briefing in advance of the Paris Air Show and Boeing has been declining all interview requests on MAX.
+
+CFM has likewise declined interview requests (three since August, when MAX was launched). Both companies have left the marketplace in a fog. But information obtained from customers, from Boeing and from within CFM has now painted a reasonable picture of how Boeing and CFM support their claims that the 737 MAX will be more economical than neo and how the LEAP is being optimized for MAX. In addition to the Airbus position, it should also be noted that at least one airline analysis of the MAX vs neo concludes that MAX will only be around 2% better than neo, not the 7%-8% lower operating costs claimed by Boeing.
+
+The purpose of this post is not to attempt an independent analysis, but rather to explain why Boeing and CFM make the claims they do. This report is the result of months of talking with customers and sources within Boeing and CFM; and from public appearances by Boeing and CFM.
+
+Size matters, in more ways than one
+
+The high-profile debate between Airbus and Boeing is that the fan diameters of the Pratt & Whitney GTF and CFM LEAP-1A on the A320neo are significantly larger than the fan diameter on the 737 MAX, and therefore the Airbus will be more economical than the MAX–or so says Airbus and PW.
+
+The fan diameters are identified in the Boeing slide above.
+
+CFM and Boeing say, not so fast. These companies have been very public saying fan size doesn’t matter for the LEAP-1B, although it is 10 inches smaller than the LEAP-1A and 13 inches smaller than the PW GTF. Optimizing the 1B for the 737, coupled with what Boeing and CFM say are inherent advantages of the 737 over the A320, offset the fan debate, they say.
+
+Boeing has previously proffered the argument that the lighter 737-800 (11% lighter, according to Boeing) gives the MAX a similar advantage over the neo. Although Boeing has not revealed publicly any Empty Weight or related data, customers tell us the data they’ve seen suggests the MAX target is about 5,000-6,000 lbs more than the current NG. One customer tells us, however, that Boeing–as recently as December–may be closer to 10,000-12,000 pounds heavier than the NG.
+
+It is important to note that at this stage of design development, we don’t consider the higher figure–if accurate–is particularly significant. Boeing doesn’t expect design freeze until next year and we believe the weight will continue to be a moving target as design freeze approaches.
+
+Customers tell us Boeing is targeting additional range on the -8 MAX of about 360 more miles. (We neglected to clarify if this is NM or Statute miles.)
+
+CFM tells us the 737’s lighter weight is the “secret” in this entire debate, albeit it’s hardly a state secret. Because Boeing has the lighter airplane, Boeing (and CFM) point out that lower thrust is needed.
+
+“Fan size is correlated to thrust, ” CFM tells us. A lighter engine also contributes to the ability to proceed with a smaller fan, CFM tells us.
+
+In a simple (and perhaps simplistic) analogy, CFM compared the lighter-weight 737 and lighter-weight, smaller engine to automobiles. A full-size car requires a larger engine than a smaller car with a smaller engine, and overall fuel mileage may be similar. (Our example: A full size Nissan Maxima, with a six cylinder engine, is about as fuel efficient as the smaller Nissan Altima with a four cylinder engine.)
+
+Airbus adamantly believes that the addition of sharklets on the A320 family gives it the edge in the re-engine race, because Boeing already has winglets and can’t gain any more. Airbus disputes the underlying Boeing assumptions of economics of A320CEO vs 737NG, from which all other forecasts flow.
+
+CFM made a further comparison on fan size to us, comparing the GEnx on the Boeing 787, which has a larger fan size than the GEnx version on the Boeing 747-8. While to a large degree, this may be comparing apples and oranges because the airplanes and their missions are so different, the point is GE optimized the two engines for the two airplanes and the fan sizes are different.
+
+Optimizing the LEAP for MAX
+
+We wrote February 8 a short piece about some of the optimizing the 1B for MAX. CFM also says that the inclusion of exotic materials, such as ceramic-coated composites, contribute to the optimization of the 1B.
+
+But where CFM is particularly confident in its approach is that CFM tells us the 1B is essentially a down-scaled GEnx. We were shown–but were not given–a rendering of the GEnx and 1B and to the untrained layman’s eye, the architecture is indeed very similar. Potential customers are shown this drawing. CFM says the architecture is “the same.”
+
+It is because of this identical architecture and the test results of the development of the GEnx that gives CFM, Boeing and, generally, customers confidence that CFM will deliver what it advertises. CFM points out that the GEnx is designed to produce a 15% fuel burn improvement over the comparable wide-body engines, and since the LEAP engine shares architecture, this is why CFM promises a 15% fuel burn improvement over today’s CFM56.
+
+It has to be pointed out, then, that four sources say, including inside Boeing and from customers, that at this stage of development, the 1B is 2%-3% short of target. Last August we asked CFM about this, and the response at that time was that the engine met the MOU specifications laid out by Boeing. CFM declined more recently to address this issue.
+
+But as with the issue concerning the weight of the airplane, we’re not sure that at this stage, this is particularly significant. The GEnx likewise was short on SFC (by 2%-3%, as it happens) during testing, a shortfall that will be corrected with PIPs. Given that the GEnx and LEAP share architecture, it would not be surprising that LEAP would have a shortfall at the moment. Given that the first flight of the MAX is not scheduled until 2016, and the COMAC LEAP 1C and neo LEAP 1-A will precede the 1B in testing and EIS (for the 1A, anyway), there is plenty of time to deal with SFC promises.
+
+CFM is striving to make the LEAP 1B 99.9% reliable at EIS. Modifications to the GEnx-based LEAP are necessary to achieve this. CFM tells us that wide-body engines aren’t as “durable” as narrow-body engines because of the dramatically reduced number of cycles these engines have compared with narrow-bodies. The much longer turn-times also give more time for mechanics to deal with issues on wide-body engines, whereas narrow-body turn-times may be only 30 minutes or less. This means the narrow-body engines have to be more robust.
+
+Accordingly, while the GEnx has a 23:1 compression reduction, the LEAP has a 22:1 reduction–not much, but which CFM describes as an added safety margin for the smaller engine. The LEAP will also operate at lower temperatures compared with the GEnx.
+
+LEAP 1B has passed Toll Gate 1, a point in the program where parties approve development, and the next Toll Gate is planned for the second quarter this year.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Positive', 'score': 0.8539743423461914}",positive,0.8539743423461914,1
+What will Airbus A380 fault mean for passengers and airlines? - CNN,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNubi5jb20vMjAxMi8wMi8wOC93b3JsZC9ldXJvcGUvYWlyYnVzLWEzODAtcWEvaW5kZXguaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Story highlights The European air safety agency has ordered safety checks for all Airbus A380s after cracks were found in the wings The A380 can potentially carry more than 800 passengers and is said by an industry expert to be a very quiet aircraft Its main rival is the Boeing 747-8 which is also claimed to be quiet and efficient Airbus says it has found a ""repair solution""
+
+London CNN —
+
+The European Aviation Safety Agency has ordered checks for cracks in the wings of the Airbus A380, though it has stopped short of grounding the fleet. CNN examines some key questions about the aircraft and what it means for the passengers, the airlines and the manufacturers.
+
+What is the Airbus A380?
+
+The jet liner is a double-deck, wide-bodied aircraft made by Airbus – a subsidiary of the EADS group – and capable of carrying more than 800 passengers, though it routinely carries far fewer. It made its maiden flight in 2005 and first entered service with Singapore Airlines in 2007. As of January 31, 2012, the company said it had delivered 68 aircraft to customers and had orders for a further 185.
+
+Which airlines fly it?
+
+The Airbus A380 is currently in service with Air France, China Southern Airlines, Emirates, Korean Air, Lufthansa, Qantas and Singapore Airlines. Airbus says within the first three years of service, about 15 million passengers had flown in the jet.
+
+Is there anything distinctive about the airliner?
+
+Its potential capacity makes it the largest passenger carrier in the world – although the Boeing 747-8 is a longer aircraft. David Kaminksi-Morrow, air transport editor of Flight International magazine, says it was developed to compete with the Boeing 747 which had dominated the jumbo airliner market for decades. “Apart from its size, the A380 is notable for its quietness,” he said. “It’s quiet both inside and out, and that’s quite an achievement, and spacious. It’s also an efficient aircraft – it has a low fuel bill per passenger which keeps the airlines and the environmental lobby happy.” Boeing says on its website that the 747-8 will be quieter, produce lower emissions and achieve better fuel economy than any competing jet liner.
+
+So what’s the problem with the A380?
+
+The European Aviation Safety Agency (EASA) last month required checks for cracks in the 20 oldest aircraft after faults were found in the wing rib feet – the bracket that joins the ribs to the wing surface.
+
+It has now expanded the request that carriers carry out inspection and repair on the Airbus A380 before reaching 1300 flight cycles. For aircraft already very close to 1300 flights, a six-week window is being provided so they can plan ahead for their inspection to minimize disruption to their operations.
+
+A spokesman for the aviation agency said the planes could still fly, but had to be checked within the time frame, and a long-term fix was being worked on with Airbus.
+
+The original cracks were found as a result of investigations into a separate incident in which a Qantas A380 suffered an engine failure in November 2010.
+
+If cracks are found, the airline must contact Airbus for instruction, the safety agency said.
+
+Should passengers be worried?
+
+Airbus Chief Executive Tom Enders told CNN’s Richard Quest last month that the cracks in the wing rib feet were “minor” and that safety was an “absolute priority.” Kaminski-Morrow also said he didn’t believe safety was an issue, adding: “It’s a structural issue and structural issues have to be investigated but the wing isn’t going to fall off as a result of the problem. EASA could ground the aircraft if it wanted to – but hasn’t. It’s not categorized as an emergency.”
+
+In response to last month’s checks, Enders said: “What we have developed already is a repair solution, and this is what we will apply on the various aircraft if and where it is necessary.” He also said the fault was confined to the A380 and confirmed that it was not a wider problem on the Airbus range.
+
+What does it mean for Airbus?
+
+Enders admitted the fault was embarrassing for Airbus but Kaminski-Morrow described it as more of a “teething problem.” He told CNN Wednesday: “I don’t think this will harm its reputation in the long term. The plane is very reliable and proving to be very popular. I think the airlines will stick with it. It’s selling. The A380 is here to stay.”
+
+What about the competition?
+
+The rivalry between Airbus and American competitor Boeing is intense. Both companies have accused each other of receiving illegal subsidies and in 2005 both filed complaints with the World Trade Organization.
+
+The wide-bodied Boeing 747-8 was made in response to the A380 to battle for the custom of airlines running long-haul routes, and for freight trade – and the manufacturers continue to upgrade their designs and improve efficiency. When the two models were compared by Flight International in 2006, the magazine concluded: “It will be another five years at least until it becomes clear who has got it right, but one thing is certain – the airlines at last have what they always wanted and that is a choice of supplier at the top end of the size spectrum.”","{'label': 'Neutral', 'score': 0.994650661945343}",neutral,0.994650661945343,0
+"Airbus told to make safety alterations to A380s, reports - RFI English","Fri, 17 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnJmaS5mci9lbi9ldXJvcGUvMjAxMjAyMTctYWlyYnVzLXRvbGQtbWFrZS1zYWZldHktYWx0ZXJhdGlvbnMtYTM4MHMtcmVwb3J0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Europe
+
+The European consortium Airbus could be told by Europe’s aviation safety monitoring body to make changes to its large carriers.
+
+Advertising Read more
+
+Friday’s German-language edition of the Financial Times reports that the European Aviation Safety Authority is to demand that Airbus replace six aluminium rivets with more resistant titanium rivets on the noses of its A380 planes.
+
+The EASA maintains that in extreme circumstances, such as a sudden depressurisation, the radome (the dome which protects the radar aerial on the nose of the plane) could become detached.
+
+Airbus will be given eight months to make the changes, according to the newspaper.
+
+It’s the second technical problem to hit Airbus this year. In February, the AESA announced that it was to inspect all 67 airbus A380s in service throughout the world, after cracks appeared in the wing surface of some of them.
+
+In 2010, the Rolls Royce engines in some Airbus A380s had to be urgently revised after one exploded during a Qantas flight.
+
+Daily newsletterReceive essential international news every morning Subscribe","{'label': 'Neutral', 'score': 0.9942224621772766}",neutral,0.9942224621772766,0
+Airbus investigation into how wing cracks developed - BBC.com,"Wed, 15 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay13YWxlcy0xNzA0MjI1M9IBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay13YWxlcy0xNzA0MjI1My5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"Mr Enders added: ""We have a thorough investigation under way in our own company, how we could make these mistakes in the first place and to eradicate the sources of mistakes like that for the future.""","{'label': 'Neutral', 'score': 0.9760547876358032}",neutral,0.9760547876358032,0
+Airbus Military signs contract with Indonesia for nine C295 aircraft - Defense Update,"Wed, 15 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTIwMjE1X2FpcmJ1cy1taWxpdGFyeS1zaWducy1jb250cmFjdC13aXRoLWluZG9uZXNpYS1mb3ItbmluZS1jMjk1LWFpcmNyYWZ0Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Military has signed today a firm contract with PT Dirgantara Indonesia (PT DI) to supply nine C295 military transport aircraft for delivery to the Indonesian Ministry of Defense.
+
+The contract between PT DI and the Ministry of Defense of Indonesia was signed simultaneously, witnessed by Minister of Defense, Prof. Dr. Purnomo Yusgiantoro, and the Chief of Armed Forces, Admiral Agus Suhartono, at a ceremony at the Singapore Airshow.
+
+The Indonesian designation of the aircraft will be CN295. The aircraft will be operated by the Indonesian Air Force throughout the vast territory of Indonesia, which includes around 17.000 islands. The aircraft will perform a variety of roles including military, logistical, humanitarian and medical evacuation missions. The first delivery is foreseen in 2012 and by summer 2014 all aircraft will have been delivered.
+
+Additionally, the industrial plan covers a substantial collaboration between PT DI and Airbus Military for the C295 program, including the manufacturing of the tail empennage, rear fuselage and fuselage panels, as well as work packages for the development of Computer Based Training systems and the creation of a service and delivery center and a final assembly line (FAL) in Indonesia.
+
+“This is a proud moment for our country as well as for the Indonesian aerospace industry. The C295 provides the ideal capacity to respond to Indonesia´s current and future military and humanitarian transport needs and does so very cost-efficiently, with full participation of the Indonesian aerospace industry, creating high skilled jobs and technology transfer,” said Prof. Dr. Purnomo Yusgiantoro, Minister of Defense of the Republic of Indonesia.","{'label': 'Neutral', 'score': 0.9999878406524658}",neutral,0.9999878406524658,0
+Airbus A380 Wing Checks Extended to Entire Fleet - CNBC,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTIvMDIvMDgvYWlyYnVzLWEzODAtd2luZy1jaGVja3MtZXh0ZW5kZWQtdG8tZW50aXJlLWZsZWV0Lmh0bWzSAVlodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxMi8wMi8wOC9haXJidXMtYTM4MC13aW5nLWNoZWNrcy1leHRlbmRlZC10by1lbnRpcmUtZmxlZXQuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"European air safety officials extended checks for Airbus A380 wing cracks to the entire superjumbo fleet on Wednesday and said the widespread defects could pose a safety risk if left unremedied.
+
+The engine of the Airbus A380 at the Airbus plant in Hamburg on October 30, 2009.
+
+The move to inspect all 68 A380s in service came as Qantas Airways grounded one of its planes for up to a week following the discovery of 36 separate cracks in wing parts.
+
+The new measures by the European Air Safety Agency (EASA) ""reflect the results of a first round of checks, which found cracks in almost all of the planes inspected,"" spokesman Dominique Fouda said.
+
+""This condition, if not detected and corrected, may lead to a reduction of the structural integrity of the aeroplane,"" the EU agency said in its directive to airlines.
+
+By signaling that the flaws are thought to be structural and widespread, the fleet-wide inspection order will refocus attention on faults recently found in flagship jets from both of the world's dominant aircraft makers.
+
+Boeing and Airbus, a division of European Aeronautic Defence & Space , maintain that their newest planes are safe to fly after problems were caught at an early stage.
+
+Under the new directive, first reported by Reuters earlier on Wednesday, the seven airlines currently operating A380s must carry out Airbus-sanctioned checks and preliminary repairs on every plane before its 1,300th flight.
+
+The first round of inspections, which covered one third of the fleet, applied only to jets that had exceeded that number of flights. Aircraft already approaching or beyond the threshold must now be checked and repaired within weeks.
+
+The damaged L-shaped parts, which fix the wing skins to their underlying frame, are ""not a primary load-bearing structure,"" Airbus spokesman Stefan Schaffrath said.
+
+Cracks have been discovered in a ""handful"" of the 4,000 such brackets on each aircraft, he added. ""The safe operation of this aircraft is not at stake.""
+
+Inspections had initially focused on 20 aircraft operated by Singapore Airlines , Air France and Dubai's Emirates — which had logged the most A380 flights in the four years since the world's largest passenger plane entered service.
+
+They will now be also be carried out on superjumbos flown by Qantas, China Southern , Korean Air and Lufthansa.
+
+Qantas grounded one of its 12 A380s after the discovery of two-centimetre (0.8 inch) cracks that were ""traced back to a manufacturing issue"", the Australian carrier said on Wednesday.
+
+It was during lengthy repairs to another Qantas plane that the A380 problems first surfaced, following a 2010 engine explosion that tore open one wing.
+
+Lufthansa's longest-serving A380 has made about 900 flights, company spokesman Michael Lamberty said. ""That means we have room to manoeuvre to carry out checks one by one, as part of normal maintenance.""
+
+Glitches
+
+Aircraft are designed with multiple safeguards to protect against the extreme stresses and temperature variations encountered during flight.
+
+But premature glitches have recently embarrassed both Airbus and Boeing, raising fears of a consumer backlash of the kind that crippled Toyota when the Japanese car maker ordered millions of safety recalls in 2009-11.
+
+While airlines have yet to report any fall in bookings related to the A380 cracks, several have said they are keeping a close watch on ticket sales.
+
+""It's important to note that these cracks are very small and will be monitored by the airlines,"" said Philippa Oldham, a transport specialist at Britain's Institute of Mechanical Engineers. ""They are unlikely to affect aircraft operation.""
+
+Boeing this week reported a manufacturing flaw on its 787 Dreamliner, the world's first commercial jet built mostly from composites, nine weeks after entry into service. Engineers found some delamination, or separation of baked composite fibres, in parts of the rear fuselage.
+
+Jim Albaugh, the head of Boeing's commercial aircraft division, has said the problem would delay initial deliveries without undermining the company's full-year target.
+
+Unusually Early Problems
+
+Airbus has staked its future on the 12 billion euro ($16 billion) A380 programme and is anxious to prevent publicity about the cracks denting confidence in its aircraft. With a list price of $390 million, the 525-seater is popular with passengers but has not sold as well as its designers expected.
+
+""These are not critical parts affecting safety any time soon,"" said Jean-Pierre Casamayou, editor-in-chief of Air et Cosmos, a French aerospace publication.
+
+The Airbus and Boeing problems are nonetheless ""worrying because it means neither manufacturer has been on top of everything,"" he said. ""Both planes were two-to-three years late, and yet we're seeing these unusually early problems.""
+
+The wing cracks have overshadowed efforts by France-based Airbus to stabilize Europe's largest industrial project, which is not expected to turn a profit before 2015 after running significantly over budget.
+
+The aircraft maker now faces an additional bill for wing checks and repairs, as well as compensation for customers' lost business.
+
+Airbus and Boeing invested heavily in their newest models, which reflect a divergence of strategy over the $100 billion jetliner market. Boeing bet on lighter planes to save fuel and open new long-haul routes, while Airbus initially put its faith in larger jets to meet steep traffic growth.
+
+Airbus later began developing the carbon-fiber A350 to compete with the hot-selling 787, while Boeing is also updating its 747 jumbo to challenge the A380. Airbus has said it aims to deliver 30 of the double-deckers this year.","{'label': 'Neutral', 'score': 0.849406361579895}",neutral,0.849406361579895,0
+Superjumbo recall - DW (English),"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9haXJidXMtdG8tY2hlY2stYWxsLWEzODAtc3VwZXJqdW1ib3MtZm9yLXdpbmctY3JhY2tzL2EtMTU3MjY2MTLSAVVodHRwczovL2FtcC5kdy5jb20vZW4vYWlyYnVzLXRvLWNoZWNrLWFsbC1hMzgwLXN1cGVyanVtYm9zLWZvci13aW5nLWNyYWNrcy9hLTE1NzI2NjEy?oc=5&hl=en-US&gl=US&ceid=US:en,"Airplane manufacturer Airbus has been ordered to check the wings of all of its A380 superjumbo planes in service after a new type of wing crack was found. Airbus claims the cracks are no threat to safety.
+
+Recall orders for the Airbus A380 were issued by the European Aviation Safety Agency (EASA) and affect 68 superjumbos currently flying with seven airlines.
+
+Under the extended order, planes which have flown more than 1,300 takeoff and landing cycles will have to be inspected within three weeks. Those which have not yet done so will have to be checked before they do.
+
+Already in January, EASA issued a so-called airworthiness directive calling for a ""detailed visual inspection"" of 20 Airbus superjumbos after cracks were found in the wings of Singapore Airlines, Emirates and Air France planes.
+
+EASA spokesman Dominique Fouda said the decision to extend the order was made ""given the first results"" of the inspections, but added that he didn't have details on how many cracks have been found in total.
+
+The move came after a new type of crack appeared in a plane operated by Australia's Qantas.
+
+No air safety threat
+
+The plane, which was grounded in Sydney last month, showed cracks in the metal brackets that connect the wing's rib to its skin.
+
+The plane had encountered ""severe turbulence"" over India, a Qantas spokesman said, but the cracking had to be ""traced back to a manufacturing issue.""
+
+The 36 hairline cracks to the wing rib feet found by Qantas workers are not the same type of crack as those that prompted EASA's first directive in January.
+
+Last month. Airbus vice president Tom Williams said that the tiny wing cracks could be ""easily repaired.""
+
+He blamed design and manufacturing issues for the problem, adding that ""the cracks do not compromise the airworthiness of the aircraft.""
+
+Author: Uwe Hessler (AP, AFP, dpa)
+
+Editor: Michael Lawton","{'label': 'Neutral', 'score': 0.9983888864517212}",neutral,0.9983888864517212,0
+Air Industry Faces Public’s Perception of Safety - The New York Times,"Tue, 28 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTIvMDIvMjkvYnVzaW5lc3MvZ2xvYmFsL2Fpci1pbmR1c3RyeS1mYWNlcy1wdWJsaWNzLXBlcmVjZXB0aW9uLW9mLXNhZmV0eS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — When Airbus disclosed last month that it had discovered dozens of hairline cracks in a wing component of several of its A380 jets, the news was followed by worrying headlines that ricocheted online.
+
+“World’s largest passenger plane may be unsafe,” CNet reported on its Web site. “Airbus in damage control,” The Daily Telegraph of Australia announced. “Wing and a prayer?” The Associated Press wrote, unable to resist an ominous pun.
+
+The fact that those cracks did not, in the view of aviation regulators or independent safety experts, pose an imminent safety risk was noted in most of those reports. But the impression of a potential emergency lingered.
+
+Such problems are nothing new in aviation, industry executives said. With new planes — like the A380, which entered commercial service in 2007, or the Boeing 787 Dreamliner, which carried its first passengers last year — the discovery of design weaknesses and performance issues is quite common early in the life of an aircraft.","{'label': 'Negative', 'score': 0.9994325041770935}",negative,0.9994325041770935,-1
+The Airbus A380 wing cracks: an engineer's perspective - The Conversation Indonesia,"Thu, 09 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS90aGUtYWlyYnVzLWEzODAtd2luZy1jcmFja3MtYW4tZW5naW5lZXJzLXBlcnNwZWN0aXZlLTUzMTjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The European Aviation Safety Agency (EASA) has ordered the inspection of all Airbus A380 superjumbos following the detection of cracks in the wings of several aircraft.
+
+Cracks were first discovered in December last year, in a Qantas-owned Airbus A380 that was being repaired after an engine explosion in Singapore.
+
+On January 20, the EASA issued an Airworthiness Directive (AD) grounding 20 A380 for visual inspections.
+
+The 20 affected aircraft were early-delivery airframes (aircraft bodies without engines) – ten with Singapore Airlines, seven with Emirates, one with Air France and two Airbus test A380.
+
+This initial directive allowed up to six weeks for a detailed visual inspection to be carried out on A380 that had completed between 1,300 and 1,799 flights. A380 that had completed more than 1,800 flights had to be inspected within four days.
+
+According to EASA spokesperson Dominique Fouda, the initial round of checks “found cracks in almost all of the planes inspected”.
+
+Peter Pearson
+
+As a result, the EASA revised their AD, requiring the inspection of all 68 Airbus A380 in operation worldwide, and the use of high-frequency eddy current equipment for crack detection. This is a commonly-used non-destructive evaluation technique used to detect small surface cracks.
+
+But just how much do we know about these cracks? And do the cracks have the potential to make the A380 unsafe to fly?
+
+For a start, there are two different cracks being investigated:
+
+Hairline cracks around fastener holes in the internal wing structure, and Cracks at the edges of the vertical web of the feet.
+
+Airbus
+
+The fastener holes are located in “rib feet” which are L-shaped brackets extending from the [wing rib](http://en.wikipedia.org/wiki/Rib_/(aircraft/) for attaching to the aircraft skin, using bolts through these holes. It is my understanding that it is the rib-feet attached to the lower skin which have this problem.
+
+A number of wing ribs are distributed along the wing – more than 40 on each wing of the Airbus A380 – and these run from the front to the back of the wing’s internal structure.
+
+These ribs help maintain the aerodynamic shape of the wing and transfer the aerodynamic and fuel loads to the spars – beam-like structures running along the length of the wing that are the main load-carrying structure of the wing.
+
+The cracks found around these holes are being attributed to the manufacturing process used at Broughton, UK, where the wings are made.
+
+This manufacturing process may be related to the combination of the use of “interference-fit” fasteners and the loads being applied when the wing skin is attached to the wing.
+
+Guillaume Horcajuelo/EPA
+
+Interference-fit refers to the process whereby the fastener hole is made slightly smaller than the fastener diameter. When the fasteners are inserted, this has the effect of inducing stresses which offset the tensile stresses on the lower wing skin during flight, increasing fatigue life.
+
+If the high loads being applied to the fasteners during assembly are not adequately accounted for, they will combine with the stresses arising from the interference fit, potentially leading to cracking. The particular type of aluminium alloy used will also affect this joint behaviour where a balance has to be achieved between stiffness, strength and fracture toughness.
+
+The cracks at the edges of the vertical section of the L-shaped rib feet have been reported as more severe than those observed around the fastener holes (Type II, using Airbus terminology, as opposed to Type I for the fastener hole cracks).
+
+These cracks are likely to be at the corners of the rib feet where stresses are higher. These are of greater concern and could be fatigue driven. The AD also states that this condition, if not detected or corrected, could potentially affect the structural integrity of the aircraft.
+
+That said, the cracks observed so far have not been on the main load-bearing structure of the wing. It would take multiple simultaneous structural failures along a number of ribs to give rise to a structural integrity issue. It’s worth noting that there are around 4,000 rib-feet on each A380.
+
+So what can be done about these cracks?
+
+Well, once detected, these faults may be repaired by various means, depending on the extent of damage. For small surface cracks, metallic or carbon-fibre composite patches can be used and there is always the more-costly alternative of part replacement.
+
+Dean Lewins/AAP
+
+It’s worth noting that it’s not unusual for new aircraft to experience relatively minor structural (or other) problems once in service. These issues are bound to be minor, because the development of new aircraft entails a tremendous intellectual effort by thousands of engineers using advanced analytical techniques, sophisticated numerical simulation and extensive physical testing.
+
+Airframers (such as Airbus) also work closely with national aviation certification authorities at all stages of development, to ensure the highest possible safety standards are met.
+
+But for now, the EASA is sticking to its guns:
+
+“This condition, if not detected and corrected, may lead to a reduction of the structural integrity of the aeroplane.”
+
+And Airbus representatives are sticking to theirs:
+
+“These brackets [in which the cracks have been detected] are located on wing ribs which are not a main load-bearing structure and, thus, the safe operation of the aircraft is not affected.”
+
+It remains to be seen which analysis is closer to the truth, but it’s unlikely we’ve heard the last of the Airbus A380 saga.
+
+Further reading:","{'label': 'Neutral', 'score': 0.9999297857284546}",neutral,0.9999297857284546,0
+"February 22nd in Aviation History: Airbus A320 Makes its First Flight, Man Tries to Crash Delta DC-9 Into the White ... - NYCAviation","Wed, 22 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55Y2F2aWF0aW9uLmNvbS8yMDEyLzAyL29uLXRoaXMtZGF5LWluLWF2aWF0aW9uLWhpc3RvcnktZmVicnVhcnktMjJuZC8xMzE0MNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"2011 – Christchurch International Airport is closed after a magnitude 6.3 earthquake rocks the city center, causing extensive damage, deaths and injuries.
+
+1995 – The CIA’s Corona reconnaissance satellite program, run in secret with help from the US Air Force from 1959 through 1972, is declassified. Corona satellites were launched aboard rockets, took photos of the Soviet Union and China, then parachuted back into the atmosphere where they would be retrieved in the air by specially equipped US Air Force C-119 Flying Boxcar transport planes.
+
+1987 – The Airbus A320 makes its first test flight.
+
+1974 – An unemployed tire salesman named Samuel Byck attempts to hijack a Delta Air Lines DC-9 at Baltimore/Washington International Airport using a .22 caliber handgun and a suitcase filled with gasoline bombs. Byck’s objective: To crash the plane into the White House and assassinate President Richard Nixon. The plane never leaves the gate, though he does shoot and kill a police officer and one of the pilots and wounds the other pilot before being wounded by police and then committing suicide.
+
+1913 – French aviator Jules Védrines becomes the first pilot to fly over 100 mph, behind the controls of a Deperdussin Monocoque near Pau, France.","{'label': 'Neutral', 'score': 0.9984266757965088}",neutral,0.9984266757965088,0
+"COMAC Poses No Threat to Boeing, Airbus: President - CNBC","Tue, 14 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTIvMDIvMTQvY29tYWMtcG9zZXMtbm8tdGhyZWF0LXRvLWJvZWluZy1haXJidXMtcHJlc2lkZW50Lmh0bWzSAVlodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxMi8wMi8xNC9jb21hYy1wb3Nlcy1uby10aHJlYXQtdG8tYm9laW5nLWFpcmJ1cy1wcmVzaWRlbnQuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"Despite speculation that Chinese aerospace manufacturer COMAC could one day rival industry heavyweights Airbus and Boeing, the firm says its focus remains firmly on the domestic market.
+
+Jin Zhuanglong, chairman of Commercial Aircraft Corp. of China (Comac) Bloomberg | Getty Images
+
+Speaking to CNBC on the sidelines of the Singapore Airshow, COMAC’s Chairman Jin Zhuang Long said Comac’s near-term goal was to ultimately account for a third of China’s market.
+
+
+
+“COMAC will not pose any threat to Boeing or Airbus over a long period of time since we only have two types of aircraft so far: namely the ARJ21 and C919,” Jin said
+
+
+
+On Tuesday, COMAC announced a deal to sell 20 C919 passenger jets to BOC Aviation, a Singapore-based leasing company wholly-owned by Bank of China . BOC Aviation is COMAC's 11th customer for the C919, bringing its total order backlog for the aircraft to 235. “I want to emphasize here that the sales strategy for the C919 is mainly to target China’s domestic market. Our standard is still international standard in terms of product development. But our market is mainly Chinese market,” Jin said.
+
+Attendants at a mock up of a Commercial Aircraft Corp. of China (Comac) C919 await visitors at the Airshow China 2010 in Zhuhai, Guangdong province, China. Bloomberg | Getty Images
+
+When asked if the C919, a new narrow-body 150-seater plane designed and manufactured in China, was on track for its maiden flight in 2014, Jin said he was fairly confident, but acknowledged that the timeline was ambitious.
+
+
+
+“As you know COMAC was only founded not too long ago in 2008. It takes time for the company to develop. So in product development, we will definitely encounter many technological difficulties, because airplanes need difficult technologies,” he said. C919 is COMAC's second foray into passenger jets. Its first offering, the ARJ21, a regional jet designed to take on rival offerings from the likes of Embraer and Bombardier, suffered delays in development. The jet finally completed its maiden flight in 2008, three years behind schedule, and also endured setbacks in its airworthiness certification.","{'label': 'Neutral', 'score': 0.9994069337844849}",neutral,0.9994069337844849,0
+A380's riveting problem - DW (English),"Fri, 17 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmR3LmNvbS9lbi9haXJidXMtbmV3LXJpdmV0LXByb2JsZW1zLXdvbnQtZ3JvdW5kLWEzODAvYS0xNTc0NzY3MdIBS2h0dHBzOi8vYW1wLmR3LmNvbS9lbi9haXJidXMtbmV3LXJpdmV0LXByb2JsZW1zLXdvbnQtZ3JvdW5kLWEzODAvYS0xNTc0NzY3MQ?oc=5&hl=en-US&gl=US&ceid=US:en,"Aircraft manufacturer Airbus may be called on to replace rivets in the double-decker A380's fuselage. The problem is the third in the new plane criticized by air safety inspectors.
+
+The latest technical problems had occurred in the nose of the A380 aircraft, where faulty rivets had been discovered, the Financial Times Deutschland (FTD) newspaper reported Friday.
+
+Aluminum rivets, used in the plane's front body, appeared to be too weak to sustain large pressure, the newspaper said, adding that the European Air Safety Authority (EASA) was considering orders for the six most critical rivets to be replaced with parts made of stronger titanium.
+
+FTD quotes an Airbus official who said that the European aircraft maker's own engineers had discovered the weak rivets back in October 2011, and that airlines flying the A380 were informed immediately.
+
+""Replacing the rivets can be done within a matter of just three and a half hours,"" the Airbus official is quoted as saying.
+
+Routine recall
+
+According to information gathered by FTD, extreme circumstances such as a sudden drop in cabin pressure could cause the rivets to break, and subsequently the nose of the superjumbo to come off.
+
+The newspaper also said such recalls were routine business for EASA as the authority would order hundreds of safety checks on new aircraft and helicopters every year. However, any recall would tarnish the image of the aircraft manufacturer, according to the paper.
+
+The faulty rivets are the third major flaw in Airbus's new superjumbo that has prompted EASA to order safety inspections.
+
+Earlier this year, the appearance of tiny cracks in some of the planes' wings and the wings rib feet caused EASA to order checks on all of the 69 A380 superjumbos currently in service.
+
+On Wednesday, Airbus CEO Tom Enders admitted that the manufacturer had made ""a mistake"" and would ""understand the root causes of the problems.""
+
+""This plane is absolutely safe to fly,"" Enders insisted during a news conference at this week's Singapore Airshow.
+
+Author: Uwe Hessler (dpa, AFP)
+
+Editor: Sean Sinico","{'label': 'Negative', 'score': 0.9987422823905945}",negative,0.9987422823905945,-1
+Aviation Partners seeks dismissal of Airbus winglet lawsuit - Flightglobal,"Thu, 02 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYXZpYXRpb24tcGFydG5lcnMtc2Vla3MtZGlzbWlzc2FsLW9mLWFpcmJ1cy13aW5nbGV0LWxhd3N1aXQvMTAzODc4LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Seattle-based Aviation Partners (API), patent-holder of the blended winglet, is seeking the dismissal of an Airbus lawsuit aiming to clarify the intellectual property rights of the European airframer's alleged use of API's winglet on the Airbus A320's sharklets.
+
+Air New Zealand currently serves as launch customer for the sharklets, and anticipates the delivery of its first A320 with winglets later this year.
+
+The implications of the lawsuit filed by Airbus could nullify any royalty claims by API, if Airbus's sharklet design is found to use API's intellectual property.
+
+Airbus and API have worked together since early 2006, court documents claim, when API approached Airbus to determine whether the airframer would be interested in retrofitting Airbus A320s with API's blended winglet.
+
+© Airbus Airbus, which carried out the first flight of MSN1 with its sharklet wingtips in late November
+
+API said Airbus ""stated emphatically"" that API's blended winglet technology ""could not be used"" on in-production A320s, or retrofitted to older aircraft.
+
+Following aerodynamic and structural analyses, API and Airbus agreed to flight-test the blended winglet, and in 2009 tasked Airbus's test-bed A320, MSN1, for evaluating the wing-tip modification.
+
+""After this test the parties could not agree as to whether the results met the minimum benchmark performance benefit required by Airbus,"" the court documents stated, and API went about demonstrating the winglets on a production JetBlue A320.
+
+In the documents filed with the US district court for the western district of Texas, API chief executive Joe Clark said: ""API achieved drag reduction far in excess of the minimum benchmark during those tests - and far in excess of the recently announced efficiencies of the 'sharklet'.
+
+""Upon completion of the flight test Airbus acknowledged that the API blended winglets did indeed perform at a superior level.""
+
+Airbus claims a 3.5% improvement in fuel burn for the A320 with its sharklets on long sectors.
+
+API said Airbus sought a patent for its own sharklet design, of which outfitting on the A320 was first disclosed in November 2009 at the Dubai air show.
+
+Airbus and API entered into a memorandum of understanding in July 2011, of which the ""stated intent"" was to form a joint venture to ""commercialise"" API's blended winglet technology for the A320 family. Also included was the intent to provide wing reinforcement work that would facilitate the engineering and design required to retrofit older Airbuses with blended winglets.
+
+Clark claims that after this work Airbus developed its own sharklet, and the engineers involved with API's work with Airbus filed their own patent.
+
+He also claims that Airbus ""did not disclose"" to API that it had it filed this application ""until after the application became public"".
+
+In summer last year, Clark said Airbus provided API data and information about its sharklet design which bore a ""striking similarity"" to API's blended winglet technology patent.
+
+After terminating its combined involvement with any winglet development plan, Airbus filed a lawsuit in Texas in December seeking to determine that its sharklets do not infringe upon API's blended winglet.
+
+If the case is not dismissed, API has requested its relocation to Seattle.
+
+Airbus, which carried out the first flight of MSN1 with its sharklet wingtips in late November, said it had ""nothing to add"" to its own legal filing on the matter. The airframer hopes that as well as improving fuel-burn, the modification will increase maximum take-off weight by up to 3 tonnes.
+
+Future wings for the Airbus family will be sharklet-compatible, while the A320neo - due to be introduced in late 2015 - will have sharklets fitted as standard.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.9995498061180115}",neutral,0.9995498061180115,0
+Iran Aseman Airlines manages to acquire Airbus A340 - Flightglobal,"Wed, 01 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vaXJhbi1hc2VtYW4tYWlybGluZXMtbWFuYWdlcy10by1hY3F1aXJlLWFpcmJ1cy1hMzQwLzEwMzg2Mi5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Iran Aseman Airlines has managed to acquire an Airbus A340-300 (MSN 002) indirectly from US lessor GMT Global Republic Aviation, two sources close to the matter told Flightglobal.
+
+A deal was signed with Bangladeshi airline Rajshahi Air involving the sale of two A340-300s on behalf of GMT via an independent remarketing agent employed by Falko (hired under its previous name BAE Systems Asset Management), according to a source.
+
+Falko was brought on board around 12 months ago to remarket two A340s for GMT, which was leasing the aircraft to Virgin Atlantic Airways, both sources said.
+
+© Shahram Sharifi - Iranian Spotters
+
+""Rajshahi Air presented a credible and detailed business plan for the operation of two A340s on long-haul services from Bangladesh,"" one of the sources said.
+
+It is understood that the original business plan involved transporting the first A340 to Tunis to be painted in Rajshahi Air colours, before flying on to Bangladesh. However, it is claimed the Tunis paint slot became ""unavailable"" and the aircraft was instead sent to Mehrabad where it was blessed with camel blood and added to Iran Aseman Airlines' fleet, the source said.
+
+It has not been disclosed how the acquisition of the first A340 aircraft (MSN 002) was financed. The CFM International CFM56-powered aircraft was built in 1992, according to Flightglobal's Ascend Online database.
+
+It is understood that after it transpired that the first A340 had been sold on to Iran Aseman Airlines, Falko blocked the deal involving the second A340-300 (MSN 003).
+
+The European Union and the USA have imposed strict sanctions on Iran owing to controversies surrounding the Iranian nuclear programme. While EU sanctions restrict foreign trade to Iran, the USA has implemented an economic embargo on Iran, including a ban on selling aircraft or repair parts to Iranian aviation companies.
+
+This second A340, also built in 1992, is now ""parked with GMT"", after a subsequent deal for Portuguese charter carrier Luzair to acquire the aircraft later fell through, a source said.
+
+Iran Aseman Airlines was unavailable for comment, while Rajshahi Air could not be contacted for comment.
+
+Source: Air Transport Intelligence news","{'label': 'Neutral', 'score': 0.9997034668922424}",neutral,0.9997034668922424,0
+All A380 superjumbos to be checked for wing cracks - The Guardian,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDEyL2ZlYi8wOC9hMzgwLXN1cGVyanVtYm8tY2hlY2tzLXdpbmctY3JhY2tz0gFTaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMTIvZmViLzA4L2EzODAtc3VwZXJqdW1iby1jaGVja3Mtd2luZy1jcmFja3M?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus faces the prospect of a multimillion-pound compensation payout to airlines including Emirates and Qantas after the European aviation safety body ordered safety checks for the entire global fleet of A380 superjumbos.
+
+Europe's largest aerospace company has been dogged by the discovery of hairline cracks inside the British-made wings of its flagship aircraft, whose history has been beset by production delays and a near-disastrous engine blowout on a passenger flight in 2010.
+
+Airbus has maintained that flaws do not endanger the safe operation of the world's most advanced commercial aircraft, but the European Aviation Safety Agency (EASA) deepened its embarrassment on Wednesday by ordering the extension of an inspection regime to cover all 67 of the planes currently in service. Last month, it demanded checks for 20 of the longest-serving aircraft after discovering a ""new form of cracking"" inside A380 wings.
+
+An A380 superjumbo belonging to Qantas. Photograph: William West/AFP/Getty Images
+
+EASA said on Wednesday that the problem could spread to all superjumbos delivered over the past four years, warning that these cracks ""may develop on other aeroplanes, after a period of service"". It added: ""This condition, if not detected and corrected, may lead to reduction of the structural integrity of the aeroplane.""
+
+The A380's biggest customer is Dubai-based Emirates, which operates 20 of the 525-seater jets, followed by Singapore Airlines with 15, Qantas with 12, Lufthansa eight, Air France six, Korean Air five and China Southern two. Airbus admitted that it will pick up the bill, which includes the cost of the checks and compensation for removing aircraft from service and, if necessary, replacing cracked parts with new fittings.
+
+The problem relates to brackets that attach the A380's wing ribs – the elongated, oval-shaped frames that run along the width of the wing – to the wing's metal skin. There are more than 2,000 of these brackets per wing on an A380 and sources said the hairline cracks were created during the manufacturing process at the Airbus wing plant in Broughton, Wales.
+
+The first cracks were found inside a Qantas-owned A380 that suffered a serious engine failure over Indonesia in 2010 and has yet to be returned to service. Those cracks originated in bolt-holes that held the feet of the L-shaped brackets to the wing's covering. However, EASA announced last month that a ""new form of cracking"" had been discovered in other aircraft, this time on the vertical part of the bracket. EASA said on Wednesday that these cracks could spread to the entire fleet.
+
+Faced with the threat of a customer backlash of the kind that carmaker Toyota suffered in its 2009-11 recall crisis, Airbus said the problem had occurred on a ""handful"" of brackets per aircraft. ""These brackets are located on wing ribs which are not main load bearing structure, and, thus, the safe operation of the aircraft is not affected. Nearly 4,000 such brackets are used on the A380 to join the wing-skin to the ribs. Only a handful of brackets per aircraft have been found to have been affected,"" the manufacturer said.
+
+Although Airbus reported record orders in 2011, driven by demand for the A320neo jet, the A380 is key to its long-term future, with 253 sold so far. Chris Tarry, an aviation industry analyst, said: ""Most new aircraft encounter challenges after their entry into service but the most important thing is that the problem has been identified and is being fixed. The issue now is how much cash compensation will need to be paid by Airbus. It may be a meaningful amount, given the impact it will have on airline operations.""
+
+Qantas also announced, hours before the new EASA directive, that it had temporarily grounded an A380 after discovering 36 new cracks, which were found during a mandatory safety check after the jet suffered severe turbulence on a flight between London and Singapore last month. Airbus said the cracks were not related to the turbulence. The previous EASA directive referred to aircraft that had flown more than 1,300 flight cycles – counted as one take-off and landing – but has been expanded to all aircraft in operation.","{'label': 'Negative', 'score': 0.6307101249694824}",negative,0.6307101249694824,-1
+JetBlue unveils ‘Red Sox’ plane - Boston Herald,"Fri, 10 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmJvc3RvbmhlcmFsZC5jb20vMjAxMi8wMi8xMC9qZXRibHVlLXVudmVpbHMtcmVkLXNveC1wbGFuZS_SAUpodHRwczovL3d3dy5ib3N0b25oZXJhbGQuY29tLzIwMTIvMDIvMTAvamV0Ymx1ZS11bnZlaWxzLXJlZC1zb3gtcGxhbmUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en,"Talk about a high fly ball.
+
+JetBlue Airways, the official flight sponsor of the Red Sox, unveiled a custom, team-inspired paint scheme on its Airbus A320 at Logan International Airport today designed to “have their colors soaring the skies and runways,” according to airline officials.
+
+The aircraft, which is the first plane to officially tote a Major League Baseball uniform, traded its blue branding for gray inspired by the Sox’s road uniforms, complete with blue wing tips and a gray tail featuring the team’s iconic red socks.
+
+The plane, which heads to Fort Myers, Fla. for its first flight, also includes a banner commemorating the 100th anniversary of Fenway Park. Those attending today’s unveiling included Red Sox President and CEO Larry Lucchino, Executive Vice President and Chief Operating Officer Sam Kennedy, manager Bobby Valentine, Mayor Thomas M. Menino, team mascot Wally the Green Monster and Marty St. George, JetBlue’s senior vice president of marketing and commercial strategy.
+
+JetBlue has served as the team’s official airline since 2008, and announced an eight-year extension with the team and stadium last year. The Red Sox’s new spring training facility, JetBlue Park, will open later this month in Lee County, Fla.
+
+“The tribute has added meaning for us this year as we prepare for spring training in our new ballpark, JetBlue Park, and as we celebrate Fenway Park’s centennial,” Kennedy said. “JetBlue has been a great supporter of our team and brand, and we look forward to continuing to build on our partnership in the coming years, both in Boston and Fort Myers at our new spring training home.”","{'label': 'Neutral', 'score': 0.9999891519546509}",neutral,0.9999891519546509,0
+First A400M for the French Air Force takes shape in Seville - Skies Magazine,"Wed, 15 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2tpZXNtYWcuY29tL3ByZXNzLXJlbGVhc2VzL2ZpcnN0LWE0MDBtLWZvci10aGUtZnJlbmNoLWFpci1mb3JjZS10YWtlcy1zaGFwZS1pbi1zZXZpbGxlLWh0bWwv0gFpaHR0cHM6Ly9za2llc21hZy5jb20vcHJlc3MtcmVsZWFzZXMvZmlyc3QtYTQwMG0tZm9yLXRoZS1mcmVuY2gtYWlyLWZvcmNlLXRha2VzLXNoYXBlLWluLXNldmlsbGUtaHRtbC8_YW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"The first Airbus Military A400M for the French Air Force is taking shape in Seville (Spain), where its final assembly line (FAL) is located. The final assembly process for this aircraft, known as MSN7, started last November. The nose and fuselage are already integrated and the aircraft was recently moved, on its landing gear, to the workstation in which the structural assembly is carried out. Integration works for the wing started last week and both the horizontal and the vertical tailplanes, which have already been mated, have just been moved to the final assembly station, known as Station 40, with the rest of the aircraft. The A400M will then be powered up for the first time before the aircraft is moved to the Ground System Tests area.
+
+This aircraft, the first one in the series production, will be delivered to France around the turn of the year 2012-2013.
+
+The photograph shows A400M MSN7 in Station 40, at the A400M FAL in Seville.
+
+About A400M
+
+The A400M is an all-new military airlifter designed to meet the needs of the world’s Armed Forces in the 21st Century. Thanks to its most advanced technologies, it is able to fly higher, faster and further, while retaining high manoeuvrability, low speed, and short, soft and rough airfield capabilities. It combines both tactical and strategic/logistic missions. With its cargo hold specifically designed to carry the outsize equipment needed today for both military and humanitarian disaster relief missions, it can bring this material quickly and directly to where it is most needed. Conceived to be highly reliable, dependable, and with a great survivability, the multipurpose A400M can do more with less, implying smaller fleets and less investment from the operator. The A400M is the most cost efficient and versatile airlifter ever conceived and absolutely unique in its capabilities.
+
+About Airbus Military
+
+Airbus Military is the only military and civic/humanitarian transport aircraft manufacturer to develop, produce, sell and provide support and services for a comprehensive family of airlifters with a payload range of three to 45 tonnes. An Airbus subsidiary, Airbus Military is responsible for the A400M programme, the A330 Multi Role Tanker Transport (MRTT) and further military derivatives based on Airbus civil aircraft. These, together with the smaller ‘Light & Medium’ C295, CN235 and C212, make Airbus Military the global leader in the market for military transport, tanker and surveillance aircraft capable of performing the most varied types of missions. Altogether, Airbus Military has sold more than 1,000 aircraft to some 130 military, civil and governmental customers. More than 800 of these aircraft have been delivered. Airbus is an EADS company.","{'label': 'Neutral', 'score': 0.9999455213546753}",neutral,0.9999455213546753,0
+Airbus A380 cracks: All super-jumbos' wings to be checked after Qantas ground airliner - Daily Mail,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMjA5ODEzNC9BaXJidXMtQTM4MC1jcmFja3MtQWxsLXN1cGVyLWp1bWJvcy13aW5ncy1jaGVja2VkLVFhbnRhcy1ncm91bmQtYWlybGluZXIuaHRtbNIBggFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTIwOTgxMzQvYW1wL0FpcmJ1cy1BMzgwLWNyYWNrcy1BbGwtc3VwZXItanVtYm9zLXdpbmdzLWNoZWNrZWQtUWFudGFzLWdyb3VuZC1haXJsaW5lci5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en,"All A380 super-jumbos to be checked for cracks in their wings after Qantas ground another damaged airliner
+
+The Australian airline said 36 small cracks pose no threat to safety
+
+68 A380s are currently in use by seven airlines and can carry 800 people
+
+
+
+All of the world's biggest passenger aircraft are to have their wings checked after dozens of hairline cracks were discovered in a Qantas Airways plane.
+
+The Australian airline said it temporarily grounded one of its A380 superjumbos - made by Airbus - after discovering 36 tiny cracks inside its wings during a maintenance inspection.
+
+
+
+This morning the European Aviation Safety Agency (EASA) is believed to have ordered all 68 Airbus A380s currently in operation to have their wings checked.
+
+
+
+Airbus said the cracks in the UK-built wings pose no threat to safety.
+
+
+
+Discovery: Qantas discovered the wing cracks in the A380 after the compnay ordered a complete aircraft inspection following an engine blowout
+
+The 36 small 'type one' cracks were found during routine checks on the A380 at Sydney's main airport on Monday.
+
+
+
+The aircraft, which can carry up to 800 passengers, is expected to be back up and running in a week.
+
+
+
+This particular plane was checked for cracks at the request of Airbus after it flew through severe turbulence on a flight between London and Singapore.
+
+Scrutiny: Airbus' new A380 superjumbo has come under fire again, after Singapore Airlines had to shut down an engine and return a flight to Singapore yesterday
+
+First class travel: Inside the A380's first class cabins. It is the latest safety incident to hit the world's biggest passenger plane, which cost a staggering £250million each
+
+Stretching out: There are just fourteen berths in the first class section of each A380. The plane can seat up to 853 passengers
+
+BEHEMOTH OF THE SKIES Wingspan: 261ft 8in
+
+Length: 239ft 4in
+
+Height: 79ft 7in
+
+Maximum capacity: 853 *
+
+Cost: £156million
+
+Maximum speed: 647mph
+
+Maximum weight: 560 tonnes
+
+Fuel capacity: 68,188 gallons
+
+Fuel capacity: 0.145 mpg
+
+Range: 9,200 miles
+
+Internal wiring: 300 miles
+
+* If all seats are in economy class configuration
+
+The minor cracks - no more than two centimetres long - were discovered on some of the wing rib brackets and were caused by a manufacturing issue and not the turbulence, Qantas said.
+
+
+
+The Australian flag carrier said in a statement: 'This cracking is not related to the turbulence, or specific to Qantas, but is traced back to a manufacturing issue,' adding that Airbus had confirmed the cracks had no effect on flight safety.
+
+The cracks are similar to those manufacturing defects which were found on the wing ribs of a Qantas plane damaged following the disintegration of an engine in midflight in 2010.
+
+They are however different to the 'type two' cracking found on two A380s recently, which led to 20 of the planes being checked following orders from the EASA.
+
+At the time, Australian aircraft engineers called for the planes to be grounded with Steve Purvinas, secretary of the Australian Licensed Aircraft Engineers Association, saying: 'We can't continue to gamble with people's lives and allow those aircraft to fly around and hope that they make it until their four-yearly inspection'.
+
+The A380 aircraft are in use by Qantas, Singapore Airlines, Emirates, Air France, Lufthansa, Korean Airlines and China Southern.
+
+The planes have been in service for five years. In total, 238 of the aircraft have been ordered by 17 airlines worldwide.
+
+
+
+The aircraft are assembled in Toulouse, but parts are built across Europe, with the wings being built in Broughton, Wales.
+
+
+
+Airbus, a unit of European Aeronautic Defence & Space Co., declined to comment on the decision to broaden wing inspections. A spokesman for the European Aviation Safety Agency (EASA) was not immediately available to comment.
+
+Philippa Oldham, Head of Transport at the Institution of Mechanical Engineers, said in response to EASA’s decision to order Airbus to inspect all A380s for wing cracks :
+
+
+
+'It is welcome that the European Aviation Safety Agency (EASA) is calling for checks on all Airbus A380 as safety has to be the biggest priority for all airlines.
+
+
+
+'It is important to note that these cracks are very small and will be monitored by the airlines. They are unlikely to affect aircraft operation.
+
+
+
+'Airlines approved by the International Civil Aviation Organisation (ICAO) have very strict regulations and require there to be rigorous inspection procedures so an aircraft would not be allowed to fly unless it was deemed to be fully airworthy by the authority or their delegates.'
+
+
+
+British Airways is due to take delivery of 12 A380s next year, while the first of Virgin's eight superjumbos will arrive in 2015.
+
+
+
+Singapore Airlines, one of the carriers that operates A380s in and out of Heathrow airport, was the first airline to take delivery of a superjumbo, with the debut passenger flight taking place in October 2007.
+
+","{'label': 'Neutral', 'score': 0.9988722205162048}",neutral,0.9988722205162048,0
+Airbus to inspect all A380 superjumbos for wing cracks - BBC,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2J1c2luZXNzLTE2OTQyMzYx0gEwaHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYnVzaW5lc3MtMTY5NDIzNjEuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"""Airlines approved by the International Civil Aviation Organisation (ICAO) have very strict regulations and require there to be rigorous inspection procedures, so an aircraft would not be allowed to fly unless it was deemed to be fully airworthy by the authority or their delegates.""","{'label': 'Neutral', 'score': 0.9479480981826782}",neutral,0.9479480981826782,0
+Yet more cracks have been found in the wings of the world's biggest jets....but Airbus STILL claims they're safe to fly - Daily Mail,"Sat, 11 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9pbmRpYWhvbWUvaW5kaWFuZXdzL2FydGljbGUtMjA5OTgyNS9BaXJidXMtQTM4MC1Nb3JlLWNyYWNrcy13aW5ncy13b3JsZHMtYmlnZ2VzdC1qZXRzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Yet more cracks have been found in the wings of the world's biggest jets....but Airbus STILL claims they're safe to fly
+
+Wings are built in Broughton, north Wales, and Filton, near Bristol
+
+Latest problem to hit the A380 since engine blowouts grounded them in 2010
+
+More cracks have been discovered in the wings of the world's biggest passenger jetliner but Airbus has insisted the aircraft are still safe to fly.
+
+
+
+The damage has been found in two more A380 superjumbos, just two weeks after tiny cracks were first reported in the wings of the 525-seat, double-decker aircraft, which entered service just over four years ago.
+
+
+
+The initial discovery led to Australian Licensed Aircraft Engineers Association last week called for the aircraft to be grounded amidst safety concerns.
+
+
+
+Scroll down for video
+
+Safety concerns: More cracks have been discovered in the wings of the world's biggest jetliner, the 525-seat, double-decker A380 superjumbo, but Airbus has insisted the aircraft are still safe to fly
+
+'Airbus confirms that some additional cracks have been found on a limited number of non-critical brackets ... inside the wings of some A380s,' the planemaker said in a statement.
+
+
+
+'Airbus emphasizes that these cracks do not affect the safe operation of the aircraft.'
+
+The European Aviation Safety Authority (EASA) confirmed it would issue a bulletin Friday mandating precautionary checks.
+
+The latest cracking problem was discovered in two aircraft during a routine two-year inspection, an Airbus spokeswoman said.
+
+EADS subsidiary Airbus has so far delivered 68 superjumbos, starting with Singapore Airlines which took the first aircraft in December 2007, followed by Dubai's Emirates and Qantas Airways of Australia.
+
+
+
+Other operators include Air France, Germany's Lufthansa, Korean Air and China Southern.
+
+A380 breakdown
+
+So big that many airports had to modify their facilities to accomodate it, the A380 was designed to challenge Boeing's monopoly of the large passenger aircraft market.
+
+
+
+The aircraft's upper deck extends along the entire length of the fuselage, allowing for a cabin space of 5,145 sq ft - some 49 per cent more than Boeing's 747, the next largest passenger jet currently in service.
+
+
+
+The A380 is designed for a range of up to 9,600 miles (15,400km), enough to fly from New York to Hong Kong, at a cruising speed of Mach 0.85 (560mph or 900km/h).
+
+
+
+However, since the first deliveries of the aircraft in 2007, the planes have already been plagued with a series of problems.
+
+
+
+A blowout in the superjumbos' Derby-built Rolls Royce Trent 900 engines led to an emergency landing of a Qantas A380 in November 2010.
+
+
+
+Qantas grounded its Airbus fleet for more than a fortnight after the midair explosion over Singapore, which was found to have been caused by a faulty pipe.
+
+
+
+Rolls subsequently admitted dealing with the fault, including replacing the engines on several aircraft, had cost it £56million.
+
+
+
+Even the A380's massive size has posed difficulties. Last June an Airbus 380 lost its wing-tip in a taxiing collision with a building at Le Bourget airport Paris.
+
+
+
+The collision mirrored an incident at JFK airport earlier that year when a private jet was spun round after it was hit by the wing of an A380.
+
+The latest problems were discovered in the same type of part as the earlier set of cracks, an L-shaped bracket which connects the wing's exterior to the internal 'rib' structure.
+
+
+
+A380 wings are manufactured in Broughton, north Wales, and Filton, near Bristol, before they are shipped to Airbus headquarters in Toulouse, France, for final assembly.
+
+Each aircraft is powered by four Rolls Royce Trent 900 engines, built in Derby. In total, some 20,000 British workers' jobs rely on the construction of the mammoth planes.
+
+
+
+Industry journal Air Transport Intelligence said the brackets, known as rib feet, had been stressed during the manufacturing process and that this was being fixed.
+
+
+
+The A380 has enough room on its wings to park 70 cars and a wingspan of 79.8m (261ft 10in).
+
+
+
+","{'label': 'Negative', 'score': 0.9807995557785034}",negative,0.9807995557785034,-1
+New-build A320 to join sharklets test programme in May - Flightglobal,"Thu, 02 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vbmV3LWJ1aWxkLWEzMjAtdG8tam9pbi1zaGFya2xldHMtdGVzdC1wcm9ncmFtbWUtaW4tbWF5LzEwMzg2Ni5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus is expecting the first new-build aircraft for its A320 sharklets wing-tip programme to join the test regime in May, after promising results from initial flights with an early airframe.
+
+More than 100 flight hours of tests have been conducted with the first aircraft, A320 MSN1, which was rolled out with the modifications last November.
+
+""The programme is running well. The first part has been successfully and intensively followed,"" said Airbus head of development flight tests Hugues Van der Stichel. ""The envelope has been checked successfully and the behaviour of the sharklet is very satisfactory.""
+
+© Airbus Airbus is expecting the first new-build aircraft for its A320 sharklets wing-tip programme to join the test regime in May
+
+He said the airframer has carried out modelling and simulation as part of the certification work to have a ""proper representation"" of the aircraft. The simulation effort has focused on establishing, for example, roll-handling parameters and aerodynamic loading to see whether fine-tuning was necessary. Crucially, Airbus wants the handling qualities of the A320 to remain unchanged by the sharklet modification.
+
+""We have performed necessary identification of all parameters,"" said Van der Stichel. ""All low-speed identifications have been made, stalls were performed, and these are showing very good behaviour of the aircraft.
+
+""We are shortly to check the behaviour of the aircraft in icing conditions, in the coming weeks.""
+
+Airbus sharklet programme vice-president Pierre-Marie Gluckler added: ""The sharklet is modifying the aerodynamic performance of the aircraft and its handling qualities. We built computational models to tune the controls, the autopilot, and so on.
+
+""We are checking all assumptions made by the engineers, checking our simulations and flight models. We are quite happy with the results and the simulations.""
+
+Flight tests range in duration from as little as 30min - for minimum control speed tests - up to several hours. Typically, the A320 carries a crew of four to six personnel, and checks conducted so far have included the take-off, cruise, approach and landing phases.
+
+""In parallel we've measured the high-speed performance of the aircraft,"" said Gluckler.
+
+While fuel-burn figures depend on the flight profile, initial results from the tests indicate the sharklets are saving more than 3.5% in fuel-burn over sectors of 2,000nm (3,700km) - the main objective of the modification. ""We are meeting this,"" said Gluckler, adding that the airframer has carried out ""back-to-back"" test flights using both the sharklets and regular wing-fences.
+
+""We have to be careful with the expectations you give to people [on fuel-burn],"" pointed out Van der Stichel. ""We are on the right side of what we expected, a good signal that design and assumptions are correct.""
+
+Eight aircraft, including MSN1, will participate in the flight-test regime - one of each A320-family airframe, with both current engine options. MSN1, which has been ""opening most of the doors"", will continue to operate until April, said Gluckler, and the first new sharklet-ready aircraft will become available in May.
+
+""The wing reinforcement is available and the new aircraft will be on the final assembly line in a month,"" he added.
+
+While the sharklets are also designed to improve the A320's take-off performance, Gluckler said Airbus was too early into the testing to give specific data. However, he stressed that the modified wing-tips appeared to be meeting expectations: ""We've not discovered any significant issues that would change the plan.""
+
+Source: Flight International","{'label': 'Positive', 'score': 0.9726319313049316}",positive,0.9726319313049316,1
+The Rise of AirAsia’s 100th Dragon - Pattaya Mail,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnBhdHRheWFtYWlsLmNvbS90cmF2ZWwvdGhlLXJpc2Utb2YtYWlyYXNpYXMtMTAwdGgtZHJhZ29uLTk5NTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"AirAsia welcomed the arrival of its 100th Airbus A320 this month. To commemorate this special event, the aircraft featured a special dragon livery which is the zodiac sign for this Chinese New Year as well as the zodiac sign of Tan Sri Tony Fernandes.
+
+With its affiliates in Indonesia and Thailand, AirAsia operates the Airbus A320 aircraft for its entire route network throughout the region. Currently, both the Malaysia and Thailand operations are fully Airbus, while the Indonesia operations will be 100% Airbus by end of 1Q 2012.
+
+AirAsia welcomes the arrival of its 100th Airbus A320.
+
+AirAsia group chief executive officer, Tan Sri Tony Fernandes says, “We started with only two aircraft ten years ago, and here we stand today with our 100th Airbus A320, making us the largest Airbus A320 aircraft operator in Southeast Asia. We have weathered many challenges, persevering in the most difficult of situations. This milestone underlines AirAsia’s commitment to continue to invest in new aircraft for the benefit of our customers”
+
+A team of 20 painters worked around the clock for 12 days to paint the Airbus A320 in the colors of the dragon. Approximately 600 liters of paint were required to complete the job.
+
+The aircraft, which will operate on the Kuala Lumpur-Macau route right after it is launched, will also serve Kuala Lumpur, Jakarta, Singapore, Hong Kong, cities in Indonesia, and destinations throughout China on its aircraft rotation.","{'label': 'Neutral', 'score': 0.9966241121292114}",neutral,0.9966241121292114,0
+A380s to undergo checks - Times of Malta,"Wed, 08 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRpbWVzb2ZtYWx0YS5jb20vYXJ0aWNsZS9BMzgwcy10by11bmRlcmdvLWNoZWNrcy40MDYwMTDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The European Aviation Safety Agency (EASA) ordered yesterday that all Airbus A380 superjumbo planes be checked for wing cracks, even as the manufacturer insisted there was nothing to worry about.
+
+The cracks had been found “following an unscheduled internal inspection of an A380 wing,” EASA said.
+
+Further to the finding, inspections were carried out on a number of other aeroplanes during which a new form of cracking was identified which, “if not detected and corrected, may lead to reduction of the structural integrity of the aeroplane,” the statement said.
+
+EASA, which had already last month ordered that 20 such jets be inspected following the discovery of cracks in the wings of Singapore Airlines, Emirates and Air France planes, has expanded the checks to all 67 A380s currently in operation.
+
+The announcement came after Australia’s Qantas removed one of its A380 from service after discovering “minor cracks” in its wings, but said that there was no risk to flight safety. When the first checks were announced last month, Airbus’s vice president Tom Williams insisted the tiny wing cracks could be easily repaired and did not pose any danger. Airbus reiterated that stance again yesterday.
+
+The EASA spokesman said the checks comprised both a “detailed visual inspection”, but also more intense testing that would be able to detect potential faults invisible to the naked eye. There was no urgency to the inspections and those aircraft that had flown more than 1,800 flights would be checked first, he said.
+
+Earlier, Qantas took one of its A380s out of service yesterday after discovering “minor cracks” in its wings. The airline stressed that it was not the ‘type two’ cracking found across the global A380 fleet last month which was “now the subject of a European airworthiness directive.”
+
+“To date, type two cracking has not been found on Qantas aircraft,” a Qantas spokesman said.
+
+The small cracking, on “some wing rib feet”, was discovered during an extra round of precautionary checks requested by Airbus on the Qantas superjumbo after it hit severe turbulence over India in January.","{'label': 'Neutral', 'score': 0.9971269965171814}",neutral,0.9971269965171814,0
+News Desk – Australian Aviation - Australian Aviation,"Sat, 18 Feb 2012 08:00:00 GMT",https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vYXVzdHJhbGlhbmF2aWF0aW9uLmNvbS5hdS8yMDEyLzA0L25ld3MtZGVzay0yOTIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"NEXT GEN JET The Trent XWB made its first flight aboard an A380 test aircraft on February 18. (Airbus) COMMERCIAL 5 MILITAR
+
+Commercial
+
+A350 engine gets first flight
+
+The Rolls-Royce engine destined for the Airbus A350 XWB has made its first flight aboard an A380 test aircraft.The Trent XWB development engine, fitted with a range of test sensors, was mounted on the A380’s inner left engine pylon where it replaced one of the A380’s Trent 900 engines. Airbus said the initial five hour test flight was a success.
+
+“This is a promising start to the Trent XWB’s flight-test program which will ensure a thorough real-life testing of the engine, nacelle and its systems.” said Charles Champion, executive vice president of engineering at Airbus. “This will allow for a high level of powerplant integration, maturity and reliability to be achieved by the time it flies on the first A350 XWB aircraft.”
+
+The Trent XWB engine test program is being launched roughly a year ahead of scheduled first flight for the composite built A350. The engine test program is set to accumulate about 175 flight hours over a seven month period and will include hot weather and icing condition portions, Airbus says. The program will run about three times longer than previous such efforts, which Airbus says will contribute to ‘de-risking’ the A350 XWB’s development.
+
+787 flaw could take two weeks to fix — Boeing
+
+A manufacturing flaw in the fuselage of Boeing’s 787 Dreamliner could take up to two weeks to fix, the company says.
+
+Repairing a flaw in the fuselage of the 787 Dreamliner could take up to two weeks per plane, Boeing said, in a development that could hamper plans to ramp up production of the long delayed airliner.
+
+Boeing disclosed the problem in February, saying incorrect shimming had led to de-lamination of a section of the rear fuselage support structure. Boeing said as many as 55 already assembled 787s may need to be repaired.
+
+Boeing said the repair work could be done alongside other work on 787s that are under construction, but would likely take between 10 and 14 days on aircraft already built.","{'label': 'Positive', 'score': 0.507057249546051}",positive,0.507057249546051,1

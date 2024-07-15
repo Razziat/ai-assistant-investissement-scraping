@@ -1,0 +1,852 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Omnispace Selects Thales Alenia Space to Develop Satellite Infrastructure for its Global Hybrid Network Vision - Thales,"Thu, 09 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9vbW5pc3BhY2Utc2VsZWN0cy10aGFsZXMtYWxlbmlhLXNwYWNlLWRldmVsb3Atc2F0ZWxsaXRl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Omnispace Selects Thales Alenia Space to Develop Satellite Infrastructure for its Global Hybrid Network Vision Thales Alenia Space Satellite constellations IoT 5G Share this article
+
+
+
+LinkedIn
+
+TYSONS, VA. – April 9, 2020 – Omnispace, the company that is reinventing mobile communications by building a global hybrid network, today announced it has selected Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), to develop the initial component of its satellite-based Internet of Things (IoT) infrastructure. This will advance Omnispace’s vision to deliver a global hybrid communications network based on 3GPP standards.
+
+Thales Alenia Space will design and build an initial set of two satellites for operation in non-geostationary orbit (NGSO). These initial satellites will support 3GPP-defined (the 3rd Generation Partnership Project telecommunications specifications that unite standard development organizations) Narrow-Band IoT radio interface and will serve to advance the development and implementation of Omnispace’s global hybrid network. This announcement marks a key milestone as Omnispace initiates the development of its new generation NGSO satellite constellation which will operate in the S-band.
+
+“Thales Alenia Space has a successful track record of developing NGSO satellite constellations and is well-qualified to support our vision of delivering the world’s first global 5G non terrestrial network (NTN),” said Ram Viswanathan, President and CEO of Omnispace LLC. “This investment in our next-generation satellite infrastructure allows us to progress the development of our technology and demonstrate our unique capabilities as we continue to work towards launching our broader vision of a global hybrid network.”
+
+“Thales Alenia Space is pleased to be working with Omnispace, which is taking a holistic approach to the design, development and deployment of their next-generation, IoT-based satellite network infrastructure,” said Hervé Derrey, CEO of Thales Alenia Space. “Omnispace’s selection of Thales Alenia Space reinforces our leadership position as a major industrial partner and our expertise in space-based IoT communications. We look forward to collaborating with Omnispace in delivering this innovative project.”
+
+The development of this initial set of satellites will begin immediately and they are scheduled for launch in 2021. Omnispace and Thales Alenia Space, along-side other industry stakeholders, will contribute to the development of the 3GPP NTN friendly standard for global implementation.
+
+Artistic views © Thales Alenia Space/Briot
+
+About Omnispace
+
+Headquartered in the Washington D.C. area, and founded by veteran telecommunications and satellite industry executives, Omnispace is redefining mobile connectivity for the 21st century. By leveraging 5G technologies, the company is combining the global footprint of a non-geostationary satellite constellation with the mobile networks of the world’s leading telecom companies to bring an interoperable “one network” connectivity to users and IoT devices anywhere on the globe.
+
+Learn more at: Omnispace.com and follow on LinkedIn or Twitter @omnispace.
+
+Omnispace Press Contact:
+
+Marie Knowles
+
++1-202-422-2589
+
+mknowles@omnispace.com
+
+
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 2.15 billion euros in 2019 and has around 7,700 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space Press Contacts:
+
+Sandrine Bielecki
+
++33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
++33 (0)4 92 92 72 82
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
++39 (0)6 415 126 85
+
+marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.8075234293937683}",neutral,0.8075234293937683,0
+Thales Alenia Space to build two prototype satellites for constellation venture - SpaceNews,"Thu, 09 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLXRvLWJ1aWxkLXR3by1wcm90b3R5cGUtc2F0ZWxsaXRlcy1mb3ItY29uc3RlbGxhdGlvbi12ZW50dXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Omnispace, a company planning a satellite constellation to keep mobile asset trackers, sensors and other smart devices constantly connected using common cellular standards, ordered two prototype spacecraft from Thales Alenia Space, the companies announced April 9.
+
+Omnispace is in the process of selecting a launch provider for the satellites in the hope of getting them in orbit in early 2021, Ram Viswanathan, Omnispace CEO, told SpaceNews.
+
+Omnispace holds an S-band spectrum license obtained by purchasing the assets of ICO Global, a defunct company that sought to create a medium Earth orbit constellation in the early 2000s. Tysons Corner, Virginia-based Omnispace has mobile network operator partners in Asia and Latin America, and is in talks with others around the world, Viswanathan said.
+
+ICO Global launched one of a planned 12 satellites in 2001 before going bankrupt. Omnispace owns that 19-year-old satellite, the Boeing-built ICO-F2, and plans to use the spectrum filing ICO Global once held with the International Telecommunication Union to create a new constellation of a to-be-determined size, Viswanathan said.
+
+Formed in 2012, Omnispace’s goal is to create a constellation that enables various mobile smart devices to roam between cellular and satellite networks. The company’s initial focus is internet-of-things devices, such as asset trackers and sensors for environmental monitoring. Customers would use Omnispace’s satellite network when their devices are beyond the reach of cellular connectivity, Viswanathan said.
+
+Omnispace plans to use its prototype satellites to determine the size and capability of a larger constellation. The company has not determined how many satellites it will need, or if those satellites will be in low Earth orbit, medium Earth orbit, or both, Viswanathan said.
+
+Omnispace’s prototypes will be bigger than the cubesats depicted in the illustration the company released April 9, Viswanathan said. Omnispace plans to start limited commercial services with those first two satellites, he added.
+
+Thales Alenia Space originally released this rendering of Omnispace’s satellites. It later released an updated rendering showing satellites about four times as large. Credit: Thales Alenia Space Thales Alenia Space originally released this rendering of Omnispace’s satellites. It later released an updated rendering showing satellites about four times as large. Credit: Thales Alenia Space
+
+Thales Alenia Space is building the Omnispace payload with French partner Syrlinks based on technology from the recently launched ANGELS cubesat, a Thales Alenia Space representative said by email. Thales Alenia Space plans to install the payload in a bus manufactured by Lithuanian nanosatellite manufacturer NanoAvionics, the representative added.
+
+Omnispace’s satellite plans were not materially impacted by the coronavirus pandemic, Viswanathan said. He declined to say if Omnispace included any coronavirus-related clauses in its manufacturing contract with Thales Alenia Space but said the company has “contemplated a wide range of risks and outcomes.”
+
+Omnispace is working with mobile network operators and national regulators to obtain market access in countries around the world, Viswanathan said. Thales Alenia Space said it is designing the satellites with narrowband radio interfaces based on cellular communications standards.
+
+Despite the focus on a “hybrid” network, Omnispace is not focused on connecting cellphones to satellites, as Lynk Global and AST&Science intend to do. Viswanathan said the company’s satellites will connect to user terminals with low-cost omnidirectional antennas akin to those found in cellphones and other consumer devices.
+
+Omnispace counts Columbia Capital, Telkom Ventures and Greenspring Associates as its major investors, Viswanathan said. Intelsat, a minor shareholder, flies the ICO-F2 satellite for Omnispace, he added.
+
+Omnispace is not currently raising money, Viswanathan said, adding that the prototypes Thales Alenia Space is building are fully funded. He declined to comment on the projected cost of Omnispace’s overall constellation.
+
+Omnispace’s gateway stations in Australia, Chile, Germany and the United States were built for ICO Global, Viswanathan said. The company is still evaluating if it will need additional gateway stations for its future constellation, he said.","{'label': 'Neutral', 'score': 0.9999985694885254}",neutral,0.9999985694885254,0
+Thales Alenia Space to develop in Spain the TDRS transmitter for VEGA launchers - Thales,"Mon, 27 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLWRldmVsb3Atc3BhaW4tdGRycy10cmFuc21pdHRlci12ZWdhLWxhdW5jaGVyc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space to develop in Spain the TDRS transmitter for VEGA launchers Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Thales Alenia Space in Spain technologies to serve an improved approach using
+
+geostationary data relay satellites
+
+Madrid, April 27, 2020 - Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), announced today the signature of a contract with AVIO S.p.A., industrial prime contractor of VEGA launch vehicle, in the frame of LEAP1 program of the European Space Agency (ESA), concerning the initial phases of design, development and qualification of a TDRS (Tracking and Data Relay Satellite) transmitter, targeting an improvement of VEGA telemetry system both in terms of cost and performance.
+
+The present telemetry system of VEGA relies on the download of the telemetry data streaming directly to the telemetry ground stations, requiring the use of costly mobile ground stations. Sometimes the ground stations are not even sufficient to cover the launch trajectory.
+
+Improved connections
+
+The new VEGA TDRS system is based on the transmission of the telemetry data streaming to TDRS geosynchronous satellites constellation, which then relay the signal to the TDRSS2 ground stations. This system will significantly improve the contact between the ground and the launcher by allowing continuous transmission of the telemetry data streaming all along the launcher trajectory thanks to the TDRSS coverage. The VEGA TDRS system will be compatible with the current launcher version and easily adapted to its evolutions, as the VEGA-C launcher version.
+
+The TDRS transmitter development draws on Thales Alenia Space in Spain comprehensive expertise in the development of telemetry and command systems for all type of space missions in LEO, GEO, the Moon and Langrange L2 orbits. In particular, the company has developed TDRSS-compatible transmitters and receivers for numerous missions in low Earth orbit, including visiting spacecraft to the International Space Station such as Europe’s ATV, Japan’s HTV and USA’s Cygnus. Thales Alenia Space has also valuable experience in the launchers segment and is currently developing in its facilities in Madrid (Spain) the telemetry transmitter for the Ariane 6 launch vehicle.
+
+Eduardo Bellido, CEO of Thales Alenia Space in Spain said “we thank AVIO and ESA for their trust in our capacities to develop the TDRS transmitter for VEGA, which is a key element for an improved approach to telemetry data transmission for European launchers, by using geostationary data relay satellites.”
+
+Thales Alenia Space has contributed to the European launchers industry for more than 50 years. In just a few years, the company has become the key supplier of numerous electronic equipment developed in Belgium for the entire family of Ariane (Ariane 1 to Ariane 6), Vega and Soyuz launchers. Since 2017, Thales Alenia Space in Spain has also been completing the range of Thales Alenia Space-built products dedicated to the European launchers.
+
+1 LEAP: Launchers Exploitation and Accompaniment Program
+
+2 NASA’s Tracking and Data Relay Satellite System (TDRSS) provides data relay services to launch vehicles, the International Space Station and other spacecraft in low Earth orbit.
+
+Copyrights: ©ESA/S. Corvaja - ©ESA/J. Huart - ©ESA/M. Pedoussaut
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 2.15 billion euros in 2019 and has around 7,700 employees in nine countries.
+
+ABOUT THALES ALENIA SPACE IN SPAIN
+
+Thales Alenia Space is well represented in Spain and is the country’s leading space company in the satellite segment, with 31 years of experience in the design, development and sale of advanced space systems and equipment. It has contributed to 600 satellites, space probes and vehicles used in telecommunications, Earth observation, science, exploration, navigation and orbital infrastructure missions, and delivered more than 4000 equipment and subsystems accumulating 200,000,000 hours of flight operations. Thales Alenia Space in Spain offers a wide range of solutions spanning the design and integration of payloads and subsystems for telecommunications, data transmission and TT&C (tracking, telemetry and command), optical observation instruments, radiofrequency equipment, data processing and digital electronics, network management systems for the ground segment, telemetry transmitters for launchers and communication systems for spaceports. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel: +33 (0)4 92 92 72 82
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 126 85
+
+marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.8475326895713806}",neutral,0.8475326895713806,0
+Smart meter cyber security solution - Thales,"Thu, 30 Apr 2020 00:08:33 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2lvdC9pbmR1c3RyaWVzL2VuZXJneS11dGlsaXRpZXMvY3liZXJzZWN1cml0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"IT + OT cybersecurity – both complement and protect each other
+
+This brochure aims to help our readers better understand the difference between Operational Technology (OT) and Information Technology (IT) and how they work together in a complementary fashion and protect each other. It discusses real use cases and provides insight on the key points to keep in mind when securing networks using OT and IT.","{'label': 'Neutral', 'score': 0.8069363236427307}",neutral,0.8069363236427307,0
+White-label EMV app for card & mobile payments - Thales,"Wed, 29 Apr 2020 19:50:46 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2JhbmtpbmctcGF5bWVudC9jYXJkcy9lbXYtd2hpdGUtbGFiZWwtcGF5bWVudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Frost & Sullivan’s 2018 Award for Gemalto PURE
+
+The Customer Value Leadership Award is granted by Frost & Sullivan to Gemalto PURE based on an independent analysis and Evaluation of two key factors—Customer Impact and Business Impact. Full detailed report available here.","{'label': 'Neutral', 'score': 0.9623188972473145}",neutral,0.9623188972473145,0
+Thales Alenia Space: onboard European launchers for more than 50 years - Thales,"Mon, 27 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy90aGFsZXMtYWxlbmlhLXNwYWNlLW9uYm9hcmQtZXVyb3BlYW4tbGF1bmNoZXJzLW1vcmUtNTAteWVhcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space: onboard European launchers for more than 50 years Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Our electronics at the service of the launcher's core, its safeguard system and its tracking system
+
+Thales Alenia Space has contributed to the European launchers industry for more than 50 years, from Europa, through the Ariane family, and to the Soyuz and Vega launchers. In just a few years, the company has become the key supplier of numerous electronic equipment developed and manufactured in Belgium. Since 2017, Thales Alenia Space in Spain has also been completing the range of Thales Alenia Space-built products dedicated to the European launchers.
+
+Long-standing expertise back to the 1970s
+
+When the development of Ariane was decided by the Council of European Ministers meeting in Brussels under the Belgian Presidency on July 3, 1973, Thales Alenia Space had on paper a ""control bench"" solution inherited from Europa III. This expertise enabled the company to quickly win new contracts for the development and production of on-board electronic equipment. This is how Thales Alenia Space marked the beginning of its adventure with Ariane. This story continues from Ariane 1 to the present day with Ariane 6, and has been extended to Soyuz and Vega.
+
+Thales Alenia Space: a major supplier of electronic equipment onboard Ariane 5
+
+The 23 pieces of equipment supplied by Thales Alenia Space and on board each Ariane 5, represent 50% of the launcher's electronics. They are essential since they ensure on board power distribution, control of the nozzles to keep the launcher on its trajectory, calculation of its position in space, the separation of the stages, the opening of the fairing that protects the satellite in flight and the launcher safety system in case of an incorrect trajectory. Thales Alenia Space has produced in Belgium more than 5,000 pieces of equipment for the Ariane launchers produced to date.
+
+At the same time, as a European supplier of check-out systems for launchers, Thales Alenia Space has supplied Arianespace with most of the control benches for the Ariane 1 to 5 launchers, including the most vital one, the one used for final checks and preparation for liftoff.
+
+Thales Alenia Space gets on board Ariane 6
+
+In 2017, Thales Alenia Space’s electronics got on board Ariane 6. In Belgium, the company is in charge of developing the Ariane 6 range safety system and control electronics for nozzle steering. Ariane 6 is a new development for Thales Alenia Space as the company also signed the contract for the development, in Spain, of the telemetry transmitter of the launcher. This equipment is responsible for transmitting to the ground the data generated by the launcher throughout the whole launch mission.
+
+In April 2018, French space agency (CNES) chose the Space Alliance, formed by Telespazio and Thales Alenia Space, to extend the fiber-optic communications system (STFO) at Europe’s Spaceport in French Guiana, to include the new launch complex dedicated to Ariane 6. The STFO communications system acts as an interface between launch customers’ test benches and satellites throughout the different launch preparation phases at CSG, including spacecraft fueling, satellite encapsulation under the launch vehicle fairing and launch pad operations. In operation since the 1990s, this system is being extended and upgraded to serve Ariane 6 customers. CNES is in charge of the CSG ground segment. Telespazio France, as prime contractor, and Thales Alenia Space in Spain, as subcontractor, are bringing to the project their complementary skills in system engineering, communications networks, software systems, RF and fiber-optics, as well as in the operation and maintenance of the current STFO system. These activities, initiated 2018, are about to be finalized.
+
+Thales Alenia Space: the sole European supplier onboard Soyuz launcher
+
+The Russian Soyuz launcher also relies on the expertise of Thales Alenia Space, the only European supplier, for its range safety system. This system equips the Soyuz launched from French Guiana and can be used to destroy the launcher if it goes off course.
+
+Thales Alenia Space also delivers on-board equipment for Soyuz, with two to four Soyuz launchers equipped per year since 2011. In addition, Thales Alenia Space provides the Passive Repeater System (PRS) that provides communications links between the payloads on the launcher and the ground control systems, prior to the launch.
+
+Thales Alenia Space is also responsible for the installation of three relay antennas providing links with the Bretagne1, Bretagne2 and Adour2 radars in French Guiana. These antennas are needed to check that the safety system is operating correctly, for both position determination and for remote commands, when the launcher is on its launch pad.
+
+The latest in the series of launchers: VEGA
+
+Thales Alenia Space in Belgium and in Spain also participate in the development of the European launcher VEGA. The Belgian teams are participating in the inertial navigation system while the Spanish teams have just won the contract concerning the initial phases of development of a TDRS (Tracking and Data Relay Satellite) transmitter, targeting an improvement of VEGA telemetry system by using geostationary data relay satellites. The new system is based on the transmission of the telemetry data streaming to TDRS geosynchronous satellites constellation, which then relay the signal to the ground stations. This system will significantly improve the contact between the ground and the launcher by allowing continuous transmission of the telemetry data streaming all along the launcher trajectory. It will be compatible with the current launcher version and easily adapted to its evolutions, as the VEGA-C launcher version.
+
+Copyrights: ©ESA/CNES/ARIANESPACE - ©ESA/S. Corvaja - ©ESA/J. Huart - ©ESA/M. Pedoussaut","{'label': 'Neutral', 'score': 0.9999938011169434}",neutral,0.9999938011169434,0
+Security for polycarbonate - Thales,"Wed, 29 Apr 2020 19:05:50 GMT",https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vYW1lcmljYXMvdW5pdGVkLXN0YXRlcy9kaWdpdGFsLWlkZW50aXR5LWFuZC1zZWN1cml0eS9kcml2ZXJzLWxpY2Vuc2UvZXh0ZW5kZWQtb2ZmZXIvc2VjdXJpdHktZm9yLXBvbHljYXJib25hdGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"​​Issuing polycarbonate cards presents new opportunities for advanced security features to ensure the integrity, reduce counterfeit and enhance the security of your DL/ID credentials.​
+
+In 2015, Gemalto acquired Trüb, a leading secure printing and document company based in Switzerland, to create unmatched card security expertise for the public sector. Jurisdictions can now benefit from the combined strengths of both companies for an enhanced offering in secure identification solutions.
+
+Window Lock
+
+With Window Lock, Gemalto presents a new security concept for the protection of the holder portrait against any subsequent change by means of additional laser engraving.
+
+The technology is based on a sophisticated laser personalization process on a metallic foil which is integrated into a transparent window. A ghost image is laser personalized into the metal foil so that a simultaneous manipulation of the card hold portrait and ghost image after issuance of the document will leave visible traces.
+
+Window Lock implements a ""negative"" personalization process where the light-colored image is personalized by metal ablation. Hence, a fraudulent manipulation of the card holder portrait could easily be detected.
+
+Window Lock presents a highly innovative security concept which is easy to understand and to verify, resulting in further increased security level of travel and identity documents. ​
+
+True Vision
+
+True Vision is a level two security and design element for polycarbonate documents.
+
+This security feature implements images which are invisible under normal daylight, that turn into brilliant true-color images with excellent color reproduction in under 365 nm UV exposure. The high resolution images combine UV fluorescent inks with advanced color separation and half tone printing.
+
+Customer specific true-color UV images can be integrated into the document design such as the night sky line of a city, here Kuala Lumpur on the Malaysian passport for example.​​
+
+Edge Sealer
+
+Unlike anything in the market, Edge Sealer is a laser engraving process applied during the personalization stage. Documents are laser-etched with markings along the edge of the document, thus adding an additional layer of security. The laser engravings ideally relate to the holder's personal information, using their name, serial number, or other unique information.
+
+Edge Sealer offers convenience, security and ease of implementation. The technique is impossible to duplicate with a copy machine or scanner and is extremely difficult to reproduce due to the special expertise and unique technology required. Edge Sealer literally ""seals"" your secure document against any delamination or cutting attempts. ​​
+
+Secure Surface
+
+Secure Surface is three advanced security features that work in tandem to enhances the security of polycarbonate identity documents by combining different effects: light reflection, movement and tactile effects.
+
+Designed to counter a new type of forgeries on existing security features like changeable or multiple laser image (CLI/MLI), Secure Surface offers visual and tactile effects that allows fast and efficiency document authenticity checks meaning security and convenience for legitimate holders.
+
+This next generation CLI/MLI developed by our parent company Gemalto, provides easy-to-check visible security features trusted by border control authorities where several pieces of information (such as a portrait, logo, symbol or number) can be seen depending on the viewing angle. With the latest enhancements, it is now possible to have complex shapes and combinations of light reflective or animation elements inside the CLI/MLI, making it extremely difficult to duplicated.
+
+Secure Surface also offers tactile features for a polycarbonate document, such as surface embossing or braille. Gemalto can provide both positive and negative emb​ossing on the same surface, making the full use of strong tactile effects. When combined with complex designs, they increase the security even further.​","{'label': 'Positive', 'score': 0.9968972206115723}",positive,0.9968972206115723,1
+IFE giants Panasonic and Thales implement layoffs in the United States - Runway Girl Network,"Fri, 10 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjAvMDQvaWZlLWdpYW50cy1wYW5hc29uaWMtYW5kLXRoYWxlcy1pbXBsZW1lbnQtbGF5b2Zmcy1pbi10aGUtdW5pdGVkLXN0YXRlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The two largest inflight entertainment companies in the world, Panasonic Avionics and Thales InFlyt Experience, have implemented workforce reductions in the United States.
+
+Panasonic Avionics cited headwinds created by the coronavirus pandemic as the driver behind job cuts and furloughs at its Lake Forest, California-based campus, while Thales InFlyt Experience said the layoffs – executed earlier this year in Florida – are part of a realignment strategy.
+
+Neither company is providing the exact number of employees affected by the cuts. However, several Panasonic Avionics executives impacted by the measure have taken to LinkedIn to express their gratitude for the opportunities provided by the firm through the years.
+
+A Panasonic spokesman yesterday told Runway Girl Network:
+
+Panasonic Avionics has had to take several measures to control costs, and to preserve and protect its business given the sharp falloff in demand from our airline customers resulting from the COVID-19 pandemic. Regrettably, these measures include workforce reductions and furloughs. Impacted employees are being or have been notified, and we are doing everything we can to support them and their families through this difficult time, including offering comprehensive severance and benefits packages, outplacement and employee assistance programs, where applicable. For employees who remain, PAC has also begun to implement temporary reduced work schedules across its US and global operations. The company is also instituting salary reductions for all senior PAC executives, including its CEO. While we have done everything possible to minimize the impact of this crisis on PAC employees, these latest actions were necessary given the pandemic’s extraordinary impact on our industry. We are hopeful that these measures will help PAC support its airline customers, limit its losses, and ensure the company is in a position of strength when the recovery begins.
+
+Panasonic previously laid off some of its engineering staff in Orange County in the summer of 2019. David Bartlett departed the firm and his CTO position in January of this year.
+
+Early last month, rumors began circling in the close-knit IFE world that job cuts at Thales InFlyt Experience – including at the former LiveTV unit acquired in 2014 by Thales – were large-scale in nature. But RGN now understands that the overall layoff round resulted in less than an 8% reduction in Florida. Thales InFlyt Experience has operations in both Melbourne and Orlando.
+
+In a statement provided to RGN in March, the company said:
+
+Given the competitive nature of the industry, we do not publicly discuss staffing plans nor do we take staffing changes lightly as our employees are of the utmost importance to our business. Our business will constantly evolve and flex to effectively respond to market and customer demands as such we must, and regularly do, review and evaluate our organizational needs ensuring that we have the appropriate skills and resources. In Florida, the Thales InFlyt Experience business has maintained an employee population of more than 500 people and we intend to maintain a similar staff presence even after our business realignment strategy is complete. It is important to note that as Thales InFlyt Experience continues to grow and evolve we are investing heavily in the digitalization of our products and in areas that create value for our customers.
+
+The near idling of the commercial aviation fleet due to the coronavirus crisis not only affects the sale of IFE and connectivity hardware to airlines. It means that IFE hardware maintenance revenue – where companies like Panasonic and Thales usually thrive – is being pummeled.
+
+Other companies in the airline passenger experience sector are clearly not immune to the unprecedented issues facing aviation. Industry players of every size are tackling the challenges created by the coronavirus pandemic (and before that, the protracted Boeing 737 MAX grounding) with various cost-cutting measures. In addition to furloughs and workforce reductions, some are reaching out to their suppliers for payment reductions and extended terms to help them through the crisis.
+
+Addressing the precipitous drop in passenger traffic and the knock-on effect to suppliers, in-seat power leader Astronics in a statement issued on 30 March said it has frozen hiring, suspended all wage adjustments and bonus programs, and is adjusting its work force “to align with demand”.
+
+The broader Thales Group said in a 7 April statement said that its civil aeronautics businesses represent only around 12% of the Group’s turnover. “However, like all industrial companies, this crisis is currently seriously disrupting production chains and project execution.” A number of cost-cutting measures are now in play at the French multinational corporation, including a sharp reduction of temporary work, the implementation of exceptional government-supported temporary furloughs in the countries which provide for them, and a hiring freeze in support functions.
+
+Safran Cabin, which in March temporarily suspended production at four North American plants, furloughed hundreds of employees amid the closures, the Seattle Times reported.
+
+Even the Airline Passenger Experience Association (APEX), which represents these firms, is reviewing its costs. APEX president Juha Järvinen, who serves as Virgin Atlantic’s chief commercial officer, said: “As a responsible membership association, we are critically reviewing our cost base. Your Executive Committee and Board of Directors are actively reviewing revenue and expense projections. We have taken some prudent cost reduction steps as of this week and will continue to take needed actions to reduce risks, and secure the financial viability of APEX for years and decades ahead.”
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9899779558181763}",neutral,0.9899779558181763,0
+Thales Data Threat Report: Cloud an 'Inflection Point' for Data Security - Channel Futures,"Fri, 10 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNoYW5uZWxmdXR1cmVzLmNvbS9jbG91ZC90aGFsZXMtZGF0YS10aHJlYXQtcmVwb3J0LWNsb3VkLWFuLWluZmxlY3Rpb24tcG9pbnQtZm9yLWRhdGEtc2VjdXJpdHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"More than 40% of organizations say they are underway with digital transformation — projects that are complicating data security efforts, especially in the cloud.
+
+That’s one major takeaway from the 2020 version of the annual Data Threat Report. Thales eSecurity commissioned the survey, and research firm IDC carried it out.
+
+Analysts say enterprises have reached an “inflection point” because half of all data now resides in the cloud, thanks to digital transformation. (Incidentally, the United States leads in these deployments, at 59%, with the U.K. trailing closely, at 51%.) And almost half (48%) of that data is deemed sensitive.
+
+Add to that the reality that most cloud environments are comprised of multiple platforms. All this, the report notes, creates complexity that hinders data security.
+
+The problem is, two-thirds of organizations perceive their environments as very secure.
+
+“[But] organizations are not implementing the processes and investing in the technologies required to appropriately protect their data,” analysts wrote. “More than half have been breached or experienced failed security audits. And when it comes to securing data in the cloud, most companies incorrectly look to their cloud providers for their portion of the shared responsibility model.”
+
+Most respondents funnel only a small portion of their IT budgets toward securing their data in the cloud, IDC found. The bulk continue to shore up their network security instead.
+
+Data Security Spending
+
+Even so, analysts said 46% of organizations intended to boost data security spending in the 12 months following the survey, which IDC conducted in November. That means the latest Thales Data Threat report does not reflect the impact of the COVID-19 pandemic and its subsequent effect on organizations making sudden moves into the cloud, potentially increasing data security risks.
+
+The imperative to put more money into data security already was clear, even before the novel coronavirus outbreak. IDC said almost one-half (49%) of global respondents had experienced a breach at some point, with 26% suffering a breach in the past year. It only makes sense that now, as more firms choose cloud solutions to provide unplanned work-from-home support, that the risk grows greater without a solid security strategy.
+
+Consider, too, that 95% of organizations surveyed rely on software-as-a-service applications, which run from the cloud. Plus, 78% of those users store sensitive data in those programs, IDC said. Those figures don’t include the sensitive data housed in PaaS or IaaS environments globally. In the U.S. alone, organizations keeping sensitive data in cloud environments looks like this: 79% in SaaS, 48% in PaaS and 46% in IaaS. All this stands to create a perfect storm of data threats.
+
+The channel is in a great spot to step in and help. Overall, in the Thales Data Threat report, IDC recommends a multilayered approach to data security. Analysts encourage organizations to embrace cloud shared security responsibilities. They also recommend adopting a zero-trust model that authenticates and validates the users and devices accessing applications and networks. At the same time, they suggest employing more robust data discovery, hardening, data loss prevention and encryption solutions. Cloud-centric MSPs, VARs, system integrators and other partners are the right experts to implement and guide those initiatives for clients.
+
+‘Zero Trust’
+
+That “zero trust” approach is key, according to IDC. It “eliminates the binary trust/don’t trust approach of yesterday’s on-premises, perimeter-centric reality and instead requires a least-privileged, continuous validation and verification approach, providing both network and application-centric access protections,” analysts wrote. “Likewise, technologies like …
+
+… encryption and tokenization assure that if the data is hacked, leaked, or physical devices are stolen, data is also appropriately protected.”
+
+Perhaps frighteningly, 100% of respondents told IDC at least some of their sensitive data in the cloud has no encryption. Throughout the world, just 57% of sensitive data stored in cloud environments features encryption. And IDC found that tokenization protects less than half (48%). The U.S. leads the world in employing data encryption (63%) and tokenization (54%) to protect sensitive data in the cloud. So says the Thales Data Threat report.
+
+Finally, expect data security to grow ever more complex as organizations lean on multicloud environments, IDC said. Executives told the research firm multicloud complexity represents the biggest barrier to implementing data security. They also say they must avoid interfering with business performance and processes as they move forward with data security efforts. Again, the channel is in a prime role to assist.
+
+IDC surveyed more than 1,700 executives responsible for, or with influence over, IT and data security throughout the world. Their businesses represent a range of industries, but most fell within the health care, financial services, retail, technology and federal government sectors. The sizes of those entities also varied, with the majority ranging from 500-10,000 employees.","{'label': 'Neutral', 'score': 0.9929283261299133}",neutral,0.9929283261299133,0
+"Appointment of Massimo Claudio Comparini as Deputy CEO, Senior Executive Vice President Observation, Exploration ... - Thales","Wed, 01 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3NfcmVsZWFzZS9hcHBvaW50bWVudC1tYXNzaW1vLWNsYXVkaW8tY29tcGFyaW5pLWRlcHV0eS1jZW8tc2VuaW9yLWV4ZWN1dGl2ZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Appointment of Massimo Claudio Comparini as Deputy CEO, Senior Executive Vice President Observation, Exploration and Navigation at Thales Alenia Space and CEO of Thales Alenia Space Italia Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Rome, April 1, 2020 – Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), announced today the appointment of Massimo Claudio Comparini as Deputy CEO and Senior Executive Vice President Observation, Exploration and Navigation Business Line at Thales Alenia Space as well as CEO of Thales Alenia Space Italia, with immediate effect. He succeeds to Donato Amoroso.
+
+“On behalf of the entire team, I would like to thank Donato Amoroso for his dedication, commitment and accomplishments during the five years spent at Thales Alenia Space as head of the Observation, Exploration, Navigation Business Line and as CEO of Thales Alenia Space Italia, which are strategic assets in the global space ecosystem,” commented Hervé Derrey, CEO of Thales Alenia Space.
+
+Massimo Claudio Comparini, former CEO at eGeos since 2016 and Director Line of Business Geo Information at Telespazio, has a long and proven track record in space industry, from technology to services, and in the earth observation domain. Massimo holds a Master Degree in Electrical Engineering, Remote Sensing and Radar Systems, University of Rome La Sapienza (Italy), and a Degree in Strategy from Graduate School of Business, Stanford University, CA (USA).
+
+He started his career in 1983 at Selenia Spazio (later Alenia Spazio), holding various management positions, up to the role of Chief Technology Officer. In 2013 he was appointed CTO of Telespazio, a joint venture between Leonardo (67%) and Thales (33%).
+
+In 2016 he became the CEO of eGeos, an ASI (20%) and Telespazio (80%) company, an established international leader in the Earth Observation and Geo-Spatial Information, and, in his role, Chairman of GAF and EarthLab Luxembourg.
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 2.15 billion euros in 2019 and has around 7,700 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel: +33 (0)4 92 92 72 82
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 126 85
+
+marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999918937683105}",neutral,0.9999918937683105,0
+"Digital Identity for Banks (federated, self sovereign) - Thales","Sun, 26 Apr 2020 09:52:22 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2JhbmtpbmctcGF5bWVudC9kaWdpdGFsLWlkZW50aXR50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"itsme® - pioneer federated Belgium Mobile identity scheme
+
+An advanced mobile authentication solution from Gemalto is securing Belgium’s fast-growing itsme® Mobile ID scheme, which offers the convenience of a single enrollment, log-in and signature process for numerous different online services. Launched with the backing of four leading banks and three of the country’s biggest telecoms operators, this pioneering initiative aims to a significant part of the Belgian population in the years to come.","{'label': 'Positive', 'score': 0.999295711517334}",positive,0.999295711517334,1
+BepiColombo: an Earthly interlude - Thales,"Fri, 10 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9iZXBpY29sb21iby1lYXJ0aGx5LWludGVybHVkZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"When BepiColombo lifted off on October 20, 2018 from the Guiana Space Center in Kourou, French Guiana, we all knew that it wasn’t going to be a long goodbye.
+
+A year and a half after the launch, BepiColombo is making a last appearance in our skies as part of gravity-assist maneuvers to send it winging towards Mercury. BepiColombo is once again orbiting Earth today, but only for a short time, so wish it bon voyage while you can!
+
+According to calculations by ESA, you may be able to observe BepiColombo as it crosses from East to West at a minimum altitude of 12,677 kilometers.
+
+To help you locate the satellite, the Italian institutes for astrophysics and astrophysics & planetology (INAF/INAP) have set up a special page where you can enter your latitude and longitude to check out your viewing possibilities: visit the page
+
+An interplanetary marathon
+
+BepiColombo will need all the encouragement it can get, because it still has a long way to go – six more years! It will first head towards Venus, then arrive at its destination in Mercury orbit only in early 2026.
+
+A joint mission by the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA), under ESA leadership, BepiColombo will help the scientific community better understand how the Solar System and terrestrial-like planets are formed. Since Mercury is the closest planet to the Sun, its evolution could be an important piece in the puzzle. Mercury is a planet of extremes, and NASA’s Messenger mission has already shown that it is very different from what scientists expected. The data provided by BepiColombo will complement observations by Messenger, helping us answer the many mysteries still surrounding Mercury.
+
+The main challenge of the BepiColombo mission is of course how to deal with very high temperatures: Mercury is only one-third of the Earth’s distance to the Sun, and the solar radiation in Mercury’s orbit is thought to be ten times more intense than near Earth. The spacecraft will have to withstand temperatures exceeding 300°C during its mission, with local excursions on the antenna reflector exceeding 400°C – while its electronics and instruments have to operate at temperatures ranging from 0° to 40°. Engineers therefore developed special high-temp protective devices and equipment, including thermal blankets, radiators, antennas and pointing mechanisms.
+
+Mission background, and Thales Alenia Space’s role
+
+The European mission is led by Airbus Defence & Space as prime contractor, working on behalf of ESA. Thales Alenia Space is part of the industry core team, coordinating 35 different European companies.
+
+Our efforts have focused on ways to protect the spacecraft from this tremendous heat and perform several key functions, as well as ensuring effective communications between all components and with our planet.
+
+Thales Alenia Space was in charge of BepiColombo’s telecommunications, thermal control and electrical distribution system, as well as spacecraft integration and testing, plus support services during the launch campaign. We also supplied X and Ka-band transponders, onboard computers, mass memory and the 1.1 meter high-gain antenna used for communications between spacecraft and ground, along with the scientific payload for the radio mission. This antenna is derived from the model developed for the successful Cassini-Huygens mission to study Saturn and its moon Titan.
+
+Thales Alenia Space also teamed up with the Italian space agency ASI and Sapienza University of Rome to develop two scientific payloads, the Italian Spring Accelerometer (ISA), and the Radio Science Experiment MORE, both used to study the planet as well as conduct further tests on Einstein’s theory of general relativity. The European Space Operations Center (ESOC) in Darmstadt announced that these instruments are in good condition and ready to spring into action.
+
+Pioneering the future of space exploration
+
+Venus, Mars, Mercury, Saturn, the Sun, comets, exoplanets, the dark universe… and tomorrow, back to the Moon! Thales Alenia Space has always been a pivotal partner in international missions to explore the Solar System.
+
+We provided fully half of the pressurized volume on the International Space Station, along with major parts of the ATV and Cygnus resupply vessels. We are now building on our expertise in orbital infrastructures and space transport systems to address the upcoming market for exploration programs, including the reusable Space Rider orbital free-flyer and the Orion spacecraft.
+
+Thales Alenia Space is also at the heart of current and upcoming scientific missions, not just BepiColombo, but also ExoMars 2022, Solar Orbiter, Euclid and NextSTEP-2. Furthermore, we are developing a new line of in-orbit servicing spacecraft, capable of carrying out a wide range of operations in orbit, from satellite inspection and life extension, to robotic manipulation and deorbiting space debris.
+
+Stay tuned for future Space Chronicles!
+
+Artistic views: © ESA - © ESA/ATG medialab - © Thales Alenia Space","{'label': 'Neutral', 'score': 0.9999442100524902}",neutral,0.9999442100524902,0
+Space for Life Chronicles: Celebrating Earth Day - Thales,"Wed, 22 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9zcGFjZS1saWZlLWNocm9uaWNsZXMtY2VsZWJyYXRpbmctZWFydGgtZGF50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Wednesday, April 22, 2020 marks the 50th anniversary of the first #EarthDay. Of course, the Earth itself reaches back a bit earlier – like 4.5 billion years! Here at Thales Alenia Space, we’re keenly aware of the impact of climate warming. For over 40 years, our engineers have been providing scientists, governments, institutions and decision-makers with the extensive expertise and critical data needed for environmental monitoring, oceanography and meteorology. Precisely because we’re so concerned about climate change, this 50th anniversary is a perfect opportunity to take another look at how space technologies can improve our daily lives and protect our planet.
+
+Taking the planet’s pulse
+
+Tropical Cyclone Harold struck the Pacific islands of Vanuatu, Tonga and Fiji from April 6 to 9, with severe winds and flooding causing power outages, widespread destruction of infrastructure and tragic loss of life. In the aftermath, Sentinel-1 satellites, part of Europe’s vast Copernicus monitoring program, are being used to assess the damage.
+
+Radar imagery from Sentinel-1 can also help monitor and map changes in rice cultivation, for instance. Radar sensors are especially useful because they can detect waterlogged ground and penetrate the humid cloud cover typical of Asian rice-growing regions.
+
+According to a new report, Greenland and Antarctica are losing ice six times faster than in the 1990s, a trend that reflects the Intergovernmental Panel on Climate Change’s worst-case climate warming scenario. The study was drafted by an international team of 89 polar scientists who have produced the most complete picture of ice loss to date. They drew on the combined data from 11 satellites — including ESA’s ERS-1 and -2, Envisat and Cryosat missions, as well as the EU’s Sentinel-1 and -2 missions — to monitor changes in the ice sheet’s volume, flow and gravity characteristics.
+
+Keeping an eye on Earth
+
+The Sentinel series of satellites, a key to Europe’s environmental monitoring efforts, is being developed for the European Space Agency (ESA) as part of the European Union’s Copernicus program. There are six families of Sentinel satellites and instruments. Sentinel-1 provides continuity for the radar data gathered by ERS and Envisat. Sentinel-2 and -3 monitor land masses and oceans. The Sentinel-4 and -5 instruments are designed for meteorology and climatology missions, while Sentinel-6 will provide operational continuity for the Jason altimetry missions. Thales Alenia Space is prime contractor for the Sentinel-1 and -3 families, comprising four satellites each. The company is also in charge of the image ground segment for Sentinel-2, contributed to the imaging spectrometer for Sentinel-5P and will provide the Poseidon-4 radar altimeter for the Jason-CS/Sentinel-6 mission.
+
+A worldwide expertise in altimetry
+
+Thales Alenia Space is a world leader in space altimetry, a technique that lets us study sea surface height, sea ice thickness and river and lake levels, as well as land, ice sheet and seabed topography.
+
+Our company has provided a whole host of instruments for oceanography, like the Poseidon altimeters on the Topex-Poseidon and Jason 1, 2 and 3 missions for the French space agency CNES. We also built the AltiKa Ka-band altimeter for the French-Indian SARAL oceanography satellite, and the SIRAL 2 very-high-resolution SAR (synthetic aperture radar) altimeter on ESA’s Cryosat-2 satellite, capable of measuring variations in sea ice thickness and continental ice mass balance with unparalleled accuracy. In addition, we supply the SRAL SAR altimeters for Sentinel-3. Other examples include the MERIS multispectral optical “water color” spectrometer on the Envisat satellite and the OLCI instrument on Sentinel-3, the SWIM altimeter on the CFOSat satellite for CNES, which measures wave spectra, and the SADKO altimeters on Russia’s GEO-IK satellites.
+
+Thales Alenia Space has contributed to some of ESA’s landmark scientific missions: the MERIS medium-resolution spectrometer on Envisat to reveal the secrets and colors of the oceans, GOCE (gravity field and steady-state ocean circulation explorer), which will provide a detailed map of Earth’s gravitational field, and the SMOS satellite for the analysis of soil moisture and ocean salinity. Our teams are also working on the state-of-the-art SWOT oceanography satellite for CNES and NASA.
+
+How does weather affect our lives?
+
+It can be extremely useful to know tomorrow’s weather. But when it comes to forecasting extreme events like typhoons, hurricanes and floods, satellites really come into their own and play a key role in saving lives. The Meteosat Second Generation (MSG) satellites cover Europe, the North Atlantic and Africa, providing updated imagery every 15 minutes, compared to 30 minutes with the first-generation satellites. MSG satellites give meteorologists higher-quality images, thanks to many more observation channels and better radiometric performance, coupled with shorter revisit times. This allows them to detect and monitor rapidly developing events like storms, which directly impact populations and economic sectors such as farming, fishing and transport, especially shipping.
+
+Thales Alenia Space is now developing Meteosat Third Generation (MTG), which will update images every 10 minutes to make weather forecasts more accurate than ever. Some MTG satellites will also carry atmospheric sounders to supplement the imagery acquired. All European geostationary meteorological satellites to date have been built by Thales Alenia Space as prime contractor.
+
+How the International Space Station benefits Earth
+
+Flying 400 kilometers (250 miles) above our heads is the International Space Station, where new solutions for protecting the planet and living in orbit are being tested. Work includes studies on how to purify water and remove gaseous contaminants from air, how to grow plants in a controlled environment and how to stabilize and store non-recyclable waste. These are just some of the efforts that reflect a more enlightened and respectful relationship between humanity and the planet we live on.
+
+Useful tips from astronauts
+
+From Scott Kelly to Samantha Cristoforetti, Luca Parmitano to Thomas Pesquet, here are the top tips on how to survive #stayhome from astronauts used to living in isolation.
+
+The public health measures adopted in the current crisis are new to most of us — but not for veterans of the International Space Station, who’ve spent months or even a whole year in a confined space more than 400 kilometers (250 miles) above the planet. So, we asked them for advice — and they answered the call!
+
+Scott Kelly, who spent a year in “celestial isolation”, reminds us to listen to the experts, especially with the constant stream of news, not to mention the spread of misinformation and fake news. “One thing I’ve learned in my 20 years at NASA is that most problems aren’t rocket science. But when they are, you have to rely on a rocket science expert,” the astronaut tweeted, with a link to a US Centers for Disease Control and Prevention information page.
+
+Samantha Cristoforetti offered ideas for keeping busy by doing science, with a set of online resources made available by the European Space Agency. The ESA astronaut stressed the importance of handwashing by posting a video recorded on the Futura mission, in which she shows how to take care of personal hygiene in weightlessness.
+
+SA astronaut Luca Parmitano compares the inhabitants of Earth to a crew that cares about keeping each other safe: “Before leaving for the International Space Station, all undergo a period of quarantine. We don’t want to bring any viruses or other nasties to the station, because the guys already onboard may have a slightly weakened immune system,” he explained, adding that these same measures are now even more necessary in light of COVID-19.
+
+And while ESA astronaut Thomas Pesquet helps raise morale with a lockdown video filmed at his home, NASA astronaut Anne McClain shares her thoughts on stress management. “Stress happens when reality doesn’t line up with our expectations,” she says. “When we can’t change reality, it’s better to focus on our expectations. Expect to do things differently. Expect the need to adapt. Expect to act outside your comfort zone. Expect to put others first.”
+
+40% of the ISS built by Thales Alenia Space
+
+The International Space Station (ISS) has a special place in the hearts of Thales Alenia Space engineers in Turin, Italy.
+
+We provided half of the pressurized volume of the ISS — that’s 40% of the entire station — along with major parts of the ATV and Cygnus resupply vessels. We’re now building on our expertise in orbital infrastructure and space transport systems to address the upcoming market for exploration programs, including the reusable Space Rider orbital free-flyer and the Orion spacecraft.
+
+Thales Alenia Space is playing a central role on current and upcoming scientific missions, like BepiColombo, ExoMars 2022, Solar Orbiter, Euclid and NextSTEP-2. We’re also developing a new line of in-orbit servicing spacecraft, capable of carrying out a wide range of operations, from satellite inspection and life extension to robotic manipulation and deorbiting of space debris.
+
+From Earth Day to Space for Life
+
+“WE BELIEVE IN SPACE AS HUMANKIND’S NEW HORIZON TO BUILD A BETTER, SUSTAINABLE LIFE ON EARTH”: that is Thales Alenia Space’s aspiration.
+
+In Space, governments, institutions and companies actually rely on Thales Alenia Space to design, operate and deliver satellite-based systems that help them position and connect anyone or anything, everywhere, help observe our planet, help optimize the use of our planet's – and our solar system’s – resources. That is definitely in line with Earth Day event.
+
+Stay tuned for future “Space for Life” Chronicles
+
+Copyrights: © Thales Alenia Space/Briot - © Thales Alenia Space/Master Image Programmes - © ESA - © NASA - © CNES - © Copernicus - video © Thales Alenia Space","{'label': 'Neutral', 'score': 0.99916672706604}",neutral,0.99916672706604,0
+Open Banking APIs - new secure services (PSD2) - Thales,"Sun, 26 Apr 2020 09:57:05 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2JhbmtpbmctcGF5bWVudC9kaWdpdGFsLWJhbmtpbmcvcHNkMi9vcGVuLWJhbmtpbmfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Understand PSD2 compliance and discover PSD2 solutions
+
+Read our white papers​​​ to understand the latest implications of PSD2 for the banking and payment landscape in ​Europe​​​​.​​","{'label': 'Neutral', 'score': 0.9999370574951172}",neutral,0.9999370574951172,0
+Thales Academy Expands Raleigh And Knightdale Campuses To Include Junior High Grades Virtual Information ... - JoCo Report,"Tue, 07 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMilQFodHRwczovL2pvY29yZXBvcnQuY29tL3RoYWxlcy1hY2FkZW15LWV4cGFuZHMtcmFsZWlnaC1hbmQta25pZ2h0ZGFsZS1jYW1wdXNlcy10by1pbmNsdWRlLWp1bmlvci1oaWdoLWdyYWRlcy12aXJ0dWFsLWluZm9ybWF0aW9uLXNlc3Npb24tb24tYXByaWwtOHRoL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Academy, a college preparatory network of Pre-K-12 independent schools based in North Carolina, is expanding two of its Triangle area campuses to offer junior high grades on site in addition to their Pre-K and elementary programs, and a virtual information session for interested families to learn more about the Thales Academy junior high program is being offered via Facebook Live on April 8, 2020. Both Thales Academy Raleigh and Thales Academy Knightdale will offer sixth and seventh grades for the 2020-2021 school year, making them Pre-K-7 campuses, and each will add an eighth grade the following year, offering a complete Pre-K-8 preschool through junior high program at both campuses.
+
+“We are excited to be expanding our campus to allow for continued growth and stability for our families all the way through students’ formative middle school years,” says Heather Brame, Administrator of Thales Academy Raleigh. “The Thales Academy junior high Classical Curriculum is designed to naturally build upon our elementary Direct Instruction foundation and develop older students’ independence and critical thinking skills, and to be able to offer this full progression for our students in a familiar and secure environment provides such value to their continued success as they mature.”
+
+Hilary Herman-Pagliolo, Administrator of Thales Academy Knightdale, agrees: “Our sixth, seventh and eventually eighth grade students enjoy developmentally appropriate older student responsibilities and privileges, such as locker use, an eight period school day with class changes, and iPads for use on classwork and homework. They also benefit from a predictable, secure environment and valuable leadership opportunities afforded by being housed in a cohesive campus with the younger grades. We are thrilled to be growing into a full Pre-K-8 school to provide this positive, expanded educational experience for our students.”
+
+Thales Academy is well known for offering a high-quality education at the lowest possible cost and is strikingly affordable compared to other private school and typical daycare tuitions. Its listed tuition rate includes all materials and technology, and there are never additional fees or fundraising.
+
+Thales Academy’s Raleigh and Knightdale campuses offer a graduated annual tuition rate that ranges from $4,800 for Pre-K to $5,300 for K-5 to $5,500 for junior high. These rates can be further reduced through sibling and early pay discounts, and scholarships are available as well.
+
+“Enrollment is awarded on a first come, first served basis, so we encourage families to apply now,” explains Katherine Tripp, Thales Academy’s Director of Admissions. She adds, “In addition to the benefits of our affordable application fee and tuition rates, we often hear from families how grateful they are to Thales Academy for offering a strong educational option that helps them avoid other common stresses, such as school lotteries or constant redistricting, and they appreciate our predictable year-round calendar throughout all grades.”
+
+Thales Academy’s Raleigh campus opened in 2012 and Thales Academy Knightdale opened in 2016. Both are part of a network of eight campuses in North Carolina, which instruct over 3,000 students, with more campuses opening each year, including Glen Allen, VA and Franklin, TN this summer. Student formation is designed to develop the entire person, which is achieved through a research-based teaching method, best-in-class instructors, and a culture that embodies traditional values. Hallmarks of Thales Academy include: rigorous, college-prep academics that emphasize learning to mastery; character formation; real world skills development; personalized attention and affordable tuition.
+
+A Facebook Live Virtual Information Session about the Thales Academy Junior High and High School programs will be held on Wednesday, April 8, 2020 at noon EDT on the Thales Academy Facebook page: https://www.facebook.com/ThalesAcademy/. For additional information about Thales Academy, including FAQs, admissions information, and virtual tours of the Thales Academy Raleigh and Knightdale campuses, visit ThalesAcademy.org.
+
+About Thales Academy
+
+Thales Academy is a Pre-K-12 college preparatory network of schools that assists parents in cultivating virtuous, critical thinking, compassionate individuals. Thales Academy fosters high standards of accountability, academic achievement, and civic responsibility through the use of a rigorous curriculum, character development, and technical and non-cognitive skills development. Thales Academy seeks to deliver the highest quality education at the lowest cost to parents and the community. Students are well-prepared for success in college and beyond, consistently outranking nationwide peers on objective, standardized tests and mastering skills that last a lifetime. For more information and to apply for admission online, visit www.thalesacademy.org.","{'label': 'Neutral', 'score': 0.9829139113426208}",neutral,0.9829139113426208,0
+CALIPSO observation satellite celebrates anniversary! - Thales,"Tue, 28 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9jYWxpcHNvLW9ic2VydmF0aW9uLXNhdGVsbGl0ZS1jZWxlYnJhdGVzLWFubml2ZXJzYXJ50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"CALIPSO observation satellite celebrates anniversary! Thales Alenia Space Earth Observation Share this article
+
+
+
+LinkedIn
+
+On April 28, 2006, the French-American satellite CALIPSO (Cloud Aerosol Lidar and Infrared Pathfinder Satellite Observations) was launched from Vandenberg Air Force Base in California. Built for the French and American space agencies, CNES and NASA, the satellite provides precision measurements of different layers of the atmosphere, using in particular a light detection and ranging (lidar) instrument called CALIOP, a sort of laser radar.
+
+CALIPSO takes the A-Train
+
+The satellite operates in tandem with NASA’s radar observation satellite, CloudSat. These two satellites are part of A-Train, a constellation comprising six still active satellites which is designed to observe clouds, aerosols and the water cycle. The CALIPSO-CloudSat tandem is tasked with improving our models of climate change.
+
+Head in the clouds… and feet too!
+
+The CALIPSO mission analyzes clouds with a fine tooth comb. Using its suite of advanced instruments, the satellite provides precision data concerning the altitude, location and optical properties of both clouds and aerosols – a treasure lode of information for climatologists and the scientific community in general. CALIPSO has already given rise to thousands of publications, based on billions of measurements using its laser remote sensing instrument.
+
+CALIPSO, hot jazz for a cool customer
+
+When you hear “CALIPSO”, you may think of a hot beat that can’t last long… But this bird has been a cool customer for a long time! Originally given a design life of 3 years, the low Earth orbit (LEO) satellite has now been circling our planet for 14 years! Thales Alenia Space built the Proteus platform and also handled the entire assembly, integration and testing (AIT) process.
+
+PROTEUS, here’s to a long life!
+
+CALIPSO is part of the Proteus-based line of satellites, along with Jason-1, COROT, SMOS and Jason-2, which have all logged service lives well beyond expectations. And Thales Alenia Space is a major contributor to each satellite’s construction. The robust Proteus platform was developed by Thales Alenia Space in conjunction with French space agency CNES. Take a look at the overall track record. The Jason-1 oceanography satellite had a design life of 3 years, but stayed in service for 11.5; its successor Jason-2 operated for 11 years, versus the initial forecast of 3. COROT and SMOS, initially slated for an orbital life of 2.5 and 3 years, respectively, stayed in service for 7 and 10 years. CALIPSO is of course the nosecone on the cake, now at 14 years and counting, with numerous mission extensions. The beat goes on!
+
+This article may be a bit tongue in cheek, but we wanted to express our sincere thanks to everybody from CNES, Thales Alenia Space and our partners, who teamed up to build a satellite that keeps ticking after nearly a decade and a half in orbit.
+
+Visuals © NASA - © CNES - © Thales Alenia Space - Last artistic view is Jason-3 © CNES/David Ducros","{'label': 'Neutral', 'score': 0.9999980926513672}",neutral,0.9999980926513672,0
+Stay cyber-safe while telecommuting - Thales,"Fri, 17 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9qb3VybmFsaXN0L21hZ2F6aW5lL3N0YXktY3liZXItc2FmZS13aGlsZS10ZWxlY29tbXV0aW5n0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Stay cyber-safe while telecommuting Cybersecurity Share this article
+
+
+
+LinkedIn
+
+Cybercriminals are taking advantage of the disruption caused by the Covid-19 outbreak to infiltrate corporate networks through loopholes created by the large-scale introduction of teleworking.
+
+
+
+To minimise the risks of a cyber-crisis, organisations and individuals need to be especially careful to prevent cybercrime at this difficult time.
+
+Here are 8 tips to help stay vigilant when working from home.
+
+1.Secure your home network
+
+Keep your home Wi-Fi access safe. Activate WPA2 (Wi-Fi Protected Access) encryption to shield information sent on the home network, change the password which came with the device and make it a strong one.
+
+2.Hide your work laptop
+
+To minimise the risk of an intrusion, your work laptop should be hidden from other computers on your home network. Make sure the network discovery function is turned off.
+
+3.Stay private
+
+Cover your webcam and deactivate your microphone after teleconferences to prevent spying and malicious listening. Don’t discuss sensitive information over unsecured networks.
+
+4.Click prudently
+
+Avoid downloading apps, unknown software, music or videos from untrusted websites. Use official sources for information on Covid-19.
+
+5.Beware of phishing
+
+Even if an e-mail or text message appears to be from a familiar source, always double-check details such as spelling, grammar and the domain name of the sender’s address.
+
+If in doubt, alert your IT security manager. Don’t forward the email to colleagues and do not open attachments or click on links.
+
+6.Be careful with social media
+
+As social networks can be vulnerable to cyberthreats, avoid using social media on business devices. Ensure antivirus solutions are installed and up to date.
+
+7. Use secured platforms
+
+Switch to secure authentication services* and virtual private networks to send sensitive information.
+
+Use hacker-proof remote collaboration solutions**.
+
+8.Go offline
+
+Disable your Wi-Fi at night to prevent cyberattacks. Switch off both your VPN and your computer at the end of the day to enable system updates.
+
+*: Such as Safenet
+
+**: Thales’s Citadel chat app and the Cryptobox sharing platform are used by French government agencies
+
+Learn more","{'label': 'Neutral', 'score': 0.9999076128005981}",neutral,0.9999076128005981,0
+Thales Alenia Space to Develop In Spain The TDRS Transmitter For VEGA Launchers - SpaceWatch.Global,"Mon, 27 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vc3BhY2V3YXRjaC5nbG9iYWwvMjAyMC8wNC90aGFsZXMtYWxlbmlhLXNwYWNlLXRvLWRldmVsb3AtaW4tc3BhaW4tdGhlLXRkcnMtdHJhbnNtaXR0ZXItZm9yLXZlZ2EtbGF1bmNoZXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), announced on 27 April 2020 the signing of a contract with AVIO S.p.A., industrial prime contractor of the VEGA launch vehicle, in the frame of LEAP program of the European Space Agency (ESA), concerning the initial phases of design, development and qualification of a TDRS (Tracking and Data Relay Satellite) transmitter, targeting an improvement of VEGA telemetry system both in terms of cost and performance.
+
+The present telemetry system of VEGA relies on the download of the telemetry data streaming directly to the telemetry ground stations, requiring the use of costly mobile ground stations. Sometimes the ground stations are not even sufficient to cover the launch trajectory.
+
+Improved connections
+
+The new VEGA TDRS system is based on the transmission of the telemetry data streaming to TDRS geosynchronous satellites constellation, which then relay the signal to the TDRSS2 ground stations. This system will significantly improve the contact between the ground and the launcher by allowing continuous transmission of the telemetry data streaming all along the launcher trajectory thanks to the TDRSS coverage. The VEGA TDRS system will be compatible with the current launcher version and easily adapted to its evolutions, as the VEGA-C launcher version.
+
+The TDRS transmitter development draws on Thales Alenia Space in Spain comprehensive expertise in the development of telemetry and command systems for all type of space missions in LEO, GEO, the Moon and Langrange L2 orbits. In particular, the company has developed TDRSS-compatible transmitters and receivers for numerous missions in low Earth orbit, including visiting spacecraft to the International Space Station such as Europe’s ATV, Japan’s HTV and USA’s Cygnus. Thales Alenia Space has also valuable experience in the launchers segment and is currently developing in its facilities in Madrid (Spain) the telemetry transmitter for the Ariane 6 launch vehicle.
+
+Thales Alenia Space has contributed to the European launchers industry for more than 50 years. In just a few years, the company has become the key supplier of numerous electronic equipment developed in Belgium for the entire family of Ariane (Ariane 1 to Ariane 6), Vega and Soyuz launchers. Since 2017, Thales Alenia Space in Spain has also been completing the range of Thales Alenia Space-built products dedicated to the European launchers.","{'label': 'Neutral', 'score': 0.9986818432807922}",neutral,0.9986818432807922,0
+PSD2 procedures: Security and compliance with Thales - Thales,"Tue, 28 Apr 2020 12:23:10 GMT",https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vbWFya2V0cy9kaWdpdGFsLWlkZW50aXR5LWFuZC1zZWN1cml0eS9iYW5raW5nLXBheW1lbnQvZGlnaXRhbC1iYW5raW5nL3BzZDIvc3Ryb25nLWN1c3RvbWVyLWF1dGhlbnRpY2F0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Understand PSD2 compliance and discover PSD2 solutions
+
+Read our white papers​​​ to understand the latest implications of PSD2 for the banking and payment landscape in ​Europe​​​​.​​","{'label': 'Neutral', 'score': 0.9999370574951172}",neutral,0.9999370574951172,0
+Questions hang over CBTC testing following resignations from NYCT - International Railway Journal,"Thu, 16 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9pbl9kZXB0aC9xdWVzdGlvbnMtY2J0Yy10ZXN0aW5nLXJlc2lnbmF0aW9ucy1ueWN0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"ONE of the final duties that former New York City Transit (NYCT) vice-president, network and resignalling, Mr Pete Tomlin, discharged before he left the agency was to demonstrate an innovative piece of new technology: Ultra-Wide Band (UWB), a wireless technology that offers faster and less-expensive installation of modern communications-based train control (CBTC) by eliminating much of the onboard and wayside equipment traditionally required for advanced-technology signalling.
+
+On January 23, only hours after the resignation of NYCT president, Mr Andy Byford, Tomlin collaborated with suppliers Thales and Piper Networks in an impressive public demonstration of UWB. Later that day, the man who has worked closely with fellow Briton Byford to modernise the Toronto Transit Commission, London Underground and NYCT metros, submitted his own resignation. How quickly NYCT’s parent organisation Metropolitan Transportation Authority (MTA) recovers from the double-loss of Tomlin and Byford (affectionately dubbed the “Train Daddy”) remains to be seen.
+
+NYCT’s UWB proof-of-concept was the culmination of a pilot programme on the Flushing (7) Line that came together in only nine months, thanks to Tomlin’s expertise and that of Thales, Piper Networks and Mr Mark Dowd, MTA’s chief innovation officer. UWB traces its roots to the MTA’s Genius Transit Challenge project, launched in 2017, which challenged leading companies from around the world to improve metro signalling, capacity and communications for the future.
+
+In March 2019, NYCT awarded two contracts: one to Thales and Piper for a UWB-based train control system pilot project on the Flushing Line; and the other to Siemens and Humatics for a UWB pilot on the Canarsie (L) Line. The pilot’s scope involved preparing UWB for safety certification. It consisted of nine months of testing and collecting 2500 hours of operational data. An automated data upload facility at NYCT’s Corona Yard enabled cloud-based processing of all collected sensor data from the line that can be compared with data from the CBTC system and a LiDAR-based “ground truth” digital map.
+
+“All of these features will contribute to faster system deployment and more reliable service with fewer delays for passengers,” NYCT
+
+Four trains on the Flushing Line, one of two lines on New York Subway equipped with CBTC, were fitted with Thales’ CBTC system that integrates Piper’s UWB technology, while four Canarsie Line trains were equipped with Siemens CBTC integrating Humatics UWB technology.
+
+The Flushing Line demonstration took place on the centre express track between 61 Street-Woodside and 40th Street stations. “It showed the potential of an even more precise positioning system, UWB, to improve system performance and recovery,” NYCT noted. “The pilot proved it could also help accelerate the implementation of CBTC.”
+
+Pete Tomlin led the testing of Ultra-Wide Band wireless technology as a faster method of introducing CBTC, but resgined hours after Andy Byford.
+
+UWB technology is installed on the wayside rather than directly on the track-bed, making it considerably easier for NYCT personnel to maintain in the long term and reduce delays stemming from malfunctioning track-borne equipment.
+
+The key advantages and features of UWB are:
+
+rapid implementation, achieved through a reduction of onboard equipment by eliminating installation under the vehicle, allowing NYCT to modernise ageing infrastructure more quickly
+
+improved train positioning accuracy, called Next-Generation Positioning (NGP), by using modern onboard sensors including UWB radios - the UWB test runs are used to evaluate the accuracy and fault tolerance of the NGP system and each end of the test train is equipped with a Thales vehicle onboard computer, part of the CBTC system, integrated with the NGP sensors
+
+accelerated start-up position initialisation - the NGP system is described as highly tolerant of equipment or sensor failures without impacting overall function; on power up and initialisation, the NGP system tells the onboard controller precisely where it is located, enabling a train to initialise and engage ATO faster than current-generation CBTC systems, and
+
+high accuracy and availability: NGP provides greater position accuracy and can support much greater separation between wayside landmarks which means that future CBTC systems based on this technology will support more precise station stopping accuracy and will be able to travel a greater distance between wayside landmarks. If inputs from sensors or UWB controllers at one end of the train fail, the system can seamlessly switch over to inputs from the other end of the train.
+
+Components
+
+Five high-tech components/sensors are integrated in Thales’ NGP systems:
+
+UWB, a type of radio communication that uses a very low amount of energy with short-range, high-bandwidth waves using a wide range of the radio spectrum: NYCT’s Flushing Line system uses Piper onboard UWB radios and controllers and Piper UWB wayside anchors, while the NGP system uses UWB to receive location updates every 100 milliseconds
+
+Inertial Measurement Units (IMUs) that detect changes in speed and direction with an extraordinary level of accuracy - the NGP system uses the IMU for inertial navigation and orientation verification
+
+Radar (radio detection and ranging) uses radio waves to measure the distance and speed of objects and is used by the NGP system for speed measurement and zero speed/stationary status
+
+LiDAR, which uses pulsed laser light to measure distance with high precision to any targets within range to create a dense 3D map of its surroundings; LiDAR was used to scan the route and create a “ground truth” digital map that positioning system data can be compared with, and
+
+a high-definition camera, which uses advanced image processing techniques to detect objects such as rails, wayside equipment or trackside workers, although these functions are still in the preliminary testing phase.
+
+“All of these features will contribute to faster system deployment and more reliable service with fewer delays for passengers,” NYCT notes.
+
+“We took an exciting step in safety certifying Piper’s Ultra-Wideband technology for MTA.” Mr Robert Hanczor, CEO of Piper Networks
+
+“Thanks to this partnership with NYCT, we’re delivering cutting-edge technology as we test the next generation of train positioning,” says Mr Dominique Gaiardo, Thales vice-president and managing director for urban rail signalling. “Thales has integrated modern onboard sensors with a UWB network to create an enhanced next-generation positioning system for our CBTC digital signalling architecture. The new system has higher accuracy, resilience and availability, and is quicker to deploy than current-generation products.”
+
+“We took an exciting step in safety certifying Piper’s Ultra-Wideband technology for MTA, and we’re looking forward to rolling out this technology across other subway lines as part of the Fast Forward programme,” says Mr Robert Hanczor, CEO of Piper Networks.
+
+NYCT says it will take the lessons learned from CBTC implementation on the Flushing Line and incorporate industry best practices to improve and expedite future implementation on other subway line corridors, including better costing estimates, formalised personnel structure and responsibilities, enhanced project and contractor monitoring, more frequent surveys and enhanced attention on subway car interfacing. NYCT says it has created a new database to capture cross-discipline feedback and information from CBTC projects to better-track such valuable information to help improve future CBTC processes.
+
+All this may be a tall order for NYCT following the loss of Tomlin and Byford. High-tech projects such as UWB require innovative suppliers like Thales, Piper, Siemens and Humatics, skilled engineering consultants like Parsons Transportation Group and others, and NYCT’s equally skilled and dedicated workers. But they also require strong, focused leadership at the agency level, and one or more “champions” who can get the job done and provide motivation and guidance. That’s what NYCT had in Tomlin and Byford. Whether the agency can pick up the pieces and regroup remains to be seen.","{'label': 'Neutral', 'score': 0.9998636245727539}",neutral,0.9998636245727539,0
+Lithuanian Navy Looking to Procure 3rd ex-Royal Navy Hunt-class MCM Vessel - Naval News,"Wed, 29 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIwLzA0L2xpdGh1YW5pYW4tbmF2eS1sb29raW5nLXRvLXByb2N1cmUtM3JkLWV4LXJveWFsLW5hdnktaHVudC1jbGFzcy1tY20tdmVzc2VsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Lithuanian Navy Looking to Procure 3rd ex-Royal Navy Hunt-class MCM Vessel The Lithuanian Navy (Lietuvos Karinės jūrų pajėgos) is looking to expand its fleet of Skalvis-class Mine Counter Measures (MCM) vessels (ex-Royal Navy’s Hunt-class) with the procurement of a third hull to be overhauled and upgraded.
+
+A prior information notice was published today by the UK MoD, Defence Equipment and Support, Defence Equipment Sales Authority (DESA) on behalf of Lithuanian Ministry of National Defence. It is an invitation to tender for hull regeneration of ex Royal Navy’s Hunt-class MCM Vessel. The prior information notice reads:
+
+“The Lithuanian Navy is looking to expand its fleet of Hunt Class Mine Counter Measures Vessel (MCMV) via procurement of a legacy hull from the Royal Navy and regeneration of said hull to an agreed operational state, closely aligned to the Lithuanian Skalvis Class vessels currently in service with the Lithuanian Navy. The Vessel will utilise the Sonar 2193 and the M-CUBE Mine Countermeasure Management System. The scope of this project is for a single entity to deliver the regenerated vessel, with stated mission and sonar systems to an agreed operational condition. Prior to award of the contract, ownership of the vessel will pass to LTU. DESA is the contracting authority that will procure and enter into the contract. Immediately upon signature, the contract shall be novated to the Lithuanian Ministry of National Defence (LTU Defence Materiel Agency). From this point, LTU MND will become the contracting authority.”
+
+The Lithuanian Navy acquired 2 Hunt-class MCM Vessels from the United Kingdom in 2008: M53 Skalvis (Ex-HMS Cottesmore) and M54 Kuršis (Ex-HMS Dulverton). Both were commissioned in 2013.
+
+The Royal Navy decommissioned two Hunt-class vessels in December 2017: HMS Atherstone and HMS Quorn. These two vessels are the most likely candidates for the Lithuanian Navy requirement.
+
+Update: The UK MoD’s DE&S announced via a press release published on 30 April 2020 that the former HMS Quorn will be transferred to Lithuania.
+
+About Hunt-class Mine Counter Measures Vessel
+
+Hunt-class mine counter measure vessel Quorn (M41) (now decommissioned). Thales picture.
+
+The Hunt-class MCMV is a 725 tons vessel specialized in active mine hunting built by Vosper Thornycroft and Yarrow Shipbuilders Limited for the Royal Navy from 1979. Of the 13 vessels built, 10 remain in service today. The Greek and Lithuanian navy each have two vessels in their fleet.
+
+The vessels were originally equipped with two ECA Group PAP 104 mk3 remotely controlled mine disposal vehicles for the identification and disposal of mines and Seafox C expendable mine-disposal vehicle. In Lithuanian Navy service however, these ships are now likely fitted with the more modern K-STER by ECA Group. The Hunt-class is fitted with an Easytrack subsea acoustic tracking system which is integrated as part of the Seafox mine disposal system.
+
+The Hunt-class surface warning and navigation radar is the Kelvin Hughes Type 1007 naval radar operating at I-band and is equipped with the Thales Sonar 2193 hull-mounted wide band sonar.
+
+The mine counter measure vessel is manned by a crew of 47 sailors. The weapons suite consists in a single 30mm DS30M Mark 2 gun, 2 miniguns and 3 general purpose machine guns.
+
+Thanks to its weapons and sensor systems, the Hunt-class can combine both mine warfare and maritime patrol missions.
+
+Hunt class specifications:
+
+LOA (Length Over All): 60m
+
+Beam Max.: 9.8m
+
+Displacement: 750 T
+
+Max Speed: 17 knots
+
+Range @17 knots : 1500 miles
+
+About M-CUBE Mine Countermeasure Management System
+
+M-Cube Mine Countermeasure Managment System. Thales Picture
+
+The M-Cube is a MCM management system designed by Thales. It comes with modern MCM Command & Control capabilities with dedicated algorithms: MCM doctrine and tactics implementation along with performance prediction and evaluation improvements (multi-path, real time, and incremental).
+
+According to Thales M-cube is for any type of Mine Warfare operation ; Mine-hunting, mine-sweeping, survey, lead through, reconnaissance, precursor… M-Cube provides enhanced mission efficiency with optimized assets combinations: sonars, sweeping gears, mine neutralisation vehicles, Unmanned Surface Vehicles (USV) and Autonomous Underwater Vehicles (AUV), navigation sensors, ship control. It has also an ability of Air/Surface surveillance & self defense capability ; of radar interface (ARPA), CPA/TCPA calculations, anti-collision, self defence warnings, and weapons interface.
+
+M-Cube has been selected by the navies of India, Lithuania and Singapore.","{'label': 'Neutral', 'score': 0.9999943971633911}",neutral,0.9999943971633911,0
+French Navy Receives Third Upgraded ATL2 Maritime Patrol Aircraft - Naval News,"Fri, 24 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIwLzA0L2ZyZW5jaC1uYXZ5LXJlY2VpdmVkLTNyZC11cGdyYWRlZC1hdGwyLW1hcml0aW1lLXBhdHJvbC1haXJjcmFmdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"French Navy Receives Third Upgraded ATL2 Maritime Patrol Aircraft The third Atlantique 2 (ATL2) maritime patrol aircraft (MPA) upgraded by Dassault Aviation, Thales and Naval Group was delivered by DGA to the French Navy (Marine Nationale) at the Lann-Bihoué naval air base.
+
+The first two ATL2 aircraft upgraded to “standard 6” were delivered in October last year. The contract for the standard 6 upgrade was awarded by the french armament general directorate (DGA) on October 4, 2013. It covers a fleet of 18 aircraft. Dassault Aviation will deliver a further four upgraded ATL2s until 2023. In parallel, the SIAé aeronautical maintenance center will upgrade 11 aircraft.
+
+La DGA vient de livrer le 3ème #avion de patrouille maritime #ATL2 rénové par Dassault Aviation et Thales. Il a rejoint la base d’aéronautique navale de Lann Bihoué de la @MarineNationale pic.twitter.com/imfDQpPj2e — Direction générale de l'armement (@DGA) April 24, 2020 The third upgraded ATL2 MPA
+
+About ATL2 Standard 6 MPA
+
+DGA picture.
+
+The “Standard 6” upgrade work includes:
+
+A new radar: The Thales Search Master with active antenna,
+
+A new acoustic subsystem by Thales: It gathers and processes signals from the latest-generation of sonobuoys for submarine detection,
+
+A new navigation console designed by Dassault Aviation,
+
+New consoles for the tactical display subsystem, developed by SIAé
+
+The upgrade work is performed by Dassault Aviation and Thales (co-contractors), in association with Naval Group and in cooperation with SIAé. Architect of the combat system, Dassault Aviation is as well responsible for development of the core system including LOTI[1] software designed by Naval Group. Dassault Aviation is also in charge of overall integration of all subsystems.
+
+All the specifications for this program were established using the PLM Systèmes tool as part of a Dassault Aviation-Thales-Naval Group-SIAé collaborative work platform installed at St-Cloud in the Dassault Aviation design office.
+
+The new consoles. DGA picture.
+
+The standard 6 upgrade will improve the ATL2s’ capability to support the Strategic Oceanic Force, to deal with modern threats (future nuclear or conventional submarines, naval forces at sea, etc.) and to support air-land missions, until 2030.
+
+France is one of the very few countries producing high-technology maritime patrol aircraft combining detection (optronics, radar, acoustics) with a variety of weapons (anti-ship missiles, torpedoes, laser-guided weapons).","{'label': 'Neutral', 'score': 0.9994626641273499}",neutral,0.9994626641273499,0
+Thales Australia and LB Wire Ropes working together on Mine Countermeasures Systems - Thales,"Mon, 06 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXMtYXVzdHJhbGlhLWFuZC1sYi13aXJlLXJvcGVzLXdvcmtpbmctdG9nZXRoZXItbWluZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia and LB Wire Ropes working together on Mine Countermeasures Systems Australian Suppliers Underwater Systems in Australia Share this article
+
+
+
+LinkedIn
+
+LB Wire Ropes is a family run business based in Girraween, in the western suburbs of Sydney. Recently, Thales Australia signed a $1.8m contract with LB Wire Ropes to supply chains and rigging for important export contracts.
+
+LB Wire Ropes was formed after two WWII servicemen, Frank Hansen and Jack Smith, spotted an opportunity to build their own business when James Le Blanc, who designed and patented the Le Blanc wire rope splice, offered to sell his rigging supply business. Frank and Jack took over the business in 1962, naming it Le Blanc Wire Ropes, with the main offerings of the business being the wire rope slings with the Le Blanc wire rope splice.
+
+Although LB Wire Ropes started with hand splicing wire ropes in the 60’s, the last 40 years have seen them diversify into a wide range of products including high performance wire rope, fibre rope, chain and synthetic slings; offering lifting, lashing and safety solutions to the construction, mining and defence industries.
+
+While their offerings have diversified, their values have remained the same. Current General Manager of LB Wire Ropes Marc Hansen, Grandson of Frank Hansen, credits this and the family run nature of the business, as one of the keys to its success.
+
+“The values we have now are the same ones my Grandfather and Father were guided by when they were heading up the company. These values have remained through the generations and I feel this has made a real difference to our business.”
+
+The partnership with Thales is a significant milestone for LB Wire Ropes and enables them to not only provide a critical capability to the Navy, but also to reinvest in its workforce.
+
+“There are some core rigging skills that we put to use when manufacturing these items, including hand splicing rigging which is an old skill being used less and less. The demand for this kind of work enables us to maintain the skill set in our business and to pass it on to our staff,” Marc said.
+
+Thales has a strong record of supporting high-tech Australian businesses and the contract with LB Wire Ropes is testament to that. Troy Stephen, Director Underwater Systems, said Thales values the innovation that SMEs can bring to our business and the partnership with LB Wire Ropes is no exception.
+
+“We are delighted to have LB Wire Ropes as a partner on this important project. Their focus on quality products and customer service is perfectly aligned with Thales’s values.”
+
+To read more about LB Wire Ropes, please head to their website here. For more information on the Thales Australia supply chain, please click here.","{'label': 'Neutral', 'score': 0.9138065576553345}",neutral,0.9138065576553345,0
+Thales develops Bushmaster medevac vehicles for the Netherlands - Asia Pacific Defence Reporter,"Mon, 27 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL3RoYWxlcy10by1kZXZlbG9wLW5ldy1idXNobWFzdGVyLW1lZGV2YWMtdmVoaWNsZXMtZm9yLXRoZS1uZXRoZXJsYW5kcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales to develop new Bushmaster medevac vehicles for the Netherlands
+
+Thales Australia has secured a new contract to develop and deliver six more Bushmaster medevac vehicles to the Netherlands, continuing the wheeled armoured vehicle’s export successes.
+
+The contract will see a new bespoke medical evacuation (medevac) variant develped for the Dutch, potentially bringing the western European country’s fleet to more than 100 Bushmasters after an initial purchase of 25 vehicles as an urgent operational requirement in 2006.
+
+This was followed by additional vehicles being acquired between 2007 and 2016, including an order for 12 vehicles in 2015.
+
+Thales says more than 60 Australian businesses will be involved in the design and development process for the new variant, securing jobs and investment along the extensive Bushmaster supply chain.
+
+This includes long term Australian suppliers including Wollongong based Bisalloy Steels, AME Systems, Melbourne based DVR Engineering and KAB Seating in Dandenong.
+
+They will be joined by a number of additional Australian SMEs and Dutch company Visser Horti Systems. The latter specialises in the design of clinical white space capabilities for the Royal Netherlands Army. The vehicles are scheduled for delivery in 2021.
+
+The Bushmaster been in service within the Royal Netherlands Army for over 10 years, which has used the on operational service in Afghanistan.
+
+To date, 171 Bushmasters have been exported to seven countries, including: the Netherlands, Fiji, Japan, Jamaica, Indonesia, New Zealand and the United Kingdom.
+
+To read the latest issue of Asia-Pacific Defence Reporter, click here","{'label': 'Neutral', 'score': 0.9999392032623291}",neutral,0.9999392032623291,0
+Thales to export six more Bushmasters to the Netherlands - Australian Defence Magazine,"Mon, 27 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9kZWZlbmNlL2xhbmQvdGhhbGVzLXRvLWV4cG9ydC1zaXgtbW9yZS1idXNobWFzdGVycy10by10aGUtbmV0aGVybGFuZHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Updated 28 April 2020, 0910
+
+Thales has signed a contract to export an additional six Bushmasters to the Netherlands.
+
+The $14 million contract will involve more than 60 Australian businesses to design and deliver a new, bespoke Dutch medevac vehicle variant.
+
+Long term Australian suppliers including Wollongong based Bisalloy Steels, AME Systems, Melbourne based DVR Engineering and KAB Seating in Dandenong will be joined by a 'substantial number' of additional Australian SMEs and Dutch company Visser Horti Systems, who specialise in the design of clinical white space capabilities for the RNLA.
+
+The vehicles are scheduled for delivery in 2021. Five vehicles will be the new medevac variant and one will be an infantry mobility vehicle.
+
+The Royal Netherlands Army now operates a fleet of almost 100 Bushmasters after an initial purchase of 25 vehicles as an urgent operational requirement in 2006. Additional vehicles were acquired between 2007 and 2016.
+
+The vehicles have been in service within the Royal Netherlands Army for over 10 years, with a reportedly 'outstanding' operational record.
+
+To date, 171 Bushmasters have been exported to seven countries: the Netherlands, Fiji, Japan, Jamaica, Indonesia, NZ and the UK.
+
+
+
+“This recent order is a tribute to the skills and expertise not only in Thales’s Protected Vehicle Centre of Excellence in Bendigo, but in the Australian industry that are our critical partners in manufacturing this world class vehicle,"" Chris Jenkins, CEO, Thales Australia, said.","{'label': 'Neutral', 'score': 0.9999645948410034}",neutral,0.9999645948410034,0
+Leonardo to Supply New 127mm Main Guns for Netherlands Navy's LCF Frigates - Naval News,"Tue, 21 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIwLzA0L2xlb25hcmRvLXRvLXN1cHBseS1uZXctMTI3bW0tbWFpbi1ndW5zLWZvci1uZXRoZXJsYW5kcy1uYXZ5cy1sY2YtZnJpZ2F0ZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Leonardo to Supply New 127mm Main Guns for Netherlands Navy’s LCF Frigates The Dutch Defence Material Organisation (DMO) announced that it has selected Italian company Leonardo to supply new 127mm naval gun systems for the Royal Netherlands Navy's four De Zeven Provinciën-class LCF frigates.
+
+This class of ships is also known as LCF (Luchtverdedigings- en commandofregat, air defense and command frigate).
+
+The head of the DMO, Admiral Arie Jan de Waard, announced in a tweet yesterday that the four gun systems would be delivered in the 2025-2026 time-frame and that local company Thales Netherlands will be in charge of their integration with the combat management system (CMS) of the frigates:
+
+@Defensie_DMO sluit overeenkomst met @Leonardo_live voor aanschaf vier 127mm kanons voor Luchtverdedigings- & Commandofregatten (LCF) @kon_marine. @thalesnederland integreert kanon in Combat Management Systeem (CMS) van het fregat. In 2025/2026 plaatsing kanons aan boord LCF’n. pic.twitter.com/WLCqQROYb8 — Arie Jan de Waard (@ariejandewaard) April 20, 2020
+
+Another DMO representative explained that the Leonardo guns will come with an automated handling system and said that they will be be future proof because they can deploy smart ammunition:
+
+Vorige week is het contract getekend met Leonardo ?? voor het nieuwe kanon voor de LC-fregatten van de #marine! VoorzIen van automated ammunition handling system en futureproof, want in staat smart ammo te vuren. Integratie a/b door @thalesnederland, @Nevesbubv en DMI #marine. pic.twitter.com/r5zymVoqHK — Inkoper DMO (@Inkoop_DMO) April 20, 2020
+
+Naval News understands that Leonardo was competing against BAE Systems’ Mark 45 mod 4, 5 inch (127mm) naval gun system for this Dutch contract. On March 20, 2019, a contract notice for the supply of 127mm guns was issued on the European tender platform TED. The programme named “Frigates 127 mm gun replacement program” had an estimated value between 50 and 200 million Euros.
+
+Contacted by Naval News, a Thales Netherlands spokesperson said he could not comment yet on the company’s role. Leonardo told Naval News they would get back to us shortly with more details. We will update this article accordingly. No one at the DMO was available to take our call or return our emails by the time we published this article.
+
+About Leonardo’s 127mm 127/64 LW – Vulcano
+
+According to Leonardo (formerly Oto Melara), the 127/64 LW – VULCANO is a state of art medium caliber gun suitable for installation on large and medium size ships and intended for surface fire and naval gunfire support as main role and anti-aircraft fire as secondary role. The compactness of the gun feeding system makes possible the installation on narrow section crafts.
+
+The Automatic Ammunition Handling System is a modular solution adaptable to any ship ammunition magazine layout; it is able to load the feeding magazine of the gun without man assistance during operation to allow a sustained firing action of the gun. The system is able to handle both standard 127mm /5-inches ammunition and new VULCANO family of ammunition
+
+The 127mm VULCANO ammunition family, is composed by Ballistic Extended Range (BER) and Guided Long Range (GLR) ammunition with different multifunctional fuses, sensor and final guidance that extend the range of the gun up to 100km.
+
+The Royal Netherlands Navy will become the fourth or fifth customer of the 127/64 LW after the Italian Navy (aboard the FREMM GP frigates and PPA), the German Navy (aboard the F125) and the Algerian Navy (aboard the Meko A-200AN). The Spanish Navy is rumored to have selected the gun for its future F-110 frigate program this has yet to be confirmed officially. Aboard the De Zeven Provinciën-class, the new guns will replace the ageing Otobreda 127mm/54 Compact which the Dutch navy procured used from the Royal Canadian Navy several years ago.
+
+About De Zeven Provinciën-class / LCF Frigates
+
+HNLMS De Ruyter frigate (Credit: Dutch Defense Ministry)
+
+The Royal Netherlands Navy has 4 air defense and command frigates (LCF) of the De Zeven Provinciën-class. The ships can protect a complete fleet from enemy threats from the sea and from the air (aircraft and missiles). Specialized in anti-aircraft warfare (AAW) vessel, LCF vessels are fitted with 40 Mk 41 Vertical Launch Systems which are used to house and launch Evolved Sea Sparrow (ESSM) and SM-2 Block IIIA missiles.
+
+In addition, the ships are equipped to allow the deployable and operational command staff of the Royal Netherlands Navy, the Netherlands Maritime Force (NLMARFOR), to control large-scale (maritime) operations.
+
+The De Zeven Provinciën-class consists of:
+
+Zr.Ms. De Zeven Provinciën (F802, commissioned 2002)
+
+Zr.Ms. Tromp (F803, commissioned 2003)
+
+Zr.Ms. De Ruyter (F804, commissioned 2004)
+
+Zr.Ms. Evertsen (F805, commissioned 2005)
+
+LCF upgrade program
+
+Thales SMART-L MM Radar Installed on HNLMS De Zeven Provinciën Frigate. Thales picture
+
+The first-in-class ship received her SMART-L Multi Mission radar upgrade from Thales in March 2019. All four ships of the class will be upgraded with the new radar (and other systems) as part of a modernization programme. This new radar is capable of BMD mission (surveillance and tracking of ballistic missiles) up to 2000 km while simultaneous maintaining the air defence capability.
+
+The LCF mordernization effort includes other systems: Plans were announced in 2018 to acquire the BMD-capable SM-3 surface-to-air missiles (these plans still need to be confirmed). De Zeven Provinciën-class frigates can pass on the tracking and detection data to other sea-based or land-defense BMD assets, including U.S. Navy’s warships, that can deal with a ballistic missile threat.
+
+On 3 May 2018 the Dutch Secretary of Defence, Barbara Visser, informed the Dutch national parliament that the Raytheon evolved sea sparrow missile (ESSM) aboard the De Zeven Provinciën-class frigates will be upgraded from block 1 to block 2. This upgrade will be completed by 2024 along with a new anti-ship missile (to replace the existing Harpoon). Lastly, the Thales Goalkeepers CIWS will be upgraded to a new version. They will eventually be replaced after 2025 by a new system.
+
+LCF Specifications
+
+displacement: 6,050 tons
+
+length: 144 meters
+
+width: 17 meters
+
+draft: 7 meters
+
+speed: 30 knots
+
+propulsion:
+
+2 Wärtsilä 16 V26 diesel engines (13,600 hp total)
+
+2 Rolls Royce Spey SM 1A gas turbines (52,300 hp total)
+
+crew: 174 (202 including staff)
+
+radar: SMART-L MM
+
+armament:
+
+Oto Breda cannon 127mm naval gun
+
+Mark 41 vertical launch system for RIM-162 ESSM and SM-2 Block IIIA
+
+Harpoon anti-ship missile (AGM-84)
+
+Goalkeeper rapid-fire gun
+
+Mark 46 torpedoes
+
+hangar for NH90 maritime attack helicopter
+
+","{'label': 'Neutral', 'score': 0.9999899864196777}",neutral,0.9999899864196777,0
+Using Vodafone 5G network Thales starts trial of the driverless train - Metro Rail News,"Mon, 06 Apr 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm1ldHJvcmFpbG5ld3MuaW4vdXNpbmctdm9kYWZvbmUtNWctbmV0d29yay10aGFsZXMtc3RhcnRzLXRyaWFsLW9mLXRoZS1kcml2ZXJsZXNzLXRyYWluL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Vodafone has installed its 1st 5G base stations in Germany.In Erzgebirge, Thales Transportation has started the trial of a driverless train by remote control at the Smart Rail Connectivity Campus, Germany. For that, Thales is using their Lucy laboratory train that is held through Vodafone 5G network.
+
+GERMANY (Metro Rail News): In Erzgebirge, Thales Transportation has started the trial of a driverless train by remote control at the Smart Rail Connectivity Campus, Germany. For that, Thales is using their Lucy laboratory train that is held through Vodafone 5G network. Vodafone has installed its 1st 5G base stations in Germany.
+
+By using the Vodafone 5G network, the train running is successfully managed by the remote that helps various virtual networks share a physical network building. Somehow, the Vodafone technology gives a separate 5G network for railway trials.
+
+Vodafone network is tested that even if various users in the direct vicinity also surf the equivalent internet network the remote-controlled mobile radio capacities are constantly available to control the train by using the remote.
+
+By the help of Mobile Edge Cloud (MEC), the data is processed direct on-site in a small data centre in the direct vicinity of the mobile base station. The data can be processed without pause as this does not have to travel long distances.
+
+The Vodafone 5G technology allows bandwidths more prominent than 500 Mbps on the test track and decreases the latency to less than ten milliseconds. Thales has given the control and security systems for the 5G project along with the installation of the test environment and sensors, with a remote control system for the train in co-operation with the German Aerospace Centre and Railergy.
+
+MD of Vodafone Germany Alexander Saul stated that We are putting 5G 1st time on the tracks. With our industrial partners, we are testing that new applications would be possible with 5G.
+
+MD of Transportation Division Thales Germany, Yves Joannic stated that 5G opens up an entire world of new opportunities. Up to and with 4G, consumers were the 1st to profit from each wireless technologies of the new generation. With contrast, 5G’s main interest lies in B2B markets.
+
+The Federal Ministry of Education & Research’s Change By Innovation program and more than a hundred partners of the railway industry is supported this project.","{'label': 'Neutral', 'score': 0.9999864101409912}",neutral,0.9999864101409912,0

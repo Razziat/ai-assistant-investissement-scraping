@@ -1,0 +1,46 @@
+2024-04-17 15:31:55,885: asyncio: INFO: [ETFTrader] Executing the initialize lifecycle method
+2024-04-17 15:31:58,815: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 15:31:58,815: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 15:31:58,815: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 15:31:58,815: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 15:31:58,815: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:31:58[0m
+2024-04-17 15:31:58,830: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:31:59,990: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:32:05,132: asyncio: ERROR: [ETFTrader] 'Series' object has no attribute 'ta'
+2024-04-17 15:32:05,211: asyncio: ERROR: [ETFTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 79, in on_trading_iteration
+    macd, rsi = self.calculate_indicators()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 69, in calculate_indicators
+    macd = close_prices.ta.macd(fast=12, slow=26, signal=9)
+           ^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\generic.py", line 6299, in __getattr__
+    return object.__getattribute__(self, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Series' object has no attribute 'ta'
+
+2024-04-17 15:32:05,211: asyncio: INFO: [ETFTrader] Executing the on_bot_crash event method
+2024-04-17 15:32:05,226: root: INFO: Backtesting finished
+2024-04-17 15:32:05,633: asyncio: WARNING: [ETFTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 15:32:05,743: asyncio: WARNING: [ETFTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 15:32:05,743: backtest_stats: INFO: Backtest took 0:00:09.858557 for a speed of 0.000

@@ -1,0 +1,494 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+ELI-NP is now ready to welcome world scientists! - Thales,"Wed, 27 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtbWFya2V0LXNwZWNpZmljLXNvbHV0aW9ucy9sYXNlcnMvbmV3cy9lbGktbnAtbm93LXJlYWR5LXdlbGNvbWUtd29ybGQtc2NpZW50aXN0cy0w0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The most powerful laser system in the world developed and installed by Thales in Romania with the capacity to deliver pulses with the record power level of 10 petawatts, was formally accepted on October 11, 2019 by our Customer, the National Institute of Physics and Nuclear Engineering Horia Hulubei (IFIN-HH).
+
+© Thales
+
+After just over six years of development and integration, including three years on the ELI-NP (Extreme Light Infrastructure - Nuclear Physics) program site in Magurele, Romania, involving the Thales LAS France and Thales Systems Romania engineers, the last tests sessions for the system performances assessments and the training of the Customer's teams were completed in early October 2019 leading to the formal acceptance of the system by IFIN-HH.
+
+""The success of the HPLS (High Power Laser system) implementation is the result of an excellent collaboration between ELI-NP and Thales started in 2013"", Professor Nicolae Victor Zamfir, Director of IFIN-HH and of the ELI-NP project.
+
+""I thank all the Thales teams from France and Romania who made it possible to build this unparalleled technical success in compliance with our contractual commitments, and most importantly with the satisfaction and the confidence of our Customer"" - François Lureau, Program Manager.
+
+The Thales system is the core instrument of a unique new ad­vanced technology and fundamental research facility in nuclear physics, developed by IFIN-HH in Romania. This infrastructure now offers the international scientific community the opportunity to explore the laser matter interaction at intensity levels ever before achieved and to open the door to new applications using high intensity laser systems.
+
+© Thales
+
+You will find all information related to Thales laser world record here.","{'label': 'Positive', 'score': 0.9999692440032959}",positive,0.9999692440032959,1
+"Thales Reveals Next-generation FMS, PureFlyt - Aviation International News","Tue, 26 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9hZXJvc3BhY2UvMjAxOS0xMS0yNi90aGFsZXMtcmV2ZWFscy1uZXh0LWdlbmVyYXRpb24tZm1zLXB1cmVmbHl00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Reveals Next-generation FMS, PureFlyt
+
+France’s Thales Group says all OEMs could benefit from PureFlyt, giving it a chance for adoption on Boeing airliner programs.","{'label': 'Positive', 'score': 0.9999977350234985}",positive,0.9999977350234985,1
+Thales seeks to establish leadership position in inflight connectivity - Runway Girl Network,"Wed, 13 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTkvMTEvdGhhbGVzLXNlZWtzLXRvLWVzdGFibGlzaC1sZWFkZXJzaGlwLXBvc2l0aW9uLWluLWluZmxpZ2h0LWNvbm5lY3Rpdml0eS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Viasat has long boasted that its broadband Ka-band IFC delivers 12 Mbps to each individual passenger in-flight. But Thales InFlyt Experience aims to significantly trump those speeds when the Thales Alenia Space-manufactured SES-17 satellite is actively powering its FlytLIVE service for the Americas.
+
+“SES-17 is a best-in-class satellite in terms of architecture and capability so with the combo of these [SES and Hughes satellites] on our network, we are planning to bring to market performance that will be capable of exceeding 20 Mbps to the passenger at the individual level on the aircraft, which is truly something that should enable the true broadband experience for inflight connectivity which is something we have not yet seen in this market,” Thales head of strategy, IFEC Gustavo Nader told Runway Girl Network.
+
+The SES-17 Ka-band satellite is set to be operational by 2021, and will power IFC on low-cost carrier Spirit Airlines. That’s the same year that Viasat’s new high-capacity ViaSat-3 satellite is slated to launch for the Americas, with the aim of supporting IFC at JetBlue, American Airlines and others. It will be interesting to see what speedtest results are shared by passengers on social media when these two systems are proverbially duking it out in orbit (do consider using the #ShowMeTheMegabits hashtag on Twitter).
+
+In the meantime, Thales has been working with Hughes Network Systems’ satellites to support the (now delayed) rollout of FlytLIVE on Spirit Airlines’ A320 family fleet.
+
+“So, our partnership in North America for the FlytLIVE system is really based on what we believe the strongest partners we could have. Hughes has a very, very solid track record on performance of the Jupiter platform. We’re extremely happy with that, and we’ve just demonstrated that again with this GEO/MEO trial,” said Nader. He is, of course, referring to the recent successful switching between GEO and SES O3b MEO satellite beams using ThinKom’s Ka2517 antenna, and Hughes’ Jupiter airborne modem and ModMan installed on a Gulfstream G-III business jet.
+
+Your author took the opportunity to ask Thales again if it is turning to ThinKom’s antenna hardware for the Spirit Airlines program, given the technical glitches recently discussed by Spirit CEO Ted Christie. Nader stressed that “this is a Thales supplied antenna we developed”. He noted that “that’s what we’ve committed to doing in the beginning” and that’s the continued plan.
+
+Even so, Thales is very pleased with the result of the trial of ThinKom’s Ka2517 antenna, and agrees that the seamless switching between MEO and GEO satellites using ThinKom’s mechanically steered VICTS-based technology puts to rest the notion that only electronically steerable antennas (ESAs) can support interoperable MEO/GEO or LEO/GEO networks.
+
+“Well we certainly demonstrated that,” said Nader, noting that the VICTS antenna “showed that there is technology in the market today with the right maturity and the necessary performance to support a hybrid network, not to say that a fully electronically steerable antenna wouldn’t be desirable. If we have other solutions and as they come to market, we’ll certainly be exploring and investigating those, but what the trial demonstrated is in the short- and medium-term, we would be able to roll out a solution that includes adequately performing antennas, satellite constellations and ground infrastructure to support hybrid service.”
+
+Having demonstrated what we were seeking to demonstrate, we are now going to continue to evaluate this and assess the necessary additional steps and harden the solution so that it can be eventually brought to market in a commercial way. We don’t have a committed timeframe to do that, nor a formal plan to do so. We’ll certainly continue to work with our partners … We don’t have any formal STC plans for this, we don’t have any formal commercial opportunities that would be targeted with this solution, but we will continue to work on maturing this and eventually reach a decision as to whether it is something that we can bring to market. There are many things we’ve done that would be of interest commercially to a variety of airlines in certain market segments so we’ll be evaluating those…
+
+Lest there is any doubt, he added, “I think if there is one point here that is really worthwhile stressing is the strength of the partnerships we have. We feel very, very strongly that the partnership we have with SES and Hughes in creating the FlytLIVE service, now in this particular instance working alongside ThinKom [on the MEO/GEO trial], shows the commitment we have to inflight connectivity. When Thales entered this market, it did so with the intent of achieving a leadership position not only from a market perspective but also from an innovation perspective so I think this trial demonstrated [that].”
+
+Thales has faced its fair share of challenges in its effort to have a leadership position in IFC. In 2018, JetBlue handed over prime ISP positioning to Viasat as it graduates to Viasat’s Gen 2 connectivity kit and capacity, despite the fact that Thales acquired LiveTV from the carrier in 2014 for $400 million. But Thales, which supplies embedded IFE to JetBlue, took the news in stride, announcing the Thales/SES/Hughes partnership for the Americas in 2017.
+
+In 2018, Thales revealed to RGN that it has global aspirations for delivering high-capacity Ka-band-supported inflight connectivity to airlines, beyond its work in the Americas with Hughes and SES, and indeed beyond its work as a value added reseller for Inmarsat’s Global Xpress Ka-band service. The French multinational corporation wants “to have a worldwide offering” because, whilst the US is far more advanced on the inflight connectivity front, other regions will eventually catch up and the company realizes “we need to have a global solution covering all the value stations”, said Philippe Carette, the CEO of Thales InFlyt.
+
+Asked recently by RGN if an interoperable MEO/GEO network, inclusive of O3b, is formally part of Thales’ plan to offer a global Ka-band network, Thales’ Nader responded:
+
+The trial we just announced is part of our constant effort to evaluate how to maintain a continuing evolution of the network. Adding a MEO overlay to our GEO network has a number of advantages – capacity, redundancy, low latency capability for applications that might require that. We are looking at this as an evolutionary step for our network. I wouldn’t say it is a formal plan to augment the network globally or even regionally, but it’s part of the natural evolutionally cycle in our technology development. So that’s how we’re looking at it. We wanted to make sure GEO and MEO can deliver the performance we think the network needs to [address] demand. It had the right antenna technology, ground network management system, efficient switches between GEO and MEO, so all of those elements Now that we have established the concept, we’ll certainly be entertaining how this can be brought to bear in the future. But it’s not part of a formal plan yet … it’s really a technology evolution step.
+
+Yet, as an Inmarsat GX value added reseller internationally, Thales can offer Ka-band service on a near global basis already. The GX service will see a further boost when additional Ka capacity and polar coverage come on line.
+
+So, would Thales ever consider offering a hybrid solution involving FlytLIVE and GX, which would give operators flexibility especially as narrowbodies ply longer haul routes?
+
+“It could be a possibility, yes,” revealed Nader. “So GX is our global solution today. FlytLIVE is our North America solution and we do offer GX to our international customers and [that’s] not to say that these are the only options or only solutions that are suitable. As each one of these partners evolve their networks, a combo of those could be best suited for certain types of users. There isn’t a single network that is one-size-fits-all that is the best solution for any and all customers so it could be possible at some point that we conclude that for certain types of customers, a combination of solutions would be the best and we have entertained this in the past and we continue to look at it. But as it stands today, FlytLIVE is our solution in North America and GX is our partner elsewhere.”
+
+The GX service, mind you, is performing well, he confirmed. “We have won a number of important customers worldwide on GX and Inmarsat is committed to an evolution of the GX network that is certainly very interesting and promising in terms of bringing new capability to the market, adding new satellites to the fleet, adding polar routes so yes, we are very happy with the partnership. We have developed linefit positions for GX and will continue to work that way.”
+
+Related Articles:","{'label': 'Positive', 'score': 0.5604139566421509}",positive,0.5604139566421509,1
+Thales new approach to security - EDR Magazine,"Sat, 23 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy1uZXctYXBwcm9hY2gtdG8tc2VjdXJpdHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Paolo Valpolini
+
+To better cope with evolving security scenarios Thales has totally renewed its digital platform. An example of the new offer was visible at Milipol, the case study being the Stade de France, the major sports infrastructure located in Saint-Denis, in the northern suburbs of Paris. The new platform acts as a digital command centre that ties together physical and virtual sensors in order to provide the decision makers with the best possible situational awareness. Cameras, both fix and installed on first responders vehicles, or even images provided by mobile phones, contribute to generating the picture, social media, mobile apps, cyber surveillance, being all inputs taken in count by the system, not to mention higher-end systems such as UAVs and other sensors such as acoustic ones used to detect firearms shots, etc.
+
+The platform is able to cope with high volumes of data, that are processed automatically, to automatically detect an event, and to show the operators only true alerts, thus increasing effectiveness. It thus assists the decision makers in incident management, a first contract with Singapore having already been signed while in France Thales has a contract with the Ministry of Defence to constantly upgrade security solutions. The Thales system includes Artificial Intelligence at two different levels, data analytics and facial recognition, the latter being forbidden in France. The number of cameras capable of facial ID is usually around 10%, a first level of analysis being carried out within the camera system, metadata being then transferred to the platform. Smart cameras are used not only to cope with facial recognition but also to carry out crowd behaviour analysis. Thales aims at using the platform for predictive analysis, the system has machine-learning features that allow it to become more and more “smart” along time.
+
+The Thales platform is capable to connect to any kind of different sensor; beside case studies based on stadium security, another example was that of a higher pollution level in on part of Paris, data being provided by pollution control units spread in the town, the alarm leading to a redirection of traffic in some areas. The platform can be used also for road traffic management, traffic incident management, and other situation, providing not only decision-making support but also recording data that will be used for forensic applications when applicable.
+
+Photos courtesy Thales and by Paolo Valpolini","{'label': 'Neutral', 'score': 0.9997684359550476}",neutral,0.9997684359550476,0
+Is Thales S.A.'s (EPA:HO) CEO Pay Fair? - Yahoo Finance,"Wed, 13 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90aGFsZXMtZXBhLWhvLWNlby1wYXktMTM0MzE4MjIyLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Patrice Caine has been the CEO of Thales S.A. (EPA:HO) since 2014. This report will, first, examine the CEO compensation levels in comparison to CEO compensation at other big companies. Then we'll look at a snap shot of the business growth. And finally - as a second measure of performance - we will look at the returns shareholders have received over the last few years. The aim of all this is to consider the appropriateness of CEO pay levels.
+
+See our latest analysis for Thales
+
+How Does Patrice Caine's Compensation Compare With Similar Sized Companies?
+
+According to our data, Thales S.A. has a market capitalization of €18b, and paid its CEO total annual compensation worth €1.9m over the year to December 2018. While this analysis focuses on total compensation, it's worth noting the salary is lower, valued at €700k. We further remind readers that the CEO may face performance requirements to receive the non-salary part of the total compensation. We looked at a group of companies with market capitalizations over €7.3b and the median CEO total compensation was €3.2m. Once you start looking at very large companies, you need to take a broader range, because there simply aren't that many of them.
+
+A first glance this seems like a real positive for shareholders, since Patrice Caine is paid less than the average total compensation paid by other large companies. However, before we heap on the praise, we should delve deeper to understand business performance.
+
+The graphic below shows how CEO compensation at Thales has changed from year to year.
+
+ENXTPA:HO CEO Compensation, November 13th 2019
+
+Is Thales S.A. Growing?
+
+Over the last three years Thales S.A. has grown its earnings per share (EPS) by an average of 4.1% per year (using a line of best fit). Its revenue is up 6.6% over last year.
+
+I'd prefer higher revenue growth, but it is good to see modest EPS growth. Considering these factors I'd say performance has been pretty decent, though not amazing. It could be important to check this free visual depiction of what analysts expect for the future.
+
+Story continues
+
+Has Thales S.A. Been A Good Investment?
+
+Thales S.A. has not done too badly by shareholders, with a total return of 0.7%, over three years. But they probably don't want to see the CEO paid more than is normal for companies around the same size.
+
+In Summary...
+
+It looks like Thales S.A. pays its CEO less than the average at large companies.
+
+Patrice Caine is paid less than what is normal at large companies, and but overall performance has left me uninspired. However I do not find the CEO compensation to be concerning. Shareholders may want to check for free if Thales insiders are buying or selling shares.
+
+Of course, you might find a fantastic investment by looking elsewhere. So take a peek at this free list of interesting companies.
+
+We aim to bring you long-term focused research analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material.
+
+
+
+If you spot an error that warrants correction, please contact the editor at editorial-team@simplywallst.com. This article by Simply Wall St is general in nature. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. Simply Wall St has no position in the stocks mentioned. Thank you for reading.","{'label': 'Neutral', 'score': 0.9987192153930664}",neutral,0.9987192153930664,0
+Thales Successfully Completed Modernization of Two Thai Mine Hunters - Naval Post,"Tue, 19 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbmF2YWxwb3N0LmNvbS90aGFsZXMtc3VjY2Vzc2Z1bGx5LWNvbXBsZXRlZC1tb2Rlcm5pemF0aW9uLW9mLXR3by10aGFpLW1pbmUtaHVudGVycy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"According to the press release of Thales on 18th November, Thales delivered two modernised and upgraded minehunting vessels to the Royal Thai Navy. Built in the 1980s, HTMS Bang Rachan and HTMS Nong Sarai began their transformation in April 2016 when Thales was appointed as prime contractor for the upgrade of the vessels, including providing a full suite of underwater solutions onboard. This contract marked Thales’ first success in the underwater systems and sonars market in Thailand.
+
+As prime contractor, Thales was wholly responsible for the revised vessel design, repairs and modernisation, the procurement of equipment and the platform integration. The upgraded ships are now equipped with new solutions including a machinery control system, navigation systems, upgraded communications capabilities, sonar and command and control (C2) system and a multi-influence signature range that allow mine-hunting to be conducted more safely, efficiently and faster to secure the critical sea lanes and sovereign waters of Thailand.
+
+“We are extremely proud to celebrate fifty years of mutual cooperation with the Royal Thai Navy and to have been a continuous partner to their modernisation. The successful delivery of the Bang Rachan minehunters and the HTMS Prachuap Khiri Khan was made possible due to the close working relationships with the Royal Thai Navy and local industry. Thales affirms its commitment to strengthening local industrial capabilities in Thailand through training and technology-transfer. We look forward to a continued partnership with the Navy in the decades to come.” said Massimo Marinzi, Country Director, Thales in Thailand.
+
+The ambitious turnkey project brought together Thales expertise from the UK, France, Australia, Germany and South Africa, working hand-in-hand with local industry to manage the upgrade. Together with its naval Key Industrial Partner in Thailand, Thales provided training and Integrated Logistics Support (ILS) for the Navy to ensure that the local teams are fully equipped with the skills needed to ensure the smooth operation of the vessels. The modernisation of the Bang Rachan vessels extends the operational life of the ships by over 15 years
+
+Supporting RTN’s maritime security and Exclusive Economic Zones (EEZ) protection missions with Command and Surveillance Solutions
+
+In a second project successfully delivered to the Royal Thai Navy in September 2019, Thales has equipped the RTN’s second Krabi-class Offshore Patrol Vessel (OPV) with a Command and Surveillance System that includes the TACTICOS combat management system at its heart.
+
+HTMS Prachuap Khiri Khan was revealed in a launch ceremony in August in the presence of Her Royal Highness Princess Maha Chakri Sirindhorn. Final acceptance of the Thales contract was achieved in late September 2019 and the ship will strengthen the RTN’s maritime border control and marine resources protection capabilities. Thales is the lead system integrator and the integrated solution includes the VARIANT surveillance radar, fire control radar and VIGILE Electronic Support Measures. Thales is also supplying the Tactical Data Links and is responsible for all integration of internal and external communication systems onboard the vessel.
+
+The successful and on-time delivery of these two projects this year establishes Thales’ position as the leading supplier to the Royal Thai Navy, equipping of 80% of RTN’s fleet. In a relationship that dates back five decades, Thales first entered the naval defence market with the WM22 and LW04 radars installed onboard the Tapi class Frigates. Over the years, Thales has built local indigenous capabilities in the country, including local training and service support, as it aligns with Thailand’s goal of strengthening high-end local industrial capabilities.","{'label': 'Positive', 'score': 0.999961256980896}",positive,0.999961256980896,1
+Royal Canadian Navy lead AOPS Starts Sea Trials - Naval News,"Sat, 23 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDE5LzExL3JveWFsLWNhbmFkaWFuLW5hdnktbGVhZC1hb3BzLXN0YXJ0cy1zZWEtdHJpYWxzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Royal Canadian Navy lead AOPS Starts Sea Trials Halifax Shipyard has commenced initial builder’s sea trials for Canada’s lead Arctic and Offshore Patrol Ship (AOPS), the future HMCS Harry DeWolf.
+
+The lead AOPS departed Halifax Shipyard November 22 and, using its diesel-electric engines, moved to the Bedford Basin to start initial builder’s sea trails associated with anchor handling, the integrated bridge and navigation system (IBNS), fin stabilizers, Multi-Role Rescue Boat (MRRB) launch and recovery, and communication systems.
+
+Initial builder’s sea trials will continue over the next few weeks and will be followed by formal sea trials and acceptance by the Royal Canadian Navy. This will span into the first quarter of 2020.
+
+At 103 metres and 6,615 tonnes, the future HMCS Harry DeWolf is the largest Royal Canadian Navy ship built in Canada in 50 years.
+
+There are currently four AOPS under construction at Halifax Shipyard, including the future HMCS Harry DeWolf. The future HMCS Margaret Brooke was launched on November 10, 2019 and is currently pier side where work continues to prepare the ship for sea trials and handover to the Royal Canadian Navy late next year.
+
+Inside Halifax Shipyard’s facilities, the Royal Canadian Navy’s third and fourth AOPS, the future HMCS Max Bernays and the future HMCS William Hall, are under construction. The first two major sections of the future HMCS Max Bernays are scheduled to be moved outside in spring 2020.
+
+Over the next few decades, Halifax Shipyard will build six AOPS for the Royal Canadian Navy, two AOPS for the Canadian Coast Guard, and 15 Canadian Surface Combatants for the Royal Canadian Navy, as part of Canada’s National Shipbuilding Strategy (NSS).
+
+The Harry DeWolf-class patrol ships will be able to perform a wide variety of tasks, such as:
+
+Provide increased presence and conduct surveillance operations throughout Canada’s waters, including in the Arctic;
+
+Support Canadian Armed Forces (CAF) sovereignty operations;
+
+Participate in a wide variety of international operations, such as anti-smuggling, anti-piracy or international security and stability;
+
+Contribute to humanitarian assistance, emergency response and disaster relief domestically or internationally;
+
+Conduct Search and Rescue (SAR) and facilitate communications among other ships;
+
+Support CAF core missions including capacity building in support of other nations; and
+
+Support other government departments in their ability to enforce their respective mandates.
+
+The Harry DeWolf-class patrol ships will operate in the Arctic between June and October, providing a greater, and longer, CAF presence in the north. They will be capable of operating in first-year ice of 120-centimetre thickness. This will allow the Royal Canadian Navy to have unescorted access to areas of the Arctic that were previously inaccessible.","{'label': 'Neutral', 'score': 0.9999966621398926}",neutral,0.9999966621398926,0
+"Inmarsat GX5 satellite, manufactured by Thales Alenia Space, now in orbit - Thales","Wed, 27 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9pbm1hcnNhdC1neDUtc2F0ZWxsaXRlLW1hbnVmYWN0dXJlZC10aGFsZXMtYWxlbmlhLXNwYWNlLW5vdy1vcmJpdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Inmarsat GX5 very-high-throughput telecommunications satellite successfully launched
+
+Cannes, November 27, 2019 – The Inmarsat GX5 geostationary telecommunications satellite has been successfully orbited by Arianespace atop an Ariane 5 launcher from the Guiana Space Center in Kourou, French Guiana. Built for Inmarsat, the world leader in global, mobile satellite communications, by prime contractor Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), this satellite will boost Inmarsat’s Global Xpress (GX) broadband network, offering more capacity for inflight Wi-Fi services covering the Middle East, and Europe. The world’s first and only globally available true broadband service delivered through a single operator, the Inmarsat GX service operates in the Ka-band and is designed and optimized for mobile applications.
+
+Weighing less than 4 metric tons at launch, Inmarsat GX5 satellite is built around the Spacebus 4000 B2 platform. It is the most powerful telecommunications satellite that Thales Alenia Space has ever built in the Spacebus 4000 B2 category. It has an estimated design life of more than 16 years.
+
+Inmarsat GX5 is the 17th telecommunications satellite designed by Thales Alenia Space to have been successfully launched this year.
+
+“Thales Alenia Space is proud to have partnered with Inmarsat in building its GX5 satellite, which will serve airline passengers’ growing connectivity needs over Europe and the Middle East, as well as meeting increasing demand from maritime and government users” said Pascal Homsy, Thales Alenia Space Executive Vice-President, Telecommunications. “We currently offer a range of product lines tailored precisely to the new expectations of the telecommunications market. Through our Spacebus 4000 B2 and Spacebus NEO offering able to deliver fast-broadband services around the globe, and our new Space InspireTM product line, fully digital and reconfigurable in orbit, Thales Alenia Space is the ideal partner to provide concrete solutions for operators, increase connectivity and bridge the digital divide.”
+
+Artistic view & photo ©Thales Alenia Space
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of 2.5 billion euros in 2018 and has 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Cinzia Marcanio
+
+Tel: +39 06 41512685
+
+cinzia.marcanio@thalesaleniaspace.com
+
+Tarik Lahlou
+
+Tel : +33 (0)5 34 35 35 67
+
+tarik.lahlou@thalesaleniaspace.com","{'label': 'Positive', 'score': 0.9698656797409058}",positive,0.9698656797409058,1
+Thales builds a connected FMS brain for its next generation avionics - Runway Girl Network,"Tue, 26 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTkvMTEvdGhhbGVzLWJ1aWxkcy1hLWNvbm5lY3RlZC1mbXMtYnJhaW4tZm9yLWl0cy1uZXh0LWdlbmVyYXRpb24tYXZpb25pY3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Six years ago, Thales first unveiled Avionics 2020, an advanced cockpit concept designed to display open world information alongside information from secured avionics in an integrated manner. Since then, countless words have been written about Thales’ vision, which entails managing aircraft in increasingly-crowded skies by exploiting inflight connectivity on a level not yet seen on current-generation flight decks.
+
+But a concept is just that – an abstract idea. A possible plan for the future. To enter the realm of reality, the concept needed a core, or to use Thales’ own words, a “brain” capable of keeping pace with today’s digital age. This week at a media briefing in Toulouse, for which Runway Girl Network was a guest, Thales unveiled the brain. Known as PureFlyt, the new Flight Management System is what the French multi-national corporation calls “an entirely connected FMS, designed to offer airframers and airlines the best combination of safety, security, and fuel and operations efficiency”.
+
+PureFlyt won’t be available next year. The moniker Avionics 2020 has proven to be rather ambitious insofar as the timeline for availability of the FMS, specifically, is still roughly five years away. Thales says it intends for PureFlyt to be available both in the retrofit and linefit arena by 2024.
+
+A key part of PureFlyt is that it integrates the FMS with a pilot Electronic Flight Bag (EFB), which accesses connectivity to deliver real-time weather and other performance-enhancing applications. Alternative trajectories can be calculated by the system, ensuring pilots are armed with the right information at the right time.
+
+In the near-term, if a satcom pipe is connecting the EFB, it will likely be powered by L-band satellites, as both Inmarsat and Iridium are approved for cockpit communications and safety services today, and are making gains with their new SwiftBroadband-Safety and Certus solutions, respectively. But if Thales has its druthers, broader-band cabin connectivity pipes will ultimately be employed, perhaps even someday its own FlytLIVE high-capacity Ka-band solution.
+
+If your first response to learning this news is to ask – what about cyber security? What about the potential for spoofing? You’re not alone. When your author tweeted about Thales’ news this week, more than a few individuals expressed their concern. Said one: “[It] helps the hackers open a portal to critical aircraft systems…”
+
+Thales, whose FMS systems are installed on over 6,000 aircraft, says it is drawing on its 40-years-worth of air traffic management and FMS expertise to ensure safeguards are in place to prevent attacks. But what if a bad actor manages to circumvent these infosec protections and sends a nefarious command to the connected EFB and ergo the FMS? The pilot will, first and foremost, decide if a suggestion from his or her docked, fully-connected EFB makes sense, say executives with the firm. So the information must first pass muster with the human sitting behind the flight displays. If the message passes the pilot’s scrutiny, then it is processed by the PureFlyt FMS, which itself will determine whether it is appropriate. According to Thales, the FMS would block a command that seems suspicious, ensuring an added layer of redundancy.
+
+The EFB is a sort of door, and the pilot and/or the FMS can close that door if something unusual is happening. But the EFB may not be the only door in the future. “Ultimately, the FMS may be able to source connectivity from multiple tracks,” says Thales VP, head of commercial avionics Peter Hitchcock. This is the type of ultra-connected and digitalized ecosystem that will be required if commercial aviation ever moves to a single-pilot or fully autonomous future.
+
+Why introduce this sort of technology in the first place? Shouldn’t we keep a more closed loop system on the flight deck? “The point is to close and to manage the security,” says Hitchcock, but “be as connected as possible, and secure as necessary.”
+
+The reason why Thales believes this approach is necessary is because the global commercial aircraft fleet is forecast to double by 2030, and the use of drones is also set to rapidly grow, so “we will be entering an era in which millions of aircraft movements are recorded each day”. Rather than shrink away from introducing open-world data to the cockpit, Thales is gravitating towards it, strategically, with the aid of what it calls “massive testing” involving many pilots and engineers “and artificial intelligence technologies” which have simulated 2 billion test cases – the equivalent of 100 million actual flight hours.
+
+Thales explains in a statement:
+
+One of the core innovations making PureFlyt a game changer in the FMS world is its ability to draw on both onboard and open-world data, such as weather information. By combining the integrity of the FMS and the agility and power of Electronic Flight Bag flight functionalities, aircraft trajectory can be permanently controlled, adapted and enhanced, resulting in optimised flight, decreased fuel consumption and improved passenger comfort. Cyber-secure by design, PureFlyt has also been designed to be future-proof, accommodating the implementation of concepts such as the Initial 4D (I4D) trajectory management methods currently being researched by SESAR (Single European Sky ATM Research) in the EU and NextGen in the US. By increasing the accuracy of flight in four dimensions [latitude, longitude, altitude and time], the fourth dimension being time, PureFlyt will enable more effectiveness in maintaining optimal distance between aircraft, particularly in the demanding phases of departure and approach.
+
+A fifth dimension – 5D – is aircraft weight, and can ultimately be calculated in-flight via the FMS to enable fuel burn optimization, says Thales.
+
+Thales will work with airline partners to accommodate their choice of EFB hardware and software, though Thales stands at the ready to provide its own Aviobook EFB software, which easily syncs to PureFlyt.
+
+As readers are all too aware, modern EFBs are based on everything from Apple iPads and Samsung Galaxy tablets to Microsoft Surface and Panasonic ToughBook tablets. But peripherals can be built to support EFB docking, charging and integration with the PureFlyt FMS, confirms Hitchcock, and these can be designed to be swapped out if another choice of EFB hardware is made for a flight deck.
+
+To be clear, both the PureFlyt FMS and EFB are using the same trajectory model, though the EFB “has an ease of use factor and a a connectivity factor that we want to profit from”, notes Hitchcock. “There’s no sense in reinventing an iPad in an avionics world. It would cost a lot of money to do the same job.”
+
+Though other Thales executives spoke excitedly about the prospect of ultimately using a secure, segregated channel of broadband cabin connectivity pipes to ensure high-bandwidth applications can be supported, Hitchcock tempered enthusiasm a tad, noting that a lot of standards and regulatory work still needs to be done before we can even consider such a reality. Any true safety services, as defined by ICAO, will continue to be transmitted over approved pipes which include Inmarsat and Iridium satcom. Non-safety data may be moved over cabin connectivity pipes, however, as occurs today in a more limited fashion.
+
+Thales sees its initial version of PureFlyt as the entry point for having deeper conversations with airlines and airframers about what is possible in the future when true broadband connectivity is paired with EFBs and PureFlyt, or even just directly with PureFlyt. Asked if those connections might include Thales’ FlytLIVE solution in North America, which boasts Spirt Airlines as its first customer, Hitchcock says coyly with a smile, “We wouldn’t connect it to a system we didn’t feel was secure.” The inference is that FlytLIVE is being built with security in mind, and might make sense for some level of cockpit comms in the future.
+
+Disclosure: The author was a guest of Thales at its media briefing in Toulouse. Thales provided flights and hotel accommodation.
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9997188448905945}",neutral,0.9997188448905945,0
+South African court rejects ex-president Zuma's bid to appeal bribe trial - RFI English,"Sat, 30 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJmaS5mci9lbi9hZnJpY2EvMjAxOTExMzAtc291dGgtYWZyaWNhLWV4LXByZXNpZGVudC1qYWNvYi16dW1hLWxvc2VzLWJpZC1hcHBlYWwtYWdhaW5zdC1icmliZS10cmlhbC10aGFsZXMtZnJlbmNo0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"SOUTH AFRICA
+
+A South African court has dismissed former president Jacob Zuma's attempts to appeal against a corruption trial in which he faces charges related to a 1990s arms deal involving the French company Thales.
+
+Advertising Read more
+
+The High Court in the south-eastern city of Pietermaritzburg on Friday ruled that ""Mr Zuma's leave to appeal is dismissed"".
+
+Zuma filed an appeal last month ahead of the initial 15 October trial date, in a case that has seen numerous legal turns over a decade and a half.
+
+He is alleged to have taken bribes worth four million rand (240,000 euros) related to a four-billion-euro arms deal in 1999 when he was deputy president.
+
+In all, Zuma faces 16 charges of fraud, graft and racketeering related to the purchase of fighter jets, patrol boats and military equipment when he was deputy to President Thabo Mbeki.
+
+All accused parties deny wrongdoing
+
+Both Zuma and French defence company Thales, which supplied equipment for navy vessels, deny the charges.
+
+Thales's application for permission to appeal against the trial was also thrown out at the same time as Zuma's.
+
+Both Zuma and Thales have the option to approach the Supreme Court of Appeal or the Constitutional Court in their push to stop a trial.
+
+The largest South African opposition group, the Democratic Alliance, welcomed the High Court decision saying it looked ""forward to seeing this matter finally moving towards conclusion"".
+
+Daily newsletterReceive essential international news every morning Subscribe","{'label': 'Neutral', 'score': 0.9972075819969177}",neutral,0.9972075819969177,0
+Denis Allard named General Manager of Thales Alenia Space's Toulouse plant - Thales,"Mon, 04 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9kZW5pcy1hbGxhcmQtbmFtZWQtZ2VuZXJhbC1tYW5hZ2VyLXRoYWxlcy1hbGVuaWEtc3BhY2VzLXRvdWxvdXNl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Denis Allard named General Manager of Thales Alenia Space’s Toulouse plant Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Toulouse, November 4th, 2019 - Denis Allard has been named General Manager of the Thales Alenia Space plant in Toulouse. He replaces Albert Cerro, who has retired.
+
+A graduate of the Ecole Supérieure d’Electricité electrical engineering school (1982) and the Institut d'Administration des Entreprises (IAE) business school in Toulouse (1990), Denis Allard joined the Space division of Thomson CSF in Toulouse in 1984 as a systems engineer, working on the development of ATHOS and then Syracuse 2. He was named head of payload integration for Telecom-2 in 1987.
+
+In 1992, he moved to Palo Alto, California in the United States, after being seconded to Space Systems/Loral for the Intelsat-7 program. He returned to France in 1995 as head of the Sinosat transponder project. Denis Allard was placed in charge of the Europ*Star space segment in 1998.
+
+He moved to the business side in 2002, taking responsibility for payload bids. In 2007 he was named head of the Yahsat program, then in 2011, Vice President, Telecom Programs in Cannes.
+
+Moving back to Toulouse in 2014, Denis Allard took on new responsibilities, this time as Vice President, for the Iridium® NEXT program. He was also placed in charge of satellite constellations in 2017, while retaining his position on Iridium® NEXT.
+
+Photo ©Thales Alenia Space/JP Grèzes
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki Tel: +33 (0)4 92 92 70 94 sandrine.bielecki@thalesaleniaspace.com
+
+Cinzia Marcanio Tel: +39 06 41512685 cinzia.marcanio@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999920129776001}",neutral,0.9999920129776001,0
+"Happy birthday, Meteosat! - Thales","Mon, 25 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9oYXBweS1iaXJ0aGRheS1tZXRlb3NhdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Meteosat program is celebrating its birthday, 42 years after the first satellite was launched in 1977.
+
+Meteosat-1 was launched on November 23, 1977. Placed in geostationary orbit at 0 degrees longitude, it provided a permanent view over most of Europe, the whole of Africa, the Middle East and the eastern half of South America.
+
+For the past 42 years Meteosat satellites have been sending weather images back to Earth for viewing by millions watching the weather report on daily news shows.
+
+From Meteosat to MTG
+
+© Thales Alenia Space
+
+European meteorology has become increasingly accurate over the years, thanks to the advanced technology of the Meteosat satellite family, with direct benefits for the general public.
+
+With the first-generation Meteosat satellites, images were updated every 30 minutes, a figure reduced to 15 minutes on the second generation. MTG (Meteosat Third Generation) will further reduce this refresh rate to 10 minutes, making weather forecasts increasingly accurate.
+
+Focus on MTG-I
+
+The MTG series of weather satellites will not only guarantee data continuity for weather forecasting from geostationary orbit over the next two decades, but also significantly enhance imager performance, while providing a brand-new infrared sounding capability and real-time lightning imaging for early detection of severe storms.
+
+MTG-I‘s instruments and payload electronics are currently being integrated and tested as they are delivered to Thales Alenia Space. The next major milestone will be the delivery of the Flexible Combined Imager, a state-of-the-art telescope, by autumn 2020, kicking off the final stage of satellite testing. This will include environmental testing, where we simulate the vacuum and extreme temperatures in orbit.
+
+© Thales Alenia Space /Esa
+
+Thales Alenia Space is a global center of excellence in meteorology, having built all geostationary European meteorological satellites since the outset. Our expertise reaches back to 1977. All in all, we have been prime contractor since then for the construction of seven first-generation Meteosat satellites, four second-generation satellites (MSG) and six third-generation models (MTG), including four imaging and two sounding satellites.
+
+Copyrights: © Thales Alenia Space - © Thales Alenia Space/Master Image Programmes","{'label': 'Neutral', 'score': 0.9737842679023743}",neutral,0.9737842679023743,0
+First second-generation COSMO-SkyMed satellite arrives at launch site - Thales,"Tue, 12 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9maXJzdC1zZWNvbmQtZ2VuZXJhdGlvbi1jb3Ntby1za3ltZWQtc2F0ZWxsaXRlLWFycml2ZXMtbGF1bmNoLXNpdGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"First second-generation COSMO-SkyMed satellite arrives at launch site Thales Alenia Space Earth Observation Share this article
+
+
+
+LinkedIn
+
+The first COSMO-SkyMed Second Generation satellite (CSG1) arrived today at the Guiana Space Center, Europe’s Spaceport in French Guiana, after being shipped from Thales Alenia Space’s facility in Rome. Built by Thales Alenia Space as prime contractor for the Italian space agency ASI and the Italian Ministry of Defense, this radar observation satellite will be launched by the end of the year by Arianespace, using a Soyuz rocket.
+
+© Thales Alenia Space
+
+The second-generation COSMO-SkyMed system comprises two Earth observation satellites, and will ensure service continuity with the four satellites in the first-generation system. COSMO-SkyMed is a dual-use system (civil/military), designed to meet a broad range of requirements from commercial and governmental customers, including the scientific community.
+
+Thales Alenia Space is responsible for the COSMO-SkyMed Second Generation program, including the construction of the two satellites, while Telespazio is in charge of developing the ground segment, integrated logistics and operations.
+
+Leonardo also contributes to the program by supplying attitude sensors and state-of-the-art equipment that will process and distribute electric power throughout the satellites.
+
+© Thales Alenia Space
+
+State-of-the-art technologies
+
+The satellite features state-of-the-art technologies and engineering solutions. The system as a whole will set a new performance standard for space-based radar observation systems, in terms of precision, image quality and flexible user services.
+
+“I could describe our first and second generation COSMO-SkyMed systems by comparing them to two of my favorite Italian directors, Federico Fellini and Paolo Sorrentino,” notes Giampiero Di Paolo, Director of the Observation and Navigation domain at Thales Alenia Space in Italy. “These two cinematic giants marked different generations by making some of the most exceptional films in the world, each in his own inimitable style. The first COSMO-SkyMed Second Generation satellite marks a quantum leap forward in terms of technology, performance and service life, thus reinforcing Italy’s leadership in Earth observation. We could draw a parallel between some of our outstanding movie directors and the expertise of Thales Alenia Space in Italy in terms of state-of-the-art radar observation solutions.”
+
+A benevolent eye on our planet since 2007
+
+Since the first first-generation COSMO-SkyMed satellite was launched in 2007, the system has continuously monitored the Earth’s surface, while also addressing government requirements and helping us respond to natural disasters.
+
+It has proven to be especially useful following the spate of natural disasters hitting our planet in recent years, including earthquakes in L’Aquila (Italy) in 2009 and Amatrice in 2016, and the hurricanes Nargis (Myanmar) in 2008 and Harvey in 2017. Analyzing radar data from the constellation helped pinpoint the disaster zones, so rescue operations could be launched and also to assess the damage caused. This system has been used a number of times for specific purposes, such as monitoring deforestation in the Amazon, authenticating sites on the UNESCO World Heritage list, or tracking melting icecaps at the poles. COSMO-SkyMed also helped determine the scope of damage caused by the huge oil spill in the Gulf of Mexico in 2010, following the explosion of the Deepwater Horizon oil rig. Other customers have called on COSMO-SkyMed’s benevolent gaze to provide data needed to deploy tools to support sustainable agriculture.","{'label': 'Neutral', 'score': 0.9999194145202637}",neutral,0.9999194145202637,0
+Transportation of the future - Thales,"Thu, 21 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvdHJhbnNwb3J0L25ld3MvdHJhbnNwb3J0YXRpb24tZnV0dXJl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Autonomous train: a new vision sense for trains using AI
+
+Help energy optimization and improve train punctuality
+
+RailBot - Eye is a new solution that provides trains with a new visual sense using Artificial Intelligence to navigate autonomously in an open-world environment. The first application for the new solution is autonomous navigation from train depot to station platform. Later, RailBot-Eye could be used in normal traffic, as the train will be able to distinguish between all types of obstacles and determine the level of risk in order to take the right decision. Thanks to Thales solutions, autonomous trains will help to drastically improve train punctuality and increase capacity by enabling the network to carry more trains. Autonomous trains will be an opportunity to keep very low-density lines open and use the existing network at maximum capacity when needed. The solution will also improve the environmental performance of the rail sector by optimising movements to improve energy consumption during operation.
+
+To find out more about our activities in Transportation","{'label': 'Positive', 'score': 0.9999668598175049}",positive,0.9999668598175049,1
+The Dubai Airshow 2019 - Thales,"Sun, 17 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvYWVyb3NwYWNlL2V2ZW50L2R1YmFpLWFpcnNob3ctMjAxOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Shaping the future of aerospace
+
+Thales will be showcasing its latest aerospace innovations to over 80,000 visitors from 63 countries at the Dubai Airshow on Stand #835, from 17 to 21 November 2019 in DWC, Dubai Airshow Site.
+
+The 2019 show will focus on “connecting the aerospace industry” with 80% of the world’s population located within eight hours of one of the UAE’s airports this is where the industry comes to make connections.
+
+Thales has a unique value proposition in civil and defense that will bring to the space and aerospace industry with a strong focus on AI and region readiness to accommodate latest technology. With the Dubai being at the heart of innovation and digitisation. In line with the acceleration of the Group’s digital transformation, digital technologies are at the heart of numerous solutions presented by Thales at this year’s Dubai Air Show.","{'label': 'Positive', 'score': 0.9999840259552002}",positive,0.9999840259552002,1
+Why digital is riding with the mainline train driver - Thales,"Wed, 13 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtdHJhbnNwb3J0L21haW4tbGluZS1yYWlsL21hZ2F6aW5lL3doeS1kaWdpdGFsLXJpZGluZy1tYWlubGluZS10cmFpbi1kcml2ZXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Drone surveillance can improve the safety of rail infrastructure, either as eyes in the sky or on tracks as the ‘rail bot ’ of the future. Thales optronics, infrared sensors, connectivity and AI are the keys. A must read, now. ...","{'label': 'Positive', 'score': 0.993273138999939}",positive,0.993273138999939,1
+Can an aircraft fix solve air pollution issue? This French firm claims so - Business Standard,"Fri, 29 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9lY29ub215LXBvbGljeS9jYW4tYW4tYWlyY3JhZnQtZml4LXNvbHZlLWFpci1wb2xsdXRpb24taXNzdWUtdGhpcy1mcmVuY2gtZmlybS1jbGFpbXMtc28tMTE5MTEyOTAwNDgwXzEuaHRtbNIBmQFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL2FydGljbGUvZWNvbm9teS1wb2xpY3kvY2FuLWFuLWFpcmNyYWZ0LWZpeC1zb2x2ZS1haXItcG9sbHV0aW9uLWlzc3VlLXRoaXMtZnJlbmNoLWZpcm0tY2xhaW1zLXNvLTExOTExMjkwMDQ4MF8xLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en,"Imagine, a post-modern aviation technology that may help address Delhi's air pollution woes along with the world's. Imagine a pilot walking up with his iPad into the cockpit that once placed there, will start interacting with the flight system in the cockpit.
+
+Sounds surreal? If things remain on track, a wild disruptive imagination from Thales, an innovation giant, may become a reality as early as in the next five years.
+
+Thousands of miles away from the smoggy horizons of Delhi NCR, in Toulouse, a quaint town in France, the group is giving final shape to its imagination. Away from public knowledge, a disruption is being readied to change the world of aviation. Pure Flyt, as Thales calls it's ""baby"", is ready to make the present way we fly, look primitive, or may reduce it to being redundant.
+
+""Under the scheme we have envisioned, if there is bad weather on the flight path, the pilot will be informed through his tablet which can be an iPad. Or if a major breaking news scenario emerges while flying over a country due to its sudden political developments may be unsafe, the pilot will be informed of the same as well. He won't wait till end. Rather, he enters the cockpit and seeks a different route immediately,"" says Andre Cleroux who is giving Pure Flyt the final shape at Toulouse.
+
+The Product Line Director of Thales adds, all these revamped updated data from the pilot's iPad will be then shifted to the Flight Management System or more commonly known as FMS.
+
+This assumes significance, particularly after Malaysia Airlines Flight MH17, a scheduled passenger flight from Amsterdam to Kuala Lumpur was shot down on July 17, 2014 while flying over volatile eastern Ukraine, killing all 283 passengers and 15 crew members.
+
+This is not all. The Pure Flyt is claimed to be so intelligent and futuristic that it will compute the best route automatically, that will use the least amount of fuel or ATF as it is called it in aviation parlance.
+
+While, it makes it an impressive proposition for the industry that leaves no opportunity to save an extra penny but will cut down on the emission of carbon dioxide on a Himalayan scale. To be specific, Thales claims, within a fixed period it will be able to significantly cut down carbon dioxide emission. In fact, the projection is so ambitious, when questioned about its achievability, it's Chief Technological Officer Marko Erman told IANS, ""The Internet will emit more carbon dioxide than the flights. Wait and watch.""
+
+While, it will benefit everyone under the sun, it makes extra sense for a country like India which is battling unprecedented air pollution that has made its capital city resort to measures like Odd-Even car rationing system to closure of schools to deal with the apocalyptic situation.
+
+Speaking to IANS, Merko asserted, Pure Flyt will substantially play a part in addressing climate change in India too.
+
+Thales whose flight management system has powered more than 6,000 aircraft and more than 200 airlines, claims it is already in the stage of certification and the world may get a taste of this next gen of flying in as early as 2024.
+
+Thales product team claims, giants like Airbus and others with whom they have been in regular talks with, will have no option but to avail it purely because it makes business sense for them. Does it mean Pure Flyt, which works in a way that only the world has seen in sci-fi movies so far, leaves the current crop of flight ecosystems redundant. The answer is yes.
+
+But given the huge investment Airbus and Boeing has already made in the existing avionics, the acceptance of Pure Flyt is less likely to be overnight and more likely to be in a phased manner.
+
+What's interesting, the iPad will not only interact with the flight system but also the other way round. But to ensure the system isn't hacked, which can have disastrous consequences, the organisation is creating multiple layers of security and firewall.
+
+So brace up for the future and fasten your seat belt. Pure Flyt, as it claims, is executed successfully by 2024 on an industrial scale, a small tablet may end up becoming the brain behind a aircraft's flight and in the process many cities around the world including Delhi that are plagued by horrifying levels of Air Quality Index (AQI), will be more breathable.","{'label': 'Neutral', 'score': 0.9998503923416138}",neutral,0.9998503923416138,0
+Anaximander and Anaximenes: The Other Two Milesians (Part-II) Blogs Home - Drishti IAS,"Fri, 15 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmRyaXNodGlpYXMuY29tL2Jsb2cvYW5heGltYW5kZXItYW5kLWFuYXhpbWVuZXMtdGhlLW90aGVyLXR3by1taWxlc2lhbnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Anaximander and Anaximenes: The Other Two Milesians (Part-II)
+
+Blogs Home
+
+In the previous article, we talked about the history and evolution of philosophy as a discipline and the first natural philosopher known to us, Thales of Miletus. The next presocratic natural philosopher we will be covering in this series is Anaximander, who was considered to be Thales’ star student. He is thought to be the first philosopher who chose to write his thoughts and theories down. Whatever we have about Thales is due to the detailed accounts of his disciples and later on, Aristotle. Like Thales, Anaximander follows his belief that the world and nature are governed by discoverable laws instead of entirely being run on divine power and intervention.
+
+Anaximander had his interest in geometry and astronomy as well as with practical inventions and he was the first one to develop a cosmology, a philosophical view of the world. Much like Thales, a very small portion of his work survived. What we know of him comes from the accounts of different historical writers like, the 1st or 2nd century CE compiler of philosophical opinions Aëtius, the 3rd century theologian, antipope* Hippolytus, and the 6th century Neoplatonist philosopher Simplicius.
+
+*antipope - a person who, in opposition to the lawful pope, makes a significant attempt to occupy the position of Bishop of Rome and leader of the Catholic Church;
+
+He is credited for making the first map of the known world, possibly based on previous traveller’s notes. It was later corrected by his fellow Milesian, the author Hecataeus, a well-travelled man. He is also known to be the first one who introduced Greeks to the use of gnomon, which is somewhat of a sundial and it demonstrated the equinoxes and solstices and perhaps the hours of the day. He was also the first to think that the Earth was at the centre of the cosmos.
+
+The shape of the Earth has always been a topic of great interest and even till now, there are groups (Flat Earth Society) who believe that the Earth is flat instead of the perceived and proven spherical shape of the planet. On the shape of Earth, Anaximander believed the inhabited land to be flat, like the top-flat shape that of a cylinder, whose thickness is one-third of the diameter. He proposed that the planet is poised aloft, and it stays in its place as it is equidistant from all the things and hence is not in the disposition of ‘flying off’. He also said that the Sun and the Moon were hollow rings of fire. Their disks are vents or holes in the rings, through which the fire can shine. The phases of the Moon, as well as eclipses of the Sun and the Moon, are due to the vents’ closing up. Now, it is understandable that the entire theory sounds too out there, however, we can find some sense in the concepts by comparing them to the ones we have today.
+
+Anaximander thinking that the Sun and the Moon were filled with fire is far from what we know about them today but isn’t very far from the concept that the Sun is a ball of fiery gas. Or, his belief that living beings were evolutionary can also be considered an important theory. Since Man is a creature of nurture, he must have originated from some other organism because survival wouldn't have been possible as he was always in the state as he is now. It sounds like the foundational idea for the theory of evolution as we know it today.
+
+While Anaximander and Thales agreed upon their natural and discoverable causes to the natural phenomenon theory, Anaximander did not agree with Thales’ water theory (discussed in the last article). He came up with the idea of 'Apeiron', as a part of his cosmogony. He believed that all of the opposites that existed on the earth could not have appeared from a single element, which Thales identified to be water. He explained it to be a formless initial state. Apeiron literally means unlimited, boundless, indeterminate, and infinite. It lacks any limit or boundary and it is undifferentiated. Apeiron wasn't an element, but it was primal formlessness. Unlike Thales who believed everything has originated from water, Anaximander believed that it came from the Apeiron. It is believed that he explained Apeiron as 'arche'.
+
+Cosmogony , in astronomy, is the study of the evolutionary behaviour of the universe and the origin of its characteristic features.
+
+, in astronomy, is the study of the evolutionary behaviour of the universe and the origin of its characteristic features. Arche is an ancient Greek word that can best be described as the ‘beginning’, ‘origin’, and the ‘first cause’. It designates the roots of origin of everything that exists. Though people credit Aristotle for the postulation of this concept, some texts believed that it was actually Anaximander who came up with the concept.
+
+Apeiron wasn’t an element to Anaximander, and he made that glaringly clear. As stated in Aristotle’s accounts, he used it to explain the opposite and destructive yet co-habitant nature of the elements of nature.
+
+“Some have supposed... an unlimited something in addition to the elements, the matrix out of which they came. The reason for supposing this additional something, rather than air or water, for instance, to be unlimited, was that it seemed to evade the dilemma set out above. Since air is cold, water moist, and fire hot, and these properties are mutually destructive, an infinity of one of them would mean that the others would have perished this time, but this, they say, would not apply to an undifferentiated something out of which they all come.”
+
+~(Physics 204b)
+
+The Apeiron is different from the other elements and becomes necessary if the primary elements are opposed. Such opposition is evident in the interrelation of these elements in the world. Anaximander characterises the relationships of these elements of the world as the one in continuous opposition. If either one of them overpowers the other, it would be completely destroyed. Hence, his arche is not one of the four elements but maybe intermediate between them.
+
+He also postulated the concept of eternal motion along with the theory of Apeiron to explain the creation of the earth. This idea of eternal motion is what made it possible to separate the feelings/sensations/states of opposites from each other. It was responsible for the experience of opposite properties like hot/cold, dry/wet, heavy/light, etc. The idea of earth being in eternal motion sounds like the foundational idea to the contemporary phenomenon of Earth revolving around the Sun and rotating on its axis causing weather and days to change, respectively.
+
+The world to Anaximander was not eternal and it was supposed to go where it all came from, the Apeiron, which will then form new worlds. Thus, all existing things must “pay penalty and retribution to one another for their injustice, according to the disposition of time,” as he rather figuratively expressed it when he talks about 'cosmic justice'.
+
+As I have already mentioned earlier, he was the first philosopher who had written his theories down to record them, he went ahead to create a unified account of nature and though his work was superseded very soon, he left an impact on the world with his questions and findings on the universe and its existence.
+
+Moving on to our next philosopher, we come to Anaximenes who was believed to be a student of the philosopher we just discussed above, Anaximander. All of the three Milesians were contemporaries. They were not successors. Their theories were not identical either, however, they were often built on top of others. We see a lot of similarities between the works of Anaximander and Anaximenes.
+
+Much like Anaximander, Anaximenes’ recorded his theories as well. And like Anaximander, his works also haven’t survived and can only be read about in the accounts of other philosophers who mentioned his work. His work didn’t make it past the Hellenistic Age (age that starts after the death of Alexander The Great).
+
+While looking for arche, a unifying principle of diversity, Thales went with his water theory while Anaximander went with Apeiron. Anaximenes went with 'aer' (ancient word for the element air). While his two predecessors came up with theories about what came from what, none of them was able to provide an explanation for the process of the change from one element to another. However, Anaximenes did and it can be seen as his major contribution to the Milesian school of thought. He believed that land and rock arose from the water and he explained this process through two processes of rarefication and condensation.
+
+""(Air) differs in essence in accordance with its rarity or density. When it is thinned it becomes fire, while it is condensed it becomes wind, then cloud, while still more condensed it becomes water, then earth, then stones. Everything else comes from these""
+
+~(Simplicus, Physics 24, 13A5)
+
+From the passage above, it becomes clear that he believed in degrees of condensation of moisture that corresponded to the densities of various types of matter. Aer is common as it is the ‘most evenly distributed’, as invisible air of the atmosphere. By condensation, it becomes visible, first as mist or cloud, then like water, and finally as solid matter such as earth or stones. If further rarefied, it turns to fire. Thus hotness and dryness typify rarity, whereas coldness and wetness are related to the denser matter. And part of this theory can be seen as a clear reflection of what we have today postulated as our water cycle, something that explains the basic and fundamental concept of rain through the methods of evaporation and condensation of water vapour (gas) to clouds which rain over the planet (liquid). It can be seen that Anaximenes was more or less correct when he explained how one element (water) changed into another.
+
+However, a lot of people think of him as an ignorant, regressive and somewhat of a dumb philosopher. Here’s why, when Thales understood his arche to be the element of water, Anaximander went on to systematically explain how the contrasting elements of nature could not have come from one single element, Anaximenes with his theory of aer as the arche was regressive as instead of understanding or reasoning with Anaximander’s theory of Apeiron, he simply went a step back to Thales and changed the material arche to air from water. However, there are significant similarities between Anaximenes’ understanding of air as an arche and the concept of Apeiron. Anaximenes says that air is boundless and infinite, which is different from Thales’ understanding of water and similar to that of the Apeiron. He also believed that the earth floated in the air in space which was in agreement with Anaximander’s cosmology.
+
+He didn’t see air as we see and perceive it to be today. He drew his ideas from the ancient belief of air being the soul, breath of life. Aetius in his accounts writes about Anaximenes’ idea of air.
+
+""Just as our soul which is air holds us together, so breath and air surround the whole cosmos.""
+
+~(Aetius, I.3.4, B2)
+
+From the line, it becomes pretty obvious that he is talking about the air we breathe but he is also talking about much more than that. According to Cicero, Anaximenes said that air was God, it is boundless and infinite and always in motion.
+
+Marcus Tullius Cicero was an orator, lawyer, politician, and philosopher born in 106 B.C.E. His life coincided with the decline and fall of the Roman Republic, and he was an important actor in many of the significant political events of his time. His writings are a valuable source of information to us about those events.
+
+Elaborating this point further, his assumption that aer is everlastingly in motion suggests that he thought it to possess life. Because it was eternally alive, aer took on the qualities of the divine and became the cause of other gods as well as of all matter. He took the inspiration from metaphysics, as suggested by Anaximander while being in regression of Thales’ ideas of the role of divinity, as explained in the previous article. The same motion accounts for the shift from one physical state of the aer to another. There is evidence that he made the common analogy between the divine air that sustains the universe and the human “air”, or soul, that animates people. Such a comparison between a macrocosm and a microcosm had also permitted him to maintain a unity behind diversity as well as to reinforce the view of his contemporaries that there is an overarching principle regulating all life and behaviour.
+
+The importance given to Anaximenes is conflicted but personally, he can be seen as the third step in a dialectic triad. In a dialectic triad, two positions contradict each other, the thesis and antithesis. Anaximenes, the third position, is the synthesis. He takes the good elements from both of his predecessors’ theories and creates a new stance which resolves both into one. In the dialectic triad of the Milesian philosophers, Thales is the thesis who says that everything comes from a definable element, water. Anaximander is the antithesis who proposed that everything on the earth in the form of oppositional experiences couldn’t have come from one single element and that everything is made from something undefinable and boundless, something that is immaterial. Anaximenes is the synthesis when he says that everything is made up from something definable, but boundless; material, but divine. Hence, providing us with the perfect conclusion for not only the Milesian school of thought but this article too.
+
+(Please Note: With this, we end the Milesian school of thought. The next article will focus on the philosophers Heraclitus and Democritus)
+
+Regards, Devyani
+
+
+
+Views
+
+Please enable JavaScript to view the comments powered by Disqus.","{'label': 'Neutral', 'score': 0.999996542930603}",neutral,0.999996542930603,0
+Former Royal Marines base is now major marine business hub - Business Live,"Fri, 08 Nov 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmJ1c2luZXNzLWxpdmUuY28udWsvbWFudWZhY3R1cmluZy9mb3JtZXItcm95YWwtbWFyaW5lcy1iYXNlLW5vdy0xNzIxNzY4MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Something went wrong, please try again later.
+
+Invalid email Something went wrong, please try again later.
+
+Sign up to FREE email alerts from BusinessLive - South West - your daily regional round-up of latest headlines, comment and analysis
+
+Something went wrong, please try again later.
+
+A maritime business park converted from a former Royal Marines base has opened five new marine enterprise units and is now home to 25 companies including a £1million base for defence giant Thales.
+
+Under the ownership of Yacht Havens Group since 2014, Turnchapel Wharf has been transformed from an ex-Ministry of Defence site into a thriving waterfront business hub.
+
+Based on Plymouth’s Cattewater, a number of international firms are already based at Turnchapel including major international maritime businesses such as Fugro, Princess Motor Yacht Sales and Thales with its Maritime Autonomy Centre where it tests robotic boats mainly for dealing with sea-borne mines.
+
+The new units provide more than 800sq ft of workshop and office space for five businesses, as well as providing access to a range of marine facilities at Turnchapel Wharf.
+
+Each unit measures 220sq ft with a large rolled shutter door, and all five were rented off-plan to businesses.
+
+Yacht Havens Group managing director Dylan Kalis said: “We are continuing to develop the site to ensure it is meeting the requirements of a variety of marine business owners.
+
+“These new units provide a new base for five more local businesses, and we will continue to look for opportunities to support these companies as they grow.”
+
+Mr Kalis added: “Turnchapel Wharf is now home to more than 25 thriving marine businesses from SMEs to large international firms developing the latest in maritime technology and marine autonomy.
+
+“Since we purchased the site in 2014 from the Ministry of Defence, Turnchapel Wharf has undergone a major transformation and we’re extremely proud of the maritime business hub it has now become. We still prosper ambitions to develop more parts of the site and ensure Plymouth remains at the forefront of the changing marine industry.”
+
+One of the new tenants is Elite Marine Engineering which has moved into one of the units after its first year of trading.
+
+Video Loading Video Unavailable Click to play Tap to play The video will auto-play soon 8 Cancel Play now
+
+Lewis Huddy and Steve Putt, who started the company in 2018, said: “We started off with a just a storage container at Turnchapel Wharf, now a year on we have grown into our first premises.
+
+“With our new unit we have a lot more space where customers can bring their boats or engines to us where we are able to offer minor repairs to full engine rebuilds from our full equipped workshop.”
+
+With Turnchapel Wharf becoming a hub for marine businesses, Mr Huddy has also witnessed further examples of how neighbouring companies are working closely together.
+
+“Next door to there is a boatbuilder, carpenter, GRP specialists and electrical engineers,” he said. “As a result, we work closely with all these companies to offer customers a complete solution for their boats.
+
+How to contact William Telford and Business Live Business Live's South West Business Reporter is William Telford. William has more than a decade's experience reporting on the business scene in Plymouth and the South West. He is based in Plymouth but covers the entire region. To contact William: Email: william.telford@reachplc.com - Phone: 01752 293116 - Mob: 07584 594052 - Twitter: @WTelfordHerald - LinkedIn: www.linkedin.com - Facebook: www.facebook.com/william.telford.5473 Stay in touch: BusinessLive newsletters have been re-designed to make them even better. We send morning bulletins straight to your inbox on the latest news, views and opinion in the South West. Get our breaking news alerts and weekly sector reviews too. Sign up now - it's free and it only takes a minute. To sign up for Business Live's daily newsletters click here. And visit the Business Live South West LinkedIn page here
+
+
+
+“The businesses here have become a close-knit community supporting each other and working together for the good of the industry.”
+
+Elec Marine Ltd has also taken occupancy of one of the new units. The marine electronics firm joined Turnchapel Wharf in 2015 with in a smaller office and workshop, but has now moved into a much larger facility.
+
+Jon Rickard, company director, said: “Turnchapel Wharf is an outstanding location to base our business. The quality of facilities and the unique mix of leading marine businesses has helped us to grow as business over the past five years.”","{'label': 'Neutral', 'score': 0.9999624490737915}",neutral,0.9999624490737915,0

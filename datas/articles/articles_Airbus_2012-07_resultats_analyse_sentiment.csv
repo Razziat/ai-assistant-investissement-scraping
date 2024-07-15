@@ -1,0 +1,896 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Airbus plans new factory in Alabama - Jul. 2, 2012 - CNN","Mon, 02 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbW9uZXkuY25uLmNvbS8yMDEyLzA3LzAyL25ld3MvY29tcGFuaWVzL2FpcmJ1cy1mYWN0b3J5LWFsYWJhbWEvaW5kZXguaHRt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus' first U.S.-based production facility, which will build A320 Family jetliners at the Brookley Aeroplex in Mobile, Alabama, beginning in 2015, will eventually produce between 40 and 50 aircraft annually.
+
+NEW YORK (CNNMoney) -- European aircraft manufacturer Airbus announced plans Monday to build a new facility in Alabama to produce commercial airliners.
+
+Adam Buck, a spokesman for the mayor of Mobile's office in Alabama, said the $600 million facility will begin construction next year and will generate 1,000 permanent new jobs. It will be located on the site of a former Air Force base, where Airbus already has an engineering facility, Buck said.
+
+
+
+
+
+
+
+
+
+The facility, Airbus' first manufacturing plant in the western hemisphere, will construct the company's A320 line of single-aisle aircraft, according to a statement distributed by the Alabama governor's office.
+
+""The time is right for Airbus to expand in America,"" Airbus President & CEO Fabrice Bregier said in the statement. ""Mobile is now becoming part of Airbus' global production network, joining our successful and growing assembly lines in Hamburg, Toulouse and Tianjin.""
+
+Construction will begin next year, with aircraft assembly projected to begin in 2015. By 2017, the plant is expected to churn out between 40 and 50 planes per year, the statement said.
+
+Planes in the A320 family seat between 107 and 220 passengers, and are used ""from very short-haul airline routes to intercontinental segments,"" Airbus says.
+
+Airbus chief operating officer John Leahy told CNNMoney that having a U.S. manufacturing presence would help the company compete for new business as American airline companies replace their aging fleets.
+
+""All things being equal, even if we have a better product, they tend to stay with a U.S. manufacturer,"" Leahy said. ""A good way to get a bigger place in that replacement market is not just to have the best airplane, but to have the best airplane built in America.""
+
+Monday's announcement represents a new challenge to industry rival Boeing (BA, Fortune 500) in the market for U.S. commercial jets. Some analysts believe the Mobile facility will also allow Airbus' parent company, EADS, to compete with Boeing for U.S. defense contracts.
+
+EADS had bid in 2010 for a contract to construct Air Force refueling tankers, planning to produce them in Mobile, but the contract ultimately went to Boeing.
+
+Alabama's manufacturing sector has enjoyed surging growth over the past five years thanks to the state's low taxes, high-quality trade schools and union-weakening legislation. In addition to Airbus, firms including Boeing, Hyundai, Honda (HMC) and truck manufacturer Navistar (NAV, Fortune 500) are expanding in the state.","{'label': 'Neutral', 'score': 0.9885262250900269}",neutral,0.9885262250900269,0
+Airbus starts production of the A320neo Family - Airbus,"Sun, 08 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxMi0wNy1haXJidXMtc3RhcnRzLXByb2R1Y3Rpb24tb2YtdGhlLWEzMjBuZW8tZmFtaWx50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Summary
+
+First metal-cut takes place in Toulouse on engine pylon
+
+Pylon first metal cut - A320neo family<br /> Airbus started production for its eco-efficient A320neo (new engine option) jetliner family with machining of the first engine pylon component at the company’s Saint-Eloi site in Toulouse, France
+
+The first 'cutting of metal' for the Airbus A320neo has taken place in Toulouse. Marking the start of manufacturing of the airliner, machining began of the first engine pylon component at the “Saint-Eloi” Airbus dedicated pylon and nacelle factory in Toulouse.Pylons are structures which hold the engine to the wing. The new pylon for the A320neo retains high commonality with the existing A320’s pylon design, while also incorporating more titanium as well as some advanced architectures developed for the A380 pylon. In addition, the new component also features an advanced ‘aft-pylon-fairing’ concept specifically tailored for the more fuel efficient NEO engines.Tom Williams, Executive Vice President of Programmes at Airbus said: “This first metal cut of the engine pylon component for the A320neo heralds the completion of the design phase and start of production for the world’s fastest selling airliner. We are excited to be already starting manufacture of the world most eco-efficient single-aisle airliner today.”The Airbus Saint-Eloi site is specialised in the design, manufacturing, assembly, equipping and testing of engine pylons and design and manufacturing of titanium nacelle parts for all the aircraft in the Airbus family. Featuring the latest efficient ‘moving-line’ lean-production concept, the facility is also the leading European centre for hard metals machining and transformation, including titanium.The A320neo ‘new engine option’ for the A320 Family will enter into service from late 2015. It incorporates latest generation engines and large Sharklet wing-tip devices, which together with the new engines will deliver up to 15 percent in fuel savings. With more than 1,400 firm orders since its launch in 2010, the A320neo Family has proven to be the fastest selling commercial aircraft programme ever.Airbus is the world’s leading commercial aircraft manufacturer producing the most modern and efficient airliners in every category, from the single-aisle A320 Family up to the world’s largest airliner, the A380. Airbus has design and manufacturing facilities in France, Germany, the UK, and Spain as well as subsidiaries in the US, China, Japan and in the Middle East. Headquartered in Toulouse, France, Airbus is an EADS company.","{'label': 'Neutral', 'score': 0.9975308775901794}",neutral,0.9975308775901794,0
+Boeing announces 737 Max jet deal as it bids to beat Airbus - The Guardian,"Mon, 09 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDEyL2p1bC8wOS9ib2VpbmctdGhlYWlybGluZWluZHVzdHJ50gFKaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMTIvanVsLzA5L2JvZWluZy10aGVhaXJsaW5laW5kdXN0cnk?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing has announced a $7.2bn (£4.6bn) order for its next-generation shorthaul jet, the 737 Max, in its drive to trump Airbus in the commercial aircraft market this year.
+
+The deal was unveiled at the Farnborough air show, where the aerospace industry's importance to the UK economy is being underlined by a wave of ministerial visits – led by David Cameron on Monday morning. Opening the show, Cameron said aerospace was a ""real success story"" and ""a vitally important industry in the UK and for the future of our country and our economy"".
+
+The UK accounts for around 15% of Airbus's commercial aircraft production but it was US-based Boeing that took first advantage at Farnborough with an order from Air Lease Corporation (ALC), run by jet-leasing entrepreneur Steven Udvar-Hazy. ALC has placed a firm order for 75 737 Max planes, the revamped and more fuel-efficient version of a jet widely used by the likes of Ryanair, with rights to buy 25 more — bringing the potential value to more than $7bn.
+
+The announcement takes the number of firm orders for the 737 Max to 539, still some distance behind Airbus and its A320neo, a re-jigged version of its A320 shorthaul workhorse, which has more than 1,300 orders. Asked when the 737 Max will overtake its rival, the new head of Boeing's commercial division, Ray Conner, said: ""We are just going to keep plugging away and see where we end up.""
+
+Udvar-Hazy is a pioneer of the aircraft leasing trade, where airlines rent jets rather than acquire them. It allows carriers to obtain aircraft without paying for them up front and gives airlines the flexibility to hand aircraft back after five to six years if business dips, or keep them on if demand remains strong.
+
+Udvar-Hazy said the 737 Max ""meets the needs"" of a modern airline by being up to 13% cheaper to operate than its precursor.
+
+Fuel accounts for around a third of airline operating costs, double the proportion a decade ago, and the 737 Max and A320 neo have been well received by carriers striving to stay profitable amid high fuel prices and weak demand.
+
+The deal represents a turnround for Boeing in the wake of comments by Udvar-Hazy at the start of the year, when he expressed doubts about the revamped 737. However, the billionaire ALC chief executive said Boeing had since come back with a ""really refined design"" including tweaks to the aircraft's fuselage and tail sections to make it more fuel-efficient.
+
+Despite the A320neo's long lead, Boeing expects to edge Airbus in total commercial aircraft orders this year. Last year saw Airbus book a record number of net orders, for 1,419 aircraft compared with Boeing's 805.
+
+However, following that initial flurry of 320neo orders, Boeing is expected to ensure a closer finish in 2012. Another 737 Max order is reportedly imminent from a further aircraft leasing company, Kuwait-based Aviation Lease & Finance, while US carrier United-Continental is also a mooted buyer. The ALC firm orders are comprised of 60 for the 737 Max-8 and 15 for the 737 Max-9 variant, which can cover longer distances.","{'label': 'Positive', 'score': 0.9999442100524902}",positive,0.9999442100524902,1
+Airbus to build manufacturing plant in the USA - Professional Engineering,"Mon, 02 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmltZWNoZS5vcmcvbmV3cy9uZXdzLWFydGljbGUvYWlyYnVzLXRvLWJ1aWxkLW1hbnVmYWN0dXJpbmctcGxhbnQtaW4tdGhlLXVzYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Engineering news
+
+In a major strategic announcement today, Airbus said it will establish a manufacturing facility in the United States to assemble and deliver A320 Family aircraft. Located at the Brookley Aeroplex in Mobile, Alabama, it will be the company’s first US-based production facility. Airbus stressed that the assembly line, which will create jobs and strengthen the aerospace industry, is part of its strategy to enhance the company's global competitiveness by meeting the growing needs of its customers in the United States and elsewhere.
+
+The facility in Alabama will assemble the A319, A320 and A321 aircraft. The company said construction of the assembly line will begin in summer 2013. Aircraft assembly is planned to start in 2015, with first deliveries from the Mobile facility beginning in 2016. It is anticipated that the facility will produce between 40 and 50 aircraft per year by 2018.
+
+Airbus president and chief executive Fabrice Brégier said: “The time is right for Airbus to expand in America. The USA is the largest single-aisle aircraft market in the world – with a projected need for 4,600 aircraft over the next 20 years - and this assembly line brings us closer to our customers. Mobile is now becoming part of Airbus’ global production network, joining our successful and growing assembly lines in Hamburg, Toulouse and Tianjin.
+
+Alabama Governor Robert Bentley said: “When Airbus aircraft take to the skies, our pride and workmanship will soar along with them. This project will create 1000 stable, well-paying jobs that the people of this area need and deserve. Alabama has the best workforce you’ll find anywhere in the U.S. Airbus has recognized all that this state can offer expanding industries, and the company is making a significant new investment in Alabama. Airbus and its parent company, EADS, have been great citizens of Alabama for years now, and we are excited to build on our wonderful relationship.”
+
+Airbus already has a strong and growing presence in Alabama and throughout the USA, currently employing more than 1,000 workers.","{'label': 'Positive', 'score': 0.9999974966049194}",positive,0.9999974966049194,1
+Airbus' announcement makes Mobile a star attraction in London - AL.com,"Sun, 08 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFsLmNvbS9saXZlLzIwMTIvMDcvYWlyYnVzX2Fubm91bmNlbWVudF9tYWtlc19tb2JpLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"LONDON -- This is what momentum looks like: An ornate dining hall packed with industrial titans, heads of state and a global cast of movers-and-shakers, all drawn like moths to the flame that is Mobile, Alabama.
+
+The city became the hottest story in the aerospace world just a week ago, when Airbus announced its plans to construct a $600 million aircraft assembly plant at the Brookley Aeroplex.
+
+The project would vault Mobile into an elite group of cities that produce large aircraft, sending economic ripples across the Southeastern U.S. as suppliers and related businesses spring up around the new plant. It also turned a low-key reception on the eve of the Farnborough International Air Show into a can’t-miss event that drew some of the biggest names in aerospace.
+
+The party was hosted by the Aerospace Alliance, a trade association representing the states of Alabama, Florida, Louisiana and Mississippi. Guests sipped champagne in the regal Banqueting House at Whitehall Palace and rubbed shoulders with executives from Airbus, Rolls-Royce, Raytheon and dozens more companies hoping to win business selling parts and services to the new plant, set to begin production of A320 aircraft in 2016.
+
+“What happened last Monday in Mobile is good for all of the Gulf Coast, from Florida to Louisiana,” said U.S. Sen. Richard Shelby, R-Tuscaloosa, who led a delegation of a half-dozen senators to the event.
+
+The reception included a big delegation from Huntsville, long established as one of country’s top aerospace communities. But Mobile’s newfound status is already the talk of air show, set to open Monday morning outside London.
+
+“Mobile and Airbus have completely stolen the headlines and the momentum from Boeing,” said Michel Merluzeau, an aerospace analyst from Kirkland, Washington, who scored a ticket to the Sunday reception. “This is without question the place that everybody wants to be -- and Boeing is nowhere to be seen.”
+
+Gov. Robert Bentley, in a brief introductory speech, told the audience of about 500 that the American South was the best place in the world to do business.
+
+“The Southern states are where it is, folks,” he said. “Southern workers are the very best and the hardest working people in the country. We produce the best cars, the best rockets and the best ships -- now we’re going to produce the best airplanes.”
+
+Mississippi Gov. Phil Bryant echoed those comments, saying the Gulf Coast states worked closely together in support of a previous project that could have brought an aircraft assembly plant to Mobile. Airbus’ parent company, the European Aeronautic Defence and Space Co., proposed to build refueling tankers for the U.S. Air Force at Brookley, but scrapped those plans after losing the contract to Boeing Co. in a tough, politically charged competition.
+
+“We are unified when it comes to business development and creating a new aerospace corridor across the South,” Bryant said. “Now, luckily this isn’t about football, because we do have some disagreements about that.”
+
+One late arrival was Fabrice Bregier, the Airbus president who made the announcement last week in Mobile. Bregier, accompanied by his wife, said he was overwhelmed by the reception he received in Alabama.
+
+“I felt it was home, but Monday I knew it was home,” he said. “It was a fantastic day and the beginning of a great partnership.”
+
+Members of the Mobile delegation, led by Mayor Sam Jones and U.S. Rep. Jo Bonner, said they’ve got a full dance card of meetings with prospects beginning early Monday at the air show.
+
+On Sunday, as one guest after another raised a glass in toast to Mobile, the city’s future may have never looked brighter.
+
+“We’re trying to seize the momentum,” Jones said. “We may never see another opportunity like this in our lifetimes, so it’s important that we make the most of it.”","{'label': 'Neutral', 'score': 0.9997877478599548}",neutral,0.9997877478599548,0
+"Foosackly's chicken fingers fun in advertising: A 'hand' for Airbus, a 'finger' for Boeing - gulflive.com","Mon, 02 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lmd1bGZsaXZlLmNvbS9taXNzaXNzaXBwaS1wcmVzcy1uZXdzLzIwMTIvMDcvYV9oYW5kX2Zvcl9haXJidXNfYV9maW5nZXJfZm9yLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"MOBILE, Alabama -- Almost exactly four years ago, local chicken finger chain foosackly's raised eyebrows and prompted chuckles for its infamous message from owner Will Fusaiotti: ""We would like to offer Boeing a finger.""
+
+Originally appearing on a restaurant marquee, the clever quip came right after the team of EADS North America and Northrop Grumman Corp. lost a round in the U.S. Air Force tanker refueling contract saga to Boeing.
+
+The EADS team would have built the tankers at Brookley Aeroplex in Mobile.
+
+The ""finger"" buzz ended up spawning bumper stickers, billboards and T-shirts, and more than 120 were sold on its website to buyers from as far away as California, Illinois and naturally -- France, where Airbus is based and its parent company, the Europeam Aeronautic Defence and Space Co. has major operations.
+
+Today, in light of Airbus's announcement that it will build a $600 million plant in Mobile, foosackly's unveiled Part Two of its ""finger"" campaign. It included stickers, billboards and such with the slogan ""We'd like to offer Airbus a hand.""
+
+In the new version, five foosackly's chicken fingers form a ""hand,"" ala Popeye's Rip'n Chicken. Foosackly's boxed lunches were provided today to media from around the region and nation, and all were adorned with the ""hand"" stickers.
+
+Mobile's own Red Square agency is a big part of the engine responsible for taking the idea and running with it, an approach Red Square's Rich Sullivan calls ""Gonzo"" marketing.","{'label': 'Neutral', 'score': 0.9999831914901733}",neutral,0.9999831914901733,0
+Airbus picks up steady flow of orders - Yahoo News,"Thu, 12 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vYWlyYnVzLXBpY2tzLXN0ZWFkeS1mbG93LW9yZGVycy0xMDA4MjQwNjAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Omega Tanker aircraft is seen parked on the tarmac on the third day at the Farnborough International Airshow, in Farnborough, England, Wednesday, July 11, 2012. (AP Photo/Lefteris Pitarakis)
+
+FARNBOROUGH, England (AP) -- Airbus picked up a steady flow of orders at the Farnborough Airshow Thursday worth a potential $6.35 billion ahead of an expected big announcement from arch-rival Boeing.
+
+The four deals, if completed, take Airbus' total by the fourth day of the U.K. airshow to $16.9 billion.
+
+That's way down on last year's record total at the Paris Airshow of $72 billion— the French capital and alternate aviation industry showcase venue with Farnborough.
+
+The decline in orders is no surprise given the gloomy global economic backdrop and the scale of last year's success, when the European aircraft manufacturer trumped Boeing with a series of deals for its revised short-haul aircraft, the A320neo.
+
+""The quality of orders at Farnborough has been high at the show, with significant endorsement from leading customers of our strategy to continuously innovate and improve our products,"" said Fabrice Bregier, Airbus's Chief Executive Officer.
+
+On Day 4, Airbus revealed that Russian carrier UTair has ordered 20 short-haul A321s in a deal is valued at $2 billion at list prices. The deal, which is firm, represents, the largest order for the type received from a carrier in the region and the first time that UTair has ordered Airbus aircraft.
+
+Airbus also announced that Synergy Aerospace, a Latin American company, has firmed up a previous $1.9 billion order for nine long-haul A330 planes. In addition, it said Middle East Airlines has signed a memorandum of understanding to buy 10 A320neo aircraft, worth $1 billion at list prices, and that Irish leasing company Avolon has committed to buy 15 A320neo aircraft, worth $1.45 billion at list prices.
+
+Customers rarely pay the full list price when ordering big.
+
+Boeing, which was tipped to make a comeback at Farnborough this year after last year's order book fell short of expectations, is later poised to reveal details of a deal with United Airlines. It already has announced more firm and committed orders than Airbus at this year's show.","{'label': 'Neutral', 'score': 0.7306071519851685}",neutral,0.7306071519851685,0
+Meet the A320 (Airbus Facts) - al.com - AL.com,"Sun, 01 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmFsLmNvbS9saXZlLzIwMTIvMDcvbWVldF90aGVfYTMyMF9haXJidXNfZmFjdHMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus, a subsidiary of the European Aeronautic Defence and Space Co., could on Monday unveil a proposal to assemble A320-family aircraft at Mobile's Brookley Aeroplex.
+
+Airbus has long held an ambition to establish production on American soil, a move that would give the company a strategic foothold to compete against rival Boeing Co. and help it to balance its finances against global currency swings.
+
+The anticipated project could represent several hundred million dollars in investment and hundreds of jobs.
+
+Airbus said in March that it will hire at least 25 percent women among its 4,000 new recruits in 2012.
+
+Airbus said it spent $12 billion in the United States in 2011.
+
+An Airbus A320 was the plane flown as US Airways Flight 1549, Jan. 15, 2009. After a too-close encounter with a flock of geese, pilot Capt. Chesley Sullenberger ditched the plane in the Hudson River just minutes after takeoff. All 150 passengers and five crew survived.
+
+Airbus is now offering extra wide seats on its A320 jetliners. The standard A320 seat measures 18 inches wide, grouped in sets of three. In the new extra-wide style, the aisle seat is expanded to 20 inches, compensated by a 1-inch reduction in each of the remaining two. The larger seats would let carriers charge customers higher prices for the option. Airbus is pitching the idea to several U.S. airlines, according to Bloomberg. Airbus also hopes the move could better position its A320 jets against Boeing’s 737, which have 17-inch-wide seats.
+
+American Airlines ordered 130 A320neos in July 2011, breaking the airline’s history of having an all-Boeing fleet.
+
+AirAsia placed an order for 200 A320neos in June 2011, the largest commercial aviation order on record at the time.
+
+Airbus delivers
+
+For 2011, Airbus delivered 534 commercial aircraft to 88 customers, 10 of which were new. Deliveries included 421 single-aisle aircraft.
+
+Airbus booked 1,419 orders in 2011, making that year the most successful in the company’s history.
+
+A January 2011 Virgin America order for 60 A320s, half of them the A320neo, pushed Airbus over the 10,000 mark for planes ordered.","{'label': 'Neutral', 'score': 0.9422248601913452}",neutral,0.9422248601913452,0
+Airbus to take measures after Rio-Paris crash report - RFI English,"Thu, 05 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJmaS5mci9lbi9hbWVyaWNhcy8yMDEyMDcwNS1haXJidXMtdGFrZS1tZWFzdXJlcy1hZnRlci1yaW8tcGFyaXMtY3Jhc2gtcmVwb3J00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"France - Brazil
+
+Airbus said on Thursday that it would take all necessary measures, after a French accident investigation report into the 2009 crash of an A330 jet from Rio de Janeiro to Paris in which 228 people died, partly blamed the plane’s ergonomics.
+
+Advertising Read more
+
+Airbus said it had “already started work at an industrial level to reinforce demands concerning the Pitot speed sensors”, which were also called into question by the investigation.
+
+The final report released on Thursday by the French aviation safety authority, BEA, said the plane crashed into the Atlantic because of both human and technical failings.
+
+The report made 25 new safety recommendations on top of the 25 called for in a July 2011 report.
+
+BEA said the drama began with the malfunctioning of speed sensors, known as Pitots, manufactured by the French company, Thales, which have since been replaced on Airbus planes.
+
+The crew was in a state of almost total loss of control of the situation, the investigation chief Alain Bouillard told journalists
+
+The BEA report stressed the importance of “pilots’ training, so that they have a better knowledge of the plane’s systems in the event of an unusual destination.”
+
+The report’s findings were eagerly awaited amid a bitter row between Airbus and Air France over who ultimately bears responsibility for the crash.
+
+Air France has insisted the pilots were not to blame, saying the stall alarm had malfunctioned.
+
+French magistrates are investigating Air France and Airbus for alleged manslaughter in connection with the crash.
+
+Victims’ families had previously alleged that the involvement of big French corporations, such as Airbus and Air France was influencing the probe into the causes of the disaster.
+
+A separate judicial report is to be presented to families next Tuesday.
+
+Daily newsletterReceive essential international news every morning Subscribe","{'label': 'Negative', 'score': 0.5172584056854248}",negative,0.5172584056854248,-1
+Boeing's twin-aisle product strategy provides better segment coverage than Airbus - Leeham News and Analysis,"Fri, 06 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxMi8wNy8wNi9ib2VpbmdzLXR3aW4tYWlzbGUtcHJvZHVjdC1zdHJhdGVneS1wcm92aWRlcy1iZXR0ZXItc2VnbWVudC1jb3ZlcmFnZS10aGFuLWFpcmJ1cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing’s airplane strategy has shifted its focus to twin-aisle aircraft with the decision to proceed with the 737 MAX, says Nicole Piasecki, vice president of Business Development & Strategic Integration for Boeing Commercial Airplanes.
+
+BCA has some critical tasks and choices ahead:
+
+Complete the design and get into production the 787-9;
+
+Launch the 787-10; and
+
+Decide what to do to enhance the 777 to compete with the Airbus A350-1000.
+
+Although launching the 787-10 is considered by most to be a foregone conclusion, it hasn’t happened yet. And although Boeing has been showing some reasonably detailed concepts around about the 777-8X, a 350-passenger replacement for the 777-300ER, and the 777-9X, a 407 passenger aircraft, neither concept is firm—and, according to one airline fleet planner, it’s not even clear Boeing will do much more than simply re-engine the current 777-300ER.
+
+Nonetheless, Piasecki showed a group of reporters the Boeing product planning in a pre-Farnborough Air Show briefing that clearly demonstrates Boeing has better market segment coverage than Airbus today or potentially in the future. (Click to enlarge.)
+
+“We are very happy with this line-up on the left, which very strongly leverages three families of products. When we go to market our ability to offer this product,” Piasecki said. “Customers are looking for airplanes that fit their route network.”
+
+This has led Boeing to somewhat modify its wide-body strategy.
+
+“If they don’t have to carry around so much fuel because they are only flying 5,000 miles, they no longer want that airplane [with more capability]. A year ago…I said all our wide-body airplanes were going to line up at 8,000-8,200nm. Our thinking has shifted…to offering twin aisle airplanes that have 10-15% seat capacity increments because that’s generally where an airline will decide to up-gauge. There is up-gauging going on it the market. We begin to think about difference in ranges within the family. We have a mid-range…and a longer-haul wide-body market. Both are very viable.”
+
+This is the basis on which the 787-10 is currently going to have a range of about 6,900nm. It’s also the strategy Airbus outlined as it promoted the A330-300 as an airline ideally suited for intra-Asia, mid-range trans-ocean and mid-range European routes. Once an aircraft with a modest, intermediate range, the A333 has been improved to a range of not quite 6,000nm. This is well short of the planned range for the 787-10, but it is more than enough for most routes.
+
+Boeing’s illustration above clearly shows the Airbus gaps, one of which is particularly acute between the 350-seat A350-1000 and the 525-seat A380. (It should be noted that airlines often configure the A380 in the high 400s and one, Korean, even as low as about 410. Likewise, Lufthansa–so far the only operator of the 747-8I–configured the airplane for about 380 passengers.)
+
+The 777-9X, if it proceeds as currently being shown to airlines, has a three-class capacity of 407, thrusting it into the lowest end of the Very Large Airplane (VLA) category (>400 seats) that currently is occupied by the 747-8I and the A380.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Neutral', 'score': 0.9971073269844055}",neutral,0.9971073269844055,0
+Farnborough Airshow wrap: Airbus fight back futile against Boeing momentum - Aerospace Technology,"Mon, 09 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFlcm9zcGFjZS10ZWNobm9sb2d5LmNvbS9mZWF0dXJlcy9mZWF0dXJlZmFybmJvcm91Z2gtYWlyc2hvdy1haXJidXMtYm9laW5nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing has secured a major deal with Air Lease Corp for the sale of 75 737 MAX aircraft, with Air Lease Corp CEO Steven Udvar-Hazy heralding design improvements made to the jets in recent months.
+
+The order will comprise of 60 737-8 MAX aircraft and 15 737-9 airliners, with deliveries scheduled to start in 2018 and run through to 2022. ALC will also reserve options for a further 25 MAX aircraft, with Udvar-Hazy adding: ""We have done an exhaustive analysis of this aircraft and it shows a performance improvement of 12-13% over the 737-8 and 737-9.
+
+""The MAX is a wonderful replacement for the classic 737s and other single-aisle aircraft around the world.""
+
+Boeing revival after Paris washout
+
+""The faltering eurozone economy and slow growth in China are being blamed for the subdued level of commitment seen at the show.""
+
+The US-based aircraft manufacturer followed up ALC’s order by announcing that aircraft leasing firm GECAS had committed to purchase 100 737 aircraft, comprising of 75 MAX 8s and 25 Next-Generation 737-800s. Ray Conner, Boeing Commercial Airplanes president, heralded the importance of the fuel-efficient aircraft, stating: ""This commitment confirms the value of the 737 MAX in today’s competitive marketplace.""
+
+
+
+The orders mark a significant turn around in fortunes for Boeing after it suffered at the hands of Airbus’s A320neo aircraft at the Paris Air Show in 2011. Boeing ended the event trailing in terms of orders and is still behind the A320, but the early activity and Uvdar-Hazy’s endorsement of the aircraft is likely to boost Boeing.
+
+Airbus did, however, respond with the announcement of a potential $4.2bn order for its A350 passenger jet from Hong Kong-based airline Cathay Pacific. The order comprises of ten new A350-1000 aircraft, with Cathay Pacific converting an existing order for 16 A350-900 aircraft to the larger A350-1000 model.
+
+Airbus may also take solace from further endorsements for its Sharklet winglet devices. Etihad Airways has now decided to take some of the A320s it had on order with the Sharklet winglets, which Airbus claim can provide around 3.5% fuel burn improvement on long-range flights. Of the 20 A320s Etihad has on order, 17 will now be delivered with the devices.
+
+Warnings of subdued show
+
+Despite the flurry of early activity, there have been warnings for those who have expected surprise announcements of lucrative orders or investment. Although both Airbus and Boeing have made eye-catching announcements, both orders were documented prior to the show’s opening, with both manufacturers falling behind the levels previously set at Paris 2011.
+
+The faltering eurozone economy and slow growth in China are being blamed for the subdued level of commitment seen at the show, despite airlines feeling the need to modernise fleets in order to reduce the impact of high fuel costs.
+
+Politicians visit Farnborough to boost UK aerospace
+
+Whilst aerospace delegations have continued to swarm towards Farnborough, UK Prime Minister David Cameron toured Farnborough on its opening day in order to push exports of the Eurofighter Typhoon. Senior delegates from Malaysia, Oman and Saudi Arabia were briefed as to the Typhoon’s capabilities.
+
+""The UK Government is to provide financial support of £120m, with £40m earmarked for the Siloet programme.""
+
+David Cameron’s visit was followed up by the presence of Business Secretary Vince Cable on the second day of the show, who visited to announce an investment of £120m in aerospace research and technology.
+
+The UK Government is to provide financial support of £120m, with £40m earmarked for the Siloet programme into advanced low-carbon engines research, which is currently led by Rolls-Royce, with Cable adding: ""I don’t feel embarrassed to say we want to support this industry and that it is a winner.""
+
+Work into the Siloet programme will focus on light-weight materials, lean-burn systems and advanced components.
+
+The financial support will also include £60m for a new aerodynamic centre to be established in the UK, with £15m to be invested into 11 further research and development technologies within the UK. A further £3m will be allocated to fund 500 additional places for aeronautical engineers to take Masters degrees.","{'label': 'Positive', 'score': 0.995688259601593}",positive,0.995688259601593,1
+Airbus Spreads Its Wings in Alabama - CNBC,"Mon, 02 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmNuYmMuY29tL2lkLzQ4MDQ1MDEy0gEkaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wL2lkLzQ4MDQ1MDEy?oc=5&hl=en-US&gl=US&ceid=US:en,"The company announced the new plant with state and local leaders in Alabama. Airbus is investing $600 Million into building the plant which will eventually employ approximately 1,000 workers. After considering a final plant in the U.S. for seven years, the European plane maker finally decided to commit to the U.S.
+
+“The town is right, the talent is right, and the time is right,“ said Fabrice Bregier, CEO of Airbus.
+
+For Alabama, the U.S. and Airbus adding a final assembly plant in Mobile is a big deal. Commercial airplane final assembly plants are among the most coveted manufacturing operations in the world, primarily because they generate so many jobs directly and indirectly. Another factor is the scarcity of commercial airplane final assembly plants. For Airbus, this will be just its fourth in the world, joining one in Germany, one in France, and another in China.
+
+“This will shape the future of the region for years to come,” said Alabama Governor Robert Bentley.
+
+For the U.S. economy and manufacturers, the Alabama plant is confirmation that the cost and efficiencies of building original products in the U.S. makes sense for global companies. While the U.S. used to be considered too expensive for many manufacturers, the lower dollar combined with skilled labor and manufacturing efficiencies now make building in the America a smart decision.
+
+The new plant is expected to be up and running by 2015 when it will start producing new Airbus A320 models. The A320 is a popular narrow body plane flown on short and medium haul routes. Airbus has 3,293 on backlog and that number could grow later this decade as airlines around the world upgrade from older A320 models to the new A320neo, which will be 15 percent more fuel efficient. The A320 family is also at the heart of an intense battle between Airbus and Boeing for dominance of narrow body plane market.
+
+In announcing the new plant in Mobile, Airbus CEO Fabrice Bregier acknowledged American Airlines , U.S. Airways and Virgin America have ordered Airbus planes.
+
+-By CNBC's Phil LeBeau
+
+@Lebeaucarnews","{'label': 'Neutral', 'score': 0.9997993111610413}",neutral,0.9997993111610413,0
+Cathay Pacific Orders 10 Airbus A350-1000 Widebody Jets - NYCAviation,"Wed, 11 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55Y2F2aWF0aW9uLmNvbS8yMDEyLzA3L2NhdGhheS1wYWNpZmljLW9yZGVycy0xMC1haXJidXMtYTM1MC0xMDAwLXdpZGVib2R5LWpldHMvMjM5MDXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Cathay Pacific Airways on Tuesday agreed to buy 10 Airbus A350-1000 aircraft, becoming the plane type’s launch customer.
+
+The Hong Kong-based carrier also converted 16 existing orders for A350-900s to the bigger -1000 variant.
+
+Cathay now has a total of 48 Airbus A350s on order. The airline will also lease two additional A350s.
+
+The A350-1000 recently underwent a design modification which will give it 600 nm additional range compared to the original mockups. It will carry 350 passengers in a three class layout up to 8,400 nm, ideal for Cathay’s long-haul ops to Europe and North America.
+
+Rolls-Royce Trent XWB engines delivering 97,000 lbs of thrust – the most powerful engines ever developed for an Airbus aircraft — will power the A350-1000.","{'label': 'Neutral', 'score': 0.9989615678787231}",neutral,0.9989615678787231,0
+Boeing wins $14.7 billion jet order from United - CNN,"Thu, 12 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbW9uZXkuY25uLmNvbS8yMDEyLzA3LzEyL25ld3MvY29tcGFuaWVzL2JvZWluZy11bml0ZWQvaW5kZXguaHRt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"United Airlines placed an order for 150 Boeing 737 jets, worth $14.7 billion.
+
+NEW YORK (CNNMoney) -- United Airlines on Thursday announced an order for 150 Boeing 737 jets, planes worth $14.7 billion at list prices.
+
+The dea, announced in Chicago, the corporate home for both companies, is for 100 of the 737 MAX 9, as well as 50 of the 737-900ER extended range jets. The airline will take delivery of the jets between 2013 and 2022. The deal also includes an undisclosed number of options for additional aircraft.
+
+
+
+
+
+
+
+
+
+Negotiations on the deal took about a year, said Jeff Smisek, CEO of United parent United Continental Holdings. He said the new jets will be more reliable and far more efficient, cutting fuel consumption by about 15% compared to the aircraft they replace.
+
+Boeing being the sole supplier of the order is a victory for the aircraft maker in its competition with European rival Airbus. When American Airlines ordered 200 of the 737 jets from Boeing two years ago, it also ordered an additional 260 A320 aircraft from Airbus.
+
+Smisek said that United had talked to both Airbus and Boeing before deciding to go only with Boeing on this order, its first since the 2010 merger of United and Continental.
+
+The order is the largest for Boeing since the record $22 billion sale of 230 of the various 737 models to Lion Air, the largest airline in Indonesia, in November 2011.
+
+The 737 MAX 9 will replace some A320 Airbus jets in the United fleet, but Smisek said that United has about 152 Airbus jets in its fleet and orders for 25 more, so ""we'll have Airbus for a long time."" The extended range 737's will be used to replace older, less efficient Boeing aircraft.
+
+Even though the order was announced in Chicago, it will be counted in Boeing's sales total at the Farnborough air show taking place outside of London. The company announced orders for 98 other 737 jets from Air Lease Corp. (AL) and Virgin Australia.
+
+There were also commitments for another 145 of the jets from GE Capital Aviation Services, the aircraft leasing unit of General Electric (GE, Fortune 500), and from overseas leasing companies ALAFCO and Avalon.
+
+Boeing said the value of all the orders and commitments since the start of the air show stands at $35.6 billion, although that does not include the undisclosed value of the Virgin Australia deal.
+
+By contrast, Airbus said it won about $16.9 billion worth of business for a total of 115 aircraft during the show.
+
+Shares of Airbus parent European Aeronautic Defence and Space Co. (EADSY) fell 1.2% in trading Thursday, while shares of Boeing (BA, Fortune 500), a Dow Jones industrial average component, slipped 0.5%, which was still better than the larger declines in blue chip indexes.
+
+Shares of United Continental (UAL, Fortune 500) fell 5%.","{'label': 'Neutral', 'score': 0.9999959468841553}",neutral,0.9999959468841553,0
+Airbus A400M tactical airlifter to get Thales TopOwl Helmet Mounted Sight and Display - The Aviationist,"Tue, 17 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTIvMDcvMTcvYTQwMC1obXNkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"During the Farnborough Airshow 2012, Thales announced that its TopOwl Helmet Mounted Sight and Display (HMSD) has been selected by the Operation for Joint Armaments Cooperation to be flight tested on the Airbus A400M “Atlas”.
+
+Scheduled between June 2012 and April 2013, the tests will have to validate the use of the HMSD by the military transport aircraft crew during night missions.
+
+Image credit: Thales
+
+TopOwl incorporates a night vision function: it provides the same levels of performance as the latest generation of night vision googles (NVG) with a significantly higher level of comfort for the wearer, enabling pilots to fly long missions in complete safety.
+
+The TopOwl visor-projected intensified night vision image is a vast improvement over conventional night vision optics by providing far superior environmental perception along with excellent peripheral vision (something lacking in other systems).
+
+TopOwl itself isn’t new, having already been combat proven in Afghanistan and Libya during night missions by attack helicopters, but it’s the first time the system is going to be used in a fixed wing aircraft.
+
+Richard Clements for TheAviationist.com
+
+Image credit: David Cenciotti
+
+Related Articles","{'label': 'Positive', 'score': 0.9999104738235474}",positive,0.9999104738235474,1
+Sales Activity at Air Show Expected to Be Subdued (Published 2012) - The New York Times,"Fri, 06 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTIvMDcvMDcvYnVzaW5lc3MvZ2xvYmFsL3NhbGVzLWFjdGl2aXR5LWF0LWFpci1zaG93LWV4cGVjdGVkLXRvLWJlLXN1YmR1ZWQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The titans of the global aerospace industry will converge Monday at the Farnborough International Airshow, ready to talk shop and wow the crowds with impressive flying displays of the latest in civil and military aircraft. But inside the sprawling maze of corporate chalets and exhibition halls in Hampshire, England, the pace of deal making at the show — the world’s biggest aviation bazaar — is likely to be more subdued than in recent years.
+
+The announcement earlier this week of plans by the European plane maker Airbus to invest $600 million in a final assembly line in the U.S. state of Alabama — its first industrial foray onto Boeing’s American turf — will almost certainly be the talk of the show, analysts said, and reflects the European jet maker’s confidence in the long-term prospects for the commercial jet market there and elsewhere.
+
+A frenetic buying spree by airlines over the past two years has left both Airbus and Boeing, the world’s two leading aircraft makers, with order books fat enough to keep their assembly lines humming for much of the next decade.
+
+In the near term, however, the airline industry’s future looks more uncertain than it did when the Farnborough show was last held, in 2010. A number of Europe’s major economies are in recession, and fears about the region’s debt crisis continue to reverberate globally. Worldwide airline profits are expected to shrink more than 60 percent this year to about $3 billion, despite steady demand for air travel and declining fuel bills as oil prices fall.","{'label': 'Negative', 'score': 0.9992780089378357}",negative,0.9992780089378357,-1
+The parable of the four-engined planes - The Economist,"Wed, 18 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vc2NodW1wZXRlci8yMDEyLzA3LzE4L3RoZS1wYXJhYmxlLW9mLXRoZS1mb3VyLWVuZ2luZWQtcGxhbmVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"By I.C.
+
+AN OLD friend in the aviation business, with years of experience with Greek clients, told me a story that serves as a parable for how the country got into its current state. It concerns the sale of four Airbus long-haul planes after the national flag carrier, Olympic Airways, went bust. In 2007 an American valuation consultancy, Avitas, put a value of $45m on each of the A340-300 planes, which were then eight years old and still airworthy. Offers by outside firms to handle the sale were turned down. Instead a special state-owned firm with hundreds of employees was established, just to flog the four surplus planes.
+
+
+
+In 2010 a small German airline called Cirrus offered $23m each for them. But the Greeks rejected this because of a rule that state assets could not be sold for less than 75% of their declared value. They then called for another expert valuation on the planes, which by then had been grounded for a year: the valuers marked them down to just $18m each.
+
+
+
+By then, this tiny part of the secondhand airliner market was becoming flooded with this type of four-engined aircraft, which had been made uneconomic by high fuel prices. This, and the deteriorating state of the grounded planes, pushed their value steadily lower. By 2012, after three years sitting unused and un-serviced in the humid atmosphere of Athens, the only offer was from Apollo Aviation in Miami, which wanted the planes for scrap. The Greek trade unions kicked up a fuss about state assets being flogged cheaply abroad. But the deal was eventually sealed by the new government earlier this month, with the planes being sold for just $10m each.
+
+
+
+So, a sale of surplus state assets that might have strengthened Greece's coffers by $180m in 2009 ends up raising just $40m, three years and two international bail-outs later. In part the most recent slump in value is because the buyer will have to spend up to $20m on repairs to make the planes fit enough to be ferried across the Atlantic with no passengers (which is cheaper than full restoration). At these prices it might have even been better to break them up for scrap in Athens: at least that would have provided a bit of work for jobless Greeks.","{'label': 'Neutral', 'score': 0.998694121837616}",neutral,0.998694121837616,0
+Airbus Military C295 carries MBDA Marte MK2/S anti-ship missile for first time | Press Release - MBDA,"Wed, 11 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1iZGEtc3lzdGVtcy5jb20vcHJlc3MtcmVsZWFzZXMvYWlyYnVzLW1pbGl0YXJ5LWMyOTUtY2Fycmllcy1tYmRhLW1hcnRlLW1rMnMtYW50aS1zaGlwLW1pc3NpbGUtZm9yLWZpcnN0LXRpbWUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Military and MBDA have successfully completed the first flight of the C295 maritime patrol aircraft with an instrumented Marte MK2/S anti-ship inert missile installed under the wing. The flight was the first of a series of trials planned in a joint Airbus Military – MBDA collaboration to validate the aerodynamic integration of Marte on the C295. Subsequent flights will include handling qualities tests and aircraft flight performance tests.
+
+This initiative successfully aligns with the Defence industry strategy shared by MBDA in Spain and Airbus Military.
+
+The MBDA Marte MK2/S missile is a fire-and-forget, all-weather, medium-range sea-skimming anti-ship weapon system, equipped with inertial mid-course guidance and radar homing terminal guidance, and capable of destroying small vessels and heavily damaging major vessels. The missile has a weight of 310 Kg and is 3.85 m long.
+
+In the anti-submarine warfare (ASW) role, the C295 is already in-service carrying the MK46 torpedo.
+
+The Marte Mk2/S is already integrated on the AW-101 and the NFH-90 naval helicopters.
+
+About the C295
+
+The new generation C295 is the ideal aircraft for defence and civic missions to the benefit of society, such as humanitarian actions, maritime patrol, and environmental surveillance. Thanks to its robustness, reliability and simple systems, this medium sized tactical airlifter provides the versatility and flexibility necessary for personnel, troop and bulk or palletized cargo transportation, medical evacuation, communication and logistic duties, and certified air-dropping capabilities. Its mix of dual technology civil/military equipment ensures success in demanding tactical missions, growth potential for systems development, as well as compatibility with the latest civil airspace requirements. The C295 is part of Airbus Military’s family of light and medium airlifters which also includes the smaller C212 and CN235.","{'label': 'Positive', 'score': 0.9991169571876526}",positive,0.9991169571876526,1
+Farnborough Airshow 2012 Boeing vs. Airbus Order Scorecard - NYCAviation,"Wed, 11 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55Y2F2aWF0aW9uLmNvbS8yMDEyLzA3L2Zhcm5ib3JvdWdoLTIwMTItb3JkZXItc2NvcmVjYXJkLzIzOTI10gEA?oc=5&hl=en-US&gl=US&ceid=US:en,The 2019 edition of the Paris Air Show is happening this week. The biennial show is traditionally a place where new aircraft are launched and new orders flow in. Follow along here all this week as we recap each day’s happ...,"{'label': 'Neutral', 'score': 0.9999934434890747}",neutral,0.9999934434890747,0
+The importance of fatigue analysis for Aerospace - Airbus A380 wing rib case history - Electronics Weekly,"Tue, 24 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5lbGVjdHJvbmljc3dlZWtseS5jb20vY2VydGlmaWNhdGlvbi1hbmQtdGVzdC9nZW5lcmFsLWNlcnRpZmljYXRpb24tYW5kLXRlc3QvdGhlLWltcG9ydGFuY2Utb2YtZmF0aWd1ZS1hbmFseXNpcy1mb3ItYWVyb3NwYWNlLWFpcmJ1cy1hMzgwLXdpbmctcmliLWNhc2UtaGlzdG9yeS0yMDEyLTA3L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"This post is by Graham Andrews, Analysis Commercial Manager at TRaC.
+
+Cracks were first discovered in December last year, on a Qantas-owned Airbus A380 that was being repaired after an engine explosion in Singapore. The Rolls Royce engine failure was caused by a fatigue failure in a fuel line pipe.
+
+The European Aviation Safety Agency EASA took steps and grounded 20 A380 aircraft for visual inspection. These aircraft were early-delivery airframes (airframes without engines). This initial directive allowed up to six weeks for visual inspections to be carried out on aircraft which had flown between 1,300 and 1,799 flights. Aircraft which had completed more than 1,800 flights had to be inspected within four days.
+
+
+
+
+
+
+
+
+
+During this initial round of checks, cracks were found in most of the aircraft. As a result EASA revised their Air Worthiness Directive requiring all 68 Airbus A380 aircraft in service to be inspected.
+
+Inspection of the wings was accomplished using high-frequency eddy current inspection equipment. This is a commonly used non destructive evaluation technique used to detect small surface cracks found on the Rib feet (L shaped brackets extending from the wing rib to the wing skin.)
+
+Checking the status of components allows you to investigate the current state of the components and the overall wing system, however an understanding of the loads the wing ribs are seeing during take off and landing is more valuable in order to predict the behaviour and measure the potential risks for failure.
+
+How is it possible that Airbus has so much confidence that these crack do not posses any significant danger? The answer is in advanced fatigue analysis which enables complex systems to be theoretically cycled through a lifetime of use in order to understand how the structure will cope with the predicted loadings it sees. This kind of analysis is done at the wing development stage in order to make sure it is going to meet performance targets at the physical testing stage.
+
+The A380’s structural static tests on began in November 2004, in preparation for the first flight clearance.
+
+The tests included: Flight Test Installation (FTI) calibration test, maximum wing bending at limit load, ailerons and spoilers functioning test during max wing bend, fuselage pressure test, and fatigue tests and flight cycles simulation.
+
+Fatigue testing examines how the aircraft structure responds to stress over a long period of time and during different stages of its operations, such as taxiing on the runway, take-off, cruising and landing.
+
+To re-create these conditions, a combination of loads is placed on the airframe and activated by 184 computer-operated hydraulic jacks. The A380’s fatigue testing lasted 26 months up and was conducted to 2.5 times the design service goal.
+
+Testing accumulated a total of 47,500 flight cycles: two and a half times the number of flights that an A380 would make in 25 years of operations. A 16-hour flight was simulated in just eleven minutes. The tests pushed the aircraft structure to its limits to identify any necessary design improvements.
+
+Final test and preparation for flight is a phase that includes calibration of the gauges, cabin pressurisation testing, and testing of navigation systems.
+
+TRaC has extensive experience in conducting both fatigue analysis studies and physical fatigue testing and has worked with many Aerospace, Rail and Automotive companies to ensure they meet the performance criteria.","{'label': 'Neutral', 'score': 0.9997900128364563}",neutral,0.9997900128364563,0
+Airbus Says MEA Proposes To Buy 10 Neo Jets - Naharnet,"Thu, 12 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm5haGFybmV0LmNvbS9zdG9yaWVzL2VuLzQ2MzY1LWFpcmJ1cy1zYXlzLW1lYS1wcm9wb3Nlcy10by1idXktMTAtbmVvLWpldHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"European aircraft maker Airbus announced Thursday that Lebanese airline MEA has proposed to buy ten of its single-aisle neo passenger planes.
+
+Airbus did not disclose the deal amount for the aircraft, which have a combined list price of $1.0 billion at list prices.
+
+""Middle East Airlines-Air Liban (MEA), the flag carrier of Lebanon, has signed a Memorandum of Understanding (MoU) for five A320neo and five A321neo aircraft plus eight options,"" Airbus said in an official statement.
+
+The deal was unveiled at the Farnborough International Airshow -- a key event in the aviation sector calendar that typically sees plane makers Airbus and Boeing battle for orders.
+
+""MEA is focused on continuing to grow and improving its profitability at the same time as offering its passengers a very luxurious service,"" added MEA Chairman-Director General, Mohamad El Hout in the statement.
+
+""Adding the A320neo to our fleet means we can achieve all of these goals while benefiting from a 15 percent fuel saving and cost effectiveness.""
+
+Airbus' A320 neo series is going head to head with US rival Boeing's upcoming 737 MAX planes in the battle for short-haul aircraft orders at the Farnborough airshow near London which runs until the end of the week.","{'label': 'Positive', 'score': 0.9995020627975464}",positive,0.9995020627975464,1
+"The mid-size, twin-aisle battle - Leeham News and Analysis","Fri, 06 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxMi8wNy8wNi90aGUtbWlkLXNpemUtdHdpbi1haXNsZS1iYXR0bGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The mid-size twin-aisle battle
+
+While a plethora of new entrants are nipping at the heels of Airbus and Boeing in the single-aisle market, the battle in the twin-aisle segment is strictly between the two behemoths.
+
+The two OEMs differ on the size of the market by a wide margin. Airbus, in its 2011 20-year Global Market Outlook, the most recent available, forecasts a need for 6,525 twin-aisle airplanes: 4,518 “small” twin aisles and 1,907 “large” twin-aisles. Boeing, which does not publicly distinguish this segment, forecast a need for 7,950 twin-aisles. This is in the 200-400 seat segment (Airbus uses 210-400 for its forecast).
+
+Given their methodology differences in the total market forecast, both nonetheless come to the same market share—24%–of the mid-size, twin-aisle segment.
+
+The line-up is:
+
+There remains a great deal of uncertainty and ambiguity over the future of the product development. Here is a run-down for the programs.
+
+Boeing
+
+Boeing’s twin-aisle strategy suffered a major setback with the program issues surrounding the 787. This airplane was, of course, supposed to enter service in May 2008 to replace the 767 and the A330. Had Boeing done so, Airbus would have been put at a disadvantage for a decade. The plan had been to do the 787, followed by a replacement for the 737 and then a replacement for the 777. All this is out the window.
+
+The 787 delays allowed Airbus the time to vastly improve the A330 and gain sales and market share from disappointed 787 customers. As Airbus is fond of pointing out, it has sold more A330s since the launch of the 787 than it did before. The A330-200 is now a 7,250nm airplane—exceeding, it claims, the range of the early, over-weight, under-performing 787-8s. The A330-300 is now a 6,000nm airplane, a whopping improvement over the first generation. Further improvements are expected to be announced at the Farnborough Air Show.
+
+But Boeing still is the market leader in one category, the 777-300ER.
+
+777-300ER
+
+There is no question that this airplane figuratively and literally stands alone in its market. Airbus competed with the A340-500/600 and it was an uneven contest. These Airbus sub-types never lived up to expectations for fuel consumption and the highly efficient -300ER drove them out of the market. Even Airbus’ John Leahy acknowledges this. But that doesn’t stop Leahy from having the -300ER in a direct bulls eye for the A350-1000 (see below). In the meantime, the -300ER has its trade space all to itself.
+
+777-200 Series
+
+The 777-200ER is essentially a dead airplane, though it still is listed in Boeing’s offering. The A350-900—the direct competitor—put the final nails into the -200ER’s coffin. The 200 Series is now reduced to the niche airplanes, the -200LR and the -200F.
+
+777X
+
+Boeing has undertaken a major campaign to cast doubts about the A350-1000, recently taking up the story line that there hasn’t been a sale of this airplane since 2008 when George W. Bush was president. Airbus has a response to this, which we related under the A350 section. But the point is made. Having done so, Boeing is not resting on the laurels of the 777-300ER, and this is where the 777X studies come in. Boeing is considering two models: the -8X and the -9X. The -8X is nearly the size of the -300ER: about 350 passengers vs 365. The 9X is an entirely new category. At 407 passengers in the current concept, this is slightly over the threshold of the Very Large Airplane category as defined by Boeing and Airbus: more than 400 passengers. It’s as large as the 747-400. The concept calls for new engines, a new, composite wing and wing box, new interior sidewalls that will allow a slightly wider cabin and slightly more room in the aisles or seats.
+
+But it’s not at all clear Boeing will proceed with the 777X even though that’s all they’ve been talking about publicly. We learned some weeks ago that it’s entirely possible Boeing may do little more than undertake engine and aerodynamic improvements on the -300ER. One fleet manager told us he believes that if Boeing proceeds with the 787-10, as is believed to be a certainty, then he doesn’t think Boeing will have the engineering and related resources available to undertake a major makeover of the 777 into the X program.
+
+Aspire Aviation, a consultancy in Hong Kong, has its own recent analysis of the twin-aisle market. Contained within it is a discussion of the prospective 777X and the 777-300ER+ as noted above.
+
+787 Series
+
+At long last, the 787-8 has been delivered—but only 13 were delivered through June 30 since the first one last September, 10 months ago. It’s taking an average of 10 months per airplane to do the rework required, according to an analysis by UBS Securities.
+
+The 13 are all heavy airplanes with early engine packages that didn’t meet original specifications. But launch customer All Nippon Airways said the airplane is still 21% better on fuel consumption on a per-seat basis than the Boeing 767-300ERs the 787 is replacing. This is good news for Boeing.
+
+Meantime, engineers are working on the final design for the 787-9 and working up the preliminary specifications for the 787-10.
+
+Although Boeing talks about the 787-10 and the 777X as though these are fait accompli, neither is a “go.” Jim Albaugh, former CEO of Boeing Commercial Airplanes, said the 787-10 would be the airplane to get a go-ahead first. Boeing’s reception by customers toward the -10 has been superb, said Nicole Piasecki, Boeing vice president of Business Development and Strategic Integration, during the pre-Farnborough Air Show media briefing.
+
+It’s widely assumed that this sub-type will be launched this year (though not at the Air Show). As noted above, one fleet manager believes Boeing won’t have the resources to undertake a 787-10 and a 777X, relegating the latter to Performance Improvement Programs on the 777-300ER.
+
+What happens with the A350-1000 will nonetheless be a driver.
+
+767-300ER
+
+This program is now largely reduced to being a freighter.
+
+Airbus
+
+Airbus had its own tumult in the twin-aisle arena. The company first dismissed the 787 as another of Boeing’s fantasy airplanes and failed to recognize the threat and promise of the composite aircraft.
+
+Then Airbus responded in an embarrassing display of an A350 that was nothing more than a re-winged, re-engined A300. This “Version 1” was roundly dismissed by the market.
+
+The embarrassing display continued through Versions 2-5 before settling on the A350 XWB, and even now the -800 and -1000 seem to raise more questions than they answer.
+
+A330 Series
+
+AirInsight has a comprehensive look at the A330 program. We have little to add here, except this:
+
+Airbus claims the lower-cost (in terms of capital cost and lease rates) and greater passenger and cargo capacity keeps the A330s competitive with the 787-8 and 787-9. Since the 787-10 specifications haven’t been identified yet, Airbus hasn’t made a comparison with this sub-type.
+
+A further improvement of the A330-300 is likely to be announced at the Air Show. Engine PIPs are a certainty. Whether sharklets will be added remains to be seen. Since a Bloomberg article suggests another 400nm range will be forthcoming through an MTOW increase, this suggests sharklets may not yet be part of the package.
+
+Engine PIPs will improve fuel burn by 1%-2%. Sharklets would further reduce fuel burn by 4%-5%, for a total reduction of 6%-7% if combined with the engine PIPs. This seems like a no-brainer. So why not?
+
+The answer is that with a 6%-7% reduction in fuel burn—and the fact one could buy the airplane for 25% less than an A350-800—this pretty much would destroy the business case for the -800.
+
+A350 Series
+
+The A350-800, as Boeing is fond of pointing out, hasn’t had a sale since 2008. This is a shrink of the -900, and as we know, shrinks generally don’t perform well (the A319 is a notable exception and so is the A330-200). The -800 has more orders outstanding than the A350-1000, but Airbus has also been encouraging customers to switch from the -800 to the more profitable (for Airbus) -900.
+
+Market talk, encouraged by Boeing but hardly a Boeing exclusive, raises lots of doubts whether the -800 has a future. At the Airbus Innovation Days in May, John Leahy and the A350 program chief didn’t even mention the -800 in their presentations.
+
+It does make you wonder.
+
+One source familiar with the situation tells us Airbus doesn’t have to make a decision on the -800’s future for another year.
+
+The A350-900 will, by all accounts, be a very good airplane. But nobody we talk to (except for Airbus itself) believes EIS will be in mid-2014 as advertised. Another delay of at least five months and perhaps somewhat more is considered highly likely.
+
+As for the A350-1000, Boeing has had a very effective public relations campaign to sow doubts about this model. Launch customer Tim Clark of Emirates Airlines has been very vocal in saying the airplane doesn’t do what he wants—which is Dubai to Los Angeles non-stop, with more passengers and cargo. Launch customer Akbar Al-Baker of Qatar Airways, who has Tim Clark-envy, has chimed in, though his motivations are somewhat more of a mystery. Qatar doesn’t have any routes that the -1000 cannot do, in contrast to Emirates. There is a large industry suspicion that Al Baker likes to hear himself talk.
+
+But as much as Boeing likes to cast doubts on the -1000, its own assessment shows the threat to the 777-300ER.
+
+As you can see, Boeing places the A350-1000 well to the left of the 777-300ER.
+
+Airbus offers this assessment:
+
+Airbus’ Leahy, when asked at Innovation Days about the lack of sales for the -800 and -1000 since 2008, responds that he has no delivery positions until after 2017/18 and airlines don’t want to pay escalation costs this far out.
+
+There is certainly some truth to this, as confirmed by a purchaser of Airbus and Boeing planes (but not, as yet, of the A350). But we don’t think this is the whole story.
+
+When it comes to the -1000 vs the 777X, one observer close to both companies says each is waiting to see what the other will do before deciding what to do about their own airplane.
+
+The next 12-18 months will be very interesting to see how the chess game plays out.
+
+General comments
+
+Readers noted in a previous post that Boeing uses different seat assumptions for the A350 than does Airbus. This seat-count game has been going on for years. Boeing likes to reduce the seat count for Airbus, and vice versa. Airbus now shows the A350 with 369 seats vs the 350 it used to use. When asked, Airbus said this reflects a two-class configuration rather than three class.
+
+Way back during the seat-count game (which continues) over the 747-8I vs the A380, we thought then (as we do now) that the entire process was silly. Airlines choose their configurations, so figuring costs as Airbus and Boeing do on a per-seat basis for public consumption is somewhat absurd.
+
+During the 748-A380 debate, we decided to do some computations based on exit-limited capacity to determine per-seat costs, weight-per-seat, etc. (A380 won.) We think this should be done on all airplanes.
+
+But the public relations game really doesn’t matter. The airlines perform their own analysis and theirs is the only one that counts.
+
+Lufthansa concluded the A380 was more economical than the 748I.
+
+Lufthansa concluded that the 737-8 MAX would be about 2% better than the A320neo (this before the Advanced Technology Winglets came into being).
+
+Lufthansa concluded the Bombardier CSeries beats the A319 and A319neo.
+
+Qantas/JetStar says the 737-800 and A320 are equal.
+
+Assumptions used by Airbus and Boeing vary widely and, in our view, Boeing’s reliance on suspect DOT Form 41 data and outdated European-originated IATA data, means both companies’ data used in the continuing public relations campaigns are suspect.
+
+It is because of the above, and for other reasons, we often show our skepticism of the data advanced by Airbus and Boeing.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Neutral', 'score': 0.7068763971328735}",neutral,0.7068763971328735,0
+Poland Buys More C-295s while the Czech Struggle to Fix theirs - Defense Update,"Fri, 06 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTIwNzA2X3BvbGFuZC1idXlzLW1vcmUtYy0yOTVzLXdoaWxlLXRoZS1jemVjaC1zdHJ1Z2dsZS10by1maXgtdGhlaXJzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"After The Polish Air Force has signed a contract with Airbus Military to deliver five additional C-295 transport aircraft, to be delivered in 2012-2013, bringing the fleet of C-295 in service with the Polish Air Force to 16.
+
+Unlike the Polish satisfaction with the aircraft, five C-295M ordered by the Czech Republic in 2009 became the focus of a political conflict in Prague. Since the delivery of four of the aircraft in 2011 the C-295M faced repeated rejection by the Czech Air Force, over technical problems with the navigation systems, engine failures and self-protection Defensive Aids Systems (DAS).
+
+Earlier in 2012 the Czech MOD renegotiated the terms of the contract, with Airbus Military and Omnipol, the Polish trading company agree to deliver the planes for €132, in return for four L-159 trainers to be handed over by the Czech Republic. (Originally, five aircraft were to be delivered but one would be returned the Czech Air Force). Airbus Military agreed to fix all rejects raised by the Air Force by the end of May 2012 but the Czech Defense Ministry said early July that the C-295M DAS has met 10 of the rejects wile 7 remained unsolved. Apparently the Czech defense would seek compensation from the Omnipol for the delay but is no longer threatening to cancel the deal. The Polish company faced corruption allegation for its role in the Czech acquisition process, made without an open tender, as required by European Union ruling.","{'label': 'Negative', 'score': 0.885246217250824}",negative,0.885246217250824,-1
+Air France crash 'due to pilot and technical failings' - BBC.com,"Thu, 05 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtMTg3MjA5MTXSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTE4NzIwOTE1LmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"""If the BEA thought that this accident was only down to the crew, we would not have made recommendations about the systems, the training... which means that this accident could no doubt have happened to other crews,"" Mr Troadec added.","{'label': 'Neutral', 'score': 0.7306919693946838}",neutral,0.7306919693946838,0
+FARNBOROUGH: Airbus environment champion Andrea Debbane outlines the 'perfect flight' - Flightglobal,"Tue, 10 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZmFybmJvcm91Z2gtYWlyYnVzLWVudmlyb25tZW50LWNoYW1waW9uLWFuZHJlYS1kZWJiYW5lLW91dGxpbmVzLXRoZS1wZXJmZWN0LWZsaWdodC8xMDU5ODcuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In support of industry efforts to achieve sustainable growth in aviation, and meet the short-term goal of improving fuel efficiency by 1.5% every year until 2020, Airbus is championing the ""perfect flight"". Andrea Debbané, Airbus vice president of environmental affairs, explains.
+
+What is the ""perfect flight""?
+
+When you talk about massive reductions in carbon dioxide emissions, people often react as if you're describing far reaching breakthrough technologies. In order to meet our challenging long-term 2050 objectives, these will certainly be required, but to meet our short-term goals, the ""perfect flight"" is already possible. The perfect flight requires the most modern aircraft, flying the most direct route, utilising optimised navigation and operational procedures and using sustainable alternative fuels. In the past we've successfully deployed individual aircraft technology, air traffic management (ATM) and alternative fuels demonstration flights. Now all these eco-efficient technologies and procedures are combined in one commercial flight and demonstrate further emissions reductions, shrinking the environmental footprint of a flight to the minimum.
+
+How is that achieved?
+
+Through the combination of existing best practices: operating the most eco-efficient aircraft with state-of-the-art technologies; implementing streamlined ATM helps to reduce fuel burn, emissions and noise, for example through more direct routings and continuous descent approach (CDA); deploying optimised ground operations, such as single-engine taxi and washing techniques, makes a difference too, while 50% biofuel blends are already approved for commercial flights. These best practices also extend to weight-saving measures in the cabin using lighter materials for seats, carpets, trolleys or even cups and trays. Most of these improvements are already available and when you combine them, the impact is cumulative - it keeps growing.
+
+How effective is this approach?
+
+On 18 June this year, we performed North America's first perfect flight over international borders with Air Canada . The revenue flight from Toronto , Canada to Mexico City demonstrated a reduction of CO2 emissions by more than 40% compared with a regular flight. The flight combined best operational and environmental practices available today: operation of the most eco-efficient aircraft family in its market segment, with the use of a 50% sustainable biofuel blend made from used cooking oil. In addition, in agreement with the ATM authorities, the A319 flew the most direct route, using the most efficient vertical flight profile and applying a CDA into Mexico City to save fuel and limit noise. Finally, we combined several eco-efficient operational procedures such as single engine-taxiing, external aircraft cleaning for improved aerodynamics, lightweight cabin equipment and a neatly tailored flight plan. The Air Canada flight came after last year's first perfect flight with Air France , from Toulouse to Paris . The Air France flight resulted in a reduction in fuel burn and emissions in the region of 50%.
+
+So how close are we to perfect flights becoming the industry standard?
+
+There are three crucial areas affecting that. Firstly, government policy needs to create the right framework and incentives. If you take a flight from Toulouse to Paris , you fly further than you need to, usually north and then east rather than in a straight line. This isn't efficient but the requirement to avoid restricted airspace means that airlines are obliged to follow less direct routes. In the same way, incentives aimed at developing sustainable alternative fuels are mostly directed towards fuel for road transport rather than aviation-quality kerosene. Next, there is a question of infrastructure. The best equipped aircraft and airlines in the world are still dependent on airports and a fuel industry that isn't necessarily as advanced. Biofuels provide a good example. There have been 1,200 commercial biofuel flights on Airbus aircraft in the last year but, if every flight capable of using a 50% biofuel mix tried to do it, there wouldn't be enough fuel to go around. We're involved in nurturing biofuel value chains to encourage production but, with more support, the pace of change could be accelerated. Finally, investment is a big issue. The A320neo will reduce emissions by 15%; the A350 XWB and A380 are also eco-efficient and equipped to make the most of optimised trajectory and ATM technology. But without investments in this ATM infrastructure from governments and stakeholders, the growth of the perfect flight will be slow. To make this flight a commercial reality and to go beyond today's limitations, proper resources are needed.
+
+Why is Airbus involved in these perfect flights?
+
+We intend to demonstrate that CO2 emissions can be significantly reduced if existing technology is used as effectively as possible. By proving that to governments and aviation industry stakeholders, we can help to shift thinking towards finding solutions in the areas of policy, infrastructure and investment. Without them our eco-efficient products won't do all the good they could. Also, with the experience we have in each of the pillars of perfect flights (alternative fuels, aircraft technology, ATM and operations) we would like to act as a centre of excellence, helping and supporting our customers to make the perfect flight a day-to-day commercial reality.
+
+Source: Flight Daily News","{'label': 'Positive', 'score': 0.9997053742408752}",positive,0.9997053742408752,1
+Boeing raises world sales outlook - CBC News,"Tue, 03 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2J1c2luZXNzL2JvZWluZy1yYWlzZXMtd29ybGQtc2FsZXMtb3V0bG9vay0xLjExNzA4MDTSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuMTE3MDgwNA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing is raising its 20-year prediction for worldwide airplane sales to 34,000 jets, enough to double the size of the world's fleet, as more people travel in China, India, and other emerging markets.
+
+The airplane maker and defence contractor predicted on Tuesday that $4.5 trillion US worth of planes will be sold. It will have to compete with Airbus and other competitors including Bombardier, Embraer, and China's state-owned COMAC for those sales.
+
+The projection is 500 planes higher and a half-trillion dollars more expensive than the previous year's estimate. Boeing expects airlines to shift toward slightly larger planes with higher price tags, accounting for most of the additional spending.
+
+The world's airlines fly almost 20,000 planes today. That number is expected to rise to almost 40,000 by 2031, Boeing said.
+
+Boeing and Airbus are both speeding up production to meet a growing order backlog. Airbus, based in France, announced on Monday that it will begin assembling A320s in Alabama, with deliveries to begin in 2016. Boeing is speeding up production of its competing 737.
+
+Boeing said the Asia Pacific region will be the biggest market for new planes, with a potential for 12,030 aircraft there through 2031. The next biggest market is Europe with 7,760, and North America with 7,290.
+
+Tinseth said low-cost airlines are stimulating demand for air travel. Those airlines have been especially important in Asia, because they're making air travel affordable for people who previously didn't fly. Boeing predicted that global airline traffic will grow 5 per cent a year for the next two decades.
+
+China's expanding light rail service will steal some passengers from the airlines, Tinseth said. But the investment in rail as well as new airports should stimulate the economy there and air traffic — and demand for airplanes — will still grow, he said. The company expects half of all airline traffic to begin or end in the Asia Pacific region by 2031, up from 35 per cent today.
+
+Europe a wild card
+
+""""As we look to the future, clearly the centre of the marketplace will be the Asia-Pacific region,"" Tinseth said.
+
+Boeing predicted that more than 23,000 of the 34,000 planes that will be sold will be single-aisle planes such as its 737 and the competing Airbus A320. It also predicted sales of 7,950 larger planes such as its new 787. Sales of each would total around $2 trillion, because the bigger planes cost more.
+
+Tinseth said Boeing is aiming to build about as many of the single-aisle jets as Airbus. For the larger wide-body jets, he thinks Boeing can have a larger market share than Airbus does.
+
+The Chicago company reduced its projection for the number of freighter airplanes that will be sold. It says the cargo market remains sluggish. It predicted 940 new freighters would be needed, and another 1,820 passenger planes would be converted to haul freight.
+
+Europe will be another wild card. A deep recession would hurt air travel, and the financial crisis could make it harder for airlines to borrow to buy planes.
+
+Tinseth said Boeing expects the European economy to be challenging for this year and next, with ""a more normal condition"" in 2014.
+
+""We do at times suffer through difficult times, but the market responds and rebounds very quickly, and we think the situation we see in Europe will be no exception to that,"" he said.
+
+Boeing does a detailed annual study of airline travel and sales trends. Airlines order planes years in advance, so Boeing has to make production decisions years in advance, too.
+
+Shares of Chicago-based Boeing Co. rose $1.09 to close at $74.27. They are trading near the high end of their 52-week range of $56.01 to $77.83.","{'label': 'Neutral', 'score': 0.6264716386795044}",neutral,0.6264716386795044,0
+Airbus A380: Monster in the sky | Arab News PK - Arab News Pakistan,"Thu, 12 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmFyYWJuZXdzLnBrL2FpcmJ1cy1hMzgwLW1vbnN0ZXItc2t50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PSG and Barcelona get set to renew Champions League rivalry
+
+PSG won 4-0 at home in the first leg only to lose 6-1 in the return in a stunning implosion against a Barcelona side coached by Luis Enrique
+
+“It is a totally different game for me,” Luis Enrique said on Tuesday, referring to the special nature of a fixture against the club with whom he starred as a player
+
+
+
+PARIS: The Paris Saint-Germain of Kylian Mbappe and Barcelona clash in the first leg of their blockbuster Champions League quarter-final tie on Wednesday, in the latest instalment of the growing rivalry between the two clubs.
+
+It is the fifth time the sides have been drawn against each other in the knockout stage of Europe’s elite club competition in the last 12 seasons, with those past meetings including an unforgettable encounter in 2017.
+
+PSG won 4-0 at home in the first leg only to lose 6-1 in the return in a stunning implosion against a Barcelona side coached by Luis Enrique.
+
+He is now in charge of PSG, having joined the Qatar-owned club ahead of this season with the responsibility of delivering elusive European success.
+
+“It is a totally different game for me,” Luis Enrique said on Tuesday, referring to the special nature of a fixture against the club with whom he starred as a player before going on to lead to Champions League glory in 2015.
+
+“But I also played against Sporting (Gijon, where he began his career) and scored goals for Barcelona.
+
+“At the end of the day I am a professional. Of course I like Barcelona but I am pleased to be here at PSG, and I must think about my job and my team. I think I’m capable of bringing trophies to this club.”
+
+PSG have never won the Champions League and had gone out in the last 16 in five of the last seven years before beating Real Sociedad to reach the last eight this time.
+
+The consequences of that 2017 meeting between the teams were huge.
+
+A humiliated PSG exacted revenge by signing Neymar from Barcelona a few months later by paying a world-record fee of 222 million euros ($264m at the time) to activate the Brazilian’s release clause.
+
+Barcelona panicked and blew all of that money, and more, in trying to rebuild their team.
+
+Among the players they signed was Ousmane Dembele, who cost an initial 105 million euros from Borussia Dortmund.
+
+Fast forward to last year and Dembele was sold to PSG for just 50 million euros, leaving behind a cash-strapped Barca who have faded somewhat as a continental force in recent seasons.
+
+Their financial problems forced them to let Lionel Messi leave in 2021, with the Argentine teaming up with Neymar in a two-year spell in Paris.
+
+It was only a few weeks after Neymar’s arrival that PSG also signed Mbappe, who has gone on to become the club’s all-time top scorer and will leave at the end of this season when his contract expires, almost certainly for Real Madrid.
+
+Mbappe scored a brilliant hat-trick in the first leg in Barcelona when PSG beat the Catalans 5-2 on aggregate in the last 16 in 2021, in the most recent clash between the clubs.
+
+He has 39 goals this season and appears extra motivated by the desire to win the Champions League with his boyhood club before he leaves.
+
+PSG failed to convince in the group stage, only just scraping through to the last 16.
+
+However, they are unbeaten in 27 games in all competitions going back to early November and are dreaming of winning a Champions League, Ligue 1 and French Cup treble.
+
+Barcelona, meanwhile, have not lost in 11 matches since coach Xavi Hernandez, who played both alongside and under Luis Enrique at the club, revealed his intention to walk away at the end of this season.
+
+The five-time European champions are appearing in the quarter-finals for the first time since 2020, when they were trounced 8-2 by Bayern Munich in a game played behind closed doors in Lisbon, at the height of the Covid-19 pandemic.
+
+“We are in our best form but we are playing against a team built to win the Champions League and we are coming up against one of the best coaches in Luis Enrique,” Xavi told reporters.
+
+Barcelona are hoping midfielders Pedri and Frenkie de Jong, who have both been struggling with injuries, will be able to play in the game, while PSG are without influential right-back Achraf Hakimi due to suspension.
+
+“All those who have traveled will be able to play, as long as there are no surprises,” Xavi said of his squad.
+
+The second leg will be played in Barcelona next Tuesday, April 16, with the winners advancing to a semifinal against either Atletico Madrid or Borussia Dortmund.","{'label': 'Neutral', 'score': 0.9999642372131348}",neutral,0.9999642372131348,0
+"Air France crash probe blames pilots, equipment - CBC News","Thu, 05 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3dvcmxkL2Fpci1mcmFuY2UtY3Jhc2gtcHJvYmUtYmxhbWVzLXBpbG90cy1lcXVpcG1lbnQtMS4xMTM3NTIz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjExMzc1MjM?oc=5&hl=en-US&gl=US&ceid=US:en,"The report on the crash of Air France Flight 447, which killed 228 people off the coast of Brazil over three years ago, puts the blame on the aircraft's pilots and equipment failure
+
+The final report on the crash of Air France Flight 447— which killed 228 people when it went down off the coast of Brazil more than three years ago — puts the blame on the aircraft's pilots and equipment failure.
+
+The Paris-bound Airbus A330-203 stalled and crashed into the Atlantic Ocean during a thunderstorm early on June 1, 2009, more than two hours after it took off from Rio de Janeiro.
+
+All of the 216 passengers, including Guelph, Ont., native Brad Clemes, and 12 crew members died. It was the worst accident in Air France's history.
+
+The report says a co-pilot pulled the nose of the aircraft up, even though it was already in a stall, because of faulty data from flight sensors.
+
+The crew never understood they had lost control of the aircraft, said Alain Bouillard, chief investigator at the French civil aviation safety authority, Bureau d'Enquêtes et d'Analyses.
+
+""The crew never understood that they were stalling,"" he said.
+
+In response, Air France said the pilots on the flight ""acted in line with the information provided by the cockpit instruments and systems. … The reading of the various data did not enable them to apply the appropriate action.""
+
+The BEA is recommending better pilot training and stricter plane certification rules as part of its report. Airbus said in a statement that it is working to improve the flight sensors.
+
+Investigators had released three interim reports since the crash, but had not drawn a conclusion on what caused the crash.
+
+Its third report, released in July 2011, said the crew did not appear to know the plane was in a stall moments before it crashed. A stall warning sounded numerous times, and once for a full 54 seconds, but the crew made no reference to it in cockpit exchanges before the jet crashed, according to the BEA.
+
+There was no evidence of task-sharing during the crisis by the two co-pilots in the cockpit at the time, according to the BEA's 2011 findings. The captain was on a rest break when the warnings began.
+
+The BEA says it's unclear why the co-pilot at the controls, flying manually, maintained a nose-up input — contrary to the usual procedure to come out of an aerodynamic stall. Normally, the nose should be pointed slightly downward to regain lift in such a stall, which is often caused because the plane is travelling too slowly.
+
+The crew also did not inform passengers that there was anything wrong before the jet plunged into the sea.
+
+The same report also said external speed sensors, called pitot tubes, were obstructed by ice crystals, producing irregular speed readings on the plane.
+
+Air France replaced the speed monitors on all its Airbus A330 and A340 aircraft following the crash.
+
+A separate judicial report, which is due to be presented to the victims' families next week, has concluded that pilot error and malfunctioning speed sensors played a role in the crash, according to Agence France-Presse.
+
+Plane plunged for 3½ minutes
+
+The investigation into the accident was helped after the plane's flight data and cockpit voice recorder were recovered from the ocean in May 2011, following a long and costly search operation.
+
+Alain Bouillard, chief investigator of the Investigation and Analysis Bureau (BEA), addresses the media at the presentation of the final report on the Air France Rio-Paris crash on Thursday. (Benoit Tessier/Reuters)
+
+The passenger jet last made contact with air traffic controllers at 1:35 a.m. on June 1, 2009, approximately 600 kilometres from the northeastern coast of Brazil, according to the BEA's third interim report.
+
+The captain took a scheduled break around 2 a.m., leaving the plane in the hands of two co-pilots.
+
+Ten minutes later, the pitot tubes became obstructed causing speed indicators to become unreliable and several automatic flight systems disconnected. The captain re-entered the cockpit shortly thereafter but the plane's stall continued.
+
+The plane plunged for a total 3½ minutes before slamming into the Atlantic Ocean at 2:14 a.m.
+
+According to the BEA, many of the passengers may have been asleep or nodding off as the plane fell and likely didn't realize what was happening.","{'label': 'Neutral', 'score': 0.5426567792892456}",neutral,0.5426567792892456,0
+Airbus suffering sales drought for A350 'mini-jumbo' jet - Sydney Morning Herald,"Mon, 09 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvdHJhdmVsbGVyL2luc3BpcmF0aW9uL2FpcmJ1cy1zdWZmZXJpbmctc2FsZXMtZHJvdWdodC1mb3ItYTM1MC1taW5pLWp1bWJvLWpldC0yMDEyMDcwOS0yMXFvby5odG1s0gF3aHR0cHM6Ly9hbXAuc21oLmNvbS5hdS90cmF2ZWxsZXIvaW5zcGlyYXRpb24vYWlyYnVzLXN1ZmZlcmluZy1zYWxlcy1kcm91Z2h0LWZvci1hMzUwLW1pbmktanVtYm8tamV0LTIwMTIwNzA5LTIxcW9vLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en,"Cathay Pacific has 36 of the A350-900 base model on order, and may add on further orders for the stretched A350-1000 or convert some of its existing orders, or both, the sources said.
+
+Airbus will be looking for a long-awaited new order for its A350-1000 mini-jumbo at this week's Farnborough Airshow, with Hong Kong's Cathay Pacific tipped as most likely to end the model's three-year order drought, industry sources said.
+
+Airbus says the future 350-seat carbon-composite A350-1000 passenger jet will be significantly more efficient than Boeing's 777 but has so far been unable to make a significant dent in the 777's hold on a lucrative corner of the jet market. Credit: Airbus
+
+Airbus says the future 350-seat carbon-composite passenger jet will be significantly more efficient than Boeing's 777 but has so far been unable to make a significant dent in the 777's hold on a lucrative corner of the jet market, just below 400 seats.
+
+Airbus is building the first A350-900 test aircraft and has a total of 548 of the three variants of long-distance twinjet on order. Of these 62 are for the A350-1000.
+
+Some Middle East airlines have complained about the range of this largest variant, prompting Airbus and engine maker Rolls-Royce to bolster the engine design and relaunch the aircraft at the Paris Air Show last year.
+
+Airbus attributes slow sales of the A350-1000 to the lack of availability before late in this decade, but Boeing continues to post strong sales of the 777 which had a record year in 2011.
+
+Boeing is touting a more efficient 407-seat version of its most profitable jet with new engines to try to stay ahead of the A350-1000 which is based on a lighter fuselage.","{'label': 'Positive', 'score': 0.992573618888855}",positive,0.992573618888855,1
+"Showers at 33,999ft? On board the Emirates Superjumbo - The Mirror","Sat, 07 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9saWZlc3R5bGUvdHJhdmVsL2VtaXJhdGVzLWFpcmxpbmUtYWlyYnVzLWEzODAtODAwLXNob3dlcnMtMTEzNTM3MtIBXmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9saWZlc3R5bGUvdHJhdmVsL2VtaXJhdGVzLWFpcmxpbmUtYWlyYnVzLWEzODAtODAwLXNob3dlcnMtMTEzNTM3Mi5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"Nigel Thompson gets a taste of the high life on board the Emirates Airbus A380-800 from Dubai to Heathrow
+
+A shower to freshen up? Perhaps a shave, too? Could do with losing a day’s worth of stubble. Maybe splash on some Rochas Homme?
+
+Then a four-course lunch? Catch up with the news or watch one of the latest movies?
+
+You could relax at the bar but while it’s 5 o’clock somewhere in Europe it’s a bit early in the Persian Gulf.
+
+Or should I be a good boy and sit at my desk with my laptop and get some work done?
+
+It feels like I’m in a top-end hotel – but this is a plane, the upper level of a ­double-decker Emirates airline Airbus A380-800 on flight number 003 from Dubai to Heathrow.
+
+It is the superjumbo of the skies and I’d been keen to get on one for ages. The first time I saw one was a few years ago on a contraflow in Toulouse past the Airbus factory (yes, the French do occasionally have roadworks on their splendid autoroutes).
+
+What I’d assumed was an unexpected solar eclipse turned out to be a test flight of an A380 – as this 560 tonne behemoth banked over the road it practically blocked out the sun. After finding somewhere
+
+safe to stop, my family and I sat and gawped at this amazing plane circling the factory’s airfield.
+
+And now I’m finally in one – for the 3,043-mile trip from Dubai’s fine airport.
+
+The upper deck contains only business class and first class – which comprises amazing suites with sliding doors – and it is, unsurprisingly, impressive.
+
+The inner gadget freak in me could be kept amused for hours playing with the hand held controller for seat position and massage options, lighting, texting and so on. And the moving map/flight info option with pilot’s eye view and a live feed from the tail fin camera provided considerable entertainment.
+
+Do I want to know we’re flying at 33,999ft at 564mph over the Gulf and it’s 6hrs 24mins to Heathrow? Absolutely.
+
+The showers are an option for only passengers in first class and while it’s normally off limits to us mere mortals I was able to have a look round during a midair plane tour. Wow. Showers on a plane in a room easily big enough to swing a cat, plus there are potions, lotions and after shave on tap and soft towels – it’s a mini-spa more than six miles up.
+
+Back to the plane tour and the economy section downstairs with a 3-4-3 seating configuration is big, seriously big, and when it’s full as it was on this flight with around 400 people it does feel a bit crowded. That said, the seats are pretty comfy, the entertainment system is excellent and there certainly seem to be plenty of loos for so many people.
+
+Back upstairs I look out of the window. We’re somewhere over Turkey and snow is glistening on the Anatolian mountains. Time for a coffee and to breakout the laptop.
+
+“A shower to freshen up? Perhaps a shave too? Could do with losing a day’s worth of stubble...”
+
+Book now
+
+Emirates flies A380s from Heathrow and Manchester to Dubai. Return economy fares in August start at £494 from Heathrow and £614 from Manchester inc taxes.","{'label': 'Neutral', 'score': 0.9999819993972778}",neutral,0.9999819993972778,0
+Boeing lands big at airshow with $7.2 billion deal - The New Indian Express,"Tue, 10 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2J1c2luZXNzLzIwMTIvSnVsLzEwL2JvZWluZy1sYW5kcy1iaWctYXQtYWlyc2hvdy13aXRoLTcyLWJpbGxpb24tZGVhbC0zODUyNzEuaHRtbNIBfGh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2FtcC9zdG9yeS9idXNpbmVzcy8yMDEyL0p1bC8xMC9ib2VpbmctbGFuZHMtYmlnLWF0LWFpcnNob3ctd2l0aC03Mi1iaWxsaW9uLWRlYWwtMzg1MjcxLmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing Co. clinched the first big deal of this year's Farnborough Airshow on Monday with a firm order from Air Lease Corp. for 75 of its redesigned 737 aircraft worth $7.2 billion.
+
+The order is a big win for the Chicago-based company at the opening of the week-long airshow, south of London, and is the first order for the MAX, a new version of its best-selling 737 aircraft, by a leasing company.
+
+""They are an ideal partner to help establish the 737 MAX in the leasing market,"" said Ray Conner, Boeing Commercial Airplanes president and chief executive.
+
+The MAX incorporates new technologies designed to make the aircraft more efficient, reliable and comfortable. So far, Boeing has secured orders and commitments for more than 1,000 of the aircraft.
+
+Los Angeles-based Air Lease, which buys planes and leases them to airlines, also has the right to purchase a further 25 planes. The order will take several years to deliver. ALC has ordered a total of 170 airplanes from Boeing. Although the order has a list price of $7.2 billion, purchasers rarely pay the full price for an order of this size.
+
+""The 737 MAX is an excellent addition to our portfolio and the ideal complement to our growing fleet of Next-Generation 737-800s,"" said Steven Udvar-Hazy, chairman and CEO of Air Lease. ""The 737 MAX represents a step-change improvement that our airline clients need to compete in the future.""
+
+Expectations are high that Boeing will clinch a raft of deals for the plane as it tries to catch up with Airbus in orders for single-aisle aircraft. Airbus, which is a subsidiary of EADS, won the battle for orders at last year's Paris Airshow — Paris and Farnborough alternate.
+
+So far, the only deal Airbus has announced at Farnborough is the sale of four A321neos to Arkia Israeli Airlines, the second biggest Israeli airline. The order, which has a list value of around $450 million, makes the airline a new Airbus customer and the first airline in Israel to order the A320 neo family.
+
+This year's airshow is taking place at a time when the global economy is showing signs of slowing down and governments around the world are cutting back costs on military spending as they grapple with high debt levels. The combination of a faltering economy and lower government spending is a difficult combination for the aviation industry as air travel tracks global economic growth.
+
+Airbus also revealed Monday that it plans to enhance its mid-sized long-haul A330 range of aircraft to give it a longer flying range. For the A330-300, Airbus is planning to increase the maximum take-off weight to 240 metric tonnes from 235.
+
+By giving the plane the ability to carry more fuel — combined with greater fuel efficiency — Airbus said the A330-300 will now be able to make longer journeys. For example, Seattle will now be accessible from Beijing, as will Tokyo from London.
+
+""The aircraft is the most popular aircraft ever in its category and looks set to hold this position for years to come,"" said John Leahy, chief operating officer customers of Airbus.","{'label': 'Positive', 'score': 0.9956623911857605}",positive,0.9956623911857605,1
+Miller goes to work on Airbus offices - Construction Index,"Tue, 24 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZWNvbnN0cnVjdGlvbmluZGV4LmNvLnVrL25ld3Mvdmlldy9taWxsZXItZ2V0cy10by13b3JrLW9uLWFpcmJ1cy1vZmZpY2Vz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Artist impression of Airbus' new office building
+
+Miller will deliver two separate contracts at Airbus Aerospace Park in Filton, Bristol.
+
+The first contract is a £10m project to refurbish and alter Pegasus House, and to partly demolish and refurbish Old Filton House. The second contract, worth £27m, is for the construction of a 25,000 sqm four-storey office building.
+
+Pegasus House, an existing five-storey, 1936, Grade II listed art-deco office building, will undergo a complete refurbishment and alteration.
+
+Old Filton House, a Grade II listed mid-eighteenth century, three-storey country house, will be partially demolished and refurbished, in order to return the building to its former glory. The works also include substantial structural alterations, new M&E installation and an upgrade of the current thermal installation. Construction works started in May and are due for completion in the summer of 2013.
+
+Works on the office building are scheduled to start next month and will see the delivery of a new naturally ventilated office building incorporating four atria and a roof level plant room. Once complete in autumn 2013, the building will provide office accommodation for 2,500 staff with changing facilities for up to 600 cyclists, an energy centre, and 900 car parking spaces. There will also be a new access route to the campus off the main A38, which requires the construction of a new controlled junction.
+
+Miller Construction chief executive Chris Webster said: “These contract wins are in line with our strategy to develop our presence in one of our key developing markets, science and technology, providing us with the opportunity to widen our expertise and grow our reputation as a cross-market leader.”
+
+Got a story? Email news@theconstructionindex.co.uk","{'label': 'Neutral', 'score': 0.9999958276748657}",neutral,0.9999958276748657,0
+THAI Smile receives delivery of first Airbus A320 - Pattaya Mail,"Wed, 25 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnBhdHRheWFtYWlsLmNvbS90cmF2ZWwvdGhhaS1zbWlsZS1yZWNlaXZlcy1kZWxpdmVyeS1vZi1maXJzdC1haXJidXMtYTMyMC0xNDkzOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Teerapol Chotichanapibal (4th from right), Executive Vice President for Product and Customer Services, Thai Airways International Public Company Limited, and Woranate Laprabang (4th from left), Managing Director,
+
+THAI Smile, received delivery of THAI Smile’s first Airbus A320 from Thomas Friedberger (2nd from left), Senior Vice President for Sales in Asia, Airbus SAS, alongside Brian Harvey (3rd from right), Chief Marketing Officer, SMBC Aviation Capital, Jean-Jacques Boissin (3rd from left), Sales Director and Customer Affairs for Southeast Asia, Airbus SAS, and Adrian Dharsan (2nd from right), Vice President for Marketing, Aviation Capital, during an aircraft delivery ceremony that was held at Airbus’ facility in Hamburg, Germany.
+
+THAI Smile began operating flights with the Airbus A320 on its first flight from Bangkok to Macau at 2 flights per day, beginning on 7 July 2012.","{'label': 'Neutral', 'score': 0.9999969005584717}",neutral,0.9999969005584717,0
+Review: Thai Smile A320 – Business Traveller - Business Traveller,"Tue, 03 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmJ1c2luZXNzdHJhdmVsbGVyLmNvbS9uZXdzLzIwMTIvMDcvMDMvcmV2aWV3LXRoYWktc21pbGUtYTMyMC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thai Airways’ “light premium” service, Thai Smile, has just received one of its 11 A320s on order and will start servicing the Bangkok-Macau route from July 7. The delivery flight took off on June 30 at 1230 from Airbus’s facility in Hamburg, stopped in Dubai to refuel before continuing on for the Thai capital.
+
+Among the passengers were journalists from Thailand and Business Traveller Asia-Pacific, as well as Thai Smile’s managing director Captain Woranate Laprabang.
+
+We were flying out of Airbus's Hamburg facility for Bangkok via Dubai. As we boarded on the flight, numbered TG8929, we were greeted by flight attendants in very stylish and smart orange uniforms.
+
+The colour palette of the interior, however, is much darker than we expected. The seats are upholstered in mostly brown and orange ethnic stripes, with dark brown leather head rests. Woranate said that head rest covers with the Thai Smile logo would be added.
+
+Configuration is 3-3 throughout, and each seat is 18 inches wide, with a recline angle of 120 degrees. The first four rows, a business class product called Smile Plus, have a wider seat pitch at 33 inches, versus 28 to 31 inches in economy. Moreover, the three seats on each side in this premium space are to only accommodate two passengers and, with the armrests lifted, are to provide ample of space to stretch.
+
+In front of every seat is a magazine compartment above the tray table, and there is also the seat pocket. At our flight, there was nothing in either. Woranate said that initially, Thai Airways' Sawadee magazine would be provided but eventually, Thai Smile would have its own inflight title.
+
+Smile Plus provides more leg room but even at the back of the cabin, not all seats are made equal. The pitch of those after row 42, at the emergency exit, is significantly smaller. When I sat in one of those for a test, my knees were touching the back of the seat in front of me and if a passenger in front of me reclined, it would be really uncomfortable.
+
+One good feature of the aircraft is the very spacious overhead storage compartments. Each can easily fit in two small trolleys. According to Woranate, economy passengers will be served simple sandwiches and drinks, while the Smile Plus cabin will have multi-course meal service and more beverage options.
+
+Thai Smile flights come with all the same checked baggage allowance and Royal Orchid Plus benefits as Thai Airways and Smile Plus passengers have lounge access.
+
+For a more detailed Tried and Tested review of Thai Smile, look out for the September issue of Business Traveller Asia-Pacific.
+
+Visit www.thaismileair.com.
+
+Reggie Ho","{'label': 'Neutral', 'score': 0.9999978542327881}",neutral,0.9999978542327881,0
+Airbus Military begins final assembly of first A400M for Turkey - defenceWeb,"Tue, 17 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5kZWZlbmNld2ViLmNvLnphL3ZpcnR1YWwtcHJlc3Mtb2ZmaWNlcy9haXJidXMtbWlsaXRhcnkvdnBvLWFpcmJ1cy1taWxpdGFyeS1haXJidXMtbWlsaXRhcnktYmVnaW5zLWZpbmFsLWFzc2VtYmx5LW9mLWZpcnN0LWE0MDBtLWZvci10dXJrZXkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Airbus Military A400M final assembly line (FAL) in Seville (Spain) has begun working on the first A400M for the Turkish Air Force. The integration of the wings and central wing-box for this aircraft, known as MSN9, began in mid-May, while the integration of the nose and the fuselage started by the end of June. With the arrival of the vertical tailplane (VTP) and the horizontal tailplane (HTP) yesterday, all the components for this third serial production A400M are already being integrated in the FAL.
+
+Turkey will take delivery of its first A400M military airlifter in 2013.
+
+The photograph shows the nose and fuselage join-up process under way.
+
+This picture and additional ones of the A400M MSN9 can be downloaded in high-resolution from http://www.airbusmilitary.com/Multimedia/A400MPhotoGallery.aspx.
+
+[E]
+
+A400M
+
+The A400M is an all-new military airlifter designed to meet the needs of the world’s armed forces in the 21st century. Thanks to its most advanced technologies, it is able to fly higher, faster and further, while retaining high manoeuvrability, low speed, and short, soft and rough airfield capabilities. It combines both tactical and strategic/logistic missions. With its cargo hold specifically designed to carry the outsize equipment needed today for both military and humanitarian disaster relief missions, it can bring this material quickly and directly to where it is most needed. Conceived to be highly reliable, dependable, and with a great survivability, the multipurpose A400M can do more with less, implying smaller fleets and less investment from the operator. The A400M is the most cost-efficient and versatile airlifter ever conceived, and absolutely unique in its capabilities.
+
+Airbus Military
+
+Airbus Military is the only military and civic/humanitarian transport aircraft manufacturer to develop, produce, sell and provide support and services for a comprehensive family of airlifters with a payload range of three to 45 tonnes. An Airbus subsidiary, Airbus Military, is responsible for the A400M programme, the A330 Multi Role Tanker Transport (MRTT) and further military derivatives based on Airbus civil aircraft. These, together with the smaller ‘Light & Medium’ C295, CN235 and C212, make Airbus Military the global leader in the market for military transport, tanker and surveillance aircraft capable of performing the most varied types of missions. Altogether, Airbus Military has sold more than 1 000 aircraft to 130 military, civil and governmental customers. More than 800 of these aircraft have been delivered. Airbus is an EADS company.","{'label': 'Neutral', 'score': 0.9996863603591919}",neutral,0.9996863603591919,0
+Cathay Pacific to modernize fleet with bigger aircraft - PortCalls,"Wed, 11 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBvcnRjYWxscy5jb20vY2F0aGF5LXBhY2lmaWMtdG8tbW9kZXJuaXplLWZsZWV0LXdpdGgtYmlnZ2VyLWFpcmNyYWZ0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Hong Kong’s Cathay Pacific Airways continues to modernize its fleet, announcing plans to convert 16 of its previously ordered Airbus A350-900 aircraft into larger Airbus A350-1000 aircraft.
+
+It also wants to exercise an option to purchase an additional 10 Airbus A350-1000 aircraft, the company said in a July 10 statement.
+
+The list price of the 10 aircraft is about HK$25 billion, and the incremental list price for the conversion is about HK$8 billion.
+
+The company board is expected to consider the proposal when it meets on August 8, 2012.
+
+“This is an important and strategic development for Cathay Pacific. The A350-1000 aircraft will bring us world-beating fuel efficiency and environmental friendliness,” John Slosar, Cathay Pacific chief executive, said.
+
+Following this latest order, the airline will have 22 Airbus A350-900s and 26 Airbus A350-1000s on order. It currently operates a fleet of 135 wide-body aircraft.
+
+In addition to new aircraft, the company is investing HK$5.9 billion in a new cargo terminal at Hong Kong International Airport, scheduled to open in early 2013.
+
+Photo: kingair42","{'label': 'Neutral', 'score': 0.9993164539337158}",neutral,0.9993164539337158,0
+Airbus Completes Front Section For First Flyable A350 XWB - AvStop Aviation News,"Mon, 23 Jul 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHA6Ly9hdnN0b3AuY29tL2p1bHlfMjAxMi9haXJidXNfY29tcGxldGVzX2Zyb250X3NlY3Rpb25fZm9yX2ZpcnN0X2ZseWFibGVfYTM1MF94d2IuaHRt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The avionics will be a further development of the integrated modular avionics (IMA) concept found on the A380. The A350's IMA will manage up to 40 functions (versus 23 functions for the A380) such as undercarriage, fuel, pneumatics, cabin environmental systems, and fire detection. Airbus says benefits will include reduced maintenance and lower weight because IMA replaces multiple processors and LRUs with around 50% fewer standard computer modules known as line-replaceable modules. The IMA runs on a 100-Mbit/s network based on the avionics full-duplex (AFDX) standard, already employed in the A380 instead of the architecture used on the A330/A340. The Trent XWB family comprises two basic engines to power the three A350 variants. The baseline 370 kN (83,000 lbf) thrust version for the A350-900 will be derated to 330 kN (74,000 lbf) and 350 kN (79,000 lbf) for the -800, while an upgraded 432 kN (97,000 lbf) thrust version will power the A350-1000. The higher rating 432 kN (97,000 lbf) engine will have some modifications to the fan module - it will be the same 118-inch diameter but will run slightly faster and have a new fan blade design - and some increases in temperatures brought by new materials technologies coming from its research programs. The basic 248 t MTOW -800 will be offered with a 330 kN (74,000 lbf) sea-level-thrust rating, while the 279 t MTOW option will have 350 kN (79,000 lbf) thrust. Airbus also plan to offer a 'hot and high' rating option flat-rated at 350 kN (79,000 lbf) at higher altitudes and temperatures which uses the full capability of the -900's 370 kN (83,000 lbf) thrust engine prompted by the operating requirements for Middle Eastern launching customers Qatar Airways, Emirates, and Etihad. The Trent XWB will feature a 118-inch (300 cm) fan diameter and the design will be based on the advanced developments of the Trent 900 (Airbus A380) and Trent 1000 (Boeing 787). The Trent XWB may also benefit from the next-generation reduced acoustic mode scattering engine duct system (RAMSES), which is a noise-dampening engine nacelle intake and a carry-on design of the Airbus's ""zero splice"" intake liner developed for the A380. Engine thrust-reversers and nacelles will be supplied by US-based Goodrich Corporation. The A350 XWB will feature a 1,268 kW (1,700 hp) Honeywell HGT1700 auxiliary power unit, which has 10% greater power density than the previous generation of Honeywell's 331 APU family. Honeywell will also supply the air management system: the bleed air, environmental control, cabin pressure control and supplemental cooling systems. The ram-air turbine will be supplied by Hamilton Sundstrand and will be located in the lower surface of the fuselage. The generator requirement for the ram air turbine is 100 kVA compared to 150 kVA for the A380.","{'label': 'Positive', 'score': 0.9024131298065186}",positive,0.9024131298065186,1

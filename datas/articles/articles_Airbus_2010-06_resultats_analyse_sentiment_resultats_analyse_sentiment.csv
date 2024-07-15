@@ -1,0 +1,374 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Boeing 787 Dreamliner and Airbus A380 Comparison - Popular Mechanics,"Mon, 14 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL2ZsaWdodC9hNTgxOS9haXJidXMtdnMtYm9laW5nLWJhdHRsZS1mb3ItYWlyLXNwYWNlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus A380
+
+Media Platforms Design Team
+
+Media Platforms Design Team Click to Enlarge
+
+The world's largest passenger plane has proven to be the most expensive civilian airplane ever developed. Airbus claims its fuel efficiency, control system and sound-reduction technology also make it the most advanced airliner ever built. The first-class section sets standards in luxury, but the A380 began service during a global recession. ""They're going to see years of losses before that [luxury] market fully materializes,"" says investment consultant Paul Nisbet, president of JSA Research. Some carriers deferred airplane deliveries, while Qantas ripped out its first-class A380 cabins for ones with cheaper seats.
+
+Boeing 787 Dreamliner
+
+Media Platforms Design Team
+
+The Dreamliner travels the same distance as the A380 at the same speed but carries half the passengers. The airliner's $10 billion development suffered from more than two years of delays, costing the company orders and credibility. Regardless, the versatility of Boeing's airplane has interested a steady stream of buyers. The Dreamliner's small size, quick flight-turnaround times and fuel economy account for its sales advantage over the A380. With a maiden flight under its belt in December 2009 and a crucial wing test passed in March, Boeing could deliver its first 787 by the end of this year.","{'label': 'Positive', 'score': 0.9574661254882812}",positive,0.9574661254882812,1
+Dubai-based Emirates to order 32 Airbus A380 aircraft - FRANCE 24 English,"Tue, 08 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi8yMDEwMDYwOC1kdWJhaS1iYXNlZC1lbWlyYXRlcy1vcmRlci0zMi1haXJidXMtYTM4MC1haXJjcmFmdC1hdmlhdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"AVIATION
+
+Dubai-based airline Emirates has announced an order of 32 more Airbus A380 planes, taking the company's total order to 90. Estimated at more than 11 billion dollars, Tuesday's order becomes the biggest contract in civil aviation history, says Airbus.
+
+Advertising Read more
+
+AFP - Dubai airline Emirates announced on Tuesday an order for 32 A380 ""superjumbos"" for 11.5 billion dollars, the biggest contract in civil aviation history according to the aircraft's maker Airbus.
+
+
+
+The A380 order, which takes to 90 the number ordered by Emirates, ""shows our confidence in the future growth"" of the airline industry, chief executive Sheikh Ahmed bin Saeed al-Maktoum said at the Berlin Air Show (ILA).
+
+
+
+""It's the largest order ever placed for civil aircraft by dollar value based on catalogue prices in aviation history,"" said John Leahy, chief commercial officer at Airbus.
+
+
+
+Emirates was the first airline to order the huge A380, which was the main attraction at the ILA starting on Tuesday. It has already taken delivery of 10 of the aircraft.
+
+
+
+Franco-German Airbus, the arch rival of US giant Boeing, has gone months without receiving any confirmations of orders for the A380 or any new contracts for the plane as airlines have wrestled with the global recession.
+
+
+
+Louis Gallois, chief executive of parent company EADS, said in a recent media interview that orders for the A380 would not properly take off again until 2011 or 2012 as airlines put the downturn behind them.
+
+
+
+The International Air Transport Association (IATA) provided some cheer on Monday with a prediction that the sector should be profitable this year for the first time since 2007.
+
+Daily newsletterReceive essential international news every morning Subscribe","{'label': 'Positive', 'score': 0.9622958302497864}",positive,0.9622958302497864,1
+System security is focus for e-enabled A350 XWB - Flightglobal,"Tue, 01 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vc3lzdGVtLXNlY3VyaXR5LWlzLWZvY3VzLWZvci1lLWVuYWJsZWQtYTM1MC14d2IvOTM2ODUuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"As Airbus works to ensure its A350 XWB is not vulnerable to hackers, it has raised some of the burning questions that must be answered before e-enabled airliners are brought to market.
+
+In recent years the US and European certification authorities have expressed their concerns about security of e-enabled aircraft such as the A350, A380, Boeing 787 and Boeing 747-8, through certification review items and special conditions.
+
+The main novelty, according to Airbus, is the use of digital system architecture composed of several connected networks/domains - flight safety-related control, communication and navigation systems; airline business and administrative support; and passenger information and entertainment - and the concern that these networks may be subject to unauthorised access.
+
+© Airbus Airbus A350 class 2 flight deck
+
+""As a consequence, 'connectivity' has to be taken in a scope wider than only cabin connectivity, including all kinds of communication [ground system to aircraft systems and aircraft systems to aircraft systems],"" said Airbus vice-president, cabin design office Jonathan Norris at a recent World Airline Entertainment Association (WAEA) single focus workshop.
+
+While regulators are concerned that unauthorised people could use in-flight connectivity to hack into on-board systems while physically on board the aircraft, their greater concern is that unauthorised individuals would get into the systems via Gatelink on the ground and load a ""false flight management system"", Norris says.
+
+As for managing off-board communications, Airbus wants answers to the following:
+
+Which air-ground (ground-ground) links shall be supported? If this link is shared with cockpit communications, have all necessary studies been done to ensure aircraft performance and security are not affected by such connectivity traffic?
+
+Are applicable certification rules for new e-enabled aircraft (A350, 787, 747-8) that require segregation between cabin and operational communications met?
+
+To these two points, Airbus has been an advocate for having ""a very clean line of segregation"", says Norris, noting that ""it could be hardware segregation or software segregation"".
+
+With respect to managing on-board wireless signals functions, Airbus asks:
+
+Are the proposed wireless frequencies to be used in line with regulatory standards and Airbus directives?
+
+Are wireless communications used (or planned) by other maintenance, cabin or cockpit applications? If ""yes"", Airbus wants to ensure that aircraft performance is not affected, and to secure ""the evolution and co-existence of several wireless systems on board as well as continuous compliance to regulatory requirements"", says Norris.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.9981974959373474}",neutral,0.9981974959373474,0
+Emirates places biggest A380 order - CBC News,"Tue, 08 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2J1c2luZXNzL2VtaXJhdGVzLXBsYWNlcy1iaWdnZXN0LWEzODAtb3JkZXItMS45NDgyOTDSAR9odHRwczovL3d3dy5jYmMuY2EvYW1wLzEuOTQ4Mjkw?oc=5&hl=en-US&gl=US&ceid=US:en,"Dubai-based airline Emirates has ordered another 32 Airbus A380 ""superjumbo"" jets, the largest-ever order for the world's biggest passenger airplane.
+
+An Airbus A380 approaches Le Bourget airport, north of Paris, on a test flight in 2005.
+
+The $11.5 billion deal would give Emirates 90 of the planes by 2017, and give the upstart carrier more seats on intercontinental routes than British Airways and Air France combined.
+
+The airline received its first A380 in July 2008. It currently has 10 in its fleet, with another 48 already on order before Tuesday's announcement.
+
+The order ""affirms Emirates' strategy to become a world-leading carrier and to further establish Dubai as a central gateway to worldwide air travel,"" said Emirates chairman Sheikh Ahmed bin Saeed Al Maktoum.
+
+The pact also gives the Toulouse, France-based planemaker a boost, as its tries to turn hype surrounding its massive plane into financial gains.
+
+Airbus's chief operating officer, John Leahy, said the company now has 234 firm orders for the superjumbo, with 30 planes already delivered and a total of 17 customers.
+
+He hinted the company is in negotiations with several other airlines for A380 orders, but he declined to name names.
+
+Boon for Airbus
+
+The company's ambitious A380 program has been beset by numerous production and financial delays since it was first proposed in 2005. After originally hoping the superjumbo would be the company's salvation, Airbus is now targeting to break even by 2015 on the project.
+
+Later Tuesday, Airbus announced a separate order from TAM of Brazil for 20 of its A320 single-aisle jets and five more of the A350 XWB widebody planes that the company is developing — an order with a catalog value of $2.9 billion.
+
+Deliveries of the A320s will start in 2014 and the A350s are slated to start arriving in 2016. TAM already has 44 A320s and 22 A350s on order.","{'label': 'Neutral', 'score': 0.9998830556869507}",neutral,0.9998830556869507,0
+Rolls-Royce and General Electric new engines ready to fly – Suppliers Share Wrap | CAPA - CAPA - Centre for Aviation,"Sun, 20 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMihAFodHRwczovL2NlbnRyZWZvcmF2aWF0aW9uLmNvbS9hbmFseXNpcy9yZXBvcnRzL3JvbGxzLXJveWNlLWFuZC1nZW5lcmFsLWVsZWN0cmljLW5ldy1lbmdpbmVzLXJlYWR5LXRvLWZseS0tc3VwcGxpZXJzLXNoYXJlLXdyYXAtMjkzMDnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Rolls-Royce ran its Trent XWB for the first time late last week. The new engine is promised to be 28% more efficient than previous generations of engines. As the sole powerplant for Airbus' new A350 XWB, more than 1,000 Trent XWBs have been ordered.
+
+The new engines will be run on an Airbus A380 testbed next year and flight tests on an A350 XWB are scheduled for 2012. Seven development engines will be running by early 2011.
+
+More than 2,400 Trent-family engines are in the Rolls-Royce order book. 224 Trent family engines across four Airbus and Boeing programmes were delivered in 2009, a record for the company.
+
+Rolls-Royce civil aircraft engine deliveries
+
+In addition to the Trent XWB, Roll-Royce's Trent 1000 engine is being readied for entry into service on Boeing's B787 at the end of this year. The B787 recently completed its 1,000th hour of test flying, with Boeing on schedule to deliver the first aircraft to launch customer, All Nippon Airways.
+
+Boeing completed its first B787 test flight powered by General Electric GEnx-1B engines last week. The GEnx engine has already completed more than 1,800 flying hours on the B747-8. The B787 features GEnx and Trent 1000 engines, although the GEnx has proved the more popular engine so far.
+
+Rolls-Royce's shares eased 0.1% on Friday, while Boeing gained 1.0%.
+
+Selected Aviation suppliers' daily share price movements (% change): 18-Jun-2010","{'label': 'Positive', 'score': 0.6169480681419373}",positive,0.6169480681419373,1
+"Factbox: Sizing up the Airbus A400M ""Grizzly"" - Fox News","Tue, 08 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3RlY2gvZmFjdGJveC1zaXppbmctdXAtdGhlLWFpcmJ1cy1hNDAwbS1ncml6emx50gFLaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdGVjaC9mYWN0Ym94LXNpemluZy11cC10aGUtYWlyYnVzLWE0MDBtLWdyaXp6bHkuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"Powered by the West's largest turbo-prop engine, the new European competitor is designed to lift 37 tons compared with the Hercules's payload of 21 tons and the C-17's 75 tons. Its list price is around 100 million euros for domestic buyers.
+
+Here are details on the pan-European airlifter, nicknamed the ""grizzly"" by test crew after its burly design.
+
+WHO WILL BUY THE A400M?
+
+-- Mostly European NATO nations, though Malaysia also wants four planes. Belgium, Britain, France, Germany, Luxembourg, Spain and Turkey recently won a 10 percent price increase which will come through a mixture of fresh money, longer delivery timetables or fewer planes for the same price.
+
+Here is a table of buyer nations
+
+More On This... Inside the Cockpit of a “Grizzly” Airbus
+
+COUNTRY | AIRCRAFT:
+
+GERMANY 60***
+
+FRANCE 50
+
+SPAIN 27
+
+UK 25**
+
+TURKEY 10
+
+BELGIUM 7
+
+LUXEMBOURG 1
+
+Total launch nations 180
+
+Exports:
+
+MALAYSIA 4
+
+SAFRICA 0*
+
+NOTES:
+
+*In 2009 South Africa canceled an order for 8 A400Ms and said it would withdraw from the program.
+
+**In March Britain said it would reduce its order to 22 from 25:
+
+*** Germany has said it will reduce the number of A400Ms it has ordered to keep costs down.
+
+DESIGN:
+
+-- The A400M is the first high-wing aircraft with a T-shaped tail ever built by Airbus, known for its classic low-wing airliners. Some 30 percent of the wide-body plane is made of weight-saving carbon-fiber composites including most of the wings. As on many modern airliners, pilots control the plane using electronics or ""fly-by-wire"" systems.
+
+ENGINES:
+
+-- The plane's four 11,000-shaft-horsepower P400-D6 engines were developed by a European team including Rolls-Royce, Safran and MTU Aero Engines. A local engine was chosen after governments vetoed Airbus's choice of an imported engine made by Pratt & Whitney Canada.
+
+PROPELLERS:
+
+-- Each engine has eight Ratier-Figeac propeller blades measuring 5 meters tip-to-tip. The scimitar-shaped blades on each pair of engines rotate in opposite directions -- one clockwise and one anti-clockwise. That makes the wings more efficient and saves weight, enabling the plane to fly with a smaller rudder. If all the engines turned in the same direction and one failed, a much bigger rudder would be needed to keep the plane stable.
+
+SOFTWARE:
+
+-- Much attention has been given to crucial engine software, known as FADEC (Full Authority Digital Engine Control). Writing and documenting the software to civil certification standards proved a daunting task and contributed to delays. The code was twice as long as that on the world's largest civil jet engine.
+
+PAYLOAD VS RANGE:
+
+-- With a typical 20-ton payload, the A400M can fly 3,450 nautical miles. With 30 tonnes on board its range is 2,450 nm.
+
+WHAT IT CAN CARRY:
+
+-- The 340 cubic meter hold can carry an NH-90 transport helicopter, or a CH-47 Chinook, or a container truck or two infantry vehicles.
+
+-- In emergencies it has room for 125 stretchers plus an intensive care unit. It can hold 116 soldiers or fully equipped paratroopers.
+
+-- Airbus says the A400M's size allows it to combine strategic and tactical roles, but competitors say this makes little sense as the competing Lockheed C-130J and Boeing C-17 already overlap.
+
+WHERE IT CAN LAND:
+
+-- Airbus says the 12-wheel landing gear allows the A400M to land on soft and rough airstrips as short as 750 meters (2,500 feet).
+
+SPEED AND HEIGHT:
+
+-- The maximum speed of Mach 0.72 corresponds to 420 knots ""true air speed"" at medium altitude. At low altitudes it can slow to less than 110 knots to refuel helicopters -- that is 20 knots slower than the approach speed of a small jetliner. A knot is one nautical mile per hour.
+
+TANKER:
+
+-- It doubles as a refueling tanker and can be refueled midair itself.
+
+COMPETITION:
+
+The A400M fits into a niche between the Lockheed Martin C-130 Hercules turbo-prop and the Boeing C-17, which is also capable of landing on semi-prepared airstrips. In practice all three compete to some extent, market experts say.
+
+A spokesman for Lockheed Martin said the C-130J, a modernized version of which first flew in 1996, can carry 95 percent of what the A400M is specified to do.
+
+Source: Reuters / Airbus Military, industry","{'label': 'Neutral', 'score': 0.9999518394470215}",neutral,0.9999518394470215,0
+China Eastern expands Vancouver-Shanghai route to daily - China.org,"Tue, 08 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuY2hpbmEub3JnLmNuL2J1c2luZXNzLzIwMTAtMDYvMDgvY29udGVudF8yMDIwNjQzMi5odG3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"File photo: A China Eastern's (MU) Airbus A330-series jet taxis at Shanghai Hongqiao Airport (SHA)
+
+Following plans to offer daily flights on its Vancouver-Shanghai route throughout the summer, China Eastern Airlines announced Monday it would be offering the service permanently beginning Nov. 1.
+
+From June 20 through Sept. 10, the Shanghai-based carrier is offering a daily flight leaving Shanghai at 2.30 p.m. and arriving in the Canadian city at 10.30 a.m. on the same day. The plane will then depart Vancouver at 12.20 p.m. and arrive in Shanghai the following day at 3.25 p.m.
+
+For China-bound passengers, the airline will provide complimentary connecting to flights to 40 major cities in the country. For those who can't make a connecting flight on their arrival day, China Eastern will provide free hotel accommodation in Shanghai.
+
+Speaking at the Vancouver airport Monday, Margaret Meng, China Eastern's chief executive officer, said the daily service was needed as the flights on the Airbus A340 aircraft, were currently running at 80 to 85 percent capacity. The summer flights were expected to be at 90 percent capacity or higher.
+
+She also cited the Approved Destination Status (ADS) that was granted to Canada in December. The status, which is currently in the final steps of approval, will make it easier for Chinese tourists to visit Canada.
+
+Meng said Vancouver's hosting of the Winter Olympics earlier this year had only increased the importance of the city's ""gateway position to Asia, as evidenced by the increasing post-Games trip activities between China and Canada.""
+
+She also mentioned a television survey that reported more than 850 million Chinese had watched some of the Winter Olympics and that last year Chinese visitor arrivals in Canada were 130 percent greater than the 1997 figure.
+
+""Once the ADS agreement has been finalized between the two countries, the figure will increase by leaps and bounds,"" Meng said, adding she hoped Canadians would take the opportunity to visit the World Expo, currently ongoing in Shanghai.","{'label': 'Neutral', 'score': 0.9995094537734985}",neutral,0.9995094537734985,0
+Pilot error blamed for NZ Airbus crash - Sydney Morning Herald,"Wed, 30 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNtaC5jb20uYXUvd29ybGQvcGlsb3QtZXJyb3ItYmxhbWVkLWZvci1uei1haXJidXMtY3Jhc2gtMjAxMDA2MzAtempwOC5odG1s0gFWaHR0cHM6Ly9hbXAuc21oLmNvbS5hdS93b3JsZC9waWxvdC1lcnJvci1ibGFtZWQtZm9yLW56LWFpcmJ1cy1jcmFzaC0yMDEwMDYzMC16anA4Lmh0bWw?oc=5&hl=en-US&gl=US&ceid=US:en,"Frustrated Air New Zealand crew members encouraged the pilots of an Airbus A320 to carry out tests just before the plane crashed off France's Mediterranean coast, an aviation safety specialist says.
+
+The comments come after French prosecutors announced overnight they would not press charges over the November 27, 2008 crash near Perpignan.
+
+A report prepared for a French judicial inquiry found the Air New Zealand plane lost control and crashed, killing the two German pilots and five New Zealanders on board, as the crew tried to perform a low-speed test ""in inappropriate conditions"".
+
+The report essentially agreed with the findings of an interim report issued last year by Paris-based Bureau d'Enquetes et d'Analyses (BEA), which found the plane stalled during a low-speed, low-altitude test manoeuvre as it was coming in to land at Perpignan airport.
+
+It said the plane should have been flying at an altitude of 5200 metres to carry out the manoeuvre, but was instead at 600m.","{'label': 'Negative', 'score': 0.9967359900474548}",negative,0.9967359900474548,-1
+Finnair Sets Eyes on Five New Airbus Planes - YLE News,"Thu, 10 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiGmh0dHBzOi8veWxlLmZpL2EvMy01NTc4MTQ20gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"National airline Finnair plans to order five additional Airbus planes to service its European routes. Finnair is the first airline to place an order for the newly-upgraded Airbus planes, which are outfitted with wing extensions designed to reduce fuel use.
+
+The article is more than 13 years old
+
+The deal is worth more than 400 million euros. The Airbus aircraft, which will be taken into use in 2013, are intended to replace four Boeing 757s which currently run holiday flights in Europe.
+
+Airbus says the planes will consume less fuel due to their Sharklet wing tip devices.","{'label': 'Neutral', 'score': 0.9999295473098755}",neutral,0.9999295473098755,0
+Air NZ slams 'speculative' comments made over Airbus crash - New Zealand Herald,"Wed, 30 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm56aGVyYWxkLmNvLm56L256L2Fpci1uei1zbGFtcy1zcGVjdWxhdGl2ZS1jb21tZW50cy1tYWRlLW92ZXItYWlyYnVzLWNyYXNoLzM1SUxBVkpOWEwySEdOQ01RR0lCWVUySlFVL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Photo / Supplied
+
+Air New Zealand has hit out at an aviation safety specialist's interpretation of what went on before an Airbus A320 crashed into the Mediterranean off France in 2008, calling his comments ""speculative and baseless"".
+
+
+
+A report prepared for a French judicial inquiry found the Air New Zealand plane lost control and crashed, killing the two German pilots and five New Zealanders on board, as the crew tried to perform a low-speed test ""in inappropriate conditions"".
+
+
+
+The report essentially agreed with the findings of an interim report by Paris-based Bureau d'Enquetes et d'Analyses (BEA), which found the plane stalled during a low-speed, low-altitude test manoeuvre as it was coming in to land at Perpignan airport.
+
+
+
+Aviation safety specialist David Learmount, from the FlightGlobal website, said the interim report laid out the facts but left ""loads of questions unanswered"".
+
+
+
+Air New Zealand crew in the cockpit encouraged the German pilots to carry out a low-speed test after air traffic controllers denied a request to carry out the test at higher altitude, he said.
+
+
+
+Those on board were frustrated they had not been able to complete testing, and he felt Air New Zealand crew pushed for tests that contributed to the crash, he said.
+
+
+
+""The vast majority of what happened here was to do with human frustration at not being able to get a job done, trying to get it done at a lower altitude than they should have done, and then getting into trouble,"" he told Radio New Zealand.
+
+
+
+Air New Zealand told NZPA said it was ""irresponsible"" of Mr Learmount ""to make speculative and baseless claims about what he thinks may have taken place in the cockpit of the A320 in November 2008"".
+
+
+
+Voice data showed there had been discussion about the low speed check well before the German pilot begun the test at his own initiative, the airline said.
+
+
+
+""To suggest the Air New Zealand crew ""encouraged"" this in an environment of frustration is simply misleading.""
+
+
+
+Only one Air New Zealand staff member was in the cockpit, and he was fulfilling an observation role only, the airline said.
+
+
+
+Frustration among the pilots was not reflected in the BEA report, or on the partial transcript of the voice data recorder, it said.
+
+
+
+""Air New Zealand would encourage Mr Learmount to wait until the final judicial and BEA reports are completed before commenting on what may have caused the accident. His speculation is irresponsible and shows a lack of respect to those affected by the tragedy.""
+
+
+
+Airline chief executive Rob Fyfe and operations and safety general manager Captain David Morgan were briefed on the judicial investigation in a confidential meeting in France yesterday.
+
+
+
+The New Zealanders killed in the crash were Air New Zealand pilot Brian Horrell, 52, Air New Zealand engineers Murray White, 37, Michael Gyles, 49, and Noel Marsh, 35, and Civil Aviation Authority official Jeremy Cook, 58.
+
+
+
+The bodies were recovered from the crash scene.
+
+
+
+French prosecutor Domnique Alzeari told reporters in Perpignan that his office had no plans to indict anyone in the manslaughter investigation that was opened in the wake of the crash.
+
+
+
+The plane had gone to France for tests and to be repainted before heading to Germany, from where it was scheduled to leave for New Zealand.
+
+
+
+Mr Alzeari noted that families of the victims or other parties had three months in which to request alternative expert opinions on the causes of the crash.
+
+
+
+An examining judge and lawyers for various parties involved will now study the experts' report and any further expert opinion that may be submitted.
+
+
+
+Built in 2005, the plane had been leased to German charter firm XL Airways since 2006. It had been undergoing servicing at EAS Industries in Perpignan and had been flying test circuits before it crashed.
+
+
+
+- NZPA","{'label': 'Neutral', 'score': 0.99681156873703}",neutral,0.99681156873703,0
+"Recoup money from Mulroney, opposition urges - CBC News","Tue, 01 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3JlY291cC1tb25leS1mcm9tLW11bHJvbmV5LW9wcG9zaXRpb24tdXJnZXMtMS44OTIzMjTSAR9odHRwczovL3d3dy5jYmMuY2EvYW1wLzEuODkyMzI0?oc=5&hl=en-US&gl=US&ceid=US:en,"Former prime minister Mulroney says he didn't reveal his business dealings with Karlheinz Schreiber to lawyers in 1995 because they didn't ask the right questions. ((Fred Chartrand/Canadian Press))
+
+Opposition MPs are demanding the federal government recoup the $2.1 million paid to former prime minister Brian Mulroney in an out-of-court settlement of his libel suit against the government 13 years ago.
+
+That suit was based on Mulroney's claims that the RCMP defamed him when it wrote a letter accusing him of taking kickbacks for Air Canada's purchase of Airbus jets in 1988.
+
+Mulroney was prime minister from 1984 to 1993.
+
+The opposition's calls came in response to a report released Monday by the Oliphant Commission looking into Mulroney's dealings with German-Canadian businessman Karlheinz Schreiber.
+
+In his report, Justice Jeffrey Oliphant called into question the testimony Mulroney gave to Department of Justice lawyers in 1995 before the settlement was reached.
+
+Mulroney told the Oliphant Commission that at the time, he did not reveal his business dealings with Schreiber to the lawyers simply because they didn't ask the right questions. But Oliphant called that claim ""patently absurd.""
+
+Schreiber gave Mulroney at least $225,000 in cash-stuffed envelopes in the 1990s. ((Uwe Lein/Associated Press))
+
+In his 1995 testimony, Mulroney said he and Schreiber merely had coffee from time to time.
+
+Later, it was revealed that he, in fact, accepted at least $225,000 in cash from Schreiber after he left office.
+
+Oliphant was appointed by the federal government two years ago to determine what the money was for, where it went and whether the cash relationship between Schreiber and Mulroney was appropriate.
+
+In Monday's report, he ruled that although the money changed hands only after Mulroney left office, the dealings between the two were ""inappropriate.""
+
+The terms governing Oliphant's inquiry barred him from looking directly into the Airbus affair — the allegations that Mulroney and Schreiber were involved in a kickback scheme over the 1988 purchase of Airbus aircraft by Air Canada — and the libel settlement.
+
+Nevertheless, the opposition has argued that since the inquiry found that Mulroney did have inappropriate business dealings with Schreiber, he misrepresented the nature of his relationship with the businessman during the testimony on which his libel settlement was based and hence should forfeit that money.
+
+'Do the decent thing'
+
+Liberal MP Ralph Goodale, who was in cabinet at the time of the settlement, says the government of the day did what it had to do based on the information it had at the time.
+
+""And it now appears that that information was deliberately false,"" said Goodale.
+
+NDP MP Wayne Marston said Mulroney should volunteer to give the money back to taxpayers.
+
+""I think he should do the decent thing and return the money to Canadians,"" Marston said. ""And if he's not prepared to do that, it's up to the government to go after it.""
+
+In question period Tuesday, Liberal MP Marlene Jennings asked whether the government was going to try to recuperate the money, and the accrued interest, paid to Mulroney.
+
+Justice Minister Rob Nicholson said the government will respond to Oliphant's report in ""due course.""
+
+""The recommendations … [were] tabled yesterday,"" said Nicholson. ""They are now with the appropriate authorities, and we'll look at any or all recommendations that come out of that process.""
+
+But before question period, Conservative backbencher David Tilson said he doesn't see any grounds to reopen the settlement.
+
+""There isn't a court in this land that will set aside a settlement that has been made in good faith by two parties unless there is some sort of fraudulent activity. And at this stage, I haven't seen any,"" he said.
+
+Mulroney has not responded to the report or to the calls to return the money but did release a statement Monday.
+
+""I genuinely regret that my conduct after I left office gave rise to suspicions about the propriety of my personal business affairs as a private citizen,"" the statement said.","{'label': 'Neutral', 'score': 0.9996132254600525}",neutral,0.9996132254600525,0

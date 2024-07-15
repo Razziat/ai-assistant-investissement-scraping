@@ -1,0 +1,379 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Thales Alenia Space wins initial funding for high-altitude platform, plans 2018 demo - SpaceNews","Tue, 26 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLWhpZ2gtYWx0aXR1ZGUtcGxhdGZvcm0td2lucy1pbml0aWFsLWZ1bmRpbmctcGxhbnMtMjAxOC1kZW1vbnN0cmF0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS —Space-hardware manufacturer Thales Alenia Space on April 26 contracted with the French state investment bank, Bpifrance, to build a prototype high-altitude platform for future telecommunications, Earth observation and surveillance missions.
+
+The Stratobus project, which Thales Alenia Space has been designing for several years, has won 17 million euros ($19.2 million) in backing from France’s Investing in the Future public bond program to reduce technology risks over 24 months.
+
+In addition, four French regional governments whose industry will be on Thales Alenia Space’s Stratobus contracting team have committed to another 3 million euros in support.
+
+A subscale prototype of Stratobus will be ready for testing in 2018, with qualification and certification flights of a full-scale version in 2020, according to the program’s current schedule.
+
+Stratobus, billed as neither a drone or a satellite but performing similar functions, is designed to operate at 20 kilometers in altitude. Its solar-electric propulsion system will keep it steadily in place, countering the effect of winds that, at that altitude are expected to be no more than 90 kilometers per hour.
+
+Various companies in the past 20 years have worked on stratospheric platforms, which like geostationary satellites would remain at a constant viewing angle for users but, like low-orbiting satellites, would provide high-resolution imagery and low-latency telecommunications.
+
+International frequency regulators at the International Telecommunication Union have agreed to take a fresh look at a possible global frequency allocation for what the ITU calls HAPS, or high-altitude platform stations, in 2019.
+
+“The new market for high-altitude pseudo satellites, or HAPS, is estimated at one billion dollars from now to 2020, but is awaiting a product,” Thales Alenia Space Chief Executive Jean-Loic Galle said in an April 26 statement. “With Stratobus offering a field of view of 500 kilometers, we’re convinced that it will win a large share of this market.”
+
+Jean-Philippe Chessel, Stratobus program manager at Thales Alenia Space, has said in the past that Stratobus would weigh 5,000 kilograms and generate 5 kilowatts of pwer to its 250-kilogram payload. It will be 100 meters long, 33 meters wide and have up to five years of autonomy.
+
+In a feature Chessel stressed as important and uncommon among modern dirigible designs, Stratobus is able to be folded and placed into a 40-foot container for transport.","{'label': 'Neutral', 'score': 0.9999767541885376}",neutral,0.9999767541885376,0
+AR/VR ready for the real world - Thales,"Tue, 19 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jcml0aWNhbC1pbmZvcm1hdGlvbi1zeXN0ZW1zLWFuZC1jeWJlcnNlY3VyaXR5L25ld3MvYXJ2ci1yZWFkeS1yZWFsLXdvcmxk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"AR/VR ready for the real world Share this article
+
+
+
+LinkedIn
+
+Spring has been a busy time of year for Thales's augmented reality (AR) and virtual reality (VR) teams, who took part for the very first time in Laval Virtual in March and the Internet of Things Showroom (SIdO) in April.
+
+
+
+We spoke to project manager,Philippe, to learn more about the practical applications of these technologies and find out how visitors reacted to our first official appearance at these flagship events.
+
+
+
+How did Thales get involved in these innovative technologies?
+
+AR technologies are less than three years old, so it's a completely new market, unlike VR and serious games, which have been developing steadily for over a decade. In both cases, we always ask ourselves the same questions: how can we differentiate ourselves from the other players in these markets, and what competitive advantage can we offer?
+
+The market for video games is very diverse, and we know it's important not to spread ourselves too thinly on the ground. We need to focus on the specific competencies required to develop core building bricks for a whole range of applications. Thales has chosen to concentrate on 3D tools, because they’re the most flexible and once the code is developed it can be tailored to any platform.
+
+
+
+How advanced are these products? Are they fully developed or are they still prototypes?
+
+Last year was a pivotal year in our market. The technologies have been tested in real-world conditions and the hardware is now powerful enough to support the software, so what were once prototypes are now ready to be turned into products. Our deliverables are assembled to order to meet the needs of each customer, so we can offer a fast response, putting together the pieces as and when they're required using the same cross-platform development engine (usually Unity).
+
+
+
+
+
+“1.3 billion mobile AR apps could be in use by 2019 ”
+
+What are the practical applications of these technologies?
+
+Virtual reality and augmented reality are used for different types of applications:
+
+Augmented reality for remote assistance, or real-time access to remote experts. All sectors stand to benefit from these applications, from manufacturing to maintenance & repair, but in practice they’re only likely to be used for more complex tasks.
+
+Augmented reality for industrial assembly, particularly when operations are complex or involve precision tasks, such as in the IT and aerospace sectors, which are our top priorities.
+
+Augmented reality for maintenance, since all machinery today requires lengthy checking procedures. Tasks are recorded by the operator's glasses, so supervisors can ensure that nothing is forgotten or overlooked. The technology is useful in a whole host of situations, particularly in industry.
+
+Virtual reality for serious games. This new kind of computer-based simulation is an effective way to transfer skills and train users in real-world conditions. These techniques also have a role to play in risk prevention, for example to make sure everybody knows where to go if a fire breaks out in a building.
+
+We’re positioned in three main areas: augmented reality for remote assistance, augmented reality for task supervision, and immersive simulation.
+
+
+
+What’s next for virtual and augmented reality? How are these technologies likely to develop?
+
+In virtual reality, simulations will become more immersive and find applications in new areas. Gesture control and force feedback are two avenues of development where we can learn a lot from the world of video games and then decide which aspects we can incorporate into our own technologies.
+
+Augmented reality is the market where the hardware will improve the most in 2016, meaning it will be able to support increasingly powerful software. This new generation of tools will expand the choice of technologies that can be used.
+
+In 2017 and 2018, the field of view offered by AR headsets will double from 24 to 50 degrees. This will mean fewer head movements and make the hardware easier to use.
+
+It was the first time we had taken part and we had a lot of positive feedback. Members of the public were interested to learn that Thales is getting involved in these technologies, and there was a lot of enthusiasm from professionals who are really starting to recognise how these innovations can benefit their businesses and their markets.
+
+In the last few years, industries have been stepping up their R&D in these areas. Now they are looking at practical applications and will be increasingly asking people like us to build demonstrators so they can see how applications work in their own settings. Augmented reality will be a hot topic in a whole range of industries in 2016!
+
+The people we met at Laval Virtual and SIdO liked our focus on industrial applications. They were particularly interested to see how solutions such as Thales Eye can be used right now to develop practical applications quickly. We had installed part of a real satellite on the stand which reinforced our message about practical industrial applications being within reach today. Our new 360° video also helped to show how excited we are about the future of AR and VR!
+
+
+
+","{'label': 'Neutral', 'score': 0.9959753155708313}",neutral,0.9959753155708313,0
+AIX 2016: Thales Takes to the Digital Clouds With InFlytCloud - APEX Media,"Tue, 05 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBleC5hZXJvL2FydGljbGVzL2FpeC0yMDE2LXRoYWxlcy10YWtlcy10by10aGUtZGlnaXRhbC1jbG91ZHMtd2l0aC1pbmZseXRjbG91ZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Entertainment & Connectivity AIX 2016: Thales Takes to the Digital Clouds With InFlytCloud Share
+
+APEX Insight: On day one of the Aircraft Interiors Expo, Thales gave the media a glimpse into what goes on behind-the-screens – with InFlytCloud. The business operations service software processes big data to provide passengers customized in-flight entertainment and to optimize revenue. Also on display were the 21.3-inch Vanilla Sky and 26.5-inch Premium Sky touch screens, some of the largest digital seatback surfaces in the industry.
+
+“We’re investing a significant amount of money in innovation,” said Thales’ CEO Dominique Giannoni during a press event at the Aircraft Interiors Expo today.
+
+Business operations service software InFlytCloud represents just one of the ways in which Thales is looking to transform the passenger experience. In processing big data, it enables an airline to both provide its passengers with a personalized in-flight entertainment (IFE) experience and optimize revenue. “We launched an initiative at MIT with key airlines to see how we can add value by crunching large amounts of data,” said Giannoni. “Today, we’re letting you see inside the cloud.”
+
+“We launched an initiative at MIT with key airlines to see how we can add value by crunching large amounts of data.” – Dominique Giannoni, CEO, Thales
+
+What does the cloud look like? The tool consists of just under a dozen modules, from marketing (where you’d find the revenue-generating information) to maintenance €” it even offers real-time data, like Google Analytics. The platform also enables Thales to know what kind of data airlines are interested in – for example, are they spending more time looking at revenue by flight duration or peak revenue times during each flight?
+
+Giannoni gave a general explanation of how passengers would receive personalized movie recommendations, saying that they would “either have to enter a code manually or perhaps even use QR codes.” He wasn’t specific on the rate of adoption by airlines, but he did say that he expects personalization via InFlytCloud to be “well in place” by mid 2017: “It’s the world we live in; passengers are already accustomed to receiving targeted information in their everyday lives.”
+
+One thing’s for sure: Data security is a top priority for Thales. Personal data, such as credit card info, is not stored on the cloud – it’s encrypted and goes directly from the plane to the third party.
+
+Another example of Thales’ commitment to innovation is its Digital Sky concept. Both the 21.3-inch Vanilla Sky and 26.5-inch Premium Sky touch screens were on display in a closed-off room, where no cameras where allowed. Premium Sky, which represents the largest-ever digital seatback surface, somewhat resembles a smartphone home screen with “apps” ranging from video meditation to ancillary revenue generating destination information, such as ticket-buying options. Passengers can even play Pong against their seatmates. Fancy features include a seamless integrated touchpad in the armrest and wireless headset.
+
+Thales will find out if Digital Sky will win first place in the Electronic Systems category at tonight’s Crystal Cabin Award ceremony.
+
+The company also announced today that it has been selected by Airbus as the lead supplier for high bandwidth connectivity (HBC) systems on its A320, A330 and A380 aircraft platforms and that Thales AVANT IFE was selected by Hainan Airlines for installation on its A330 fleet.","{'label': 'Neutral', 'score': 0.999921441078186}",neutral,0.999921441078186,0
+Thales supplying Malaysia with Fulmar surveillance drones - UPI News,"Mon, 18 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTYvMDQvMTgvTWFsYXlzaWEtcHJvY3VyZXMtRnVsbWFyLXN1cnZlaWxsYW5jZS1kcm9uZXMtZnJvbS1UaGFsZXMvMTgxMTQ2MDk5MzU2MC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Fulmar catapult-launched drone ordered by the Malaysian Maritime Enforcement Agency. Photo courtesy Thales
+
+KUALA LUMPUR, Malaysia, April 18 (UPI) -- Thales' Fulmar unmanned aerial system is being supplied to the Malaysian Maritime Enforcement Agency to enhance the agency's surveillance capabilities. Fulmar, a small fixed-wing UAS, will be installed on six New Generation Patrol Craft now being built by Destini Shipbuilding and Engineering Sdn Bhd. Advertisement
+
+The Fulmar features automatic detection and tracking systems and an automatic identification system, which will extend the operational capabilities of the Malaysian maritime surveillance fleet.
+
+The range of the catapult-launched drone is about 432 miles.
+
+""As the MMEA seeks to upgrade its surveillance capabilities, the Fulmar provides a competitive solution which complements its state-of-the-art vessels,"" said Tan Sri Dato' Seri Rodzali Bin Daud, chairman of Destini Berhad. ""We are pleased to partner with Thales in further developing the expertise in coastal surveillance in Malaysia.""
+
+Thales employees in Malaysia will provide local training and support for the Fulmar starting this year to ensure knowledge transfer for the system's operational and maintenance needs.","{'label': 'Positive', 'score': 0.7229562401771545}",positive,0.7229562401771545,1
+Please Let These Meganormous Screens Be the Future of Flying - WIRED,"Mon, 18 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE2LzA0L3BsZWFzZS1sZXQtbWVnYW5vcm1vdXMtc2NyZWVucy1mdXR1cmUtZmx5aW5nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"It's a testament to the crumminess of modern aviation that a tiny screen and a few movies can make the difference between unmitigated misery and a tolerable experience. But with most travelers carrying a screen of their own and airlines providing reasonably fast, not totally reliable, and expensive Wi-Fi, those small screens are ready for retirement. Where most of us see a feature that deserves a gold watch and a good pension, Thales sees potential for a rejuvenated career.
+
+The French multinational wants to install seat back screens so big they make an iPad Pro look tiny. It calls them Digital Sky, and showed them off earlier this month at the Aircraft Interiors Expo in Hamburg, Germany. The mega-screens are a concept, but the kind of concept that makes you itch with anticipation for the real thing.
+
+Digital Sky could ""change the perception of space, or even time, through engagement,"" says Fred Schreiner, CTO of Thales' in-flight experience team. The idea couldn't be more straightforward: Plop a ginormous screen (21.3 inches for the economy version of the concept) in front of each traveler and pack it with content so they don't mind being crammed into the torture devices that are airline seats.
+
+""If we can find a way to increase the engagement level of a passenger, especially a passenger who's confined in a relatively small space, it's a good thing,"" Schreiner says. You can't argue with the pitch: The more absorbing your entertainment, the less likely you are to notice how much everything else sucks.
+
+The bigger screen makes video content nicer, but also lets you do things like check the flight map without flipping away from your movie. You can use it to read digital magazines, or browse the Internet and make restaurant reservations in your destination city. Adjacent screens can be stitched together for multiplayer games. At the Hamburg expo, Thales set up a game of Pong, with the ball bouncing from one screen to the other. (Pong: Symbol of the Future!)
+
+The concept is informed by psychophysiology research Thales did in one of its labs, tracking subjects' eye movements and pupil dilation, and heart and breathing rates, to see how real travelers will interact with the menus and content.","{'label': 'Neutral', 'score': 0.9990406632423401}",neutral,0.9990406632423401,0
+Thales Demonstrates a Large Size In-Flight Entertainment System - Display Daily,"Fri, 15 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZGlzcGxheWRhaWx5LmNvbS90aGFsZXMtZGVtb25zdHJhdGVzLWEtbGFyZ2Utc2l6ZS1pbi1mbGlnaHQtZW50ZXJ0YWlubWVudC1zeXN0ZW0v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Looking to improve the passenger in-flight entertainment experience, aerospace company Thales (France) has developed a 21.3-inch HD LCD touchscreen display system that is designed to fit into the back side of an airplane seat. The system is called Digital Sky.
+
+A working prototype of the system has been demonstrated in a mock-up cabin. It was shown in a private room at the Passenger Experience Conference, a part of the Aircraft Interiors Expo recently held in Hamburg, Germany. Visitors at the conference commented that “it is clear that the company has invested quite a bit in this concept, given how polished it looked at the show.”
+
+One of the starting points for the system concept is the apparent inverse relationship between the sophistication of the in-flight entertainment system and the amount of legroom provided by the airline to the passenger. The thinking might be that, the less space provided, the more the passengers need to be distracted with entertainment.
+
+Indeed, the system does have the potential to make economy flights more enjoyable by offering an array of interactive entertainment options. Offerings might include journey maps, movies, live TV, video meditation, games and magazines. Other offerings might include providing travelers with information related to the flight’s destination, a means for communicating with other passengers and the ability to call a member of the cabin crew. Almost certainly there will be an on-line store.
+
+These ideas, especially the store, suggests a second and, perhaps, more compelling reason for interest in Digital Sky on the part of the airlines: the potential for the system to generate additional revenue.
+
+The system is built to fit the shape of seats typical found in economy cabin. The screen of the LCD is in portrait orientation.
+
+With this the case, movies and most videos will occupy only a portion of the screen since these are oriented horizontally. Other applications could make better use of the full Digital Sky display screen. It was reported that the viewing angle of the LCDs was such that the image looked very good from the position of the seated passenger.
+
+The system is designed to not take up any extra of the already limited space allocated for passenger legroom. What the system does do is replace all the safety cards and magazines conventionally found in the seat pocket. In this way, the Thales system has the potential to save both space and money. An additional feature is that the system still allows for a flip down tray table beneath the display.
+
+Since the Thales system is based on off the shelf LCDs, it should be possible for the company to keep down product cost. It would seem to follow that the system should be affordable to the airlines.
+
+It can be noted that the Thales system is not the only new passenger in-flight entertainment approach under consideration by airlines. Rather than a conventional seat back display, some carriers are now encouraging passengers to bring their own devices and look at streaming content provided by the airline. This approach has the additional advantage of eliminating the weight associated with the seat back systems.
+
+None-the-less, the large size Thales seatback display is claimed to offer a much more luxurious and immersive experience than is possible on a tablet display – although, apparently, concern has been expressed that some passengers may find it uncomfortably large. Another possibility for those passengers looking for an in-flight entertainment option that more thoroughly isolates them from the unpleasantness of the cabin environment, there is the HMD.
+
+It seems likely that Thales will offer several Digital Sky configuration options, customizing the system to the needs of each airline.
+
+At this time, Thales has not announced any airline partners. However, based on the response the system was getting at the Aircraft Interiors Expo, the airlines seem to be taking Digital Sky quite seriously. -Arthur Berman","{'label': 'Neutral', 'score': 0.9996017813682556}",neutral,0.9996017813682556,0
+Qatar buys Searchmaster radar for quasi-drones - C4ISRNET,"Thu, 07 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS91bm1hbm5lZC8yMDE2LzA0LzA3L3FhdGFyLWJ1eXMtc2VhcmNobWFzdGVyLXJhZGFyLWZvci1xdWFzaS1kcm9uZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Qatar has selected Thales to provide a radar for its optionally piloted vehicles aircraft.
+
+Thales will deliver its Searchmaster radar for the aircraft, which is a hybrid capable of being operated as a UAV or flown as a manned aircraft. The craft is being developed by Qatar and Thales.
+
+""This airborne radar, tailored to all platform types, meets the surveillance requirements of five mission types: ground surveillance, anti-surface warfare, anti-submarine warfare, maritime surveillance and tactical air support,"" a Thales news release said. ""The Searchmaster radar features an AESA active electronic scanning antenna, based on qualified technologies developed for the nose-mounted radar of the Rafale combat aircraft.""","{'label': 'Neutral', 'score': 0.9994634985923767}",neutral,0.9994634985923767,0
+Qatar Armed Forces Selected Thales SEARCHMASTER radar during DIMDEX 2016 - Navy Recognition,"Mon, 04 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMivwFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtZXhoaWJpdGlvbnMvMjAxNi1hcmNoaXZlcy9kaW1kZXgtMjAxNi1zaG93LWRhaWx5LW5ld3MvMzc5NS1xYXRhci1hcm1lZC1mb3JjZXMtc2VsZWN0ZWQtdGhhbGVzLXNlYXJjaG1hc3Rlci1yYWRhci1kdXJpbmctZGltZGV4LTIwMTYuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"At this year’s DIMDEX exhibition, the Qatar Armed Forces have announced a Memorandum of Understanding (MoU) for the selection of the Thales SEARCHMASTER® multirole surveillance radar. The radar will equip their Optionally Piloted Vehicles - Aircraft (OPV-A) and respond to their land and naval surveillance requirements.
+
+","{'label': 'Neutral', 'score': 0.9993782043457031}",neutral,0.9993782043457031,0
+Thales reveals 21inch seatback TV designed to fit on the back on an economy seat - Daily Mail,"Wed, 06 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc2NpZW5jZXRlY2gvYXJ0aWNsZS0zNTI3MjQzL0ZpbmFsbHktYmlnLXNjcmVlbi10cmF2ZWxsZXJzLVRoYWxlcy1yZXZlYWxzLTIxaW5jaC1zZWF0YmFjay1UVi1kZXNpZ25lZC1maXQtZWNvbm9teS1zZWF0Lmh0bWzSAZoBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL3NjaWVuY2V0ZWNoL2FydGljbGUtMzUyNzI0My9hbXAvRmluYWxseS1iaWctc2NyZWVuLXRyYXZlbGxlcnMtVGhhbGVzLXJldmVhbHMtMjFpbmNoLXNlYXRiYWNrLVRWLWRlc2lnbmVkLWZpdC1lY29ub215LXNlYXQuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"A new type of airline seating is set to make economy flights a lot more enjoyable.
+
+A French company called Thales has developed massive LCD touchscreen displays called 'Digital Sky' built into the backs of economy seats.
+
+The technology was unveiled at the Aircraft Interiors Expo in Hamburg this week, and aims to allow every passenger to watch movies, play games, and even view a moving map of the journey.
+
+A new type of airline seating is set to make economy flights a lot more enjoyable. A French company called Thales has developed massive LCD touchscreen displays called 'Digital Sky' built into the backs of economy seats
+
+THE GIANT SEATBACK DISPLAYS The Digital Sky prototype has a 21.3-inch HD touchscreen display. Photos reveal an array of entertainment options on the working prototype, including a 'journey map,' onboard boutique, movies, live TV, games, and magazines. It even offers video meditation, and destination services to give you a glimpse of where you're going before you get there.
+
+Revealed by The Points Guy Editor-in-Chief Zach Honig, the Digital Sky prototype has a 21.3-inch HD touchscreen display.
+
+It's built to fit the shape of the economy chair, and the portrait-style screen is equipped with various options for personal in-flight entertainment.
+
+Movies and most videos will only take up a portion of the screen, as these are laid out horizontally, but other applications could make use of Digital Sky's full, massive display.
+
+The photos reveal an array of entertainment options on the working prototype, including a 'journey map,' onboard boutique, movies, live TV, games, and magazines.
+
+Revealed by The Points Guy Editor-in-Chief Zach Honig, the Digital Sky prototype has a 21.3-inch HD touchscreen display. It's built to fit the shape of the economy chair, and the portrait-style screen is equipped with various options for personal in-flight entertainment
+
+It even offers video meditation, and destination services to give you a glimpse of where you're going before you get there.
+
+According to Honig, who sat among the Digital Sky seats, the technology doesn't take away from the already limited legroom of economy seats.
+
+And, it still allows for a flip-out tray table underneath – though Honig notes there is not much room for this.
+
+As it uses LCD for the prototypes, the technology wouldn't be too costly for airlines to integrate, Honig explains.
+
+'Speaking of which, aircraft manufacturers do seem to be taking Digital Sky seriously, judging from the response it was getting during my demo,' Honig writes.
+
+According to Honig, who sat among the Digital Sky seats, the technology doesn't take away from the already limited legroom of economy seats. And, it still allows for a flip-out tray table underneath
+
+Movies and most videos will only take up a portion of the screen, as these are laid out horizontally, but other applications could make use of Digital Sky's full, massive display. The photos reveal an array of entertainment options on the prototype, including a 'journey map,' onboard boutique, movies, live TV, games, and magazines
+
+'Thales is a very reputable in-flight entertainment system manufacturer, with devices installed on a variety of aircraft, from United to Quatar.'
+
+So far, Thales hasn't announced any partners on the project, and the writer notes that many airlines are moving toward encouraging passengers to bring their own devices.
+
+But, the massive seatback displays offer a much more immersive experience.","{'label': 'Neutral', 'score': 0.9999916553497314}",neutral,0.9999916553497314,0
+Automated systems watch skies as airports can't find enough controllers - Columbia Daily Herald,"Sun, 24 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNvbHVtYmlhZGFpbHloZXJhbGQuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAxNi8wNC8yNC9hdXRvbWF0ZWQtc3lzdGVtcy13YXRjaC1za2llcy1hcy8yNTY4MDU5OTAwNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Automated systems watch skies as airports can’t find enough controllers
+
+The world’s airlines have ambitious plans to double the fleet of commercial jets during the next two decades as the number of air travelers approaches 7 billion. The trouble: There won’t be enough controllers to help those 44,000 planes take off and land safely.
+
+A shortage of air traffic controllers may rein in expansion by the aviation industry and economic development by emerging nations such as India, which wants to activate hundreds of unused runways to spur growth. There is a potential solution, and it resembles a video gamer’s dream — a wall of big-screen TVs and a few tablet computers controlled by a stylus.
+
+Some airports are now testing “remote towers” from Saab and Thales that allow controllers sitting hundreds of miles away to monitor operations through high-definition cameras and sensors. The technology is sensitive enough to penetrate fog and detect wild animals on runways, and the companies say it’s also cheaper than hiring people to fill vacancies at smaller or remote airports.
+
+“It’s a potential game-changer,” said Neil Hansford, chairman of Strategic Aviation Solutions, a consultancy firm north of Sydney. “There’s a shortage. As you go to more and more airports, it’s going to exacerbate the problem.”
+
+And plans are moving apace for more airports. Worldwide, projects to redevelop or build new airfields surpass $900 billion, according to the CAPA Centre for Aviation, a Sydney-based consultancy.
+
+By 2030, the world will need another 40,000 air traffic controllers to handle those flights, according to the International Civil Aviation Organization. Yet, there are so few training facilities in Asia, the fastest-growing travel market, that the region will have a deficit of more than 1,000 controllers each year, the ICAO said.
+
+Partly because of that, the Federal Aviation Administration downgraded India’s aviation safety rating in 2014 and Thailand’s in 2015. The agency said neither country’s civil aviation authority was up to scratch and barred their airlines from offering new services to the United States. After India addressed the FAA’s safety concerns, its rating was restored last year.
+
+Global demand for flight-management equipment such as digital communications and surveillance systems is forecast to reach $5.5 billion in 2020, according to research by MarketsandMarkets. The growth in fleets and flights outpaces the abilities of airport authorities to keep up, said Brian Jackson, managing director at Ambidji Group, a Melbourne-based aviation consultancy firm.
+
+“There’s a real mismatch between airlines’ forward planning and air traffic-control forward planning,” Jackson said. “Planning for infrastructure takes years.”
+
+That’s what Stockholm-based Saab and Paris-based Thales are trying to capitalize on. The companies can install towers loaded with cameras and sensors covering 360 degrees overlooking runways to beam high-definition video and sound to a distant control center. One controller can manage several airports remotely.
+
+“We can see a huge interest from all continents,” Dan-Aake Enstedt, Saab’s Asia-Pacific manager, said in an email. “This lets you operate an airport that might otherwise be too expensive to keep open, or help to smooth the flow of traffic around major airports as they expand.”
+
+Saab’s system resembles an immersive IMAX theater. A bank of screens on the wall gives the impression of looking out the window onto a remote airfield, with radar blips tracked on a desktop monitor and flights managed by oversized tablet computers that respond to a stylus. Graphics pop up on the screens, and the controller can manually maneuver a zoom camera to take a closer look at the runways or the planes if an anomaly warning sounds.
+
+The technology guides planes into central Sweden’s Ornskoldsvik Airport, with controllers monitoring from more than 100 kilometers (62 miles) southwest at Sundsvall-Timra Airport. It was the first remote system installed in the world.
+
+Australia tested Saab’s remote tower in Alice Springs, which is almost dead center of the continent. The airport, serving carriers including Qantas Airways and Emirates Airline, was run from a control tower 1,500 kilometers to the south in Adelaide. Airservices Australia, the government entity that employs more than 1,000 controllers, said in an email that it is considering “further evaluation and potential deployment of this type of technology.”
+
+The executive airport in Leesburg, Virginia, which has installed 14 cameras, says the concept is supported by the National Air Traffic Controllers Association, adding it cuts costs and improves staffing models.
+
+Thales rolled out its competing version, including night-vision cameras, last month at the air-traffic industry’s annual congress in Madrid. The system also is appropriate for war zones and “previously ‘unjustifiable’ sites,” the company said.
+
+Saab senses opportunity in India, where Prime Minister Narendra Modi’s plan to bolster the economy includes reviving remote airstrips to increase passenger and cargo traffic, said Varun Vijay Singh, marketing director for air traffic management at Saab’s Indian business.
+
+Only 75 of India’s 476 airports — just 16 percent — attract scheduled flights, according to a draft civil aviation policy released in October.
+
+“India is reaching airspace congestion, and ATC services are on edge at the moment,” said Mark Martin, founder of Dubai-based Martin Consulting.
+
+Boeing predicts Indian carriers will need 1,740 new aircraft during the next 20 years. Someone has to help land them, Saab’s Singh said.
+
+“It’s a tremendous opportunity,” he said. “We are talking to the airport authority. It will take maybe this year to get a pilot project running.”","{'label': 'Neutral', 'score': 0.9753603339195251}",neutral,0.9753603339195251,0
+New video - Stratobus: off we go! - Thales,"Tue, 26 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9uZXctdmlkZW8tc3RyYXRvYnVzLXdlLWdv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Go Stratobus Go !
+
+We’ve spoken about it often since March 2014… First at the Thales Innov Days, then on the Net, in the press, on social networks and around water coolers! In a blink, Stratobusbecame the latest avatar of geeks in love with innovation and new technologies. It’s been compared to a number of other concepts, from drones and zeppelins, to the Loon balloons from Google. As you have undoubtedly understood, Stratobus is neither a drone nor a satellite, but a bit of both at the same time! Led by Thales Alenia Space in conjunction with its partners, The Stratobusprogram officially kicked-off on April 26
+
+© © Thales Alenia Space/Master Image Programmes
+
+Marking a real break with all existing models, StratobusTM is in fact a stationary stratospheric airship, offering autonomous operation and suited to multiple missions. It measures 100 meters long with a maximum diameter of 33 meters (328 x 108 ft), and weighs less than 5 metric tons. Designed to operate at an altitude of 20 kilometers (about 66,000 ft), above the jet stream and air traffic, StratobusTM can carry a payload of up to 250 kg (550 lb), with 5 kilowatts of onboard power. StratoBus doesn’t need a launch vehicle to reach “orbit”. It takes just four hours to reach the stratosphere, and about the same to come back down. Its operating economics make it a real “low-cost” product, extremely competitive for regional civil or military applications, including telecommunications, navigation, observation (especially surveillance), etc. More info in the Press Release
+
+
+
+
+
+
+
+A hive of innovations
+
+StratobusTM has in fact stirred so much enthusiasm because it incorporates a wide array of innovations: a solar concentrator inside the envelope, a reversible fuel cell (to accumulate a large amount of energy day and night), a ring around the airship to rotate the envelope so that it always faces the Sun, in all seasons, and much more. The StratobusTM remains stationary in its assigned stratospheric position thanks to four electric motors driving special propellers several meters in diameter, on either side of the airship. This propulsion system enables StratobusTM (first-generation version) to resist wind gusts of 90 km/h (56 mph) – and that’s the big difference between StratobusTM and its stratospheric competitors.
+
+Fair winds for Stratobus!
+
+A perfect complement to satellites, StratobusTM can be used for missions up to five years (with with annual ground maintenance), mainly in tropical regions, where wind speeds generally do not exceed 90km/h. Several prospective customers have already indicated their interest, and are now awaiting a demonstration flight of a scale model, slated for 2018. This will pave the way for the first full-scale version of StratobusTM, which should hit the market in 2020.
+
+
+
+
+
+Watch the new Stratobus video (April 2016)
+
+
+
+[[asset:video:153251 {""mode"":""full"",""align"":""""}]]
+
+Copyrights: © Thales Alenia Space/Master Image Programmes
+
+","{'label': 'Neutral', 'score': 0.999996542930603}",neutral,0.999996542930603,0
+Explosive boost for defence manufacturers - Australian Defence Magazine,"Wed, 27 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL2V4cGxvc2l2ZS1ib29zdC1mb3ItZGVmZW5jZS1tYW51ZmFjdHVyZXJz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Orica, the world’s largest provider of commercial explosives, have signed a 10-year contract for Thales in Australia to produce five million explosive boosters each year at their Benalla and Mulwala manufacturing facilities.
+
+Boosters are small explosive devices that help detonate larger charges, and are used extensively across Australia’s mining and construction industries.
+
+The new contract with Thales will replace imported products with Australian ones, and strengthens Orica’s leading position in this market.
+
+The order will increase manufacturing activity at the Benalla (Vic) and Mulwala (NSW) facilities operated by Thales, including the establishment of a new multi-million dollar production line for the boosters, designed and built in Victoria. The boosters themselves are an advanced new product designed by Orica.
+
+“At a time of ongoing economic uncertainty, this is a great result for manufacturing in regional Victoria and NSW,” said Thales in Australia CEO Chris Jenkins. “Not only are we increasing employment and production levels at the sites, we’re also giving a leading Australian company committed to technology and innovation the reassurance of a high quality supply chain based in this country.
+
+“The agreement with Thales will make Orica even more competitive in Australia, with better quality booster products,"" Orica CEO Alberto Calderon said. ""It will enhance security of supply for our customers, and be more efficient for Orica. In addition, sustaining jobs in regional Australia as a result of this agreement is a very positive flow-on benefit for the broader community.”
+
+The new contract sustains around 100 jobs. Approximately 200 people currently work at Benalla, and 400 at Mulwala. Key Australian component suppliers will also benefit through increased annual orders from Thales as a result of the deal.","{'label': 'Positive', 'score': 0.9999995231628418}",positive,0.9999995231628418,1
+"Despite the Uncertain Global Economic climate and security issues affecting the region, the 15 th edition of the DSA ... - EDR Magazine","Wed, 20 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiwAFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS9kZXNwaXRlLXRoZS11bmNlcnRhaW4tZ2xvYmFsLWVjb25vbWljLWNsaW1hdGUtYW5kLXNlY3VyaXR5LWlzc3Vlcy1hZmZlY3RpbmctdGhlLXJlZ2lvbi10aGUtMTUtdGgtZWRpdGlvbi1vZi10aGUtZHNhLWV4aGliaXRpb24taW4ta3VhbGEtbHVtcHVyLW1hbGF5c2lhLXdhcy1hLXN1Y2Nlc3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kuala Lumpur- Joseph Roukoz
+
+Once again, all the key stakeholders at the international defene arena reconvened at the Putra World Trade Center (PWTC), Kuala Lumpur for the 15th of DSA. This year’s show welcomed defence and security companies across 60 countries, as well as trade visitors from 77 countries. This year also saw the particpation of 29 group pavillons, including France, United Kingdom, United States, Germany, Italy and China.
+
+Conerning the company’s presence, the biggest was the Turkish followed by the Russian.
+
+Minister of Defence, Datuk Seri Hishammudin Tun Hussein said, «MINDEF is proud to support DSA 2016 in the interest of further advancing our national defences capabilities, service sectors and strategic collaborations. It is an honour to once again be given the opportunity to host one of the world’s top five international defenceand security shows, and to welcome over 1,200 exhibitors and 34,000 visitors at DSA 2016 ».
+
+One of the world’s top defence companies, Airbus Group was present in DSA. In Malaysia, Airbus is a household name, with its rotorcraft and military aircraft being in service of the Royal Malaysia Air Force (RMAF). The Air Force currently operates 12 EC 725 helicopters in its fleet as well as two A400M military transporters. The RMAF’s revealed the first A400M in March last year during the Langkawi international and Aerospace (LIMA) exhibition and the RMAF received the second transporter in January of this year. They are based at Air Force Base Subang. The third RMAF A400M is currently undergoing testing and recently conducted its maiden flight and the third and fourth aircraft are expected to be delivered this year.
+
+Airbus was promoting the A330 MRTT tanker transport which is performing well in Australia and has been ordered by Singapore and South Korea. The C295 transporter has been ordered by Indonesia, Philippines, Thailand and Vietnam and Airbus has already delivered 15 of 17 ordered. All these are transports but Airbus is seeing increasing interest in surveillance variants, such as anti-submarine warfare which are proven in-service in other parts of the world.
+
+During DSA Thales declared to reinforces its commitment to supporting Malaysian maritime security by securing a contract to deliver the Fulmar UAS system to the Malaysian Maritime Enforcement Agency (MMEA).
+
+A small, high performance, fixed wing UAS, the Fulmar is to be installed on six New Generation Patrol Crafts (NGPC), being constructed by Destini Shipbuilding and Engineering Sdn. Bhd. The maritime design of Fulmar allows the aircraft to take-off and land, whilst the ship is in motion, a key requirement of the MMEA. This capability offers an unrivalled competitive advantage to other systems in the market.
+
+Fulmar will extend the operational capabilities of the MMEA fleet, proving a broad range of operational capabilities including counter-piracy, anti-smuggling operations, fisheries policing and border surveillance. Automatic detection and tracking systems and Automatic Identification Systems (AIS) deliver unrivalled high performance surveillance on a flexible platform.
+
+Thales remains committed to supporting the Malaysian authorities as it renews and updates its naval fleet. Starting in 2016, Thales employees in Malaysia will provide local training and support for the Fulmar, ensuring effective knowledge transfer for operational and maintenance needs throughout the system’s life cycle.
+
+Thales has over 40 years of experience in airborne surveillance systems and is the European leader in Tactical unmanned aircraft, making us the ideal partner for current and future surveillance UAV programmes.
+
+As Malaysia prepares to induct the lightweight multiple launcher- next generation missile (LML-NG), Thales showcased the STARSTReak missile. On March 28, the Minister of Defence of Malaysia attended the STARSTReak missile weapon systems shooting events at Lapang Sasar Bumi ke Udara, Tanjung Logok. A total of three missiles were fired by composite teams drawn from the Malaysian Army’s 32nd Royal Artillery Regiment, the Royal Malaysian Navy’s Base Air Defence Unit, and the Royal Malaysian. Air Force’s 401 GBAD Squadron. The missiles were fired with success at a Meggit BTT-3 Banshee target drone.
+
+Dassault showcased at DSA the twin-engined multirole fighter Rafale which is one of the leading contender for Malaysia’s requirement for 18 state-of-the-art combat aircraft to replace its ageing MiG-29 fighter jets. Official sources from Malaysia have stated that the decision should be taken in the end of this year or latest in the beginning of 2017.
+
+What will certainly help the Rafale campaign in Malaysia, is the fact that the type is now seeing extensive combat operations with the French Air Force and has notched up export successes in Egypt and Qatar (48 aircraft), with India expected to join the ranks of Rafale customers
+
+The latest variant of the Rafale that is in service with the French Air Force is being offered to Malaysia, along with a technical assistance in Malaysia that will allow for the creation of a substantial local maintenance, repair and support infrastructure for the aircraft and its systems to cover a period of service of 40 years for the type.
+
+MBDA showcased at DSA a range of missiles including the Medium Range Missile (MMP) which is a high-technology, new generation battlefield missile. It is established as one of the French MoD’s major new programmes to modernise the French Army. This versatile missile, conceived by MBDA, is currently in its development phase following notification of a development contract by the DGA, the French Defense Procurement Agency.
+
+It can be fired from a networked infantry firing post or from a vehicle turret, features a wide range of functions, one of which is firing on coordinates that allows non line-of-sight targets to be engaged.
+
+DCNS was also present at DSA in Kuala Lumpur and it has a strong industrial commitment in the country through its partnership with the Boustead Group and their Joint-Venture Boustead DCNS Naval Corporation (BDNC) for the In-Service Support (ISS) of the two Royal Malaysian Navy Scorpene submarines. The Boustead Group and DCNS are working together to ensure the success of this programme which includes a large transfer of technology from DCNS, a crucial element to allow local participation, self-reliance and local content in accordance with the National Defence Industry Policy.
+
+DCNS also works with the Boustead Naval Shipyard (BNS) through a solid transfer on the LCS Programme launched by the Royal Malaysian Navy to purchase six Littoral Combat Ships. BNS is the Prime Contractor of this programme for which DCNS’s Gowind design and SETIS Combat Management System have both been selected. The keel laying of the first vessel was completed by BNS in March 2016 at the company shipyard in Lumut.
+
+Besides its historical activities in naval defense, DCNS develops innovative solutions in marine renewable energies, in particular Ocean Thermal Energy Conversion (OTEC) systems which could answer the energy needs of Malaysia. OTEC uses the difference of temperature that naturally exists in tropical waters between the surface water (about 25°C) and deep water (5°C at a depth of 1,000 metres) to create electricity.","{'label': 'Neutral', 'score': 0.9999884366989136}",neutral,0.9999884366989136,0
+Ontario Partners with Thales in Canada to Support Transit Technology and Create Jobs - Thales,"Tue, 12 Apr 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jYW5hZGEvcHJlc3MtcmVsZWFzZS9vbnRhcmlvLXBhcnRuZXJzLXRoYWxlcy1jYW5hZGEtc3VwcG9ydC10cmFuc2l0LXRlY2hub2xvZ3ktYW5kLWNyZWF0ZS1qb2Jz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"NEWS April 13, 2016
+
+
+
+Ontario is partnering with Thales in Canada to develop the next generation of railway signalling solutions which will improve transit safety, efficiency and create jobs.
+
+
+
+The project will focus on research and advanced engineering to develop new Communication-based Train Control solutions for mass transit, including subways, light rail and commuter rail systems. The partnership will help Thales in Canada create 126 jobs in the province while retaining another 963 at its Toronto office over five years.
+
+
+
+Ontario will invest up to $12 million through the Jobs and Prosperity Fund to support the project, leveraging a private sector investment of about $80 million. Thales chose Ontario because of this investment and the province’s highly-skilled workforce.
+
+
+
+Thales’ urban rail signalling solutions are used in metro systems in over 40 of the world’s largest cities, including London, New York City, Hong-Kong, Shanghai, Singapore and Dubai, safely carrying 3 billion passengers a year.
+
+
+
+Partnering with business to drive innovation is part of the government’s economic plan to build Ontario up and deliver on its number-one priority to grow the economy and create jobs. The four-part plan includes investing in talent and skills, including helping more people get and create the jobs of the future by expanding access to high-quality college and university education. The plan is making the largest investment in public infrastructure in Ontario’s history and investing in a low-carbon economy driven by innovative, high-growth, export-oriented businesses. The plan is also helping working Ontarians achieve a more secure retirement.
+
+
+
+QUOTE
+
+""Our number-one priority is growing the economy and creating jobs. Our support for Thales will help it ramp up its research and development work and leverage new and innovative technologies. These efforts will allow Thales to strengthen its product offerings in the transportation sector, and increase its global competitiveness.” Brad Duguid, Minister of Economic Development, Employment and Infrastructure
+
+""We are pleased to partner with Ontario as we develop the next generation of rail signalling solutions. We look forward to continuing to tap into the province’s talented workforce as we expand our operations here.”
+
+Mark Halinaty, President and CEO, Thales Canada
+
+QUICK FACTS Thales in Canada is a wholly owned subsidiary of France-based Thales Group, a global defence, aerospace and transportation services company. Thales Group operates in 56 countries, with a global workforce of 62,000.
+
+The Thales Worldwide Competency Centre focused on urban rail signalling is based in Toronto.
+
+The Jobs and Prosperity Fund is providing $2.7 billion over 10 years to enhance productivity, bolster innovation and grow Ontario’s exports.
+
+Ontario’s business support grants are contingent on the company meeting stringent investment and job targets. Projects are closely monitored over their lifespan to protect taxpayers’ investment and include provisions if targets are not met.
+
+Ontario’s five-year, $400-million Business Growth Initiative is helping to grow the economy and create jobs by promoting an innovation-based economy, helping small companies scale-up and modernizing regulations for businesses.
+
+As part of the Business Growth Initiative, Ontario announced the Automotive Supplier Competitiveness Program to help smaller auto parts companies adopt the latest technologies, plus support for the Canadian Urban Transit Research and Innovation Consortium to support R&D and commercialization of technologies.
+
+Watch the video of the press conference here: http://www.vvcnetwork.ca/medei/20160413/
+
+Learn more: Ontario’s Business Growth Initiative
+
+","{'label': 'Positive', 'score': 0.9413208365440369}",positive,0.9413208365440369,1

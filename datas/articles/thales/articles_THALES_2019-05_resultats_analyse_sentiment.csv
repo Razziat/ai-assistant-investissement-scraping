@@ -1,0 +1,819 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Alenia Space @ Satellite 2019 - Thales,"Mon, 06 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvZXZlbnQvdGhhbGVzLWFsZW5pYS1zcGFjZS1zYXRlbGxpdGUtMjAxOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Operators, launch service companies, space agencies, government representatives… Everybody’s who’s anybody in the space telecommunications sector will be on hand at the Satellite 2019 international conference in Washington, D.C. Thales Alenia Space will be there, of course, alongside Telespazio within the scope of their Space Alliance. The European satellite-maker will be spotlighting its expertise in geostationary very-high throughput satellite (VHTS) solutions, its recent successes with the complete deployment of the Iridium® NEXT and O3b constellations, and its approach to New Space, in particular through the new BlackSky system.
+
+Our new comsat approach in the spotlight at Satellite 2019
+
+Digital satellite communications systems are undoubtedly the best way to address the requirements of a fiercely competitive and constantly evolving telecommunications market. Furthermore, new market segments are emerging, especially for maritime and aeronautical communications, which is accelerating demand for connectivity. Thales Alenia Space is clearly spearheading the development of digital VHTS solutions, which offer tremendous agility to address fluctuating market requirements. These solutions were developed for military telecom systems, then quickly taken up by the commercial market. They combine high capacity, agility and competitiveness. Because of their flexibility, VHTS solutions can adapt distribution in the coverage zone at any given moment. In other words, these payloads meet operators’ changing requirements throughout satellite life.
+
+Two telecom constellations fully deployed in 2019
+
+On April 4, 2019, the last four satellites in the O3b constellation, built by Thales Alenia Space as prime contractor for SES, were successfully launched by Arianespace from the Guiana Space Center (CSG) in French Guiana (South America).
+
+The O3b constellation now counts 20 satellites in medium Earth orbit (MEO) at an altitude of 8,000 kilometers.
+
+This success follows that of another constellation, Iridium® NEXT, fully operational in low Earth orbit (LEO) since February, meaning that two constellations built by Thales Alenia Space are now completely deployed.
+
+With 125 satellites built by Thales Alenia Space as prime contractor for three different constellations (Globalstar 2, O3b and Iridium® NEXT), the European company sets the global standard for LEO and MEO telecom constellations.
+
+© Thales Alenia Space
+
+Thales Alenia Space also built 70% of the first-generation Globalstar constellation. We are now ready and willing, along with our international partners, to meet even more ambitious challenges in the global constellation market.
+
+Timely solutions for New Space
+
+NorthStar, BlackSky, Kineis… Thales Alenia Space offers innovative yet competitive proposals for a wide range of activities. We will be showcasing these solutions at Satellite 2019.
+
+For instance, Thales Alenia Space and the American startup Spaceflight Industries have created LeoStella LCC, an equally-owned joint venture fully reflecting the needs of the New Space environment. Their aim is to construct BlackSky, the first constellation featuring short revisit times, comprising 60 optical high-resolution satellites.
+
+Thales Alenia Space will also build Kineis, a constellation of 20 nanosatellites dedicated to The Internet of Things, produced in conjunction with Nexeya for CLS.
+
+The Space Alliance (between Thales Alenia Space and Telespazio) recently acquired a stake in NorthStar Earth & Space Inc, an information services company from Montreal that is developing the world’s most sophisticated system for the surveillance of our environment and near space. Through this investment, the Space Alliance will provide NorthStar with design, development and production solutions for an innovative constellation of 40 satellites.
+
+Photo copyrights:
+
+First artistic view: © Thales Alenia Space/Briot
+
+Iridium® NEXT: © Thales Alenia Space/Master Image Programmes
+
+O3b: © Thales Alenia Space/Imag[IN]
+
+BlackSky: © SpaceFlight Industries
+
+Kineïs: © CLS/Kineïs","{'label': 'Neutral', 'score': 0.9065356850624084}",neutral,0.9065356850624084,0
+"Thales, IDC research reveals extensive US government blockchain adoption - Ledger Insights - Ledger Insights","Wed, 01 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmxlZGdlcmluc2lnaHRzLmNvbS90aGFsZXMtaWRjLWdvdmVybm1lbnQtYmxvY2tjaGFpbi1hZG9wdGlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"As part of the 2019 Thales Data Threat Report, intelligence company IDC surveyed 1,200 executives in November 2018, of which 100 were from U.S. Federal Government departments. It found that 47% of government respondents are already using blockchain with another 40% planning to do so. But the most shocking discovery was the appallingly low usage of encryption to secure most databases.
+
+When it comes to storing sensitive or regulated data on blockchains, more than 30% of government users said they did so, scoring slightly higher than enterprise counterparts.
+
+It also revealed the top security concerns about blockchain. The risks include the potential for user account credentials to be compromised, improper use of public ledger controls resulting in exposure of private data, insider risk and the compromise of an exchange provider. In the diagram below, responses from all 1,200 people surveyed are compared including enterprise executives in healthcare, retail and financial services.
+
+IDC highlighted that given the relative newness of blockchain technology, respondents are likely not as familiar with the security issues.
+
+Outside of blockchain, the report noted that in the past most government spending on security focused on protecting the perimeter backed up by device-level defenses within the firewall. But with the increasing use of cloud solutions, the emphasis is now more equally spread between network, data and application security.
+
+Given the greater emphasis on data security, one might expect pervasive use of encryption. But the most shocking revelation is the low use of encryption (unrelated to blockchain), both within government and enterprises. The highest usage was to encrypt data on PCs, but even then it is only 35% for government and just over 30% globally. Database encryption was particularly low within the government at just over 20% and enterprises closer to 30%.
+
+Apart from the survey, Thales has been working with Accenture on an aerospace supply chain blockchain. And its newly acquired subsidiary Gemalto is heavily involved in blockchain including for identity.","{'label': 'Neutral', 'score': 0.9875258207321167}",neutral,0.9875258207321167,0
+CGI joins with Thales on Galileo security software - GPS World magazine,"Fri, 03 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lmdwc3dvcmxkLmNvbS9jZ2ktam9pbnMtd2l0aC10aGFsZXMtb24tZ2FsaWxlby1zZWN1cml0eS1zb2Z0d2FyZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"CGI has signed an agreement with Thales Alenia Space France to enhance and maintain security software for the Galileo satellite navigation system.
+
+Valued at approximately 14 million euros, the contract will last until the end of 2020. CGI experts are working on this strategic project from Rotterdam and Toulouse.
+
+CGI will improve the functionality, robustness and reliability of Galileo’s ground infrastructure, as well as enhance and maintain software for its Public Regulated Service Key Management Facility (PKMF).
+
+The Public Regulated Service (PRS) is one of the key features that distinguishes Galileo from other satellite navigation systems. It ensures that only government-authorized entities have access to Galileo’s secure PRS signal that meets strict security standards in areas such as defense, law enforcement and customs.
+
+“We look forward to working with CGI to ensure the highest level of security for Galileo, along with an efficient, high performance infrastructure,” said Guillermo Salgado, Galileo ground mission and EGNOS programs director, Thales Alenia Space France. “CGI’s significant space and security experience, combined with its local presence and global resources, gives us access to the experts we need to launch and operate one of the world’s most advanced satellite navigation systems.”
+
+“CGI has strong legacy in space, and we continue to support space clients across the globe, actively managing their business and national interests while positioning CGI as a trusted space leader,” said Dirk de Groot, who leads CGI’s business unit in the Netherlands.
+
+CGI has more than 40 years of experience in the space domain and delivers complex, mission-critical space software systems across Europe, Asia and North America, supporting programs from satellite navigation, communications and operations, to space-enabled applications.","{'label': 'Positive', 'score': 0.99998939037323}",positive,0.99998939037323,1
+Hungarian Air Force pilots train for collective and tactical operations with Thales trainer - Vertical Magazine,"Wed, 15 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9odW5nYXJpYW4tYWlyLWZvcmNlLXBpbG90cy10cmFpbi1mb3ItY29sbGVjdGl2ZS1hbmQtdGFjdGljYWwtb3BlcmF0aW9ucy13aXRoLXRoYWxlcy10cmFpbmVyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A NATO member since 1999, the Hungarian Air Force needs to train its Mi-24 attack helicopter and Mi-17 transport helicopter aircrews for NATO-led collective and tactical missions. The Hungarian Defence Forces also need to train helicopter crews for homeland defense operations.
+
+In 2018, Hungary acquired a Helicopter Mission Trainer (HMT) from Thales. In service with the Hungarian Air Force from early 2019, the HMT trainer has been used for many years by French Army Light Aviation (under the name EDITH) to enable pilots to acquire and develop the tactical skills they need for collective operational missions.
+
+Thanks to Thales’s expertise in simulation, the Hungarian Defence Forces will now be able to improve the tactical training of attack helicopter aircrews. The HMT trainer designed and delivered by Thales allows aircrews to train collectively in a diverse array of programmable tactical scenarios, such as combat search-and-rescue, airland and naval operations or even commando insertion / extraction.
+
+The HMT trainer can be configured to allow individual pilot and commander training as well as training of entire helicopter aircrews for collective operations, such as multicrew and multiplatform coordination.
+
+Thanks to the system’s innovative design, each trainee station is fully reconfigurable to simulate different multirole helicopter types, with pilot and copilot in side-by-side position or attack helicopters with front-behind layout. It features virtual reality gunner stations so that rear aircrew members can be included in the collective training.
+
+It provides the tools needed for mission debriefing and after-action review. And its compatibility with the Distributed Interactive Simulation and High-level architecture standards offers huge scope for interconnection with other systems as part of broader combined arms training.
+
+The HMT trainer’s highly realistic virtual environment leverages the ThalesView image generator and the computer generated forces (CGF) artificial intelligence software suite from Thales, with smart animation of multiple virtual entities to create a wide variety of training scenarios, enabling aircrews to acquire and develop the tactical skills they need at every decisive moment and prepare for mission success.","{'label': 'Neutral', 'score': 0.9998908042907715}",neutral,0.9998908042907715,0
+Canada enhances public safety with Gemalto fingerprint identification solution - Business Wire,"Thu, 09 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE5MDUwOTAwNTAxNS9lbi9DYW5hZGEtZW5oYW5jZXMtcHVibGljLXNhZmV0eS13aXRoLUdlbWFsdG8tZmluZ2VycHJpbnQtaWRlbnRpZmljYXRpb24tc29sdXRpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"OTTAWA, Canada--(BUSINESS WIRE)--Gemalto, a Thales company, will implement the Canadian Department of National Defence’s (DND) first Automated Fingerprint Identification System (AFIS) to increase security and reliability in the collection and verification of fingerprint records.
+
+A recent initiative undertaken by the Government of Canada and the Royal Canadian Mounted Police (RCMP) to advance public safety measures has led to the digitalization of biometric records across the country which will allow for faster and more accurate criminal and civil identity checks. Canada’s DND is the latest to modernize their capabilities.
+
+Gemalto’s AFIS will provide a central, digital repository which will then be managed and operated by DND. In addition to the storage itself, the system will collect, process, enroll and verify this biometric data for enrollment/hiring, security clearances and policing.
+
+Information collected from existing booking stations, known as LiveScans, across the country will feed into the DND’s AFIS and be submitted to the RCMP central AFIS, also provided by Gemalto. Both systems may support facial recognition, DNA, and other forms of biometric identification in the future. In addition, Gemalto will be installing a Disaster Recovery (DR) site to protect the DND from losing valuable data.
+
+“Thales has a long and successful history delivering mission critical solutions to Canada’s Armed Forces. After 19 years of working with Canadian local and national law enforcement agencies to provide biometric security services and solutions, we are proud to deliver this important security capability to the Department of National Defence,” said Rob Cimperman, Vice President Government Programs at Thales. “The addition of an Automated Fingerprint Identification System (AFIS) and Disaster Recovery (DR) site demonstrates Canada’s commitment to protecting its citizens and keeping Canada safe.”
+
+Note to editors
+
+Gemalto’s solutions are at the heart of modern life, from payment to enterprise security and the internet of things. Gemalto’s technologies and services authenticate people, transactions and objects, encrypt data and create value for software – enabling businesses and governments to deliver secure digital services for billions of individuals and things.
+
+About Thales
+
+The people we all rely on to make the world go round – they rely on Thales. Our customers come to us with big ambitions: to make life better, to keep us safer. Combining a unique diversity of expertise, talents and cultures, our architects design and deliver extraordinary high technology solutions. Solutions that make tomorrow possible, today. From the bottom of the oceans to the depth of space and cyberspace, we help our customers think smarter and act faster - mastering ever greater complexity and every decisive moment along the way. With 80,000 employees in 68 countries, Thales reported sales of €19 billion in 2018.
+
+About Thales Canada
+
+A Canadian leader in research and technology, Thales Canada combines over 50 years of experience with the talent of more than 2,000 skilled people located coast-to-coast. With revenues of over $850 million, Thales Canada offers leading capabilities in the urban rail, civil aviation, defence, digital identity and security sectors, meeting the most complex needs and requirements of its customers across all operating environments.
+
+PLEASE VISIT
+
+Thales Group
+
+Digital Security
+
+Download HD photos
+
+@Thalessecurity
+
+@Thalesgroup
+
+GROUP COMMUNICATIONS – Thales - Tour Carpe Diem - 31 Place des Corolles - 92098 Paris La Défense Cedex - France – Tel.: +33(0)1 57 77 86 26 - www.thalesgroup.com","{'label': 'Positive', 'score': 0.9310412406921387}",positive,0.9310412406921387,1
+Thales eyes investment in Egypt's digital infrastructure - enterprise.news,"Thu, 09 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZW50ZXJwcmlzZS5wcmVzcy8yMDE5LzA1LzA5L3RoYWxlcy1leWVzLWludmVzdG1lbnQtZWd5cHRzLWRpZ2l0YWwtaW5mcmFzdHJ1Y3R1cmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales eyes investment in Egypt’s digital infrastructure
+
+Thales eyes investment in Egypt’s digital infrastructure: Global defence giant Thales yesterday announced the appointment of Sherif Barakat to be its new country director for Egypt. The company has a long history operating in Egypt, providing solutions in the defence, space, transportation, aerospace and security sectors. Barakat takes on the role as the company looks to expand its footprint in Egypt, especially in the digital sector. We got the chance to chat with him about the company’s work in the country and what its future plans look like.
+
+Enterprise: How does it feel to be made Thales’ country director?
+
+Sherif Barakat: I feel good. It’s a challenging position because we are very diversified across a lot of sectors, all of which touch the lives of ordinary Egyptians. This means we need to deliver in time with the right level of technology, safety, and security. Decision makers in a country rely on Thales. This position also makes me proud because I see that my work and the work of my team is reflected in the improved quality of living of Egyptians.
+
+E: Tell us about Thales’ work in Egypt. What sectors is the company involved in, and what has been its greatest achievements over the years?
+
+SB: Thales has been operating in Egypt since 1973, for over 40 years. Historically, we have had a lot of projects in defence solutions with the Defence Ministry. We also have lots of projects in the civil domain, particularly in transportation. We are very proud to cooperate with the Transport Ministry to operate infrastructure for many railway lines in Egypt, especially the Cairo-Alexandria line. This is one of the busiest in the world, carrying around 25-30 mn passengers per year. On that line, our project is to upgrade the signaling system, which reduces accidents and saves lives.
+
+We’re also proud to have been involved since the beginning of the Cairo metro in the 1980s. Our current project is Line 3, which will take passengers directly to Cairo International Airport. Speaking of airports, we’re proud to be a historical partner of the Ministry of Social Aviation and air traffic control and management. A lot of the control towers, runways, and course simulation and training facilities in Egyptian airports use or are based on Thales technology and equipment.
+
+We also have a historical partnership with Nilesat. Since the beginning, Nilesat used satellites built by Thales, which makes us the main provider of media broadcasting in Egypt and across the Middle East and Africa.
+
+This could not have been possible without the talented young Egyptians who built these projects in Egypt using tech from around the world. We have around 400 young employees, engineers, technicians, and workers involved in all our projects in Egypt.
+
+E: What are your future plans for Egypt? What sectors is Thales prioritizing and how do you see its work evolving?
+
+SB: Digital transformation is the future of our plans and cooperation with the Egyptian government. There have been many government initiatives in the last couple of years to digitize governmental activities and utilize new technology to make the lives of Egyptian simpler and easier. There are three main technologies that will shape our presence and cooperation with the Egyptian government. The first is definitely artificial intelligence. Thales invested around EUR 7 bn in the last four years building digital transformation technology, which we hope to bring to Egypt. The second is cybersecurity, which is crucial with all the digital transformation going on. Thales is uniquely positioned to secure such a digital transformation and ensure that hacking is being prevented and data is secured. The third is big data and big data analytics. So much data is being generated with the expansion of the ‘Internet of Things’ and connectivity solutions.
+
+AI is a hot topic globally but imagine its application in inflight entertainment, which is a unique sector where AI can play a very important role. Imagine a passenger sits down and finds everything sorted for him based on his historical utilization of movies and games and communication and internet connectivity. This complete profiling of individuals for inflight entertainment is a technology driven by Thales that we are bringing to Egypt in the near future. Another important technology we’re keen to bring to Egypt soon is autonomous trains, which will reduce the human factor in train conduction and driving. Thales has around 30K engineers globally working on R&D in this area and is therefore is uniquely positioned to tackle these technologies and make sure that they benefit real people.
+
+E: The company has been heavily involved in Egypt’s transportation sector. Apart from AI and automation, can we expect to see more involvement in this sector in the years ahead?
+
+SB: Absolutely, we’re committed to bringing the latest technology in transportation to Egypt and we see a lot of cooperation with the Transport Ministry. Most of the railway accidents happening in Egypt are happening in intersections, so we’re building top notch technology to avoid accidents in the intersections. We are involved in the Cairo-Alexandria main line and recently we’ve been commissioned by the government to upgrade a 180 km line from Assiut to Nag Hammadi in Upper Egypt. Recently we won another tender to upgrade the Cairo-Benha line. It’s shorter but one of the busiest in Egypt. So between the railways and the metro, we are already fully loaded with projects that can take us a couple of years.
+
+E: On a personal level, what would like to achieve during your time as the company’s country manager?
+
+SB: As an Egyptian, I am proud to bring the latest technologies to my country, upgrading infrastructure, and transportation. Reducing the number of accidents and fatalities on the railways is one of my main personal ambitions. It will mean a lot if we can make the trains safer and it will be a big milestone for my colleagues in Thales once the upgrades are complete.
+
+E: Over the past few years, the government has been embarking on a number of economic and fiscal reforms. How have these changed the company’s approach to working in Egypt?
+
+SB: We are aware and supportive of the government’s reforms. They’re heading in the right direction and we’ve seen positive results and signals in a very short time. The reforms encourage our level of investment and signals to us that Egypt is the right place to be and expand. To give you an example of our commitment to Egypt and appreciation of the government’s steps, in 2013, we had 20-30 employees. Currently, we have 400.
+
+E: What are the biggest challenges facing Egyptian infrastructure?
+
+SB: From our main domain of transportation, I think the government is on the right track, operating with big companies like Thales to ensure that the latest technologies are coming to Egypt’s railways. Keep in mind that the railway was built 100 years ago and needs constant rehabilitation and updating. The speed of this upgrade is increasing day-by-day and we’re confident that we are heading in the right direction, with huge improvements in the near future.
+
+E: What are the main challenges that Thales has faced on infrastructure projects?
+
+SB: We’re very well-positioned in Egypt so whenever we’re facing an obstacle, we’re helped immediately on the spot by the proper authorities. The Egyptian bureaucracy has improved a lot and things are moving much faster. The ball is in our court and we have to deliver our projects on time with the right speed, quality, and safety.
+
+E: One of the government’s major ambitions is to attract more foreign investment into the real economy. How do you think it could do that, especially into infrastructure?
+
+SB: It’s a good question. The investment and foreign ministries already cooperate with major international institutions, which is the right direction when it comes to European institutions and European banks. We’re seeing more and more international companies willing to invest in upgrading the infrastructure in Egypt, not only in transportation but in aviation, aerospace, and media broadcasting.
+
+E: From an ROI perspective, which specific infrastructure sector should the private sector look to get involved in?
+
+SB: Smart cities are an area we’re proud to cooperate with the government on. We have been involved in smart city tech across the world in Europe, MENA, Asia and Latin America. We have a lot of experience in smart cities, which we’re bringing to bear on Egypt’s new capital and new cities in Alamein and Mansoura.","{'label': 'Neutral', 'score': 0.7726967930793762}",neutral,0.7726967930793762,0
+French defence procurement agency selects Thales and Sopra Steria to expand Big Data capabilities of the armed forces - EDR Magazine,"Fri, 24 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS9mcmVuY2gtZGVmZW5jZS1wcm9jdXJlbWVudC1hZ2VuY3ktc2VsZWN0cy10aGFsZXMtYW5kLXNvcHJhLXN0ZXJpYS10by1leHBhbmQtYmlnLWRhdGEtY2FwYWJpbGl0aWVzLW9mLXRoZS1hcm1lZC1mb3JjZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"24th May 2019 Paris La Défense – The French defence procurement agency (DGA) has awarded Thales and Sopra Steria the contract for the second phase of the ARTEMIS* programme. ARTEMIS is an innovative 15-year partnership agreement aimed at providing a sovereign Big Data solution to keep pace with exponential growth in data volumes, transmission speeds and formats, and involves major changes in the design of information systems.
+
+Digitalisation is gaining ground in every aspect of combat operations conducted by French forces, but the digital transformation goes well beyond what is visible on the battlefield, increasingly affecting everything from logistic support and maintenance to intelligence systems, predictive analysis, operational information and communication systems, cybersecurity, training and simulation. Thales and Sopra Steria, acting as a consortium are recognised players in Big Data and intend to support the French Ministry of the Armed Forces’ (Ministry of Defence) digital development, which is gaining pace under France’s 2019–25 defence spending plan.
+
+Thales, in partnership with Sopra Steria, is delighted to have been selected by the DGA to implement the second phase of the innovative ARTEMIS partnership programme, which will improve the platform’s capabilities and extend its resilience and adequacy numerous more demanding end-use. As part of this build phase, the consortium Thales / Sopra Steria will notably test the solution in the areas of cybersecurity, intelligence, image processing, maintenance, soldiers’ health and maritime situational awareness. This operational demonstrator includes Big Data processing capabilities and calls for the development of specific processing algorithms and a user interface for presenting the results. It will be rolled out progressively at various operational sites. Ultimately, the platform will fulfil the needs of inter-ministerial agencies facing big data issues, including the French border agency, justice system and homeland security, and will also be available to other government agencies.
+
+Working with an ecosystem of 80 innovative SMEs, labs and larger companies, Thales and Sopra Steria are dedicated to supporting the French Ministry of the Armed Forces’ ambitions to ensure that operators have the best information available at every decisive moment of their mission. Through this programme, the Group once again demonstrates its high-tech expertise, particularly in the areas of Big Data, Artificial Intelligence and Cybersecurity.
+
+“The award of the second phase of the ARTEMIS programme to Thales and Sopra Steria is a further proof point of the confidence the DGA has in our capabilities, and show the growing importance of Big Data in the digital transformation of the Ministry of the Armed Forces » Gérard Herby, Thales Vice President, Protection Systems.
+
+“Building our partnership with Thales based on complementary competencies unites the dynamism of small innovative companies and the vision of two large partner firms striving towards digital sovereignty. Our past experiences give us a full knowledge of military professions but also an expertise in civil technology which is experiencing a boom of innovation.” Laurent Giovachini, Deputy General Manager, Sopra-Steria.
+
+*Architecture de Traitement et d’Exploitation Massive de l’Information multi-Sources (architecture for very large-scale processing and exploitation of multi-source data)","{'label': 'Positive', 'score': 0.9977994561195374}",positive,0.9977994561195374,1
+Thales Enables the Future of Digital Payment Innovations with Next-Generation Payment Hardware Security Module - Thales,"Tue, 21 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9qb3VybmFsaXN0L3ByZXNzX3JlbGVhc2UvdGhhbGVzLWVuYWJsZXMtZnV0dXJlLWRpZ2l0YWwtcGF5bWVudC1pbm5vdmF0aW9ucy1uZXh0LWdlbmVyYXRpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"payShield 10K simplifies compliance, improves operational efficiency and offers stronger tamper protection
+
+© @Thales
+
+Thales, a leader in critical information systems, cybersecurity and data protection, announces the availability of a next-generation payment hardware security module (HSM), payShield 10K, enabling customers to adopt new innovative digital payment technologies easily and securely. The new payment HSM secures digital payments at lower processing costs by using a fraction of the energy. It also streamlines operations and supports the latest standards for real-time payments, open banking and secure remote commerce.
+
+“Hardware security modules perform a critical function in terms of securing data,” said Garrett Bekker, principal analyst, 451 Research. “This is especially true for hardware security modules used within the payments ecosystem. The ability to secure new digital payment technologies while also providing increased resiliency, improved remote management and lower power consumption should be a welcome development for the market.”
+
+Go Green
+
+To help customers achieve their green data center goals and reduce costs, the payShield 10K features enhanced processing capabilities and power management techniques. This translates into lower overall power consumption, in some cases by up to 40%, even when operating at twice the cryptographic performance. As payShield 10K can be securely managed remotely with a ‘no touch’ implementation, deployments in dark data centers could also be optimized.
+
+Streamlined Operations & Greater Protection
+
+With the introduction of the payShield 10K, deployment has been simplified and operations has been significantly streamlined. Its firmware update workflow process also has been reduced by more than a factor of 10, while maintaining all necessary security checks for code authenticity and integrity.
+
+Stronger tamper protection is a key component of the payShield 10K. In fact, in the event of an attack, it will erase keys and sensitive data immediately. In addition, it will become permanently disabled if attempts to gain access to the inner security module are detected. This advanced level of protection directly addresses key concerns among IT and security executives: half now actively fear exposure of payment card details or other personally identifiable information, according to the 2019 Thales Data Threat Report-Global Edition.
+
+For higher resiliency, the payShield 10K performs new background monitoring of HSM system processes and application code to detect abnormalities and to respond automatically without the need for customer intervention.
+
+“As the growth and adoption of card and digital payments continue to accelerate and new methods of payment evolve, businesses are increasingly challenged to protect the confidentiality and integrity of transactions,” said Todd Moore, Vice-president encryption products for cloud protection and licensing activity, Thales. “With the launch of payShield 10K, we are building on our strong foundation of powering 80% of the world’s point-of-sale transactions, allowing businesses to keep pace with payment innovation, adhere to the latest security standards and embrace a smarter, greener payment infrastructure.”
+
+For more information on payShield 10K, please visit the Thales website, and follow Thales on Twitter, LinkedIn, Facebook and YouTube.
+
+About Thales
+
+The people we all rely on to make the world go round – they rely on Thales. Our customers come to us with big ambitions: to make life better, to keep us safer. Combining a unique diversity of expertise, talents and cultures, our architects design and deliver extraordinary high technology solutions. Solutions that make tomorrow possible, today. From the bottom of the oceans to the depth of space and cyberspace, we help our customers think smarter and act faster - mastering ever greater complexity and every decisive moment along the way. With 80,000 employees in 68 countries, Thales reported sales of €19 billion in 2018.","{'label': 'Positive', 'score': 0.999951958656311}",positive,0.999951958656311,1
+How A Pre-Socratic Philosopher Taught Me Options Trading - Stock Investor,"Thu, 16 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnN0b2NraW52ZXN0b3IuY29tLzQxMzMxL2hvdy1hLXByZS1zb2NyYXRpYy1waGlsb3NvcGhlci10YXVnaHQtbWUtb3B0aW9ucy10cmFkaW5nL9IBYWh0dHBzOi8vd3d3LnN0b2NraW52ZXN0b3IuY29tLzQxMzMxL2hvdy1hLXByZS1zb2NyYXRpYy1waGlsb3NvcGhlci10YXVnaHQtbWUtb3B0aW9ucy10cmFkaW5nL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en,"I’m in Las Vegas this week to give presentations to MoneyShow attendees and to speak with subscribers about my newsletter advisory services.
+
+Advertisement.
+
+In one of my talks, I told the audience my favorite investing story about how a pre-Socratic Greek philosopher taught me how to trade options. This week I want to tell you, my reader, this story, as it will give you a sense of why I think it’s important to cultivate all kinds of knowledge about the world and not just knowledge directly related to stocks, bonds, exchange-traded funds (ETFs) and options.
+
+So, what do I mean when I say a pre-Socratic philosopher taught me how to trade options? Well, to understand this, we must go back about 2,500 years ago to Ancient Greece and learn about a man named Thales of Miletus.
+
+Thales was a brilliant philosopher and one of the first real Western thinkers and scientists (although “scientist” wasn’t a term that was used at the time). He is best known for his thesis that “all things are water,” which we know now to be erroneous, but was a groundbreaking thought, given the scientific infancy of 6th century B.C. Greece. Moreover, Thales was among the first thinkers to make hypotheses that were testable and falsifiable, both bedrock principles of scientific inquiry today, but absent among his fellow thinkers at the time.
+
+Advertisement.
+
+According to the Internet Encyclopedia of Philosophy, none other than the great Aristotle identified Thales as the first person to investigate basic principles, the first to question the origins of substances and matter and therefore, the founder of the school of natural philosophy.
+
+Among his accomplishments was the successful prediction of an eclipse of the sun that occurred on May 28, 585 B.C.E. Although it’s not known exactly how Thales was able to predict this event, the most likely explanation is that he studied the solar and lunar cycles.
+
+Yet what can we learn as investors from Thales?
+
+To answer that, we must realize that Thales was a philosopher and a man not particularly concerned with the accumulation of monetary wealth. And because of his lack of wealth, he often was criticized by the elites of Athenian society during his own life. In order to prove the elites wrong, and to demonstrate the power of reason and natural philosophy, Thales did something that should put him in the trading history books.
+
+Advertisement.
+
+Based on his study, assessment and knowledge of the Greek climate, Thales reasoned that there would be a particularly good harvest for olives one year. But rather than sit on this information, Thales had taken the next step and put deposits down on all the olive presses in Miletus over the preceding winter.
+
+Thales basically cornered the market on olive presses for a small investment. Stated in modern trading terms, Thales bought call options on olive presses and paid a small amount for the right to control those presses (i.e. he paid a small premium for the option).
+
+When his prediction of a bountiful olive harvest did indeed come to pass, Thales’ bet paid off handsomely. The boom harvest created heavy demand for the olive presses, and because Thales held a virtual monopoly on the presses, he was able to rent them out at a huge profit.
+
+In my opinion, this was perhaps one of the most important events — not only in market history, but in the whole of human history.
+
+The reason why is because Thales demonstrated that “science” and the accumulation of wealth really are connected. And, as the old saying goes, knowledge is power. He also demonstrated that if you know what your competition doesn’t, you will have a tremendous advantage over them.
+
+Advertisement.
+
+It is for this life lesson, as well as the accompanying investing lesson of Thales and the olive presses, that we should be thankful for the man from Miletus.
+
+I know I am thankful for him, as his foresight and virtual creation of the concept of options trading has allowed me to help investors make some serious profits. And, that’s precisely what we have done this year in my Bullseye Stock Trader advisory service.
+
+Since we launched in late December, we’ve had 14 closed trades, with 12 winners. Moreover, many of those options trades have been double-digit or even triple-digit percentage winners.
+
+To find out more about my Bullseye Stock Trader service, simply click here.
+
+So, the next time someone asks you about who your favorite investor is, forget about Warren Buffett or Ray Dalio or John Templeton. Instead, give Thales of Miletus a shout out.
+
+*********************************************************************
+
+Advertisement.
+
+Heaven at Night
+
+“Las Vegas looks the way you’d imagine heaven must look at night.”
+
+— Chuck Palahniuk, “Invisible Monsters”
+
+The dark-yet-brilliant novelist’s 1999 tome about a fashion model who is left disfigured after a car accident is a beautiful yet distressing read. In fact, the book was originally considered too disturbing to publish. However, “Invisible Monsters” got a second life after the success of Palahniuk’s first novel, “Fight Club.” And of course, I can’t mention that book without mentioning the unforgettable cultural meme it spawned: “The first rule of Fight Club is you DO NOT talk about Fight Club.” If you haven’t read Palahniuk’s work, you’re missing out on some very good literature.
+
+Wisdom about money, investing and life can be found anywhere. If you have a good quote that you’d like me to share with your fellow readers, send it to me, along with any comments, questions and suggestions you have about my newsletters, seminars or anything else. Click here to ask Jim.
+
+In the name of the best within us,
+
+Jim Woods","{'label': 'Neutral', 'score': 0.9999338388442993}",neutral,0.9999338388442993,0
+Thales appoints new Country Director in Egypt - Dailynewsegypt - Daily News Egypt,"Wed, 08 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5bmV3c2VneXB0LmNvbS8yMDE5LzA1LzA4L3RoYWxlcy1hcHBvaW50cy1uZXctY291bnRyeS1kaXJlY3Rvci1pbi1lZ3lwdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales, a global leader in aerospace, defence, security, space, and transportation sectors, announced on Wednesday the appointment of Sherif Barakat as the new country director of Egypt.
+
+As the new Country Director, Barakat will be responsible for strengthening the presence of Thales with a focus on driving growth in the transport, aerospace, defence, and security sectors.
+
+With over 40 years of presence and more than 500 employees in the country, Thales has been a historical trusted partner for Egypt’s public and private sectors.
+
+Barakat will be responsible for driving the growth, especially as the country focuses on its strategic Egypt Vision 2030 plan to propel economic and social prosperity to its citizens.
+
+Barakat, an Egyptian national, brings over 20 years of experience covering multiple geographies and industries. A seasoned executive with experience in technology, digital transformation, and telecommunications, Barakat’s previous role were VP and CCO of Samsung Egypt. He has a master’s degree in engineering from the American University in Cairo, and he has also served as a Country Director in both Saudi Arabia and Egypt with his previous employer, Samsung, as well as holding leadership roles across North Africa with Nokia prior to this.
+
+Barakat said, “As Egypt begins to realise its 2030 Vision socio-economic plan, it’s an exciting time to be leading the Thales team in the country. Thales has a historic heritage of operations in Egypt, and we remain committed to supporting the nation’s focus on promoting security, safety, and growth. Through our strong local presence, including joint ventures and academic partnerships, we will continue to be the go-to partner for Egypt in driving its growth into the nation’s exciting future.”","{'label': 'Positive', 'score': 0.9155094623565674}",positive,0.9155094623565674,1
+Herschel/Planck: 10 years later… - Thales,"Tue, 14 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9oZXJzY2hlbHBsYW5jay0xMC15ZWFycy1sYXRlctIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A large-scale project involving close collaboration with ESA and the global scientific community, and one of the largest space industry teams ever assembled
+
+On May 14, 2009 - Just ten years ago today, an Ariane 5 rocket lifted off from the Guiana Space Center in Kourou, French Guiana, with two spacecraft, Herschel and Planck.
+
+The two spaceborne observatories, Herschel and Planck, built by Thales Alenia Space as prime contractor for the European Space Agency (ESA), were designed to further our understanding of the Universe. One of the largest contracts ever signed for a scientific mission, Herschel and Planck were designed to operate from an orbit at Lagrange Point 2 (L2), about 1.5 million kilometers (a million miles) from the Earth.
+
+These two spaceborne telescopes were designed to unveil some of the Universe’s most closely guarded secrets, namely the formation of stars and galaxies (Herschel) and the big bang (Planck). Behind this daunting endeavor was a project team counting more than 500 people, as well as over 90 subcontractors from 17 countries. Virtually all TAS facilities were involved in the project, including Cannes, Turin, Madrid, Charleroi, Milan, Toulouse, Rome and L’Aquila, along with Bristol and Zurich, which would join Thales Alenia Space a few years later.
+
+Thales Alenia Space invested the sum total of its expertise and passion in this project, leading up to the launch of the two spacecraft from the Guiana Space Center, Europe’s Spaceport in French Guiana (South America). Once in orbit, Herschel and Planck could start their scientific missions.
+
+© ESA
+
+Herschel © ESA
+
+The Herschel space telescope was able to observe cold and dust-laden regions of the Universe that were inaccessible to other telescopes at the time. It studied the birth of galaxies and how stars were formed, as well as the gas and dust clouds that would eventually become stars, proto-planetary disks and complex organic molecules in the tails of comets. In particular, Herschel was the first spacecraft to study the complete spectrum of wavelengths in the far infrared bandwidth.
+
+The Planck scientific observatory was designed to study the cosmic background noise, or in other words the fossil radiation from the “first light” of the Universe, emitted some 380,000 years after the big bang, or about 13.8 billion years ago. Planck delivered vital information concerning the creation of the Universe and our own Solar System. For instance, it detected a number of areas where stars are about to be born, or are just starting their development cycle.
+
+© TAS
+
+Planck © Thales Alenia Space
+
+Herschel and Planck carried out their missions to perfection, and even beyond the call of duty, since Planck exceeded its specified mission lifetime by 18 months and Herschel by 6 months, finishing at the end of October 2013 and the end of April 2013, respectively. They are still considered two of the most complex scientific spacecraft ever built in Europe.
+
+This performance earned kudos from the global scientific community and also won awards from the leading astronautics associations 3AF in France (Association Aéronautique et Astronautique de France) in 2010 and AIAA in the United States (American Institute of Aeronautics and Astronautics) in 2015. From the industry standpoint, the program won the 2014 Gold Medal from the International Project Management Association (IPMA) in the category “Mega Sized Projects”.
+
+For Thales Alenia Space, the Herschel/Planck program augured well for future success in the scientific sphere, as the company subsequently won both the Euclid contract and part of the Plato mission. Both of these missions entail requirements and orbits which are similar to those on Herschel/Planck.
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont
+
+Tel: +33 (0)4 92 92 74 06
+
+chrystelle.dugimont@thalesaleniaspace.com
+
+Cinzia Marcanio
+
+Tel: +39 06 41512685
+
+cinzia.marcanio@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999959468841553}",neutral,0.9999959468841553,0
+"Thales Alenia Space, ALTEC, the Italian Space Agency and the European Space Agency inaugurated the ExoMars ... - Thales","Thu, 30 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLWFsdGVjLWl0YWxpYW4tc3BhY2UtYWdlbmN5LWFuZC1ldXJvcGVhbi1zcGFjZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space, ALTEC, the Italian Space Agency and the European Space Agency inaugurated the ExoMars 2020 Rover Operations Control Centre Thales Alenia Space ExoMars ExoMars 2020 Space Exploration Share this article
+
+
+
+LinkedIn
+
+ROCC will control Rover surface operations
+
+as it searches for signs of past or present life
+
+Turin, May 30, 2019 – The ExoMars 2020 Rover Operations Control Center (ROCC) was inaugurated today by Thales Alenia Space (the joint venture between Thales 67% and Leonardo 33%), ALTEC (Aerospace Logistics Technology Engineering Company), the Italian space agency ASI and the European Space Agency (ESA). It is located on the premises of ALTEC, an engineering and logistics services joint venture between Thales Alenia Space and ASI.
+
+Developed as part of the ExoMars 2020 contract, the ROCC will control and monitor the Rover’s operations. Commands will be transmitted via the Trace Gas Orbiter (TGO), launched on the ExoMars 2016 mission and now in orbit around Mars, and the space communications network at ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany.
+
+Conducted by ESA in conjunction with Russian space agency Roscosmos, ExoMars 2020 will deliver a European rover and a Russian platform to the surface of Mars. A Proton rocket will launch the spacecraft, which will arrive at Mars on March 19, 2021 after a long journey. The ExoMars rover will travel across the Martian surface to search for signs of life, trying to answer questions that have long fascinated humanity. It will collect samples with a drill developed and built by Leonardo and analyze them using its own advanced built-in laboratory. ExoMars will be the first mission to combine the capabilities of moving across the surface and studying Mars in depth.
+
+The ROCC will start operation in July 2020, when the ExoMars 2020 spacecraft lifts off for the interplanetary trip.
+
+“This is the crucial place on Earth from where we will listen to the rover’s instruments, see what She sees and send commands to direct the search for evidence of life on and under the surface,” said Jan Wörner, ESA’s Director General.
+
+“Italy has, trough Italian Space Agency (ASI), a strong knowledge in the study and exploration of Mars thanks to its participation in the most important International missions for the study of the Red Planet. ExoMars mission represents the summary of Italian technological ability reached during these years that today, with the birth of Altec mission control center, finds its widest expression in the demonstration of the skills of the scientific community and of our space industry. Through ROCC, Europe will have the great opportunity to manage the activities of the Rover on Mars so as to plan and test its movements on the surface of Mars, searching for areas which are more appropriate for reaching the goal of the mission: the search of traces which may be associated to past or present forms of life. This will allow us to identify and spread crucial information for a complete knowledge of the planet. ROCC will thus play a key role for the success of ExoMars 2020 rover as well as for ASI itself. This will be the first step to address the control center towards new missions for the study of Mars as well as of other celestial bodies. We have invested in this activity because we firmly believe that it represents an essential element for the future of the robotic exploration of the Universe” - Said Giorgio Saccoccia, president of Italian Space Agency.
+
+“We are delighted to play a leading role in Europe’s ambitious program to study the Red Planet contributing with our expertise and technology” - said Donato Amoroso, Senior Vice-President, Observation, Exploration and Navigation at Thales Alenia Space - “Today marks the inauguration of the ROCC, reflecting a fruitful collaboration between space agencies and industry, and signaling the beginning of a search for answers to questions that have long fascinated humanity.”
+
+“ALTEC is honored to be at forefront of European Robotic exploration with this important contribution that is the Rover Operations Control Center - said Vincenzo Giorgio, CEO of Altec - The ROCC is the result of dedication and a strong goal oriented approach by agencies, industry and its subcontractors, to make the first European Robotic exploration mission a success, where the ROCC is the brain of the entire mission”.
+
+The Rover Operations Control Center comprises several different systems and facilities:
+
+Operations room, where all Rover operations are planned, managed and executed in conjunction with the program scientific team.
+
+Mars Terrain Simulator (MTS), which simulates the Martian terrain (in terms of both shape and composition) to support daily ground operations, perform functional testing of the ExoMars Rover Ground Terrain Model (GTM) and reproduce the Rover’s surface mission to account for any contingencies.
+
+Tilting platform: a structure measuring 8 x 8 meters that is used as a simulated surface to test mission scenarios using the Rover Ground Test Model.
+
+Drilling and illumination system, which reproduces the soil drilling operations on Mars and simulates fluctuations in lighting conditions on Mars.
+
+The ExoMars 2020 mission is now at an advanced development stage. After integrating and testing the Rover’s core system, the Analytical Laboratory Drawer (ALD), at its facility in Torino, Italy, Thales Alenia Space continues to integrate and test the Rover Ground Test Module, a full Rover simulator equipped with a copy of the ALD module. This test module will be used in Turin to rehearse all operational and scientific activities related to the Rover’s mission on Mars.
+
+Thales Alenia Space is also developing the mission control software and completing the integration and testing of the Descent Module (provided by Lavochkin), including its mating to the Carrier Module (provided by OHB). This assembly will then be shipped to the Thales Alenia Space’s Cannes plant in July for environmental testing. Before leaving Cannes, the Rover, named “Rosalind Franklin”, will be mated with the Landing Platform, “Kazachok”, and the Carrier Module to form the complete ExoMars 2020 spacecraft. The launch is planned for July 2020 from the Baikonur Cosmodrome in Kazakhstan.
+
+About the ExoMars 2020 mission
+
+ExoMars is a European Space Agency program in conjunction with the Russian space agency Roscosmos and a contribution from NASA. The launch from Baikonur will take place between July 26 and August 11, 2020. The spacecraft will take a direct ballistic trajectory to Mars, followed by the Descent Module separating from the Carrier Module, entry into the Martian atmosphere and the landing of the Descent Module with the Rover, weighing approximately 2 metric tons, on March 19, 2021. The Rover will then leave the landing platform and explore the planet, taking and analyzing soil samples to a depth of 2 meters, including a search for present or past life in these samples by its own lab. It will also carry out geochemical and atmospheric studies of the surface and underground environments.
+
+About the industrial consortium:
+
+Thales Alenia Space in Italy is the ExoMars mission prime contractor, with responsibility for the design, development and testing of the entire system, as well as the development of the Carrier Module navigation and guidance system and the EDL/GNC the Rover, including the Analytical Laboratory Drawer (ALD), and supplier of key components on the DM, including the radar altimeter. Thales Alenia Space in Italy has also formed an extensive technical partnership with Lavochkin of Russia, including European contributions to the development of the Descent Module, Kazachok. OHB is in charge of developing the Carrier Module, as well as certain ALD subsystems (SPDS mechanisms, structure and harness). Thales Alenia Space is responsible for Rover operations in the ROCC. It has developed the Rover Module Mission Operations Concept and it is responsible for the definition of operation of the Rover operations both during the Cruise Phase and Surface Phase. The Rover itself is provided by Airbus Defence and Space in the UK. Leonardo is developing the ExoMars drill, which will dig into the Mars subsoil to a depth of 2 meters, plus the drill and ALD control unit and software. ALTEC (Aerospace Logistics Technology Engineering), a joint subsidiary of Thales Alenia Space (63.75%) and ASI (36.25%, is responsible for the design, development and maintenance of the ROCC (Rover Operations Control Center) and for controlling the Rover on the Martian surface. Thales Alenia Space is also in charge of the TGO (Trace Gas Orbiter), launched on the ExoMars 2016 mission and now in orbit around Mars, which will relay all information from and to the Rover.
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont
+
+Tel: +33 (0)4 92 92 74 06
+
+chrystelle.dugimont@thalesaleniaspace.com
+
+Cinzia Marcanio
+
+Tel: +39 06 41512685
+
+cinzia.marcanio@thalesaleniaspace.com
+
+About Altec
+
+ALTEC (Aerospace Logistics Technology Engineering Company) is a public-private company owned by Thales Alenia Space in Italy and the Italian space agency ASI. Founded in March 2001, ALTEC has established itself as an international center of excellence for the provision of engineering and logistics services to support International Space Station operations and use, as well as the development and implementation of planetary exploration missions. Reflecting its shareholders’ strategies and the changing market environment, ALTEC has broadened its presence in the aerospace industry, with a stronger focus on business development and the emerging space economy. ALTEC has a workforce of 80 highly skilled technicians and engineers, making it a key player in the space sector and a force in the local economy. www.altecspace.it
+
+Press contact: Daniela Souberan, daniela.souberan@altecspace.it
+
+Photo copyrights: ©Thales Alenia Space/Master Image Programmes - © ALTEC & © Thales Alenia Space.","{'label': 'Neutral', 'score': 0.9999972581863403}",neutral,0.9999972581863403,0
+Thales Alenia Space @ VivaTech 2019 - Thales,"Wed, 15 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvZXZlbnQvdGhhbGVzLWFsZW5pYS1zcGFjZS12aXZhdGVjaC0yMDE50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space @ VivaTech 2019 Thales Alenia Space VivaTech Innovation Share this article
+
+
+
+LinkedIn
+
+VivaTech, a three-day event dedicated to all facets of technological innovation, is about to kick off in Paris. A can’t miss meeting of major corporations, innovative startups and disruptors, Viva Technology is expecting more than 100,000 participants, 9,000 startups and 1,900 journalists, from 125 countries. The space sector will be present, of course, alongside Thales.
+
+You will love this event is you’re a fan of the International Space Station. For example, VivaTech will talk about Columbus, the famous space lab in the ISS that has already welcomed astronauts from the United States, Europe, Japan, Russia and Canada to carry out cutting-edge scientific experiments. Also in the spotlight will be a brand-new technology from Italy: PIUME, a habitat than can be used in extreme environments, including mountains, deserts, arctic regions and space. Thales Alenia Space will provide an update on its new in-orbit servicing offer, a very timely new capability as operators seek to extend their satellites’ service lives. Moving higher up, way beyond the 400 kilometer altitude of the International Space Station, we’ll also be looking at new Moon adventures, in honor of the 50th anniversary of the first human landing on the Moon. At the same time, we’ll be looking at other space exploration endeavors, including the ExoMars mission to the Red Planet, the iconic Cassini-Huygens mission to Saturn and its moons, and the recently launched BepiColombo mission to explore the mysteries of Mercury.
+
+Following the recently published and very alarming report by the United Nations on the unprecedented collapse in biodiversity, with an estimated one million plant and animal species threatened with extinction, VivaTech is organizing a conference on satellites as a key to understanding our planet.
+
+Columbus, a unique science lab circling the Earth at 400 kilometers
+
+© ESA/NASA
+
+Launched in February 2008, Columbus is a versatile, multidisciplinary and multi-user platform. The “space lab” is primarily used for scientific research, and continues to host a number of tests and demonstrations in physics, medicine, biology, fluid mechanics and many other areas.
+
+Thales Alenia Space played a lead role in this program, working for the prime contractor Airbus. We participated in system definition, supported the final integration and testing phases, and developed and pre-integrated the lab’s thermomechanical structure.
+
+Virtual Reality demonstration to be unveiled @ VivaTech - © Thales Alenia Space
+
+Like the two pressurized modules, Harmony (Node 2) and Tranquility (Node 3), the assembly of the Columbus lab started back in the clean rooms in Turin, Italy. The structure, thermal control system, survival equipment, plumbing and external protection were all completed in September 2001.
+
+40% of the ISS built by Thales Alenia Space
+
+ISS © Thales Alenia Space/Master Image Programmes
+
+The International Space Station (ISS) holds a special place in the hearts of Thales Alenia Space engineers based in Turin. Thales Alenia Space has supplied fully half of the pressurized volume on the ISS (40% of the entire station), including Nodes 2 and 3, the Multipurpose Module (MMP), Multipurpose Logistics Modules (MPLM), Cupola, Columbus lab structure, the pressurized cargo module for ATV resupply vessels and the structure for the Bishop commercial airlock from NanoRacks. Thales Alenia Space also supplies the pressurized cargo module for Cygnus resupply vessels on behalf of Northrop Grumman.
+
+NextSTEP-2: © NASA
+
+Looking beyond the ISS, Thales Alenia Space is gearing up for lunar missions, in particular with the LOP-G (Lunar Orbital Platform Gateway), and is carrying out design studies for NASA (as part of NextSTEP 2) and ESA. Furthermore, following the success of the IXV atmospheric reentry demonstrator, Thales Alenia Space is developing Space Rider, Europe’s new-generation, low-orbit, reusable space transport system.
+
+PIUME, when you want to live life at the extremes!
+
+PIUME © Thales Alenia Space
+
+PIUME (Portable Independent Utilities and Modules for Extreme conditions) will be featured in a virtual reality demonstration at VivaTech. Reflecting Thales Alenia Space’s expertise in manned spaceflight and orbital infrastructures on the International Space Station, this module can be deployed in all types of environments, including polar and desert bases, military forward observation posts, oil and gas rigs, etc. It’s based on a concept designed to ensure survival in isolated or hostile zones.
+
+PIUME can also be custom-tailored to suit different users and environments, and it offers full connectivity to support remote assistance services. PIUME can be deployed on Earth or in space.
+
+A leading contributor to major space exploration programs
+
+Venus, Mars, Mercury, Titan, the Moon, asteroids and comets… Thales Alenia Space is a pivotal partner in Europe’s fantastic missions across the Solar System. Company staff will be on hand at VivaTech to explain our solutions and share their passion for space exploration.
+
+ExoMars rover © Thales Alenia Space/Master Image Programmes
+
+Thales Alenia Space is prime contractor for the current ExoMars program, a role it played on Herschel and Planck, the largest space observatories ever developed in Europe. The company also developed and integrated Corot, France’s own low-orbit “exoplanet” hunter (looking for planets outside our Solar System), and will be heavily involved in a new program called PLATO, also tasked with tracking exoplanets, but from the Lagrange 2 (L2) point, thanks to advanced telescope optical units built at the Leonardo facility in Campi Bisenzio, Italy in conjunction with leading universities and research organizations. We are also one of the lead partners on the recently launched BepiColombo mission, which will explore one of the most mysterious planets in the Solar System, Mercury.
+
+Huygens © ESA
+
+Thales Alenia Space built 25 of the 64 huge parabolic antennas (Europe’s contribution) for the giant ALMA radiotelescope array deployed on the Atacama plateau in Chile. In addition, Thales Alenia Space played a lead role on the famous Rosetta-Philae comet mission (especially via assembly, integration and testing of the spacecraft), as well as on Cassini-Huygens. This latter mission allowed us to explore the atmosphere of Titan and then make a trouble-free – if short-lived! – landing on Saturn’s most mysterious moon. The Huygens space probe was built by Thales Alenia Space as prime contractor. Also on the agenda at Thales Alenia Space is the European program Euclid, which will help us better understand dark matter.
+
+ExoMars rover © Aster
+
+In the meantime, Europe is holding its breath in the run-up to the ExoMars 2020 mission. ESA’s rover for this mission should touch down on Mars in 2021. Fitted with a special drill built by Leonardo near Milan, the rover will take soil samples at a depth of 2 meters, in an attempt to discover traces of past life (bacteria), while the Trace Gas Orbiter (TGO), launched in 2016, continues its mission in orbit around Mars, “sniffing” the Martian atmosphere to discover traces of methane gas in particular.
+
+Space START: multipurpose in-orbit servicing
+
+In-Orbit Servicing © Thales Alenia Space/Master Image Programmes
+
+“Once a satellite is launched, you can’t service it in orbit.” This was always a truism among satellite-makers, but it may no longer apply in the near future. The reason is a new type of space vehicle, called the “Space Servicer”! As its name indicates, this type of spacecraft is designed for in-orbit servicing, a service now marketed by Thales Alenia Space under the Space START name. Highly versatile, Space Servicers can be used for a wide variety of orbital tasks, including deorbiting space debris, robotic manipulation, extending a satellite’s service life, fueling, inspection, etc. With these new space machines, we are changing the space paradigm, turning the current static situation into a dynamic environment.
+
+In-Orbit Servicing © Thales Alenia Space/Master Image Programmes
+
+Thales Alenia Space is spearheading the development of in-orbit servicing, which will change our approach to space access. And if we do manage to build lunar bases in the future, Space Servicers will undoubtedly play a key role in the transport and assembly of the different components.
+
+Climate change and satellites
+
+Climate change is front-page news these days, and satellites have a role to play. As indicated by the recent UN report, we can now see, more than ever, how global warming reduces vegetation and increases desertification, while one animal species out of eight is currently threatened with extinction.
+
+The dance of the Sentinels
+
+Copernicus family © ESA
+
+Satellites play a key role in helping us understand global warming, by monitoring the Earth and providing invaluable data. The Sentinel series of Earth observation spacecraft is being developed on behalf of the European Space Agency (ESA) within the scope of the European Union’s Copernicus program. They are a key to Europe’s environmental monitoring efforts. These satellites are fitted with optical and radar sensors for imaging, altimeters to provide information concerning oceanography and climatology, and spectrometers to survey the atmosphere and measure greenhouse gases.
+
+Copernicus data (2016) - Photo captured by Sentinel-3A
+
+There are six Sentinel families of satellites or instruments: Sentinel-1 is designed to provide continuity for the radar data collected by ERS and Envisat; Sentinel-2 and Sentinel-3 are dedicated to monitoring land masses and oceans. The Sentinel-4 and -5 instruments are designed for meteorology and climatology missions. Sentinel-6 will provide operational continuity for Jason altimetry missions. Thales Alenia Space is prime contractor for the Sentinel-1 and -3 families (4 satellites each), in charge of the image ground segment for Sentinel-2, and makes the imaging spectrometer carried by Sentinel-5P as well as the Poseidon-4 radar altimeter for the Jason-CS/Sentinel-6 mission.
+
+Improving weather forecasts
+
+Thanks to Meteosat weather satellites, meteorologists have enjoyed a continuous supply of reliable data for their immediate and short-range weather forecasts for more than forty years.
+
+MSG-4 © Thales Alenia Space/Imag[IN]
+
+Meteosat Second Generation (MSG) satellites cover Europe, the North Atlantic and Africa, sending updated images every 15 minutes, versus 30 minutes on first-generation satellites. With MSG, meteorologists benefit from higher-quality images because of a significant increase in the number of observation channels and better radiometric performance, coupled with shorter revisit times. This allows them to detect and monitor rapidly developing events such as storms, which directly impact both citizens and economic sectors such as agriculture, fishing and transportation, especially shipping.
+
+MTG © Thales Alenia Space/Master Image Programmes
+
+Thales Alenia Space is now developing Meteosat Third Generation (MTG), which will update images every ten minutes to make weather forecasts more reliable than ever. Some MTG satellites are also fitted with atmospheric sounders to complement the images acquired. All European meteorological satellites were built by Thales Alenia Space as prime contractor.
+
+New technologies to better understand global warming
+
+Samantha Cristoforetti - Cupola © ESA/Samantha Cristoforetti
+
+New approaches such as cloud computing and big data can be used to process and analyze the huge streams of data coming from satellites.
+
+For instance, artificial intelligence (AI) algorithms could be used to select pertinent data, automate monitoring or identify hidden correlations. We could also develop more specialized algorithms to detect any small, inadvertent changes in a set of images recorded over a given period. AI allows us to identify image content, while also quickly providing information on the surface of the Earth, and how it is being used for agriculture or urban development, as well as supporting the management of natural resources and vegetation monitoring.
+
+AI can also be used to identify outliers in images, such as icebergs, fires, oil spills, etc. We could receive safety alerts in near real time, enabling us to save people’s lives. Concerning climate change, satellites are already playing a role… and this will be covered in one of the conferences at VivaTech this week in Paris.
+
+First artistic view: © Thales Alenia Space/Marchioro","{'label': 'Neutral', 'score': 0.9999923706054688}",neutral,0.9999923706054688,0
+Thales part of new robot team facing up to autonomous wind farm challenge - Thales,"Wed, 29 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1wYXJ0LW5ldy1yb2JvdC10ZWFtLWZhY2luZy1hdXRvbm9tb3VzLXdpbmQtZmFybS1jaGFsbGVuZ2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Imagine a future where the world’s first fully autonomous team of robot bugs, drones and unmanned vessels work together to inspect and repair offshore wind farms in the unforgiving environment of the open sea.
+
+The unmanned vessel will sail out to the farms with its robotic crew on board, ready to co-operate on a remote mission that would not look out of place in outer space in lessons learned directly from NASA operations.
+
+The drones will then fly around the turbine, conducting visual inspections using HD cameras.
+
+The six-legged crawling robot bugs will use hyperspectral imaging which is much more sensitive than the human eye to carry out close-up inspections of the blades, and an electronic skin to ‘feel’ the surface and use a robotic arm to repair the blades.
+
+But this is no fantasy project. Thales is excited to be part of a new two year project between industry and academia to help deliver this autonomous robotic solution that will help support this growing energy sector.
+
+Offshore wind energy is becoming increasingly critical to the UK with the Government predicting it will be providing one third of all our electricity by 2030 as part of its clean growth strategy.
+
+The Innovate UK-funded MIMRee (Multi-Platform Inspection, Maintenance and Repair in Extreme Environments) project brings together a consortium of eight industry and academic partners.
+
+All bring respective expertise around the fields of robotics, artificial intelligence, space mission planning, engineering, autonomy, non-destructive testing and nanobiotechnology.
+
+By their very nature, wind farms are isolated and subject to the harsh effects of the open sea. Human inspection teams have to battle weather, long sea journeys and being roped up on turbines in small windows of opportunity when the blades have to stop turning and therefore stop producing electricity.
+
+The project is expected to save the average wind farm approximately £26 million over the course of its lifetime. It will also involve upskilling technicians to more land-based roles.
+
+Plant Integrity leads the consortium and the Offshore Renewable Energy (ORE) Catapult will provide offshore wind industry insight and access to test facilities.
+
+Thales brings its expertise in autonomous systems in the form of the unmanned surface vessel or ‘robot mother-ship’.
+
+Having recently opened its new maritime autonomy facility in Turnchapel, Plymouth, Thales will deploy one of its unmanned vessels to work with the rest of the MIMRee team in the deployment of the drones and newly-developed BladeBug robots that will deploy on the turbines.
+
+Read the Press Release to find out more about MIMRee repair and inspection solutions.","{'label': 'Neutral', 'score': 0.9990572333335876}",neutral,0.9990572333335876,0
+Yamal-601 satellite in orbit - Thales,"Fri, 31 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS95YW1hbC02MDEtc2F0ZWxsaXRlLW9yYml00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Yamal-601 satellite in orbit Thales Alenia Space Telecommunications Share this article
+
+
+
+LinkedIn
+
+Designed and built by Thales Alenia Space for Gazprom Space Systems
+
+Cannes, May 31st 2019 – The Yamal-601 telecommunications satellite, designed and built by Thales Alenia Space for the Russian operator Gazprom Space Systems (GSS), was successfully launched today from the Baikonur Cosmodrome in Kazakhstan by a Proton M/Breeze M rocket. The satellite will provide fixed communications, broadcast and Internet access services.
+
+Thales Alenia Space was program prime contractor, in charge of satellite design, production and turnkey delivery, along with control software for the ground segment.
+
+Based on the Thales Alenia Space Spacebus 4000C4 platform, Yamal-601 is fitted with 18 C-band transponders, to cover Russia, neighboring CIS countries, the Middle East and part of Southeast Asia, and a Ka-band payload with 32 spotbeams for the Western part of Russia as well as West Siberia. It weighed 5.4 metric tons at launch, with 7.3 kW of payload power and a design life exceeding 15 years. Yamal-601 will replace Yamal-202 at the 49°E orbital position and provide extended coverage.
+
+“After establishing an excellent relationship through the Yamal-200 and Yamal-400 families, we are delighted to help Gazprom Space Systems continue to grow its in-orbit capacity,” said Jean Loïc Galle, Chief Executive Officer of Thales Alenia Space. “We are also proud to have provided the most powerful communications satellite operating in Russian orbital slots, in term of bandwidth.”
+
+Copyrights: ©Thales Alenia Space/Briot - © Thales Alenia Space/Alizée Palomba - © Thales Alenia Space/Imag[IN]
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont
+
+Tel: +33 (0)4 92 92 74 06
+
+chrystelle.dugimont@thalesaleniaspace.com
+
+Cinzia Marcanio
+
+Tel: +39 06 41512685
+
+cinzia.marcanio@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.8080461025238037}",neutral,0.8080461025238037,0
+S2P - Smart Plastic Products - Thales,"Mon, 06 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9qb3VybmFsaXN0L25ld3MvczJwLXNtYXJ0LXBsYXN0aWMtcHJvZHVjdHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"S2P - Smart Plastic Products Share this article
+
+
+
+LinkedIn
+
+Founded in 2014, Smart Plastic Products (S2P) emerged almost naturally from its surrounding environment – France’s “Plastics Valley”,
+
+in and around Oyonnax. The startup began life as a spin-off of the IPC (plastics processing technical centre), with a 10-strong team of engineers and developers working on ways to bring smart added value to plastic products.
+
+S2P’s technologies enable electronic systems and functions to be integrated directly into all kinds of plastic parts, and most notably those that have complex curved or three-dimensional shapes. By turning the traditional model on its head – adapting the electronics to the part, rather than the other way round – S2P is able to free itself from previous industry constraints of size and shape. The technology provides both economic and technical benefits, since making the electronics an integral part of the plastic allows the miniaturisation of a broad range of systems, from antennas and sensors to anti-intrusion surfaces and fuses for pyrotechnics, and it can be applied to any type of electronics.
+
+The obvious applications that the technology has in meeting companies’ needs in the highly complex and technical fields of aerospace and defence meant that S2P was on Thales’s radar screen very early on, resulting in collaboration across the Group on a variety of different prototypes. Managing director Maël Moguedet has high hopes for VivaTech 2019: “It is an opportunity for us not only to strengthen our partnership with Thales and its teams, but also to generate new ideas and new relationships with other companies.”
+
+Website : http://www.s-2p.com/temp/en/
+
+Linkedin : https://www.linkedin.com/company/s-2p/","{'label': 'Positive', 'score': 0.9909740090370178}",positive,0.9909740090370178,1
+Thales to supply new maritime command and control system to the Royal Navy - Thales,"Tue, 07 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1zdXBwbHktbmV3LW1hcml0aW1lLWNvbW1hbmQtYW5kLWNvbnRyb2wtc3lzdGVtLXJveWFsLW5hdnnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales to supply new maritime command and control system to the Royal Navy Share this article
+
+
+
+LinkedIn
+
+Thales has won a contract to supply a new generation of command and control systems to the Royal Navy with its M-Cube combat mission system as part of the Oceanographic Reconnaissance Combat Architecture (ORCA) .
+
+© Open Government Licence
+
+The ORCA programme’s primary goal is to address the obsolescence of current CMS in service in the Navy’s six Hunt and seven Sandown Class mine countermeasures vessels (MCMVs).
+
+The successful bid was centred on the tried and tested M-Cube system which is already in service with five navies.
+
+Thales bid capture lead Stuart Robinson said: “This contract is a ground breaker for the Royal Navy and for Thales. M-Cube offers an open architecture that both integrates current stand-alone systems and enables straightforward technology insertion. “
+
+© Open Government Licence Royal Navy Sandown class mine countermeasure vessel
+
+M-Cube is also the command and control system at the heart of the Anglo-French Maritime Mine Counter Measures programme (MMCM), developing an autonomous capability that will keep sailors further from danger during mine hunting operations.
+
+The first ship will be fitted with M-Cube and complete trials in 2020.
+
+The contract also includes training for Royal Navy personnel, a five-year in-service support plan and, for the first time for its MCMVs, a land-based test site to enable the development of future technologies and algorithms ashore.
+
+The ORCA programme demonstrates Thales’s determination to stay at the forefront of combat mission system technology.
+
+Key Facts","{'label': 'Neutral', 'score': 0.9889487028121948}",neutral,0.9889487028121948,0
+Finnish passports and IDs are now made by a scandal-ridden weapons manufacturer - Helsinki Times,"Sun, 26 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5oZWxzaW5raXRpbWVzLmZpL2ZpbmxhbmQvZmlubGFuZC1uZXdzL2RvbWVzdGljLzE2NDQ1LWZpbm5pc2gtcGFzc3BvcnRzLWFuZC1pZHMtYXJlLW5vdy1tYWRlLWJ5LWEtc2NhbmRhbC1yaWRkZW4td2VhcG9ucy1tYW51ZmFjdHVyZXIuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Over the past two decades, Thales has repeatedly caught media attention for its purported illicit activities, including bribes to build warships for the Taiwanese government and collusion with former South African president Jacob Zuma over a multibillion-dollar arms deal.
+
+LAST YEAR, THE EUROPEAN COMMISSION approved the €4.8 billion acquisition of the digital security company Gemalto, which is responsible for manufacturing Finnish passports and IDs, by French aerospace and defense group Thales.
+
+In response to Thales bid for Gemalto, The European Commission launched an in-depth investigation last summer over the concern that the acquisition would lead to higher prices and a loss of choices in the hardware security modules market. The commission approved the purchase of the Dutch security company in November under the promise that Thales would sell its global nShield business to confront the EU’s concerns.
+
+Commissioner Margrethe Vestager, who launched the investigation, focused her attention on the merger’s potential rise in costs and fewer choices but did not address issues relating to Thales history of lawsuits and involvement in alleged nefarious activity. Thales had to receive similar approval from the Antitrust Division of the United States Department of Justice.
+
+A Long History of Scandals and Trials
+
+In 2005, the World Bank’s Integrity Unit blacklisted Thales for its pervasive use of bribery tactics worldwide. A decision which barred Thales from participating in any projects or programmes established by the World Bank.
+
+The company was then sentenced in 2010, in conjunction with the French government, to pay a total of €630 million to the Taiwanese government for a scandal that dated back to 1991. Thales had bribed officials in an effort to secure contracts to build six frigates for the Taiwanese navy. The case came under suspicion after the head of procurement, Captain Yin Ching-feng, was found dead off the coast of Taiwan in 1993.
+
+Danish media reported on Thales manufacturing of the then-troubled Rejsekort electronic travel card in 2013. At the time, Ole Hoff-Lund, an Amnesty International spokesperson, told the Ekstra Bladet that “Thales has so many skeletons in the closet that we feel that the Danish government should provide an explanation for the ethical concerns surrounding their involvement.”
+
+Former South African President Jacob Zuma looks on as he attends his trial for alledged corruption in the High Court in Pietermaritzburg, on May 23, 2019. - Zuma, 77, is accused of taking bribes from French defence company Thales during his time as a provincial economy minister and later as deputy president of the African National Congress (ANC) in the 1990s. (Photo by Themba Hadebe / various sources / AFP) - LEHTIKUVA / AFP
+
+Ongoing allegations of bribery continue in the decade-long case brought against former South African president Jacob Zuma and Thales. Two subsidiaries of the defense group, Thint Holding (Southern Africa) and Thint, were indicted in 2005 for corruption. The accusation prompted the then South African president Thabo Mbeki to let go of Mr. Zuma who was serving as his deputy.
+
+Thales released a statement last week ahead of its court appearance with Mr. Zuma stating that it felt it ""cannot obtain a fair trial."" The company cited procedural delays as the primary reason why a fair trial could not happen, adding that ""Thales respects the law, has a zero-tolerance policy on corruption and has co-operated fully with the local authorities at all times, and will continue to do so.
+
+Stephen Webb - HT","{'label': 'Neutral', 'score': 0.9873067140579224}",neutral,0.9873067140579224,0
+"Nigerian Army fielding Thales surveillance radar, thermal imagers - Military Africa","Sat, 04 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5taWxpdGFyeS5hZnJpY2EvMjAxOS8wNS9uaWdlcmlhbi1hcm15LXVudmVpbGVkLXRoYWxlcy1ncm91bmQtb2JzZXJ2ZXItMTItc3VydmVpbGxhbmNlLXJhZGFyLWFuZC1zb3BoaWUtbHItaGFuZGhlbGQtdGhlcm1hbC1pbWFnZXJzL9IBlQFodHRwczovL3d3dy5taWxpdGFyeS5hZnJpY2EvMjAxOS8wNS9uaWdlcmlhbi1hcm15LXVudmVpbGVkLXRoYWxlcy1ncm91bmQtb2JzZXJ2ZXItMTItc3VydmVpbGxhbmNlLXJhZGFyLWFuZC1zb3BoaWUtbHItaGFuZGhlbGQtdGhlcm1hbC1pbWFnZXJzLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en,"The Nigerian Army recently revealed its newly procured surveillance equipment during a firepower demonstration at Army Camp Kabala in Jaji, Kaduna state on 27 April.
+
+Credit: Channels TV
+
+The surveillance equipment includes Thales Ground Observer 12 lightweight surveillance radars, delivered earlier this year, and Thales Sophie-LR handheld thermal imagers, believed to have been delivered in 2018.
+
+An unconfirmed expert report suggests that what appeared to be a Hensoldt Spexer 2000 ground surveillance radar was also displayed.
+
+ADVERTISEMENT
+
+Thales Ground Observer 12 surveillance radar
+
+According to Thales Group, the Ground Observer 12 Thales incorporates outstanding features for high performance long and medium range Ground Surveillance Radars. Thus the Ku-band, Pulse-Doppler Ground Observer 12 is suitable for a wide range of applications including a battlefield, border, coast and site surveillance both by military/paramilitary forces or civilian users.
+
+ADVERTISEMENT
+
+Thales Sophie-LR handheld thermal imagers
+
+While the Thales Group Sophie-Long range surveillance and target acquisition can operate in adverse conditions, dirty battlefield. It’s image stabilasation technology is capable of detecting camouflaged targets in a range of up to 5 km.","{'label': 'Neutral', 'score': 0.999977707862854}",neutral,0.999977707862854,0
+MTR resumes CBTC testing following March collision - International Railway Journal,"Wed, 29 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9wYXNzZW5nZXIvbWV0cm9zL210ci1yZXN1bWVzLWNidGMtdGVzdGluZy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"While the system on the Tsuen Wan Line varies from the East Rail Line, the operator says it was prudent in suspending all tests relating to the new signalling system. MTR says the work resumed after a comprehensive safety review confirmed that safety requirements had been met. An independent safety assessor appointed by the company also verified that the new signalling system meets international safety standards for dynamic testing.
+
+Thales and Alstom are installing Thales’ Seltrac CBTC system across seven metro lines in Hong Kong under a €330m contract awarded in 2015. The suppliers are replacing existing Automatic Train Supervision (ATS), interlocking and Automatic Train Control technology in the control centre, onboard trains and at stations.
+
+MTR is upgrading the East Rail Line to prepare for the opening of the Shatin to Central Link, where Thales is also delivering CBTC. However, the project has been delayed with an opening date still not yet confirmed.
+
+Static tests resumed in early May and dynamic tests will now take place two to three nights per week to avoid impacting normal train services. MTR says it will closely monitor the testing process to ensure safe operation. It has also developed comprehensive contingency measures to minimise any potential impact on passengers.
+
+“Stringent and detailed review and investigation have been conducted during the past few months,” says Mr Adi Lau, MTR’s operations director. “We will continue to safeguard safety as well as the safety of our staff and contractors during the signalling replacement works.”","{'label': 'Neutral', 'score': 0.9988538026809692}",neutral,0.9988538026809692,0
+'Dead' former Thales boss and Zuma trial witness Alain Thétard found alive in Europe - Polity,"Fri, 24 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBvbGl0eS5vcmcuemEvYXJ0aWNsZS9kZWFkLWZvcm1lci10aGFsZXMtYm9zcy1hbmQtenVtYS10cmlhbC13aXRuZXNzLWFsYWluLXRodGFyZC1mb3VuZC1hbGl2ZS1pbi1ldXJvcGUtMjAxOS0wNS0yNNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Even though former president Jacob Zuma's legal team told the KwaZulu-Natal High Court in Pietermaritzburg this week that a key witness and co-conspirator in the alleged corruption that led to him being charged was dead, investigators have found him in Europe.
+
+Alain Thétard, controversial former head of Thales South Africa and author of the infamous encrypted fax, has been traced, News24 has confirmed.
+
+Advertisement
+
+
+
+The National Prosecuting Authority (NPA) received confirmation of his whereabouts after it submitted its court papers on March 11.
+
+In court documents and in oral arguments this week in Zuma's and Thales' applications for a permanent stay of prosecution, the court heard from the Zuma team that Thétard was deceased.
+
+Advertisement
+
+
+
+They have been charged with charges of money laundering, racketeering, fraud and corruption.
+
+""Thétard is now deceased and cannot assist the prosecution and me to explain the fax once and for all. This prejudice is indeed insurmountable and grotesque,"" Zuma said in his affidavit in the current application.
+
+Key player
+
+Thales only went so far as to submit that he could not be traced.
+
+Thétard was a key player in the facilitation of payments, allegedly for Zuma's benefit, through companies in the Nkobi group belonging to Zuma's former financial adviser and friend, Schabir Shaik.
+
+In 2005, the KwaZulu-Natal High Court in Durban found Shaik guilty of fraud and corruption and sentenced him to an effective 15 years behind bars. He was released on medical parole after serving a few years in prison.
+
+Meanwhile, Thétard could prove to be a crucial witness in the case against Zuma and his former employer.
+
+He was the author of the infamous ""encrypted fax"", which revealed a R500 000 annual payment by the company to Zuma if he, in exchange, would protect it from investigations into the arms deal and lobby for the company to receive more work in South Africa.
+
+The Sunday Times also previously reported on the testimony of lawyer Ajay Sooklal, who said, during an arbitration matter, that Zuma had used a code phrase when he met Thétard on March 11, 2000 with Shaik at King House in Durban to signal the bribe.
+
+According to the encrypted fax, Thétard had devised the code - ""I see the Eiffel Tower lights are shining today"".
+
+The NPA stated in its court papers that Interpol had previously not succeeded in tracing Thétard.
+
+New evidence
+
+News24 requested comment on the matter from the NPA on Thursday, after advocate Andrew Breitenbach, SC, mentioned to the court that new evidence had come to light relating to witnesses such as Thétard since it had filed court papers.
+
+The NPA had not responded at the time of writing, and this article will be updated once a comment is forthcoming.
+
+Also on Thursday, advocate Wim Trengove, SC, pointed out to the court the ""dishonest trickery"" of Thales, and in particular Thétard who had agreed to give the NPA an affidavit confirming he was the author of the encrypted fax in exchange for the withdrawal of warrants of arrest issued in his name.
+
+There was also a promise of future co-operation.
+
+The NPA also agreed to withdraw charges against a Thales subsidiary company, Thint, in the looming Shaik trial. But Thétard deposed to a second affidavit not long thereafter, which he submitted to the NPA on an unsolicited basis.
+
+In this affidavit, he changed his tune, saying he had only written the fax as a record of his own thoughts and crumpled it up and threw it away.
+
+He denied that he had asked his secretary Susan Delique, now believed to be deceased, to type the fax. She had provided the original handwritten note, which was in French, and a copy of the typed fax on a stiffy disk to the NPA.
+
+Thétard also declared that he would only be interviewed in France, and would not return to South Africa to testify against any person in the matter.
+
+Despite this, the NPA, under then National Director of Public Prosecutions (NDPP) Bulelani Ngcuka still withdrew the charges against Thint in the Shaik matter. The charges were reinstated by advocate Shaun Abrahams, now also a former NDPP, in March 2018.
+
+According to the court papers, Thétard met with Zuma in Shaik's presence on three occasions in the late 1990s and early 2000s.
+
+He subsequently denied these meetings ever took place.
+
+Now that Thétard has been found, it is likely the NPA will seek to have him brought to South Africa to testify if and when the Zuma matter goes to trial.
+
+The criminal matter against Zuma and Thales was postponed this week to October 15 to allow the application for a stay of prosecution to be dealt with.
+
+It is now year 14 since the NPA first announced that Zuma would be charged.
+
+Proceedings are expected to continue on Friday.
+
+Advocate Anton Katz, SC, acting for Thales, expected to deliver his reply to the State's arguments against the company's application for a stay of prosecution.
+
+The court is expected to first hear an application by Zuma's legal team to allow it to introduce a new piece of evidence, believed to be correspondence between the NPA and the Hawks in March 2018 - the same month charges were reinstated against Zuma.
+
+News24 has learnt that the letter, the contents of which are unclear, relates directly to Zuma's contention that he is a victim of a political conspiracy that existed to push him out of politics.","{'label': 'Neutral', 'score': 0.9992714524269104}",neutral,0.9992714524269104,0
+"AS IT HAPPENED: Zuma and Thales should not be granted permanent stay of prosecution, application must be ... - News24","Tue, 21 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uZXdzMjQuY29tL25ld3MyNC9zb3V0aGFmcmljYS9uZXdzL2xpdmUtamFjb2ItenVtYS1jb250aW51ZXMtbGVnYWwtYmF0dGxlLWZvci1wZXJtYW5lbnQtc3RheS1vZi1wcm9zZWN1dGlvbi0yMDE5MDUyMdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Breitenbach is making quick work of the interlocutory applications.
+
+He is moving on to an application the State wishes to bring against new information Zuma added in a replying affidavit.
+
+Sikhakhane, for Zuma, rises and suggests that it be dealt with on Thursday morning.
+
+Breitenbach suggests that the court rather deals with the matter at the end of the State's submissions, and on resumption on Thursday morning, proceedings should rather resume and hear submissions from Trengove.","{'label': 'Neutral', 'score': 0.9999619722366333}",neutral,0.9999619722366333,0
+Shaky start as Thales advocate irritates judges in Zuma corruption case - TimesLIVE,"Tue, 21 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aW1lc2xpdmUuY28uemEvbmV3cy9zb3V0aC1hZnJpY2EvMjAxOS0wNS0yMS1zaGFreS1zdGFydC1hcy10aGFsZXMtYWR2b2NhdGUtaXJyaXRhdGVzLWp1ZGdlcy1pbi16dW1hLWNvcnJ1cHRpb24tY2FzZS_SAYUBaHR0cHM6Ly93d3cudGltZXNsaXZlLmNvLnphL2FtcC9uZXdzL3NvdXRoLWFmcmljYS8yMDE5LTA1LTIxLXNoYWt5LXN0YXJ0LWFzLXRoYWxlcy1hZHZvY2F0ZS1pcnJpdGF0ZXMtanVkZ2VzLWluLXp1bWEtY29ycnVwdGlvbi1jYXNlLw?oc=5&hl=en-US&gl=US&ceid=US:en,"French arms company Thales' bid for a permanent stay of prosecution got off to shaky start in the Pietermaritzburg High Court on Tuesday as judges continuously criticised its arguments.
+
+Judge Thoba Poyo-Dlwati told Thales' advocate Anton Katz that he was repeating parts of his presentation, while judge Esther Steyn said she sounded like a broken record when reminding him that he was reading parts of the National Prosecuting Authority Act in isolation to suit his argument.
+
+""When you make the argument over and over, we lose it. Let's just digest it. Sometimes a lawyer makes a good argument but ruins it by repeating themselves,"" said Poyo-Dlwati.
+
+Despite the subtle warning, Katz continued to repeat technical arguments to show that former National Director of Public Prosections (NDPP) Shaun Abrahams acted irrationally when he instituted corruption charges against Thales.
+
+He said it was a ""hell-bent, knee-jerk, status quo"" decision.","{'label': 'Neutral', 'score': 0.9917186498641968}",neutral,0.9917186498641968,0
+"Shaun Abrahams had no legal power to reinstate Thales prosecution, court hears – The Mail & Guardian - Mail and Guardian","Tue, 21 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbWcuY28uemEvYXJ0aWNsZS8yMDE5LTA1LTIxLXNoYXVuLWFicmFoYW1zLWhhZC1uby1sZWdhbC1wb3dlci10by1yZWluc3RhdGUtdGhhbGVzLXByb3NlY3V0aW9uLWNvdXJ0LWhlYXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"?Former national director of public prosecutions Shaun Abrahams. (Delwyn Verasamy/M&G)
+
+Former national director of public prosecutions Shaun Abrahams did not have the power to reinstate corruption charges against French-owned company Thales SA, the high court in Pietermaritzburg heard on Tuesday.
+
+The electronic communication company is former president Jacob Zuma’s co-accused on corruption charges. It allegedly sought to bribe Zuma with an annual amount of R500 000 to further its business interests and protect it during the arms deal investigation.
+
+The corruption trial is scheduled for October, but this week both Zuma and Thales applied to permanently stay the prosecution. Thales further applied to have Abrahams’ 2018 decision to reinstate charges against it reviewed.
+
+Abrahams reinstated the charges against Thales after the Supreme Court of Appeal found that the decision to drop charges against Zuma — which was made in 2009 by former acting head of the National Prosecuting Authority (NPA) Mokotedi Mpshe — was irrational and set it aside. The appeal court decision was the result of a marathon legal battle between the Democratic Alliance, the NPA and Zuma — but in which Thales was not involved.
+
+Thales’ counsel, Anton Katz SC, said the company was then treated as a mere “add-on, flotsam” and that Abrahams’ decision was unlawful for a number of reasons.
+
+The first was that he did not have the power to institute a prosecution on behalf of the state. This power is vested in provincial directors, Katz argued, and the only time a national director could take such a decision was when he would personally appear in court to prosecute.
+
+However, Katz faced repeated questions from the bench on this issue, with Judge Esther Steyn suggesting that he was reading the different sections of the NPA Act in isolation, when he should be looking at the Act overall.
+
+Katz was further questioned on his argument that Thales and Zuma should be treated separately, and that Thales was instead treated as a mere add-on. Judge Thoba Poyo-Dlwati asked him to refer to the indictment and the charges against the two, because it seemed that they were very linked. Steyn added that once Mpshe’s decision was determined to be unlawful, the question became why one would treat the two accused differently. “Now that would be irrational,” Steyn suggested.
+
+Katz countered by saying the case against each accused should be determined “on its own facts and circumstances.” According to Katz, what the NPA has done is to say: “Bad Zuma, bad Thales; good Zuma, good Thales”. This could not be constitutional, he said.
+
+Thales’ second counsel, Mushahida Adhikari, argued that the extended delay meant that key witnesses — whom Thales would need for its defence —were unavailable. They were not employed by Thales anymore and the state had said that none of them were in South Africa nor could Interpol locate them. This meant irreparable harm to the possibility that the company would get a fair trial, she said.
+
+She said a corporate accused was different to an accused person, in the sense that a corporate accused, which is a legal construct, acted through its people. When its people were not available, the effect was that “Thales is, in essence, an accused that isn’t there,” she said.
+
+She acknowledged that there were documents available, but said there was no one able to explain them.
+
+The hearing will continue on Thursday, when the state will make its arguments as to why the prosecution should go ahead.","{'label': 'Neutral', 'score': 0.9997677206993103}",neutral,0.9997677206993103,0
+"AS IT HAPPENED: Zuma chose, in exercising his rights, 'a route that caused the delay' - State argues at #ZumaTrial - News24","Thu, 23 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uZXdzMjQuY29tL25ld3MyNC9zb3V0aGFmcmljYS9uZXdzL2xpdmUtenVtYXRyaWFsLWphY29iLXp1bWFzLWJhdHRsZS1mb3ItcGVybWFuZW50LXN0YXktb2YtcHJvc2VjdXRpb24tY29udGludWVzLTIwMTkwNTIz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sikhakhane wants to read a letter into the record. He complains the NPA has not handed this document to him.
+
+""The document I am about to read, in March 2018, shows this NPA was asking about an investigation into bribes and the meeting between Penuell Maduna and Thabo Mbeki,"" he says.
+
+Trengove objects to the introduction of new evidence.
+
+There is now a short adjournment while the bench discusses the matter and reaches a decision.","{'label': 'Neutral', 'score': 0.9999032020568848}",neutral,0.9999032020568848,0
+State says delays in Zuma case not their doing - SABC News,"Tue, 21 May 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnNhYmNuZXdzLmNvbS9zYWJjbmV3cy9zdGF0ZS1zYXlzLWRlbGF5cy1pbi16dW1hLWNhc2Utbm90LXRoZWlyLWRvaW5nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Reading Time: 2 minutes
+
+Prosecutor Andrew Breytenbach has told the Pietermaritzburg High Court that part of the reason for the delay in the corruption case against former president Jacob Zuma and French arms company Thales, was a request by Zuma’s legal team for documents in the State’s possession. The State has started making arguments in it’s response to Zuma and Thales’ application for a permanent stay of prosecution.
+
+Breytenbach says before the State could hand over the documents that were requested, it had to consider whether they were not privileged.
+
+He says this was followed by a very long responding affidavit by Zuma’s lawyers which the state had to carefully consider.
+
+Listen to Breytenbach below:
+
+Content hosted by iono.fm
+
+Meanwhile, Political commentator, William Mpofu from the University of Witwatersrand has called for the interests of society to also be considered in the corruption case against former president Jacob Zuma and French arms company Thales. The legal teams of Zuma and Thales are applying for a permanent stay of prosecution on charges of corruption and racketeering in the Pietermaritzburg High Court. The case stems from the multi-billion rands arms deal in 1999.
+
+Mpofu says the public deserves to hear the truth.
+
+“Ethically, we are now speaking in moral terms, there is a mass of people out there that have a vested interest, that need to be told the truth, to understand what happened and find closure in this intersection of these three powerful provinces. So it’s important to think about the powerless.”","{'label': 'Neutral', 'score': 0.9999072551727295}",neutral,0.9999072551727295,0

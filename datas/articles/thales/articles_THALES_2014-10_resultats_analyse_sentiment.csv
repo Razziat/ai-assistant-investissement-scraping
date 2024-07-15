@@ -1,0 +1,278 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales onboard Gulfstream jets - Thales,"Wed, 22 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvYWVyb3NwYWNlL25ld3MvdGhhbGVzLW9uYm9hcmQtZ3VsZnN0cmVhbS1qZXRz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales onboard Gulfstream jets Share this article
+
+
+
+LinkedIn
+
+Thales now boasts fly-by-wire flight controls on four Gulfstream platforms. Beyond the G650ER, Thales is now on-board the G500 and G600 unveiled on October 14 and on the G650, sister aircraft to the ER, the most sophisticated fly-by-wire business jet in the industry, and to date still amongst the most reliable and high performing in the world.
+
+G650ER
+
+The G650ER, equipped with Thales-designed flight controls, is the longest range business jet in the world. Thales’s FBW solution consists of two digital flight control computers (FCC) and one backup flight control unit (BFCU), which use the latest design evolution of quad-dual flight control computer architecture and modular packaging. This electronic system, which is the core of an aircraft’s FBW architecture, ensures superior performance and safety, weight and volume optimization, and an exceptional dispatch rate.
+
+More about Thales onboard the G650ER
+
+G500 and G600
+
+The G500 and G600’s innovative Thales-designed flight control computers are at the core of their Fly-by-Wire (FBW) systems. They will use the latest design evolution architecture, specifically developed to ensure superior performance and safety whilst reducing weight and therefore fuel consumption, optimising volume and dispatch rate. The flight computers will also interface with active control sidestick, thus making the controls more pilot-friendly.
+
+More about Thales onboard the G500 and G600","{'label': 'Positive', 'score': 0.9999973773956299}",positive,0.9999973773956299,1
+Thales Alenia Makes a Red Carpet Play for Developing Nations Seeking High-Res Satellites - SpaceNews,"Fri, 31 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BhY2VuZXdzLmNvbS80MjM5MHRoYWxlcy1hbGVuaWEtbWFrZXMtYS1yZWQtY2FycGV0LXBsYXktZm9yLWRldmVsb3BpbmctbmF0aW9ucy1zZWVraW5nLWhpZ2gv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"CANNES, France — Satellite builder Thales Alenia Space, hoping to expand its share of the growing global market among developing nations for high-resolution Earth observation satellites, has agreed to invest 8 million euros ($10.4 million) in a new observation satellite production facility.
+
+The 600-square-meter facility, planned for the company’s sprawling production facility in Cannes, France, incongruously located on beachfront property near downtown, will be built next to a similar facility dedicated for military observation satellites.
+
+Thales Alenia Space has built the optical imaging payloads for France’s Helios military and Pleiades civil/military Earth observation satellites and has begun work on a post-Helios system of two satellites called the Optical Space Component.
+
+But all these have been built in partnership with rival Airbus Defence and Space, which has built the satellites’ platforms. The same relationship won military observation satellite contracts for the governments of the United Arab Emirates and Morocco.
+
+Thales and Airbus have now begun a gradual parting of company, with each developing hardware formerly provided by the other. Airbus’ recent win of a contract in Peru was done without Thales involvement.
+
+Jean-Michel Capelli, director of the Thales facility in Cannes, said the dedicated facility for observation satellites for the export market should be completed by late 2015.
+
+Thales has developed both a radar and an optical capability, with its Italian division focusing on radar.
+
+Thales officials this year said they had revamped their product lines for observation satellite exports with the HRS1 instrument for submetric-resolution optical observation and the Compact SAR instrument for low-weight radar systems.","{'label': 'Neutral', 'score': 0.9995604157447815}",neutral,0.9995604157447815,0
+Fast modeling of cancer mutations - MIT News,"Wed, 22 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vbmV3cy5taXQuZWR1LzIwMTQvZmFzdC1tb2RlbGluZy1jYW5jZXItbXV0YXRpb25zLTEwMjLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sequencing the genomes of tumor cells has revealed thousands of genetic mutations linked with cancer. However, sifting through this deluge of information to figure out which of these mutations actually drive cancer growth has proven to be a tedious, time-consuming process.
+
+MIT researchers have now developed a new way to model the effects of these genetic mutations in mice. Their approach, based on the genome-editing technique known as CRISPR, is much faster than existing strategies, which require genetically engineering mice that carry the cancerous mutations.
+
+“It’s a very rapid and very adaptable approach to make models,” says Thales Papagiannakopoulos, a postdoc at MIT’s Koch Institute for Integrative Cancer Research and one of the lead authors of the paper, which appears in the Oct. 22 online edition of Nature. “With a lot of these mutations, we have no idea what their role is in tumor progression. If we can actually understand the biology, we can then go in and try targeted therapeutic approaches.”
+
+Led by Papagiannakopoulos, graduate student Francisco Sanchez-Rivera, the paper’s other lead author, and Koch Institute director Tyler Jacks, the paper’s senior author, the team used CRISPR to accurately reproduce the effects of two well-known lung cancer genes. They also modeled a gene called APC, whose role in lung cancer was not previously known.
+
+This approach could be used to study nearly any gene in many different types of cancer, the researchers say. “There has to be a functional way of assessing the role of these cancer-gene candidates as they appear in sequencing studies,” Sanchez-Rivera says. “The system we developed fills that gap immediately because you can do it very rapidly and very precisely.”
+
+Cutting out cancer genes
+
+CRISPR, originally discovered by biologists studying the bacterial immune system, involves a set of proteins that bacteria use to defend themselves against bacteriophages (viruses that infect bacteria). One of these proteins, a DNA-cutting enzyme called Cas9, binds to short RNA guide strands that target specific sequences, telling Cas9 where to make its cuts.
+
+Scientists have recently begun exploiting this system to make targeted mutations in the genomes of living animals, either deleting genes or inserting new ones.
+
+To deliver the genes for Cas9 and the RNA guide strand, the MIT team packaged them into viruses called lentiviruses, which can be injected into the target organs of adult mice. This process is much faster than generating mice with mutations inserted at the embryonic stem cell stage, which can take a year or longer.
+
+In this study, the researchers focused on a type of non-small cell lung cancer called lung adenocarcinoma, which accounts for about 40 percent of lung cancers. Jacks’ lab has previously engineered mice that conditionally express the Kras oncogene only in the lung, leading them to develop lung adenocarcinoma.
+
+The researchers administered these mice with lentiviruses targeting three different genes, allowing them to see how each gene cooperates with Kras to influence tumor growth. Once the tumors develop, the researchers can study how aggressive they are, how fast they grow, and how differentiated they are.
+
+Two of the genes modeled in this study, Pten and Nkx2.1, have been extensively studied in lung cancer. The researchers found that the mice in this study developed very similar tumors to those seen previously in mice with those genes deleted using traditional methods.
+
+Modeling APC, a gene whose role in lung cancer is not as well understood, revealed that APC loss also drives tumor progression. Tumors without that gene became much less differentiated and more similar to embryonic cells. To verify these results, the researchers also used mice with APC deleted by traditional methods, and found the same types of tumors.
+
+“This is a wonderful new example of the power of the CRISPR approach,” says Anton Berns, a professor of molecular genetics at the Netherlands Cancer Institute. “It also comes at the right time. The cancer genome sequence initiative provides us with numerous candidate genes that might modulate tumorigenesis, and we need a rapid method to test their contribution. This is precisely what this methodology provides.”
+
+Personalized treatments
+
+This system could be used in combination with hundreds of existing mouse strains that have been engineered to express known cancer genes, allowing researchers to study more thoroughly the interactions of multiple genes. Jacks’ lab is now investigating the roles of genes associated with other types of lung cancer, such as small cell lung cancer. The viral carrier could also be injected into other types of tissue, including muscle, skin, breast, and brain, to model tumors in those regions, the researchers say.
+
+This method also offers new ways to seek personalized treatments for cancer patients depending on the types of mutations found in their tumors, the researchers say. They envision using this technique to create mice with tumors carrying the same genetic profile as a patient, then testing different drugs on them to see which have the best effect.
+
+“This opens up a whole new field of being able to do personalized oncology where you can model human mutations and start treating tumors based on these mutations,” Papagiannakopoulos says.
+
+The research was funded by the Howard Hughes Medical Institute, the Ludwig Center for Molecular Oncology at MIT, and the National Cancer Institute.","{'label': 'Neutral', 'score': 0.9999344348907471}",neutral,0.9999344348907471,0
+Thales Alenia Space to Build Cosmo Skymed-CSO Interface for $3.2 Million - Via Satellite,"Fri, 17 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTQvMTAvMTcvdGhhbGVzLWFsZW5pYS1zcGFjZS10by1idWlsZC1jb3Ntby1za3ltZWQtY3NvLWludGVyZmFjZS1mb3ItMy0yLWJpbGxpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"[Via Satellite 10-17-2014] Thales Alenia Space will create a Common Interoperability Layer (CIL) between France’s Composante Spatiale Optique (CSO) military system and Italy’s civil/military Second-Generation Cosmo-SkyMed (CSG) satellite constellations. The agreement ensures interoperability between user ground systems for CSO and CSG Systems as part of the Multinational Space-based Imaging System (MUSIS) program.
+
+The MUSIS Federating Activities Phase B2 contract, worth close to $3.2 million, consolidates the previous Phase B1 and is to provide definitive technical characteristics as well as a detailed cost analysis. Thales Alenia Space Italia has signed a contract with the Organization for Joint Armament Cooperation (OCCAR-EA) to start phase B2.
+
+Thales Alenia Space was also made the representative for the Temporary Business Grouping, which includes Airbus Defense and Space, for MUSIS Phase B1. The company will represent grouping in engaging OCCAR-EA, and is responsible for the technical coordination of the study.","{'label': 'Neutral', 'score': 0.9999799728393555}",neutral,0.9999799728393555,0
+Thales presents its new integrated mast I-Mast 500 at EURONAVAL 2014 - Navy Recognition,"Thu, 30 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMivgFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtZXhoaWJpdGlvbnMvMjAxNC1hcmNoaXZlLW5hdmFsLWV4aGliaXRvbnMvZXVyb25hdmFsLTIwMTQvMjE0My10aGFsZXMtcHJlc2VudHMtaXRzLW5ldy1pbnRlZ3JhdGVkLW1hc3QtaS1tYXN0LTUwMC1hdC1ldXJvbmF2YWwtMjAxNC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"With the growing number of electronic systems that must be installed on ships today (Radar, communication, ISR, guidance systems, etc...) arises the problem of electronic interferences. Thales find a solution at this problem by gathering the different systems in an unique integrated mast. The two gathered main systems are the I-Mast 400 and the APAR radar.
+
+
+
+The I-Mast 400 was already an integrated naval sensor & communications suite packed into an advanced mast structure. By resolving the electromagnetic conflicts and line-of-sight obstructions inherent in traditional topside arrangements, it provides remarkable advantages in terms of operational performance and shipbuilding risk. Being built and tested in parallel with the construction of the ship, the IM400 solution reduces risk and time for the entire ship-building program.
+
+
+
+APAR is the world’s first naval AESA radar providing at hemispheric coverage out to 150 km. This system is capable of searching, tracking and supporting many ESSM and SM-2 engagements simultaneously, using the ICWI guidance mode. Any type of AAW engagement, including super-sonic high-divers, super-sonic sea skimmers and stealth targets is supported. APAR has proven its system performance in more than 40 live firings. APAR is already installed on Dutch De Zeven Provinciën, German F124 Sachsen and Danish Ivar Huitfeldt class frigates.
+
+
+
+The new I-Mast 500 combines so:
+
+- an AESA 3D search radar,
+
+- a non-rotating IFF system,
+
+- an Radar ESM,
+
+- a communication system (V/UHF, AIS, Tactical Datalink, Link 16, GSM/UMTS, Iridium, SATCOM),
+
+- an X-band Active Electronic Scanning Array
+
+
+
+I-Mast 500 also includes a Gatekeeper optronic sensor that provides the user with a 360° panoramic view for surveillance and awareness around the ship using staring IR and colour TV cameras, thereby relieving the need to have crew on deck. Automatic tracking reduces the operator workload and can be used to integrate with other shipboard systems.
+
+
+
+The I-Mast 500 is larger (10x10 m) than the I-Mast 400 (8x8 m) and 30 m high. I-Mast 500 is really esay to integrated to ships. It only needs 2 days of work. Only bolts are required to assemble the mast to the ship and connexions must be make only for data, power and cooling systems.
+
+
+
+Thales SMART-L EWC radar can be linked with I-Mast 500 I-Mast 500 can be linked with a SMART-L EWC radar for ballistic missile defence. SMART-L EWC is a naval, 3-dimensional long-range air surveillance radar operating in the D-band. The system performs long-range detection of conventional air targets and medium range detection of small “stealth” type air targets such as the newest generation of missiles and supports target identification by interfacing with an IFF system.
+
+
+
+","{'label': 'Positive', 'score': 0.9999479055404663}",positive,0.9999479055404663,1
+Thales Leites Deserves a Big Fight After Rattling off 4 UFC Wins in a Row - Bleacher Report,"Thu, 09 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vYmxlYWNoZXJyZXBvcnQuY29tL2FydGljbGVzLzIyMjU3MzXSAYgBaHR0cHM6Ly9zeW5kaWNhdGlvbi5ibGVhY2hlcnJlcG9ydC5jb20vYW1wLzIyMjU3MzUtdGhhbGVzLWxlaXRlcy1kZXNlcnZlcy1hLWJpZy1maWdodC1hZnRlci1yYXR0bGluZy1vZmYtZm91ci11ZmMtd2lucy1pbi1hLXJvdy5hbXAuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"USA TODAY Sports
+
+Thales Leites picked up his seventh consecutive victory at UFC Fight Night 49 with a knockout over Francis Carmont in August.
+
+The victory moved him up to No. 11 in the middleweight division, and it is time for the UFC to put Leites in a premier bout in the division that could elevate him to being a contender for the gold.
+
+Leites once challenged for the UFC middleweight title. At UFC 97, he was involved in a lackluster 25-minute fight against Anderson Silva. The former champion would not engage with Leites' ground game, and that resulted in a disappointing fight.
+
+Leites then dropped a split decision to Alessio Sakara and was released from the UFC in the summer of 2009.
+
+Since that time he has gone 10-1 without a loss since 2010.
+
+The Brazilian's lone loss in that time was to Matt Horwich via submission, which Leites avenged with a submission of his own two years later. The win over Horwich earned Leites a spot back on the UFC's roster.
+
+Leites returned to the UFC in 2013 against Tom Watson. After defeating Watson, Leites moved on to Ed Herman and Trevor Smith before advancing to the Carmont bout.
+
+Carmont was ranked in the Top 15 of the UFC's official rankings prior to their bout. After beating him, Leites has earned a fight against someone in the Top 10, if not the Top Five.
+
+Leites has shown growth in his game. He is no longer just a jiu-jitsu specialist. His newfound knockout power makes him a fun fighter to have in the division. His well-rounded abilities give him the chance to knock off anyone within the division.
+
+There is a logjam toward the top of the division, and many of the Top 10 fighters are already locked into bouts. There are still others, such as Yoel Romero, who are available for Leites to take on in meaningful middleweight action. And should Nick Diaz fall out of the proposed fight against Anderson Silva, Leites makes sense as a replacement.
+
+Whomever the UFC chooses as Leites' next opponent, he has to be a Top 10 adversary.
+
+Four wins within the Octagon make him a potential contender, but he lacks the signature win. The division needs more interesting contenders as it becomes increasingly less interesting. There is a need for fresh contenders for Chris Weidman's title.
+
+Putting Leites against a highly ranked opponent will also show fans if he is a legitimate contender or not. A win would legitimize Leites' resurgence in the division, while a loss would give his opponent another quality victory. It may not quite be a title eliminator, but it will set the winner up for just that type of fight.
+
+There are quality options for Leites' next fight. UFC matchmaker Joe Silva just needs to settle on the right one. Anything less than Top 10 opposition is a failure and a disservice to both Leites and the fans.","{'label': 'Neutral', 'score': 0.9952164888381958}",neutral,0.9952164888381958,0
+Thales Canada to provide fly-by-wire flight controls for Challenger 650ER - Skies Magazine,"Tue, 21 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vc2tpZXNtYWcuY29tL3ByZXNzLXJlbGVhc2VzL3RoYWxlc2NhbmFkYXRvcHJvdmlkZWZseWJ5d2lyZWZsaWdodGNvbnRyb2xzZm9yY2hhbGxlbmdlcjY1MC_SAWVodHRwczovL3NraWVzbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy90aGFsZXNjYW5hZGF0b3Byb3ZpZGVmbHlieXdpcmVmbGlnaHRjb250cm9sc2ZvcmNoYWxsZW5nZXI2NTAvP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Canada will supply the fly-by-wire flight control systems on the Gulfstream 650ER. Thales Canada Photo
+
+On the opening day of the National Business Aviation show 2014, Thales Canada announced they have once again been selected by Gulfstream to deliver fly-by-wire flight control systems on the 650ER unveiled in May. This follows the unveiling of the G500 and G600 programs on October 14, which will also feature Thales fly-by-wire flight controls.
+
+The G650ER will be the longest range business jet in the world. Its 7,5000 nautical miles range (13,890 kilometers), opens up more destination pairs than ever before for a business jet, including New York to Hong Kong or Los Angeles to Delhi.
+
+This requires flight controls that ensure superior performance and safety whilst reducing weight and optimizing volume, therefore reducing fuel consumption. All Thales designed flight controls on Gulfstream jets have been designed specifically with these goals in mind.
+
+Thales Canada now boasts fly-by-wire flight controls on four Gulfstream platforms. Beyond the G650ER, Thales is now on-board the G500 and G600 unveiled on October 14 and on the G650, sister aircraft to the ER, the most sophisticated fly-by-wire business jet in the industry, and to date still amongst the most reliable and high performing in the world.","{'label': 'Positive', 'score': 0.995640754699707}",positive,0.995640754699707,1
+Where There's A TechDAS Air Force One Turntable There Must Be Other Good Stuff - AnalogPlanet.com,"Sun, 19 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFuYWxvZ3BsYW5ldC5jb20vY29udGVudC93aGVyZS10aGVyZXMtdGVjaGRhcy1haXItZm9yY2UtMS10dXJudGFibGUtdGhlcmUtbXVzdC1iZS1vdGhlci1nb29kLXN0dWZm0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Vinyl simply wasn't a major event at this show, though it was there. When I noticed the Pure Music Group was demoing the TechDAS Air Force One turntable with the Thales Simplicity II tonearm I figured the room might have some other interesting analog gear.
+
+Upon entering I encountered Pure Music Group's Warwick Freemantle—a more perfect Aussie name I could not imagine. In addition to the turntable, his company imports EMM Labs, HRS and Silent Running Audio racks, Thales, Lyra, Mola Mola and other premium brands some of which were in the room, including a pair of Accuton ceramic driver equipped $22,750 Guader Akustik Cassiano speakers.
+
+However, along with the flashy imports was a plain looking black with silver knobs preamplifier that reminded me of some of the now discontinued Herron Audio products. It turned out to be a local product, the Elektra Pnyx preamplifier, a hand-built, DC coupled, fully balanced tube preamplifier utilizing four 6922 dual triode tubes. It features 7 inputs including theater bypass and an upgradable phono card that sells for $3900.
+
+The system featuring the Air Force One, Thales Simplicity II tonearm and Lyra Etna combo plus the equally plain looking Elektra Reference HD power amp (250W per channel into 8 ohms, 500 into 4 ohms) driving the Guader speakers, sounded refined, transparent and altogether pleasant. We compared an older Mo-fi reissue of Louis Armstrong & Duke Ellington with one from Classic Records and the differences were apparent (the Classic won).
+
+It was a nice sounding system and a pleasant room visit. I never did get the amp's cost but a $3900 tubed, balanced preamp with a built in phono section sounds like a good local stop though the phono section in the system that we heard was the RCM THERIAA from Poland.","{'label': 'Neutral', 'score': 0.9999916553497314}",neutral,0.9999916553497314,0
+Australia confirms HATS win for Boeing/Thales EC135 bid - Flightglobal,"Sat, 25 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYXVzdHJhbGlhLWNvbmZpcm1zLWhhdHMtd2luLWZvci1ib2VpbmcvdGhhbGVzLWVjMTM1LWJpZC8xMTQ5MzYuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Australian defence minister Senator David Johnston has formally declared the teaming of Boeing Defence Australia and Thales Australia as the winning tender for the Australian Defence Force’s Project Air 9000 Phase 7 Helicopter Aircrew Training System (HATS).
+
+The requirement calls for the replacement of the Royal Australian Navy’s and the Australian Army’s current training rotorcraft with 15 new Airbus Helicopters EC135s, plus three full motion simulators and other synthetic training devices.
+
+Eric Raz/Airbus Helicopters
+
+Made on 23 October, the announcement followed 10 months of contract negotiations following the team’s selection as the preferred tenderer last December. A contract signature is expected by the end of October.
+
+The navy's current training fleet comprises 15 Airbus Helicopters AS350BA Squirrels with 723 Sqn at Naval Air Station Nowra in New South Wales, which entered service in 1984. The army has about 30 Bell Helicopter 206B-1 Kiowas (below), which have been in use since the early 1970s, based at Holsworthy Barracks near Sydney with 173 Aviation Squadron, and with the Army Aviation Training Centre at Oakey, west of Brisbane.
+
+Commonwealth of Australia
+
+The new aircraft and training facilities for both services will based at Nowra, with the system expected to commence training in late 2016.
+
+“This will deliver a fully-integrated modern training environment with both inflight and virtual environments on contemporary twin-engine helicopters and flight simulators,” Johnston says. Crews will transition from the EC135 to the Airbus Helicopters Tiger, Boeing CH-47F, Lockheed Martin/Sikorsky MH‑60R and NH Industries MRH90, he notes.
+
+The Boeing/Thales team for HATS was selected ahead of a direct bid by Australian Aerospace (now part of Airbus Group Australia Pacific) with the EC135, and a teaming of Raytheon Australia and Bell, which offered the Bell 429.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.9999936819076538}",neutral,0.9999936819076538,0
+Thales to supply military satcom to Qatar - SatelliteProME.com,"Mon, 20 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vc2F0ZWxsaXRlcHJvbWUuY29tL25ld3MvdGhhbGVzLXRvLXN1cHBseS1taWxpdGFyeS1zYXRjb20tdG8tcWF0YXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The ground segment supplied by Thales will provide Qatari ground and naval forces with long-range communications capability
+
+Thales has been awarded a contract to supply Qatar Armed Forces with a military satellite communication system.
+
+The ground segment supplied by Thales will provide Qatari ground and naval forces with a long-range communications capability to enhance national security and protect vital interests.
+
+Satellite communication systems are an important component of a military force’s voice and data communications capability in the theatre of operations. The military satcom network complements existing military radio communications systems. As a consequence, Thales will supply the systems needed to transmit and receive communications via satellite, and to process data on the ground.
+
+The solution is built around Thales’s high-performance System 21 technology to provide secure, high-data-rate transmissions.
+
+The Network Operations Centre, also provided by Thales , will be used for planning and managing the complete system, which will be operated by the Qatari armed forces.
+
+The solution will be interoperable with the other communications systems in service within the Qatar Armed Forces, including combat radios and fixed networks.
+
+The solution will be delivered on a turnkey basis, and integrated teams will be set up to ensure the transfer of skills from Thales to the customer.","{'label': 'Neutral', 'score': 0.9865264296531677}",neutral,0.9865264296531677,0
+Thales Group to expand activities in Azerbaijan - AzerNews.Az,"Mon, 06 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmF6ZXJuZXdzLmF6L2J1c2luZXNzLzcxNTk1Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"6 October 2014 13:00 (UTC+04:00)
+
+By Nigar Orujova
+
+The French Thales Group intends to expand its activities in Azerbaijan, the company's CEO Jean Bernan Levy said at a meeting with Azerbaijan's Economy and Industry Minister Shahin Mustafayev.
+
+Thales Group is a multinational company that designs and builds electrical systems and provides services to its customers in the aerospace, defense, transportation and security markets.
+
+At the meeting, Mustafayev said that the involvement of modern technologies in Azerbaijan's economy is of great importance for the country.
+
+He added that the country has created a favorable environment for business and investment, and invited the French businessmen to actively cooperate with their Azerbaijani counterparts.
+
+Levy expressed satisfaction with his visit to Azerbaijan and informed Azerbaijani officials about the activities of his company. He said that Thales Group operates in 50 countries around the world, including Azerbaijan.
+
+A number of projects have already been successfully implemented by the company, he said.
+
+He added the company is interested in expanding operations in Azerbaijan.
+
+It was also noted that the economic ties between the two countries are successfully developing with prospects for expanding cooperation being discussed seriously.
+
+The French company is now participating in the construction project of the Baku subway lines, creating a signaling system, and providing it with other necessary equipment.
+
+Business relations between Azerbaijan and France are on the rise with about 40 French companies operating in Azerbaijan.","{'label': 'Positive', 'score': 0.922117292881012}",positive,0.922117292881012,1
+Thales' first Compact FLASH dipping sonar system passed Factory Acceptance Test - Navy Recognition,"Thu, 30 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiyAFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtZXhoaWJpdGlvbnMvMjAxNC1hcmNoaXZlLW5hdmFsLWV4aGliaXRvbnMvZXVyb25hdmFsLTIwMTQvMjE0NC10aGFsZXMtZmlyc3QtY29tcGFjdC1mbGFzaC1kaXBwaW5nLXNvbmFyLXN5c3RlbS1wYXNzZWQtZmFjdG9yeS1hY2NlcHRhbmNlLXRlc3QuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"This important milestone will be followed by a delivery from Brest to AgustaWestland in Yeovil, England, where it will be installed in the Super Lynx 300 naval helicopter. The FAT was witnessed by a dedicated Project Team from AgustaWestland who have now 'signed-off' the successful test result.
+
+
+
+Speaking in Brest, Loic Bellanger, Compact FLASH Programme manager, Thales explained ""The Compact FLASH variant has a new all-electric drive for the reeling machine, a lighter cable and drum and a new system architecture. This FAT is the culmination of a successful development phase followed by extensive bench and lake testing and we are very proud to now prepare for first delivery, on schedule, to our important customer AgustaWestland"".
+
+Compact FLASH, which has been specifically developed for the AgustaWestland Super Lynx 300 and AW159 naval helicopters, uses the same FLASH Submersible Unit, Transmitter/Receiver unit and acoustic processing as installed in larger Anti-Submarine Warfare helicopters thus providing the same unrivalled ASW capability to smaller 5-6 tonne class helicopters.
+
+Also under production in the Thales Brest facility is Compact FLASH Sonics, which integrates Compact FLASH with sonobuoy processing, it is also under contract with AgustaWestland for installation in the AW159 ASW helicopter being manufactured in Yeovil for the Republic of Korea Navy.","{'label': 'Positive', 'score': 0.9948813915252686}",positive,0.9948813915252686,1
+"Britain taps Raytheon, Thales for IFF upgrade study - UPI News","Mon, 27 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy51cGkuY29tL0RlZmVuc2UtTmV3cy8yMDE0LzEwLzI3L0JyaXRhaW4tcmVhZGllcy1mb3ItdXBncmFkaW5nLUlkZW50aWZpY2F0aW9uLUZyaWVuZC1vci1Gb2Utc3lzdGVtLXVwZ3JhZGUvNzI1MTQxNDQxOTUxMS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"IFF systems enable the identification and tracking of ""friendly"" forces. (Image by Thales)
+
+LONDON, Oct. 27 (UPI) -- Britain's Ministry of Defense has commissioned a one-year study on upgrading its current Identification Friend-or-Foe systems to the new NATO standard. Raytheon UK and Thales UK, the IFF incumbents on more than 97 percent of the British military platforms involved in the Mode 5 upgrade, will conduct the study but the monetary value of the contract has not been disclosed. Advertisement
+
+IFF is an air traffic control system to identify and track military aircraft through the use of airborne transponders and ground interrogators. Mode 5 is the newest standard for the system, featuring enhanced signal modulation, expanded data capabilities for GPS positioning and updated data cryptography.
+
+The Raytheon-Thales team are offering Thales' Bluegate products for Mode 5 interrogator applications and Raytheon UK's IFF4810 Mode 5 upgrade solution for most air and naval Mode 5 transponder uses.
+
+""By bringing together best-in-class capability and extensive knowledge of UK platforms from both companies, we will deliver a low-risk and cost-effective solution to this important U.K. program,"" said Victor Chavez, chief executive officer of Thales U.K. ""Our respective companies have already delivered Mode 5 IFF to a number of NATO forces and this program gives us the opportunity to extend this critical upgrade to UK platforms to maintain their interoperability in future NATO coalition forces.""","{'label': 'Neutral', 'score': 0.9860828518867493}",neutral,0.9860828518867493,0
+Thales Australia and CareFlight Group (Qld) to deliver Australian civil aviation training first - LifeFlight,"Fri, 31 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmxpZmVmbGlnaHQub3JnLmF1L3RoYWxlcy1hdXN0cmFsaWEtYW5kLWNhcmVmbGlnaHQtZ3JvdXAtcWxkLXRvLWRlbGl2ZXItYXVzdHJhbGlhbi1jaXZpbC1hdmlhdGlvbi10cmFpbmluZy1maXJzdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"At the forefront of innovation in helicopter flight training, Thales’s Reality H Full Flight Simulator (FFS), the most advanced civil helicopter simulator on the market, will serve the training requirements of CareFlight and other AW139 operators in Australia and beyond.
+
+Fully compliant with CASA FFS Level D certification requirements and fitted with the latest Hexaline electric motion system, the FFS will support Type Rating, Instrument Rating (IR) and Recurrent training, along with tailor-made mission courses. Pilots and aircrew will be able to safely train in high-risk scenarios such as engine or hydraulics failure, severe weather and offshore flying, including the use of Night Vision Goggles (NVG).
+
+“This represents a significant milestone in civil helicopter training in Australia. Up until now this level of sophisticated helicopter mission training in Australia has only been available to military pilots,” CareFlight Group CEO Ashley van de Velde said.
+
+Jean Jacques Guittard, Thales Vice President in charge of Training and Simulation activities, said: “With the introduction of Thales’s Reality H FFS, helicopter aviators will soon be able to train for their missions in an environment unrivalled for its realism, thanks to the latest Thales simulation technologies, and without the dangers and costs inherent in using an actual aircraft.”
+
+Thales Australia CEO Chris Jenkins said: “Thales is building on its extensive experience in developing leading training solutions for the Australian Defence Force to deliver high-quality services into the civil helicopter arena. This significant investment will help to improve the safety of civil helicopter operations in Australia.”
+
+The FFS will be located at CareFlight Group’s aeromedical training academy, which is based at the Brisbane International Airport at state-of-the-art facilities provided in conjunction with Aviation Australia.
+
+The AW139 Reality H Level D Full Flight Simulator is currently under construction, and will be operational in 2016.
+
+“Thanks to the combination of Thales’s technology with CareFlight’s aeromedical training expertise, flight crews from throughout Australasia and beyond will be able to receive world-class training at an easily accessible location,” Mr van de Velde added.
+
+“In addition, there is the opportunity to access further training services offered by the CareFlight Group including underwater escape training (HUET), Emergency Breathing Systems (EBS), Crew Resource Management (CRM).
+
+“CareFlight Group is excited to be able to partner with Thales Australia, a world-leading provider of systems, products and services to the international aviation industry,” Mr van de Velde concluded.","{'label': 'Neutral', 'score': 0.9890193343162537}",neutral,0.9890193343162537,0
+Boeing Australia formally announced as AIR 9000 Phase 7 HATS winner - Australian Aviation,"Thu, 23 Oct 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXVzdHJhbGlhbmF2aWF0aW9uLmNvbS5hdS8yMDE0LzEwL2JvZWluZy1hdXN0cmFsaWEtZm9ybWFsbHktYW5ub3VuY2VkLWFzLWFpci05MDAwLXBoYXNlLTctaGF0cy13aW5uZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Defence Minister Senator David Johnston has formally declared the team comprising Boeing Defence Australia and Thales Australia as the winning tenderer of the Project AIR 9000 Phase 7 Helicopter Aircrew Training Systems requirement.
+
+The announcement comes some 10 months after Defence confirmed to Australian Aviation sister publication DIAR by ADBR that the Boeing/Thales teaming had been the preferred down-select. The contract is still yet to be signed, but industry sources say that this was scheduled to occur by the end of October.
+
+To unlock all Australian Aviation magazine content and again unlimited access to our daily news and features, become a member today! A monthly membership is only $5.99 or save with our annual plans.
+
+The winning bid included 15 Airbus Helicopters EC135 machines, three full motion simulators, and the addition of a flightdeck to Navy’s new (and as-yet-unannounced) sea-going training vessel, Minister Johnston told media at HMAS Albatross near Nowra on Thursday morning.
+
+“This will deliver a fully-integrated modern training environment with both inflight and virtual environments on contemporary twin-engine helicopters and flight simulators,” the Minister said. “These will prepare both Navy and Army for the new generation of advanced combat helicopters such as the Tiger Armed Reconnaissance Helicopter, MRH 90 Taipan, MH‑60R Seahawk Romeo and our new CH-47F Chinook Foxtrots.”
+
+“Defence will also achieve a significant efficiency now that all Army and Navy aircrew will do their initial helicopter training in the one location,” he added. “Being based at Albatross will also bring the advantage of aircrew being able to train in realistic conditions at sea including ship deck-landing and search and rescue skills.”
+
+== ==
+
+The Boeing/Thales team was informed it was the preferred tenderer last December, selected ahead of a direct bid by Australian Aerospace (now part of Airbus Group Australia Pacific) with the EC135, and a teaming of Raytheon Australia and Bell which had offered a solution based on the Bell 429. The EC135s will be acquired through a commercial agreement with Airbus Helicopters which is not part of the Boeing/Thales team.
+
+Other teamings which weren’t shortlisted included one of KBR, Elbit Systems and Qantas Defence Services which had also offered the EC135; and AgustaWestland, CAE Australia and BAE Systems Australia which had offered the AW 109. An earlier team comprising Lockheed Martin Australia and Bristow Helicopters Australia chose not to respond to the formal tender.
+
+The first EC135s are expected to commence training in late 2016. Along with the simulators and other synthetic training devices, the 15 twin-engined EC135s will replace about 15 Navy Eurocopter AS350 BA Squirrels and 30 Army Bell 206B Kiowas, and will train about 130 helicopter aircrew members for both services per year. No details were available about the specification of the new machines, nor whether any military equipment had been specified.
+
+Boeing Defence Australia managing director Kym Gillis told Australian Aviation that more information on the winning tender would be available after the contract was signed, including details about the facilities, staffing numbers, costs, and timings. But he did say that the number of helicopters and simulators to be provided had been determined through extensive modelling by Boeing at its Systems Analysis Laboratory (SAL) in Brisbane, and that the company had seen extensive interest in its modelling techniques from overseas training organisations.","{'label': 'Neutral', 'score': 0.9999215602874756}",neutral,0.9999215602874756,0

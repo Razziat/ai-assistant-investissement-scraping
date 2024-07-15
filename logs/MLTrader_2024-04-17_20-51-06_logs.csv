@@ -1,0 +1,71 @@
+2024-04-17 20:51:06,601: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-17 20:51:09,412: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 20:51:09,412: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-17 20:51:09,412: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 20:51:09,412: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 20:51:09,428: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 20:51:09[0m
+2024-04-17 20:51:09,428: asyncio: INFO: [MLTrader] Getting historical prices for SPY, 30 bars, 
+2024-04-17 20:51:09,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:51:12,477: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:51:12,508: asyncio: ERROR: [MLTrader] unsupported operand type(s) for -: 'float' and 'NoneType'
+2024-04-17 20:51:12,634: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 56, in on_trading_iteration
+    df = self.get_technical_indicators(df)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 39, in get_technical_indicators
+    data['MACD'] = ta.macd(data['close'])['MACD_12_26_9']
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas_ta\momentum\macd.py", line 34, in macd
+    histogram = macd - signalma
+                ~~~~~^~~~~~~~~~
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\arraylike.py", line 194, in __sub__
+    return self._arith_method(other, operator.sub)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\series.py", line 6135, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\base.py", line 1382, in _arith_method
+    result = ops.arithmetic_op(lvalues, rvalues, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\ops\array_ops.py", line 283, in arithmetic_op
+    res_values = _na_arithmetic_op(left, right, op)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\ops\array_ops.py", line 218, in _na_arithmetic_op
+    result = func(left, right)
+             ^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\computation\expressions.py", line 242, in evaluate
+    return _evaluate(op, op_str, a, b)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\computation\expressions.py", line 73, in _evaluate_standard
+    return op(a, b)
+           ^^^^^^^^
+TypeError: unsupported operand type(s) for -: 'float' and 'NoneType'
+
+2024-04-17 20:51:12,634: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-17 20:51:12,650: root: INFO: Backtesting finished
+2024-04-17 20:51:13,609: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 20:51:13,750: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 20:51:13,750: backtest_stats: INFO: Backtest took 0:00:07.149462 for a speed of 0.000

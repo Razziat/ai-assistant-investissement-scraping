@@ -1,0 +1,963 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Developing Underwater Communication System for Spanish Navy - The Defense Post,"Fri, 18 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIxLzA2LzE4L3NwYWluLW5hdnktdW5kZXJ3YXRlci1jb21tdW5pY2F0aW9uLXN5c3RlbS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Defense firm Thales has announced production of the TUUM-6 underwater digital communication system for the Spanish Navy.
+
+The company said its Spanish subsidiary is developing an underwater telephone that will be included with the country’s new F110 frigates through a press release.
+
+The contract was signed in 2019 to help Spanish naval forces conduct missions in a “heightened underwater threat environment.”
+
+“The contract, the transfer of know-how from the parent company and the start-up of production of the TUUM-6 represent a milestone in the history of Thales and represent a clear demonstration of the company’s commitment to increasing industrial production in Spain,” Thales stated.
+
+Other Developments
+
+Last month, the country’s F-110 frigate program successfully passed a Preliminary Design Review by the Spanish Ministry of Defense, Spanish Navy, and local shipbuilder Navantia.
+
+“The Preliminary Design Review has confirmed the soundness of the design of this frigate, which will represent a technological leap in the capabilities of the Spanish Navy and in the digital transformation of Navantia,” Navantia President Ricardo Domínguez remarked.
+
+The Spanish Air Force also took delivery of two MQ-9A Block 5 remotely-piloted aircraft and a Ground Control Station (GCS) in November of last year.","{'label': 'Neutral', 'score': 0.7474943995475769}",neutral,0.7474943995475769,0
+Thales Ups its AVANT IFE experience - Inflight,"Thu, 24 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmluZmxpZ2h0LW9ubGluZS5jb20vdGhhbGVzLXVwcy1pdHMtYXZhbnQtaWZlLWV4cGVyaWVuY2Uv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has unveiled its latest generation of the AVANT IFE system. AVANT Up features a new line of displays, power supply solutions, personalisation and airline revenue generation capabilities.
+
+The new display has been developed in an exclusive partnership with Samsung company HARMAN. Optiq offers 4K high dynamic range (HDR) displays enhanced with Samsung QLED proprietary technology. Compared to current AVANT displays, Optiq has a higher contrast ratio and over 1 billion colours, giving passengers the most cinematic experience available.
+
+Thales engineers have designed the displays with the passengers as its focus. The new in-seat and cabin displays have a sleek passenger centric design focused on ergonomics and fits seamlessly into the modern cabin environment and its variety of lighting conditions. Passengers will enjoy a seamless viewing experience as QLED technology has no image bruin-in and is scratch resistant – proving durable against carry-on luggage.
+
+Two Bluetooth connections and built-in Wi-Fi allows passengers to pair multiple devices simultaneously to the system. Airlines benefit from a significantly reduced total cost of ownership, thanks to a lower acquisition cost, 30% weight reduction, 50% increase in reliability, and improved durability and serviceability.
+
+The heart of Optiq is powered by an Octa-core processor with a GPU that is both 4K and 3D compliant to give ‘performance without limitations.’
+
+The display is supported by Pulse, a modular system built with smart power management that dynamically allocates power where the passengers need it. According to Thales, Pulse is highly efficient while being compact in size, providing a 30% weight reduction, lower heat dissipation and the ability to install Pulse between the seat beams. With more power, improved seat integration, and reduced acquisition and operational cost, Pulse provides substantial benefits to the passenger and the airline.
+
+AVANT’s open platform allows Thales to work with an extensive network of partners to develop and deploy new applications for airlines, offering passengers the latest features and a broad range of interactive entertainment options. Thales’s digital product portfolio features e-commerce capabilities with Airfree’s shopping platform, a multifaceted approach for delivering personalisation, and an industry leading advertising platform.
+
+“Our airline customers and their passengers always expect more from their inflight entertainment systems, and Thales is delivering on these expectations, and more. AVANT Up, Pulse and our Digital solutions demonstrate our unwavering commitment to invest in innovation that creates value for airlines. We’re truly excited to provide these solutions to our customers and their passengers as we build a sustainable future we can all trust.” Cedric Rhoads, Vice President, Product Policy, Thales InFlyt Experience.
+
+More than 30 leading airlines worldwide are equipped with the AVANT IFE system.","{'label': 'Positive', 'score': 0.9999920129776001}",positive,0.9999920129776001,1
+"Supply Side: Simmons Machine Tool, Thales, BAI - RailwayAge Magazine","Mon, 28 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnJhaWx3YXlhZ2UuY29tL25ld3Mvc3VwcGx5LXNpZGUtc2ltbW9ucy1tYWNoaW5lLXRvb2wtdGhhbGVzLWJhaS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Simmons Machine Tool Corp. and Hegenscheidt-MFD Corp. are merging to become NSH USA Corp. In addition, Thales’ interoperable ticketing technology is now “Visa Ready for Transit” certified, and BAI Communications (BAI) is acquiring Mobilitie, a U.S. telecommunications infrastructure company.
+
+Since 2001, Albany, N.Y.–based Simmons Machine Tool Corp. and Hegenscheidt-MFD Corp. have been partner companies within the NSH Group (Niles-Simmons-Hegenscheidt). Simmons designs and manufactures precision machines and automation systems for railway wheelset maintenance and production, and Hegenscheidt-MFD provides technical support, service and tooling for the company’s deep rolling crankshaft products in North America. Simmons said it is now acquiring Hegenscheidt-MFD “to better serve our customers.”
+
+The new entity is NSH USA Corp. It will also serve North American customers across industries such as rail, aerospace, defense, automotive and renewable energy by providing sales, process engineering, programming and service support for all NSH Group companies: Niles-Simmons (Germany), Simmons (USA), Hegenscheidt-MFD (Germany), Rasoma (Germany), and WEMA Glauchau (Germany).
+
+NSH USA’s headquarters will be in Albany, and the Hegenscheidt-MFD manufacturing facility in Sterling Heights, Mich., will serve the automotive crankshaft industry and provide additional support for NSH Group products. Additionally, Simmons, Stanray® and Hegenscheidt railway machines for the U.S. market will continue to be manufactured in Albany.
+
+“Building off decades of manufacturing experience and the wide variety of strengths that make up the members of the NSH Group, NSH USA is now positioned to significantly grow our presence throughout North America,” NSH USA President and COO David William Davis said.
+
+In December, Simmons announced the establishment of the Niles Technical Application Center (NTAC) at its manufacturing facility and headquarters in Albany.
+
+Thales’ TRANSCITY™ “multimodal mobility platform can be deployed on a single bus, tram or metro line, or across an entire citywide, regional or national transport network,” the company reported. “With its open architecture, the solution ensures interoperability across transport modes and readily adapts when new services or operators are added to the network.”
+
+Following software certification in 2020, TRANSCITY’s hardware components—BV600 validator and PG600 access gate—have now also been certified.
+
+The acquisition of Mobilitie will expand BAI’s operations in North America, where its majority owned business Transit Wireless provides cellular and Wi-Fi connectivity across New York City Transit’s subway system. The deal is expected to close in third-quarter 2021, subject to customary regulatory clearances.
+
+Mobilitie has agreements to provide wireless communications to public transit systems in Seattle, Wash., and the San Francisco Bay Area. The acquisition will also add Mobilitie’s broader portfolio of 220 venues across 39 states, 10,000 small cells across 45 states, and 300 tower sites across 14 states to BAI’s operations.
+
+“BAI’s acquisition of Mobilitie establishes us as a leading telecommunications infrastructure provider in the United States and the most relevant provider of public transit wireless connectivity solutions in North America,” BAI Communications Group CEO Igor Leprince said. “This reflects our ambitions for the U.S. as well as the other markets in which we operate globally, and puts us in the perfect position to capitalize on the growing prioritization of connected infrastructure in regions such as the U.K. and Europe.”
+
+“Combining BAI’s connectivity solutions and international presence with Mobilitie’s North American assets … makes us better positioned for 5G growth than anyone else in North America,” Mobilitie Founder and Chairman Gary Jabara said.","{'label': 'Neutral', 'score': 0.9999755620956421}",neutral,0.9999755620956421,0
+Thales Alenia Space and Telespazio win contract for SICRAL 3 secure satellite communications system and ... - EDR Magazine,"Wed, 16 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS90aGFsZXMtYWxlbmlhLXNwYWNlLWFuZC10ZWxlc3BhemlvLXdpbi1jb250cmFjdC1mb3Itc2ljcmFsLTMtc2VjdXJlLXNhdGVsbGl0ZS1jb21tdW5pY2F0aW9ucy1zeXN0ZW0tYW5kLWFzc29jaWF0ZWQtZ3JvdW5kLXNlZ21lbnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"16 June 2021 – Thales Alenia Space, the joint venture between Thales (67%) and Leonardo (33%), and Telespazio, the joint venture between Leonardo (67%) and Thales (33%), have signed a contract with the Italian Ministry of Defense, represented by TELEDIFE / Secretariat General of Defense, for the development of the SICRAL 3 secure satellite communications system, including its ground segment. Covering the development of phases B and C, the contract is worth a total of approximately €159 million, as result of an articulated and complete negotiation process.
+
+The SICRAL (Italian System for Secure Communications and Alerts) program deploys geostationary satellites for confidential strategic and tactical communications, to support defense missions both in Italy and abroad. The new SICRAL 3 system is designed to meet Italian defense communications and interoperability requirements. It will ensure continuity with the current SHF and UHF-band telecom services provided by the SICRAL 1A, 1B and SICRAL 2 satellites, while expanding its suite of services by providing a Ka-band payload, as well as supporting security, public rescue and civil protection services.
+
+SICRAL 3 will also capitalize on the ongoing developments within the ItalGovSatCom (I-GSC) program, a pillar of the evolving “Space Economy” and the Programmes of Military Research, and will help expand NATO’s current satellite capabilities.
+
+To develop the SICRAL 3 program, Thales Alenia Space and Telespazio, via their Space Alliance, have created a temporary consortium led by Thales Alenia Space, with Telespazio also playing a major role.
+
+Thales Alenia Space will be responsible for the entire SICRAL 3 telecommunications system, the space segment (including system design and integration), and the design, production and integration of the innovative UHF, SHF and Ka-band payloads. The space segment includes two geostationary satellites, SICRAL 3A and SICRAL 3B. The innovative platform, which features electric propulsion, is based on a modular and autonomous orbital transfer design using GNSS/GPS sensors and receivers for satellite positioning and attitude. Leonardo will supply the star sensors that enable SICRAL 3 to maintain the correct attitude in orbit through sophisticated algorithms.
+
+Telespazio will manage the development of the highly innovative ground segment, drawing on synergies with previous SICRAL developments for the Vigna di Valle Control Center and the Fucino Space Center. The company will be in charge of the satellites’ launch and early orbit phase (LEOP) and in-orbit tests (IOT).
+
+“The SICRAL 3 contract marks a major step forward for Thales Alenia Space and the entire space industry in terms of our ability to propose design solutions and technologies, not only for the Italian government but also for allied nations and international organizations such as NATO,” said Massimo Claudio Comparini, Deputy CEO and SEVP Exploration, Observation and Navigation at Thales Alenia Space. “This contract reflects the fruitful long-standing collaboration between our company and the Defense Administration. Thanks to the experience gained in conducting national programs such as SICRAL and COSMO-SkyMed, as well as expertise in both ground and space systems, the Italian space industry retains full autonomous capacity in the development and delivery of end-to-end solutions for large-scale integrated systems.”
+
+“SICRAL missions have represented excellence in the implementation and management of complex space programs for over 20 years,” said Luigi Pasquali, Telespazio’s CEO. “The Space Alliance between Leonardo and Thales, through its companies Telespazio and Thales Alenia Space, works closely with the Italian Ministry of Defense to provide modern and effective satellite communications services for our country and NATO. By ensuring the continuity of the SICRAL program and expanding its services, especially through an added Ka band, our defense forces will have the operational capacity needed to further strengthen the country’s international role.”
+
+Giuseppe Abbamonte, Admiral Chief Inspector of TELEDIFE (IT, Telematics and Advanced Technologies Directorate of the Ministry of Defense) added, “Within the past three and a half years, as a Director of TELEDIFE, we have launched major space programs. Today, these efforts have culminated in the signature of the contract for the development of the future military satcom satellite constellation. Today’s signature once again proves not only the enormous importance of space for defense, but also the very high level achieved by Italian industry, represented today by two of the most important companies operating in this sector, Thales Alenia Space and Telespazio. Italian industry not only produces systems capable of meeting the complex requirements imposed by national military needs, but is also asserting itself in a highly competitive international context.”
+
+Thales Alenia Space and Telespazio have already supplied to the Italian Ministry of Defense two first-generation SICRAL satellites (no longer in operation), and the second-generation SICRAL 2 satellite. Telespazio, having co-financed the SICRAL 1B and SICRAL 2 missions, has consolidated its role as a defense satellite operator. Holding a share of these satellites’ transmission capacity, it offers telecommunications services to the armed forces of NATO member countries. The Space Alliance also contributed to the development and launch of the Athena-Fidus satellite for military and dual (civil-military) telecommunications for France and Italy and two Satcom BW satellites for Germany. Thanks to Athena-Fidus and SICRAL 2, Thales Alenia Space and Telespazio form the cornerstone of European collaboration in defense.
+
+Image courtesy Telespazio","{'label': 'Neutral', 'score': 0.9997527003288269}",neutral,0.9997527003288269,0
+Life after Covid in a quantum world - Thales,"Wed, 30 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZ3JvdXAvbWFnYXppbmUvbGlmZS1hZnRlci1jb3ZpZC1xdWFudHVtLXdvcmxk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Life after Covid in a quantum world quantum computing Sensors Communications Share this article
+
+
+
+LinkedIn
+
+Quantum physics already upended our lives over 60 years ago with the invention of the laser and the transistor. Today, with a second quantum revolution in sight, the science promises a radically different future from the world we know today.
+
+Marko Erman, Chief Scientific Officer at Thales, offers us a preview of life in a quantum world.
+
+How do you see the post-Covid world that everyone's talking about?
+
+It would be premature and a little presumptuous of me to try to describe what the world will be like once this unprecedented public health, economic and social crisis is over. But I do have some thoughts on the subject. For example, I think the crisis has made a deep impression on society's appreciation of the major challenges that lie ahead, with healthcare, education, the environment and security at the top of the list.
+
+© Doutre/Abaca Press ©THALES
+
+These concerns are very much part of the national and European stimulus plans being put in place to pull our economies out of the crisis. In France, for example, the government announced the fourth Investments for the Future programme (PIA 4) at the start of this year. And the priorities of this plan include digital technologies, of course, but also medical research, healthcare, cities of the future, climate change and digital education — not to mention green innovation and technologies, which account for fully one-third of this latest PIA programme.
+
+We have seen how digital technologies have made society more resilient to a pandemic and how they help to deal with the consequences for public health, the economy and society at large. Whether we've been working from home or doing more online, remote transactions have literally exploded.
+
+And cybercrime has exploded too…
+
+Which just goes to show the importance of cybersecurity if we want to reap the benefits of digital without living in fear of the dangers involved. It also speaks to the need to find new ways of protecting our societies from these new risks and dangers and to explore disruptive new technologies that will help us overcome the major challenges I mentioned earlier.
+
+One of these disruptive technologies is quantum physics, which is attracting a lot of attention at the moment…
+
+That's right. Using the quantum properties of materials opens up countless new opportunities in areas as varied as manufacturing, mobility, defence, healthcare and the environment. There is virtually no limit to people's creativity when it comes to imagining new applications of quantum technologies.
+
+More specifically, which markets will be affected by this new quantum revolution in the short to medium term?
+
+This second quantum revolution will mainly affect sensors, communications and computers. Quantum computers will be capable of solving problems of process optimisation and simulation that any conventional computer, current or future, would take thousands or millions of years to achieve.
+
+One of the markets that will be disrupted relatively quickly will be healthcare. Messenger RNA vaccines have demonstrated the power of deep tech in enabling scientists to work at cellular or molecular level. And this is just the beginning — cancer treatment, and the treatment of many other diseases, could be profoundly transformed by quantum technology. But before that, the molecular and cellular world needs to be observed, understood and modelled. Quantum computers will be able to construct models of complex molecules made up of thousands of atoms, like proteins and other living matter. And to do that, we are going to need new, precisely ""targeted"" processing techniques.
+
+In addition, quantum sensors could lead to new medical imaging techniques, like the MRI imaging we know today but sufficiently targeted to provide information on a cellular and molecular scale.
+
+The RF detection performance of quantum sensors could also open up exciting new possibilities in neuroscience, allowing us to observe the brain in real time and with a spatial resolution well beyond today's capabilities. With degenerative diseases destroying the lives of a growing number of people, it is more important than ever to understand exactly how the brain works and ensure early detection of anomalies, lesions and cognitive disorders, but also to precisely measure the effects of treatments and how they act. Quantum sensors could play a significant role in meeting this major challenge.
+
+You also mentioned the environment. How can quantum physics help address climate disruption?
+
+Every technology has both a direct and an indirect impact on the carbon footprint of human activity. The direct impact of a technology may be to increase this carbon footprint by consuming electricity, while the indirect impact may reduce the footprint by making a system more energy efficient. To decide whether a technology is beneficial for the environment, you need to look at both the upsides and the downsides.
+
+© 123RF
+
+In most cases, a quantum system consumes much less electricity than an equivalent system based on conventional technology.
+
+A quantum computer, for example, will need a very cold cryostat (close to absolute zero) for a unit measuring a few cubic metres, but its electricity consumption will be measured in kilowatt hours. No conventional supercomputer will ever have the same computing power, and the electricity consumption of today's high-performance computers is measured in megawatt hours because they need so many processors — several thousand in some cases.
+
+As for quantum sensors, they will be highly miniaturised, but in the case of RF sensors, they will also be extremely wideband. Covering the same spectrum of wavelengths with conventional technology would take large numbers of sensors, some of which are thousands of times bigger than their quantum equivalents. So in this case too, quantum technologies are the clear winners when it comes to energy usage.
+
+And when you look at indirect impacts, quantum technologies come out on top again.
+
+By optimising the systems used in air traffic management, energy distribution, waste collection and processing, natural resource management, etc., quantum computers will reduce their carbon footprint. Today's computers cannot solve most of these optimisation issues when more than a few variables are involved.
+
+Quantum computers could also be used to design new materials with properties optimised for thermal insulation, for example, or to design parts that are significantly lighter than today's but have the same mechanical performance.
+
+Sensors like quantum gravimeters1 will offer order-of-magnitude increases in sensitivity compared with existing instruments, making it possible to observe the Earth with extremely high granularity and understand the changes taking place.
+
+As well as quantum computing and quantum sensors, you mentioned quantum communications…
+
+Quantum technologies are going to take communications security to a whole new level. A quantum key (i.e. a series of qubits2 whose quantum states constitute the code) cannot be broken because of the inviolability of the laws of quantum mechanics: when the key is read (decoded) it is destroyed, so any intrusion is noticed immediately.
+
+The principles behind quantum communications were demonstrated more than a decade ago. But that was for point-to-point communications and the distances were limited because of absorption by the optical fibres. Boosting the signal with conventional optical repeaters (or amplifiers) would have disturbed its quantum nature, destroying the code. In practical terms, that meant information could only be sent over a distance of about 50-150 km.
+
+© 123RF
+
+Today, efforts are underway to demonstrate the feasibility of quantum networks as big as a continent like Europe. To overcome the limitations of photons being absorbed by the optical fibre, the idea is to distribute the quantum keys via satellite to metropolitan quantum networks with enough suitable fibres in place to connect large numbers of users in a radius of more than 100 km.
+
+In Europe, work on this type of communications network is being conducted by various consortia, with Thales and Thales Alenia Space as major members and support from ESA, Horizon Europe and the Member States.
+
+In the quest for ultra-secure communications networks — and with the growing dangers of cybercrime making that goal increasingly important — quantum cryptography is one avenue that needs to be fully explored in order to protect the vital information of governments, institutions, businesses and individuals.
+
+Is it a matter of sovereignty?
+
+Absolutely. That's why the United States and China are competing so fiercely to master these technologies.
+
+What about Europe?
+
+Europe has world-class scientific, academic and industrial capabilities in this field and can play its hand well if it decides that quantum cryptography is a strategic priority and makes the necessary investments. I have high hopes that the Covid crisis will also have served to raise awareness of quantum physics as one important way to build a future we can all trust.
+
+1 Gravimeter: instrument used to measure gravitational acceleration
+
+2 In the binary logic of conventional computers, information is coded as 0s and 1s (bits). In the quantum world, the basic unit of information is a qubit, which can be 0 and 1 at the same time.","{'label': 'Neutral', 'score': 0.9990860223770142}",neutral,0.9990860223770142,0
+Thales teams with Samsung to offer 'stunning' 4K IFE - - Runway Girl Network,"Thu, 24 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjEvMDYvdGhhbGVzLXNhbXN1bmctc3R1bm5pbmctcGljdHVyZS1pZmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Though the delivery of 4K media for inflight entertainment has long lagged behind IFE screen technology, industry stakeholders have nonetheless been prepping to facilitate ultra-high-definition content on board. Throwing its hat more firmly into the ring, Thales InFlyt Experience today announced a partnership with Samsung subsidiary HARMAN to deliver 4K in-seat and cabin displays enhanced with Samsung’s QLED proprietary technology.
+
+According to Thales, the Optiq-branded line of displays for its AVANT IFE system “have a sleek passenger centric design focused on ergonomics” and will fit seamlessly into the modern cabin environment. Given that airline passengers have largely migrated away from carrying wired headphones to Bluetooth only, Thales has ensured that two Bluetooth connections and built-in Wi-Fi feature in its new displays, allowing passengers to pair multiple devices simultaneously to the system.
+
+Cedric Rhoads, who serves as vice president, product policy at Thales InFlyt Experience, suggested during a media briefing that Optiq represents a significant advancement for the company. “We as an organization, we made a stab previously at an intermediate generation [of 4K screens] and to be honest we made a few mistakes and so we had to retool, come back,” he said candidly. “But we are really, really excited about the Optiq [line] and we think you will be as well.”
+
+HARMAN, a leader in the infotainment world for automobiles, played a pivotal role in the development of Optiq. [B]eing able to work with HARMAN on this project and really to leverage their industrial might, their design capabilities and also the fact that they are a part of Samsung, gives them exclusive rights to use this Samsung QLED technology in this space,” said Thales head of marketing for inflight, Jerry Thomas.
+
+Passengers, he assured, are going to experience “the most stunning picture to date in the airline industry. This is the type of quality that our passengers have come to expect in their living room being brought onboard the aircraft.”
+
+He continued, “It really starts with the QLED technology. It allows the picture to show more brightness, it extends to the fact that it’s 4K and HDR which is ‘high dynamic range’. It allows [us] to have a much better picture quality. Two main drivers of the picture quality are going to be the contrast ratio and the amount of colors that are available to represent the true light. So we’ll have a high contrast ratio which really will be the difference between the darks and the lights on the screen and in excess of over a billion colors. This is up from 16 million from previous generations. This allows us to have a real-life experience and really to experience pictures the way the directors intended the film to be received.”
+
+Asked by Runway Girl Network where the 4K screens will debut, Rhoads said: “The most I can tell you at this time is we do have a launch aircraft, it is [a] widebody. It will deliver, I believe, the first quarter of 2023.” He added that Thales is also pursuing multiple retrofit opportunities at this time, and that these will likely come to market sooner.
+
+The company’s current AVANT line boasts a customer base of over 30 airlines worldwide.
+
+As mentioned, Thales is not the only IFE provider in the 4K display space. Leveraging its parent’s in-house knowledge and working with other key manufacturers, Panasonic Avionics began discussing 4K for IFE in 2015. By 2016, Panasonic had already incorporated the technology into a new business class seating concept called Waterfront.
+
+Safran, formerly Zodiac, offers RAVE Ultra IFE displays that deliver brilliant 4K resolution. Addressing the low-definition IFE content problem, Safran even developed an upscaling solution for its displays, explaining: “At the end of the day, it really is about compression, but from our perspective we have the processing power in our system to be able to upscale this lower resolution content.”
+
+More recently, Lufthansa Technik and South Korean multinational technology conglomerate LG teamed up to digitize aircraft cabins, telling RGN that their PED-friendly seatback IFE screens will “come with state-of-the-art 4K LCD”.
+
+All of these stakeholders must contend with studios’ fears about high-definition content security, as industry veteran and Lufthansa Systems chief consultant Michael Childers previously told RGN. Thales’ Thomas assured this week that his firm’s solution is “fully compliant with studio requirements with 4K content”.
+
+He explained: “It’s not just the ability to have a 4K monitor that allows you to use studios’ content, it’s the ability to also play at a high variable bit rate at the right DRM. And so, having the high performing GPUs to CPUs [central processing units] that will allow us to be fully compliant with that, airlines can be assured that they will be able to choose the content that they wish from the studios.”
+
+The Optiq project is just one part of what Thales is calling “AVANT Up”, the name it has given to the overall evolution of its product line.
+
+As part of AVANT Up, the French multinational corporation also today revealed new Pulse smart power management solutions aimed at meeting the power needs of passengers, as PED devices increasingly migrate to the USB Power Delivery standard. Boasting a roughly 30% weight reduction over legacy in-seat power solutions, Pulse is described as a modular system built with smart power management that dynamically allocates power where passengers need it.
+
+“So, we see that even laptops now are being powered by USB-C. Most devices all have adopted the USB-C format and so we designed this version to match those trends and in doing so making sure the passenger has what they expect but also to lower the cost to the airline and then once again the overall weight to the airline,” explained Thomas during the media briefing.
+
+“So, let’s start with the passenger experience. By designing this new solution to be narrower we were able to make it fit between the two seats. So, what does this translate to? It translates into more seat, more room for the passenger. Their feet will not kick into it and as you know, especially if you are in economy, that is one of the most precious things you have is additional seating room. It supports all of the standards passengers are used to, USB-A, USB-C, wireless charging and including up to 60 watts of power entering those outlets for those laptops that are USB-C and that draw a little bit more power.”
+
+Thales is also touting the fact that AVANT’s open platform, built on the Android OS, allows it to work with an extensive network of partners to develop and deploy new applications for airlines, and bring new levels of personalization to passengers. The company’s ‘Ready to Fly‘ digital portfolio, revealed during the midst of the COVID-19 crisis, is designed to help airlines restore confidence in air travel in a post-pandemic world with “touchless” solutions that allow passengers to safely control the IFE system with their mobile phones for a full IFE experience.
+
+Related Articles:
+
+Featured image credited to Thales","{'label': 'Neutral', 'score': 0.9338491559028625}",neutral,0.9338491559028625,0
+A behind-the-scene look at the development of Thales's soldier optronics solutions - Thales,"Thu, 24 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtZGVmZW5jZS9sYW5kLWZvcmNlcy9uZXdzL2JlaGluZC1zY2VuZS1sb29rLWRldmVsb3BtZW50LXRoYWxlc3Mtc29sZGllci1vcHRyb25pY3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A behind-the-scene look at the development of Thales’s soldier optronics solutions Share this article
+
+
+
+LinkedIn
+
+In such contexts, improved situational awareness is key by day and night to faster and more accurate decision-making by soldiers, and Thales’s night vision goggles (NVGs) play a valuable role in meeting these new operational needs. We take a closer look at how Thales develops the equipment in close partnership with users.
+
+Saint-Héand: the Group’s centre of excellence for soldier optronics
+
+Saint-Héand is the birthplace of Pierre Angénieux, and the home of the Angénieux brand. Thales’s facility in the town is where the world’s finest optics are designed and manufactured, including the famous line of Optimo cinema lenses acclaimed by the world’s directors of photography, who are some of the most demanding professionals around when it comes to image quality.
+
+Thales’s night vision goggles are entirely designed and integrated at the Saint-Héand site, which is now the Thales Group’s centre of excellence for dismounted soldier optronics.
+
+In addition to designing award-winning cinema optics, the teams of engineers, optical and mechanical designers and electronics specialists at Saint-Héand also develop night vision goggles for infantry soldiers, assault forces and special forces as well as fighter and helicopter pilots.
+
+A total of 350 employees work at the Saint-Héand site across the full spectrum of functions, from product design to final delivery and support.
+
+In addition to the site’s time-honoured expertise, teams at Saint-Héand can rely on other specific capabilities within the Thales Group. The new Nellie night vision goggle, for example, was designed with an ergonomics expert from the Group’s avionics business specialising in head-worn equipment for pilots.
+
+The final piece in the jigsaw is a network of high-quality subcontractors responsible for manufacturing components. Light intensification (LI) tubes, for example, are supplied by a long-established partner of Thales, the French group Photonis.
+
+Users at the heart of the co-design process
+
+Making the most of this world-class expertise calls for a concerted approach focused on the needs of customers and end users. The design philosophy behind Thales’s optronics solutions – known as User Experience Design (UX Design) – places the user right at the heart of a collaborative innovation process.
+
+Thales’s teams at Saint-Héand typically work hand-in-hand with customers as well as the French defence procurement agency, army strategy and technical sections and planners of special forces operations but also with the allied forces who participate each year in the Sophie Users’ club to develop a “proof of concept” model. Once this model has been validated, the next strategic step is to develop a demonstrator as quickly as possible for users. Based on their feedback, the demonstrator will evolve into the final design as the demonstration sessions progress.
+
+This collaborative, user-focused approach ensures that solutions are fully aligned with operational requirements, offering only the functionalities that soldiers really need, while adding no unnecessary weight to their pack or head-worn equipment. This concern for minimising footprint and maximising autonomy is part of the DNA of our portable optronics solutions. In addition to offering the best compromise in terms of compactness, optical performance, range, autonomy and dark-night vision capability to meet the criteria of Detection Recognition and Identification (DRI), Thales’s solutions sometimes even exceed the initial specifications once the demonstration stage has been completed.
+
+The Nellie night vision goggle, for example, as well as having an extremely compact LI architecture optimised for long night missions, is suitable for both left-handed and right-handed users, irrespective of their dominant eye. This is a clear competitive advantage for large-volume orders.
+
+Maintenance and through-life support are also optimised at the product design process. Environmental protection is an important area of focus, too: all equipment is compliant with REACH/RoHS eco-design standards, and every contract includes provisions for end-of-life product recycling.
+
+The co-design approach also means collaborating closely with component suppliers, and Thales mainly works with French manufacturers to develop the close partnerships needed to analyse bid opportunities and innovate together. For the French O-NYX programme, for example, Photonis improved the performance of its image intensification tubes, and validated its cutting-edge 4G tube technology, which delivers a 50-60% boost in performance compared with previous solutions.
+
+As part of the co-design process, Thales’s engineering teams in the optical, mechanical and electronic design offices at Saint-Héand also share innovative concepts with each other, for example to develop a new image processing solution to overcome some of the constraints associated with optical design. Drawing on high-level optical, electronic and mechanical expertise, this approach is as relevant to night vision goggles as it is to cinema optics, and ultimately serves to boost the overall effectiveness and efficiency of complete optical systems.
+
+With more than 85 years of experience in high-end optics and over 110,000 night vision goggles in service around the world, Thales relies extensively on feedback from successive generations of operational users. This co-innovation strategy is the key to customer trust and confidence today. In February 2021, for example, the French defence procurement agency (DGA) renewed its confidence in the Group by placing an order for a further 3,000 Minie type bi-ocular goggles as part of the O-NYX contract, in addition to the 3,500 units to be delivered in 2021.","{'label': 'Neutral', 'score': 0.9315645098686218}",neutral,0.9315645098686218,0
+International space cooperation for climate - Thales,"Wed, 30 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9pbnRlcm5hdGlvbmFsLXNwYWNlLWNvb3BlcmF0aW9uLWNsaW1hdGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"SWOT payload arrives in France for integration with the satellite
+
+June 30 2021 - The Jet Propulsion Laboratory (JPL) from NASA in California today delivered the payload for the SWOT (Surface Water and Ocean Topography) oceanography satellite to Thales Alenia Space’s plant in Cannes, southern France. Thales Alenia Space is industrial prime contractor for this program on behalf of French space agency CNES (Centre National d’Etudes Spatiales).
+
+SWOT is a joint mission between CNES and NASA, with contributions from the Canadian Space Agency (CSA) and the United Kingdom Space Agency (UKSA). As its name indicates, it will measure the surface level in lakes and waterways, river flow rates and also study ocean dynamics to a very high degree of precision. SWOT features a number of unprecedented technological innovations and is based on a major disruptive technology, namely the wide-swath KaRIn interferometer designed by JPL. CNES and Thales Alenia Space built the complex radio-frequency assembly for this sophisticated instrument.
+
+SWOT paves the way for revolutionary discoveries in oceanography and continental hydrology. It carries on a long-standing partnership between CNES and NASA, with Thales Alenia Space as industrial partner, starting with the 1992 launch of Topex-Poseidon and continuing with the Jason family. SWOT will be the first satellite to make a controlled atmospheric reentry, in compliance with the French Law on Space Operations to deal with the problem of space debris, a law which took effect definitively in 2020.
+
+Designed to study the topography of oceans and bodies of water on land, SWOT has a two-pronged mission covering oceanography and hydrology. The satellite will monitor ocean circulation using its 2D vision and resolution improved 10-fold. It will help us analyze and better understand the effects of water circulation in coastal regions on marine life, ecosystems, water quality and energy transfer, to improve our modeling of the interactions between the atmosphere and oceans. The hydrology part of the mission will assess changes in water storage in wetlands, lakes and reservoirs, as well as river flow rates. SWOT is expected to bring innovative solutions to a sector where the strategic, economic and societal stakes are higher than ever.
+
+The SWOT payload comprises two subassemblies, KaRIn (Ka-band Radar Interferometer), supplied by JPL, and NADIR, a Jason-class altimeter. Thales Alenia Space, the world leader in space-based altimetry, supplied the radio-frequency unit (RFU), a key part of the KaRIn instrument, and the dual-frequency Poseidon altimeter for NADIR. The payload was integrated by JPL in Pasadena, California and will be assembled on the SWOT spacecraft bus at Thales Alenia Space’s plant in Cannes in early August. Integration and testing will continue for a year in France, with French and American teams handling these tasks. Launch by a SpaceX Falcon 9 is slated for the end of 2022. This demonstration mission will last about three years.
+
+Commenting on this milestone, Caroline Laurent, Director of Orbital Systems at CNES, said: “The integration of this impressive five-meter-tall satellite at Thales Alenia Space reflects the commitment of the French government to new-generation spaceborne altimetry, via CNES and the Investment in the Future Program, along with their international partners and industry. This mission will play a critical role in improving our knowledge of climate change mechanisms and will, for the first time, allow us to take stock of our planet’s surface water resources.”
+
+“Operational space altimetry adventure started back in 1992, and now is setting the world standard for excellence in this field,” added Bertrand Denis, head of the Observation and Science domain at Thales Alenia Space in France. “We are very proud to have played a major role in this success, alongside CNES and NASA. SWOT will further improve the data provided to the user community, and will play an active role in monitoring our climate, a major challenge for the decades to come.”
+
+Copyrights ©Thales Alenia Space/Imag[IN] - © CNES
+
+ABOUT CNES
+
+CNES is the government agency responsible for shaping France’s space policy and implementing it in Europe. Its task is to conceive and orbit satellites, invent the space systems of the future and nurture new services to aid us in our daily lives. Founded in 1961, it is the initiator of major space projects, launch vehicles and satellites, and the partner of choice for industry, supporting exports and fuelling innovation. CNES is working in infinite fields of applications in five core areas of focus: Ariane, science, Earth observation, telecommunications and defence. CNES is a key player driving technology research, economic development and industrial policy for the nation. It also fosters scientific collaborations and has forged numerous international partnerships. France, represented by CNES, is the leading contributor to the European Space Agency (ESA), which conducts Europe’s space policy on behalf of its 22 member states.
+
+In need of Space - www.cnes.fr
+
+CNES – PRESS CONTACTS
+
+Pascale Bresson Press officier Tél.+33 (1) 44 76 75 39 pascale.bresson@cnes.fr
+
+Raphaël Sart Head of Media Tél.+33 (1) 44 76 74 51 raphael.sart@cnes.fr
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 1.850 billion euros in 2020 and has around 7,700 employees in 18 sites in 11 countries across Europe and a plant in the USA. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel: +33(0)6 78 64 63 97
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Tarik Lahlou
+
+Tel.: +33 (0)6 87 95 89 56
+
+tarik.lahlou@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9603590965270996}",neutral,0.9603590965270996,0
+French space agency president Philippe Baptiste visits Thales Alenia Space's Cannes plant - Thales,"Wed, 09 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL3NwYWNlL3ByZXNzLXJlbGVhc2UvZnJlbmNoLXNwYWNlLWFnZW5jeS1wcmVzaWRlbnQtcGhpbGlwcGUtYmFwdGlzdGUtdmlzaXRzLXRoYWxlcy1hbGVuaWHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"French space agency president Philippe Baptiste visits Thales Alenia Space’s Cannes plant Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Innovation to drive competitiveness and digital technologies on the table
+
+Cannes, June 9, 2021 – Philippe Baptiste, President of French space agency (CNES), accompanied by Lionel Suchet, the agency’s Chief Operating Officer, today visited Thales Alenia Space’s plant in Cannes, France, where they were welcomed by Hervé Derrey, President and Chief Executive Officer of Thales Alenia Space.
+
+In a space sector undergoing major changes, with the advent of disruptive technologies and fierce competition, France has clearly shown that it belongs among the leaders. French industry has also started its transformation under the impetus of both public agencies and commercial customers, and is now continuing along this path in close collaboration with the entire space ecosystem.
+
+Several key factors, including the digital transformation, lower launch costs, satellite miniaturization for certain applications and fast development cycles, have spurred the entry of new players, backed by new capital and wielding new R&D and marketing models. France has risen to these new challenges and has shown its ability to adapt to new business models, in particular with the launch of Kineis, the first French nanosatellite constellation wholly dedicated to the Internet of Things.
+
+To maintain this momentum and bolster productive collaboration between government and industry, Philippe Baptiste visited one of Thales Alenia Space’s largest production plants, a center of excellence in the integration of satellites and very-high-resolution optical instruments. He enjoyed a close-up look at a facility where innovative products and working methods go hand in hand with a proven orbital legacy, new technologies to support the further development of miniaturization and digitalization, on-orbit robotics capabilities and active telescopes for even higher resolution.
+
+“I’m very honored to welcome CNES president Philippe Baptiste to our center of excellence in Cannes, as we work together to pave the way for the French space industry’s highly promising future,” said Hervé Derrey, President and Chief Executive Officer of Thales Alenia Space. “CNES and Thales Alenia Space have long teamed up on world-class technology projects, such as spaceborne altimetry. I’m firmly convinced that we will meet other ambitious and pivotal challenges in the near future by working together, in conjunction with the space ecosystem. While we are already very pleased that the Angels and Kineis projects have blazed a path towards the ‘new space’ environment, Thales Alenia Space also plans to expand our industrial role in these and other endeavors to rise to the major challenges facing France and all of Europe in terms of sovereignty, climate monitoring, the digital transition and unleashing the value of space data.”
+
+Philippe Baptiste President of French space agency added, “I’d like to warmly thank Thales Alenia Space for this wonderful visit. I was really impressed by the assembly, integration and testing capabilities at Cannes, not to mention the hefty investments they required! We are all very proud of the French space industry’s proven expertise in orbital systems and the overall excellence which has made our industry an innovation leader. During my visit, I saw some of the products that culminated may years of hard work, including the Syracuse 4A defense satellite, the SWOT scientific satellite platform, which will be mated with its payload from Jet Propulsion Laboratory in just a few weeks, and of course the Sentinel-3 satellite which will help us better understand our own planet.”
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 1.850 billion euros in 2020 and has around 7,700 employees in 18 sites in 11 countries across Europe and a plant in the USA. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Tarik Lahlou
+
+Tel: +33(0)6 87 95 89 56
+
+tarik.lahlou@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9989222288131714}",neutral,0.9989222288131714,0
+Supporting the Royal navy through a global pandemic - Thales,"Tue, 01 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3N1cHBvcnRpbmctcm95YWwtbmF2eS10aHJvdWdoLWdsb2JhbC1wYW5kZW1pY9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Supporting the Royal navy through a global pandemic Covid-19 Share this article
+
+
+
+LinkedIn
+
+Keeping the Royal Navy safe at sea and on mission during COVID-19
+
+The burden of the COVID-19 pandemic has been felt by organisations and individuals around the world. Yet, Thales UK has worked hard to shield its impact upon the Royal Navy by providing a comprehensive support service that has remained steadfast throughout the crisis.
+
+In the face of numerous COVID-related challenges, the Sensors Support Optimisation Programme team (SSOP) has gone to extraordinary measures to keep the Royal Navy’s mission-critical systems operational so that they can continue to protect national interests, undeterred.
+
+Supporting the guardians of the sea, whatever it takes
+
+At a time when supply chains and productivity were at risk, the SSOP team reacted quickly, thinking outside of the box to re-evaluate its processes in order to ensure that the Royal Navy continues to receive trusted, reliable and efficient support.
+
+This meant that when the national lockdown began and international travel bans limited movement, Thales’s waterfront engineers were still there for the Royal Navy, maintaining 24/7 global support and coming up with bespoke solutions to ensure availability of critical systems.
+
+Even when engineers were unable to be present in person, they adopted inventive means to mentor and assist Royal Navy personnel remotely to provide their expertise.
+
+Behind the scenes, Thales’ wider support team worked around the clock to ensure that back-office functions such as asset management, spares monitoring, logistic support and obsolescence tracking remained steadfast. And, due to the exemplary management of the supply chain by the Thales team, support was maintained as global networks were impacted by the pandemic.
+
+The spirit and dedication of the Thales team also meant that beyond the core “sensors support”, they looked to the “O” for Optimisation and collaborated with DE&S and the Royal Navy to find new ways to enhance their efficiency, value for money and reliability.
+
+Through digital services, data analysis and modelling Thales continued to refine how the service offering could be enhanced through new facilities, process improvements and approaches. A testament to this is a new Towed Array Sonar Hub being opened in Faslane, Scotland during the pandemic and additional levels of infrastructure being implemented in Bahrain to support the Royal Navy’s global resilience.
+
+Equipping the Royal Navy with the tools they need to complete their missions successfully
+
+As part of the SSOP, which is Thales's largest support services contract in the UK, Thales maintains over 9,000 assets that help to keep over a dozen of the Royal Navy’s critical systems functioning effectively. These include mine-hunting sensors, sonar systems, visual systems and electronic warfare equipment.
+
+This critical technology, which acts as the eyes and ears of the Royal Navy, has to withstand some of the harshest and most gruelling operating environments in the world. Thales knows that system failure is not an option and anything less than a watertight 24/7 support service risks putting lives in danger.
+
+Delivering every time for the Royal Navy through end-to-end capability provision
+
+Thales is unique in its breadth of in-house capability. From the extensive range of equipment that it provides; to its holistic engineering process that spans design, production, integration and support; and its skills and service provision which enables critical systems to be managed throughout their lifecycle.
+
+This complete spectrum of capability ensures that whatever the Royal Navy needs, anywhere in the world, Thales can guarantee the reassuring sight of a Thales support engineer will soon arrive (in person or remotely) to provide expertise, help and support.
+
+It’s this approach that has ensured the Royal Navy’s availability levels have remained high throughout the pandemic, and crews have been equipped with the tools they need to complete their missions safely and successfully, every hour, of every day.
+
+Reflecting on the past year, Steve Lockley, Managing Director of Underwater Systems at Thales, said: “While SSOP is currently a 10-year contract to support all of the sensors and systems that are aboard the Royal Navy fleet, this is merely a small part of the sustained partnership that we have enjoyed together for 100-years.
+
+“I hope that as a result of our continued commitment and collaboration, which has been best demonstrated throughout the global pandemic, the we will continue to keep the Royal Navy safe at sea and at the heart of all that we do, long into the future.”
+
+You can find out more about how Thales supports equipment in service to ensure operational availability here.","{'label': 'Positive', 'score': 0.6619454026222229}",positive,0.6619454026222229,1
+"Meet Alexandra Chosson, Ground control & Operations Manager at Thales Alenia Space - Thales","Wed, 23 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL3NwYWNlL25ld3MvbWVldC1hbGV4YW5kcmEtY2hvc3Nvbi1ncm91bmQtY29udHJvbC1vcGVyYXRpb25zLW1hbmFnZXItdGhhbGVzLWFsZW5pYS1zcGFjZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In the frame of the 2021 International Women in Engineering Day, we have asked 3 questions to our colleague, Alexandra Chosson, Ground control & Operations Manager, working on EUTELSAT KONNECT VHTS and EUTELSAT 10B satellites.
+
+Could you please explain your job?
+
+I have been working on EUTELSAT KONNECT VHTS telecommunications program for more than a year.
+
+My role consists in managing the ground control operations and, together with my team, 100% women, to handle the Launch and Early Operations activities (LEOP) as well as the in-orbit support activities during the satellite’s operational lifetime, that is superior to 15 years! As part of my job, my team and I have to understand how the satellite behaves, to interact on a regular-basis with the Eutelsat team and prepare together all the potential scenarios to be considered during the entire mission. Our tasks take into account ground testing, operator training, operations and satellite in-flight testing.
+
+Can you say a few words about the satellite?
+
+This geostationary satellite will deliver very high-speed Internet access anywhere in Europe, especially in isolated areas called “white zones”, with service comparable to a fiber-optic network in terms of both performance and economics. The EUTELSAT KONNECT VHTS system will offer some 500 Gbps of instantaneous throughput across Europe. It will really contribute to bridging the digital divide on this continent. It is built on Thales Alenia Space’s all-electric Spacebus NEO platform and will feature a state-of-the-art payload, using innovative technologies developed with the sustained support of the French government, including space agency CNES and France’s Investment in the Future program, plus the European Space Agency (ESA).
+
+What do you like most about your job ?
+
+It is a very complete and rewarding job, combining technical and relational skills and also providing lots of adrenaline when you have to deliver the satellite into orbit; all this bearing in mind the achievement of the mission and the satisfaction of our customer.
+
+Illustrations: © Thales Alenia Space/Briot","{'label': 'Neutral', 'score': 0.9999352693557739}",neutral,0.9999352693557739,0
+Electronic warfare: the cornerstone of platform survivability - Thales,"Fri, 25 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZGVmZW5jZS9tYWdhemluZS9lbGVjdHJvbmljLXdhcmZhcmUtY29ybmVyc3RvbmUtcGxhdGZvcm0tc3Vydml2YWJpbGl0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The aircrew has been briefed, the mission is clear: the helicopter is to fly deep into enemy territory to provide air support for ground troops in a sticky situation. As the crew straps in and prepares for take-off, they know they'll be flying into the unknown. Despite the detailed intelligence gathered beforehand, there's no knowing what they'll encounter: enemy surveillance systems may have been redeployed, short-range missile systems and rocket launchers may have been concealed behind terrain features, or a makeshift drone could be flown into the helicopter. The helicopter's self-protection system needs to perform in order to guarantee the mission success and bring them back to base safe and sound.
+
+Finding the right compromise without compromising the mission
+
+The increasing variety of threats encountered on a military operation present a formidable challenge to the onboard systems that ensure platform survivability, especially now that helicopters are designed to fly multiple types of missions in a whole range of different deployment scenarios.
+
+This multi-mission capability leads to compromises. Designers have to find just the right balance between operational capability and installability of all the equipment needed to deal with each type of threat. The final system configuration has to ensure the safety of the crew and maximise the chances of mission success at the same time.
+
+Thales has worked with customers for several decades to develop the electronic warfare systems needed to protect aircrews from all types of dangers. ""Thales is constantly looking for the optimal solution to protect platforms of all types, from tactical transport planes to more versatile light helicopters, by equipping them with high-reliability, high-performance defensive aids systems. Aircrews need to know they can trust the system designed to save their lives if the aircraft comes under attack,"" says Patrick Agnieray, Director, Radar EW Product Line Thales.
+
+© E. RAZ
+
+Speed is of the essence
+
+As well as installing the right self-protection systems to ensure platform survivability, reaction times are a crucial factor in electronic warfare. Aircraft self-protection systems need to alert pilots instantaneously if a critical threat is declared so they are ready to take appropriate action when needed.
+
+Thales defensive aids solutions are designed to be seamlessly integrated with the cockpit avionics, so the pilot receives information and interacts with the self-protection system without having to use a different screen. ""That reduces the cognitive load on the pilot,"" says Guillaume Bouillin, Self Protection Systems Product Manager Thales, ""but it also makes it much easier to install the systems in the cramped conditions of an helicopter cockpit.""
+
+Thales self-protection systems also draw on the company's proven operational experience to optimise sequence programming and analyse the data recorded during the flight. Based on this detailed knowledge of threat characteristics and the ability to deploy the best countermeasures to defeat each type of threat, Thales systems provide consistent programming and analysis across an entire fleet of aircraft. And having worked hand-in-hand with operational users for many years, the company is able to adapt its systems as the threat environment evolves, while building on the legacy of its extensively proven defensive aids for aircraft of all types. ""With self-protection systems they can really trust, pilots are able to focus 100% on the mission in hand,"" concludes Olivier Ageorges, ISR BL Operational Marketing Manager Thales.
+
+","{'label': 'Neutral', 'score': 0.913877010345459}",neutral,0.913877010345459,0
+Beam me up - Thales,"Tue, 08 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWFzaWEvYXVzdHJhbGlhL3ByZXNzLXJlbGVhc2UvYmVhbS1tZS10aGFsZXMtZ29vbmhpbGx5LWVhcnRoLXN0YXRpb24tY29sbGFib3JhdGUtcmVzZWFyY2jSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia has signed a major research extension with the SmartSat Cooperative Research Centre (CRC) for the development of Advanced Optical Communications technologies for transmission through Earth’s Turbulent Atmosphere.
+
+The research extension builds upon initial feasibility work conducted over the past 12 months, and provides a three-year commitment from SmartSat to fund the next phase of this new communications technology that uses laser beams to carry high data rate communications through space.
+
+The project will develop an advanced optical communications system that has been shown to support optical fibre-like data transfer rates over atmospheric free-space communication links, using active optics technology and a free-space coherent phase-stabilisation system. The project will focus on deploying this technology to demonstrate feasibility over vertical free-space communications links through Earth’s turbulent atmosphere, starting with low-altitude targets, progressing to light aircraft and stratospheric vehicles. Preliminary work has already demonstrated successful communication over 2.4 km and 10 km horizontal free-space links.
+
+Led by Dr. Sascha Schediwy from the University of Western Australia, in collaboration with Goonhilly Earth Station, the University of Western Australia (UWA), the University of South Australia (UniSA), and Defence Science & Technology (DST), the project supports the commitments made by Thales Australia’s Strategic Statement of Intent signed with the Australian Space Agency in December 2019, and is indicative of opportunities for new space projects that will flow from the SmartSat CRC initiative.
+
+“This project is an important step towards the ultimate objective of achieving high data rate satellite to ground optical communications, and is a great example of how large organisations like Thales can work in partnership with the Australian research community to develop the next generation of space technologies, while also generating opportunities for local manufactures to feed into our global product supply chain.” Michael Clark, Director Technical Strategy, Thales Australia and New Zealand
+
+“Goonhilly Earth Station is a world-class facility at the forefront of both satellite and deep space communications. Goonhilly’s future ground terminals in the UK and overseas will incorporate free space coherent optical communications capabilities and this aligns perfectly with the strategic objectives of Thales.” Dr Bob Gough, Head of Business Development, Australia & APAC, Goonhilly Earth Station
+
+“This project reflects the fertile environment provided by SmartSat to grow our sovereign space capability, combining the experience of international companies Goonhilly Earth Station and Thales Australia with local researchers at the University of Western Australia, the University of South Australia, and Defence Science & Technology. Optical communication links are poised to become the only viable solution to meet the data transfer needs of future space communication systems in the rapidly growing $400 billion global space economy.” Professor Andy Koronios, Chief Executive Officer, SmartSat Cooperative Research Centre.","{'label': 'Neutral', 'score': 0.9983412027359009}",neutral,0.9983412027359009,0
+The Spanish High Speed Rail Network: A Success Story - Thales,"Fri, 11 Jun 2021 03:35:30 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9zcGFuaXNoLWhpZ2gtc3BlZWQtcmFpbC1uZXR3b3JrLXN1Y2Nlc3Mtc3RvcnnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The first High Speed Rail journey in Spain departed Madrid for Seville on the 21st of April, 1992. In the three decades since, Spain has developed one of the most advanced rail networks in the world, thanks to its leading network length, level of modernity, commercial speed, the versatility of its fleet and punctuality. As of today, the Spanish High Speed network spans 3,402 kilometres, which is the longest high performing network in operation in Europe and second in the world after China. This puts the network ahead of those in other countries that have a great tradition in this mode of transport.
+
+Since the first journey on the Spanish network, more than 400 million people have travelled using the High-Speed infrastructure across a wide range of distances, carrying more than 100,000 passengers a day and connecting 47 cities. The number of passengers using the High Speed network in Spain has seen steady growth year after year, reaching 22.4 million in 2019, a 5% increase year on year.
+
+The expansion of the High Speed rail network planned by the Spanish government will continue to see the development of the network in the medium-term. New lines, such as the Northern corridors, are under construction and others are also expected to be developed. Today, two out of three of the Spanish population has access to High Speed transport in their province. The goal is to grow this proportion to the largest possible number of citizens, assuring that nine out of ten citizens are within 30 kilometres of a High Speed station.","{'label': 'Positive', 'score': 0.935798168182373}",positive,0.935798168182373,1
+Canada places contract with Thales for new tactical control radars - Defense Brief,"Sun, 20 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZGVmYnJpZWYuY29tLzIwMjEvMDYvMjAvY2FuYWRhLXBsYWNlcy1jb250cmFjdC13aXRoLXRoYWxlcy1mb3ItbmV3LXRhY3RpY2FsLWNvbnRyb2wtcmFkYXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Canadian defense ministry has awarded Thales Canada Inc. a C$186 million contract for the purchase and in-service support of three new tactical control radars.
+
+These new radars will enable the Royal Canadian Air Force to detect, identify and direct fighter interceptors to potential threats in Canadian and North American aerospace. These radars can also be transported and deployed world-wide to support operations and training exercises for the Royal Canadian Air Force.
+
+The radars, which will be delivered by Thales Canada but manufactured by Lockheed Martin, will be replacing the Northrop Grumman TPS-70 solution currently in service.
+
+Two of these will replace the existing ones located at 4 Wing Cold Lake, in Alberta, and 3 Wing Bagotville, in Quebec, and the third one will be used as needed, based on Canadian Armed Forces operational requirements.
+
+First deliveries of the new radars are expected to begin in 2023.
+
+The order is actually divided in two, with the first contract covering the acquisition of three new tactical control radar systems, sub-systems and associated equipment, and second contract for in-service support for an initial work period of five years.
+
+According to the defense ministry, the new radars will be ready to accommodate changing technology and improve the systems throughout their life-cycle, leading to an overall reduction of life-cycle costs.
+
+The radars are expected to be fully operational within three and a half years of the contracts being awarded.
+
+Until replacements are delivered, the government will continue to maintain and employ the existing Northrop Grumman TPS-70. Repair and overhaul services have been put in place for the existing TPS-70 to cover the period up to and including the implementation of the new radars.","{'label': 'Neutral', 'score': 0.9986211061477661}",neutral,0.9986211061477661,0
+ASECNA teams up with NIGCOMSAT and Thales Alenia Space to continue developing SBAS aviation services - Arabian Aerospace,"Fri, 04 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHA6Ly93d3cudGltZXNhZXJvc3BhY2UuYWVyby9uZXdzL3NwYWNlL2FzZWNuYS10ZWFtcy11cC13aXRoLW5pZ2NvbXNhdC1hbmQtdGhhbGVzLWFsZW5pYS1zcGFjZS10by1jb250aW51ZS1kZXZlbG9waW5nLXNiYXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The three partners conducted on June 2nd 2021 a successful SBAS demonstration flight between Douala and Kribi in Cameroon with a rotorcraft. The aim was to show on the field the effectiveness of this technology developed as part of the “SBAS for Africa & Indian Ocean” programme, designed to autonomously provide SBAS services across the continent, thus improving the performance of the global navigation satellite systems (GNSS), GPS and Galileo.
+
+The rotorcraft carried out a low-altitude, two-way demonstration flight along a low-level route linking two point-in-space (PinS) approaches to the Douala airport and a point near the oil platforms off the Kribi coast. The helicopter was provided by Heli Union and the SBAS receiver by Pildo Labs. This experimental flight demonstrated the ability of the SBAS service to improve navigation safety and efficiency, in view of the operational SBAS services expected to be delivered in 2024.
+
+On June 3 and 4 in Douala, a seminar organized with the EGNOS-Africa JPO will host representatives of major aviation institutions in Cameroon to raise awareness about the development of SBAS aviation services in Africa.
+
+“We will continue to support and contribute to the success of SBAS flight demonstrations using NIGCOMSAT-1R navigation payload to sensitize stakeholders towards acceptance and adoption of SBAS technology in Africa’s Aviation sector for its many benefits especially as it concerns improvement of operational safety, reduction in operational costs and environment”, declared Dr. Abimbola Alale, MD/CEO of NIGCOMSAT Ltd. “It is in line with marching order and directive of the Honorable Minister of Communications and Digital Economy of Federal Republic of Nigeria; Dr. Isa Ali Ibrahim (Pantami) FNCS, FBCS, FIIM who has directed full exploitation of the capabilities and capacity of NIGCOMSAT-1R satellite for digitalized economy in all sectors for sustainable development in the continent.”
+
+“Thales Alenia Space is the ideal partner to support countries that want to implement their own SBAS system, based on our proven expertise in developing EGNOS1 for Europe and KASS for South Korea, coupled with our advanced satellite positioning technologies,” said Benoit Broudy, Vice President, Navigation Business Unit at Thales Alenia Space “This latest demonstration proved the service's ability to improve satellite navigation for helicopters, in addition to civil planes, and it will help accelerate the rollout of SBAS aeronautical services in Africa.”
+
+“I’m proud that we were able to demonstrate the utility and efficiency of SBAS services on our continent for all the community of airspace users, from commercial aviation to general aviation, and including rotorcraft,” said Mohamed Moussa, Director General of ASECNA. “In line with my vision of unification of the African Sky, the upcoming deployment of the ‘SBAS for Africa & Indian Ocean’ system, the navigation solution for Africa and by Africa, will benefit to all the aviation stakeholders of the continent, enhancing sustainably the flight safety and efficiency” Commented Mohamed Moussa, ASECNA General Director.","{'label': 'Positive', 'score': 0.9999784231185913}",positive,0.9999784231185913,1
+Thales celebrates the launch of the Dock Operation and Reticulated Services Contract Enterprise Charter - Thales,"Tue, 22 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXMtY2VsZWJyYXRlcy1sYXVuY2gtZG9jay1vcGVyYXRpb24tYW5kLXJldGljdWxhdGVkLXNlcnZpY2Vz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Dock Operation and Reticulated Services Contract (DORSC) Enterprise Charter was officially launched recently at the Garden Island Defence Precinct (GIDP) in Potts Point, Sydney. The charter was signed by representatives from Thales, Maritime Docks and Marine Services Systems Program Office, Shore Force, the Estate and Infrastructure Group, Fleet Support Unit and the HMAS Kuttabul Commanding Officer.
+
+The Charter gives direction, purpose, and sets the benchmark for how the stakeholders will focus their energies to work together, through effective communication, collaboration and trust, towards a common goal - to provide dock and reticulated services to support GIDP operations. The Enterprise vision to be respectful, uphold integrity and work professionally as one team were also brought to life through the Charter.
+
+The Charter will be based on the following Foundations:
+
+Risk-based decisions – mitigation/prevention
+
+Transparency
+
+Safety, Environment and Security
+
+Strategic Alignment with defence estate strategy
+
+Sustainability
+
+Improving and maintaining relationships with key GIDP stakeholders
+
+Positive environment
+
+Signatories included Anthony Burrows, DORSC Program Manager, Thales Australia; Arran Melville, Captain, RAN, Executive Director, FSU; Gavin Irwin, Captain, RAN, Shore Force Lifecycle Engineer/Superintendent, GIDP; Matthew Shand, Captain, RAN, Commanding Officer, HMAS Kuttabul; Nick Tate, Captain, RAN, Director Estate Planning – Strategic Projects, Department of Defence, Estate and Infrastructure Group; and Randall Peterie, Captain, RAN, Director MDMS SPO, Department of Defence, CASG.
+
+DORSC Program Manager for Thales, Anthony Burrows said, “Thales’ primary focus within the DORSC is the provision of Operating & Maintenance Services for the Captain Cook Graving Dock and Reticulated Services within the GIDP. The GIDP comprises both Garden Island and Fleet Base East and is an asset of critical strategic significance to the defence of Australia, being the primary operational, repair and maintenance support base for Sydney home-ported Royal Australian Navy major fleet units.”
+
+“The Dock was recognised with heritage significance recently and is as vital to the security of our nation today as it was when it opened 76 years ago. We are grateful to the Commonwealth of Australia for entrusting us to support Australia’s national interest and acknowledge the responsibility that comes with this trust.”
+
+“The depth of knowledge, experience and skills that exist within the Enterprise will ensure the success of the Charter. Thales is proud to be a signatory,” added Burrows.
+
+To celebrate and mark the occasion, a BBQ was held at GI with all the relevant parties. The event also signified the closure of the relaunch of DORSC as DORSC 2.0, trigged by the changing needs of the customer.","{'label': 'Neutral', 'score': 0.9974908828735352}",neutral,0.9974908828735352,0
+Thales elevates the inflight entertainment experience with AVANT Up - Arabian Aerospace,"Thu, 24 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHA6Ly93d3cudGltZXNhZXJvc3BhY2UuYWVyby9uZXdzL3RlY2hub2xvZ3kvdGhhbGVzLWVsZXZhdGVzLXRoZS1pbmZsaWdodC1lbnRlcnRhaW5tZW50LWV4cGVyaWVuY2Utd2l0aC1hdmFudC11cNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Image: Thales
+
+The system features a new line of displays, power supply solutions, personalisation and airline revenue generation capabilities.
+
+Optiq – 4K QLED HDR Displays
+
+Developed in partnership with HARMAN, a Samsung Company, Optiq by Thales is the industry’s first line of intelligent 4K high dynamic range (HDR) displays enhanced with Samsung QLED proprietary technology. The new in-seat and cabin displays have a sleek passenger centric design focused on ergonomics and fits seamlessly into the modern cabin environment.
+
+Optiq provides passengers with the best experience in the air, with an unrivaled picture quality featuring more than one billion colors. Two Bluetooth connections and built-in Wi-Fi allows passengers to pair multiple devices simultaneously to the system. Airlines benefit from a significantly reduced total cost of ownership, thanks to a lower acquisition cost, 30% weight reduction, 50% increase in reliability, and improved durability and serviceability.
+
+Pulse – Smart Power Management
+
+Our Pulse power solutions are designed to meet the specific power needs of passengers, now and in the future, as PED devices increasingly migrate to the USB Power Delivery standard. Pulse is a modular system built with smart power management that dynamically allocates power where the passengers need it. Pulse is highly efficient while being compact in size, providing a 30% weight reduction, lower heat dissipation and the ability to install Pulse between the seat beams. With more power, improved seat integration, and reduced acquisition and operational cost, Pulse provides substantial benefits to the passenger and the airline.
+
+Digital Services - Unlocking the True Potential of IFE
+
+AVANT’s open platform allows Thales to work with an extensive network of partners to develop and deploy new applications for airlines, offering passengers the latest features and a broad range of interactive entertainment options. Thales’ digital product portfolio features e-commerce capabilities with Airfree’s shopping platform, a multifaceted approach for delivering personalization, and an industry leading advertising platform.
+
+Our Ready to Fly digital portfolio is designed to help airline customers restore passenger confidence in air travel in a post-pandemic world.Such as Thales’ “touchless” solutions, allowing passengers to safely control the inflight entertainment system with their mobile phones for a full IFE experience.
+
+Thales digital technologies provide airlines fresh opportunities to maximize passenger satisfaction, loyalty and revenue.
+
+“Our airline customers and their passengers always expect more from their inflight entertainment systems, and Thales is delivering on these expectations, and more. AVANT Up, Pulse and our Digital solutions demonstrate our unwavering commitment to invest in innovation that creates value for airlines. We’re truly excited to provide these solutions to our customers and their passengers as we build a sustainable future we can all trust.” Cedric Rhoads, vice president, product policy, Thales InFlyt Experience.","{'label': 'Positive', 'score': 0.9999994039535522}",positive,0.9999994039535522,1
+What's it like being part of CSG: We spoke to Andy Hodge to find out - Thales,"Mon, 07 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3doYXRzLWl0LWJlaW5nLXBhcnQtY3NnLXdlLXNwb2tlLWFuZHktaG9kZ2UtZmluZC1vdXTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"What’s it like being part of CSG: We spoke to Andy Hodge to find out Queen Elizabeth Class (QEC) Share this article
+
+
+
+LinkedIn
+
+© Crown Copyright
+
+The HMS Queen Elizabeth – the jewel in the UK’s Carrier Strike Group – has now deployed. But just before it set sail from Portsmouth, we caught up with Thales Field Service Representative, Andy Hodge, who specialises in the Crowsnest AW Radar. How had he come to be on board the Royal Navy’s flagship? What does his typical day look like? And what will he miss most, while at sea?
+
+Our Thales people and capabilities play a key role in the Carrier Strike Group 21 [CSG21] deployment. Our technology features on many of the platforms that make up the Carrier Strike Group from submarines to surface ships to Helicopters and the aircraft carrier itself.
+
+Andy, how would you sum up what it’s like being part of the Carrier Strike Group and on board the QEC?
+
+I have the same feeling aboard the QEC as I had serving Queen and Country back in my Navy days. As I like to say, if you cut me down the middle, half of me is Royal Navy and the other half is Thales, so I feel really privileged and proud to be flying the company flag. Everyone on board – and their families, I might add – have made big sacrifices to be here. And knowing how incredibly hard the Thales team has worked to get the aircraft on here, and me on here too, is just very humbling. It’s a massive honour.
+
+Can you tell us a bit about yourself. How has your Thales journey led you to this point?
+
+I joined the Royal Navy when I was 16 and served in the Fleet Air Arm for 24 years. I was deployed to the Falklands as a 19-year-old and saw the devastating impact of not having an Airborne early-warning (AEW) radar capability. Later on, when I saw the first helicopter-mounted AEW radar I said, ""I want to be part of that”. And four years later, I was.
+
+Then when I left the Royal Navy in 2002, Thales approached me to work on a new replacement AEW radar helicopter called the Sea King Mk7 ASaC (airborne surveillance and control) radar and subsequently other projects including managing the ASaC simulator and now as a Field Service Representative (FSR) supporting Thales’ Crowsnest radars on the Merlin helicopters aboard the QEC.
+
+Tell us, what does a typical day look like for you on board?
+
+It’s a cliché to say, but no two days are quite the same. Though having been on exercises in the north of Scotland for three-and-a-half weeks, I’ve established a bit of a routine. Up at 05:45 to do a 30-minute PT circuit from 06:15-06:45 to get my CV system going and my heart rate up. Then its shower, change and breakfast at 07:00 and at work at 07:30. A lot of the kit is new to the engineering team supporting the air crew, so there are lots of equipment and processes to work on.
+
+I’ll break for lunch at 12:30 (the food is pretty good by the way) then it’s more of the same in the afternoon, prepping for sorties, briefing the air crews, solving any issues. Then it’s an hour for evening meal at 18:30 then more briefing or debriefing crews. Most days, I’ll finish about 22:00, but I’m expecting to finish a bit earlier once we’ve bedded in the systems and procedures. And that’s seven days a week, because like all the armed forces, the Navy doesn’t take weekends off. It’s a 24/7 operation.
+
+After such a long day, how do you unwind?
+
+It's difficult being on a ship. It's not like you can switch from work-mode to home-mode, and if there’s still a problem to solve at work I find it hard to switch off anyway. But generally, I’ll listen to music, watch a film on my iPad, read a book (currently reading Man Up, which my daughter gave me), or do some puzzles. And if there’s time, I’ll do a spin class to get some more exercise in. It’s about trying to do things that take my mind off work for a while, but you can never really switch off. No-one can, because we all have jobs to do and everyone is relying on everyone else.
+
+What other personal possessions have you got with you and what are you going to miss most?
+
+I have a few framed photos of my grandchildren. There’s limited space onboard, so you can't bring a lot with you. I’m definitely going to miss my family, and based on my previous deployments, I’ll miss the simple things. Like exercising my dogs or going on coastal walks – I live in a fishing village in Cornwall. When the aircraft are flying all day, you can’t get out much, so when they do open the flight deck there’s a scramble to put on your sports gear and get outdoors and exercise in that fresh sea air.
+
+As a Crowsnest specialist, what excites you most about the area you work in and what are some of the more challenging aspects of the job?
+
+I’m so excited to have the opportunity to work closely with the American and the British F-35B Lightning jets. It's a challenge as it’s an evolving system on a new platform, which happens to be one of the world’s most modern and advanced aircraft carriers. It doesn't get much more exciting than that.
+
+When we’re carrying out some exercises, we have to go comms silent, which means you have to do everything on your own without the support or back-up of others. It forces you to adapt and think on your feet to solve problems. It can be quite challenging, but also very rewarding when the solution you come up with works. We also have a very high sortie generation-rate, so aircraft have to be turned-around and ready to fly really quickly, so there’s always a lot of time pressure.
+
+FOR MORE INFORMATION
+
+If you want to know more about both the QEC and the Prince of Wales aircraft carriers, and indeed more on the Carrier Strike Group 21 which set sail recently, please click on the internal news stories below which include photos and video.
+
+HMS Queen Elizabeth, Thales and Me: a 20-year relationship
+
+UK Carrier Strike Group sets sail led by the HMS Queen Elizabeth
+
+Flagship Day For British Engineering
+
+Images © OGL","{'label': 'Neutral', 'score': 0.9999661445617676}",neutral,0.9999661445617676,0
+Unmanned “Eye in the Sky” offers maritime forces the ability to rapidly see the unseen - Thales,"Tue, 22 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3VubWFubmVkLWV5ZS1za3ktb2ZmZXJzLW1hcml0aW1lLWZvcmNlcy1hYmlsaXR5LXJhcGlkbHktc2VlLXVuc2VlbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Unmanned “Eye in the Sky” offers maritime forces the ability to rapidly see the unseen Drones Share this article
+
+
+
+LinkedIn
+
+Threats at sea in both littoral and blue water have been evolving significantly over the last decade. Navies are faced with an increased use of Fast Inshore Attack Craft (FIACs), unmanned surface and air vehicles, as well as commercial platforms repurposed as weapons. Using conventional techniques, they can be hard to detect until it is too late.
+
+The collaboration between Thales and Schiebel is in response to emerging requirements that will equip deployed maritime operational vessels with a capability to provide a persistent, assured and integrated ISTAR (Intelligence, Surveillance, Target Acquisition and Reconnaissance) asset to find, fix, track and identify surface threats, such as FIACs and single and multiple Unmanned Surface Vessels (USVs).
+
+Reliable mission execution in the most demanding environment
+
+Gaining vital minutes and seconds to respond to ever changing maritime threats or even saving lives at sea, is exactly what the combined capabilities of the Schiebel CAMCOPTER® S-100 Unmanned Aerial System (UAS) provides with an integrated sensor suite consisting of Thales’s high-performance I-Master™ radar, the IAI POP®ULTRA EO/IR sensor pod and IFF.
+
+The S-100's sensors, supported by an Automatic Identification System and fused together with the CarteNav AIMS Mission System provides the operator the ability to detect and identify unknown targets quickly.
+
+I-Master can be operated in both Synthetic Aperture Radar (SAR) and Maritime Moving Target Indication (MMTI) modes and once it detects and finds a contact, the on board EO/IR sensor is cross-cued to perform the identification. High-definition imagery and radar data is downloaded to the human operator and disseminated in real time through the host ship’s Combat Management System and disseminated to multiple users.
+
+Extra reassurance in a time of increasing change
+
+The promotion of the mature and proven CAMCOPTER® S-100, with over 100,000 operating hours and an unrivalled formidable sensor suite, comes at a time when the need for definitive maritime surveillance against asymmetric threats is increasingly called upon to ensure safe operation in high tempo, high-risk areas around the world.
+
+A live flying demonstration and sensor suite trial of this maritime capability is planned within the next few months in UK airspace under CAA approvals along with a demonstration of full data integration into an existing representative ship Combat Management System architecture.
+
+This collaboration between Thales and Schiebel offers Navies a low risk, cost effective capability enhancement that will complement embarked manned aviation assets. The capability will contribute to a complex maritime picture informing littoral targeting and blue water strike operations while adding layered protection to individual vessels.
+
+About Schiebel S-100
+
+The S-100 has been delivering mission success for multiple customers around the world at sea and on land, by day and night and in adverse weather conditions. Over the last 15 years the Schiebel CAMCOPTER® S-100 rotary wing UAS has seen operation with over 25 customers and in the maritime domain has completed over 2,000 deck landings onto a wide variety of single-spot sea-going vessels.
+
+About Thales I-Master
+
+I-Master is in use with a number of customers around the world, including the British Army’s Watchkeeper TUAS. It gained its sea leg capabilities back in 2014 with the inclusion of enhanced Maritime Modes, comprehensively proving them during the Royal Navy’s Unmanned Warrior exercise in 2016.","{'label': 'Neutral', 'score': 0.8528891801834106}",neutral,0.8528891801834106,0
+"Thales appoints Gregory Ligny Vice-President, Africa - DIGITAL Business AFRICA","Tue, 22 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRpZ2l0YWxidXNpbmVzcy5hZnJpY2EvZW4vdGhhbGVzLWFwcG9pbnRzLWdyZWdvcnktbGlnbnktdmljZS1wcmVzaWRlbnQtYWZyaWNhL9IBWmh0dHBzOi8vd3d3LmRpZ2l0YWxidXNpbmVzcy5hZnJpY2EvZW4vdGhhbGVzLWFwcG9pbnRzLWdyZWdvcnktbGlnbnktdmljZS1wcmVzaWRlbnQtYWZyaWNhLw?oc=5&hl=en-US&gl=US&ceid=US:en,"[DIGITAL Business Africa] – Thales Group announced on June 22, 2021, in Paris the appointment of Gregory Ligny as Vice President Africa. In this role, Gregory Ligny will be responsible for the strategic growth of the Thales Group for the entire continent, with a clear focus on developing local partnerships and digital transformation.
+
+Gregory Ligny will lead Thales activities across the African continent, which include a growing number of strategic partnerships and projects in Defense & Security, Aerospace, Space, Digital Identity & Security and Transport
+
+“Gregory brings to this role a combined experience in Sales, project management and a solid understanding of the African market. Under his leadership, the Group will continue to accompany the continent’s vibrant growth”, said Pascale Sourisse, Senior Executive Vice President, International Development at Thales, in a statement.
+
+Prior to this appointment, Gregory was Chief Operating Officer of Thales AMEWA (Africa, Middle East, Western Asia including Saudi Arabia and India). He previously managed Key Industrial Partners for Thales Africa.
+
+Earlier in his career, he held key positions in sales, project development in Africa and overseas. Gregory holds an Executive MBA from HEC Paris and a Master’s degree in International Commerce.
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global leader in advanced technologies, investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum computing – to build a confident future crucial for the development of our societies.
+
+The Group provides its customers – businesses, organisations and governments – in the defence, aeronautics, space, transport, and digital identity and security domains with solutions, services and products that help them fulfil their critical role, consideration for the individual being the driving force behind all decisions.
+
+Thales has 81,000 employees in 68 countries. In 2020 the Group generated sales of €17 billion.
+
+Source : Thales Press Release
+
+Also read :
+
+Cameroun : les explications de Martin Mbarga sur les retards dans la CNI produite par la technologie du français Thalès
+
+Cameroun : l’ancien DG de Thales poursuivi dans le dossier des CNI informatisés
+
+Le français Thales s’exporte au Maroc","{'label': 'Neutral', 'score': 0.999506950378418}",neutral,0.999506950378418,0
+Ashish Saraf appointed Vice-President and Country Director of Thales India - The Indian Express,"Tue, 08 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvYnVzaW5lc3MvY29tcGFuaWVzL2FzaGlzaC1zYXJhZi1hcHBvaW50ZWQtdmljZS1wcmVzaWRlbnQtYW5kLWNvdW50cnktZGlyZWN0b3Itb2YtdGhhbGVzLWluZGlhLTczNDkyOTkv0gGNAWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9idXNpbmVzcy9jb21wYW5pZXMvYXNoaXNoLXNhcmFmLWFwcG9pbnRlZC12aWNlLXByZXNpZGVudC1hbmQtY291bnRyeS1kaXJlY3Rvci1vZi10aGFsZXMtaW5kaWEtNzM0OTI5OS9saXRlLw?oc=5&hl=en-US&gl=US&ceid=US:en,"French multinational defence and aerospace firm Thales on Monday appointed Ashish Saraf as Vice-President and Country Director for India with effect from June 1, 2021. He will lead the company’s India business and will be responsible for its strategic growth in the country across all of its markets, further strengthening local teams, collaborations and innovation, the company said in a statement.
+
+Saraf succeeds Emmanuel de Roquefeuil who takes up a new role as the VP and head for Thales in the Middle East.
+
+Prior to joining Thales, Saraf served as the president and head of region for Airbus Helicopters – India and South Asia where he led Airbus’ Helicopters’ sales, services, training, innovation, industrial partnerships and government relations functions across the civil, parapublic and military markets in the region.
+
+Advertisement
+
+He has also served as the vice-president and Make in India officer for Airbus, has headed the Tata–Sikorsky joint venture in Hyderabad and also worked with Deloitte Consulting and Dassault Systemes, mainly in the United States and Europe.
+
+Speaking on the occasion, Pascale Sourisse, Senior Executive Vice-President, Thales said, “I am pleased to welcome on board Ashish Saraf to the Thales Group, who joins us in extremely challenging COVID situation. Under his leadership, Thales will continue its decades-long partnership with our Indian stakeholders to support the country in this time of need, and once the pandemic behind us, contribute to India’s longer-term vision of building an ‘Atmanirbhar Bharat.”
+
+Saraf holds degrees in management and engineering from the University of London, Cornell University, Symbiosis Institute and NIT India. He has also served as a Board of Directors and Member of the Governing Council for Aviation and Aerospace Sector Skill Council (AASSC).
+
+“I thank Pascale for her confidence and I am very pleased to join Thales where I will apply all my experience and energy to serve our activities and staff in India. I would like to express our solidarity as the country bravely battles the ongoing coronavirus pandemic. We stand united with our employees, their families, our customers and the people at large, and look forward to overcoming this pandemic together,” Ashish Saraf said upon his appointment.","{'label': 'Neutral', 'score': 0.9999374151229858}",neutral,0.9999374151229858,0
+Thales and Atos create a sovereign Big Data and Artificial Intelligence platform – Intelligent CIO Europe - Intelligent CIO,"Wed, 02 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmludGVsbGlnZW50Y2lvLmNvbS9ldS8yMDIxLzA2LzAyL3RoYWxlcy1hbmQtYXRvcy1jcmVhdGUtYS1zb3ZlcmVpZ24tYmlnLWRhdGEtYW5kLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLXBsYXRmb3JtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Atos and Thales have announced the creation of Athea, a joint-venture that will develop a sovereign Big Data and Artificial Intelligence platform for public and private sector players in the defence, intelligence and internal state security communities. Athea will draw on the experience gained by both companies from the demonstration phase of the ARTEMIS programme, the Big Data platform of the French Ministry of Armed Forces. The contract to optimise and prepare the full-scale roll-out of the ARTEMIS platform was also awarded jointly to the two leaders by the French Defence Procurement Agency on April 30, 2021. The new joint venture will initially serve the French market before addressing European requirements at a later date.
+
+With the exponential rise in the number of sources of information and increased pressure to respond more quickly to potential issues, state agencies need to manage ever-greater volumes of heterogeneous data and accelerate the development of new AI applications where security and sovereignty are key. Athea will create a solution to securely handle sensitive data on a nationwide scale and support the implementation of that solution within government programmes. The new entity will also provide expert appraisal, consulting, training and other services.
+
+The joint venture will pool the companies’ investments, expertise and experience to respond quickly and efficiently to demand for innovation. Athea will work with an ecosystem of large companies, SMEs, start-ups and research institutes specialising in Big Data and Artificial Intelligence. In conjunction with the recently created Defence Digital Agency, the joint entity will also provide secure solutions and open and modular technological building blocks, which encourage collaboration and stimulate the industrial and sovereign ecosystem, in order to support the development of trusted applications.
+
+“This joint venture between Thales and Atos illustrates the commitment of both our companies to supporting the Digital Transformation of our customers by providing a secure and innovative solution based on French technology to process huge volumes of heterogeneous data. Together, we will capitalise on our respective areas of expertise to provide best-in-class Big Data and Artificial Intelligence solutions,” said Marc Darmon, Executive Vice President, Secure Communications and Information Systems, Thales.
+
+“Sensitive data capabilities have become a sovereignty issue for State agencies. By combining the expertise of two major players in defence and digital technologies with the flexibility of a dedicated entity, Athea will generate huge potential for innovation and stimulate the industrial and defence ecosystem, including innovative start-ups, to meet the needs of government agencies and other stakeholders in the sector. This new joint venture between Atos and Thales is an opportunity to combine a comprehensive understanding of the defence and security issues faced by European States with access to the latest innovations in Big Data and Artificial Intelligence,” said Pierre Barnabé, Senior Executive Vice President, Big Data and Cybersecurity, Atos.
+
+Click below to share this article","{'label': 'Positive', 'score': 0.8684325814247131}",positive,0.8684325814247131,1
+"The people behind the power – meet Jim Bennett, QEC programme director at Thales - Thales","Tue, 15 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3Blb3BsZS1iZWhpbmQtcG93ZXItbWVldC1qaW0tYmVubmV0dC1xZWMtcHJvZ3JhbW1lLWRpcmVjdG9yLXRoYWxlc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The people behind the power – meet Jim Bennett, QEC programme director at Thales Queen Elizabeth Class (QEC) Share this article
+
+
+
+LinkedIn
+
+HMS Queen Elizabeth is undoubtedly a formidable proposition. But imagine the forbidding challenge laid down to a Thales-led team at the start of the ship build to deliver and integrate the vast and complex power and propulsion systems without interrupting the build of the carrier.
+
+That’s diesel and gas turbine generators, propulsion drives, shaft lines and propellers, high voltage switchboards and many smaller pieces of equipment – kit ranging from 20kg to 200 tonnes. Imagine a complex, time critical engineering challenge inside what was already a ground-breaking ship build in its own right.
+
+Step forward the Power and Propulsion Sub Alliance, where Thales worked alongside Rolls-Royce, L-3 and GE Energy in an innovative partnership to deliver the two aircraft carriers P and P Systems to budget and within schedule.
+
+The team was led by Jim Bennett, current QEC programme director, who said: “The challenge for my team was immense as much of our work was critical to the wider build schedule. We had what we call lockout items – things like the engines and propulsion motors, which had to be installed early and the ship literally built around them – if they were delayed, so was the whole ship build schedule.”
+
+Based out of Bristol’s Building 550, the sub alliance team worked alongside the wider Aircraft Carrier Alliance in what was a real rainbow alliance which went on to win a number of awards for engineering excellence and team working.
+
+Jim said: “It was a mix of industry, MoD, DE&S and Royal Navy personnel. We had people from Thales, BAES, Rolls Royce, GE, L-3, and BMT plus a myriad of contractors and of course the customers embedded staff. You didn’t know who was from where, but it didn’t really matter as we acted as one team.”
+
+“Thales Building 550 was the epicentre for the design of a carrier on a scale the UK had never seen before. Credit to the MOD – creating an alliance was a masterstroke. Someone said the alliance worked because no one company had all the skills and capability to deliver a project of this size. So we said, ok, we’re now one team with a clear objective, to deliver the most capable and impressive pair of aircraft carriers to the Royal Navy.”
+
+“It worked because we had a clean sheet of paper to start with, a clear solution and a known aircraft type. We brought in experts and most importantly, they largely stayed for the duration, so we had continuity. We were also led by the original QEC Programme Director John Ward, an ex-Navy Aviator who understood the customer.”
+
+The strategy of bringing in experts worked with Jim who, before Thales, was a leading engineering expert with P&O and the cruise industry.
+
+He said: “Working with cruise ship power and propulsion for two decades was a positive experience to bring to the carriers. Two of the many ships I worked with were Diamond Princess and Grand Princess, both cutting edge in terms of design. A cruise ship has to be quiet, economical and reliable and there were certainly benefits of concept and design that could be transferred to warships.
+
+“Cruise ships also tend to use Integrated Electric Propulsion (IEP), an innovative system where all the ship’s engines produce electrical energy rather than driving the shafts. This gives you the critical flexibility to position your power systems around the ship which are connected by cables.
+
+“It’s no coincidence that HMS Queen Elizabeth and HMS Prince of Wales are the largest warships in the world to be powered by IEP and, for their size, they are impressively quiet. The propulsion system is highly advanced and very resilient and the power generation/distribution is spread across four locations, designed to maximise availability and minimise intrusion to the hangar and flight deck.
+
+“That was an amazing moment when we turned on the ships’ engines for the first time. It was late autumn 2015 in a very cold Rosyth. I was very fortunate to be at the Sea Trials of HMS Queen Elizabeth, some fifty days of tests and trials across the many ships systems, but it went surprisingly well for such a unique first of class. As the trials completed, it was an immensely proud moment (and quite an emotional one) as she sailed into Portsmouth Harbour for the very first time.
+
+“To see and feel HMS Queen Elizabeth underway was amazing - it brought it home just how innovative the ship is – the Thales design, the twin islands, the many innovative features of a vessel designed around an aircraft (F-35b) and the high levels of automation being appreciated by the Ships Staff. Because of the clever design and technology, the ship’s company is less than 800 compared to other navies with similar sized ships with crews of 2,000 or more.
+
+“It’s been a huge highlight in my career and I think all of us take a genuine pride that CSG21 is now going to give a lot of people around the world the opportunity to see what a fantastic ship HMS Queen Elizabeth is.”","{'label': 'Neutral', 'score': 0.9957703948020935}",neutral,0.9957703948020935,0
+Thales appoints Ashish Saraf as Vice-President and Country Director for India - The Economic Times,"Mon, 07 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9kZWZlbmNlL3RoYWxlcy1hcHBvaW50cy1hc2hpc2gtc2FyYWYtYXMtdmljZS1wcmVzaWRlbnQtYW5kLWNvdW50cnktZGlyZWN0b3ItZm9yLWluZGlhL2FydGljbGVzaG93LzgzMzA0NDMxLmNtc9IBkwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9kZWZlbmNlL3RoYWxlcy1hcHBvaW50cy1hc2hpc2gtc2FyYWYtYXMtdmljZS1wcmVzaWRlbnQtYW5kLWNvdW50cnktZGlyZWN0b3ItZm9yLWluZGlhL2FtcF9hcnRpY2xlc2hvdy84MzMwNDQzMS5jbXM?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+French defence and aerospace group Thales on Monday announced the appointment of Ashish Saraf as Vice-President and Country Director for India with effect from June 1, 2021.In this role, Saraf will lead the company's India business and will be responsible for the strategic growth of Thales in the country across all of its markets, further strengthening local teams, collaborations and innovation, it said.He succeeds Emmanuel de Roquefeuil who takes up a new role as the VP and head for Thales in the Middle East , a Thales statement said.Prior to joining Thales, Saraf served as the President and Head of Region for Airbus Helicopters - India and South Asia where he led Airbus' Helicopters' Sales, Services, Training, Innovation, Industrial Partnerships and Government Relations functions across the Civil, Parapublic and Military markets in the region.He has also served as the Vice-President and Make in India Officer for Airbus, has headed the TataSikorsky joint venture in Hyderabad and also worked with Deloitte Consulting and Dassault Systemes , mainly in the United States and Europe, the statement said.","{'label': 'Neutral', 'score': 0.9999408721923828}",neutral,0.9999408721923828,0
+Reaching the PEEK in additive manufacturing - TCT Magazine,"Fri, 18 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRjdG1hZ2F6aW5lLmNvbS9hZGRpdGl2ZS1tYW51ZmFjdHVyaW5nLTNkLXByaW50aW5nLWluZHVzdHJ5LWluc2lnaHRzL3JlYWNoaW5nLXRoZS1wZWVrLWluLWFkZGl0aXZlLW1hbnVmYWN0dXJpbmcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"AUTHORS:
+
+Richard Davies1, Paul McCutchion1, Farhan Khan2, Hoda Amel2, Philip O’Gara3,Yaan Liu1, Oana Ghita1
+
+1Centre for Additive Layer Manufacturing (CALM), University of Exeter, North Park Road, EX4 4QF
+
+2Manufacturing Technology Centre (MTC) Ansty Park, Coventry, CV7 9JU
+
+3Thales Underwater Systems, Ocean House, Throop Road, Templecombe, Somerset, BA8 0DH
+
+The Centre for Additive Layer Manufacturing (CALM) at the University of Exeter has recently worked with the Manufacturing Technology Centre (MTC) and Thales UK, to showcase how Additive Manufacturing (AM) can be used with high performance polymers such as PEEK, to produce production parts for high value applications.
+
+In recent years there has been rapid developments in the sector in terms of both equipment and materials. However, the challenge in identification of suitable applications still exists, together with a gap in knowledge for how best to approach building these components.
+
+This case study attempts to showcase some of the steps required, whilst providing a brief overview of the technologies available.
+
+Industry Developments – Additive Manufacturing with High-Temperature Polymers
+
+High-temperature polymeric additive manufacturing was first introduced onto the market more than 10 years ago through both EOS GmbH with its EOS P 800 powder bed system and HP3 PEK material, and Ultem materials on Stratasys’ material extrusion (MEX) technology, more commonly known as FDMTM (Fused Deposition Modelling) or FFF (Fused Filament Fabrication). Recently polymeric additive manufacturing, or 3D printing, has seen a significant growth in high performance polymers with Poly Aryl Ether Ketone (PAEK) materials and new equipment coming to market, reflected in a significant increase in PAEK business opportunities as shown below.
+
+× Expand Report adapted from SmarTech Publishing predicts significant business opportunities for those working with PAEK polymers in additive manufacturing over the next ten years, expected to account for approximately 19% of total polymer 3D print material revenues by 2026.
+
+Challenges – Since their introduction, a number of challenges were identified that restricted the growth of the sector, which for the powder bed process included the high cost in machine and materials, powder recycling issues and thermal stability of the system2-3. Significant progress has been made but, although this specialist AM area is growing and has seen investments from material and equipment manufacturers, it is still to fully deliver on its expectations with limited actual parts and industrial case studies published.
+
+Case Study: Redesign of a High-Performance Cable Guide and Conduit using AM
+
+This EPSRC funded project was carried out through a collaboration between 3 organisations:
+
+CALM – a UK leading research centre for high-performance polymeric AM, at the University of Exeter
+
+The MTC – an independent research and technology organisation established to develop and prove innovative manufacturing processes and technologies in partnership with industry, academia and other institutions.
+
+Thales UK – Thales provides world-leading electronic solutions for defence applications across air, sea and land. This project worked with its UK underwater systems team, a global leader and world’s top exporter of sonars and related systems for naval forces.
+
+It was initiated following CALM and the MTC signing a Memorandum of Understanding (MOU) in 2019 to work together on high temperature polymers with AM, which led to Professor Oana Ghita becoming the MTC’s researcher in residence for polymeric AM, funded by the Research Councils UK (RCUK). The two organisations joined forces as part of this programme, to embark on searching for prime applications. A partner of both organisations was Thales, with Thales particularly keen to establish how the technology could be beneficial for production parts, having previously used AM techniques in prototype applications. Through discussions the team was able to identify a suitable product to investigate, a cable guide and conduit for optical fibres employed in one of Thales’ underwater systems. From this, all partners worked together to develop a new design, before printing the part in Exeter’s EOS P 800 system, using PEEK material.
+
+Previous cable guides were metallic components of simple design as they were routing conventional copper conductors. The use of optical fibres required a more complex geometry to protect the fibres. Thales designed a single-part assembly that would utilise Victrex 450 PEEK (for corrosion control) and incorporated an internal S-channel to guide the fibres from the underside and out through the cage structure. However, this structure could not be achieved through conventional manufacturing routes, which necessitated the use of a four-part assembly to achieve the same result with the follow-on increase in part count and increased assembly operations.
+
+× Expand Integrated machined Cable Guide and Conduit (a) side view and (b) side view with internal features.
+
+× Expand The four pieces bracket connector assembly: exploded view (left), assembled (right).
+
+The cable guide (cable input) connects to a cylindrical housing which protects the hardware for taking signals out of an array as seen below.
+
+× Expand Visualisation of the cable guide (grey) and connecting cylindrical housing (green).
+
+It was expected that AM could further enhance the product (e.g. reduce mass), whilst also providing improvements to the manufacturing, such as reducing material waste and assembly time. Another incentive in exploring additive manufacturing is the low number of parts required per year (in low hundreds). AM offered an improved manufacturing process with the option of using the same grade of material.
+
+The R&D Process
+
+The R&D process followed included:
+
+× Expand The R&D process followed.
+
+Review of requirements
+
+The component had two key features which needed to be maintained:
+
+The internal channel, of defined radius and suitable finish to guide the cabling through, and the cage dimensions incorporating an O-ring seal. The component is required to resist pressure (20 MPa bulk compressive strength), have good water resistance (no porosity or porous structures) and achieve a finish of 0.8 µm Ra (at the O-ring seal face) to allow good adhesion during additional process steps which includes over-moulding with elastomeric polyurethane (PU).
+
+Technology and material review
+
+The two additive manufacturing polymer-based technologies available at CALM, in Exeter, are Powder Bed Fusion (PBF) and Material Extrusion (MEX). The PBF system was selected for this project as the inherent porosity of the parts produced by the MEX technology was not considered a viable option, although developments in this area may provide opportunities in future. For example, amongst the extrusion-based technologies, Bond 3D (Enschede, Netherlands) is developing a system that may be able to deliver virtually void-free PEEK parts4. The use of PBF was also an opportunity for the Thales engineers to understand the design and manufacturing constraints of this process with high performance polymers, a less accessible technology in the UK and Europe than the MEX technology.
+
+The EOS P 800 high-temperature system was selected for the process. This uses a CO 2 laser that can run at temperatures up to 385 °C5. The PBF process is complex and there are less manufacturers available in this space than MEX. EOS and Farsoon (Stuttgart, Germany) are the main high temperature PBF manufacturers, with Farsoon able to achieve high temperatures up to 280°C for PA6, PA66 and PEI with their PBF powder bed fusion process (ST252P system)7. EOS has also recently launched an upgraded system, the EOS P 810, which is suitable for serial production of composite materials8 based on HT23, a carbon fibre reinforced PEKK grade.
+
+Materials - Initially the EOS P 800 was launched for use with EOS HP3 PEK, a powder specifically designed for use in the machine9 and it was the only commercial grade available worldwide. Since then, other materials have been made available from material suppliers. In this particular case study, Victrex PEEK 45010 has been used in powder form. Although not a commercial laser sintering grade, PEEK 450 has been qualified for use in Thales and therefore it is a material well understood by the material engineers and so was selected for both comparison purposes and for ease of integration into the organisation. However, it is accepted that other materials, including alternative materials from Victrex, may provide some improvements in performance. The CALM team also has hands-on experience of PBF with 450 PEEK and this knowledge helped optimise both the design and manufacturing process, with previous work carried out at Exeter providing the necessary input property data required for the redesign and optimisation11.
+
+Initial design review & 1st design iteration
+
+The use of Additive Manufacturing enables conventional manufacturing design constraints such as the constant wall thickness, sharp corners (internal or external) or internal ducts to be removed, with designers able to explore new concepts. The 1st redesign step started by following standard design guidelines and comparing different design concepts based on: 1) FEA/topology; 2) internal lattice; 3) external lattice; 4) surface lattice; 5) cage compliance redesign and 6) tube thinning, in relation to a number of factors. These included redesign lead time, technology readiness level (TRL), the buildability in PEEK PBF and the ability to demonstrate AM capabilities such as freeform design and light weighting.
+
+The part was optimised for maximum stiffness subject to a reduced volume fraction. This was based on an initial assumed pull loading on the cage section. The results showed more than 30% mass reduction. The topology results were then modified using NUBRS (Non-Uniform Rational Basis Spline) modelling in order to achieve a smooth geometry.
+
+A selection of designs was presented with some designs discounted for a number of reasons. E.g. internal lattice structures would cause difficulty in post process powder removal and external lattice structures would cause contaminated in use due to open cells. Following FEA and topology optimisation, concept 1 was selected. Combining the results of the FEA with the topology optimised, the 1st redesign is shown below.
+
+× Expand 1st redesign at different angles. Topology optimised based on the FEA analysis.
+
+Design for the AM process
+
+The next step was for the collaboration to work together to optimise the design for manufacturing, taking into account requirements for printing on the P 800 system with a number of design considerations and optimisation steps taken including:
+
+Post-processing considered – e.g. avoiding small gaps or air pockets for PU coating, powder removal and machining processes (2 mm machining stock).
+
+Material properties and powder bed density.
+
+Nesting arrangement of the parts to avoid excess heating of surrounding powders/adjacent parts generated during building.
+
+Presence of thick walls to be reduced and optimised – The thickness of some regions such as the back-plate were more than 10 mm, which can be a concern for the PEEK PBF process due to thermal distortion. As such the back-plate was thinned and the wall thickness of the component optimised.
+
+The back-plate was modified to allow four connection points.
+
+Three variants were shortlisted after further optimisation for the powder bed process as shown below.
+
+× Expand Three variants after further optimisation for AM process: Variant 1 – topology optimised with original cage and original features on the back-plate; Variant 2 – topology optimised without cage and four fixture points on the back-plate and engraved logos; Variant 3 – topology optimised without cage, four fixture points and split back-plate.
+
+Printing of the test parts
+
+The variant parts were then printed at Exeter, using the EOS P 800 PBF system in the 50% reduced chamber configuration, to reduce material consumption. Four parts with four different designs were printed simultaneously for evaluation, in 60 hours manufacturing time from start to finish. This included powder loading, printing, cooling down, powder removal and cleaning.
+
+The image above shows the three variant parts that were printed. The image below shows the printing process and powder removal process.
+
+× Expand (a) Parts set up within build volume; (b) EOS P800 system powder bed in the building chamber and laser scanning during the PBF process operating in reduced build more; (c) powder cake after PBF process and printed parts were removed from the powder cake.
+
+2nd design iteration, optimisation and distortion compensation
+
+The parts were scanned at the MTC to determine deviation from the original design and any shrinkage/warpage incurred during the process. The scanner used for the parts was a GOM ATOS Tipple Scan which is a 3D blue structured light scanner. It uses reference points on the part for alignment to connect multiple scans together to create mesh data. The MTC has a range of equipment for tactile and optical measurement of parts for dimensional and surface metrology along with X-ray computed tomography (XCT) for non-destructive testing (NDT).
+
+Due to the thermal distortion resulting from the AM process, two methods of pre-distorting the new CAD designs were attempted: a) Capturing 3D scan of the printed part and applying pre-distortion based on the deviation from the CAD model and b) Exploring pre-distortion using Hexagon’s Digimat software12. As an example, the image below shows deviations larger than 1mm of Variant 1.
+
+× Expand Printed part (Variant 1) distortion plot (best fit) against CAD model, achieved by superimposing 3D scanned model with its CAD model.
+
+In the 2nd design concept, further modifications were suggested by the CALM and MTC teams to continue to optimise parts for manufacturing and compensate for additional shrinkage and distortion. The quality of the models was affected by several factors such as starting scan or mesh resolution, size of features and sharpness of corners. Some loss of features was experience in both methods as shown below.
+
+× Expand Exported distorted and distortion compensated geometries from Digimat for a scale factor of 1.
+
+Printing of the 2nd design iteration
+
+The second design with further optimisation was then printed again by the CALM team, using the same grade of material Victrex PEEK 450 and EOS P 800 system as shown below.
+
+× Expand Second redesign: printed Cable Guide & Conduit (compensated).
+
+The back plate surface connecting to the baseplate showed differences in finish and slight subtle irregularities on the surface due to missing areas and defects created during the transfer of the scan model to the compensated model (see below).
+
+× Expand Second redesigned compensated Cable Guide & Conduit printed via PBF process using the compensated geometry.
+
+Case Study Evaluation
+
+This case study contributes towards the evaluation of high performance polymeric AM technologies within Thales, guiding engineers in their choice of materials and AM processes and will help define the next generation of products and manufacturing processes.
+
+The final parts were inspected by the Thales team and they confirmed the expected benefits had been successfully realised, including 1) elimination of the assembly stage – the original design was based on four parts and, 2) reshaping of the original duct into two distinct channels which allowed the creation of a lighter part with less material wastage. The conduit was successfully attached to the additional parts within the complete system, with the internal finish of the channel providing a satisfactory surface finish for the application. The component’ back plate skins will follow a machining post-process to match the tolerances required in this application.
+
+Dr Philip O’Gara, materials engineer at Thales explained that “It is not easy to evaluate the powder bed fusion process for high performance polymers in the UK. High performance polymeric AM in general is still emerging, and collaborations with experts in these areas at CALM and the MTC allows organisations such as Thales to stay at the forefront of knowledge and application developments. Such collaborations are also important to develop the skills of our design engineers”
+
+The study was carried out using Victrex 450PEEK grade, a well know PEEK grade used extensively for machining, as well as injection and compression moulding, but not optimised for AM. This provided a good comparison for Thales with a material grade used by the teams and well understood. However, as the range of AM materials is growing and new PAEK grades are being developed, this case study and new ones will continue to explore optimum alternative material grades for specific applications, which will further aid manufacture and product performance.
+
+Prof Ghita at the University of Exeter added, “This has been a great chance to collaborate with both the MTC and Thales to demonstrate the opportunity that exists within this growing sector of Additive Manufacturing.”
+
+Dr Hoda Amel, Senior Research Engineer at the MTC also added, “Projects that bring experts and end users together are key in showcasing the potentials of AM. We at the MTC are keen to support industry in their AM journey with our in-house expertise or through collaborations with our partners”.
+
+Collaborative research is ongoing to further expand the range of materials and processes available, whilst optimising them for emerging applications. If you would like to find out more about this EPSRC funded case study, or about the capabilities at CALM or the MTC please contact calm@exeter.ac.uk or ncam@the-mtc.org.
+
+References
+
+1. Wade, M. SmarTech Publishing Research Note: How PEEK and PEKK Are Expected to Become the Most Profitable Segment in AM of Advanced Thermoplastics; 2017.
+
+2. Yi, N.; Davies, R.; Chaplin, A.; McCutchion, P.; Ghita, O., Slow and fast crystallising poly aryl ether ketones (PAEKs) in 3D printing: Crystallisation kinetics, morphology, and mechanical properties. Additive Manufacturing 2021, 39, 101843.
+
+3. Berretta, S.; Evans, K. E.; Ghita, O. R., Predicting processing parameters in high temperature laser sintering (HT-LS) from powder properties. Materials & Design 2016, 105, 301-314.
+
+4. Jackson, B. VICTREX TO INVEST MILLIONS TO EXPAND PAEK 3D PRINTING WITH BOND 3D. https://3dprintingindustry.com/news/victrex-to-invest-millions-to-expand-paek-3d-printing-with-bond-3d-151083/; 2019.
+
+5. Hoskins, T.; Dearn, K.; Kukureka, S., Mechanical performance of PEEK produced by additive manufacturing. Polymer Testing 2018, 70, 511-519.
+
+6. Sher, D. Everything about today’s PEEK ad PEKK 3D printing market - And why advanced plastics are the key to production parts https://www.3dprintingmedia.network/everything-about-peek-3d-printing/.
+
+7. Technologies, F. Farsoon Technologies http://en.farsoon.com/solution_list01_detail/productId=27.html.
+
+8. Galantucci, L. M.; Guerra, M. G.; Dassisti, M.; Lavecchia, F. In Additive Manufacturing: New Trends in the 4th Industrial Revolution, Proceedings of the 4th International Conference on the Industry 4.0 Model for Advanced Manufacturing, Cham, 2019; Monostori, L.; Majstorovic, V. D.; Hu, S. J.; Djurdjanovic, D., Eds. Springer International Publishing: Cham, 2019; pp 153-169.
+
+9. Beard, M.; Ghita, O.; Bradbury, J.; Flint, S.; Evans, K., Material characterisation of additive manufacturing components made from a polyetherketone (PEK) high temperature thermoplastic polymer. Innovative Developments in Virtual and Physical Prototyping 2011, 329-332.
+
+10. Victrex, VICTREX® PEEK 450PF data sheet. Avaiable: https://www.victrex.com/~/media/datasheets/victrex_tds_450pf.pdf. 2018.
+
+11. Berretta, S.; Evans, K. E.; Ghita, O., Processability of PEEK, a new polymer for High Temperature Laser Sintering (HT-LS). European Polymer Journal 2015, 68, 243-266.
+
+12. https://www.e-xstream.com/products/digimat/about-digimat","{'label': 'Neutral', 'score': 0.943260908126831}",neutral,0.943260908126831,0
+Thales to equip F110 frigate with Tuum-6 underwater communication system - Navy Recognition,"Tue, 22 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMioQFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlLzIwMjEvanVuZS8xMDM1My10aGFsZXMtdG8tZXF1aXAtZjExMC1mcmlnYXRlLXdpdGgtdHV1bS02LXVuZGVyd2F0ZXItY29tbXVuaWNhdGlvbi1zeXN0ZW0uaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"According to a press release published by Thales on June 16, 2021, the firm has started production of the TUUM-6 underwater communication system, one of the components of the Group’s integrated suite of sonars and acoustic systems, in Spain. According to the contract signed in December 2019, Thales will provide the system for the Spanish navy’s five new F110 frigates.
+
+Follow Navy Recognition on Google News at this link
+
+F-110 Frigate scale model on display at SNA 2017 (Picture source: Navyrecognition)
+
+Charged with supplying the TUUM-6 underwater digital communication system, Thales’ Spanish industrial subsidiary has begun to produce the underwater telephone with which the company has become the benchmark in the naval sector at the international level. Thanks to this development, the Spanish navy will be equipped with an underwater communication capacity produced in Spain for its new F110 frigates.
+
+The contract, the transfer of know-how from the parent company and the start-up of production of the TUUM-6 represent a milestone in the history of Thales and represent a clear demonstration of the company's commitment to increasing industrial production in Spain. So, it provides the country with new industrial capacities in the near future, with all that this implies for the Spanish labour market and industrial fabric.
+
+TUUM-6 production start-up will also directly affect the Thales Production and Maintenance Centre in Leganés, Madrid, which is currently in the process of transformation to industry 4.0 capability. The facility could become the production core for exportable communications systems around the world over the next few years.
+
+The TUUM-6 is the first naval system produced at Thales Leganés, where it complements the current production of the DKU aeronautical unit for NH-90 helicopters and various military radio communications devices for the Army.
+
+The F110 class also known as the Bonifaz class is a multi-purpose, anti-submarine class of Aegis combat system-fitted heavy frigates under development for the Spanish Navy. The project is being co-developed by the Spanish Ministry of Defence and the state-owned company Navantia. The construction of the frigates is to begin by 2020 and is scheduled to be delivered between 2023 and 2027.
+
+The frigates will be equipped with a Spanish combat system, SCOMBA, developed by Navantia. This system acts as the vessel’s brain and integrates all the frigate’s sensors and weapons, such as surface sensors, EW and IFF supplied by Indra, Band S radar and Lockheed Martin vertical launcher, AAW – SM-2 from Raytheon, the antisubmarine warfare systems and SAES sonars but also the navigation and communications systems from Navantia Sistemas.","{'label': 'Neutral', 'score': 0.9999803304672241}",neutral,0.9999803304672241,0
+Global eSIM Management Platform Deployments Double Annually - Counterpoint - Counterpoint Research,"Thu, 17 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNvdW50ZXJwb2ludHJlc2VhcmNoLmNvbS9pbnNpZ2h0cy9nbG9iYWwtZXNpbS1tYW5hZ2VtZW50LXBsYXRmb3JtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"· Thales, G+D and IDEMIA continue to lead this segment with a combined 80% share.
+
+· Around one in five smartphones sold globally in Q1 2021 was eSIM capable.
+
+Seoul, Hong Kong, New Delhi, Beijing, London, Buenos Aires, Boston, June 17, 2021
+
+Global eSIM management platform deployments continue to rise as operators look to support eSIM capabilities in connected devices. The GSMA accredited eSIM management platform deployments, both for M2M/IoT (SM-DP) and consumer (SM-DP+) applications, by mobile operators almost doubled annually in Q1 2021, according to the latest research from Counterpoint’s ETO (Emerging Technology Opportunities) service. The rising adoption of eSIM technology by OEMs across smartphone, smartwatch, automotive and other IoT devices has driven the need for MNOs and MVNOs to offer remote provisioning services by deploying secure eSIM management platforms.
+
+Globally, there are more than 15 GSMA accredited eSIM management platform suppliers. Thales leads this segment, capturing 40% of the platform deployments by the end of Q1 2021. Thales has been leading the market since 2018, followed by Giesecke+Devrient and IDEMIA.
+
+Commenting on the market dynamics, Vice President of Research Neil Shah said, “The dominance of Thales, G+D and IDEMIA in this segment can be attributed to multiple factors. These companies have been supplying hundreds of millions of traditional SIM cards per year for decades and have strong relationships with the global MNOs/MVNOs. They further drove the eSIM evolution by contributing within the standard bodies such as GSMA and 3GPP to help develop and standardize the eSIM technology right from enablement to management. This has given these companies an early mover advantage to capture the lion’s share of the market.
+
+While Thales, G+D and IDEMIA have raced ahead tapping the early adopters, they will face competition from new entrants such as 1OT Tech, Truphone, Kigen, Workz, Ericsson and Netlync for hundreds of Tier-2 and long-tail mobile operators for consumer, roaming and IoT applications. These companies have either developed their own management platform or are partnering with the bigger players to resell and bundle with other solutions and services such as Entitlement Servers, rapid BSS/OSS integration, more intuitive GUI and other provisioning tools.”
+
+Source: Counterpoint’s Global eSIM Management Deployment Tracker, Q1 2021
+
+Moving forward, we believe faster time-to-market, flexible services and a modular eSIM platform architecture will be the key for eSIM platform suppliers to grow further. Also, the eSIM platform in the cloud will play a key role in the coming years in effectively scaling the eSIM platforms globally. The eSIM platform suppliers should also be ready to capabilities such as Entitlement, Discovery and others in a cost-effective manner. Support for iSIM will be important in the coming years to drive relatively lower-cost and lower footprint deployment of eSIM technology.
+
+Commenting on the future outlook, Research Analyst Ankit Malhotra said, “The requirement of eSIM management platforms is poised to grow in the coming years with over 6 billion eSIM capable devices expected to be cumulatively shipped over the next five years. In the coming quarters, we will see high demand for eSIM management platforms led by growing shipments of eSIM supported consumer devices such as smartphones and smartwatches.”
+
+Malhotra added, “Around 20% of the smartphones sold in Q1 2021 were eSIM capable, led by Apple. Similarly, close to 14% of the smartwatches shipped in Q1 2021 were eSIM capable. The eSIM penetration in the IoT market is growing steadily as well. The market will also see a push from the eSIM-based roaming segment, which is expected to pick up in the second half of 2021 with the lifting of travel restrictions.”
+
+The comprehensive tracker on “Global eSIM Management Deployment Tracker: Q1 2021” is part of Counterpoint ETO Service.
+
+Background:
+
+Counterpoint Technology Market Research is a global research firm specializing in products in the TMT (technology, media, and telecom) industry. It services major technology and financial firms with a mix of monthly reports, customized projects, and detailed analyses of the mobile and technology markets. Its key analysts are seasoned experts in the high-tech industry.
+
+Analyst Contacts:
+
+Ankit Malhotra
+
+
+
+Neil Shah
+
+
+
+Counterpoint Research
+
+press(at)counterpointresearch.com
+
+
+
+Related Posts","{'label': 'Positive', 'score': 0.9996633529663086}",positive,0.9996633529663086,1
+From the Magazine: THALES AUSTRALIA CEO CHRIS JENKINS IN DISCUSSION WITH APDR - APDR - Asia Pacific Defence Reporter,"Sun, 06 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2Zyb20tdGhlLW1hZ2F6aW5lLXRoYWxlcy1hdXN0cmFsaWEtY2VvLWNocmlzLWplbmtpbnMtaW4tZGlzY3Vzc2lvbi13aXRoLWFwZHIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"APDR Editor Kym Bergmann is one on one
+
+with Thales Australia CEO Chris Jenkins.
+
+Kym Bergmann: Before we get to individual projects, what are your views on the sovereign capability and the importance to national security?
+
+Chris Jenkins: The strategic landscape that is often highlighted in speeches by senior analysts is changing – and changing quickly, especially in recent times. The Government is responding to that in the right way, as is Defence – and Australian industry needs to be part of the same shift. The policy settings that have been put forward are adapting to this new environment.
+
+We could keep doing the same things based on the past landscape and fail to adapt, which would be a strategic risk. The new direction set by Government and the changed Defence processes to match – changes by the way that require an effort to make – are good things and essential for national security. These changes are real, not imaginary – and they are essential.
+
+Changes that are taking place are not just in defence but in related fields of critical infrastructure, secure communications and the digital world of information management and exchange – all of these are vitally important. The way that the changes in policy have been designed to enhance sovereign capability and national resilience are really important for our country.
+
+The Government and Defence should be recognised for having made those decisions.
+
+For those of us who have been in the sector for a while, we have seen global crises before where there have been rapid, agile responses to changing circumstances by Government and the Defence sector. I think Australia actually responds very well to emergencies. We are a country that in a time of need takes decisions and responds uniformly to tackle problems quickly.
+
+We saw after 9/11 when Australia deployed to the Middle East. The Government responded to a need, as did Defence and industry with quite short timelines. We saw a period were decisions and actions were based on the need for capabilities and outcomes. Process was adapted to speed up capability delivery.
+
+Last year with Covid-19 we were quickly into a human crisis that significantly impacted global supply chains. The factors that became clear were that supply chains for strategically critical capabilities do not always work as intended – just when you most need them to function effectively.
+
+The strengthening of policy regarding sovereign capability aimed at a higher degree of self-reliance by securing more supply chains is a really, really good response to what has occurred. As a result, we will be more resilient – and that’s the right path. It’s good for the defence of Australia, as well as for defence industry – and the economy more generally.
+
+The work that is done in defence technology has a massive by-product. There is a collateral benefit for the entire country because of the amount of engineering, science and technology involved. The sector sees the development of skills and provides growth paths for very talented people. These are all good for Australia.
+
+To read the whole story in APDR, click here.","{'label': 'Neutral', 'score': 0.9993346333503723}",neutral,0.9993346333503723,0
+Two French companies in race to supply 12 million smart cards for National ID programme - The Kathmandu Post,"Fri, 11 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMihQFodHRwczovL2thdGhtYW5kdXBvc3QuY29tL25hdGlvbmFsLzIwMjEvMDYvMTEvdHdvLWZyZW5jaC1jb21wYW5pZXMtaW4tcmFjZS10by1zdXBwbHktMTItbWlsbGlvbi1zbWFydC1jYXJkcy1mb3ItbmF0aW9uYWwtaWQtcHJvZ3JhbW1l0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Prithvi Man Shrestha is a political reporter for The Kathmandu Post, covering the governance-related issues including corruption and irregularities in the government machinery. Before joining The Kathmandu Post in 2009, he worked at nepalnews.com and Rising Nepal primarily covering the issues of political and economic affairs for three years.","{'label': 'Neutral', 'score': 0.9997510313987732}",neutral,0.9997510313987732,0
+"Activists protest Australia's role in arms trade, human rights abuses - Green Left","Wed, 02 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdyZWVubGVmdC5vcmcuYXUvY29udGVudC9hY3RpdmlzdHMtcHJvdGVzdC1hdXN0cmFsaWFzLXJvbGUtYXJtcy10cmFkZS1odW1hbi1yaWdodHMtYWJ1c2Vz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Residents gathered on June 3 at the site of two of the world’s biggest arms dealers — Thales and BAE Systems — to protest the global arms trade.
+
+The Don’t Export Terror to West Papua action was organised as part of the Disrupt Land Forces protests in Brisbane. Activists expressed their solidarity with West Papuans and all communities being torn apart by the global arms trade.
+
+Thales and BAE Systems supply of armed vehicles and fighter-bomber jets to the Indonesian military and its special forces unit Kopassus, that is implicated in the torture and murder of West Papuan human rights defenders and civilians.
+
+Thales is reported to have supplied armed Bushmaster Infantry Mobility Vehicles, while BAE’s Hawk fighter bombers are reported to have been used against West Papuan villagers.
+
+In March, the Thales Group signed a Memorandum of Understanding with Austal and Tropical Reef Shipyard to carry out work in Cairns.","{'label': 'Neutral', 'score': 0.9962410926818848}",neutral,0.9962410926818848,0
+Thales appoints Ashish Saraf as Vice-President and Country Director for India - Adda247,"Fri, 11 Jun 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vY3VycmVudGFmZmFpcnMuYWRkYTI0Ny5jb20vdGhhbGVzLWFwcG9pbnRzLWFzaGlzaC1zYXJhZi1hcy12aWNlLXByZXNpZGVudC1hbmQtY291bnRyeS1kaXJlY3Rvci1mb3ItaW5kaWEv0gF1aHR0cHM6Ly9jdXJyZW50YWZmYWlycy5hZGRhMjQ3LmNvbS90aGFsZXMtYXBwb2ludHMtYXNoaXNoLXNhcmFmLWFzLXZpY2UtcHJlc2lkZW50LWFuZC1jb3VudHJ5LWRpcmVjdG9yLWZvci1pbmRpYS9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en,"French defence and aerospace group, Thales announced the appointment of Ashish Saraf as Vice-President and Country Director for India with effect from June 1, 2021. He succeeds Emmanuel de Roquefeuil who takes up a new role as the VP and head for Thales in the Middle East. He will lead the company’s India business and will be responsible for its strategic growth in the country across all of its markets, further strengthening local teams, collaborations and innovation.
+
+Buy Prime Test Series for all Banking, SSC, Insurance & other exams
+
+Prior to joining Thales, Saraf served as the president and head of the region for Airbus Helicopters – India and South Asia where he led Airbus’ Helicopters’ sales, services, training, innovation, industrial partnerships and government relations functions across the civil, parapublic and military markets in the region. Thales group builds electrical systems &provides services for aerospace, defence, etc.
+
+Find More Appointments Here","{'label': 'Neutral', 'score': 0.9999420642852783}",neutral,0.9999420642852783,0

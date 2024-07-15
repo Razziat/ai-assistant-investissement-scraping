@@ -1,0 +1,746 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales in Poland - Thales,"Thu, 03 Aug 2017 14:54:39 GMT",https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMvZXVyb3BlL3RoYWxlcy1wb2xhbmTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Aerospace
+
+Since 2012, Thales has also been present on the Polish aviation market, when LOT Polish Airlines decided to expand their fleet by purchasing a Boeing 787-8 Dreamliner. Boeing Dreamliners are equipped with In-flight Entertainment systems (IFE) produced by Thales.
+
+A special Thales line maintenance station, Warsaw OBS Station, has been established at Okęcie in order to perform any necessary on-going repairs and maintenance of the IFE system. Thanks to technicians from Okęcie passengers flying every day from Warsaw to cities such as New York, Chicago, Toronto, Tokyo, Seoul, Beijing, and many others, can enjoy the latest movies, music, games, and news during their flights. Each passenger is able to check his or her flight status on an on-going basis and receive all instructions concerning flight safety. Warsaw OBS Station is the only Thales station in the world to provide maintenance of business class seats.
+
+","{'label': 'Neutral', 'score': 0.9999834299087524}",neutral,0.9999834299087524,0
+"Was the First Eclipse Prediction an Act of Genius, a Brilliant Mistake, or Dumb Luck? - Atlas Obscura","Tue, 08 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmF0bGFzb2JzY3VyYS5jb20vYXJ0aWNsZXMvdGhhbGVzLXByZWRpY3RzLWVjbGlwc2UtbXlzdGVyeS1hbmNpZW50LWdyZWVjZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The year was 585 B.C., and the Lydians and the Medes had been warring for half a decade in what we now know as Turkey. No clear victory was in sight. Sometimes the Lydians were on top, on other occasions, the Medes seemed to have matters in hand. Once they even fought a battle in the dead of night. But, in the sixth year of their war, as they brandished their arms on the battlefield, something amazing happened. The skies began to darken. The moon passed in front of the sun. The armies, astonished, lay down their weapons—and called a truce.
+
+
+
+This story comes to us via Herodotus, the Greek historian, who lived about a century after the fight. What’s perhaps more remarkable about this story is the line that follows it: “Thales of Miletus had foretold this loss of daylight to the Ionians, fixing it within the year in which the change did indeed happen.”
+
+The ancient philosopher Thales of Miletus had no access to the scientific knowledge or equipment to successfully predict a solar eclipse. As a result, this story has puzzled and divided classicists and scientists for centuries. Was it preternaturally sophisticated astronomy, a myth, or just a happy accident?
+
+Thales, in an 18th-century engraving by F. Ramberg. Wellcome Images/Public Domain
+
+Researchers believe that the eclipse Herodotus describes over the battlefield is the one that took place on May 28, 585 B.C. Its path ran from Nicaragua, over the Atlantic, then across France and Italy—and, finally, Turkey. Thales’s home, the ancient city of Miletus, on the Mediterranean coast, is just outside the path of totality. He would have seen an impressive partial eclipse from there. There are other eclipses around that time that are possible candidates, but none that would have plunged the Lydians and Medes into abrupt darkness in the way that Herodotus describes.
+
+
+
+It is particularly strange, if the historian is to be taken at his word, that Thales predicted the year of the eclipse, rather than the exact date. In fact, wrote mathematician Dmitri Pachenko in the Journal for the History of Astronomy, “if one can predict an eclipse at all, one can predict it to the day.” Astronomy is an extremely precise science. If you know a major celestial event is coming, and where it will be visible, you’ll most likely have some precision about when it will take place. Thales, however, was at a marked disadvantage for making astronomical predictions. He didn’t know that the Earth is spherical—and seems to have thought of it as a flat disc, resting on water.
+
+A 1752 map, by Robert de Vaugondy, of ancient Greece and its territories. PUBLIC DOMAIN
+
+So how did he do it? A common suggestion is that Thales had coopted the expertise of the ancient Babylonians. Their astronomers, based near modern Baghdad, kept careful records of the sky, including how Venus, Mercury, the Sun, and the Moon moved in the heavens. In 1063 B.C., their records document a total eclipse “that turned day into night.” These records led them to discover what we now call the Saros cycle, which governs the recurrence of eclipses. After three 223-month Saros series, eclipses do return to the same geographic region, but they are a complicated way to make an eclipse prediction. At any given moment, there are approximately 40 Saros cycles taking place at once, carrying on for over 1,000 years. As old sets of cycles end, new ones begin. Understanding them enough to be predictive, at the very least, requires the knowledge that the Earth is round and accurate, detailed observations—not to mention accounting for those missed eclipses that take place on cloudy days.
+
+In 585 B.C., Mesopotamian astronomers hadn’t yet figured out how to use the Saros cycle to predict eclipses with any accuracy. Further, a number of scientists have attempted to predict the May 28, 585 B.C. eclipse using Saros cycles: It just doesn’t seem feasible based on the data that would have been available to Thales.
+
+Whatever Thales’s method, it appears to have worked only once. There’s no other record of him successfully predicting an eclipse, or of him passing information about them to any of his many students. This suggests one of two things: Either the method wasn’t replicable (because it wasn’t scientific), or the prediction didn’t happen at all.
+
+The ancient Babylonians kept complex astronomical diaries the movements of celestial objects. These tablets document the observation of Halley’s Comet in 164 B.C. Public Domain
+
+It’s entirely possible that Thales “predicted” the eclipse in a way that seemed scientific, but was actually wrong. That, at least, is the theory shared by scientists Willy Hartner and Dirk Couprie, though the two differ on how he might have done it. In 1969, Hartner made a list of 29 solar eclipses that Thales might have been able to see around that time. There are patterns among these 29, but it’s unlikely Thales would have been able to understand them. What he might have done, Hartner thinks, is used those patterns to predict the May 18, 584 B.C. eclipse—just less than a year after the one that stopped the battle. When the eclipse came almost exactly a year early, Thales may have shrugged his shoulders and taken credit for being close enough.
+
+
+
+Couprie, on the other hand, assumes an even luckier accident. It’s possible, he suggests, that Thales spotted a lucky, though ultimately random, pattern in a number of regional eclipses that took place during his lifetime. “Did Thales really predict the solar eclipse?” asks Couprie. “The answer must be: no. The regularity he saw was only a lucky coincidence.” If he’d tried to predict other eclipses later on using the same method, he would have failed miserably—perhaps explaining why none of his students or successors were able to do so. In fact, the next time an ancient thinker successfully predicted an eclipse was sometime around 150 B.C.: Hipparchus, the man we now credit with discovering trigonometry.
+
+Engraving of Thales by Thomas Stanley, from The History of Philosophy, 1655. Public Domain
+
+There is, however, one more option. Thales was an astronomer and philosopher, but he was also a kind of primordial public intellectual—even a bit of a celebrity. Aristophanes says that any man who had “great practical wisdom” was known as a “veritable Thales,” while Aristotle tells a story of Thales predicting a good year for olives, and then cornering the market on olive presses, “thus demonstrating that it is easy for philosophers to be rich, if they wish, but it is not in this that they are interested.”
+
+Thales did feats of mathematics that might have looked like magic to his contemporaries, including calculating the height of the pyramids from the length of their shadows. He was a legend. It’s possible, then, that his famous prediction was, too. People so readily accepted his claims—that magnets have souls because they make things move, that earthquakes happen because the Earth is floating on water, that all things are full of gods—that it wasn’t much of a stretch to believe he could have predicted mysterious happenings in the sky.","{'label': 'Neutral', 'score': 0.9997362494468689}",neutral,0.9997362494468689,0
+Thales wins contract to support Canada's AOPS and JSS vessels - Marine Log,"Thu, 17 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3Lm1hcmluZWxvZy5jb20vbmV3cy90aGFsZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales wins contract to support Canada’s AOPS and JSS vessels Written by Nick Blenkey
+
+
+
+
+
+
+
+
+
+AUGUST 17, 2017 — The Government of Canada is awarding a contract for in-service support of the Arctic and Offshore Patrol Ships (AOPS) and Joint Support Ships (JSS) to a joint venture of Thales Canada Inc. and Thales Australia Ltd.
+
+The contract is for an initial service period of eight years, estimated at $800 million (excluding taxes), with options to extend services for up to 35 years, for an estimated total of $5.2 billion (excluding taxes) for the life cycle of the vessels, and covers in‑service support, including refit, repair and maintenance and training for the two ship types which are being built under Canada’s National Shipbuilding Strategy.
+
+Up to six AOPS will be built by Irving Shipbuilding. The delivery of the first vessel to the Royal Canadian Navy is scheduled for 2018.
+
+There will be two JSS vessels built by Seaspan’s Vancouver Shipyards. The delivery of the first vessel to the Royal Canadian Navy is scheduled for 2021.
+
+The contract award follows an open and transparent procurement process that employed many modern approaches including regular and ongoing engagement with industry. Today’s announcement will ensure Canada is ready to support the vessels once they are delivered, while supporting the long-term growth of the marine sector in Canada.
+
+The contract requires Thales to compete work among subcontractors. For ships delivered in the East, work will be conducted in the Atlantic provinces, Quebec or Ontario, For ships delivered in the West, work will be conducted in the Western provinces and Territories. It is anticipated that more than 2,000 jobs will be created or maintained across Canada over this 35-year period
+
+The in-service support work required to support and maintain the AOPS and JSS under this contract is to be carried out in Canada, unless a ship requires work maintenance while overseas.","{'label': 'Neutral', 'score': 0.9999887943267822}",neutral,0.9999887943267822,0
+Big can be beautiful - Business - Chinadaily.com.cn - China Daily,"Fri, 25 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNoaW5hZGFpbHkuY29tLmNuL2J1c2luZXNzL3FhY2VvLzIwMTctMDgvMjUvY29udGVudF8zMTA4MzgwMS5odG3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Patrice Caine, chairman and CEO of Thales Group. [Photo/VCG]
+
+The CEO of Thales aims to double the group's business in China during the next five years and take advantage of the booming aerospace sector
+
+Patrice Caine runs a global juggernaut and one of the biggest corporations in Europe.
+
+Thales Group has its headquarters in La Defense, a business district in Paris, France, and employs 64,000 staff worldwide, including 25,000 engineers, and research and development specialists, in 56 countries.
+
+With a business portfolio which includes aerospace, defence, security and space, the French company is a major league player.
+
+""More than 17,000 of our employees are working on systems and software engineering,"" said Caine, chairman and CEO of Thales. ""We are known for electronic equipment, but our real added-value is in systems and software.""
+
+In the first half of this year, the group's intake of orders increased 10 percent to 6 billion euros ($7.05 billion) compared to the same period in 2016.
+
+Sales jumped 5.9 precent to 7.24 billion euros during the same period, while adjusted net income climbed 15 percent to 424 million euros.
+
+""At the end of June, Thales once again confirmed its growth momentum, with a solid order intake and a 5.9 percent organic sales growth, ahead of the full year target,"" Caine told the groups' website.
+
+The results reflected the strength in Thales' four core digital technologies of connectivity, data analytics, artificial intelligence and cybersecurity.
+
+In a far-reaching interview with China Daily, Caine talked about how Thales aims to double its business here in the next five years, how partnerships are in the company's DNA and why R&D is crucial for the future.
+
+How can your company help in China's development?
+
+The country has invested a great deal to improve and develop its communication infrastructure. China continues to upgrade and expand these systems, and we can support this development.
+
+Air traffic control management is just one example as it is widely known that our skies are highly congested. It is not a criticism, it is a fact of life and it is not specific to China.
+
+Clearly, to support the development of this country, there is a growing need to improve China's airspace. We need to reduce congestion with a more fluid air traffic control management.
+
+What business opportunities might arise through the Belt and Road Initiative?
+
+When I look at the Belt and Road project, I see great vision. We have enjoyed working with our Chinese partners, so if it is the right thing to do, and we can contribute to this fantastic adventure, we will.
+
+Thales would also be interested in forming partnerships with companies from other economies involved in the Belt and Road Initiative.
+
+We are currently in a large number of countries, so we can leverage not only our presence in China, but also our presence in the region.
+
+What is your opinion about the Chinese economy?
+
+Many nations across the world can only dream about the sort of GDP growth (of 6.9 percent) that China published the other day.
+
+As for our company, figures released about air traffic management show the industry is booming along with avionics, aerospace and ground transportation sectors. And GDP growth is important because it highlights the dynamic qualities of the economy.
+
+What are your views about globalization?
+
+Thales has benefited through globalization because we have developed an ability to be ""local"" in the countries and regions we operate in. For example, about 95 percent of our 1,300 staff here are Chinese citizens.
+
+Each time we develop a business in a country, we always strategically align ourselves with the vision of the government, especially in our domain. After that, we build a local foundation.
+
+Will your digital division generate company growth?
+
+More than 17,000 of our employees worldwide are working on systems and software engineering. The group is known for electronic equipment, but its real added-value is in systems and software.
+
+That is why I say we are already a digital technology-driven company by nature, or by definition or construction.
+
+We see our four core digital technologies, of connectivity, data analytics, artificial intelligence and cybersecurity, paving the way for Thales in the future.
+
+We have already invested about 1 billion euros in the past two to three years to reinforce the group in these four crucial areas.
+
+What is your market priority in China?
+
+We are clearly in the business segments that are booming here. In ground transportation, we partnered with Shanghai Electric Group Co in the field of the urban rail signaling systems.
+
+The urban rail market in China is expanding quicker than anywhere else in the world. The country already has more than 50 percent of all the new metro lines globally.
+
+A second, key example is aerospace. We are worldwide leaders in avionics.
+
+Every day there is a new aircraft delivered to a Chinese airline and air traffic is growing very, very fast.
+
+Do you ship products made in China to other countries?
+
+Yes, we have already developed a presence for in-flight entertainment products here, which are complementary to our IFE presence outside China.
+
+Our expertise in this field does not only serve Chinese airlines, but also airlines across the world. Again, the product was originally designed for the C919. But we intend to sell it to other global airlines.
+
+What is your biggest achievement in China as CEO of Thales Group?
+
+To be frank, that is not an easy question to answer as it takes time. We are a long-term business, so it would be very immodest to say that during the past two years something has radically changed here.
+
+We started in Shanghai in 2011 through our joint venture, TST, with our partner Shanghai Electric Group, in the urban rail signaling business. It has proved highly successful.
+
+The development of this joint venture has been impressive. Yes, the market has been booming during this period, but we have faced challenges from rivals and prevailed.
+
+What is your leadership strategy in China?
+
+What is striking when I look at our Chinese team is the brilliant teamwork. You know, that is so important in our business.
+
+The team is also pragmatic and flexible. When we face challenges, we look at the solution, instead of looking at how difficult it is.
+
+I also believe it is critical to develop interesting career paths for young people－to be able to change from aeronautics to air traffic management or ground transportation.
+
+What is important is that we try to align our ambition with the development strategy of the Chinese government.
+
+How do you get along with your local partners?
+
+Again, in our DNA we have this natural ability to put together partnerships because we are a company with an open mind.
+
+We are inclusive and so we accept cultural differences, and promote diversity among our staff. We champion diversity and inclusion. Diversity is a strategic topic for Thales.
+
+It helps us foster innovation and creativity through a greater variety of approaches, perspectives and ideas. In China especially, we get along well with our partners.
+
+How do you spend your weekends away from the office?
+
+I try to take care of the family－that is a priority of course. In fact, I spend a great deal of my spare time with them. When I have a few free hours, I play golf with friends.
+
+CV
+
+Age: 47
+
+Nationality: French
+
+Career:
+
+2014 onwards: Chairman and Chief Executive Officer, Thales Group, France
+
+2013-2014: Senior Executive Vice-President, Chief Operating Officer and Chief Performance Officer, Thales Group
+
+2000-2013: Various roles and positions within Thales Group
+
+2000-2002: Technical Advisor, the cabinet office of the French Minister
+
+1998-2000: Human Resources, Conseil General des Mines, France
+
+1995-1998: Special Adviser to the Prefect of the Franche-Comte region and head of the Industrial Development and Energy Division, DRIRE, France
+
+Education:
+
+Ecole Polytechnique and the Ecole des Mines de Paris, holds the rank of Ingenieur en Chef of the Corps des Mines","{'label': 'Positive', 'score': 0.9984099864959717}",positive,0.9984099864959717,1
+Thales KINGKLIP Mk2: The Next Gen Hull Mounted Sonar of the French Navy FTI Frigates - Navy Recognition,"Wed, 23 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiowFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL2ZvY3VzLWFuYWx5c2lzL25hdmFsLXRlY2hub2xvZ3kvNTUwNC10aGFsZXMta2luZ2tsaXAtbWsyLXRoZS1uZXh0LWdlbi1odWxsLW1vdW50ZWQtc29uYXItb2YtdGhlLWZyZW5jaC1uYXZ5LWZ0aS1mcmlnYXRlcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"View of the FREMM bow mounted sonar (left, French Navy picture) and the Kingklip Mk2 (right, Thales picture). View of the FREMM bow mounted sonar (left, French Navy picture) and the Kingklip Mk2 (right, Thales picture).
+
+
+
+
+
+While scale models of the FTI and Belharra unviled at Euronaval 2016 featured a ""sonar dome"" at the bottom of the hull, a Naval Group source confirmed to Navy Recognition that the French Navy FTI are set to feature a ""bow sonar"" (similar to the FREMM) as opposed to a ""hull mounted"" sonar as shown on the Euronaval models.
+
+
+
+Thales already conducted tests of the Kingklip Mk2 but added that its development is ongoing as part of the FTI programme. The sonar is expected to be fitted on the La Fayette class frigates as well, as part of their
+
+Thales added that the Kingklip Mk2, like the Mk1, is usually positioned on the hull. However as far as the FTI Frigate is concerned, the sonar will be fitted inside the bow, just like the 4110 aboard the FREMM.While scale models of the FTI and Belharra unviled at Euronaval 2016 featured a ""sonar dome"" at the bottom of the hull, a Naval Group source confirmed to Navy Recognition that the French Navy FTI are set to feature a ""bow sonar"" (similar to the FREMM) as opposed to a ""hull mounted"" sonar as shown on the Euronaval models.Thales already conducted tests of the Kingklip Mk2 but added that its development is ongoing as part of the FTI programme. The sonar is expected to be fitted on the La Fayette class frigates as well, as part of their upgrade programme . The Mk2 will eventually be available to export customers while the Kingklip Mk1 remains available is still being procured for several navies shipbuilding programmes.
+
+Image courtesy of DGA
+
+Image courtesy of DGA
+
+About the FTI
+
+The French Defence Ministry announced the attribution to DCNS (now Naval Group) of a contract for the
+
+
+
+The FTI will have a displacement of about 4200 tonnes with a crew of 125 sailors. It will be capable of anti-submarine warfare, anti-air warfare, anti-surface warfare as well as the support of special forces missions.
+
+
+
+The prime contractor is DCNS while Thales is set to supply a number of brand new, next-gen systems:
+
+- The CAPTAS-4 Compact sonar
+
+- The SEA FIRE radar
+
+- Aquilon integrated naval communication system
+
+- The SENTINEL electronic warfare system
+
+
+
+Safran Electronics & Defense will supply a new electro-optical FCS, the PASEO XLR.
+
+
+
+Provisional configuration (to be confirmed):
+
+76mm main gun
+
+2x Narhwal 20mm remote guns
+
+8x Exocet MM40 Blk III anti-ship missiles
+
+2x Sylver A70 launchers for 16x Aster 30 missiles
+
+Space for 2x extra Sylver A70 launchers
+
+MU90 torpedoes
+
+Hangar for one NH90 helicopter and one UAV The French Defence Ministry announced the attribution to DCNS (now Naval Group) of a contract for the development and construction of five FTI (Frégate de Taille Intermédiaire or mid-size frigate) surface combatant intended for the French Navy in April this year. The first of the five frigates from this DGA-managed programme should be delivered in 2023 with an entry into active duty in 2025.The FTI will have a displacement of about 4200 tonnes with a crew of 125 sailors. It will be capable of anti-submarine warfare, anti-air warfare, anti-surface warfare as well as the support of special forces missions.The prime contractor is DCNS while Thales is set to supply a number of brand new, next-gen systems:- The CAPTAS-4 Compact sonar- The SEA FIRE radar- Aquilon integrated naval communication system- The SENTINEL electronic warfare systemSafran Electronics & Defense will supply a new electro-optical FCS, the PASEO XLR.Provisional configuration (to be confirmed):76mm main gun2x Narhwal 20mm remote guns8x Exocet MM40 Blk III anti-ship missiles2x Sylver A70 launchers for 16x Aster 30 missilesSpace for 2x extra Sylver A70 launchersMU90 torpedoesHangar for one NH90 helicopter and one UAV","{'label': 'Neutral', 'score': 0.9999984502792358}",neutral,0.9999984502792358,0
+Thales and London's Docklands Light Railway Celebrate 30 Year Anniversary - railway-news.com,"Tue, 15 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcmFpbHdheS1uZXdzLmNvbS90aGFsZXMtbG9uZG9ucy1kb2NrbGFuZHMtbGlnaHQtcmFpbHdheS1jZWxlYnJhdGUtMzAteWVhcnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and London’s Docklands Light Railway Celebrate 30 Year Anniversary
+
+This July marked 30 years since the opening of London’s Docklands Light Railway (DLR). As we celebrate the history of this railway to date, we look at the key involvement of Thales in making this success a reality and the example that the DLR sets for the rest of London’s transport network.
+
+London’s DLR
+
+Launched in 1987, the DLR was created to connect London’s Docklands area to the rest of the city. Initially covering eight miles of ground, with fifteen stations, the line connected to Stratford, Tower Gateway and Island Gardens. Although its initial capacity was less than it is today, the automated service greatly increased passenger traffic to the Docklands, with only a single member of staff required on each train for any assistance and emergencies. The DLR received considerable investment as it expanded over the years to reach additional locations such as Bank, Lewisham and Woolwich Arsenal. The line now visits 45 stations, has tripled in length to cover 24 miles of track and carries an annual total of 122 million passengers.
+
+Autonomous Railways
+
+The DLR is an example of an autonomous railway delivering benefits not only to passengers, but to operators and London as a whole. Reliable and secure, passengers consistently have positive journey experiences as they visit places, such as the ExCeL centre, that were inaccessible or non-existent beforehand. Through increasing capacity and reducing costs, operators benefit by having a more effective service that transports greater numbers of passengers. Additionally, and arguably the greatest benefit to autonomous railways, the technology greatly complements the priorities of London over the coming years.
+
+Making Travel Greener
+
+Sadiq Khan, Mayor of London, states in his manifesto that he aims to ‘make travel greener’ and, with his commitment to reducing London’s CO2 emissions by 60% by 2025, his plans to achieve this reinforce his statement. With Sadiq Khan prioritising the environment, transport and housing for the rapidly growing population, a more capable and cost-effective railway infrastructure will be vital to London. Through developing London’s infrastructure and by encouraging the use of a modernised public transport system, autonomous trains will continue to have crucial advantages as London advances towards becoming a ‘low-carbon beacon’.
+
+Thales’s Technology
+
+Thales’s technology has formed a key part of the DLR’s history and has been in service on the line since 1994. Known as the SelTrac signalling system, the service uses communications-based train control (CBTC) to operate trains without the need for a driver. In addition to the installation of this service, 2007 saw Thales teams in the UK and Canada upgrade the system’s technology to enable a three, rather than two, car service on the DLR. These upgrades resulted in a 50 per cent capacity increase, a significant improvement for the railway line.
+
+To learn how SelTrac (CBTC) technology works, watch Thales’s video below:
+
+Increased Capacity
+
+In addition to installing its SelTrac signalling system, Thales has also made significant upgrades to the vehicle control centre (VCC) at Beckton. Installing third generation VCC technology in Beckton in 2011, Thales’s work on the DLR helped greatly towards the success of the London Olympics and was also the first operational 3GVCC installed in the world. Carrying double the amount of passengers than usual, the DLR was able to effectively handle an enormous surge in traffic as passengers travelled to the global sporting event. SelTrac CBTC performed successfully during the event, supporting a record-breaking number of passengers. Additionally, following Thales’s upgrades to the signalling technology, the Jubilee line performed exceptionally well during the Olympics, being described as ‘the star of the show’.
+
+With Beckton’s upgrade to third generation technology proving successful, 2014 saw plans established to make similar changes at Poplar control centre. Updating technology that had previously been used for twenty-five years, the upgrade was a significant advancement that has contributed to the further success of the DLR. In combination with the SelTrac CBTC system, these developments have provided safe, reliable, short headway between trains to enable greater capacity on the line, whilst greatly reducing operating and maintenance costs.
+
+Thales – A Trusted Partner
+
+Since their involvement in the DLR, Thales has been co-located in the same buildings as the DLR team. This has provided the opportunity to work very closely over the years and is part of the experience that forms their expertise in London railways. Thales is a trusted partner for developing the future of London transport.
+
+Original article © Thales.
+
+FOR ALL THE LATEST INFORMATION, NEWS, IMAGES, VIDEOS AND DOCUMENTS FROM THALES PLEASE CLICK HERE.","{'label': 'Positive', 'score': 0.9990347623825073}",positive,0.9990347623825073,1
+Bad glasses force Wake County elementary school to cancel eclipse party - WTVD-TV,"Tue, 15 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vYWJjMTEuY29tL2VjbGlwc2Utd2FrZS1jb3VudHktaG9sbHktZ3JvdmUtZWxlbWVudGFyeS8yMzExNTU5L9IBSWh0dHBzOi8vYWJjMTEuY29tL2FtcC9lY2xpcHNlLXdha2UtY291bnR5LWhvbGx5LWdyb3ZlLWVsZW1lbnRhcnkvMjMxMTU1OS8?oc=5&hl=en-US&gl=US&ceid=US:en,"Bad glasses force Wake County elementary school to cancel eclipse party
+
+Students at Holly Grove Elementary School in Wake County will remain in the classroom during the Great American Solar Eclipse.
+
+In an email to parents on Tuesday, Principal Kathy Knezevic announced the outside viewing on Monday, August 21st has been canceled to ensure student safety. ""The glasses we ordered from Amazon did not meet safety standards and the order was cancelled,"" Knezevic wrote. According to the email the eclipse will stream live in all of the classrooms. The principal says the school will assist parents who want to check their children out early to observe the eclipse with their family.
+
+RELATED STORY: Amazon offering refunds for faulty eclipse glasses
+
+ABC11 also learned on Tuesday, Thales Academy will operate on an early release schedule. In an email to parents, Thales Academy Administrator Heather Brame announced all students K-5 will dismiss from school using the regular carpool system at 12:15 p.m.","{'label': 'Neutral', 'score': 0.9935495257377625}",neutral,0.9935495257377625,0
+Computer system for Hawkei vehicles tested - UPI News,"Mon, 28 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTcvMDgvMjgvQ29tcHV0ZXItc3lzdGVtLWZvci1IYXdrZWktdmVoaWNsZXMtdGVzdGVkLzQxODE1MDM5NDc0MDAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Hawkei patrol vehicle, pictured, will receive a new Integral Computing System. The Australian Ministry of Defense announced on Monday it has been tested successfully at the Monegeetta Proving Ground. Photo by CASG.
+
+Aug. 28 (UPI) -- A C4I integral Computing System for the Australian Army's Hawkei vehicle has been tested by the government's Capability Acquisition and Sustainment Group, the Australian Ministry of Defense announced on Monday. The CASG Land 121 Phase 4 project team conducted the tests at the Monegeetta Proving Ground and signed a project charter for the system with nine companies involved in the system. Advertisement
+
+CASG identified the companies as Thales Australia, Cablex, Elbit Land Systems Australia, Esterline, Harris Australia, Kongsberg, Raytheon, Rockwell Collins, and Thomas Global Systems.
+
+""Using generic vehicle architecture and a central computing concept to host various C4I systems and communications, the ICS will optimize and centralize the flow of information to the user, enabling rapid decision making and multi-tasking at levels not previously achievable on land based platforms,"" said Land 121 Phase 4 Project Director Col. John McLean said in a press release.
+
+""The new ICS will enable the vehicle operator to manage radios, sensors, the Battle Management System, and weapon systems -- all through a common interface.
+
+C4I is the military acronym for Command, Control, Communications, Computers, and Intelligence.
+
+The demonstration of the Integral Computing System was a contractual requirement for Hawkei's manufacturer, Thales.
+
+Advertisement
+
+CASG said the initial baseline of the C4I ICS will be available on low-rate-initial-production Hawkei vehicles from 2018.
+
+The Hawkei is a 4x4 light armored patrol vehicle. The Australian government has committed to the purchase of more than 1,000 of them from Thales Australia.","{'label': 'Neutral', 'score': 0.9995256662368774}",neutral,0.9995256662368774,0
+Astute Class Submarines - Defense Update,"Wed, 16 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTcwODE2X2FzdHV0ZS0yLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The construction of Astute class attack submarines is ongoing, in April 2017 MOD announced the conclusion of negotiation of the contract to build the Agamemnon, the sixth of seven Astute class attack submarines that will cost £1.4 billion. As its sister subs, the submarine is built at the BAE Systems in Barrow-in-Furness, Cumbria and is expected to complete in 2022.
+
+Featuring the latest nuclear-powered technology, the Astute Class submarines can circumnavigate the world submerged, manufacturing the crew’s oxygen from seawater as they go. They also have the ability to operate covertly and remain undetected in almost all circumstances despite being 50 per cent bigger than the Royal Navy’s current Trafalgar Class submarines which are being replaced by the Astute Class.
+
+The third submarine of this class, Artful was the first to receive the Common Combat System (CCS) developed by BAE Systems, that controls the submarine’s sensors and weapon systems. The Artful tested the new system in February 2016 firing a torpedo. CCS integrates several systems, which previously would have needed their own consoles and processors, to operate under a single computer environment, save scarce space, power and cooling resources within the submarine’s hull. It also allows the Control Room to be used with greater flexibility. The system incorporates Dell COTS based computers from, running VMWare systems and sonar processing provided by Thales. The system also integrates the advanced Sonar 2076, which allows the submarine to detect and track the quietest of adversaries. The latest upgrade to the Sonar 2076 is Stage 5, introduced by Thales in 2010 to upgrade three Trafalgar-class and three Astute-class submarines. This sonar, made by Thales, is unique to Royal Navy submarines and is deployed across the submarine fleet.
+
+The latest sonar and next generation command and control system will be integrated onto every Astute and Vanguard-class submarine now in service, and fitted to every new Astute class submarine coming into service in the future, ensuring consistency across the fleet. These systems will also be used on board the Royal Navy’s Dreadnought submarines.","{'label': 'Neutral', 'score': 0.9998666048049927}",neutral,0.9998666048049927,0
+$800M 8-year maintenance contract awarded for new navy ships - CBC.ca,"Thu, 17 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9ub3ZhLXNjb3RpYS9yb3lhbC1jYW5hZGlhbi1uYXZ5LXNoaXBzLXByaXZhdGl6ZS1tYWludGVuYW5jZS0xLjQyNTA5NjHSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNDI1MDk2MQ?oc=5&hl=en-US&gl=US&ceid=US:en,"The federal government has awarded an $800-million contract to perform future maintenance and repair work on the Royal Canadian Navy's new vessels to the Canadian subsidiary of a French multinational corporation.
+
+The contract deals with the new Arctic and offshore patrol ships and joint support ships, which haven't yet been built, and initially covers eight years but can be extended up to 35 years for a total of $5.2 billion, plus taxes.
+
+The contract is going to a joint venture between Thales Canada Inc. and Thales Australia Ltd. Thales is a French company with corporate headquarters in Paris.
+
+Jim Carr, the acting federal procurement minister, made the announcement Thursday morning in Dartmouth, N.S.
+
+Top security clearance required
+
+He estimates work on the ships will create or maintain 2,000 jobs over the life of the contract, and said all subcontracting will be tendered to Canadian companies. The jobs will be spread across Canada, but ""primarily right here in Halifax and in Vancouver and also other jobs in Nepean in Ontario.""
+
+The contract will ""conform to the highest standards of security for Canada,"" Carr told reporters.
+
+""Everyone involved in this project will have top security clearance. It's specified in the regulations. We are fully confident all the safeguards are in place.""
+
+Union concerns for the future
+
+Despite the promises of job creation, the president of the Union of National Defence Employees said he and his members are bracing for problems.
+
+John MacLennan said the government is already choosing not to fill some vacancies when people retire and he worries that will only continue as more contractors are brought in to do work.
+
+""The contractors are slowly creeping into the public sector workforce,"" he said.
+
+Another major concern for MacLennan is cost accountability.
+
+""There's situations that arise that aren't in the contract where the contractor says, 'OK, if you have us to do that work — because we're doing most of the work now — there's going to be an increase in [the cost of] doing business with us.' And they have to pay, because you have warships that are going to do the things that warships do.""
+
+'Not going to reinvent the wheel'
+
+Maintenance work will only be done outside Canada if a ship requires it when it is already overseas, Carr said.
+
+Mark Halinaty, president and chief executive officer of Thales Canada Inc., said his company was ""not going to reinvent the wheel"" and would work with in-house workers whenever possible.
+
+People look up at the huge future stern of what will be HMCS Harry DeWolf during an open house at the Halifax Shipyard in July. (Emma Davie/CBC)
+
+He said he didn't yet know how much work would be done in Halifax.
+
+""It's not exactly clear which docks will be used for what activities because that's all part of the competitive process we plan to undertake,"" he said.
+
+4 bids received
+
+Two Arctic patrol ships are now being built at Irving Shipbuilding's Halifax facility and four more are planned at a total cost to the federal government of $2.3 billion.
+
+Earlier this year, the federal government awarded a $230-million contract to Seaspan's Vancouver Shipyards Co. Ltd. to design two joint support ships. The government said at the time that construction is expected to begin next year, with the first completed in 2021.
+
+Jim Carr is the acting federal procurement minister. (CBC)
+
+Carr said the decision to award Thales the contract was made after receiving ""four strong bids"" and following consultations with industry over several years. He said awarding the contract for both types of ships to one company was the most cost-effective option.
+
+He also touted economic development, training and research opportunities that will come from the deal.
+
+Previous work to upgrade combat, radar, communication and missile systems on Halifax-class frigates started in 2010 and was divided between Irving Shipbuilding in Halifax and Seaspan Marine in North Vancouver.","{'label': 'Neutral', 'score': 0.999881386756897}",neutral,0.999881386756897,0
+Sajjan says Thales contract won't hurt union workers - CTV News,"Mon, 21 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3Mvc2FqamFuLXNheXMtdGhhbGVzLWNvbnRyYWN0LXdvbi10LWh1cnQtdW5pb24td29ya2Vycy0xLjM1NTQ4OTfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Defence Minister Harjit Sajjan says awarding a navy maintenance and support contract worth up to $5.2 billion to a French company won't take away work from Canadian public sector workers.
+
+Responding to concerns that giving the contract to the Canadian division of Thales would mean a move away from domestic naval and private sector workers, Sajjan says many of the 2,000 jobs to be created will be in the Halifax area.
+
+""This contract here doesn't impact our public service employees at all. This contract is actually the hybrid process here. We need the public service and we need the military. This is about creating a better efficiency,"" Sajjan said Sunday in Vancouver.
+
+The president of Thales Canada said Friday in Dartmouth, N.S., that moving away from public service and local private sector workers would be a costly mistake.
+
+""We're going to leverage the skills that exist. That obviously is a key component to providing value for money,"" Mark Halinaty said in Vancouver on Sunday.
+
+The Thales contract was announced Friday in Dartmouth, just outside of Halifax. The Department of National Defence says it will create and support 2,000 jobs in Canada, though a union representative told the Canadian Press that privatizing the repair work puts public sector jobs at risk.
+
+""The quality of work is very important. There is a pride and professionalism in the public service,"" John MacLennan, national president of the Union of National Defence Employees, told CP.
+
+The initial contract is for $800 million over eight years to service Arctic offshore patrol ships and joint support vessels, with a possibility to extend for 35 years. That makes it the biggest in-service support contract in Canadian history.
+
+Irving Shipbuilding, which is building six Arctic patrol vessels in Halifax, declined to comment to CTV News.
+
+Thales's contract requires it to subcontract work across the country, depending on where the ships are delivered.
+
+MacLennan also told the Canadian Press that he was concerned about national security.
+
+""We in Canada have actually tremendous experience working with our allies when it comes to very high-sensitive information. We have agreements in place,"" Sajjan said.
+
+""Plus ... we work very closely with industry on getting that right innovation because that innovation, when it comes to certain technologies, is done in collaboration with industries.""
+
+With a report from Emily Baron Cadloff","{'label': 'Neutral', 'score': 0.999710738658905}",neutral,0.999710738658905,0
+Royal Navy's Type 26 Frigates to Be Fitted With Thales CAPTAS-4 Sonar 2087 Variable Depth Sonar - Navy Recognition,"Mon, 07 Aug 2017 17:40:06 GMT",https://news.google.com/rss/articles/CBMi_AFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25ld3MvZGVmZW5jZS1uZXdzLzIwMTcvanVseS0yMDE3LW5hdnktbmF2YWwtZm9yY2VzLWRlZmVuc2UtaW5kdXN0cnktdGVjaG5vbG9neS1tYXJpdGltZS1zZWN1cml0eS1nbG9iYWwtbmV3cy81MzkxLXJveWFsLW5hdnktcy10eXBlLTI2LWZyaWdhdGVzLXRvLWJlLWZpdHRlZC13aXRoLXRoYWxlcy1jYXB0YXMtNC1zb25hci0yMDg3LXZhcmlhYmxlLWRlcHRoLXNvbmFyLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Type 26 will be capable of undertaking a range of roles from anti-submarine warfare operations and humanitarian assistance. The programme is set to continue into 2026 with a five further ships anticipated to be built.
+
+
+
+Thales is the current provider of anti-submarine sonar to the serving Type 23 frigate fleet. This latest announcement firmly establishes Thales’ position as the key sensor provider to the Royal Navy across its sonar, electronic warfare, optronics and communications capabilities. This allows Thales to leverage common technologies and architecture to provide benefits across all Defence Lines of Development.","{'label': 'Positive', 'score': 0.999998927116394}",positive,0.999998927116394,1
+From Barr and Stroud to now: 100 years and beyond of Thales periscope technology - Thales,"Wed, 30 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2JhcnItYW5kLXN0cm91ZC1ub3ctMTAwLXllYXJzLWFuZC1iZXlvbmQtdGhhbGVzLXBlcmlzY29wZS10ZWNobm9sb2d50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"From Barr and Stroud to now: 100 years and beyond of Thales periscope technology Periscope Share this article
+
+
+
+LinkedIn
+
+In 1888, Professor Archibald Barr and Dr William Stroud, in response to a tender issued by the War Office, submitted an application for an optical range-finder patent to the Patents Office. This patent would both cement the collaboration between Barr and Stroud and, from 1917, form the core of the next 100 years of Thales’s periscope development.
+
+© Click to enlarge
+
+Between the years 1888 and 1915, Professor Barr and Dr. Stroud expanded their business to become the number one range-finder company in the UK; developing a reputation for technical excellence in range-finding technology.
+
+In December 1915, Commander S.S. Hall of the Royal Navy approached Thales, then Barr and Stroud Ltd., to discuss requirements for a submarine periscope with a range-finder. A mock-up of the periscope was shown to the Royal Navy in July 1916 and following an order for six instruments, the first periscope (Model FY1 number 1) was delivered to the Royal Navy on 25 August 1917.
+
+The inter-war period from 1919 – 1939 marked a time of technical innovation and customer growth for the Thales periscope business including the Royal Navy’s first true binocular periscope; the CK1, which made watch keeping for extended periods much easier. On the export front, Thales’s customer list expanded to include a range of countries including France, Poland, Spain and the USA.
+
+During the defence of Britain in WWII, one of the most incredible missions of this period, Operation Source, took place in September 1943 when a small group of X-Craft midget submarines, each fitted with a single Thales CL8 periscope, attacked the 52,000 ton German battleship Tripitz in Kåfjord in northern Norway. The mission resulted in the Victoria Cross being awarded to Lt. Donald Cameron, the commanding officer of X-6 and Lt. Basil Place, the commanding officer of X-7, both of whom subsequently visited Glasgow to thank the workforce for their efforts.
+
+After the Second World War, as the world moved into the Cold War era, submarine operations highlighted the need for periscopes optimised for surveillance and intelligence gathering roles. The CK24 Search and CH74 Attack Periscopes fitted to the Royal Navy’s diesel electric Oberon Class Submarines provided the benchmark.
+
+From the late 1960’s through to the early 1980’s, the Royal Navy acquired unprecedented levels of operational capability with the world’s first thermal imaging periscope (CH82) and the world’s first laser rangefinder periscope (CH80). The change to an electronic system set the standard for the future and provided the basis for subsequent leading edge sensor upgrades, ensuring the Royal Navy maintained its world class operational capability.
+
+In the mid to late 1980’s, the Royal Navy’s Upholder Class (now the Royal Canadian Navy Victoria Class) CK35 and CH85 periscopes introduced remote control of key functions such as elevation and depression of line of sight, image magnification, range measurement and periscope rotation. Imagery from thermal imaging and TV sensors could now be controlled and displayed on screens in the control room and made available to the entire command team, not just the commander. Fully implemented on the Collins Class CK43/ CH93 periscopes and Vanguard Class CK51/ CH91 periscopes during the early to mid-1990’s, remote control technology had finally reached a level of maturity to enable the next generation of above water sensor systems – the optronic mast.
+
+In 1998, Thales’s first CM10 optronic mast was sea-trialled on HMS Trenchant and brought about a significant change in the Royal Navy’s above water visual system capabilities. Today, each Astute Class submarine has two Thales CM10 optronic masts, each fitted with a fully integrated ESM/EW sensor package and with TV, thermal imaging or images being remotely controlled and displayed on consoles within the control room.
+
+By 1991, Barr and Stroud Ltd. become known as Pilkington Optronics Ltd., which in turn in 2001 became part of the modern Thales UK, whose optronic business is housed in the same city where Barr and Stroud lodged their original patent in 1888 – Glasgow. Now, with more than 600 people working in the optronic area of the business, Thales is proud to continue the work that was started in this part of the United Kingdom over 100 years ago.
+
+In August 2017, Thales celebrated 100 years of trusted partnership with the Royal Navy, through being their sole supplier of periscopes/optronic masts since 1917. Thales’s work in the field of above water visual sensor systems has provided the Royal Navy, and many of Thales’s international customers, with an enhancement in their operational capabilities.","{'label': 'Neutral', 'score': 0.9997387528419495}",neutral,0.9997387528419495,0
+Kellie Barton - Thales,"Sun, 13 Aug 2017 02:34:55 GMT",https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jYXJlZXJzL2tlbGxpZS1iYXJ0b27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Before I joined Thales, I’d completed a number of engineering work placements, a 12-month internship and a three-month contract in the US as a Component Engineering Technician. These experiences stood me in good stead for a year that has been very full-on. This has included being selected as a lead on a requirements capture project, which involved working with teams of people from various disciplines across an unfamiliar business sector. I had to build relationships quickly and understand the product from the perspective of each discipline. A lot of ownership was placed on my shoulders, but it was great to learn about technologies I hadn’t encountered before.
+
+
+
+I’m currently working on an automated test solution for a commercial aircrafts communication system. This has given me the opportunity to accelerate my understanding of avionic systems and the importance of working with stakeholders and pilots to create requirements which will produce a solution which is right for them. I’m involved in many aspects of the design of the test solution, from assessing requirements and selecting the necessary equipment and hardware, to designing the interfacing test adaptors. My technical knowledge has grown and grown, and since this is a new venture for the test methods department, it’s an exciting time to be part of the team.
+
+
+
+Engineering is just as much about interpersonal skills as it is about technical capability. If different disciplines work in isolation then often issues arise at the integration stages, so clear communication and expectations are a must with any project. The technical solution is just part of the story; much more work goes on in the background such as the organisation of resources and project scheduling. Projects are complex, especially in design, with many unknowns, and it takes a lot of focus and effort to ensure that everyone in every discipline is working towards a common goal.
+
+
+
+I like to take part in as many extra projects as possible, as this provides me with new challenges and exposure to other parts of the business. I’ve worked with graduates and apprentices in a number of disciplines and organised the successful pilot of a structured Engineering Workshop work experience week in Crawley. For this scheme, we needed a photo disclaimer document so we could take photos of students for future scheme marketing, but Thales didn’t have one. I did my research and created the document – after a few amendments from the legal team, this is now in standard use across Thales.","{'label': 'Neutral', 'score': 0.9944041967391968}",neutral,0.9944041967391968,0
+"""France needs to become the worldwide security champion"" by Marc Darmon - Thales","Tue, 29 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY3JpdGljYWwtaW5mb3JtYXRpb24tc3lzdGVtcy1hbmQtY3liZXJzZWN1cml0eS9uZXdzL2ZyYW5jZS1uZWVkcy1iZWNvbWUtd29ybGR3aWRlLXNlY3VyaXR5LWNoYW1waW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"In a piece published in Les Echos on 24 August, Marc Darmon, Executive Vice President, Secure Communications and Information Systems at Thales and president of the French trust and security industry group CICS, explained why he believes France needs to invest in technological innovation in the security sector","{'label': 'Neutral', 'score': 0.9999659061431885}",neutral,0.9999659061431885,0
+HMS Queen Elizabeth sails into Portsmouth - Thales,"Tue, 15 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2htcy1xdWVlbi1lbGl6YWJldGgtc2FpbHMtcG9ydHNtb3V0aNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"HMS Queen Elizabeth sails into Portsmouth Queen Elizabeth Class (QEC) Cerberus Share this article
+
+
+
+LinkedIn
+
+HMS Queen Elizabeth has now arrived in Portsmouth following her departure from Rosyth, Scotland and the latest round of sea trials. Thales is playing a significant role in the running of the 65,000-tonne warship, being a founding member of the Aircraft Carrier Alliance and providing key equipment on-board.
+
+The arrival of HMS Queen Elizabeth into her home port of Portsmouth Naval Base marks a key phase of the carrier’s journey, prior to the Royal Navy’s official acceptance of the ship later this year, with the exact date and time of the docking not being announced until yesterday due to changing weather conditions. The naval base has spent a year and a half preparing for the moment, which has seen over 20,000 items dredged up from Portsmouth Harbour.
+
+The homecoming of HMS Queen Elizabeth, the largest warship ever built for the Royal Navy, is not only an exciting occasion for the Navy and Portsmouth Naval Base, but also for Thales. As a founding member of the Aircraft Carrier Alliance , alongside Babcock , BAE Systems and the Ministry of Defence, Thales has been heavily involved in the delivery of the Queen Elizabeth Class (QEC) aircraft carriers, HMS Queen Elizabeth and her sister ship; HMS Prince of Wales.
+
+Further to this, Thales is providing the communications systems on-board both carriers. The systems, from wireless on-board to satellite connectivity, allow the staff on the ships to talk to each other, the aircraft, the rest of the Navy and associated task groups, as well as allies, civilian vessels and air traffic with complete security, anywhere in the world.
+
+Power and propulsion is a crucial element of the QEC programme. Comprising Rolls Royce, GE Energy and L-3, Thales has led the sub-alliance to deliver a distribution network that will generate enough energy to support both ships – the equivalent of a large town. Collaboration has been a necessity in delivering other requirements too, including for the implementation of the long-range S1850M radar, which has been supplied by Thales in the Netherlands.
+
+As part of the QEC project on a broader level, Thales has also been involved in the designing of some of the aircraft due to be transported by the carriers; the Merlin Mk2 helicopters, which are fitted with Thales’s Folding Light Acoustic System for Helicopter (FLASH) Dipping Sonar. The FLASH Dipping Sonar allows the helicopters to locate and track submarines in deep and littoral waters, even in high reverberation and noisy conditions. Plus, the Merlin Mk2 helicopters are fitted with Thales’s Cerberus mission system and Searchwater radar as part of the Crowsnest solution, enabling the aircraft to provide the QEC carriers with vital intelligence, surveillance and tracking.
+
+Victor Chavez, Chief Executive of Thales in the UK, says:
+
+
+
+“The Royal Navy must be incredibly excited to see HMS Queen Elizabeth sailing into her new home at Portsmouth today as this represents an advancement in our UK maritime capability. It is a milestone event for the Navy, the Ministry of Defence and the Aircraft Carrier Alliance. All employees who have been involved in this landmark programme should feel a sense of pride today. Thales’s sensors, systems and capabilities will help the carrier carry out the demands of operational life at sea for many years to come, helping to protect the ship and the ship’s company. “It has been a real team effort and to see such an iconic example of British engineering sailing in to her new ‘home’ is an achievement we should all be justifiably proud of.”
+
+Thales will now continue to support the QEC programme during a period of planned engineering, in order to prepare HMS Queen Elizabeth for the mission system sea trials later this year.
+
+To find out more about Thales’s involvement in the QEC programme, click here.","{'label': 'Neutral', 'score': 0.9999985694885254}",neutral,0.9999985694885254,0
+Bluebottle ASW USV trial success - Australian Defence Magazine,"Thu, 24 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9kZWZlbmNlL3VubWFubmVkL2JsdWVib3R0bGUtYXN3LXVzdi10cmlhbC1zdWNjZXNz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Patrick Durrant | Sydney
+
+On 10th August, Ocius Technology and Thales Australia successfully demonstrated the solar, wind and wave powered prototype Bluebottle unmanned surface vessel (USV) in combination with a Thales thin line array on 60m of cable off the coast of NSW, near Jervis Bay.
+
+In September 2015, Defence invested $2.85 million in Ocius Technology to develop the demonstration, under Round 19 of the Defence Capability and Technology Demonstrator (CTD) Program. The CTD program has since transitioned to the Defence Innovation Hub.
+
+We've been encouraged to apply for the CTD Extension
+
+CDF Air Chief Marshal Mark Binskin attended the demonstration along with a group of senior naval officers, DST Group and Defence personnel.
+
+Ocius CEO Robert Dane said the response from those attending had been extremely positive.
+
+“Together with Thales, we'll now submit our report to Strategic Policy and Intelligence (SP&I) Group – we've been encouraged to apply for the CTD Extension,” he said.
+
+Bruce races the support vessel back to HMAS Creswell after the demonstration off Jervis Bay. Credit: Ocius Technology via YouTube
+
+He was particularly pleased at the performance of Bluebottle, also known as Bruce, under conditions that were far from ideal.
+
+“It was a pretty wild out there, we had a 30 knot westerly and a sea state of three to four but the array performed really well,” Dane said. “Because Bruce was so quiet compared with other larger vessels deploying arrays, the array performed above expectations.”
+
+Ocius will now focus on Autonomous Warrior 2018, a global unmanned systems demonstration that will be conducted at Jervis Bay with participants joining from around the world.
+
+“We plan to have two to three networked Bluebottles at that event operating both active and passive arrays,” Dane said.
+
+An extended ocean going trial is planned in the near term, and Dane mentioned oil and gas surveyors had expressed interest in Bluebottle conducting some sea bed mapping and pipeline survey work.
+
+Ocius Technology will be attending the forthcoming Pacific Maritime Expo in Sydney in October, and hopes to have Bruce on display at their stand in Hall 1 within the AIDN precinct. For more on the company and unmanned maritime systems, see ADM's recent August edition.","{'label': 'Positive', 'score': 0.6601510643959045}",positive,0.6601510643959045,1
+Avoiding Mistaken Identity - Asian Military Review,"Thu, 31 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMTcvMDgvYXZvaWRpbmctbWlzdGFrZW4taWRlbnRpdHktYm1zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The international Battle Management System (BMS) market continues to remain a vibrant sector for armed forces seeking mature systems to facilitate a greater understanding and manipulation of Command and Control (C2) across the battlespace.
+
+Overall, the market is witnessing a continuation of large-scale BMS programmes such as the Indian Army’s ongoing initiative in this regard while at the technological level, hardware and software is being miniaturised so as to proliferate BMS capabilities down to the lowest tactical levels. Yet globally, financial constraints, particularly in Europe and North America, are affecting BMS programmes. For example, the Polish Ministry of Defence (MoD) and Technology Modernisation Programme 2016-2022 which outlines a total of 14 procurement efforts is expected to witness cuts to several of these in the programme’s latest revision due to be published in September 2016. One of the concepts expected to be cut is a BMS for the KTO Rosomak armoured eight-wheel drive vehicle, itself a licence-built version of the Patria Armoured Modular Vehicle, operated by the Wojska Lądowe (Polish Army). Previous plans had called for the MoD to equip a total of 317 Rosomak vehicles with a BMS in order to improve Situational Awareness (SA) for mounted and dismounted troops alike.
+
+More positively, NATO (North Atlantic Treaty Organisation) announced towards the end of July how its Communication and Information Agency (NCIA), which procures C2 systems on behalf of the Alliance (as opposed to individual NATO members) remains in the process of preparing documentation for the solicitation of more than $3 billion of technology over a three-year acquisition effort. Although 50 percent of funds will be dedicated to enhancing satellite communications for the Alliance, NCIA officials explained to AMR the remainder would be spent on BMS-related technologies. For example, solicitation is expected to begin in 2017 with one BMS-related project designed to provide C2 capabilities for Chemical, Biological, Radiological and Nuclear (CBRN) threat management. The NCIA has set aside $11.1 million for this particular effort which aims to fulfil capability gaps, possibly in the detection and analytical fields, although this has not been confirmed by NATO, regarding chemical and biological weapons in the Middle East as well as increased nuclear activity in the Democratic People’s Republic of Korea (DPRK). The Syrian theatre has witnessed frequent chemical weapons usage, most recently in early August when the city of Saraqib in northwest Syria was attacked with air-to-ground barrel bombs containing chlorine. Meanwhile, on 6 January, the DPRK tested what its government alleged to be a hydrogen bomb, although this is disputed by some nuclear weapons experts.
+
+Beyond CBRN capabilities, the NCIA explained in a statement published on 24 July, that the funding would also be used to improve the Alliance’s “cyber, air defence and satellite communications” in addition to C2 for “complex multinational operations”. This requirement is a response to campaigns which are seeing increasing integration and interoperability with international partners. Nowhere is this more apparent than in the Middle East where NATO and allied nations continue to perform counter-insurgency operations against the Islamic State of Iraq and Syria (ISIS) organization. Operation INHERENT RESOLVE (OIR) was launched in 2015 with a mission to defeat ISIS in the Combined Joint Operations Area of northern Iraq and Syria. Led by CENTCOM (United States Central Command) the OIR coalition features approximately 60 nations providing air, ground and maritime forces, bringing with it significant issues regarding interoperability and C2.
+
+The NCIA $3 billion allocation discussed above will see a $22 million set aside for NCIA’s TRITON programme which has been running since 2011. This particular concept aims to provide NATO maritime forces with a general overview of the battle area for enhanced SA and, therefore, enhanced decision-making processes. On 17 May, the TRITON project released an Invitation of Bid for Increment-1 of the initiative which will primarily provide Maritime Situational Awareness (MSA) and “replace the operational level functionality of the existing Maritime Command and Control Information System (MCCIS)”, a NCIA press release explained. The MCCIS entered service earlier this century as a C2 system which could provide NATO navies with a Recognised Maritime Picture (RMP) by federating together information derived from a number of sources such as vessel radar, to provide naval commanders with a robust RMP despite a diverse number of nations and vessels which may be contributing to a NATO naval task force. A winning bidder for Increment 1 is expected to be chosen by the end of 2016 with the award of a 36-month contract worth an undisclosed sum, NCIA confirmed.
+
+However, in line with financial restrictions on defence expenditure being experienced around the world, NATO is extremely wary of overspend on these types of programmes. NCIA sources explained to AMR how the agency would be pursuing a non-conventional procurement cycle to enable BMS upgrades to existing systems to fulfil the TRITON requirement, opposed to purchasing a new BMS to meet this requirement outright.
+
+Changing Shapes
+
+Seeking to downsize BMS hardware to allow it to be used at the lowest tactical level by a dismounted soldier is French company Atos which, at the Eurosatory defence and security exhibition in Paris on 13 June, unveiled its latest tactical BMS technology. The Bull BMS has been designed to support the C2 requirements of battlegroup (battalion-level) operations as well as the integration of airborne assets into its picture. The system, which features a tablet-size End User Device (EUD), can be used by mounted and dismounted personnel as well as by tactical operations centres dotted around the battlefield.
+
+According to company officials, the Bull BMS allows soldiers to “focus on their mission while benefiting from the power of digitisation” with the added benefit of accelerated decision making cycles and priorities of action. “The sharing of strategic information in real time gives battalions an advantage in terms of autonomy, responsiveness and protection, which visibly and durably changes the tactical situation on the ground,” a company statement reads. Designed for ground and ground-air operations, the Bull BMS provides connectivity from squads or sections up to battlegroup headquarters, and can be carried across legacy communications systems, such as the Armée de Terre’s (French Army’s) Thales PR4G tactical radio network.
+
+According to Atos, the Bull BMS is capable of providing real-time information across a continuously updating map of the battlefield where ground forces require the most complete SA in order to facilitate decision making. The BMS allows ground commanders to acquire and share intelligence, process and distribute orders, establish and update tactical situation pictures, and to view the logistics situation. “Using this modern system is simple and ergonomic. The interface is fluid and robust in an environment where the faster the information is delivered, the better the command level can take the decision,” a company official explained to AMR. The Bull has been designed to be easily integrated across several platforms as it takes the form of a ruggedised laptop and to this end is already furnishing a number of Armée de Terre (French Army) platforms such as the Nexter VBCI eight-wheel drive Infantry Fighting Vehicle, the rotorcraft of the ALAT (Aviation Légère de l’Armée de Terre/French Army Aviation), and the Sagem/Safran Electronics and Defence FÉLIN (Fantassin à Équipement et Liaisons Intégrés/Integrated Infantry Communications and Equipment) soldier system, and as part of the French Army’s Scorpion Combat Information System upgrade which is currently ongoing.
+
+Also unveiled to the market at Eurosatory was Thales’ Digipack BMS which the company has designed as a variant of its in-service Commander Battlegroup product. This has been designed to fulfil the most basic requirement in BMS capability and can even act as a stepping stone towards more advanced BMSs in the future. To this end, the company is targeting aspiring armed forces in the Asia-Pacific, the Middle East and South America. The Digipack must be connected to a vehicle, or soldiers, existing radios, Thales explained to AMR during Eurosatory. The system includes geo-location information to generate a basic level of SA regarding blue and red forces, supported by text-based messaging, operating at bandwidth speeds of approximately 250kbps (kilobits per second). “Network-centric operations hinge on the ability to share the right information with the right people at the right time,” a Thales spokesperson explained at Eurosatory. “Digipack meets the requirements of these new forms of engagement to support land forces in their digital transformation.” Similar to a smartphone, Digipack can be upgraded with specialist applications or ‘apps’ as and when they become available.
+
+Israel
+
+Like Thales, Israel Aerospace Industries (IAI) is offering its BlueDome BMS for tracking of friendly forces to reduce the threat of fratricide. Speaking to AMR, an IAI spokesperson explained how the concept, designed to improve combat efficiency, comprised an “independent, self-contained system (for) dismounted troops and various ground and air platforms.” They added that “BlueDome will help achieve a significant reduction in friendly-fire incidents.” The system can be integrated into a variety of EUDs ranging from handheld optronics through to tactical ground vehicles and helicopters. Geolocation information is relayed to the BMS via small transponders carried by soldiers and platforms which transmit coded information regarding their identity and whereabouts. “It’s worn on the soldiers’ uniform or helmet. When the interrogator receives the response from the transponder, this confirms that a friendly force has been detected,” the spokesperson explained. “BlueDome operates independently of any other system, without the need for long radio-communications or using navigation means that may reveal the force’s location to hostile entities. The system is highly reliable and protected from enemy jamming, misuse or interception.
+
+“The immediate and dependable detection of friendly forces shortens and streamlines the process of understanding the dynamic battle management situation and minimises friendly fire events,” they added. Earlier in the year, a test and evaluation exercise was conducted in Israel in conjunction with the Israeli Defence Force (IDF). IAI explained how the BlueDome was used during low light training exercises as well as in urban and rural environments, even locating friendly forces in built-up areas.
+
+Sweden
+
+Meanwhile, Saab also used Eurosatory to promote the deployment of its Strids Ledning Batalion (SLB) BMS in support of the Swedish Defence Materiel Administration’s $160 million tactical radio programme, awarded to Telefunken Racom in April. A variant of the company’s 9Land BMS solution, the SLB will replace legacy RA-180 BMS currently used by the Armén (Swedish Army). The SLB BMS comprises a Basic Needs Tracker (BNT), Combat Needs Integrator (CNI), and All Needs Net Commander (ANNC). The BNT has been designed for individual soldiers providing SA to the lowest level on the battlefield and includes navigation and route management tools, blue force tracking, messaging and alerts. It is wearable and can be integrated onboard light tactical ground vehicles. “Soldiers are the outermost node in a network, which means they are not only receiving information, but also generating information for the entire BMS,” a Saab official explained to AMR.
+
+Furthermore, the CNI incorporates the same capabilities as the BNT with the addition of integrated vehicle information systems, sensors and full motion video, allowing it to assist fire support missions, collaborative mission management and remote sensor management. Finally, the ANNC extends the reach of the Integrator technology to higher command elements and horizontally to coalition partners during multinational operations. It also includes an After Action Review feature allowing armed forces to generate ‘lessons learned’ following a mission.
+
+Conclusion
+
+Following multiple so-called “blue-on-blue” fratricide events during operations in Iraq over the first decade of the millennium, the ability to more cohesively conduct coalition operations remains a high priority for nations around the world. For example, on 6 March 2015, a Canadian soldier was mistakenly killed by Kurdish Peshmerga guerrillas in Iraq after being mistakenly identified as an ISIS cadre when returning to an observation post. The need to have timely and reliable information on the battlefield is unlikely to diminish and looks set to only increase in the future.
+
+by Andrew White","{'label': 'Positive', 'score': 0.6524510979652405}",positive,0.6524510979652405,1
+Close Protection - Asian Military Review,"Wed, 09 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMTcvMDgvY2xvc2UtcHJvdGVjdGlvbi1jaXdzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Close-In Weapon Systems (CIWS) are the last line of defence for ships. While they were originally developed to protect against anti-ship missiles, the range of threats have evolved over the past decades, driving changes in CIWS architecture.
+
+CIWS systems are generally based on a gun in the 20mm to 35mm range, though there is considerable variety within the category. The armaments themselves have changed over the years too; for example, missiles have sometimes been substituted for guns. One of the best-known CIWS is Raytheon’s Phalanx family, which has been in service in various configurations since 1980. The weapon’s main armament is a 20mm radar-guided Gatling gun, and 23 customers use the system worldwide. There is also a land-based version known as the Centurion designed for counter-rocket, artillery and mortar defence, which is in service with the US Army.
+
+The latest Phalanx iteration is the Phalanx Block-1B Baseline-2, which was first delivered to the US Navy in September 2009. This configuration improved the system’s integral Ku-band (13.4-14/15.7-17.7 gigahertz/GHz) fire control radar and increased reliability, said Rick McDonnell, director of Raytheon’s close-in defence solutions programme. Earlier versions of Phalanx are still in use around the world, and Raytheon still produces the Phalanx Block-1B Baseline-1 for international navies. However, the US Navy only procures the Phalanx Block-1B Baseline-2 for its new ships, and offers this to allies through the US government’s foreign military sales programme. Logistical support including spares and repairs is offered for all Phalanx configurations from Raytheon on a case-by-case basis, Mr. McDonnell said.
+
+History
+
+CIWS were originally designed to address missile threats, though the dangers to ships have evolved over the years. Mr. McDonnell pointed to the attack on the USS Cole, a US Navy ‘Arleigh Burke’ class destroyer attacked by Al Qaeda insurgents in the port of Aden in October 2000 killing 17 crewmembers and injuring 29. This was: “widely believed to have caused the navy to enter into a programme of record to upgrade the entire fleet with Phalanx having a secondary mission of protecting the ship from surface or slow-moving air targets; i.e. (a) surface mode,” Mr. McDonnell continued. All Phalanx Block-1B systems have this surface mode capability. The US Navy has now replaced all but a handful of its Phalanx systems with the new baseline, Mr. McDonnell said, with the upgrades likely to be completed by early 2019. However, the Phalanx Block-1B Baseline-1 weapon is still in production for international navies, while existing Phalanx weapons can all be upgraded to the Phalanx Block-1B Baseline-2 status: “New Phalanx systems are also available where some of the large mechanical structures come from existing inventory and are reworked to a ‘like new’ condition,” Mr. McDonnell added. “When this inventory is depleted new systems will be made from scratch.”
+
+In developing the Phalanx Block-1B Baseline-2 design, the major interest on the part of the US Navy, the Phalanx’s main customer, was on continuing to improve the system’s reliability, Mr. McDonnell explained, ensuring that: “its availability is as high as possible, its readiness is as high as possible, because when you need it, you need it, you can’t afford for the system to ever be down,” he told AMR. Mr. McDonnell also highlighted the development of the SeaRAM: a variant of Phalanx in which the gun is removed and an eleven-round RIM-166 Rolling Airframe Missile semi-active radar homing/infrared guided surface-to-air missile launcher installed in its place. The idea is to combine the accuracy, range and manoeuvrability of the missile with the search-and-track sensor and quick-response capability of the Phalanx, according to Raytheon. To this end, the SeaRam is being installed on a number of US Navy ‘Arleigh Burke’ class destroyers, including the USS Carney, USS Ross, USS Donald Cook and USS Porter, although there are no details as to when these installations could be concluded. The SeaRAM can be used in conjunction with the traditional CIWS system for a layered defence system; this is the approach being taken on the US destroyers, for example. This could mean that ships will carry a mixed complement of gun and missile equipped Phalanxes. The Japan Maritime Self Defence Force’s ‘Izumo’ class helicopter carriers will also feature both systems: “That’s an interesting combination that I see becoming more appealing to navies,” Mr. McDonnell said.
+
+Goalkeeper
+
+Another big name in the CIWS world is Goalkeeper, a 30mm system originally developed by Signaal, which is now the responsibility of Thales. While it is most associated with the Koninklijke Marine (Royal Netherlands Navy), Goalkeeper has a range of international users, such as Portugal and the Republic of Korea (ROK). The last Goalkeeper for the Netherlands rolled off the production line in the 1990s, while the most recent delivery was made to the ROK Navy in 2006. However, Thales has continued working on it in the intervening decades, with improvements carried out for the Dutch in the mid-1990s. The company is now working on another upgrade contract for that customer; under this deal, which was signed in 2012, Thales is improving the optronic capabilities of the system, its algorithms and is adding a new operator console, among other improvements, said Monique Kedde, Goalkeeper product manager and project manager for Goalkeeper Upkeep for the Royal Netherlands Navy. While there have been a number of fixes to obsolescence problems since the weapon was introduced in 1979, this current upgrade is a larger effort: “to enhance the lifetime of the Goalkeeper,” she said. Ms. Kedde added that this upgrade is available to export customers through the Goalkeeper Service Life Extension Program (Goalkeeper SLEP).
+
+Besides improving the weapons’ performance against air threats, as illustrated by the upgrade for the Royal Netherlands Navy, the system had to evolve to deal with new surface threats, primarily swarms of small boats attempting to attack a vessel. Today’s surface threats are “faster and more manoeuvrable,” Ms. Keppe added. Such tactics were employed by Iran’s Revolutionary Guard’s Navy (RGN) during the 1980-1988 Iran-Iraq War, during which the RGN would employ Boghammar Marin speedboats equipped with heavy machineguns and rocket launchers to mount surprise attacks against ships in the Persian Gulf believed to be supporting Iraqi commerce during the so-called ‘Tanker War.’ Moreover, the Sea Tigers maritime wing of the Liberation Tigers of Tamil Eelam insurgent organisation active during the Sri Lankan civil war of 1983 to 2009 used small boats to mount suicide attacks against the Sri Lankan Navy.
+
+Definition
+
+The definition of a CIWS is perhaps not so clear cut as it might first appear, said Eric Wertheim, a naval expert and author of the US Naval Institute’s Combat Fleets of the World. There was a question mark over the dividing line between small arms and CIWS: for example, guns in the 12.7 mm realm could be used against such threats as small craft or helicopters: “The most effective layered defence is achieved through a continuum that typically begins with small arms up to the CIWS guns at the centre, then moves farther out to point defence missiles, then to shorter range and medium range missiles, all the way up to the longer range surface-to-air missiles,” he told AMR.
+
+Some systems can be used in multiple, different roles, including CIWS. For example, the 35mm Rheinmetall/Oerlikon Millennium Gun could be used for multiple roles on different ships, said Craig McLoughlin, senior vice-president of naval systems at the company. It could be used in a CIWS role, he said, though it could also be the main gun for constabulary or patrol vessels, a secondary armament for a corvette or an offshore patrol vessel, or as a dedicated self-defence gun for frigates and larger vessels including auxiliaries or amphibious assault ships. The company sees the gun as having a wide ranging, self-defence capability, protecting ships effectively against anti-ship missiles at short ranges but also out to ranges as far as 1.3 nautical miles (2.5 kilometres).
+
+The launch customer for the Millennium Gun was the Søværnet (Royal Danish Navy), with the first systems delivered in 2006, Mr. McLoughlin said, while there are a number of other customers, such as the Armada Bolivariana de Venezuela (Venezuelan Navy). Mr. McLoughlin said Rheinmetall had adopted a “future-oriented” approach with the Millennium Gun, asking: “how (do) you protect the ship with a small number of systems against a large number of threats?” This underscored the importance of CIWS having a multirole approach, he continued. The company has designed the Millennium Gun to be flexible in terms of integration, Mr. McLoughlin added: “We are fire control and combat system agnostic; use ours or bring your own.”
+
+Moreover, he pointed to a number of ways in which technology has evolved in recent years regarding CIWS. He highlighted sensor performance and the advances driven by phased array radar technology (see below). There is a need to detect, classify and track in the shortest possible time, Mr. McLoughlin said: “and I think that that’s where phased array technology is taking us now.” The company is investigating phased array radar systems that could be combined with the Millennium Gun, with significant benefits envisaged in both the management of engagements in the multi-threat environment and in reducing the reaction times of the weapon’s fire control system. Rheinmetall is working with a number of suppliers on these efforts, and one potential customer exists, though Mr. McLoughlin said the project was still in its early stages.
+
+Put simply, phased array radar takes a Radio Frequency (RF) transmission and feeds it to individual transmit modules mounted across a radar’s antenna. The single RF transmission is now split into several individual transmissions from each of the transmit modules allowing the beam to be electronically steered by using a process known as phase shifting (changing the phase of a wave, the phase being the cycle of a sine wave performing one full oscillation) enabling a radar to be electronically steered rather than necessarily having to physically move the radar’s antenna. Thus time is saved by being able to electronically move an antenna’s field-of-view as opposed to physically having to move the radar antenna.
+
+Mr. McLoughlin also pointed to efforts to reduce the time between detection and tracking with the weapons’ fire control radar, in order to reduce overall system reaction time: “Especially when we talk about anti-ship missiles now, where supersonic weapons are prevalent and hypersonic (speeds of Mach Five and above) is coming, reaction times are critical … I think those areas of system intelligence and reaction time have to improve, and that’s what we’re working on,” he said.
+
+Rheinmetall is known as an ammunition manufacturer, and this was an important area of consideration for CIWS, Mr. McLoughlin said. Airbursting ammunition, such as the company’s AHEAD 35mm product, was an option, offering a huge number of sub-projectiles to give a guaranteed hit. However, Mr. McLoughlin said that sub-projectiles can become very small within the boundaries of the payload, so: “you’ve always got to find that sweet spot” between the number of sub-projectiles and their kill probability. The company is currently working on optimising the different sub-projectile payloads inside AHEAD, he noted. It has a variety of different sub-projectile sizes, which could be used in a pre-mixed configuration of larger and smaller sizes. The advantage of using an airburst approach was the ability to bring down targets at greater distances using a smaller number of rounds, Mr. McLoughlin concluded.
+
+The Millennium Gun could fire airburst rounds, he added, along with more traditional high-explosive rounds. The system is based on a revolver cannon, which has a tendency to sway during firing, Mr. McLoughlin said. The company developed a system to regulate the rate of fire when the gun was first designed, he explained. In the first generation, this worked for ‘rapid single shot’ fire at rates of 200 rounds-per-minute (rpm). In the new system, both rapid single shot and burst fire (about 1000 rpm) will be fully regulated. The latter has been fully proven and is now in implementation: “Rather than just pressing the trigger and letting the gun work like an automatic cannon, we’re actually regulating the rate of fire even in (the weapons’) thousand rpm mode,” he explained: “These tiny little pauses actually give the system time to settle down and for the dynamics to become predictable, and this increases our accuracy.” Rheinmetall has increased the modularity of the system, making it more applicable for a wider range of tasks. The company has also almost completed development of a lighter weight version of the weapon, which offers the same level of firepower: “We can install this on smaller boats as a main gun, but also it can be used in that close-in weapon system and self-defence role on larger ships.”
+
+Laser Beams
+
+Directed-energy weapons have grown as an area of focus for both navies and the industry. For example, the US Navy’s AN/SEQ-3 Laser Weapon System (LAWS) has been tested on the USS Ponce, using the Phalanx’s radar and fire control systems. Similarly, Raytheon is working with the US Defence Advanced Research Projects Agency (DARPA) on the Multi Azimuth Defence Fast Intercept Round Engagement System (MAD-FIRES), which focuses on technologies that would combine the attributes of bullets, such as ammunition capacity and speed, with those of missiles, such as guidance, accuracy and precision.
+
+Both MAD-FIRES and lasers improve magazine depth or efficiency by either providing a rechargeable system, in the case of lasers, or reducing the amount of rounds needed in a mission, in the case of MAD-FIRES, said Mr. McDonnell. Still, he does not see the more traditional approaches going out of fashion any time soon. For the foreseeable future, there will be a lot of targets that the navy would only want to confront using a Gatling gun, he said.
+
+Rheinmetall is also looking at the potential of directed energy, carrying out trials in which the Millennium Gun’s cannon is replaced with lasers. This effort had been successful, Mr. McLoughlin said. Additionally, the company has worked with the Heer (German Navy) on developing a High-Energy Laser (HEL) effector. This is still in the research and development phase, with many trials conducted using numerous systems and differing HEL energy levels. There are a number of attractions to the directed energy approach, Mr. McLoughlin noted, most notably the fact that the magazine is essentially unlimited. It could be a useful supplement when it came to dealing with swarming attacks and other threats. However, laser sources can be expensive, he said. Systems like lasers and soft-kill approaches have a number of uses, but there will always be a place for hard-kill systems: “You can’t replace one with the other; you probably need to have the capabilities for both.”
+
+by Gerrard Cowan","{'label': 'Neutral', 'score': 0.9987881779670715}",neutral,0.9987881779670715,0
+Glasgow engineers scope century of submarine innovation - GOV.UK,"Thu, 31 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvZ2xhc2dvdy1lbmdpbmVlcnMtc2NvcGUtY2VudHVyeS1vZi1zdWJtYXJpbmUtaW5ub3ZhdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Govan-based Thales delivered the first submarine periscope, the FY1, to the submarine M3 in late summer 1917. Since then, every class of RN submarine has been fitted with a periscope or optronics mast designed and built by Thales’ engineers in Glasgow.
+
+Today Thales’ state-of-the-art optronics masts support submarines navigation, warfare and communications systems, including provide thermal imaging and night vision capabilities. The masts can complete a full 360° sweep of the horizon, looking for potential threats, in only a few seconds, providing high definition images of the battle space to commanders before they are detected by an adversary.
+
+Defence Procurement Minister, Harriett Baldwin said:
+
+This anniversary marks a proud record of Scottish engineering contributing directly to UK defence and national security by providing the eyes and ears for our nuclear deterrent and attack submarines. Generations of highly skilled engineers across Scotland have applied battle winning technologies to meet the needs of their UK armed forces, as well as exporting their innovations to dozens of navies around the world.
+
+Royal Navy submarine M3 was fitted with the first FY1 No.1 periscope.
+
+Victor Chavez, CEO, Thales UK, added:
+
+Arguably our greatest single innovation was introducing a night vision capability to allow submarines to navigate and gather intelligence 24/7. However, our latest full remote control, non-hull penetrating optronics systems give naval architects more design flexibility by not restricting them to co-locating the fin and the control room via a 50ft long periscope. These options, combined with the digital inboard control and display system, provide commanders with a leap forward in submarine capability.
+
+Optronics masts are electronic imaging systems and do not penetrate a submarine’s hull, but are contained in the conning tower or ‘fin’. They are fitted to all seven of the new Astute-class submarines, the first three of which are already in service from HM Naval Base Clyde.
+
+Thales are currently bidding competitively to have their optronics masts procured for the BAE Systems Maritime build of four new Dreadnought nuclear deterrent submarines which will come into service in the 2030s. The company will conduct sea trials of their latest mast in 2018.
+
+Defence Minister Harriett Baldwin speaking at Thales today.
+
+Thales’ site at Glasgow has 129 years heritage and currently employs 600 people, mainly very highly skilled technical and engineering jobs, designing and building optronics systems for the Royal Navy, Army and Royal Air Force.
+
+From 2020 Scotland’s HM Naval Base Clyde will be home to the entire UK Submarine Service of seven hunter killer and four deterrent submarines.","{'label': 'Neutral', 'score': 0.9999773502349854}",neutral,0.9999773502349854,0
+Update: Thales Canada adding 60 Ottawa jobs with $800M Arctic ship support contract – Ottawa Business Journal - Ottawa Business Journal,"Thu, 17 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vb2JqLmNhL3VwZGF0ZS10aGFsZXMtY2FuYWRhLWFkZGluZy02MC1vdHRhd2Etam9icy13aXRoLTgwMG0tYXJjdGljLXNoaXAtc3VwcG9ydC1jb250cmFjdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The federal government awarded Thales Canada an $800-million contract to provide in-service support to the incoming fleet of Arctic Offshore Patrol Ships over the next eight years. It’s a deal the feds say is the largest-ever contract of its kind, and an example of improvements to the government’s often-maligned procurement process.
+
+Thales Canada’s Ottawa operations will add roughly 60 employees as part of the ISS contract according to Dale Potter, the company’s vice-president of defense mission systems. That’s in addition to a current headcount of more than 200 at Thales in Ottawa, where the firm provides systems integration and software development for the Canadian Armed Forces and naval operations.
+
+As part of the new contract, Thales will provide refits, repairs, maintenance and training to the AOPS and joint support ships. Options included in the agreement could see the partnership extended up to 35 years for a total value of $5.2 billion.
+
+The federal government claims that those 35 years of services will result in an economic benefit of $250 million in research and development from Thales.
+
+Mr. Potter, in his comments to members of the media, highlighted its partnership with L3-MAS’ Quebec outpost as an example of the contract’s anticipated impact on local subcontractors and suppliers.
+
+Canada-wide contract
+
+Ottawa doesn’t have any ports or shipyards, so expect any construction and installation work associated with the contract to take place at Thales Canada’s outposts in Halifax or Vancouver. At a simultaneous event in Halifax, Thales Canada CEO Mark Halinaty said he expects thousands of jobs and hundreds of suppliers to be engaged across Canada.
+
+.@ThalesCanada CEO Mark Halinaty “Our in-service support solution will create 1000s of #jobs & engage 100s of suppliers across #Canada” pic.twitter.com/YpuTzCgnHZ — Thales Canada (@ThalesCanada) August 17, 2017
+
+Speaking to OBJ after the press conference, Mr. Potter said the work being done in Ottawa will be more logistical in nature.
+
+“We will build up a team here in Canada. Part of our team will be here in Ottawa, because that’s where our customer is … Primarily that team will be responsible for the oversight, the management and the planning for all of the in-service support activities that will happen on this platform,” he says.
+
+Technical work does take place in Ottawa, however, primarily in systems integration. Mr. Potter says equipment is routinely brought to Ottawa for testing before being installed in ships on the coast.
+
+Procurement overhaul
+
+Steve MacKinnon, parliamentary secretary to the Minister of Public Services and Procurement, was on-hand to tout the improved procurement process used to award this contract. Among the improvements, he says, was the use of a more “relational” approach between the government and bidders, a phased system that allowed bidders to correct minor application errors throughout the process and a concurrent evaluation method that provides the support contract for the AOPS while they’re still being built.
+
+“These approaches increased transparency while ensuring bidders are not excluded for simple technicalities,” Mr. MacKinnon said.
+
+The feds are also in the midst of exploring bids to deliver the Royal Canadian Navy’s next generation of Canadian warships. Officials told media that they anticipated further announcements about the next stage of that procurement process in the next few weeks.
+
+In addition to its system integration work, Thales Canada provides radars and sensors for the Canadian Armed Forces, the coastguard and some police services in the country. A release states that Thales Canada currently earns $500 million in annual revenue, with 1,800 employees across the country.","{'label': 'Neutral', 'score': 0.9993452429771423}",neutral,0.9993452429771423,0
+Minehunters on path to 2030s with new deployable MCM - Australian Defence Magazine,"Tue, 15 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL21pbmVodW50ZXJzLW9uLXBhdGgtdG8tMjAzMHMtd2l0aC1uZXctZGVwbG95YWJsZS1tY23SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Commonwealth has granted First Pass approval to extend the service life for Navy’s Huon Class Minehunter Coastal vessels, and Thales Australia is to deliver and support new deployable mine countermeasures (MCM) over the next 15 years.
+
+The Head of Navy Capability, Rear Admiral Jonathan Mead, said the project forecast in the Defence White Paper 2016 will ensure Defence is able to provide an effective maritime mine countermeasure capability out to the 2030s.
+
+“Minehunters play a vital role in protecting Australia’s ships, harbours and infrastructure from the threat of sea mines,” RADM Mead said.
+
+“First Pass approval is a major milestone for this project that will see the life of the Minehunters extended to ensure there is no gap in mine warfare capability as we determine the replacement vessels.
+
+“The Huon Class have proven highly capable, supporting Defence’s international engagement strategy through participation in exercises and operations to secure our sea lanes and disposing of WWII explosive remnants, and they will continue to serve Australia for years to come.
+
+“In addition to its mine warfare role, the Huon Class vessels play a unique role in Defence assistance to the civil community and in 2011 provided support in response to severe flooding in Queensland, including the disposal of debris that posed a navigational hazard,” RADM Mead said.
+
+The Australian Defence industry will be heavily involved in the future of the platforms. Negotiations are underway with Thales Australia to engage them as the Prime Systems Integrator to deliver the project. Under Thales’ lead there will be opportunities for other Australian companies to support the Minehunters through their service life.
+
+The Huon class were built by Thales Australia, formerly ADI, and were introduced into service in the early 2000s.
+
+With regard to deployable MCM, RADM Mead said the prevalence and increasing sophistication of sea mines means the RAN must continue to improve the way it finds and disposes of these mines.
+
+“New autonomous and remote-controlled technologies deployed from within the maritime task force provides the opportunity to find and dispose of sea mines more safely and efficiently,” RADM Mead said.
+
+“In the 2030s, Defence will seek to replace its specialised mine hunting and environmental survey vessels with a single fleet of multi-role vessels embarking advanced autonomous and uninhabited systems.”
+
+RADM Mead said these newly introduced systems are the first step in realising a future capability which would allow the Royal Australian Navy to clear sea mines with minimal risk to its people and assets.
+
+“Thales Australia Ltd will deliver and support the new equipment over the next 15 years,” RADM Mead said.
+
+The new capability will primarily be based and sustained at HMAS Waterhen in Sydney, NSW.","{'label': 'Neutral', 'score': 0.6967347264289856}",neutral,0.6967347264289856,0
+"Patel, Mugheri slam tons in WPCA Summer - Saudi Gazette","Thu, 10 Aug 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc2F1ZGlnYXpldHRlLmNvbS5zYS9hcnRpY2xlLzUxNDc4OdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"By Dr. Sayed Ziauddin
+
+
+
+JEDDAH — Faisal Patel of Al-Mazroi Salonpas hammered 150 runs, Ahmed Mugheri of Sadafco an unbeaten 129, Mansoor of Stallions 137 to win their respective encounters as Black Hawks, Apex Express, Deccan Youth, MM Group and ADI XI emerged victorious in other matches of the WPCA Summer Morning Tournament.
+
+
+
+Stallions defeated Super CC by 102 runs. Stallions amassed 227 for 3. Mansoor blasted 137 in 66 balls, studded with 17 fours and 2 sixes. He first added 51 with Abdullah (18) and then 110 in 48 balls for the second wicket with Danish (28). Yasir remained unbeaten on 26. Adnan took 2-51.
+
+
+
+Super Cricket Club was bowled out for 125. Hamad stroked 16, Farooq 25, Sithik 25 and Waseem 21. Nawaz took 3 for 20, Yasir 2-4 and Asim 2-30.
+
+
+
+Black Hawks beat Indomie UU Cups by 32 runs. Black Hawks racked up 202 for 6. Ishfaq belted 57 in 29 balls as he added 61 with Arsalan 40. Adnan scored 17 and Anas 22. Azeem took 2-27 and Ziad 2-40.
+
+
+
+Indomie Universal United Cups could manage only 170 for 7. Mushtaq smashed 67 in 49 balls, Amir hit an unbeaten 23, Shoaib 18, Azeem 16 and Bilal Mohammed 15. Abdulrafay scalped 2-25.
+
+
+
+Al-Mazroi Salonpas thrashed INMA by 109 runs. Al-Mazroi Salonpas plundered 246 for 2. Faisal Patel blasted an unbeaten 150, studded with 9 sixes and 7 fours. He added 212 for the opening stand in 88 balls with Salman who stroked 74 with 6 fours and 4 sixes. INMA replied with 137 for 7. Dayan stroked 39, Safi 22, Ranjeet an unbeaten 24. Rumesh took 3-33 and Mubeen 2-12.
+
+
+
+Sadafco crushed Nawayeth by 131 runs. Sadafco piled up 238 for 1. Ahmed Mugheri remained unbeaten on 129 off 53 balls, studded with 13 fours and 6 sixes. He first added 47 with Salman (13) and then 191 in 99 balls for the unbroken second wicket with Ali Jaan Mugheri who remained unbeaten on 74 off 49 balls with 6 fours and a six.
+
+
+
+Nawayeth was restricted to 107 for 9. Fahad scored 28 and Shahoor 47. Ahmed Mugheri had 2-12 and Saqeeb 2-16.
+
+
+
+Undefeated Apex Express downed Jeddah Tigers by 4 wickets. Jeddah Tigers was bundled out for 132. Tahir hit 30, Zabi 16, Waheed 15, Imtiyaz 27 and Nanajee 16. Ahmed took 3-14 and Umer 3-27. Apex Express chased 133 for 6 in 102 balls. Abu Baker remained unbeaten on 34 and Asif 33. Saeed took 3 for 13.
+
+
+
+Deccan Youth trounced Hyderabad Strikers by 63 runs. Deccan Youth produced 154 for 7. Rizwan stroked 43 as he added 54 with Shareef (9). Khalid made 22 and Mujahid 17. Irfan scalped 2-16 and Javeed 2-25.
+
+
+
+Hyderabad Strikers responded with 91 for 7. Irfan Ayazuddin hit 43. Mujahid took 3 for 11 and Junaid 3 for 24.
+
+
+
+MM Group prevailed over Bihar international Fighters by 6 wickets. Bihar International Fighters was bowled out for 122. Ziaul Haq scored 16, Kashif 16, Moin unbeaten 20 and Ashiq Ali unbeaten 19. Sajjad took 4-10 and Junaid 2-19. MM Group reached the target of 125 for 4 in 106 balls. Junaid stroked 29, Umair 20 and Atif unbeaten 43. Nazim took 2-15.
+
+
+
+Summer Afternoon
+
+
+
+Contraco had the better of Jotun Penguins, Thales Group thrashed NAI Juffali and in the earlier week UCC beat Thales Group in WPCA Afternoon Summer tournament.
+
+
+
+UCC defeated Thales Group by 34 runs. UCC piled up 191 for 6. Obaidurrehman stroked 38 as he added 63 with Mudassir Raja 28. Shahnawaz Khan compiled 57 in 32 balls as he added 62 with Sarafaraz Riaz 17. Wajid hit an unbeaten 16. Amjad Iqbal took 2-22.
+
+
+
+Thales Group was bowled out for 157. Kausar made 55 in 28 balls to stitch 83 in 45 balls with Amjad Iqbal (27). Ali contributed 28. Obaidurrehman had 4 victims as Wajid took 3-28, Imran Asad 2-7 and Mudassir Raja 2-12.
+
+
+
+Contraco downed Jotun Penguins by 32 runs. Contraco piled up 176 for 6. Nadeem stroked 29, Waseem 29, Moon Shah 39, Asif Mehmood 41 and Rashid 15. Majed took 2-37. Jotun Penguins responded with 144 for 8. Shafiq scored 27, Ali 32, Mazhar 33 and Qasim 16. Usman took 3-17, Shakeel 3 for 34 and Sufyan 2-27.
+
+
+
+Thales Group thrashed NAI Juffali by 73 runs. Thales Group produced 152. Kausar hit 37 and Yasir 43. Aurangzeb took 3-24, A. Jaan 2-19 and Asad 2-37. NAI Juffali crashed for 79. Aurangzeb made 16. Yasir Jr. grabbed 4-10 in his 3 overs, Abid 2-10.","{'label': 'Neutral', 'score': 0.9999988079071045}",neutral,0.9999988079071045,0

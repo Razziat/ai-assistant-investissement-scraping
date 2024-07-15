@@ -1,0 +1,42 @@
+2024-04-17 20:46:40,991: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-17 20:46:41,288: alpaca.trading.stream: INFO: connected to: BaseURL.TRADING_STREAM_PAPER
+2024-04-17 20:46:43,867: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 20:46:43,867: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-17 20:46:43,867: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 20:46:43,867: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 20:46:43,883: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 20:46:43[0m
+2024-04-17 20:46:43,894: asyncio: INFO: [MLTrader] Getting historical prices for SPY, 30 bars, 
+2024-04-17 20:46:43,894: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:46:48,486: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:46:48,486: asyncio: ERROR: [MLTrader] range expected at least 1 argument, got 0
+2024-04-17 20:46:48,502: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 46, in on_trading_iteration
+    for i in range():
+             ^^^^^^^
+TypeError: range expected at least 1 argument, got 0
+
+2024-04-17 20:46:48,502: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-17 20:46:48,502: root: INFO: Backtesting finished
+2024-04-17 20:46:50,016: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 20:46:50,152: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 20:46:50,152: backtest_stats: INFO: Backtest took 0:00:09.160847 for a speed of 0.000

@@ -1,0 +1,480 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales to Take Key Role in 'Exercise Unmanned Warrior' - MarineLink,"Tue, 09 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm1hcmluZWxpbmsuY29tL25ld3MvZXhlcmNpc2UtdW5tYW5uZWQtd2FycmlvcjQxMzY5NNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is set to play a key role in a major U.K. Royal Navy exercise later this year to understand how unmanned systems might add real innovative operational capability in a military maritime environment.
+
+Exercise Unmanned Warrior will bring together the Royal Navy and 40 organizations from defense, industry and academia in October, representing the largest exercise of its kind.
+
+More than 50 vehicles, sensors and systems from across defense and industry will be deployed the Ministry of Defense exercise centered around the U.K. coast of Scotland and West Wales.
+
+As an industry leader in autonomous and unmanned systems, Thales will showcase its capability through the Watchkeeper Unmanned Aircraft System, Halcyon Unmanned Surface Vehicle and its collaborative work in the field of unmanned command and control research.
+
+For the first time, Watchkeeper, currently in service with the British Army, will fly in a littoral naval environment operating alongside a Type 23 warship and a merchant vessel.
+
+Watchkeeper will be integrated into a series of exercises varying from persistent wide area surveillance support up to 150 kilometers offshore, to landing forces and naval gunfire support.
+
+Data collected by Watchkeeper will be streamed down remotely to the vessels and analyzed by trained operators to make better informed command decisions in support of the trials exercises.
+
+Thales’s Halcyon Unmanned Surface Vehicle (USV), equipped with a Thales Towed Synthetic Aperture Sonar, will take part in a number of mine hunting challenges aimed at demonstrating the significant benefits of autonomous technology when operating in hostile environments, including the reduction of risk to life.
+
+Missions using Halcyon will be planned and coordinated using Thales mission management software, providing comprehensive command and control of the USV operation.
+
+Thales is the key sensor provider to the Royal Navy’s existing minehunting fleet through the operationally proven Sonar 2093 and Sonar 2193.
+
+Thales, with industry partners is also involved in the U.K.’s Defense Science Technology Laboratory (DSTL) innovative research program called MAPLE (Maritime Autonomous Platform Exploitation).
+
+The MAPLE program is developing the future architecture for Unmanned Systems Command and Control, by enabling multiple unmanned platforms, such as unmanned air vehicles (UAV), unmanned surface vehicles and unmanned underwater vehicles (UUV), and their payloads to be innovatively commanded and controlled from a single control station.
+
+Thales has been instrumental in the design of the multi domain architecture and has brought experience of operating USV, UUV and UAS into the design activity.
+
+The MAPLE activity will form a key part of Unmanned Warrior, providing initial implementations of the Unmanned Systems control station, incorporating the Thales mission management software for the seamless command and control of the Halcyon USV.","{'label': 'Positive', 'score': 0.9713655710220337}",positive,0.9713655710220337,1
+Engie and Thales will design the Dakar Regional Express railway line - Africa Middle East,"Sat, 13 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWZyaWNhLW1lLmNvbS9lbmdpZS10aGFsZXMtd2lsbC1kZXNpZ24tZGFrYXItcmVnaW9uYWwtZXhwcmVzcy1yYWlsd2F5LWxpbmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Comments (0) Africa, Business, Featured Like
+
+By Enu Afolayan
+
+The French companies Engie and Thales have won the design contract for Senegal’s new Dakar Regional Express Railway project.
+
+The French companies Engie and Thales were recently announced as the winners of the lucrative design contract for Senegal’s vaunted new Dakar Regional Express railway line. The two companies are well established within Africa, but had to fight off stiff competition from several other bids in order to secure the contract with Senegal’s government. The announcement of their successful bids was made on July 27th by APIX, the Senegalese Agency for Investment Promotion and Public works, and the lucrative deal is valued at around $251 million.
+
+The route ahead
+
+The Dakar Regional Express Railway project was first announced in 2014, as part of the Senegalese government’s “Emerging Senegal” program, which aims to boost the nation’s economic and social development. The railway line will connect Senegal’s capital city, Dakar, with the new international airport, Blaise Diagne, and the city of Diamniadio.
+
+The first part of the project will see the construction of the longest section of 36 km between Dakar and Diamniadio. After this, an additional 15 km of line will be built between Diamniadio and the new Blaise Diagne international airport.
+
+The total 55 km distance, between Dakar and the airport, will be covered in around 45 minutes, with 14 stations en-route, and the trains will reach speeds of 160 km/h. The service is also intended to have 3 lines, with 2 for standard passenger trains, and the other for freight transport.
+
+Construction is expected to begin in the final quarter of this year, and to take 26 months, meaning that trains should begin service at the end of 2018. By the end of 2019, the government expects the service to have carried around 115,000 passengers.
+
+The construction work and civil engineering will be carried out by a French, Senegalese and Turkish consortium. The companies making up the consortium are the local Senegalese group CSE, France’s Eiffage Company, and Turkey’s Yapi Merkezi. However, the design and integration of the electrics and communications, alongside overall project management is what has fallen to Engie and Thales.
+
+Engie and Thales the winning duo
+
+Engie and Thales both have a long-standing involvement in African projects. Engie, formerly known as GDF Suez, is a renowned company within the field of electrical power, and has designed and developed renewable energy projects in Africa for 50 years. Engie’s expertise in electrical energy and energy efficiency is evidently pertinent to the Dakar rail project, and its existing presence in Africa will have also aided its bid. The company employs 154,950 people, and had a turnover of over $77.8 billion in 2015.
+
+Likewise, Thales is a company with a recognized body of work within Africa, having worked across multiple fields around the continent for 30 years. However, its know-how, in rail signaling and telecommunications in land transport, is clearly of most significance to the decision to grant the group the dual contract. Thales is already involved in the rail industry in 5 African nations, and employs 62,000 people across 56 countries, with a turnover of $15.6 billion last year.
+
+While the exact split of the $251 million contract between the 2 French corporations is not known, they released a joint statement saying, “Engie and Thales have been selected…for the design and construction of infrastructures and systems of the new Dakar Regional Express Train, for a contract in the amount of 225 million euros”
+
+The teams’ responsibilities
+
+Engie and Thales will now be responsible for multiple aspects of the Dakar Regional Express’ design and development. Aside from designing the systems and providing management, Engie and Thales are also responsible for integrating all aspects of the rail service.
+
+One of the major areas in which their combined expertise will be utilized is the management of the fiber-optic communications network that will connect the trains to the command center. Train signaling, power supply, and providing technical supervision for all train station equipment are also core responsibilities that the French companies have.
+
+Engie and Thales won the contract in the face of strong bids from various competitors, including two Chinese companies, China Railway Construction Company and China Road & Bridge Corporation.
+
+Senegal’s government will be hoping that the combined proficiency of the French duo will ensure that a major part of their bold “Emerging Senegal” project will soon be a reality.","{'label': 'Neutral', 'score': 0.9999594688415527}",neutral,0.9999594688415527,0
+"UFC Fight Night 92 results from last night: Thales Leites vs Chris Camozzi fight review, analysis - MMAmania.com - MMA Mania","Sun, 07 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5tbWFtYW5pYS5jb20vMjAxNi84LzcvMTIzOTQ4NzgvdWZjLWZpZ2h0LW5pZ2h0LTkyLXJlc3VsdHMtZnJvbS1sYXN0LW5pZ2h0LXRoYWxlcy1sZWl0ZXMtdnMtY2hyaXMtY2Ftb3p6aS1maWdodC1yZXZpZXctYW5hbHlzaXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ultimate Fighting Championship (UFC) Middleweight veterans Thales Leites and Chris Camozzi threw down last night (Aug. 6, 2016) inside UFC Fight Night 92 at Vivint Smart Home Arena in Salt Lake City, Utah.
+
+After a hot start to his second UFC run, Leites came up short in his last two bouts. To remain in the rankings, Leites needed to return to the win column in this match up. Camozzi has looked better than ever in his recent showings, as the 29-year-old seemed to finally have pieced together his full mixed martial arts (MMA) game. In his first real step up since ""Jacare,"" Camozzi was hoping to make a statement.
+
+Leites wasted little time in shooting for his first takedown. It took nearly two full minutes, but Leites eventually transitioned into the standing back mount position. Camozzi shook him off briefly, but Leites worked him right back into the same spot.
+
+From the standing back mount, Leites tried to swim under his opponent’s chin and landed a few ground strikes. The Brazilian didn’t do much, but he controlled the position until the end of the round.
+
+It wasn’t pretty, but Leites was ahead.
+
+Once more, Leites only ate a couple jabs before shooting for and landing a takedown. Camozzi tried to use his butterfly hooks to stand, but Leites moved around his guard and took the back once more.
+
+For the rest of the round, Leites simply hung onto back mount and landed small strikes. He never came particularly close to a choke or scored with any devastating punches, but he undoubtedly won the round.
+
+Camozzi needed a finish in the third to win.
+
+To his credit, the American came out swinging and landed some strong shots. Unfortunately for him, Leites is a true veteran, and he quickly changed levels and scored with a trip takedown.
+
+Once more, Leites moved into the back mount fairly quickly. This time, Camozzi was more desperate to escape and left his neck a bit more open. Before long, Leites was able to slip his arm under the neck and crank on it, submitting his opponent.
+
+This may not have been a pretty performance, but it was damn effective.
+
+Leites stuck to his roots and dominated. He may struggle against an opponent with explosive hips and ironclad takedown defense, but that isn’t Camozzi. Against a foe who allows his opponent in on the hips and works his way out, Leites is simply too technically far ahead of his opponent.
+
+Furthermore, Leites’ ground control was masterful. After he got on top of Camozzi. he wore through his defenses and kept working into the back mount. Eventually, that persistence earned him the finish.
+
+Leites may not be back in the title hunt, but he is back in the win column.
+
+Despite an opponent doing precisely what everyone expected him to try to do, Camozzi was not able to prevent his grappling assault. Each time Leites really committed to dragging his foe to the mat, he succeeded.
+
+On the whole, Camozzi’s problem came due to his inability to keep Leites off his hips. Camozzi had two real options: he could aggressively walk his man down and keep him on the defense, or he could focus heavily on movement and make it difficult to set up his shots. Instead, Camozzi hung around between the two plans and was thrown to the mat repeatedly. It’s a disappointing end to Camozzi’s current climb, as he’ll have to start from the bottom once again.
+
+Last night at UFC Fight Night 92, Thales Leites dominated and submitted Chris Camozzi. Can Leites climb back into the title mix?
+
+For complete UFC Fight Night 92: ""Rodriguez vs Caceres"" results and play-by-play, click HERE!","{'label': 'Neutral', 'score': 0.9870184659957886}",neutral,0.9870184659957886,0
+"Klas Telecom Announces Tactical Radio Integration Solution for Harris Falcon III AN/PRC 117G, Harris Falcon III AN ... - Business Wire","Fri, 12 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMi9wFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE2MDgxMjAwNTA5NS9lbi9LbGFzLVRlbGVjb20tQW5ub3VuY2VzLVRhY3RpY2FsLVJhZGlvLUludGVncmF0aW9uLVNvbHV0aW9uLWZvci1IYXJyaXMtRmFsY29uLUlJSS1BTlBSQy0xMTdHLUhhcnJpcy1GYWxjb24tSUlJLUFOUFJDLTE1Mi1MLTMtVGFjdGljYWwtTmV0d29yay1Sb3Zlci1UaGFsZXMtQU5QUkMtMTQ4LU1CSVRSSkVNLWFuZC1SRi1BbXBsaWZpZXJz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON--(BUSINESS WIRE)--In addition to route, switch, compute and storage modules, Klas Telecom announced today that the modular and scalable Voyager 8 deployable communications system now supports common soldier and backpack tactical radios. Mounting brackets, power, battery backup, radio relay and net management for the Harris Falcon III® AN/PRC 117G, Harris Falcon III® AN/PRC 152A, L-3 Tactical Network Rover™, Thales AN/PRC 148 MBITR/JEM, and Modular RF AR-20 and AR-50 amplifiers are now fully available and supported by the Voyager 8 system. The company says additional radios will be supported later this year.
+
+“Our new Voyager Tactical Radio Integration Solution provides the ideal bridge between IP and radio worlds, without compromising on size, weight and power (SWaP),” said Klas Telecom Chief Technology Officer Frank Murray. “Users can now, in one airline carry-on-size case, have a complete route, switch, storage and compute network solution that also houses and integrates their data-capable tactical radios.”
+
+Klas Telecom engineers have built into the Voyager 8 transit case and chassis a common, redundant, uninterruptible power supply (UPS) for all mounted radios and network modules which reduces cabling and provides built-in battery backup.
+
+“The result is a lower overall logistics and operational footprint for our customers because they do not need to transport and maintain separate cases for batteries and radios,” Klas Telecom Government President and CEO David Huisenga said. “The Voyager Tactical Radio Integration Solution provides everything needed in one discreet, rollaway case.”
+
+For more information about the Klas Telecom Tactical Radio Integration Solution, please see the company’s website here, or email sales@klastelecom.com.
+
+About Klas Telecom
+
+Founded in 1991, Klas Telecom is an engineering and design company with over 25 years of experience developing highly capable, lightweight communications solutions for use in austere environments where low size, weight, power and ruggedization are required. With over 80% of the company dedicated to engineering and design, Klas Telecom is able to stay on the forefront of the remote communications market. Klas Telecom operates in the U.S. and international defense, first responder, disaster relief, law enforcement and transportation markets. The company employs staff across four offices located in Washington, DC; Herndon, VA; Tampa, FL; and Dublin, Ireland.","{'label': 'Neutral', 'score': 0.9999222755432129}",neutral,0.9999222755432129,0
+UFC Fight Night 92 post-fight facts: Maryna Moroz sets UFC record for least-accurate striking - MMA Junkie,"Sun, 07 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL21tYWp1bmtpZS51c2F0b2RheS5jb20vMjAxNi8wOC91ZmMtZmlnaHQtbmlnaHQtOTItcG9zdC1maWdodC1mYWN0cy1tYXJ5bmEtbW9yb3otc2V0cy11ZmMtcmVjb3JkLWZvci1sZWFzdC1hY2N1cmF0ZS1zdHJpa2luZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Saturday’s UFC Fight Night 92 event ended in exciting fashion when Yair Rodriguez and Alex Caceres battled for five rounds in the FS1-televised featherweight headliner.
+
+Rodriguez (9-1 MMA, 5-0 UFC) stayed perfect inside the octagon when he topped Caceres (12-9 MMA, 7-7 UFC) by split decision at Vivint Smart Home Arena in Salt Lake City.
+
+“Pantera” wasn’t the only one to earn a victory of note at the event, though. For more, check out 45 post-fight facts about UFC Fight Night 92.
+
+* * * *
+
+General
+
+The UFC-Reebok Athlete Outfitting payout for the event totaled $137,500.
+
+Debuting fighters went 1-4 at the event.
+
+Rodriguez, Caceres, Marcin Tybura and Teruto Ishihara earned $50,000 UFC Fight Night 92 fight-night bonuses.
+
+UFC Fight Night 92 drew an announced attendance of 6,689 for a live gate of $481,033.
+
+Betting favorites went 9-1 on the card. Two fights had even odds.
+
+Total fight time for the 12-bout card was 2:37:48.
+
+Main card
+
+Rodriguez’s five-fight UFC winning streak in featherweight competition is the third longest active streak in the division behind Max Holloway (eight) and Conor McGregor (seven).
+
+Rodriguez extended his winning streak to seven fights. He hasn’t suffered a defeat since December 2012.
+
+Rodriguez has earned four of his five UFC victories by decision.
+
+Rodriguez has out-struck all five opponents he’s faced in UFC competition.
+
+Rodriguez has completed at least one takedown in all five of his UFC appearances.
+
+Caceres fell to 2-1 since he returned to the UFC featherweight division in January.
+
+Caceres fell to 2-4 in his past six UFC appearances.
+
+Dennis Bermudez’s (16-5 MMA, 9-3 UFC) nine victories in UFC featherweight competition are third most in divisional history behind Holloway (11) and Darren Elkins (10).
+
+Bermudez has earned six of his nine UFC victories by decision.
+
+Bermudez’s 38 takedowns landed in UFC featherweight competition are the most in divisional history.
+
+Rony Jason (14-6 MMA, 4-3 UFC) extended his winless skid to three fights. He hasn’t earned a victory since March 2014.
+
+Jason fell to 1-3 with one no-contest in his past five UFC appearances.
+
+Thales Leites (26-6 MMA, 11-5 UFC) improved to 6-2 since he returned to the UFC for a second stint in August 2013.
+
+Leites’ seven stoppage victories in UFC middleweight competition are tied for fourth most in divisional history behind Anderson Silva (11), Chris Leben (nine) and Nate Marquardt (eight).
+
+Leites’ five submission victories in UFC middleweight competition are tied with Rousimar Palhares and Demian Maia for most in divisional history.
+
+Leites has attempted 16 submissions in UFC middleweight competition, the second most in divisional history behind Kendall Grove (17).
+
+Chris Camozzi (22-11 MMA, 9-8 UFC) fell to 3-2 since he returned to the UFC for a third stint in April 2015.
+
+Camozzi has suffered all of his UFC stoppage losses by submission.
+
+Camozzi became the 14th fighter to suffer four or more submission losses in UFC competition. Melvin Guillard holds the record for most submission losses in UFC history with six.
+
+Santiago Ponzinibbio (23-3 MMA, 5-2 UFC) three-fight UFC winning streak in welterweight competition is tied for the third longest active streak in the division behind Stephen Thompson (seven) and Maia (five).
+
+Trevor Smith (14-6 MMA, 4-3 UFC) has earned all four of his UFC victories by decision. He hasn’t stopped an opponent inside the distance since June 2012.
+
+Joseph Gigliotti (7-1 MMA, 0-1 UFC) had his seven-fight winning streak snapped for the first defeat of his career.
+
+Maryna Moroz’s (8-1 MMA, 3-1 UFC) three victories in UFC strawweight competition are tied for second most in divisional history behind Joanna Jedrzejczyk (six).
+
+Moroz landed just 6.7 percent (17 of 251) of her significant strikes attempts, the lowest accuracy rate in UFC history (minimum of 100 attempts).
+
+Danielle Taylor (7-2 MMA, 0-1 UFC) suffered the first decision loss of her career.
+
+Preliminary card
+
+Court McGee (18-5 MMA, 7-4 UFC) improved to 2-1 since he returned from a nearly two-year layoff in December.
+
+McGee improved to 4-2 since he dropped to the welterweight division in February 2013.
+
+McGee has earned five of his seven UFC victories by decision.
+
+David Teymur (5-1 MMA, 2-0 UFC) has earned all of his career stoppage victories by knockout. That includes both of his UFC wins.
+
+Jason Novelli (11-2-1 MMA, 0-1 UFC) suffered the first knockout loss of his career.
+
+Teruto Ishihara (9-2-2 MMA, 2-0-1 UFC) has earned eight of his nine career victories by knockout. That includes both of his UFC wins.
+
+Horacio Gutierrez (2-3 MMA, 0-2 UFC) suffered the first knockout loss of his career.
+
+Cub Swanson’s (23-7 MMA, 8-3 UFC) 13 victories in UFC/WEC featherweight competition are second most in combined divisional history behind Jose Aldo (16).
+
+Tatsuya Kawajiri (35-10-2 MMA, 3-3 UFC) suffered back-to-back losses for the first time in his more than 16-year career.
+
+Kawajiri has suffered all three of his UFC losses by decision.
+
+Kawajiri has completed 18 takedowns in his five UFC appearances. He’s landed at least one in all six of his fights.
+
+Justin Ledet (7-0 MMA, 1-0 UFC) improved to 2-0 with one no-contest since he returned to MMA competition after a nearly four-year layoff in February.
+
+Ledet earned the first decision victory of his career.
+
+Ledet’s 113 significant strikes landed set a record for the most by any debuting UFC heavyweight.
+
+Chase Sherman (9-2 MMA, 0-1 UFC) suffered the first decision loss of his career.
+
+For complete coverage of UFC Fight Night 92, check out the UFC Events section of the site.
+
+FightMetric research analyst and live statistics producer Michael Carroll contributed to this story. Follow him on Twitter @MJCflipdascript.","{'label': 'Neutral', 'score': 0.9999730587005615}",neutral,0.9999730587005615,0
+Thales picks VolkerRail for London Underground project - Construction Index,"Wed, 17 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoZWNvbnN0cnVjdGlvbmluZGV4LmNvLnVrL25ld3Mvdmlldy90aGFsZXMtcGlja3Mtdm9sa2VycmFpbC1mb3ItbG9uZG9uLXVuZGVyZ3JvdW5kLXByb2plY3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The contract is part of Thales work to deliver the Four Lines Modernisation (4LM) programme for Transport for London (TfL). TfL is upgrading the Circle, District, Hammersmith & City and Metropolitan lines with new signalling, trains, power systems and station upgrades.
+
+The new signalling system will allow trains to be run closer together, giving a more frequent service and allowing more people to be carried. The new technology will also mean reduced delays and improved reliability. The programme will allow the operation of 32 trains per hour, an average 33% increase in peak-hour capacity across all four lines.
+
+VolkerRail will install and test signalling equipment, including copper and fibre cable, from Kings Cross to Monument on the District and Circle lines and from Aldgate East to Upminster on the Hammersmith & City and District lines.
+
+Got a story? Email news@theconstructionindex.co.uk","{'label': 'Positive', 'score': 0.9999891519546509}",positive,0.9999891519546509,1
+French submarine builder DCNS scuppered by leaks - Euronews,"Wed, 24 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9idXNpbmVzcy8yMDE2LzA4LzI0L2ZyZW5jaC1zdWJtYXJpbmUtYnVpbGRlci1kY25zLXNjdXBwZXJlZC1ieS1sZWFrc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Secret details of DCNS's Scorpene submarines have been leaked in an apparent case of industrial espionage which could have major financial consequences for the French military contractor.
+
+ADVERTISEMENT
+
+An apparent case of industrial espionage could have major financial consequences for the French military contractor DCNS.
+
+The Australian newspaper has reported 22,000 pages of secret details of the combat capabilities of its Scorpene submarines have been leaked.
+
+DCNS has designed six of those submarines which are being built in India to replace the country’s aging fleet.
+
+The newspaper reported the leak includes highly sensitive details of the craft’s capabilities.
+
+Our French submarine builder in massive leak scandal. https://t.co/ATSSOV0vQD — The Australian (@australian) August 24, 2016
+
+India’s Defence Minister Manohar Parrikar said he has told the Chief of the Navy to analyse what has been leaked, to find out what the leaked documents say about the submarines they are buying and what impact that will have on India.
+
+DCNS – which is jointly owned by the French government and engineering firm Thales – seemed to imply competitors might have leaked the documents, as part of what it called “economic warfare”.
+
+It recently beat Germany’s ThyssenKrupp and a Japanese-government backed bid by Mitsubishi and Kawasaki in Australia for a 34 billion euro contract to supply the Barracuda next generation of submarines to the Australia navy. DCNS is also bidding to build them for Norway and Poland.
+
+A company spokeswoman said: “Competition is getting tougher and tougher, and all means can be used in this context. There is India, Australia and other prospects, and other countries could raise legitimate questions over DCNS. It’s part of the tools in economic warfare.”
+
+Australian Prime Minister Malcolm Turnbull sought to deflect concern about the leak, touting the high security standards in Australia, where the submarine will be built. The Australian reported that the leak occurred in France in 2011.
+
+“But clearly, it is a reminder that, particularly in this digital world, cyber security is of critical importance,” Turnbull told the Seven TV network.
+
+In addition, essential elements of the Australian submarines will be supplied from the United States rather than by DCNS.","{'label': 'Neutral', 'score': 0.9411270618438721}",neutral,0.9411270618438721,0
+Thales' Hawkei takes out Eureka - Bendigo Advertiser,"Wed, 31 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmJlbmRpZ29hZHZlcnRpc2VyLmNvbS5hdS9zdG9yeS80MTM2ODkwL3RoYWxlcy1oYXdrZWktdGFrZXMtb3V0LWV1cmVrYS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"“Through science and innovation, new armour materials are being developed that will reduce the weight of the vehicle while continuing to afford the required levels of protection the Australian Defence Force needs.”","{'label': 'Positive', 'score': 0.9996379613876343}",positive,0.9996379613876343,1
+Making the most of unmanned MCM - Australian Defence Magazine,"Mon, 01 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL21ha2luZy10aGUtbW9zdC1vZi11bm1hbm5lZC1tY23SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The RAN’s Mine Counter Measures (MCM) capability, important as it is, often appears to be the poor relation to larger, more visible programs for larger, more visible assets.
+
+Julian Kerr | Sydney
+
+With a fresh review of the MCM force understood to be in progress, practical measures to improve elements of this neglected capability under Project Sea 1778 may now face further delay.
+
+Phase 1 of Sea 1778 received First Pass approval in 2012 and, according to that year’s Defence Capability Plan, would furnish the initial means by which task groups would implement self-protective MCM along intended routes, through choke points and within objective areas; complemented by the current dedicated MCM force.
+
+""The Double Eagles have been in service with the RAN since 1999 and that’s now a problem.""
+
+A Request for Proposals (RfP) was followed in June 2014 by a restricted Request for Tender (RfT) to undisclosed contenders - thought to be Thales, BAE Systems, Ultra Electronics and Saab.
+
+Evaluation was scheduled to be completed in August 2015, at which time ADM was told that only high priority projects were being approved by government prior to release of the Defence White Paper.
+
+As of July 2016, informed sources confirmed that the project had yet to go to government and capability requirements were being reviewed.
+
+If so, this will provide an opportunity to assess new technology not included in the RfTs, against the background of the $1-$2 billion provisioned in the Integrated Investment Program for MCM from 2017 to 2030.
+
+This includes extending the life of four of the original six Huon class Mine Hunters Coastal (MHC) until the 2030s through a service life extension and capability assurance program to be carried out between 2018 and 2025.
+
+The two Huons that will not have their operational lives extended have been in reserve since 2011 and would have taken five years to restore to service and crew. Their capability was, however, lost to the Mine Warfare and Clearance Diving Group five years earlier when both vessels were transferred to border protection duties.
+
+According to the White Paper, the Huons’ life extension will provide time to develop and evaluate remotely-operated MCM systems and bathymetric collection (the latter separately to Sea 1778 under JP 1770 Phase 1 which Lockheed Martin is now in the process of running) to inform capability development.
+
+In the meantime, in addition to the Huons’ high fidelity variable depth sonar Navy’s MCM Force continues to rely for mine hunting and mine disposal on the Saab Double Eagle Mk II remotely-operated vehicle (ROV), two of which are carried on each MHC to provide redundancy in the event of one vehicle being damaged or destroyed.
+
+The 360 kg Double Eagle has an operational depth of 300 metres, roughly the limit from which a detonating mine would impact a surface ship. On operations, battery-powered twin thrusters propel the ROV at speeds of up to six knots 200 metres ahead of the Huon to which it’s tethered and from which it’s controlled.
+
+In its minehunting configuration the Double Eagle ROV is equipped with a low-fidelity sonar, searchlight, and a low light closed circuit television camera.
+
+When configured for its mine disposal configuration, in addition to the searchlight and television camera the Double Eagle is fitted with a relocation sonar and a 50 kg disposal charge which it places close to the mine.
+
+The system is designed to combat seafloor and buried mines – usually one and the same – but the RAN elected not to also equip its Double Eagles with mechanical or explosive cutters used to sever the mooring of a tethered mine and bring it to the surface where it can be destroyed.
+
+Instead, the Huons could utilise mechanical sweeping – seldom practiced and with a very low rate of effort – or more likely identify the location of such mines to support cable cutting and disposal by clearance divers. Similarly, the Huons have a basic influence sweeping capability to detonate acoustic and magnetic mines, but one that is not thought to be exercised with any regularity.
+
+The Double Eagles have been in service with the RAN since 1999 and that’s now a problem, according to Australian and other sources who spoke on condition of anonymity. (The RAN declined to provide anyone to be interviewed for this article).
+
+Of the seven major navies using the Double Eagle, the RAN is unique in not having updated or addressed obsolescence issues with its 14 systems, the sources said.
+
+“They’re very dated and unfortunately they’re no longer really supportable; if components break the spares don’t exist any more and Navy will have to start cannibalising,” said one source.
+
+“Double Eagle is a very good platform, you can keep the core system and upgrade some of the components; the sonar, processing power and other elements. You’ll then have a state of the art capability, but at present it’s not at all clear whether Navy has a clear roadmap to address this and wider MCM issues.”
+
+These wider, futuristic issues around MCM and other aspects of maritime warfare appear, according to the sources, to revolve largely around autonomy and the degree of risk that is created when it’s introduced over a current capability.
+
+Unmanned future
+
+At the domestic level, Dr David Battle, head of DST Group’s Unmanned Systems and Autonomy Group, expects the RAN will take delivery of its first autonomous underseas vehicles (AUVs) equipped specifically for mine hunting work with sidescan or synthetic aperture sonar, soon after 2017.
+
+Development work is proceeding on both manportable and midsized capabilities, using as test vehicles the commercially-available REMUS 100 and REMUS 600 AUVs developed by Kongsberg subsidiary Hydroid.
+
+The battery-powered AUVs can execute preprogrammed search patterns in operational areas utilising their sonar and Automatic Target Recognition (ATR) software.
+
+ATR provides onboard data processing which accelerates post-mission analysis and thus the tempo of mine clearance operations, together with the ability to program the vehicle to manoeuvre at different angles over an object on the sea bed, making it much easier to identify. In both instances the data remains on the AUV until it returns to the host ship.
+
+The main limitation of the MHC-Double Eagle combination is deployability. Although the Double Eagle can be transported in a container, the Huon is too slow to keep up with a task group, lacks sufficient endurance for unattended voyages beyond the Australian region, and has limited capacity for resupply at sea.
+
+By contrast, a mine hunting and disposal capability based on AUVs is air deployable. Medium-sized vehicles such as the REMUS 600 can provide a forward-based vessel fitted with a crane the ability to search a minefield and perform preliminary classification at rates similar to those achievable with an MHC, a Double Eagle and a well-trained 35-strong crew.
+
+Small, manportable AUVs such as the REMUS 100 can then search relatively shallow waters and reacquire contacts identified during the search phase at higher resolution and from multiple angles. If a medium AUV fitted with ATR and a small AUV are launched in tandem, both can work in parallel.
+
+Targets from the classification stage that warrant further investigation would then be inspected and disposed of either by clearance divers, or by one-shot mine disposal vehicles controlled via a fibre-optic cable from platforms ranging from surface combatants to rigid-hulled inflatable boats.
+
+One such disposal vehicle, the Atlas-Electronik Seafox, is able to automatically relocate previously-acquired positions of underwater objects with its integrated homing sonar. These objects can then be identified via the onboard CCTV camera and, if necessary, destroyed with a built-in, shaped charge producing a kinetic effect sufficient to detonate an insensitive munition mine.
+
+The fact that Seafox and similar capabilities must blow themselves up to destroy a single mine or just one of what could be several dozen plausible decoys can make clearance an expensive exercise.
+
+UK experience
+
+Meeting this challenge is an important element in the UK’s two-pronged development strategy for MCM. This involves collaborating with France in the development of an autonomous unmanned mine hunting and mine disposal system while separately pursuing an autonomous sweep capability capable of being integrated into manned MCM platforms.
+
+The system architecture under development for the Maritime Mine Countermeasures (MMCM) project by a Thales/BAE Systems team incorporates an Unmanned Surface Vessel (USV) equipped with an autonomous navigation system; an obstacle detection and avoidance sonar; a towed SAMDIS synthetic aperture sonar, a threat identification and neutralisation capability based on a ROV; and long-endurance AUVs also using SAMDIS which provides very high resolution and multi-aspect functionality for improved classification.
+
+The threat identification and neutralisation element is to be furnished by Saab’s developmental multi-shot mine neutralisation system (MuMNS), a unique capability fitted to a reusable tethered ROV launched from a USV.
+
+MuMNS consists of a magazine accommodating three disruptor launchers, a manipulator arm and nail gun to attach a 1kg shaped charge disruptor to the target, and an antenna buoy that rises to the surface after a pre-set delay of up to 28 days to receive the detonation command via a coded radio signal. Having moved away, the ROV is then directed on to other mines, or returns to its support vessel for reloading.
+
+This MMCM “system of systems” will be controlled from a host ship or shore-based station via high datarate communications links to the USV. The USV’s own fibre-optic link to the ROV meets the RN’s wish to retain man-in-the-loop control of the disposal procedure.
+
+The second strand of the RN’s development plan involves the design and construction by Atlas Elektronik of a prototype multi-influence (acoustic, electric and magnetic) sweeping system deployed from an 11 metre USV. A positive outcome is likely to see the system fitted to some if not all of the Royal Navy’s eight Hunt class MCM vessels.
+
+USN experience
+
+The cancellation in February of further acquisition of Lockheed Martin’s semi-submersible, diesel-powered Remote Multi-Mission Vehicle (RMMV) has put a question mark over delivery of the Remote Minehunting System (RMS) modular mission package under development for the USN’s Littoral Combat Ships (LCS).
+
+Credit: Lockheed Martin
+
+This capability is intended to replace the USN’s 11 1980’s-era Avenger MCM vessels and its Sea Dragon long-range minesweeping helicopters. No immediate alternative is in sight.
+
+The 10 RMMVs already delivered to the USN will be upgraded for greater reliability and compete over the next three years with the Textron Common Unmanned Surface Vehicle (CUSV), which is slated to join the LCS MCM package as a minesweeping vehicle, and the General Dynamics Knifefish UUV, which will join the package to detect mines resting on the seafloor and buried mines in high-clutter environments.
+
+The mines will continue to be disposed of by divers, surface ships or by the MH-60S helicopters of the USN’s Airborne Mine Neutralisation System (AMNS), both of the latter currently utilising the BAE Systems Archerfish single shot mine disposal system.
+
+Perhaps foreshadowing a future RAN option, the USN last year established several rapid-deployment Expeditionary MCM companies. These comprise REMUS 100 and REMUS 600 AUVs to search shallow and deep waters, a post-mission analysis cell to support the identification and classification of mines and underwater improvised explosive devices, and Explosive Ordnance Disposal (EOD) divers to re-acquire and neutralise identified mines.
+
+Beyond that, the path of autonomous MCM, surface or subsurface, may well be determined by the countermeasures likely to be developed by miners to defeat the sensor and intervention vehicles.","{'label': 'Neutral', 'score': 0.9738798141479492}",neutral,0.9738798141479492,0
+4LM+1 - Rail Engineer,"Wed, 24 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LnJhaWxlbmdpbmVlci5jby51ay80bG0xL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Listen to this article
+
+Four of London Underground’s lines suffer from a bit of an identity crisis. Individually they are well known; the Circle, District, Metropolitan and Hammersmith & City lines are familiar to both Londoners and visitors – they are the yellow, green, maroon and pink lines on the Underground map.
+
+However, they are not truly discrete railways. They run on the same lines and now even share the same trains, although some are longer than others due to variations in platform length and the seating arrangements are different on the longer-distance Metropolitan trains.
+
+So really they need to be considered as parts of a larger whole. But what to call it?
+
+“The Underground” is an option, but that includes all of the lines on the LU network.
+
+Foreigners who like to give the impression they are at home in London talk about “The Tube”, again really meaning the entire network. The Tube, or the Deep Tube, more properly refers to the small-diameter tunnels (and trains) of the Bakerloo, Central, Piccadilly, Northern, Waterloo & City, Victoria and Jubilee lines. Built at different times by different companies, their tunnel diameters vary and there is almost no interconnection between them.
+
+Largely built by cut-and-cover techniques, and running at ground level in many places, the four lines that form the subject of this article have been called the Sub-Surface Lines (SSL) and they make up the Sub-Surface Railway (SSR). So when it became time to completely replace the signalling systems with a single, modern, digital system, the project became the Sub-Surface Lines Resignalling Programme.
+
+Add in some more work to the infrastructure, and it became the Sub-Surface Upgrade Programme.
+
+But, as programme director Stuart Harvey readily admits, that was hard to explain to the public. All underground lines are sub-surface, aren’t they? So which ones were being worked on?
+
+To make it simpler, along came another acronym – 4LM. The Four Lines Modernisation programme brings together new rolling stock, new signalling, improved power supplies, upgraded track, better station access and a host of other improvements into one scheme that is easier for passengers to understand.
+
+Most of the trains have now been replaced by Bombardier S Stock trains, designed and manufactured in Derby – there are just a few of the D78 trains left on the District line and they will be gone later this year.
+
+That leaves the signalling. When the S Stock was first designed, space was left in the cab for the installation of equipment to be manufactured by Westinghouse. That initiative foundered, and Bombardier took the signalling on itself. More recently, after successfully installing a CBTC (communications-based train control) system on the Jubilee and Northern lines, Thales was awarded the contract for renewing the signalling on the whole SSR – all four SSL – as part of 4LM.
+
+That was just a year ago. Since then, a lot of progress has been made so it is high time for a review, and hopefully a simple explanation.
+
+First V1, now V2
+
+Due to its previous experience with the successful implementation of its SelTrac on the Jubilee and Northern lines, Thales was able to hit the ground running. A modified version of the existing software was quickly developed and a brand-new S Stock train fitted out with a temporary installation of aerials, sensors and a rack of control equipment on a trestle table in the passenger compartment.
+
+This is test train V1. Running at Old Dalby (otherwise known as RIDC Melton), it has been testing the ATO (automatic train operation) by stopping and starting at mock ‘stations’ and opening and closing its doors. Rail Engineer went for a ride a few months ago (issue 138, April 2016) and, despite the temporary appearance of the modifications and the amount of sticky tape involved, it all worked flawlessly.
+
+The control gear, a host of similar grey cabinets, was housed in a couple of temporary buildings.
+
+Since that visit to the test track, the train is now running at the test track’s line speed of 80km/h, proving the system design. An upgrade to the software, making it more akin to that needed to run the highly complex four-line network, has also just started being evaluated.
+
+Test train V2 is almost ready. This is a second S Stock train which is being fitted out at Bombardier with all of the equipment where it is meant to be – racks of electronics in a cabinet in the driver’s cab, wiring hidden from sight in the on-board conduits, aerials and sensors discretely located in their final positions. In all, around 2,000 wiring changes were needed during the fit out.
+
+Once complete, which should be by the time this article goes to press, V2 will be off to Old Dalby to continue the test programme.
+
+Aim for P0, not P90
+
+Most railway projects have a target completion date. This usually contains some contingency, but if that proves to be insufficient then the project either overruns or has to be curtailed.
+
+4LM is being managed under a completely different premise. Two completion dates were calculated. P0 assumed no risk and everything going to plan, while P90 imagined 90 per cent risk. The difference in the two dates is 18 months over the life of the project.
+
+“We all know that P0 is impossible to achieve,” Stuart Harvey explained. “But nevertheless we are going for it and managing the risks as we go along. We feel it is a far better way of doing things than having an artificial end date with ill-defined contingencies. We did it this way on the Northern line, and we ended up eight months early!
+
+“Currently, after one year, we are only 11 weeks over a P0 schedule, and under cost as well.”
+
+One year on
+
+Andy Bell, the Thales project director, reflected on the first year of the 4LM programme.
+
+“It’s been a busy year,” he told Rail Engineer. “Getting a project the size of 4LM up and running is a big undertaking. We have a collective organisation of 1,000 people working on design, on software, on site and at Old Dalby.
+
+“We have also engaged with key subcontractors, such as Bombardier for the work on the V1 and V2 trains, Kelly ITS to help with installation, VolkerRail on track and DEG Signal on design.
+
+“One of the key things we looked at was collaboration and how the team works together. Getting relationships in place was crucial to setting up the project the right way.”
+
+Stuart Harvey agreed. “LU and Thales have a very intrusive arrangement,” he stated. “I have to deliver to Andy as much as he delivers to me. We will fail if we don’t collaborate.”
+
+Starting with the software used successfully on the Northern line, 150 new functions will need to be built into the program for 4LM. The first tests at Old Dalby incorporated 20 per cent of those while the latest update includes another 20 per cent.
+
+To commence running on the network, the first 60 per cent will have to be in place, an upgrade which is due in January 2017. On-track testing will commence between Hammersmith and Paddington in June next year.
+
+The remaining additional functions will be needed once trains start running over shared lines and interfacing with Network Rail infrastructure at Wimbledon and Harrow. Still more will allow the system to be fitted to engineering trains.
+
+Infrastructure work
+
+Out on the network, the new SelTrac system will need three specific modifications to the current infrastructure.
+
+A ‘tag’, basically a powered-but-passive RFID (radio-frequency identification) tag, will be fixed to the trackbed between the rails every 25 metres or so along the 314km of the railway. A tag reader, mounted under the train, will identify the tag and use that information to get an accurate positional ‘fix’ for the train.
+
+Between tags, and if a tag is missing or broken, the train’s onboard software will use information from axle-mounted tachometers to calculate the distance since the last tag – and then correct that information when the next tag is read.
+
+There will also be axle counters, Thales’ own, to be used to detect trains that aren’t equipped with SelTrac (mainline trains on Network Rail infrastructure, non-LU engineering trains) and in times of perturbation when working in degraded mode.
+
+Accurate stopping, particularly important if platform screen doors are ever to be installed later, will be managed through a combination of tags and axle counters. The driver, however, will have full visibility of the process.
+
+The train communicates with the control centre by radio. As radio waves don’t travel well along tunnels, even with reflections off the walls and roof, transmission has to be more-or-less by line of sight. Radio repeaters will therefore be mounted in the tunnels every 200 metres on average, closer in areas of tight curves.
+
+This is one of the main differences from the Jubilee and Northern line installations, which use radiating cables to communicate with the trains. “Radio is much better,” stated Stuart Harvey. “We have had incidents with power collection shoes coming off trains and cutting the cable, so radio should be much more reliable.”
+
+While a lot of the equipment can be installed overnight, there will be three weekend closures on the Hammersmith to Paddington section to ensure that the new system will interface with the existing interlockings.
+
+Impressive?
+
+It is clear that Thales is drawing, not only from its own work in the UK, but also from its international projects. “We are a global business,” explained Andy Bell. However, the 4LM project is probably the largest metro installation of a CBTC system in the world, particularly on a ‘brownfield site’, so a lot of the experience has to be taken from the company’s success on the Jubilee and Northern lines.
+
+“Under the old signalling system,” Stuart Harvey commented, “when we had a failure on the Jubilee line, it took all day to recover from it. When Thales came in, we had the service back in 20 to 30 minutes. That was the biggest change.”
+
+This should be even more apparent on the four sub-surface lines, as the system is ‘colour blind’. If the new control centre at Hammersmith needs to recover the system, it will not give priority to any one line (colour), it will choose the best and quickest way to recover the whole network.
+
+However, this wasn’t the first thing that sprang to mind when London Underground was asked what stands out about this project.
+
+“The most impressive thing is the way that London Underground, Thales and Bombardier have worked together,” Stuart Harvey commented.
+
+His boss agreed. Talking to Rail Engineer about the project, LU managing director Mark Wild stated: “I am impressed by the way everyone has worked together. London Underground, Thales and Bombardier have worked as one team and are making good progress on this challenging project.”
+
+So that is the state of play on 4LM, one year in. In a year’s time, by July 2017, trials will have already started on the first section of the network and trains will start being fitted with the hardware they will need. If the current rate of progress continues, then the Circle line could be running under SelTrac CBTC as early as 2019, only four years after the project started – and that will truly be impressive.","{'label': 'Neutral', 'score': 0.9999762773513794}",neutral,0.9999762773513794,0
+Exclusive: Network Rail to delay fully integrated TMS at Romford ROC - Rail Technology Magazine,"Tue, 02 Aug 2016 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJhaWx0ZWNobm9sb2d5bWFnYXppbmUuY29tL1JhaWwtTmV3cy9leGNsdXNpdmUtbmV0d29yay1yYWlsLXRvLWRlbGF5LWZ1bGx5LWludGVncmF0ZWQtdG1zLWF0LXJvbWZvcmQtcm9jLdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Exclusive: Network Rail to delay fully integrated TMS at Romford ROC
+
+Network Rail is to delay fully integrating traffic management functionality at its Romford Rail Operating Centre (ROC), as there are a still a number of risks that need to be mitigated before full commissioning.
+
+At the beginning of June, then rail minister Claire Perry MP said that Thales’s ARAMIS traffic management system (TMS) would be fully integrated at the ROC by November.
+
+However, Network Rail has now said that despite the TMS being “close to completion”, the infrastructure owner needs more time to “iron out the final software bugs, complete the training of staff, carry out trial operations on the simulator and enable the development of our staff’s capability and confidence in using the new system”.
+
+A Network Rail spokesperson told RTM: “We have recently completed a detailed review of all the elements of this complex programme. With no technical rehearsal opportunity to change over the old and new control systems, test, and change back, there remain a number of risks that we still need to mitigate before fully commissioning.”
+
+In order to carry out and complete all of the tasks, the Anglia route managing director, IP signalling programme director and Digital Railway managing director have decided to commission full TMS “at a later date”.
+
+The £32m Romford ROC will control the Anglian rail network, as well as London’s Crossrail route, when in full operation. When asked how long the delay would be, Network Rail said it will be “working with our train operator partners to identify a future date when we can get a suitable closure (potentially up to 27 hours) of the route to commission the signalling system”.
+
+Back in July, David Waboso told RTM that Network Rail is also set to revise the Digital Railway’s Norwich – Yarmouth – Lowestoft (NYL) pilot which was being designed to showcase the full deployment of digital technology by the end of CP5.
+
+Network Rail added that the new TMS simulator has been fully installed at Romford ROC and it is working with its integrated team, including the supply chain, to get this fully commissioned.
+
+The infrastructure owner said that in place of a standard signalling simulator, “we will deliver a full pod simulation suite, and later this year, we will also install the operating pod in the Romford ROC”.
+
+According to the spokesperson, the full pod simulation suite will enhance the training experience of Network Rail’s frontline teams by fully integrating the multiple systems involved onto single platform. However, this means that some staff training may have to be revised.
+
+In total there are 12 ROCs which will eventually control the entire rail network in Britain, replacing over 800 signal boxes. Six of them – Rugby, Manchester, Basingstoke, York, Romford and Three Bridges – are brand new.
+
+Have you got a story to tell? Would you like to become an RTM columnist? If so, click here.","{'label': 'Neutral', 'score': 0.9998857975006104}",neutral,0.9998857975006104,0

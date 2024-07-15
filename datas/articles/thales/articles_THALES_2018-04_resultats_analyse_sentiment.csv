@@ -1,0 +1,661 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales organises its first - Thales,"Wed, 11 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc2VjdXJpdHkvbmV3cy90aGFsZXMtb3JnYW5pc2VzLWl0cy1maXJzdC10aGFsZXNtZWRpYWRheXMtdGhlbWUtY3liZXJzZWN1cml0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales organises its first #ThalesMediaDays on the theme of cybersecurity Cybersecurity Digital Secured Solutions Share this article
+
+
+
+LinkedIn
+
+The first #ThalesMediaDays, organised April 11, demonstrated the impact cybersecurity has on all of our daily lives, and showcased our pragmatic and robust solutions to this technological and societal challenge.
+
+
+
+Challenges and solutions at #ThalesMediaDays
+
+This event, organised for French and international media at the Thales Learning Hub in Vélizy near Paris on April 11, was the occasion to underline the position of the Group in the cybersecurity domain. With an investment of over a billion euros over the last three years in the four key digital technologies (Connectivity, Big Data, Artificial Intelligence and Cybersecurity), Thales also now confirms its role as a digital innovation lab and the world leader in cybersecurity.
+
+The presentations by Marc Darmon, EVP, Secure Communications and Information Systems, Guillaume Poupard, the President of ANSSI (the National Cybersecurity Agency of France) as well as the conclusion by Patrice Caine, Thales Chairman & CEO, gave participants a very clear picture of the issues at stake.
+
+
+
+Our clients have big ambitions and operate mission critical systems, where safety and security have to be assured at the highest levels, in real time, be it in air traffic management, train signaling, satellite communications or air defence systems, where human life is often at stake. That’s why cybersecurity is the sine qua non condition of our digital technologies. As the world becomes more connected, it also becomes more vulnerable.”
+
+Patrice Caine, Chairman & CEO, Thales
+
+If digital transformation is bringing opportunities for growth, new revenue streams, new services and new business models in almost every industry, everywhere, a more connected world is also one that becomes more vulnerable to attacks.
+
+Experts from Thales and other companies and organisations discussed cyber training, the detection of attacks in real time, cloud encryption and data protection, protecting airports, key developments in the automative industry, and cybersecuring air traffic management, as well as the theoretical hacking of connected aircraft, satellites and autonomous cars, the role played by Big Data and Artificial Intelligence in cybersecurity, the cyber protection of armies and even how we can – and must - read hackers’ minds.
+
+
+
+This summer, Thales will open a cybersecurity hub in Dubai to serve as a centre of excellence for Cyber Consulting services in the Middle East.
+
+to serve as a centre of excellence for Cyber Consulting services in the Middle East. Following the creation of the Digital Factory in Europe (Paris) and CortAIx, an Artificial Intelligence hub in in North America (Montreal), Thales will open a third digital factory in Asia later this year.
+
+in later this year. With partner Sopra Steria, Thales will develop the first phase of the Artemis programme, a Big Data platform for the French Ministry of Defence.
+
+for the French Ministry of Defence. The French state has signed two new contracts with Thales to help to modernise its critical information systems, manage the transition to the cloud and upgrade big data capabilities with appropriate levels of security .
+
+. The National Institute of Geographic and Forest Information (IGN) under the Ministry for an Ecological and Solidary Transition and the Ministry of Agriculture and Food will rely on Thales to migrate, secure and operate its Geoportal with 500 terabytes of data.
+
+with 500 terabytes of data. Thales and Gibson Dunn, a leading law firm in Europe and the US, will work together to provide holistic legal, technical and business advice for data protection to clients.
+
+Demonstrations
+
+In addition to these presentations and discussions, Thales also made a number of announcements that highlighted the Group’s commitment to helping clients develop and secure their digital technologies.
+
+Keynote speeches by Guillaume Poupard and Marc Darmon","{'label': 'Neutral', 'score': 0.8168351650238037}",neutral,0.8168351650238037,0
+Thales aims for market segmentation with three IFE systems - Runway Girl Network,"Thu, 12 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTgvMDQvdGhhbGVzLWFpbXMtZm9yLW1hcmtldC1zZWdtZW50YXRpb24td2l0aC10aHJlZS1pZmUtc3lzdGVtcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Expanding its inflight entertainment product range in order to segment its market, Thales is now offering two IFE system types that bracket the Avant system seen on a number of airlines. A slimmed-down version called Core and a beefed-up system named Prestige are aimed at airlines with different levels of expertise and desire to be engaged with the process.
+
+“On the aircraft, we have three offerings now,” Dominique Giannoni, chief executive of Thales’ Inflyt Experience IFE business, tells Runway Girl Network. “One is called Core, sharing the same architecture and hardware as Avant, but it’s the streamlined configuration. It’s designed to go fast to market, and with less interaction with an airline.”
+
+Giannoni referred to Core as “prêt à porter”, ready-to-wear, with Prestige as “haute couture”. He and his Thales colleagues were amused when RGN suggested that Avant might be, therefore, “department store”.
+
+For Core, Giannoni says, “We’ve found out that many airlines want to know: “what is your configuration? What do you propose?” On the hardware side and the GUI, named Select, we’ve worked with the Native design agency in order to prepare a preconfigured configuration. It is straightforward and cost effective.”
+
+Giannoni and his Thales colleagues confirm to RGN that, while functionality (tiling, colour, and so on) will be customisable, fonts and other choices will not. “What we have streamlined is the configuration an airline can choose from.
+
+You will see the specific user experience side: we’ve worked on designing building blocks that the airline can assemble, but really we are driving the process. The advantage for the airline is this is all configured by content, so it is very streamlined.”
+
+From an airline resourcing perspective, “it is a very straightforward interaction, so you don’t need a lot of people to work on it. It is not a lengthy process,” Giannoni notes. “You can change it quite often because it’s content-driven. It’s really a cost-effective system and way of working.”
+
+Core is, in essence, the out-of-the box solution. “Then we still have Avant, where you have a bit more flexibility, passenger control units, you can work on designing the UI,” Giannoni says. Thales notes that Avant is flying on more than 500 aircraft.
+
+So, is Core a slimmed down Avant or newly engineered? “It’s both. It’s built on the legacy of Avant,” Giannoni says.
+
+Above Avant, for the airline that wants to customise every aspect of the experience — including, Thales communications exec Marie Remboulis tells RGN, the 2016 fifty 777X shipset order for Emirates — the company offers Prestige.
+
+“Prestige is our brand new system,” Giannoni says. “It’s 4K, fully integrated, and it’s also a way to work with the airline that is like a co-development. We have a number of workshops: they have access to our digital factory in Thales. It’s really a partnership.”
+
+The difference between the three, Giannoni says, is “a question of how we work with the airline. All of the three solutions, Core, Avant and Prestige, are powered by our digital platform, which is the ground platform Inflyt 360.”
+
+Inflyt 360 is “the place where we are collecting and processing all the data we get from the aircraft or from other sources. We prepare personalisation, targeting ads, monetisation and all the content processing, and then we push to the aircraft,” Giannoni explains.
+
+In architecture terms, Core and Avant are the same, Giannoni confirms. Prestige, meanwhile, comes with a 10 Gbps backbone as a new platform conforming to Boeing’s planned standard for the 777X.
+
+Core and Avant, it’s the same architecture. With Prestige, it’s a 10 gig backbone, because it’s a new platform.
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9975965619087219}",neutral,0.9975965619087219,0
+"Thales Unveils Core and Prestige, Extensions of Its Avant IFEC Platform - APEX Media","Tue, 10 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYXBleC5hZXJvL2FydGljbGVzL3RoYWxlcy11bnZlaWxzLWNvcmUtcHJlc3RpZ2UtZXh0ZW5zaW9ucy1hdmFudC1pZmVjLXBsYXRmb3JtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Unveils Core and Prestige, Extensions of Its Avant IFEC Platform Share
+
+APEX Insight: Thales InFlyt 360, introduced at AIX last year, showed Thales’ vision to enhance its Avant in-flight entertainment and connectivity system with a digital experience to surprise and engage passengers. Today, the avionics company has announced Core and Prestige, the fruits of that vision.
+
+Thales today introduced Core and Prestige, two packaged in-flight entertainment and connectivity (IFEC) solutions designed to cater to different airline market segments, based on its Avant IFEC system and are part of the Thales InFlyt 360 vision, which was introduced by the avionics company at last year’s Aircraft Interiors Expo. “The idea is to cover the whole span of our customers,” said Richard Perrot, vice-president, Marketing and Product Policy, Thales InFlyt Experience. “We did a tremendous study to better identify the market segments our customers belong to.”
+
+“We did a tremendous study to better identify the market segments our customers belong to.” – Richard Perrot, Thales InFlyt Experience
+
+With IAG Group launching Level and Air France coming out with Joon, Dominique Giannoni, CEO, Thales InFlyt Experience, says airlines are extending their mainline brands and looking at the passenger experience differently, so they are, too. “We want to address this differently also,” he said.
+
+Core, as the product name suggests, is a turnkey solution that offers the essentials of an IFEC platform, offering content, targeted advertising and shopping. These features will be available to passengers through Select, Thales’ latest generation graphic user interface (GUI), which was developed in partnership with design agency Native, after a survey of consumer websites.
+
+“We’re targeting customers that want an IFE solution that’s efficient, very affordable and ready for revenue generation, which could ultimately reduce the initial costs for the airline,” said Perrot. And since most of Core’s GUI elements are fixed, no additional software development will be required, allowing for a shorter lead time to deploy the system.
+
+On the opposite end of the spectrum is Prestige, which is meant to serve airlines that want to make a statement with their brand by offering the newest technology and devices. Prestige customers will be able to completely customize the IFEC experience by leveraging airline customer data such as age, nationality and airline history so that no two passengers see the same screen, for example.
+
+Customers will have the entire gamut of Thales’ facilities and resources, including experts at its User Experience Center of Excellence in Irvine, California; Digital Factory in Paris; and cybersecurity centre in Orlando, Florida available to them.
+
+“We are completely renewing and reshaping our entire offer by focusing on what our customer wants to achieve and the IFEC experience they envisage on board and want to deliver to the passenger,” Perrot said.","{'label': 'Neutral', 'score': 0.9799741506576538}",neutral,0.9799741506576538,0
+"Eutelsat ditches ViaSat-3 investment, buys half-terabit satellite from Thales Alenia Space - SpaceNews","Thu, 05 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vc3BhY2VuZXdzLmNvbS9ldXRlbHNhdC1kaXRjaGVzLXZpYXNhdC0zLWludmVzdG1lbnQtYnV5cy1oYWxmLXRlcmFiaXQtc2F0ZWxsaXRlLWZyb20tdGhhbGVzLWFsZW5pYS1zcGFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Global fleet operator Eutelsat, after months of protracted negotiations with partner Viasat, on April 5 said it would go it alone on a powerful new satellite instead of investing in Viasat’s second ViaSat-3 satellite.
+
+Thales Alenia Space is instead building a “VHTS” or Very High Throughput Satellite for Eutelsat called Konnect VHTS, bringing 500 Gigabits-per-second of Ka-band capacity to European markets. The European manufacturer is also building the accompanying ground segment.
+
+Eutelsat’s decision to forgo an investment in a 1 terabit-per-second ViaSat-3 satellite with coverage of Europe, the Middle East and Africa (EMEA), comes after months of back and forth discussions with Carlsbad, California-based Viasat meant to iron out the details of a broadband joint venture the two operators started last year. Rodolphe Belmer, Eutelsat’s CEO, said in October that arduous but good-spirited negotiations were continuing over the framework of the ViaSat-3 EMEA satellite. Those negotiations were expected to conclude last year, but dragged on into this year. Viasat CEO Mark Dankberg told SpaceNews in March that determining which operator would claim revenues from respective customers was at the crux of the debate.
+
+It is not immediately clear what the full impact Eutelsat’s Konnect VHTS purchase will have on the joint venture. Eutelsat was co-financing ViaSat-3 EMEA, having earmarked a 132.5 million euro ($162 million) investment Viasat made to obtain a 49 percent stake in Eutelsat’s seven-year-old KA-SAT broadband satellite. Eutelsat was going to reinvest that money back into ViaSat-3 EMEA, but that is no longer the case.
+
+Eutelsat spokeswoman Marie-Sophie Ecuer told SpaceNews the joint venture “will continue to operate on KA-SAT for the foreseeable future.”
+
+“Eutelsat has a right to make the Konnect VHTS investment outside of the joint venture, so there is no direct impact on the Viasat joint venture,” she said.
+
+Eutelsat said Konnect VHTS will have “the most powerful on-board digital processor ever put in orbit, offering capacity allocation flexibility, optimal spectrum use, and progressive ground network deployment.” Though only half the capacity of a ViaSat-3 satellite, Konnect VHTS is more geographically concentrated, focusing only on Europe instead of a third of the planet.
+
+Konnect VHTS is still one of the highest capacity satellites ever announced, on par with Hughes’ 500-Gbps Jupiter-3 satellite Space Systems Loral is building for broadband in North America. The Konnect VHTS satellite has a mass of 6,300 kilograms, and is scheduled to enter service in 2021. Eutelsat has not yet announced a launch provider for the satellite.
+
+In a statement, Thales CEO Patrice Caine said Konnect VHTS will use an all-electric Spacebus NEO platform, leveraging investments from the European Space Agency, the French space agency CNES and France’s “Programme d’Investissements d’Avenir,” or “Investments for the Future Program.”
+
+Two anchor customers, French telecom giant Orange and Thales’ connectivity division both agreed to multiyear capacity distribution contracts with the satellite. Orange will focus on fixed broadband in European countries where it has a retail presence, and Thales will serve the government market. Ecuer said the contracts derisk the satellite and are collectively worth “several hundred million euros.”
+
+Eutelsat is adding substantial new capacity to the EMEA region through a lease on YahSat’s Al Yah 3 satellite, which is expected to reach its orbital slot in June. Another Eutelsat satellite under construction by Thales Alenia Space, the Africa Broadband Satellite (which Eutelsat is rebranding as “Konnect”), is scheduled to launch in 2019 with 75 Gbps of capacity distributed through 65 spot beams.
+
+“High-speed broadband will be a critical driver of Eutelsat’s growth from 2020 onwards. Over the next decade, VHTS satellites will bring enough capacity to serve high speed internet and in-flight connectivity markets at scale, offering fiber-like services both in terms of price and speed,” Belmer said in a statement.
+
+Eutelsat said the Konnect VHTS satellite fits within the company’s annual capital expenditure plan of 420 million euros.","{'label': 'Neutral', 'score': 0.999996542930603}",neutral,0.999996542930603,0
+Two appointments to Thales Board of Directors - Thales,"Fri, 13 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZ3JvdXAvcHJlc3MtcmVsZWFzZS90d28tYXBwb2ludG1lbnRzLXRoYWxlcy1ib2FyZC1kaXJlY3RvcnMtMNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+
+
+Delphine d’Amarzit is a graduate of the Institut d’Études Politiques de Paris (Sciences-Po) and the École Nationale d’Administration. She began her career at the Inspection Générale des Finances, and then joined the French Treasury Department. In 2003, she became a technical advisor on financial services on the staff of the Minister of the Economy and Finance, then in 2007 she was appointed as adviser on economic and financial affairs to the Prime Minister. From 2009 to 2013, she was in charge of the multilateral affairs and development office at the French Treasury Department, where she oversaw the organisation of France’s Presidency of the G8 and the G20 for the Ministry of Finance, before becoming Head of the Financial Sector Department (SFE), which is responsible for corporate funding and financial regulation.In 2015, she joined the management committee of Canal+ as Group Secretary. In June 2016, she was appointed Deputy Chief Executive Officer of Groupama Banque, which was renamed Orange Bank after Orange became its majority shareholder.
+
+
+
+
+
+Joël Barre is a graduate of the École Polytechnique and is a General (armament corps) Engineer, of Exceptional Class. He began his career in 1979 at the French defence procurement agency (DGA), where he held various positions on the medium-range air-to-ground missile programme (ASMP) until 1987, then on the Helios optical observation satellite programme, which he directed from 1991. In 1995, he was appointed Deputy Director of the technical department for strategic and space systems, then in 1997 he was named chief architect for the ""command, communication, control and intelligence"" force system.In September 1997, he was appointed director of programmes at the CNES, France’s national space agency. In June 2001, he joined Snecma, where in March 2002 he became Vice-President and General Manager of the Space Engines division. In July 2007, he moved back to the CNES, where he became Associate Director General in July 2012. He was appointed Chief Executive of the French defence procurement agency (DGA) on 9 August 2017.","{'label': 'Neutral', 'score': 0.9999963045120239}",neutral,0.9999963045120239,0
+Thales to modernise PR4G radios for Spain | Shephard - Shephard News,"Wed, 25 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnNoZXBoYXJkbWVkaWEuY29tL25ld3MvZGlnaXRhbC1iYXR0bGVzcGFjZS9zcGFpbi1oaXJlcy10aGFsZXMtbW9kZXJuaXNlLXByNGctcmFkaW9zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has been awarded a contract by Spain’s Ministry of Defence (MoD) to modernise the PR4G radios currently in operation with the Spanish armed forces, the company announced on 19 April.
+
+The modernisation of the PR4G radios is part of the MoD’s effort to move the army to the new SUPERMUX waveform. With the SUPERMUX waveform, the PR4G F@stnet radio provides simultaneous and independent combat voice, data and Blue Force Tracking (BFT) data transmission and provides users with enhanced capability for high priority information dissemination.
+
+The waveform also provides unique automatic BFT sharing capability at radio level between two modernised VHF networks, increasing situational awareness dissemination and avoiding friendly fire.","{'label': 'Positive', 'score': 0.9998745918273926}",positive,0.9998745918273926,1
+VIDEOS: Massive French company Thales impresses with palace of decisive cyber security - iTWire,"Tue, 24 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vaXR3aXJlLmNvbS9zZWN1cml0eS92aWRlb3MtbWFzc2l2ZS1mcmVuY2gtY29tcGFueS10aGFsZXMtaW1wcmVzc2VzLXdpdGgtdmlydHVhbC1wYWxhY2Utb2YtZGVjaXNpdmUtY3liZXJzZWN1cml0eS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales, whose name rhymes with Alice, is one of the world's biggest companies, with operations in aerospace, space, transportation, defence, and a major presence in cybersecurity.
+
+Thales is a French multinational company that works across some of the world's most important industries, and has even had a footprint in Australia for decades, with this article covering Thales' first ever media day for journalists from around the world on its cyber security announcements.
+
+This article features nine videos from the event, which are embedded at various points in the article below, which will illuminate the magnitude of Thales's operations.
+
+The company works on huge projects of major significance with countries around the world, with a peek at its website and the constantly updated press release section just a glimpse into the wide variety of projects the company works on.
+
+Just a handful of literally hundreds of illustrative examples are as follows:
+
+Thales' work on a world-first air traffic control system it is developing with the Australian Government, not only giving visibility into 11% of the world's airspace, but able to track both civilian and military aircraft - for the first time , with more on the OneSKY air traffic control system here
+
+Another example is of Thales' work with Transport for London's Tube system, whereby Thales late last month completed the ""biggest test yet of the new signalling system set to transform the Tube"".
+
+Need more examples? Check out Thales' agreement with NASA for unmanned system control technologies, while marvelling at the fact Thales is the company that not only builds, but also launches, all those Iridium Next satellites going up into space, with 50 now already in orbit.
+
+That doesn't even include Thales' offer to buy all of global digital security company Gemalto's shares at €51 per share, a deal expected to close later this year following the granting all of appropriate regulatory authorisations.
+
+So, when Thales invited me to its demonstration of ""decisive cyber security moments at the heart of the daily life of civilians"" at its cyber security hub in Velizy Villacoublay, a mere eight kilometres from the world famous and stunningly impressive Palace of Versailles, the chance to explore the Thales palace of cyber security with its 2000 top-notch cyber security researchers and experts, in France alone (with 5000 globally), from around the world was a very welcome opportunity.
+
+Here's an image of Thales in Cybersecurity – the article continues below, please read on:
+
+You see, building such a wealth of talent, especially in the crucially vital area of cybersecurity is no mean feat, especially in a world of ever trickier cyber criminals and cyber crime, but when you have the will to become a global leader and the resources to do so, anything is possible.
+
+Thus, you should not be surprised to learn that, over the past three years, Thales has invested over 1 billion euros in developing its expertise and footprint across four key digital technologies:
+
+Connectivity
+
+Big Data
+
+Artificial Intelligence, and
+
+Cybersecurity.
+
+Impressively, Thales also notes that when it comes to AI, it is developing ""explainable AI"" that can clearly explain to human beings why it took a particular decision, which avoids the problem of ""black box technologies"" that want you to simply trust the algorithms are doing the right thing, when in the modern era, this simply isn't good enough for a world ever reliant on technology.
+
+So, it is clear that these are some of the tech world's biggest challenges, and so it was that Thales proudly opened its doors to demonstrate, with concrete examples, how cyber security impacts the daily lives of enterprises, organisations and ultimately each citizen.
+
+Here is the first video of the event, capturing the opening session of the day, with a cool video showing what might happen the day a major cyber attack hits a major country, and with an important speech from France's Head of National Cybersecurity Agency, Guillaume Poupard, as well as Thales senior executive Marc Darmon, and a smartphone hacking demonstration from two Ethical Hackers from Thales' stable of cyber security experts – the article continues below:
+
+So, what were some of Thales' important developments in the cyber security sector?
+
+The creation of a Cyber Hub in Dubai this summer: a centre of excellence for Cyber Consulting and services, it will accompany the Middle East, and in particular the UAE, with its extensive digital ambitions of becoming increasingly digitised across virtually all its major infrastructures.
+
+Ten months after the opening of the first Thales Digital Factory in Paris, 150 world class experts have already developed 7 new products based on our 4 key digital technologies. Thales will further strengthen its Digital Factory based in Europe, Paris, with 50 new recruitments in 2018. The second area to host the digital factory will be North America with the opening of cortAIx this summer, a research hub in AI with 50 AI specialists, based in Canada, to inject AI in all Thales technologies. The third area, after Europe and the Americas, will be Asia, where Thales plans to launch a Digital Factory later this year.
+
+Thales also has some key cybersecurity figures to share, which are as follows:
+
+A total of €500 million in revenues for cyber security in 2017, with a growth expectation of 10% in 2018.
+
+Thales runs operation and security of critical information systems for over 130 clients.
+
+A total of 10,000 software developers and 5000 IT cyber engineers (globally).
+
+Thales brings high grade security solutions for 50 countries including NATO.
+
+Five cyber security operation centres.
+
+Seven cyber security teams, three major data security hubs, five highly secured data centres in France.
+
+In addition, Thales reports France deciding ""to rely on Thales for its digital transformation in a number of areas:""
+
+A major programme to help structure the future of the French armed forces: together with partner Sopra Steria, Thales will compete in the first phase of the Artemis programme, a Big Data platform for the French Ministry of Armies.
+
+Modernise and migrate IT networks towards Cloud-based and cyber secured solutions for the Ministry of Health and Solidarity and the Ministry of Labour.
+
+France's National Institute of Geographic and Forest Information (IGN), under the Ministry for an Ecological and Solidary Transition and the Ministry of Agriculture and Food, will rely on Thales to migrate, secure and operate its Geoportal with 500 terabytes of data.
+
+Here's Thales Media Days — Video 2 of 9 — Cyber security to manage and protect airports. The article continues below, please read on.
+
+Then there's the automotive sector.
+
+Here, Thales notes its offerings of ""real time cyber security to the Williams Formula 1 team"", while also noting its partnership with the team ""to work on the security of the intelligent connected vehicles"".
+
+Thales states that it will be ""displaying the solution it supplies to the William’s formula 1 team at Vivatech in May"".
+
+On top of this, Thales recently signed a partnership with Vector, a German specialist in automotive embedded electronics, to secure autonomous and connected cars.
+
+So, especially in light of the ""explainable AI"" work that Thales is doing which we touched on above, how does Thales say that, in all of its markets, it adapts its solutions to new environment to always put data protection first?
+
+In my mind, this this is something the tech world has clearly failed to do for decades, with Windows and the relative unreliability of computers and software putting software and auto-save capabilities last over the years, and which cloud solutions have gone some way to resolving.
+
+That, however, is just one of my thoughts, with Thales' own description of how it adapts to putting data protection first as follows:
+
+In multi-cloud environments, Thales offers encryption solution to help cloud services providers to secure their sensitive platforms or applications, such as Amazon Web Services, Google, Microsoft or SalesForce. With a management solution on key encryption, Thales allows them to directly control and manage the level of protection depending on the sensitivity of each data.
+
+Thales is also proud to announce its partnership with Gibson Dunn, a leading law firm in Europe and the US. We will work together to provide holistic legal, technical and business advice for data protection to our clients.
+
+Patrice Caine, chairman and chief executive, Thales, who took part in a media Q&A session with Australian and NZ journalists in attendance and which is embedded as a video below, said: “Our clients have big ambitions and operate mission critical systems, where safety and security have to be assured at the highest levels, in real time, be it in air traffic management, train signaling, satellite communications or air defence systems, where human life is often at stake.
+
+""That’s why cyber security is the sine qua non condition of our digital technologies. As the world becomes more connected, it also becomes more vulnerable”.
+
+Thales Media Day: Video 3/9 – Detecting a cyber attack in real time
+
+Thales Media Day: Video 4/9 – securing air traffic management Aeronautics
+
+Thales Media Day — Video 5/9 — Download Thales Aviation cyber security report
+
+Thales Media Day – Video 6/9 What can big data and artificial intelligence bring to cyber security solutions?
+
+Thales Media Day — Video 7/9 — Can a connected aircraft be hacked?
+
+Thales Media Day — Video 8/9 — Closing keynote of Patrice Caine, Thales chief executive
+
+Thales Media Day — Video 9/9 — Patrice Caine's media Q&A Aust/NZ
+
+Thales has posted two of its own videos from the day, and my own videos of both events are embedded below. My videos are filmed closer up, as you can see from the two videos below, as I am in the front row with my own iPhone 8 Plus on a tripod filming the event.
+
+The official video of the speech by Guillaume Poupard, head of the National Cybersecurity Agency of France, and Marc Darmon, executive vice-president, secure communication and information systems, Thales, can be seen at YouTube here.
+
+The official closing keynote of Caine can be seen at YouTube here.
+
+Finally, Thales has provided a description of its operations, in which it notes that ""the people we all rely on to make the world go round – they rely on Thales"".
+
+The company says its customers come to Thales ""with big ambitions: to make life better, to keep us safer. Combining a unique diversity of expertise, talents and cultures, our architects design and deliver extraordinary high technology solutions. Solutions that make tomorrow possible, today"".
+
+""From the bottom of the oceans to the depth of space and cyberspace,"" Thales says it helps its customers ""think smarter and act faster – mastering ever greater complexity and every decisive moment along the way"". With 65,000 employees in 56 countries, Thales reported sales of €15.8 billion in 2017.
+
+The writer attended this Thales cyber security event as a guest of Thales.","{'label': 'Neutral', 'score': 0.9999297857284546}",neutral,0.9999297857284546,0
+Egypt's Cairo-Benha rail line to be modernised by Thales - Global Railway Review,"Mon, 23 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvNjg1MjUvY2Fpcm8tYmVuaGEtbW9kZXJuaXNlZC10aGFsZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Egypt’s Cairo-Benha rail line to be modernised by Thales
+
+21 SHARES
+
+Posted: 23 April 2018 | Global Railway Review |
+
+As part of the railway modernisation contract for the Cairo-Alexandria line, Egypt National Railways (ENR) has selected Thales for the extension to modernise the Cairo-Benha section…
+
+Thales has won a new extension to modernise the 48km Cairo-Benha within the Cairo-Alexandria line; doubling the section’s total average capacity for the transport of passengers and goods.
+
+This project will improve traffic safety and security; allowing trains to travel at a speed of up to 160km/h compared to the current 120km/h. These changes will increase the capacity of transported passengers and goods on the backbone line that links the north and south of Egypt, from Alexandria-Cairo and all the way to Aswan.
+
+The Cairo-Benha section consists of nine stations and 48km of track – carrying some of the busiest traffic on Egypt’s railway network. Onto it Thales will extend its signalling technologies that are currently being installed on the Benha-Alexandria section of the line. Modernised signalling technology along the entire Cairo-Alexandria corridor will ensure that every moment of operation can be captured.
+
+This extension includes the supply of new signalling technologies such as nine electronic interlocking devices, 11 level crossings and field elements and the interface to existing assets. The contract also includes the overhaul of associated energy systems, refurbishment of existing technical buildings and construction of new ones in different locations. With this extension, the traffic control centre will be able to manage the whole line from Cairo to Alexandria.
+
+Egyptian railways have embarked on an ambitious programme of railway modernisation with Thales involved from the start, first on the Cairo-Alexandria project and more recently with the signing of the contract for the modernisation of the signalling and telecom systems on the 180km section between Asyut and Nagh Hammadi in the Upper Egypt portion of the main Alexandria–Cairo–Aswan corridor.","{'label': 'Positive', 'score': 0.7369020581245422}",positive,0.7369020581245422,1
+Thales and MKU have signed MoU to produce F90 assault rifle in India | DefExpo 2018 India News Show Daily ... - Army Recognition,"Thu, 12 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiAFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vZGVmZXhwb18yMDE4X2luZGlhX25ld3Nfc2hvd19kYWlseS90aGFsZXNfYW5kX21rdV9oYXZlX3NpZ25lZF9tb3VfdG9fcHJvZHVjZV9mOTBfYXNzYXVsdF9yaWZsZV9pbl9pbmRpYS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Indian Company MKU Limited and Thales from France have signed two MoUs for strategic co-operation in the development and production of optronic devices and F90 close quarter battle (CQB) rifle for soldiers. The new-generation F90 is an evolution of the Austeyr F88 assault rifle, which is operational in more than 30 countries, including Australia and New Zealand.
+
+
+
+Thales Improved F90 Modular Bullpup Rifle (Picture source Thales)
+
+The optronic devices will be co-developed by Thales and MKU and both the optronic devices and F90 rifles will be manufactured in India at MKU’s facilities in Kanpur, Uttar Pradesh. These products will be offered to the Indian army and homeland security forces under the ‘Make in India’ initiative of the Government.
+
+On the occasion, Mr. Neeraj Gupta, MD of MKU said, “MKU is pleased to sign the strategic co-operation MoUs with Thales. This partnership will not only focus on meeting the requirements of our forces in India, but will also look at exporting the products to other parts of the world.”
+
+Alex Cresswell, Senior Executive Vice-President for Land & Air Systems at Thales said, ""We are very pleased to work in close collaboration with MKU for the development of weapons and optronic devices to address specific needs of the Indian and international markets. This co-development partnership reaffirms our commitment to India and is the result of our ambition to support soldiers on operations.""
+
+The strategic co-operation for optronic devices between Thales and MKU is committed to enhancing the night fighting capabilities of the Indian Army and homeland security forces. It envisages manufacturing of optronics equipment including weapon sights, night vision goggles, handheld thermal imagers and thermal infrared sensor engine for soldier systems, and other image intensification and thermal imaging systems for soldiers and platforms respectively.
+
+
+
+For weapons, the two companies plan to cooperate so that MKU could set-up an assembly and manufacturing plant in India for the carbine version of the F90 assault rifle, combat-proven and already in service with Australian Defence Forces. Light, balanced and accurate, the F90CQB (Close Quarter Battle) developed with MKU will be well suited to Indian conditions and requirements.
+
+
+
+The F90 assault rifle has bullpup design and open architecture allow it to be configured for a wide range of mission profiles. The rifle has an overall length of 700 mm and a weight of 3.25 kg. It is equipped with a 407 mm-long fixed and lighter barrel. The barrel lengths of 3.39 kg F90M and 3.15 kg F90CQB variants are 508 mm and 360 mm respectively. The F90 is a gas-operated, selective fire weapon with a bullpup layout. It is chambered for the standard NATO 5.56x45 mm ammunition.","{'label': 'Neutral', 'score': 0.9999715089797974}",neutral,0.9999715089797974,0
+Senegal purchases Thales Ground Master 400 Radar - Military Africa,"Thu, 19 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmFmcmljYS8yMDE4LzA0L3NlbmVnYWwtcHVyY2hhc2VzLXRoYWxlcy1ncm91bmQtbWFzdGVyLTQwMC1sb25nLXJhbmdlLXN1cnZlaWxhbmNlLXJhZGFycy_SAXNodHRwczovL3d3dy5taWxpdGFyeS5hZnJpY2EvMjAxOC8wNC9zZW5lZ2FsLXB1cmNoYXNlcy10aGFsZXMtZ3JvdW5kLW1hc3Rlci00MDAtbG9uZy1yYW5nZS1zdXJ2ZWlsYW5jZS1yYWRhcnMvP2FtcD0x?oc=5&hl=en-US&gl=US&ceid=US:en,"The Senegalese Air Force has ordered an unspecified number of Thales Ground Master 400 long-range air surveillance radars.
+
+The first set would be delivered in 2019. The system would be integrated with the country’s already existing SkyView command-and-control system mounted at Ouakam Air Base in Dakar.
+
+ADVERTISEMENT
+
+According to information provided by Thales group, the Ground Master 400 is an integral part of Thales-Raytheon Systems digital 3D air defense systems.
+
+The system is available in two versions: mobile and fixed. It can be operated remotely for safety reasons or can be operated as part of a integrated command and control centre.
+
+Various pictures showing the Ground Master 400 configurations
+
+As previously reported, the Senegalese Military is modernizing it forces at a rapid pace just recently the country signed an agreement with Aero Vorodochody to deliver four units of the latest L-39 NG Albatross trainer attack light aircraft and also it took delivery of refurbished Mi-24 Hind assault gunships from Poland.
+
+ADVERTISEMENT
+
+Defence experts believes that this new modernization frenzy is due to the country not fielding proper aerial protection during the 2017 Gambian invasion whereby the only aerial and naval assets were deployed by the Nigerian military.
+
+Key features of the Thales Ground Master 400:
+
+Digital Beam Forming
+
+MTBCF*: 3000 hours (*mean time between critical failures)
+
+Operational availability > 99.9%
+
+One single package (20 feet ISO standard container, 10 tons)
+
+Plug, play and operate in Network Centric Operations
+
+Chosen and planned maintenance with limited team","{'label': 'Neutral', 'score': 0.999997615814209}",neutral,0.999997615814209,0
+Thales ramps up Aussie dev-ops - https://www.innovationaus.com/,"Thu, 12 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lmlubm92YXRpb25hdXMuY29tL3RoYWxlcy1yYW1wcy11cC1hdXNzaWUtZGV2LW9wcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is hiring up developers for its Australian programming centre to help build an ambitious air traffic control system that will cover 11 per cent of the globe’s airspace as the group investigates the looming problem of how to manage swarms of delivery drones.
+
+The French transport, aerospace, defence and aviation systems heavyweight inked a deal with the Federal government in February to build the $1.2 billion Onesky project, a combined civil and military ATC system that will supervise Australasian air space as far away as the middle of the Indian ocean.
+
+The project is funded by Airservices Australia and Defence.
+
+Local software development and support for Onesky will come from the Thales centre of excellence in Melbourne – one of only two in the world, the other being in Paris.
+
+“It will grow, of course, because of the size of the (Onesky) project,” said Thales chief executive and chairman Patrice Caine. “The centre of excellence will expand and grow and beyond Onesky, [and] it will give the centre more momentum to address export markets.”
+
+“It’s a joint ambition with the Commonwealth of Australia,” said Mr Patrice adding local jobs would also be created along the Onesky supply chain. Presently, Thales has more than 3000 employees in Australia.
+
+Mr Patrice was speaking at a Thales cyber security media event in Paris where the company was spruiking its cyber chops. Thales has Euro 500 million in cyber revenue that’s expected to grow 10 per cent in 2018 and already employs 5000 cyber engineers worldwide.
+
+Onesky will need cyber hardening of its own and Thales was demoing its ATC and airport security systems at the Paris media event.
+
+Onesky has had its problems getting over the finish line and faced criticism from the Australian National Audit Office last year over value for money, as well as being put on the Defence Department’s Projects of Concern list, from which it has now been removed.
+
+The deal was expected to close in 2015 for a 2021 completion date but will now not likely be fully operational until 2023 or beyond.
+
+Mr Caine defended the drawn out deal signing process, saying it was better to hit the start line late but with “common understanding”.
+
+“The project has taken a bit of time not because of difficulties but because of complexity. It’s the first time in the world that civil and defence air traffic will be managed by the same system – two different types of operators under the same system
+
+“The level of complexity is very, very high. That’s why it has taken several years to make sure that when we start we start on an extremely precise and common understanding with the two customers and ourselves.
+
+“I think it was a wise decision to take a bit more time before, to save time after.”
+
+He said the first stage of the project would be completed “beyond 2020” but would give no further guidance on the project’s completion citing customer confidentiality.
+
+Meanwhile, Thales is eyeing the age of the drones and the problems of managing swarms of autonomous aircraft that would swamp the processing power of human air traffic controllers.
+
+Mr Caine said that while there was no market desire at the moment to eliminate human ATCs, the coming of mass drone operations such as those envisaged by Amazon and others presented a whole new ATC challenge.
+
+There is one key challenge that will need machines making decisions on behalf of human beings, which is the insertion of UAVs just because of the number of flying objects that potentially, once they are authorised, would be flying at the same time in a given airspace.
+
+“It is not humanly possible to manage thousands if not millions of objects flying at the same time,” said Mr Patrice, adding that drone ATC would rely on machines rather than humans.
+
+“We have started to work on this key challenge,” he said. “We need to demonstrate that the AI becomes certifiable which is not the case at the moment.”
+
+He said the level of certainty in an AI system managing swarms of UAVs needed to be on a whole other level to present day systems.
+
+Mistakes common in say present day AI driven object recognition systems were unacceptable in physical environments where safety was paramount, he said.
+
+“That’s why we need what I call explainable AI where if the machine gives a wrong answer we can explain why. The second step is developing certifiable AI where you can certify up to a level of probability,” he said.
+
+Such systems could be needed within the next five years, Mr Patrice said and pointed to demand from China
+
+“Why China? Because there is huge pressure coming from the likes of Alibaba. These big boys want to deliver parcels by drones. They want to demonstrate the benefits and show they are one step ahead of the competition.”
+
+“As these players are very powerful there is high pressure on the civil aviation authority in China to find a solution,” said Mr Patrice adding that systems involving Thales already managed 60 percent of China’s airspace.
+
+Thales is casting around for a site for an Asia located digital factory to support digital transformation efforts in the region.
+
+Mr Caine did not disclose where it would be, although he did say Australia and India were potential candidates for the next digital factory. The decision on the site for the digital factory will later this year.
+
+Stuart Kennedy traveled to Paris as a guest of Thales.
+
+Do you know more? Contact James Riley via Email.","{'label': 'Neutral', 'score': 0.9967769980430603}",neutral,0.9967769980430603,0
+Thales Project Arduino - 2018 Competition Launched : Archive Page : The University of Western Australia - University News: The University of Western Australia,"Mon, 09 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5ld3MudXdhLmVkdS5hdS9hcmNoaXZlLzIwMTgwNDA5MTA1MTgvYnVzaW5lc3MtYW5kLWluZHVzdHJ5L3RoYWxlcy1wcm9qZWN0LWFyZHVpbm8tMjAxOC1jb21wZXRpdGlvbi1sYXVuY2hlZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A group of UWA Engineering students have formed teams to take part in the Thales Global Technology competition which was launched on Thursday 22 March by Thales Australia. Students will be submitting their project ideas in the coming weeks.z
+
+The competition encompasses engineering student participants from some of the top Universities in 10 countries including; China, Canada, US, UK, Singapore, Middle East, France, Netherlands, Portugal and Australia. Jamie Flunder Digital Media Designer at Thales Australia said “some really great ideas were discussed, including some advanced technology concepts which have huge real world potential”.
+
+The teams will build a Thales-inspired project using an Arduino open-source electronics prototyping platform, along with creating a promotional video pitching their project to the public and Thales judges. Teams will then showcase their work in front of other UWA teams. Following this, teams will enter the country wide competition. The top 3 projects will go through to the final stage, with the winning project being announced in May 2018.
+
+Thales is an innovative and cutting edge business that links brilliant people from all over the world together to share ideas and inspire each other. In aerospace, transportation, defence, security and space. The competition is an excellent opportunity for UWA Engineering students to potentially positively impact the future on a global scale, while gaining hands-on experience that will in-turn better prepare them for careers of the future.
+
+To find out more or to sign up for next year’s competition visit https://www.thalesarduino.com/arduino
+
+Media references
+
+Chloe Leopold (UWA Faculty of Engineering Mathematical Sciences) (+61 8) 6488 2260","{'label': 'Positive', 'score': 0.9509227871894836}",positive,0.9509227871894836,1
+MKU and Thales Sign Two MoUs to Develop Optronic Devices and Close Quarter Battle Rifles for Indian Army - Force Magazine,"Thu, 12 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vZm9yY2VpbmRpYS5uZXQvbWt1LXRoYWxlcy1zaWduLXR3by1tb3VzLWRldmVsb3Atb3B0cm9uaWMtZGV2aWNlcy1jbG9zZS1xdWFydGVyLWJhdHRsZS1yaWZsZXMtaW5kaWFuLWFybXkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"MKU Limited and Thales have joined hands for strategic co-operation in the development and production of optronic devices and F90close quarter battle (CQB) rifle for Indian Army.
+
+Under the two memoranda of understanding (MoUs), the companies will co-develop the optronic devices, which along with the F90 rifles will be manufactured in India at MKU’s facilities in Kanpur, Uttar Pradesh. Both the products will be offered to the Indian Army and the central paramilitary and police forces under ‘Make in India’.
+
+Speaking on the occasion, managing director, MKU, Neeraj Gupta said, “MKU is pleased to sign the strategic cooperation MoUs with Thales. This partnership will not only focus on meeting the requirements of our forces in India but will also look at exporting the products to other parts of the world”.
+
+
+
+
+
+
+
+
+
+Senior executive vice-president for Land & Air Systems at Thales, Alex Cresswell said, “We are very pleased to work in close collaboration with MKU for the development of weapons and optronic devices to address specific needs of the Indian and international markets. This co-development partnership reaffirms our commitment to India and is the result of our ambition to support soldiers on operations”.
+
+The strategic cooperation for optronic devices between Thales and MKU is committed to enhancing the night-fighting capabilities of the Indian Army and homeland security forces, the companies said in a joint statement. The statement further added that, “It envisages manufacturing of optronics equipment including weapon sights, night vision goggles, handheld thermal imagers and thermal infrared sensor engine for soldier systems, and other image intensification and thermal imaging systems for soldiers and platforms respectively”","{'label': 'Neutral', 'score': 0.9999767541885376}",neutral,0.9999767541885376,0
+The Iridium NEXT constellation story - Thales,"Wed, 04 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9pcmlkaXVtLW5leHQtY29uc3RlbGxhdGlvbi1zdG9yedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"With the fifth Iridium® NEXT launch complete, delivering ten new satellites to low earth orbit on a SpaceX Falcon 9 rocket, the Iridium NEXT constellation now has 50 communications satellites in orbit.
+
+
+
+
+
+A masterpiece of Engineering
+
+The Iridium NEXT constellation, built by Thales Alenia Space as prime contractor for Iridium, offers global connectivity via 66 interconnected satellites at an altitude of 780 kilometers. This global network provides unrivaled capacity for communications on the move (people, land vehicles, aircraft, ships), and operates worldwide, including over oceans and the poles. There are nearly one million Iridium subscribers worldwide.
+
+#IridiumNEXTwebseries: a constellation story that will make history!
+
+The challenge facing Thales Alenia Space on this program was not only to deliver the satellites, but above all, having to show that it was capable of commissioning a complete system, while ensuring its compatibility with the previous generation of satellites. The Iridium NEXT satellites in the first 4 launches showed that they were compatible with the system already in place, while results of the initial functional tests were in line with, and even exceeded, Iridium’s expectations.
+
+After another successful Iridium NEXT launch of 10 satellites on March 30th , take a look back to the emotion of the first launch on January 14th, 2017!
+
+
+
+
+
+. Follow the men and women who are transforming the future of global communications. Managing the delicate dance process: that's the tremendous job being done at the Iridium Satellite Network Operations Center (SNOC).
+
+. Iridium : a genius idea inspired by a woman. Look back to the 80s & 90s, to understand how the constellation was created.
+
+In the year 2000, Iridium satellites were 12 hours away from being deorbited. Watch the incredible story of Dan Colussy,
+
+Photos & videos: Thales Alenia Space/Master Image Programmes","{'label': 'Neutral', 'score': 0.9818102121353149}",neutral,0.9818102121353149,0
+DSA 2018: Thales' F90 MBR assault rifle makes first appearance in Asia | DSA 2018 News Official Show Daily ... - Army Recognition,"Wed, 18 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMihwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vZHNhXzIwMThfbmV3c19vZmZpY2lhbF9zaG93X2RhaWx5L2RzYV8yMDE4X3RoYWxlc19mOTBfbWJyX2Fzc2F1bHRfcmlmbGVfbWFrZXNfZmlyc3RfYXBwZWFyYW5jZV9pbl9hc2lhLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Months after having been unveiled at DSEi 2017 in London, Thales’ newest F90 MBR assault rifle is making its Asian premiere this week at DSA 2018, held in Kuala Lumpur from 16-19 April.
+
+
+
+Thales F90 MBR assault rifle highlighted at DSA 2018
+
+Developed by Thales Australia from the battle-proven F90 used by the Australian Defence Force, the MBR delivers the flexibility and interoperability by Asian modern armed forces.
+
+The F90MBR is completely interoperable with NATO weapons. The F90MBR is one of the lightest assault rifles on the market at 3.25 kg, and is fitted with ambidextrous controls to enable fast reaction times and rapid target engagement. Features include availability in multiple barrel lengths, fully-ambidextrous forward bolt and magazine release controls, and a ‘drop free’ magazine release function to facilitate even faster magazine changes, regardless of the handdominance of the firer. The F90MBR safely accommodates offhanded shooting techniques through the use of a case deflector, and can be easily modified by the operator without tools to a dedicated left or right handed ejecting weapon.
+
+The weapon’s open architecture incorporates a NATO tri-rail system and magazine compatibility to ensure interoperability with existing NATO weapons. It is able to be packaged with multiple barrels, and compatible optics, accessories and ancillaries with Grab Case, allowing an operator to quickly transition between different tactical employments of the weapon system. ‘Over The Beach’ capability means it is well suited for use by amphibious forces. Soldiers can swim with the weapon, and fire
+
+Immediately after emerging from the water.
+
+The F90, and now the F90MBR, set the benchmark for accuracy and reliability in small arms to support soldiers in operations. Building on over 100 years of extensive experience and expertise in small arms manufacture, the F90MBR is evolved from the battleproven F90 weapon, delivering ergonomic, modularity and interoperability enhancements, while retaining the same high levels of accuracy and reliability as the F90. Both the F90 and F90MBR enable the soldier to reach up to 600m accurately and with ease. Proven world class reliability ensures a war fighter can have absolute confidence in his weapon in the most demanding environmental conditions, whether that be the sands of the desert, the humidity of the jungle or in extreme cold.
+
+Thales in Australia is a trusted partner of the Australian Defence Force and is also present in commercial sectors ranging from air traffic management and ground transport systems to security systems. Employing around 3,400 people, Thales Australia recorder revenues of more than AUD 1 billion in 2016.","{'label': 'Neutral', 'score': 0.9868258833885193}",neutral,0.9868258833885193,0
+A concentration of constellations at Thales Alenia Space - Thales,"Mon, 09 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9jb25jZW50cmF0aW9uLWNvbnN0ZWxsYXRpb25zLXRoYWxlcy1hbGVuaWEtc3BhY2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"March 2018 was definitely “constellation month” at Thales Alenia Space!
+
+On March 9, four satellites in the O3b constellation, built by Thales Alenia Space for SES Networks, were successfully launched by Arianespace from the Guiana Space Center, Europe’s Spaceport in French Guiana (South America). These four new satellites will expand and enrich the current constellation, comprising 12 O3b satellites also built by Thales Alenia Space, and operational in orbit since 2014. Together, they will deliver more capacity, expanded coverage, and greater efficiency and reliability. Via these high-performance satellites, SES Networks supplies broadband services to telecom and mobile telephony operators, Internet service providers, companies, mobile customers, government agencies and the energy industry.
+
+According to Jean-Loïc Galle, CEO of Thales Alenia Space, “This joint venture, which combines the high-tech design of the platform developed by Spaceflight Industries with Thales Alenia Space’s proven expertise in manufacturing constellations, will provide production capacity exceeding the needs of BlackSky. Our partnership reflects the ‘new space’ transformation strategy being implemented by Thales Alenia Space, with the aim of becoming a major manufacturer of observation satellite constellations featuring short revisit times, both in Europe and the United States.”
+
+On, Thales Alenia Space, Telespazio and Spaceflight Industries finalized their new alliance. They will be building 60 Earth observation satellites and delivering innovative geospatial services. Thales Alenia Space and the American company Spaceflight Industries created an equally-owned joint venture, LeoStella LLC.
+
+Onten newsatellites were successfully launched by SpaceX from the Vandenberg launch base in California. A total of 50 satellites are now in orbit, more than two-thirds of this constellation. Built by Thales Alenia Space as prime contractor for Iridium, this constellation will provide global connectivity through its 66 interconnected satellites, operating at an altitude of 780 km. They form a global network providing unrivaled communication capacity for mobiles, whether people, vehicles, planes or ships, with a coverage zone including oceans and the poles.More than half of the satellites in the first constellation, built by Motorola, have now been replaced by these Iridium NEXT satellites, without in any way interrupting service for the million Iridium subscribers.
+
+Artistic views:
+
+Constellation & Iridium NEXT: © Thales Alenia Space/Master Image Programmes
+
+O3b: © Thales Alenia Space/Briot
+
+BlackSky: © SpaceFlight Inc.
+
+","{'label': 'Neutral', 'score': 0.7143241763114929}",neutral,0.7143241763114929,0
+Frances Holmes: Business Analysis and Strategy Consultant - Thales,"Tue, 17 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2ZyYW5jZXMtaG9sbWVzLWJ1c2luZXNzLWFuYWx5c2lzLWFuZC1zdHJhdGVneS1jb25zdWx0YW500gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Frances Holmes: Business Analysis and Strategy Consultant Share this article
+
+
+
+LinkedIn
+
+We caught up with Frances Holmes, finalist for Young Consultant of the Year at the Management Consultancies Association Awards, to discuss a whirlwind 12 months, what makes her tick and plans for the next five years.
+
+Not a bad few months being awarded Thales Consultant of the Year in 2017 and now, your nomination for MCA award Young Consultant of the Year - how are you feeling?
+
+A little overwhelmed to be honest. It’s great to be recognised for the work I have done, but I am still very early in my career and I know I have got a lot more I want to do and learn, I guess this is just the start.
+
+What's a typical day look like for you?
+
+The great thing about consultancy is no day is the same. At the moment I work across two clients, one internal to Thales in the innovation hub and one external in a government department. Both are different projects and utilise and develop a diverse range of skills. One day I am in London, embedded in a government team, managing a business change initiative, the next I am talking to engineers in Thales to progress there projects along business and customer axes.
+
+
+
+What's the best part of your work…?
+
+The variety of people I get to work with and meet on a daily basis. Thales employees are experts in their fields and always willing to talk me through the details of their projects. External stakeholders have come to talk to me at events because I am from Thales, meeting experts in smart cities, cryptography across industry and government departments. The network I am building is diverse and deep in knowledge and expertise.
+
+
+
+…And the most challenging?
+
+I am a natural introvert, so large meeting and networking events are always something I need to “Big Myself Up” for. It gets easier the more I do it, but I still get those butter flies before I enter a large event where I do not know anyone.
+
+
+
+What are the Thales Cyber & Consulting team like to work with?
+
+I have not yet had the opportunity to work with a lot of teams in TC&C as I have been out on contract since I started. However, whenever I have had questions, everyone always has time to help. The structure is really flat, and the management are very approachable. If you have a good idea and a forward approach, your thoughts and opinions will always be heard.
+
+
+
+Now for a bit of background…
+
+What did you study at University?
+
+I studied Maths at Newcastle University. I did an undergraduate masters in mathematics, specialising in General Relativity and black holes for my thesis.
+
+
+
+Any ways you can link the concepts you learnt at Uni with your work at Thales?
+
+My degree and thesis gave me a great foundation in code development and ground breaking theories. This has driven my work in the research and innovation domains. It has allowed me to understand the technical aspects of the projects I am working on and be able to communicate effectively with the SME community. I fully appreciating the constrains and limitations they are under.
+
+
+
+Have you had any challenges in your career? If so, how did you overcome it and what did it teach you?
+
+
+
+I am definitely still coming face-to-face with challenges every day. I don’t feel like you ever stop learning, and you only learn when you are challenged with something new. I constantly have times when I feel I could have delivered my knowledge and argument better, or that I should have gone about a task differently, but that’s all the learning curve we go through to improve. I don’t expect to know it all at 28, I have a lot more to learn and many more times to will fail before I get it right.
+
+
+
+Back to the future…
+
+Where do you see your career in five years?
+
+I have been asked this question a number of times over the past year, especially around appraisal times. It is never a question I really know how to answer. My career to date has definitely not been planned out, I wouldn’t expect to be here, as a business consultant 5 years ago when I finished my degree. So here goes for an answer, in 5 years’ time I want to be a senior leader in a technology organisation, building on my internal and external network at Thales. I want to have challenged and broken down barriers. I want to enjoy every day of my career and continue to be challenged.
+
+
+
+Any favourite quotes?
+
+I clearly say “Love” to much in conversation, when referring to someone. I think its my northern routes. But I think my fav quote I live by is not to be afraid to fail, if you always play it safe you won’t do anything of note.
+
+
+
+What do you like to do in your down time?
+
+I am a qualified sailing instructor and yacht day skipper, so I do love sailing. Unfortunately I don’t get to do it as much as I would like.
+
+
+
+And finally… favourite food?
+
+Bolognaise, that was easy, it’s my go to comfort food.","{'label': 'Neutral', 'score': 0.9998297691345215}",neutral,0.9998297691345215,0
+Thales UK welcomes MOD's OCCAR Announcement for MIV - Thales,"Thu, 05 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy11ay13ZWxjb21lcy1tb2RzLW9jY2FyLWFubm91bmNlbWVudC1taXbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales UK welcomes MOD's OCCAR Announcement for MIV Scotland Share this article
+
+
+
+LinkedIn
+
+Thales UK welcomes the announcement by the UK Ministry of Defence (MoD) that their preferred procurement route for the British Army’s Mechanised Infantry Vehicle (MIV) programme is through the OCCAR organisation (Organisation Conjointe de Coopération en matière d'Armement/Organisation for Joint Armament Co-operation).
+
+
+
+The ARTEC joint venture of Rheinmetall MAN Military Vehicles and Krauss-Maffei Wegmann have partnered with a consortium of UK Defence Companies, including Thales UK, in order to offer the BOXER 8x8 Armoured Vehicle solution into the MIV programme, via the OCCAR framework. Thales’ work will help bring a focus on Jobs in the UK with UK production of the BOXER creating and sustaining highly skilled jobs at Thales sites in Glasgow, Belfast and Bristol, as well as sustaining many more jobs throughout our supply chain in Scotland and across the UK.
+
+
+
+ARTEC believes that the MoD will find that BOXER offers excellent value for money and will provide an off-the-shelf capability that fully satisfies the requirements of the Mechanised Infantry Vehicle (MIV) program. Thales UK, as part of this strong consortium, is confident that this Battle Wining capability can be delivered to meet the MOD’s challenging timelines in order to achieve operational readiness of the first UK Strike Brigade by 2025. This contract will also help position Thales to better support ARTEC in the export market. Throughout the world Land Forces rely on Thales’ vehicle support solutions for all mission types with more than 50 National Land Forces being currently equipped by Thales.","{'label': 'Positive', 'score': 0.9954766631126404}",positive,0.9954766631126404,1
+"MKU, Thales jointly Develop optronic devices, close-quarter battle rifles for Indian Army - ABP Live","Tue, 10 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL25ld3MuYWJwbGl2ZS5jb20vYnVzaW5lc3MvbWt1LXRoYWxlcy1qb2ludGx5LWRldmVsb3Atb3B0cm9uaWMtZGV2aWNlcy1jbG9zZS1xdWFydGVyLWJhdHRsZS1yaWZsZXMtZm9yLWluZGlhbi1hcm15LTY4MTc1OdIBhAFodHRwczovL25ld3MuYWJwbGl2ZS5jb20vYnVzaW5lc3MvbWt1LXRoYWxlcy1qb2ludGx5LWRldmVsb3Atb3B0cm9uaWMtZGV2aWNlcy1jbG9zZS1xdWFydGVyLWJhdHRsZS1yaWZsZXMtZm9yLWluZGlhbi1hcm15LTY4MTc1OS9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"Chennai (Tamil Nadu) [India], Apr 10 (NewsVoir): MKU Limited and Thales have signed two MoUs for strategic co-operation in the development and production of optronic devices and F90close quarter battle (CQB) rifle for soldiers. The optronic devices will be co-developed by Thales and MKU and both the optronic devices and F90 rifles will be manufactured in India at MKU's facilities in Kanpur, Uttar Pradesh. These products will be offered to the Indian army and homeland security forces under the 'Make in India' initiative of the Government.
+
+Neeraj Gupta, MD of MKU said, ""MKU is pleased to sign the strategic co-operation MoUs with Thales. This partnership will not only focus on meeting the requirements of our forces in India, but will also look at exporting the products to other parts of the world.""
+
+Alex Cresswell, Senior Executive Vice-President for Land and Air Systems at Thales said, ""We are very pleased to work in close collaboration with MKU for the development of weapons and optronic devices to address specific needs of the Indian and international markets. This co-development partnership reaffirms our commitment to India and is the result of our ambition to support soldiers on operations.""
+
+The strategic co-operation for optronic devices between Thales and MKU is committed to enhancing the night fighting capabilities of the Indian Army and homeland security forces. It envisages manufacturing of optronics equipment including weapon sights, night vision goggles, handheld thermal imagers and thermal infrared sensor engine for soldier systems, and other image intensification and thermal imaging systems for soldiers and platforms respectively.
+
+For weapons, the two companies plan to cooperate so that MKU could set-up an assembly and manufacturing plant in India for the carbine version of the F90 assault rifle, combat-proven and already in service with Australian Defence Forces. Light, balanced and accurate, the F90CQB (Close Quarter Battle) developed with MKU will be well suited to Indian conditions and requirements. (NewsVoir)","{'label': 'Neutral', 'score': 0.9999885559082031}",neutral,0.9999885559082031,0
+Senegal acquires Thales helicopter training systems - defenceWeb,"Wed, 25 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRlZmVuY2V3ZWIuY28uemEvYWVyb3NwYWNlL2Flcm9zcGFjZS1hZXJvc3BhY2Uvc2VuZWdhbC1hY3F1aXJlcy10aGFsZXMtaGVsaWNvcHRlci10cmFpbmluZy1zeXN0ZW1zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Senegal’s Armed Forces will use a helicopter mission trainer from Thales to train its Mi-35 attack helicopter and Mi-17 transport helicopter pilots.
+
+Thales on 20 April said its helicopter mission trainer will enable pilots to acquire and develop tactical skills and be mission-ready.
+
+“The Senegalese Armed Forces are involved in a wide range of deployments in remote theatres, conducting operations beyond the scope of traditional homeland defence. For this reason, they need to improve the tactical training of attack helicopter pilots,” Thales said.
+
+The Thales helicopter mission trainer will allow pilots to train in a diverse array of programmable tactical scenarios, such as combat search and rescue, naval operations or even commando insertion/extraction. All training will be analysed at a debriefing station to prepare for a successful mission.
+
+“Thanks to a high definition visual database and to a rich, synthetic and powerful environment, the flexible, modular trainer can be configured to allow individual pilot and commander training as well as training of entire aircrews for collective operations, such as multi-crew and multiplatform coordination and combined arms deployments,” Thales said.
+
+“These training tools of the future have been developed using Thales state-of-the-art technologies to enable highly effective instruction and training. The Senegalese Armed Forces will benefit from a training system perfectly matching the tactical training requirements of helicopter pilots, reconstructing operational conditions with a high degree of realism,” said General Joseph M. Diop, Air Force Chief of Staff of the Senegalese Armed Forces.
+
+The helicopter tactical trainer is part of Thales’s portfolio of simulation products. For over fifteen years, French Army Light Aviation (ALAT) helicopter pilots have been using the EDITH helicopter tactical trainer platform from Thales for collective instruction and training.
+
+Senegal’s helicopter training system will be installed at the Air Force academy near Dakar.
+
+Senegal last year received three refurbished Mi-24V attack helicopters from Poland’s WZL-1 aviation company after ordering the aircraft from Slovakia in 2015. The first Mi-24 to be overhauled by WZL-1 was delivered in February 2017. WZL-1 also provided technical training for Senegalese personnel on the helicopters.
+
+In addition to the three refurbished Hinds, Senegal in 2007 received two Mi-24/35Ps in 2007 after placing an order from Russia in 2005. According to the Stockholm International Peace Research Institute (SIPRI), Senegal also received two Mi-171s from Russia.
+
+In June 2016 it was announced that Senegal was upgrading its Mi-24 attack helicopters with Israeli Controp DSP-HD electro-optical systems.
+
+Apart from the helicopter training system, Senegal also ordered from Thales this month an unspecified number of Ground Master 400 air surveillance radars along with SkyView command and control systems.","{'label': 'Neutral', 'score': 0.9993009567260742}",neutral,0.9993009567260742,0
+Thales-Reliance JV for India-specific capabilities - The New Indian Express,"Wed, 11 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2NpdGllcy9jaGVubmFpLzIwMTgvQXByLzExL3RoYWxlcy1yZWxpYW5jZS1qdi1mb3ItaW5kaWEtc3BlY2lmaWMtY2FwYWJpbGl0aWVzLTE3OTk4NDcuaHRtbNIBhQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9hbXAvc3RvcnkvY2l0aWVzL2NoZW5uYWkvMjAxOC9BcHIvMTEvdGhhbGVzLXJlbGlhbmNlLWp2LWZvci1pbmRpYS1zcGVjaWZpYy1jYXBhYmlsaXRpZXMtMTc5OTg0Ny5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en,"He said Thales has invested almost one billion euros over the last three years to both acquire and grow organically the core technologies of connectivity and Internet of Things (IoT), Big Data analytics, artificial intelligence and cybersecurity.Interestingly, Thales is also upgrading Mirage 2000s and avionics of six of them have been completed. The balance 54 will be done by the Hindustan Aeronautics Ltd.He said Thales plans to increase its Indian revenue to one billion euros and double its exports to 600 million euros in the near future.","{'label': 'Positive', 'score': 0.9973195195198059}",positive,0.9973195195198059,1
+Deadline day for operator of Metro LRT Line - CTV News Edmonton,"Mon, 30 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZWRtb250b24uY3R2bmV3cy5jYS9tb2JpbGUvZGVhZGxpbmUtZGF5LWZvci1vcGVyYXRvci1vZi1tZXRyby1scnQtbGluZS0xLjM5MDgyNzM_Y2FjaGU9a3hlYmRmc3l3Z3c_YXV0b1BsYXk9dHJ1ZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Monday marks a deadline for the contractor and operator of the problem-plagued Metro LRT Line, to sort out issues related to the line into northwest Edmonton.
+
+In December, City Council gave Thales Canada until April 30, 2018 to get the system working properly – or face “serious consequences.”
+
+The line opened to riders in September, 2015. It was nearly two years behind schedule.
+
+Since then, signalling issues have plagued the line, resulting in slow-speed trains, and system errors.
+
+A report released in 2017 found 50 cases where something went wrong with the line, usually issues with the brakes and sensors, and a handful of those cases were categorized in the report as “risks to the public.”
+
+So far, Thales has not received full payment for work on the line.
+
+CTV News has reached out to Thales for comment, the company has not responded.
+
+More to come...
+
+With files from Dan Grummett","{'label': 'Negative', 'score': 0.9959473013877869}",negative,0.9959473013877869,-1
+French company will supply equipment for new control tower at the Dushanbe airport | Tajikistan News ASIA-Plus - asiaplustj.info,"Tue, 24 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hc2lhcGx1c3RqLmluZm8vZW4vbmV3cy90YWppa2lzdGFuL2Vjb25vbWljLzIwMTgwNDI0L2ZyZW5jaC1jb21wYW55LXdpbGwtc3VwcGx5LWVxdWlwbWVudC1mb3ItbmV3LWNvbnRyb2wtdG93ZXItYXQtdGhlLWR1c2hhbmJlLWFpcnBvcnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Equipment for the new control tower at the Dushanbe airport will be supplied by French Company Thales, a source in the Tajik government told Asia-Plus today morning.
+
+According to him, this issue has been discussed here at a meeting of Tajik Deputy Prime Minister, Azim Ibrohim, with Mr. Oliver Auchan (phonetically spelled), Vice-President of Thales.
+
+The equipment is expected to be supplied to Tajikistan in the first half of 2019, the source added.
+
+Recall, a cornerstone laying ceremony for a new control tower took place at Dushanbe International Airport (DIA) on March 14, 2018.
+
+The Governent of France is sponsoring the construction of this significant strategic facility and French company Enterprise Marc Meunier will build the control tower at the Dushanbe airport. The project is reportedly expected to be completed in 2021.
+
+A government-to-government agreement between Tajikistan and France on construction of the control tower at the Dushanbe airport was signed in Dushanbe on July 13, 2015.
+
+The document was inked by the then Minister of Transport of Tajikistan Sherali Ganjalzoda and the then Ambassador of France to Tajikistan Didier Leroy.
+
+An agreement on construction of a 41-meter control tower at the Dushanbe airport was reportedly reached in Dushanbe in February 2013.
+
+Thales Group is a French multinational company that designs and builds electrical systems and provides services for the aerospace, defense, transportation and security markets. Its headquarters are in La Défense (the business district of Paris), and its stock is listed on the Euronext Paris.
+
+The company changed its name to Thales from Thomson-CSF in December 2000 shortly after the £1.3 billion acquisition of Racal Electronics plc, a UK defense electronics group. It is partially state-owned by the French government, and has operations in more than 56 countries. It reportedly has 64,000 employees and generated €14.9 billion in revenues in 2016. It is also the 10th largest defense contractor in the world and 55% of its total sales are military sales.","{'label': 'Neutral', 'score': 0.9999986886978149}",neutral,0.9999986886978149,0
+MKU & Thales Team Up for Indian CQB Rifle - - The Firearm Blog,"Thu, 19 Apr 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWZpcmVhcm1ibG9nLmNvbS9ibG9nLzIwMTgvMDQvMTkvbWt1LXRoYWxlcy10ZWFtLXVwLWZvci1pbmRpYW4tY3FiLXJpZmxlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"MKU Ltd. and Thales have announced that they will work together to enter India’s Close Quarter Battle Rifle trials. The announcement came on the 10th April, at Defexpo 2018, as the two companies signed two memorandums of understanding (MoU) for strategic co-operation.
+
+The agreement covers the development of a carbine version of the F90, known as the F90CQB, and optronic devices to be mounted on the rifle for entry into India’s Rifle Program. The F90 is the export version of Australia’s EF88, developed by the Thales-owned Lithgow Small Arms Factory. The Kanpur-based MKU Ltd. specialises in producing defence equipment including helmets, ballistic vests, night vision optics and binoculars. The co-operation aims to enhance the future night fighting capabilities of the Indian Army.
+
+The products from the initiative will be offered with the understanding that if adopted they will be produced under the Indian government’s ‘Made in India’ initiative.
+
+MKU’s managing Director, Neeraj Gupta, said in a press release that his company is “pleased to sign the strategic co-operation MoUs with Thales. This partnership will not only focus on meeting the requirements of our forces in India, but will also look at exporting the products to other parts of the world.”
+
+Alex Cresswell, Senior Executive Vice-President for Land and Air Systems at Thales said:
+
+We are very pleased to work in close collaboration with MKU for the development of weapons and optronic devices to address specific needs of the Indian and international markets. This co-development partnership reaffirms our commitment to India and is the result of our ambition to support soldiers on operations.
+
+If the submission from the two companies is successful, Thales will co-operate with MKU to enable the Indian company to set up a manufacturing plant in India to produce the F90CQB.
+
+Sources:
+
+Thales Press Release regarding the new deal, retrieved 12/04/18, from source
+
+MKU & Thales jointly Develop optronic devices, close-quarter battle rifles for Indian Army, ANI, retrieved 10/04/18, from source","{'label': 'Neutral', 'score': 0.9998694658279419}",neutral,0.9998694658279419,0

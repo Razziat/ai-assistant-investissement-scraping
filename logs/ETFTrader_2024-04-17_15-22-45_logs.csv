@@ -1,0 +1,52 @@
+2024-04-17 15:22:45,918: asyncio: INFO: [ETFTrader] Executing the initialize lifecycle method
+2024-04-17 15:22:48,669: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 15:22:48,669: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 15:22:48,684: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 15:22:48,684: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 15:22:48,684: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:22:48[0m
+2024-04-17 15:22:48,684: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:22:49,798: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:22:54,862: asyncio: ERROR: [ETFTrader] '_thread._local' object has no attribute 'minperiods'
+2024-04-17 15:22:54,886: asyncio: ERROR: [ETFTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 80, in on_trading_iteration
+    macd_df, rsi_df = self.calculate_indicators()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 70, in calculate_indicators
+    macd = btalib.macd(close_prices, fast=12, slow=26, signal=9)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\btalib\indicator.py", line 110, in __call__
+    self.outputs = self.o = meta.outputs._from_class(cls)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\btalib\meta\outputs.py", line 30, in _from_class
+    return _CLSOUTPUTS[cls]()  # defvals params in dict format
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\btalib\meta\lines.py", line 630, in __init__
+    metadata.minperiods[self] = [1] * len(self)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: '_thread._local' object has no attribute 'minperiods'
+
+2024-04-17 15:22:54,886: asyncio: INFO: [ETFTrader] Executing the on_bot_crash event method
+2024-04-17 15:22:54,894: root: INFO: Backtesting finished
+2024-04-17 15:22:55,297: asyncio: WARNING: [ETFTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 15:22:55,419: asyncio: WARNING: [ETFTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 15:22:55,419: backtest_stats: INFO: Backtest took 0:00:09.501363 for a speed of 0.000

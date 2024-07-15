@@ -1,0 +1,1418 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+What does 2023 have in store for cybercrime? Here are 16 predictions for a hacky new year - Thales,"Tue, 27 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlLWRpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2VudGVycHJpc2UtY3liZXJzZWN1cml0eS9tYWdhemluZS93aGF0LWRvZXMtMjAyMy1oYXZlLXN0b3Jl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"What does 2023 have in store for cybercrime? Here are 16 predictions for a hacky new year
+
+Estimated reading time: 5 minutes
+
+While most of us are celebrating the holiday season, cyber attackers are planning their next wave of breaches. Sad, but true. So what should security experts be planning for?
+
+Every year technology makes things a litter faster, cheaper or both. It’s the wonder of innovation – and it’s been this way for two hundred years. But new every advance brings some downside. And in the digital era, it’s cybercrime. Regrettably, for all the benefits ushered in by online connectivity, there are criminals dreaming up thefts and deceptions that take advantage of flaws in data storage, identity and encryption.
+
+Every year the number of attacks appears to grow. In 2021, for example, the FBI 2021 Internet Crime Study reported 847,376 complaints in the US alone. That’s a seven percent increase from 2020. Meanwhile the Anti-Phishing Working found that in Q1 2022 there were 1,025,968 attacks — the worst quarter for phishing to date.
+
+And the financial damage is growing too. In 2022, the average cost of an attack reached $4.35 million – up 2.6 percent on the previous year, according to IBM’s Cost of a Data Breach Report.
+
+On the flip side, cybersecurity experts are developing new tools to repel attacks. Also, awareness of the risks is growing. And given that criminals target employees as much as they do systems, this is an important development.
+
+The need to promote awareness is critical, not least because the nature of the threats changes all the time. So what can we expect in 2023? We reviewed the insights of various experts – including Crowd Strike, Ntirety, Atakama, IBM, Cybertalk.org – to bring you this round up.
+
+#1 - Criminals will turn their attention to SaaS APIs
+
+Software as a Service is not new. But adoption is still growing every year. Experts believe cyber attackers will increasingly target the SaaS APIs that enterprises use to connect critical data and services. There could be targeted attacks on top-tier cloud providers.
+
+
+
+#2 - Attackers could go after standalone 5G networks
+
+5G standalone mobile networks represent a break with what has gone before. They are based around a virtualised core, and as such rely much more on software operations and automation than physical infrastructure. This makes them fast and capacious – but it also changes the nature of the security risk.
+
+In 2023 the risk will be real rather than speculative. Why? Because at least 36 operators in 21 countries have launched public 5G SA networks, while 111 operators in 52 countries are planning deployments.
+
+
+
+#3 - Data leak marketplaces will grow rapidly
+
+One of the reasons for the proliferation of cybercrime is the ease with which criminals can share their expertise and illegal ‘assets’. In 2023, there could be explosive growth in new criminal marketplaces dedicated to advertising and selling victims’ data. Security specialist believe attackers will target industries such as healthcare that possess especially sensitive user information.
+
+
+
+#4 - Expect a boom in cybercrime-as-a-service
+
+The marketplaces mentioned above have lowered the barrier of entry for less experienced/technical cyber criminals. As the global economy stutters, there’s a risk that the supply of hackers-for-hire will grow.
+
+
+
+#5 - No let-up in zero-day hacks
+
+A zero-day attack happens after a developer learns of a flaw – but before they release a patch to fix it. These hacks look set to grow thanks to greater information sharing (see above) among criminals.
+
+
+
+#6 - Economic and geopolitical uncertainty could weaken resistance to attacks
+
+Enterprises are tightening budgets in response to macro-economic factors. Cyber security could come under budgetary pressure thanks to the high cost of cleaning up after a breach, paying for investigations, legal costs, changing security providers, to notifying customers and regulators etc. Criminal will exploit this.
+
+
+
+#7 - Cyber insurance premiums will soar
+
+Inflation is everywhere – and cyber security is not exempt. Experts believe
+
+cyber insurance premiums will skyrocket in 2024, with new compliance standards emerging around areas such as ransomware payments. Big breaches could incur big fines.
+
+
+
+#8 - The combination of IoT and shadow IT will be a rich new attack surface
+
+With billions of devices connected to the internet in 2022, attackers already have huge number of (often not well secured) connections to target. What might make this even worse in 2023 is the proliferation of IoT devices in shadow IT systems (ie devices, software, applications and services being used by employees without explicit IT department approval).
+
+
+
+#9 - There will be a fresh drive to protect DevSecOps environments
+
+Security departments still shiver at the memory of the SolarWinds attack in 2020. That hack saw criminals insert a few lines of malicious code into an IT management platform. As a result, they gained access to the networks of multiple companies and US federal agencies.
+
+It was a notably ‘successful’ attack, so more are definitely likely. Most will take place thanks to social engineering (persuading employees to share of passwords and log-in credentials). So we may see a special drive to protect DevSecOps platforms.
+
+
+
+#10 - 2023 will be a breakthrough year for SASE
+
+In the edge era, data and users will be more diverse, more widely distributed, and more vulnerable than ever. This vulnerability is the driver of SASE (secure access service edge). It’s a cybersecurity technology for organizations seeking simplified solutions, tighter technology stacks, and an alignment between network performance and security. 2023 could see a big increase in adoption.
+
+
+
+#11 - A major space-tech attack?
+
+To date space tech has been relatively unaffected by cybercrime. But this market is growing fast, so experts have warned to be vigilant against potential breaches of satellites, launch centers, networks and communications.
+
+
+
+#12 - A major crypto attack?
+
+Unlike space, the crypto world is constantly another attack. Could 2023 be the year of a crypto breach that fatally undermines cryptocurrency as a viable financial instrument?
+
+
+
+#13 - State-sponsored crime is growing
+
+In a connected world, it’s inevitable that nations will use leaked credentials, supply chain attacks, breaches and industrial secrets to undermine their perceived enemies. This trend grew in 2022, and looks set to persist across 2023.
+
+
+
+#14 - Social engineers will focus more on ICS systems
+
+Hackers use all sorts of techniques to persuade employees to share log ins and other sensitive information. But which employees? Specialists believe they will sharpen their focus on the gatekeepers of Industrial control systems (ICS) and Supervisory Control And Data Acquisition (SCADA). These systems are essential to the operations of industrial manufacturers. A breach can be catastrophic.
+
+
+
+#15 - Criminals will find ways to evade EDR
+
+Endpoint Detection and Response (EDR) describes security solutions that monitor end-user devices to detect ransomware, malware and so on. Security watchers say criminals have developed many EDR evasion techniques. They expect to see these tools go widely for sale on the dark web in 2023.
+
+
+
+#16 - 2023 could be the year of deepfake cybercrime
+
+Deepfake tech has been on the agenda for a few years, especially as the creation tools have become cheaper and more user friendly. Worryingly, 2023 could be the year it is deployed in ransomware – with deepfake pictures, videos and audio files used to ramp up the impact of attacks.
+
+","{'label': 'Neutral', 'score': 0.9901877045631409}",neutral,0.9901877045631409,0
+Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing - SpaceNews,"Wed, 28 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLXN0dWR5aW5nLXJldXNhYmxlLXNwYWNlY3JhZnQtZm9yLWluLW9yYml0LW1hbnVmYWN0dXJpbmcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"TAMPA, Fla. — Uncrewed rather than crewed spacecraft will be key to realizing an emerging in-orbit manufacturing industry, according to a European venture that has tasked Thales Alenia Space to develop a vehicle called REV1 for missions starting in late 2025.
+
+Thales Alenia Space signed a first phase contract for the REV1 reusable and pressurized “space factory” in early December with REV, an eight-year-old Luxembourg-based venture seeking funds to develop a microgravity research and manufacturing business.
+
+While Texas-based Axiom Space closes in on a sizable investment round to develop a crewed commercial space station, Space Cargo Unlimited says an uncrewed system like REV1 could be more flexible and cheaper by avoiding the numerous safety measures needed to support human activities.
+
+“Safety measures on space stations will rightfully always protect human lives to the detriments of the payload at stake,” Space Cargo Unlimited CEO and co-founder Nicolas Gaume told SpaceNews.
+
+“To scale in-space manufacturing, we do not believe in multipurpose vehicles with humans on board,” Gaume added. “In fact, we believe that the approach to in-space manufacturing should be driven from the payload, not the vehicle.”
+
+Thales Alenia Space is responsible for designing, engineering, and developing REV1, which is about the size of a compact car and would be owned and operated commercially by Space Cargo Unlimited.
+
+The first phase contract gets Space Cargo Unlimited up “to the ability to start manufacturing,” a spokesperson for the venture said.
+
+REV1 is being designed to carry up to 1,000 kilograms of payload for several months in low Earth orbit, where it would dock with a Reusable Orbiting Service Module that Thales Alenia Space is also developing.
+
+This service module would have solar panels and electric thrusters to remain in orbit for about 10 years, according to Gaume, or roughly 20 REV-1 missions.
+
+After completing its mission, a heat shield fitted to REV1 would enable it to reenter Earth’s atmosphere for a parachute-assisted landing.
+
+Target markets include biotechnology, pharmaceuticals, and manufacturers looking to develop new materials from space.
+
+REV1 has “a number of exciting in-space manufacturing payloads from defining customers we will be unveiling as we get closer to launch,” Gaume said.
+
+The spacecraft would also assist agricultural experiments the venture has already been facilitating on the International Space Station for growing vines and maturing wine in microgravity.
+
+Gaume said REV1 has lined up “a number of” other in-orbit development and validation projects, including test beds for propulsion systems.
+
+“The first case for the failure of satellites lies with their propulsion systems,” he said via email. “And if you think about it most of the satellite’s propulsion systems are not tested in Space, and when they are, they do not come back, increasing dramatically the cost and timing of developing a new system.
+
+“By opening the possibility to test rapidly and return, we accelerate and support the whole Space ecosystem.”
+
+Space Cargo Unlimited and Thales Alenia Space hope to build a “space garage” in Turin, Italy, for maintaining, repairing, and overhauling REV1 and other spacecraft.
+
+European private equity firm Eurazeo is Space Cargo Unlimited’s main financial backer and is a shareholder.
+
+Space Cargo Unlimited said it has also secured investments from Thales’ venture capital arm and European early-stage investor Geodesic for its plans.
+
+Other companies developing uncrewed spacecraft for in-orbit manufacturing and other applications include Space Forge, a British startup planning to launch its first satellite on Virgin Orbit’s inaugural mission from the United Kingdom early next year.","{'label': 'Neutral', 'score': 0.9999139308929443}",neutral,0.9999139308929443,0
+Hitachi’s Acquisition of Thales’ Signaling Division Delayed - RailwayAge Magazine,"Mon, 12 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnJhaWx3YXlhZ2UuY29tL2NzL2hpdGFjaGlzLWFjcXVpc2l0aW9uLW9mLXRoYWxlcy1zaWduYWxpbmctZGl2aXNpb24tZGVsYXllZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The review by Britain’s Competition and Markets Authority has pushed back completion of Hitachi’s acquisition of Thales’ signaling division from March-April 2023.
+
+Completion of Hitachi Rail’s acquisition of Thales’ Ground Transportation Systems business is now not expected until the second half of 2023, the two companies announced on Dec. 9.
+
+The deal, which was confirmed in August 2021, was expected to be signed off in March or April 2023. However, Britain’s Competition and Markets Authority (CMA) has stated its intention to open a Phase II review of the transaction, which is expected to take six to eight months, pushing back the anticipated completion date of the $1.75 billion (£1.66 billion) deal.
+
+The procedure was prompted by an Office of Rail and Road (ORR) study which found that that the supply of mainline signaling in Britain suffered from a lack of competition, with the market essentially limited to two suppliers—Siemens and Alstom. ORR’s report made a number of recommendations to increase competition from alternative suppliers, including Hitachi and Thales.
+
+Infrastructure manager, Network Rail, is introducing a new tendering process for the Train Control Systems Framework, its next major signaling procurement, which will focus on procuring ETCS, and will implement ORR’s recommendations. CMA says it is concerned that the deal between Hitachi and Thales could “eliminate a credible competitor from the new tendering process.”
+
+Thales is the leading supplier in the British urban signaling market and CMA says that while having a smaller presence, Hitachi is one of a limited number of rivals with the capability to challenge Thales.
+
+“The resulting loss of competition across both mainline and urban signalling markets could increase costs for Network Rail and TfL and have an adverse knock-on effect on taxpayers and passengers,” CMA says.
+
+CMA adds that Hitachi now has the chance to submit proposals to resolve the CMA’s concerns. A Hitachi spokesman told IRJ that the company welcomed the opportunity.
+
+“Network Rail currently spends close to £1 billion annually on mainline rail signaling—and this is expected to increase in future, as equipment needs to be replaced and the UK transitions to digital signaling,” says Colin Raferty, Senior Mergers Director at the CMA. “The cost of signaling, and its critical role in the safe and efficient running of our railways, makes it important that we ensure that future tenders can deliver value for money.”
+
+The two companies say they have secured more than two-thirds of the regulatory approvals necessary for the transaction to proceed, including receiving clearance in nine of the 13 required jurisdictions. Hitachi Rail is currently in pre-notification discussions with the European Commission’s Directorate-General for Competition (DG-Competition) with a view to re-entering the submission phase.
+
+A Hitachi spokesman told IRJ that no issue is anticipated here and it is the CMA procedure that is causing the delay to completing the transaction.
+
+“Hitachi Rail and Thales strongly believe in the competitive benefits of the transaction, which will deliver value for customers in the rail signaling and mobility sectors in Britain, Europe and globally,” Hitachi Rail said in a statement. “Despite being disappointed by the impact of the CMA’s decision on the timeline, Hitachi Rail remains committed to working with Thales and all regulatory bodies to ensure the successful close of the transaction as soon as possible.”
+
+The acquisition will further reinforce Hitachi’s position in the urban and main line signaling, train control, telecommunications and supervision, and fare collection markets following its acquisition of Ansaldo STS in January 2019.
+
+Speaking to IRJ at InnoTrans in September, Hitachi Rail CEO Andrew Barr described the deal as a “real game-changer” for the supplier. Barr said the Thales acquisition is a key component of Hitachi’s strategy to provide a digitally based offer to the market where hardware is supplemented by digital technologies, ticketing systems and multi-modal journey planning.","{'label': 'Neutral', 'score': 0.9992596507072449}",neutral,0.9992596507072449,0
+Thales and Marvel Fusion to upgrade Romanian ELI-NP source - Optics.org,"Tue, 13 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vb3B0aWNzLm9yZy9uZXdzLzEzLzEyLzE30gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Research & Development
+
+Thales and Marvel Fusion to upgrade Romanian ELI-NP source
+
+13 Dec 2022
+
+Partners will upgrade laser system to research nuclear fusion as a future new energy source.
+
+French engineering giant Thales , which develops defense, aerospace and high-tech systems, has joined forces with the German fusion technology company Marvel Fusion and the ELI-NP (Extreme Light Infrastructure – Nuclear Physics) in Romania to upgrade ELI’s laser system and to perform research relevant to nuclear fusion as a future new energy source.
+
+Over the course of 2023, the three partners are planning to enhance parameters of the laser system, like the temporal laser pulse contrast, enabling unique research capabilities of laser-based fusion processes. Assuming a successful adaptation, Marvel Fusion will be the first private company to establish a scientific collaboration with ELI-NP, due to what Marvel calls “the complementary applicability of the Romanian laser system and Marvel Fusion's technology”.
+
+As part of its ongoing cooperation with ELI-NP, Thales will supply a new stretcher unit that is used to stretch laser pulses over time, which initially reduces their peak power. The stretched, less powerful pulses can then be amplified and then re-compressed.
+
+This process is part of the Chirped Pulse Amplification, for the development of which Dr. Donna Strickland and Dr. Gerard Mourou received the Nobel Prize in Physics in 2018. Mourou is part of Marvel Fusion's Science and Technology Board.
+
+New year, new campaign
+
+Marvel Fusion in partnership with Thales and ELI-NP will start the experimental campaign at ELI-NP in 2023. The German company aims to validate key parameters of the laser-matter-interaction between high-intensity laser pulses with durations of tens of femtoseconds and nanostructured fuel targets.
+
+In the experiments, the scientists will examine the essential physical processes of the interaction and their optimization. The partners say the results “will be published in a peer-reviewed journal in an effort to advance the field of laser-matter interaction”.
+
+Marvel Fusion aims to show the core building blocks of its novel technology within three years as a precursor to building the first commercial [fusion-based] power plants in the 2030s.
+
+“Fusion based on latest-generation short-pulse lasers can enable the European Union to guarantee an advanced energy system,” said Franck Leibreich, Laser Solution Managing Director at Thales. ""With the most powerful laser system – ELI-NP in Romania – and the leading manufacturer of industrial short-pulse lasers, Europe needs to capitalize on its outstanding knowledge and first-class infrastructure to globally lead in laser-based fusion,” he said.
+
+Thales joined the ELI-NP program in 2013 to develop and build the laser system. In 2019, the construction was finished by Thales and for the first time, a 10 petawatt (PW) laser pulse was fired at the facility. With two laser beams each reaching 10 PW of peak power, ELI-NP is said to be the world's most powerful short-pulsed laser system.
+
+Dr. Georg Korn, CTO at Marvel Fusion and former scientific director at ELI, commented, “The ten petawatt laser system is an astonishing power level for laser systems. Experimenting at ELI-NP means that we now enter a phase in our technology validation in which we can draw direct physical conclusions about scalable designs of our target structures and the laser-target-interactions.”
+
+Dr. Calin Alexandru Ur, Director of ELI-NP, added, “ELI-NP, with this unique capability to provide 10 petawatt laser beams, is expected to bring significant advances in basic sciences and important breakthroughs in applications of major societal interests.”
+
+“The mission of ELI-NP is to act as a catalyst for connecting the research community with both the academic sector and industry and to become a hotspot for science, innovation and development. Embarking with Thales and Marvel Fusion in a high societal impact scientific collaboration dedicated to innovative technologies in laser-based nuclear fusion is an important step for ELI-NP in achieving its mission.”
+
+ELI-NP's actions to capitalize on research potential, technology transfer and know-how are in line with the recommendations contained in the National Strategy for Research, Innovation and Intelligent Specialization 2022-2027 adopted by the Romanian Government in July 2022, which emphasizes the importance of scientific partnerships with the private sector and the development of international cooperation.","{'label': 'Neutral', 'score': 0.9636552333831787}",neutral,0.9636552333831787,0
+Thales Intros Voice Payment Card for Visually Impaired - PYMNTS.com,"Thu, 01 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnB5bW50cy5jb20vbmV3cy9wYXltZW50LW1ldGhvZHMvMjAyMi90aGFsZXMtaW50cm9zLXZvaWNlLXBheW1lbnQtY2FyZC1mb3ItdmlzdWFsbHktaW1wYWlyZWQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has introduced a Voice Payment Card for the visually impaired.
+
+First revealed in September, the assistive technology has now been certified by Visa and Mastercard, Thales announced on Thursday (Dec. 1).
+
+Setting the stage for Thales’ bank and FinTech clients to start issuing the cards, a press release stated that “this one-of-a-kind solution is about to be commercialized soon by several banks, convinced of its interest.”
+
+The company said the Voice Payment Card would enhance trust and autonomy for people with a visual impairment, helping to protect them from mistakes and fraud.
+
+Developed in partnership with the French FinTech Handsome, which specializes in building solutions for people with disabilities, the new Thales Voice Card works in tandem with a mobile app uniquely associated with each card.
+
+When users pay at a point-of-sale (POS) terminal, transaction data is communicated via Bluetooth and the app vocalizes the amount before letting users validate it on their phones. Customers can hear the information through the device’s speaker or earphones.
+
+Bertrand Knopf, vice president of banking and payment services at Thales, said that “innovation has the potential to solve a multitude of issues. That’s why, with the support of Handsome1 and based on Thales’ key expertise in developing secure and convenient payment solutions, we decided to tackle concerns faced by blind and visually impaired people.”
+
+“Since then, it appeared that the solution has proven to be useful for other disabilities,” he added.
+
+Last month, PYMNTS reported that Thales is one of the key players driving innovation in the European card market and has helped BNP Paribas, Bank Pocztowy and NatWest Group to introduce biometric payment cards that authenticate transactions with an on-card fingerprint scanner.
+
+See more: FIs Embrace Biometric Payment Cards To Improve Security, Enhance User Experience
+
+For all PYMNTS EMEA coverage, subscribe to the daily EMEA Newsletter.","{'label': 'Positive', 'score': 0.8744713664054871}",positive,0.8744713664054871,1
+Eutelsat selects Thales Alenia Space to build a Flexsat – SatNews - SatNews,"Thu, 01 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmV3cy5zYXRuZXdzLmNvbS8yMDIyLzEyLzAxL2V1dGVsc2F0LXNlbGVjdHMtdGhhbGVzLWFsZW5pYS1zcGFjZS10by1idWlsZC1hLWZsZXhzYXQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Flexsat (for flexible satellite) will be based on Thales Alenia Space’s cutting-edge ‘Space Inspire’ (INstant SPace In-orbit REconfiguration) product line, enabling seamless reconfiguration and instant on-orbit adjustment to offer an optimum level of customer service, maximizing the effective use of the satellite resources.
+
+The new satellite will expand Eutelsat’s on-orbit assets, providing more than 100 Gbps of incremental capacity over the Americas to support the surging Connectivity market. Its performances combined with the high level of flexibility in terms of coverage, bandwidth allocation, and power levels, will offer an unparalleled quality of service to Eutelsat’s B2B customers for its ADVANCE backhauling, enterprise, government, aero, and maritime solutions.
+
+This satellite will also be able to accommodate joint GEO-LEO services, specifically in zones where demand is highly concentrated.
+
+The Flexsat is expected to be delivered in 2026. The capital expenditure associated with the program is embedded in Eutelsat’s standalone capital expenditure and adjusted discretionary free cash flow estimates for FY2022-23 and FY2023-24 and is also included in the financial trajectory of the proposed combination of Eutelsat and OneWeb.","{'label': 'Positive', 'score': 0.999855637550354}",positive,0.999855637550354,1
+Press Release: Thales and DSNA unveil new vision of ATM with 4-FLIGHT - Runway Girl Network,"Fri, 09 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjIvMTIvdGhhbGVzLWRzbmEtYWlyLXRyYWZmaWMtbWFuYWdlbWVudC00LWZsaWdodC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"As part of the modernization of France’s air-traffic management system (ATM), Thales and the Direction des Services de la Navigation Aérienne (DSNA) inaugurated, in the presence of Clément BEAUNE, the French Minister of Transport, the first operational commissioning of the 4-FLIGHT system at the Reims ACC, the first deployment site for the program.
+
+This system, which takes into account the most recent regulatory requirements in terms of cybersecurity and safety, is one of the most advanced stripless Air Traffic Control systems in Europe.
+
+4-FLIGHT comes equipped with an intuitive Human-Machine Interface (HMI), the latest generation of equipment, as well as innovative and sophisticated tools to support flight management and safety, making it one of the most advanced stripless Air Traffic Control systems in Europe for high-density airspace.
+
+The advanced Flight Data Processing system, Coflight, at the heart of 4-FLIGHT, provides air traffic controllers with more accurate forecasts of 4D flight trajectories, enabling them to better optimize air routes and contribute to sustainable aviation. With Coflight, the controller has a better-planned and optimised aircraft trajectory, resulting in shorter flight times and lower fuel consumption and emissions.
+
+With 4-FLIGHT, air traffic controllers can focus on their essential tasks, thus improving flight safety and efficiency.
+
+4-FLIGHT, registered as a SESAR(1) Solution, is interoperable with other European air navigation systems and strengthens the coordination between civil and military controllers for flight safety. At short term, the operational performance of this new ATM system would be of immediate benefit not only to France and the FABEC(2) airspace but also to the entire European network.
+
+Indeed, 4-FLIGHT is connected to ten Air Navigation Service Providers neighbouring France: ENAIRE (ESP), DGAC Algeria, ENAV (IT), Skyguide (CH), DFS (DE), the Maastricht UAC (EUROCONTROL), Skeyes (BE), ANA (LUX), NATS (UK), IAA (IRL) and the Network Manager (EUROCONTROL).
+
+4-FLIGHT, which is co-funded by the European Union within the Single European Sky technical modernisation programme, meets innovative European concepts such as the Free Route and new environmental efficiency requirements.
+
+Marseille ACC, the other pilot-centre, has just implemented 4-FLIGHT on 6 December 2022. DSNA has scheduled to extend the use of 4-FLIGHT to the three other ACCs in France by 2025. Air traffic controllers will then be able to operate with a single system over the entire French upper airspace, covering one million km².
+
+Florian GUILLERMET, DSNA CEO, said: “This success is a source of pride for DSNA staff who have been very involved in this complex ATM project. The implementation in 2022 of 4-FLIGHT at Reims UAC, then at Marseille ACC proves the commitment of DSNA to pursue its technological modernization to deliver the challenges of the Digital European Sky, and high-quality and more competitive service. This represents a major European air navigation milestone for the sustainable recovery of air transport!”
+
+Christian RIVIERRE, Vice President of Airspace Mobility Solutions Business Line, Thales said: “We are very proud at Thales to have contributed to the deployment of 4-FLIGHT in Reims. This is the result of a strong mobilization and collaboration between all the DSNA and Thales teams. Together, we have been able to transform our way of working, becoming much more agile, to deliver even more quality and operational value. We still have other important milestones in the coming months, and I am confident that we will deliver them successfully by maintaining this spirit of trust and transparency between our two organizations.”
+
+Mariagrazia La Piscopia, Executive Director, SESAR Deployment Manager “I am happy to witness today the successful implementation of 4-FLIGHT, a perfect example of how SESAR Air Traffic Management modernization projects are deployed into concrete operational benefits by stakeholders truly thinking and acting as one team. Congratulations to DSNA and Thales for their ongoing efforts to modernize and digitalize Air Traffic Management in France. This SESAR Deployment Manager coordinated project will now be able to deliver concrete benefits to pilots, air traffic controllers and passengers in Europe.”
+
+FABEC means the Functional Airspace Block for Europe Central. The airspace of the six FABEC States of Belgium, France, Germany, Luxembourg, the Netherlands and Switzerland is one of the busiest and most complex in the world. FABEC airspace covers 2 million km² and handles about 55% of European air traffic. Winner of the ATM 2020 Research, Innovation and Environment Award. SESAR means the Single European Sky for ATM Research. This innovative public-private partnership is the technological pillar of the SES.
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global leader in advanced technologies, investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum technologies – to build a confident future crucial for the development of our societies. The Group provides its customers – businesses, organizations and governments – in the defense, aeronautics, space, transport, and digital identity and security domains with solutions, services and products that help them fulfil their critical role, consideration for the individual being the driving force behind all decisions.
+
+Thales has 81,000 employees in 68 countries. In 2021, the Group generated sales of €16.2 billion.
+
+Featured image credited to Thales","{'label': 'Positive', 'score': 0.9890013933181763}",positive,0.9890013933181763,1
+Eutelsat Orders New Flexsat from Thales Alenia Space - Via Satellite,"Thu, 01 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9tYW51ZmFjdHVyaW5nLzIwMjIvMTIvMDEvZXV0ZWxzYXQtb3JkZXJzLW5ldy1mbGV4c2F0LWZyb20tdGhhbGVzLWFsZW5pYS1zcGFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Eutelsat has tasked Thales Alenia Space to build its next-generation highly flexible, software-defined satellite (SDS) called Flexsat. The two companies announced the deal Dec. 1. The new Geostationary Orbit (GEO) satellite will expand Eutelsat’s in-orbit assets providing more than 100 Gbps of incremental capacity over the Americas to support what Eutelsat sees as a surging connectivity market.
+
+The satellite, based on Thales’ pace Inspire product line, will offer a high level of flexibility in terms of coverage, bandwidth allocation, and power levels, aims to serve Eutelsat’s B2B customers for its Advance backhauling, enterprise, government, aero, and maritime solutions. It will also be able to accommodate joint GEO-LEO (Low-Earth Orbit) services.
+
+The Flexsat is expected to be delivered in 2026. The capital expenditure associated with the program is included in Eutelsat’s standalone capital expenditure and adjusted discretionary free cash flow estimates for fiscal year 2022-23 and fiscal year 2023-24. It is also included in the financial trajectory of the proposed combination of Eutelsat and OneWeb.
+
+“The uniqueness of a Flexsat makes it particularly convenient to optimise capacity and reconfigure services during the satellite’s lifetime, depending on applications and coverage areas. This new satellite will further underpin Eutelsat’s growth strategy aimed at addressing the booming connectivity segment and it is also able to support joint GEO-LEO services. We are delighted to partner once again with Thales Alenia Space, and proud to be among the first customers of the innovative Space Inspire product line,” Eva Berneke, Eutelsat’s CEO, said in a statement.
+
+This is the fifth Space Inspire GEO order for Thales this year, other customers are Intelsat with two satellites, SES, and Arabsat.","{'label': 'Neutral', 'score': 0.9107646942138672}",neutral,0.9107646942138672,0
+Thales and Handsome offer Voice Payment Card for the visually impaired - IBS Intelligence,"Mon, 05 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vaWJzaW50ZWxsaWdlbmNlLmNvbS9pYnNpLW5ld3MvdGhhbGVzLWFuZC1oYW5kc29tZS1vZmZlci12b2ljZS1wYXltZW50LWNhcmQtZm9yLXRoZS12aXN1YWxseS1pbXBhaXJlZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Handsome offer Voice Payment Card for the visually impaired
+
+By Gloria Methri
+
+December 05, 2022 Card Payment Solutions
+
+FinTech
+
+France Share
+
+French technology company Thales has partnered with FinTech Handsome to develop a payment solution that protects visually impaired people from fraud. The innovative card vocalises the amount of each transaction before its validation.
+
+To benefit from it, Voice Payment Card users have to install an app on their mobile phone, which is uniquely associated with their card. Each time users make a payment; the app vocalises the amount of the transaction before letting users validate it with their secret code.
+
+The Thales Voice Payment Card works as a connected device that gets the amount from the point of sales terminal and communicates it to the app via Bluetooth. The customer can then hear the information either through the phone’s speaker or through earphones.
+
+First revealed in September, the technology has already been certified by Visa and Mastercard. This solution will be commercialized soon by several banks, convinced of its interest. The aim is to bring autonomy and convenience to visually impaired people by protecting them against fraud or mistakes made at shops.
+
+Bertrand Knopf, Vice President Banking and Payment Services at Thales said, “We know innovation has the potential to solve a multitude of issues. That is why, with the support of Handsome and based on Thales’ key expertise in developing secure and convenient payment solutions, we decided to tackle concerns faced by blind and visually impaired people. Since then, it appeared that the solution has proven to be useful for other disabilities. All in all, we are thrilled to see our innovations contribute to building more sustainable and responsible payment solutions.”
+
+Thales, a global tech firm, provides its customers in defense, aeronautics, space, transport, and digital identity and security domains with solutions, services, and products. Handsome is a French Fintech, specialised in inclusive solutions for people with disabilities.","{'label': 'Neutral', 'score': 0.9981192946434021}",neutral,0.9981192946434021,0
+Thales addresses inclusivity with its 'Voice Payment Card' - Thales,"Thu, 01 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc2VjdXJpdHkvcHJlc3NfcmVsZWFzZS90aGFsZXMtYWRkcmVzc2VzLWluY2x1c2l2aXR5LWl0cy12b2ljZS1wYXltZW50LWNhcmTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Based on its secure payment and connectivity expertise, Thales developed a solution to protect visually impaired people from fraud or mistakes made at shops.
+
+Thanks to the Thales Gemalto Voice Payment Card, blind and visually impaired people will enjoy a trusted and autonomous experience for their daily payments, as the innovative card vocalises the amount of each transaction before its validation.
+
+
+
+
+
+Today, most banking services are not adapted for people with disabilities. 90% of visually impaired people have once in their life faced fraud or encountered a mistake at a point of sales. This statistic prompted Thales to develop a solution which offers trust and autonomy to people with impaired vision in their daily payment experiences. This unique innovation that vocalises each step of a transaction, is now certified by Visa and Mastercard.
+
+There is a global commitment to promoting diversityand inclusion to build a better environment for all. In collaboration with its partner Handsome1, Thales decided to use its innovation to offer inclusive solutions in the payment area. To benefit from it, the Voice Payment Card users just have to install an app on their mobile phone, which is uniquely associated with their card. Each time they make a payment, the mobile app vocalises the amount of the transaction before letting users validate it with their secret code.
+
+The Thales Voice Payment Card works as a connected device that gets the amount from the point of sales terminal and communicates it to the mobile app via Bluetooth. The customer can then hear the information either through the phone’s speaker or through earphones. This one-of-a-kind solution is about to be commercialized soon by several banks, convinced of its interest.
+
+“At Thales we know innovation has the potential to solve a multitude of issues. That’s why, with the support of Handsome1 and based on Thales’ key expertise in developing secure and convenient payment solutions, we decided to tackle concerns faced by blind and visually impaired people. Since then, it appeared that the solution has proven to be useful for other disabilities. All in all we are thrilled to see our innovations contribute to building more sustainable and responsible payment solutions.” said Bertrand Knopf, Vice President Banking and Payment Services at Thales.
+
+1 Handsome is a French Fintech, specialised in inclusive solutions for people with disabilities.","{'label': 'Positive', 'score': 0.8895662426948547}",positive,0.8895662426948547,1
+Papara's Voice Card: Payments for the Visually Impaired - Thales,"Thu, 01 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2JhbmtpbmctcGF5bWVudC9jdXN0b21lci1jYXNlcy9wYXBhcmEtdm9pY2UtY2FyZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Today, most banking services are not adapted for people with disabilities. 90% of visually impaired people have once in their life faced fraud or encountered a mistake at a point of sales. This statistic prompted Thales to develop a solution which offers trust and auto...","{'label': 'Neutral', 'score': 0.993198573589325}",neutral,0.993198573589325,0
+Fusion research at the world's most powerful laser system - Thales,"Tue, 06 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWV1cm9wZS9yb21hbmlhL3ByZXNzX3JlbGVhc2UvZnVzaW9uLXJlc2VhcmNoLXdvcmxkcy1tb3N0LXBvd2VyZnVsLWxhc2VyLXN5c3RlbS10aGFsZXMtYW5k0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Fusion research at the world's most powerful laser system: Thales and Marvel Fusion cooperate with ELI-NP Share this article
+
+
+
+LinkedIn
+
+
+
+
+
+Magurele, Romania, December 06, 2022. Thales, global leader in advanced technologies, joins forces with the German fusion technology company Marvel Fusion and the ELI-NP (Extreme Light Infrastructure - Nuclear Physics) in Romania to upgrade the laser system and to perform research relevant to nuclear fusion as a future new energy source.
+
+Over the course of 2023, the three partners plan to enhance parameters of the laser system, like the temporal laser pulse contrast, enabling unique research capabilities of laser-based fusion processes. After the successful adaptation, Marvel Fusion will be the first private company to establish a scientific collaboration with ELI-NP, due to the complementary applicability of the Romanian laser system and Marvel Fusion's technology.
+
+As part of an ongoing cooperation with ELI-NP, Thales will supply a new stretcher unit that is used to stretch laser pulses over time, which initially reduces their peak power. The stretched, less powerful pulses can then be amplified and thereafter compressed again. This process is part of the Chirped Pulse Amplification, for the development of which Dr. Donna Strickland and Dr. Gerard Mourou received the Nobel Prize in Physics in 2018. Mourou is part of Marvel Fusion's Science and Technology Board.
+
+Marvel Fusion in partnership with Thales and ELI-NP will start the experimental campaign at ELI-NP in 2023. The German company aims to validate key parameters of the laser-matter-interaction between high-intensity laser pulses with durations of tens of femtoseconds (one femtosecond is one-millionth of one-billionth of a second) and nanostructured fuel targets. In the experiments, the scientists will examine the essential physical processes of the interaction and their optimization. Subsequently, the results will be published in a peer-reviewed journal in an effort to advance the field of laser-matter interaction.
+
+With its potential to sustainably replace fossil fuels as the world's primary energy source, fusion energy is widely regarded as the most promising solution to climate change and the prevailing energy crisis. Building on the results at ELI-NP and the cooperation with Thales, Marvel Fusion aims to show the core building blocks of its novel technology within 3 years as a precursor to building the first commercial power plants in the 2030s. The new technologies will therefore be able to increase the Union's economic resilience and contribute to the decarbonization of the continent, according to the Green Deal Agenda.
+
+""Fusion based on latest-generation short-pulse lasers can enable the EU to guarantee an advanced energy system"" says Franck Leibreich, Laser Solution Managing Director at Thales. ""With the most powerful laser system ELI-NP in Romania and the leading manufacturer of industrial short-pulse lasers, Europe needs to capitalize on its outstanding knowledge and first-class infrastructure to globally lead in laser-based fusion.""
+
+Thales joined the ELI-NP program in 2013 to develop and build the laser system. In 2019, the construction was finished by Thales and for the first time, a ten Petawatt laser pulse was shot at the facility. With two laser beams each reaching ten Petawatt of peak power, ELI-NP is the world's most powerful short-pulsed laser system. At the facility, scientists research in fields ranging from laser-based nuclear physics over ion therapy for the treatment of cancer to astrophysical processes.
+
+""The ten Petawatt laser system is an astonishing power level for laser systems. Experimenting at ELI-NP means that we now enter a phase in our technology validation in which we can draw direct physical conclusions about scalable designs of our target structures and the laser-target-interactions,"" says Dr. Georg Korn, Chief Technology Officer of Marvel Fusion and former scientific director at ELI.","{'label': 'Neutral', 'score': 0.5811731815338135}",neutral,0.5811731815338135,0
+"Thales Australia working with Defence, Academia and Industry to revolutionise mine clearance capability close to shore - Thales","Tue, 20 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWFzaWEvYXVzdHJhbGlhL25ld3MvdGhhbGVzLWF1c3RyYWxpYS13b3JraW5nLWRlZmVuY2UtYWNhZGVtaWEtYW5kLWluZHVzdHJ5LXJldm9sdXRpb25pc2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"On Tuesday 29 November, teams from Thales Australia, Defence Science Technology (DST) Group, Flinders University, University of Sydney, University of Technology Sydney, Western Sydney University (WSU) and Australian SME’s Mission Systems and Ineni Realtime descended on Christies Beach in Adelaide to demonstrate capabilities of the ‘Mine Counter Measures in a Day’ Project.
+
+‘Mine Counter-Measures (MCM) in a Day’ is a Trusted Autonomous Systems (TAS) funded Research and Development project that aims to enhance detection and clearance of underwater mines close to shore; while simultaneously improving safety for Navy personnel.
+
+The project will design, develop, test and evaluate various teams of micro Autonomous Underwater Vehicle (AUV) swarms and Autonomous Surface/Subsurface Vessels (ASVs) to provide an autonomous mine clearance capability that operates in the amphibious zone close to shore.
+
+The amphibious zone, also termed ‘the littoral environment,’ is notoriously complex to navigate when searching for underwater mines. The system must overcome tides, waves and currents and be equipped to work in a low visibility and low communications environment. The MCM In a Day project, will eventually seek to supplement current practices, that utilise the expertise of Navy Clearance Divers in exploratory Rapid Environmental Assessment (REA) of the area.
+
+At the demonstration, the team showcased the developing technologies live at Christies Beach. Attendees arrived to a trial site setup on the beach with the seabed Crawler (Flinders University), Seeker AUV (USYD) & Ballbot (Mission Systems) deployed in the water. The demonstration ended with the Crawler and surface buoy being recovered from the beach, providing the opportunity to view the capabilities up close. The team discussed project progress and future vision while viewing the live data from the deployed Seeker that feeds into the Data Manager (Thales) and displayed via bespoke Human Machine Interface (Ineni & WSU) to a range of stakeholders including representatives from Defence SA, Navy DG-Littoral, TAS-DCRC and partner organisations.
+
+John Best, Thales Australia’s Chief Technical Officer, was present at the demonstration, and noted the step-change this capability will provide to the Royal Australian Navy (RAN).
+
+‘This project will utilise technology to transform high risk, and labour-intensive activities and accelerate amphibious zone mine clearance. By reducing the time it takes to clear a landing zone, while also gathering and analysing mission critical environmental data, personnel safety will be enhanced as will the gathering of operational intelligence.’
+
+Richard Price, Defence SA Chief Executive, said the project was a great example of the benefits that collaboration brings.
+
+“Collaboration is vital for innovation and the development of this cutting-edge defence technology is a great example of what can be achieved when universities and industry work closely with Defence to co-design solutions to increasingly complex challenges.
+
+“South Australia has a long history of success in defence research and development and this latest demonstration showcases our strength as a critical testbed for defence technologies.”
+
+This project is a true reflection of collaboration between defence, academia and industry as well as a demonstration of sovereign capability. The majority of the equipment has been developed in country, or brought in on specification and then modified to support the unique Australian conditions. There is total sovereign control over all software and hardware elements of the project.
+
+The demonstration at Christies Beach marks an important milestone for the 3.5 year project, which is in its 2nd year, with further development and demonstration work to continue during 2023 until project completion early 2024.
+
+This research received funding from the Australian Government through Trusted Autonomous Systems, a Defence Cooperative Research Centre funded through the Next Generation Technologies Fund.","{'label': 'Neutral', 'score': 0.9979531764984131}",neutral,0.9979531764984131,0
+Delivering Resilience - Thales,"Fri, 16 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWV1cm9wZS91bml0ZWQta2luZ2RvbS9uZXdzL2RlbGl2ZXJpbmctcmVzaWxpZW5jZS10aGFsZXMtYmVsZmFzdC1wcm92aWRlLW5leHQtYmF0Y2gtc2FhYtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Delivering Resilience: Thales in Belfast to provide next batch of Saab NLAW effectors/anti-tank missile Share this article
+
+
+
+LinkedIn
+
+Following the announcement from the UK Ministry of Defense about future anti-tank missile provision, Thales in Belfast has received a contract to produce a further batch of NLAW effectors (Next generation Light Anti-tank Weapon) for the British Army.
+
+The contract for additional missiles will go far to reinforce a key NATO member and at the same time maintain the ability to manufacture and supply this system which is used by other NATO members and key allies alike. Commonality of equipment across multiple Land Forces is key to NATO interoperability and resilience.
+
+Saab’s NLAW is a shoulder-launched missile system that attacks a tank from above. It combines the simplicity of light anti-armour weapons with the advantages of heavy, crew-operated guided missile systems. With NLAW, a single soldier can take out a heavily-protected modern main battle tank at ranges between 20 and 800 metres.
+
+Due to its agility, reliability and accuracy the NLAW has played an important role in Ukraine’s defense capacities, making up part of the 10,000 anti-tank weapons the United Kingdom has supplied to the Ukrainian armed forces.
+
+As a global leader in the development and manufacture of complex effectors, Thales Belfast has provided the final assembly of NLAW on behalf of Saab since 2008. This facility in Northern Ireland is ideally suited for this purpose because for Thales it specialises in the design and development of its own light weight weapon systems offering for tactical air, land and sea platforms. The site is also home to the Thales STARStreak and Lightweight Multi role Missile (LMM) both of which have also been central to the UK’s support to Ukraine where over 600 people from the region are employed. In recent years Thales Belfast has secured contracts worth hundreds of millions from the UK Ministry of Defence and in export contributing significantly to the economy of Northern Ireland and the UK.
+
+Commenting on the contract last week, Secretary of State for Northern Ireland Chris Heaton-Harris MP, said:
+
+“I am delighted to see further government funding and contracts awarded to one of Northern Ireland’s leading engineering companies.
+
+“As well as supporting growth in Thales workforce, government contracts are helping to attract investment to the region, strengthening Northern Ireland’s economy during a time of significant challenges for public finances and cost of living.”
+
+Philip McBride, Managing Director of Thales Belfast said: “I am delighted to receive this contract today cementing our long standing relationship with Saab. It is yet another vote of confidence in the talent of our workforce here at Thales Belfast. Once again, Northern Ireland is demonstrating its significant role in the UK defence enterprise. We are proud to continue to provide skilled manufacturing and engineering jobs. As we continue to enjoy success like this we continue to grow and have a number of opportunities currently available in our Belfast operation that I would encourage anyone to look at who is passionate about playing a role in supporting UK national security.”
+
+Dean Rosenfield, Group Managing Director of Saab UK said: “We are pleased to be able maintain our close bond between Thales and Saab which has been a good working relationship for many years. I have seen first-hand the expertise and enthusiasm of the workforce in Belfast and their seamless integration with Saab’s NLAW team, so I look forward to seeing this continue as part of the contract.”
+
+The agreement will see several thousand units delivered to the UK Armed Forces from 2023 – 2026.
+
+Header image: UK MOD © Crown copyright 2021","{'label': 'Positive', 'score': 0.982181966304779}",positive,0.982181966304779,1
+Thales Australia's Parental Leave Policy - Thales,"Tue, 06 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXMtYXVzdHJhbGlhcy1wYXJlbnRhbC1sZWF2ZS1wb2xpY3nSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A key objective of the Thales Diversity, Equality and Inclusion Strategy is to be an inclusive workplace – an organisation where everyone feels valued, supported and heard.
+
+Research shows that flexibility, health and wellbeing are vital to an engaged workplace, underpinned by a respect for the unique circumstances each one of its employees brings to Thales.
+
+To further support this commitment, Thales Australia provides 20 weeks of fully paid leave to primary carers, and 10 weeks leave for secondary carers, and applies:
+
+Regardless of a new parent’s eligibility for government paid parental leave
+
+To all new births and adoptions
+
+Additionally, employees are no longer required to be with the company for 12 months prior to taking leave, and it can be utilised at any time within 24 months of a child’s arrival.
+
+Amanda Duval, Early Careers Manager at Thales Australia, started working with Thales earlier this year and will utilise the Thales Australia Parental Leave provisions.
+
+""This policy takes away the requirement to have served in the company for a minimum period which means my family can be adequately supported while I start my new journey as a mum. Thales’ Parental Leave policy really puts my family first and allows me to fully focus on this journey knowing my career is there to return to when me and my family are ready.""
+
+It’s vitally important to provide a nurturing, family friendly environment at Thales for all working parents and recognises the important role we all play in a child’s development and raising our future generation.
+
+To read more about Thales Australia’s culture and careers, please visit our website, here.","{'label': 'Neutral', 'score': 0.9998781681060791}",neutral,0.9998781681060791,0
+Thales and Marvel Fusion to upgrade laser system in Romania - Nuclear Engineering,"Thu, 08 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5laW1hZ2F6aW5lLmNvbS9uZXdzL25ld3N0aGFsZXMtYW5kLW1hcnZlbC1mdXNpb24tdG8tdXBncmFkZS1sYXNlci1zeXN0ZW0taW4tcm9tYW5pYS0xMDQxOTQzNdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Marvel Fusion to upgrade laser system in Romania 8 December 2022 8 December 2022
+
+Thales and Germany’s Marvel Fusion will cooperate in upgrading the laser system of the Extreme Light Infrastructure for Nuclear Physics (ELI-NP) in Magurele, Romania. With the upgraded laser, Marvel Fusion aims to validate key aspects of its technology for fusion energy. This will make Marvel Fusion the first private company to establish a scientific collaboration at the world's most powerful laser facility ELI-NP. For Thales, this will strengthen its leadership position in the design, development and manufacturing of solid-state lasers for science, industry, and space.
+
+ELI-NP is an advanced research facility in the field of photonuclear physics, which brings together high-power lasers and nuclear physics. It is the largest investment ever made in scientific research in Romania, co-financed by the European Commission and the Romanian Government from Structural Funds via the European Regional Development Fund (ERDF).
+
+Over the course of 2023, the three partners plan to enhance parameters of the laser system, such as the temporal laser pulse contrast, enabling unique research capabilities of laser-based fusion processes. After the adaptation, Marvel Fusion will be the first private company to establish a scientific collaboration with ELI-NP, due to the complementary applicability of the Romanian laser system and Marvel Fusion's technology.
+
+As part of an ongoing cooperation with ELI-NP, Thales will supply a new stretcher unit that is used to stretch laser pulses over time, which initially reduces their peak power. The stretched, less powerful pulses can then be amplified and thereafter compressed again. This process is part of the Chirped Pulse Amplification, for the development of which Dr Donna Strickland and Dr Gerard Mourou received the Nobel Prize in Physics in 2018. Mourou is part of Marvel Fusion's Science and Technology Board.
+
+Marvel Fusion in partnership with Thales and ELI-NP will start the experimental campaign at ELI-NP in 2023. The German company aims to validate key parameters of the laser-matter-interaction between high-intensity laser pulses with durations of tens of femtoseconds (one femtosecond is one-millionth of one-billionth of a second) and nanostructured fuel targets. In the experiments, the scientists will examine the essential physical processes of the interaction and their optimisation. Subsequently, the results will be published in a peer-reviewed journal in an effort to advance the field of laser-matter interaction.
+
+Building on the results at ELI-NP and the cooperation with Thales, Marvel Fusion aims to show the core building blocks of its novel technology within three years as a precursor to building the first commercial power plants in the 2030s.
+
+""Fusion based on latest-generation short-pulse lasers can enable the EU to guarantee an advanced energy system"" says Franck Leibreich, Laser Solution Managing Director at Thales. ""With the most powerful laser system ELI-NP in Romania and the leading manufacturer of industrial short-pulse lasers, Europe needs to capitalise on its outstanding knowledge and first-class infrastructure to globally lead in laser-based fusion.""
+
+Thales joined the ELI-NP programme in 2013 to develop and build the laser system. In 2019, the construction was finished by Thales and for the first time, a ten Petawatt laser pulse was shot at the facility. With two laser beams each reaching ten Petawatt of peak power, ELI-NP is the world's most powerful short-pulsed laser system.","{'label': 'Positive', 'score': 0.9976823329925537}",positive,0.9976823329925537,1
+Eutelsat orders GEO broadband satellite with LEO in mind - SpaceNews,"Thu, 01 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9ldXRlbHNhdC1vcmRlcnMtZ2VvLWJyb2FkYmFuZC1zYXRlbGxpdGUtd2l0aC1sZW8taW4tbWluZC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"TAMPA, Fla. — Eutelsat said Dec. 1 it has ordered a geostationary broadband satellite to support multi-orbit services in the Americas from 2026.
+
+Thales Alenia Space is designing the Flexsat (flexible satellite) to accommodate the low Earth orbit network that the French operator stands to gain by merging with OneWeb, the U.K.-based constellation operator.
+
+“This new satellite will further underpin Eutelsat’s growth strategy aimed at addressing the booming Connectivity segment and it is also able to support joint GEO-LEO services,” Eutelsat CEO Eva Berneke said in a statement.
+
+In their joint news release, Eutelsat and Thales said Flexsat will “accommodate joint GEO-LEO services, specifically in zones where demand is highly concentrated.”
+
+Thales referred questions about how the satellite would help integrate GEO and LEO networks to Eutelsat.
+
+“We see particular emphasis on [combining GEO and LEO services] by customers in the Americas and want to have a satellite that, thanks to its flexibility, will be the perfect and modular complement to the connectivity layer provided from LEO,” Eutelsat corporate communications officer Daphne Joseph-Gabriel said via email.
+
+“Of course, it does not mean that a spacecraft positioned in GEO could provide “LEO-like” services.”
+
+Flexsat will be based on Thales’ Space Inspire software-enabled platform, which enables the satellite to be reconfigured once in orbit in response to changing mission needs.
+
+While outlining the benefits of multi-orbit architecture, Eutelsat has previously said its GEO satellites could provide more capacity to congested areas than OneWeb’s LEO network. In contrast, OneWeb satellites offer reduced latency and pole-to-pole coverage.
+
+Eutelsat said Flexsat would be capable of providing more than 100 gigabits per second of incremental capacity over the Americas, targeting enterprise, government, aviation, and maritime customers.
+
+It is the fifth GEO satellite that Thales has sold this year based on its software-defined Space Inspire product line, following two orders from Intelsat and one each from SES and Arabsat.
+
+In September, Thales said it had sold a more classic GEO satellite to South Korea’s KT Sat without a software-defined payload, which can provide better economics for operators with stable demand forecasts that are also looking to deploy their spacecraft faster.","{'label': 'Positive', 'score': 0.9073903560638428}",positive,0.9073903560638428,1
+Thales to power its next generation of simulators using Unreal Engine 5 - EDR Magazine,"Wed, 07 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy10by1wb3dlci1pdHMtbmV4dC1nZW5lcmF0aW9uLW9mLXNpbXVsYXRvcnMtdXNpbmctdW5yZWFsLWVuZ2luZS010gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"29 November 2022 Paris, La Défense – Thales today announced it is entering into a long-term agreement with Epic Games, creator of Unreal Engine, the world’s most open and advanced 3D creation tool.
+
+In the simulation and training market, a major trend is the increasing crossover of immersive gaming technologies to the professional environment, including progress in graphics and reduction in the development time and cost of hardware. To continue improve and produce the best training outcomes, Thales announces its collaboration with Epic Games.
+
+Thales continues to advance based on its recent acquisition of RUAG Simulation & Training to offer a wide range of live, virtual and constructive products for its growing worldwide business. As part of that activity, Thales will work to progressively incorporate Unreal Engine, with the goal of advancing the professional simulation features into its extensive product range.
+
+Unreal Engine 5, the latest version of Epic’s cutting edge real-time technology, offers significant new potential for the simulation industry and has proven to be successful for simulation and training applications, as it offers the ability to quickly incorporate real-world scenarios into actionable training environments in days. Unreal Engine 5 is bringing an unprecedented level of innovation by enabling users to reconcile data accuracy, photorealism and real-time applications.
+
+Peter Hitchcock, Vice President of the Training and Simulation business at Thales said,
+
+“We are very pleased to be working in collaboration with the Unreal Engine team at Epic Games. Their focus on providing advanced tools and technologies that have been adopted in industries beyond games matches our ambitions for taking professional simulation to the next level. Rapid insertion of Unreal Engine into our product lines gives us opportunities to delight our customers, particularly in the land training market where high-quality, densely populated synthetic environments help produce the best training outcomes.”
+
+Sebastien Loze, Unreal Engine Business Director for Simulation at Epic Games said,
+
+“Thales has a long and successful history for bringing professionals together with technology to help prepare for the complex challenges of the Training and Simulation industry. Combining Thales’ experience with Unreal Engine 5’s ground breaking new toolsets for generating massive, highly realistic, highly accurate, open worlds will allow industry stakeholders to train in a way that’s never been possible before.”","{'label': 'Positive', 'score': 0.9999853372573853}",positive,0.9999853372573853,1
+Thales Australia supporting the rocket scientists of the future - Thales,"Tue, 06 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXMtYXVzdHJhbGlhLXN1cHBvcnRpbmctcm9ja2V0LXNjaWVudGlzdHMtZnV0dXJl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia is committed to growing its workforce within the Guided Weapons and Explosive Ordnance Enterprise, and is reaching out to university students who are interested in pursuing a career in science, technology, engineering and maths. Greg Neal, Program Director Guided Weapons, and Warren Canning, Industrial Advisor, recently visited students at a number of universities to showcase the career opportunities at Thales and discuss the types of skills Thales is looking for to build our guided weapons capability for the future.
+
+The university students displayed how they are learning first-hand how to design and develop components of high-powered rockets as well as manufacturing techniques, project management skills and complex problem solving. Several universities also field teams to compete in the annual Spaceport America Cup, in which over 1,700 students from all across the world gather to collaborate and compete in a design-build-fly style competition.
+
+The visit was in response to requests from the universities for Thales to show the students what a career within engineering can look like and the many roles and specialisations available within Thales. As part of his presentation, Greg gave an overview of Thales, including the many industries and countries where Thales operates; and an explanation of Thales products and services, including high explosives, rockets, powders and ammunition. Greg emphasised Thales’s current and future contributions to accelerate sovereign industrial capability in the areas of guided weapons, high speed weapons and space, as well as our local research and development activities around booster motors, including those intended for space launch.
+
+“Along with our existing expertise, we are looking to bring in the next generation of scientists and engineers to support growth in our sovereign guided weapons capability over the next few years. We aim to hire smart, passionate people to train and mentor whilst we work with the education ecosystem to co-develop related engineering courses” Greg Neal, Program Director, Guided Weapons, Thales Australia. In addition to these roadshows, Thales is also working on a number of projects with universities Australia wide, including; University of Sydney, University of NSW, University of Southern Queensland, University of NSW Canberra (ADFA) and the University of Adelaide.
+
+The visits were well received by the students, who were impressed with the broad range of Thales’s products and services, and keenly participated in the question and answer session to learn more about graduate programs and internships, as well as engineering roles becoming available in 2023 and beyond. Warren was able to provide an overview of hypersonic technologies from his extensive involvement in Defence Science and Technology Group's hypersonic research programs, which led to many interesting discussions around hypersonic weapons and solid rocket propellant manufacturing.
+
+Thales’s involvement in aero activities such as surveillance and air defence was inspiring due to important contributions to protection at the national level. It was exciting to hear of the area for growth in Australia’s space sector, which will create many homegrown opportunities in the near future."" Margarita, University of New South Wales student
+
+As someone with a particular interest in propulsions technologies, it was especially valuable for me to understand what manufacturing capabilities Thales Group offers locally and the types of research opportunities that are available."" Erik, University of New South Wales student
+
+Thales will continue to participate in events such as these to inspire the next generation workforce, who will deliver complex sovereign capabilities and shape the Australian Guided Weapons and Explosive Ordnance Enterprise through rocket propulsion, aero systems and related engineering streams.
+
+Learn more about Thales Australia’s Sovereign Guided Weapons and Explosive Ordnance Enterprise.
+
+Learn more about Culture and Careers at Thales.","{'label': 'Neutral', 'score': 0.999906063079834}",neutral,0.999906063079834,0
+Egypt's Sisi meets with CEO of Thales Group - Egypt Today,"Sun, 11 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmVneXB0dG9kYXkuY29tL0FydGljbGUvMS8xMjEyMzUvRWd5cHQlRTIlODAlOTlzLVNpc2ktbWVldHMtd2l0aC1DRU8tb2YtVGhhbGVzLUdyb3Vw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"CAIRO – 11 December 2022: President Abdel Fattah El-Sisi received Chairman and Chief Executive Officer of the French Company Thales Patrice Caine, said Egyptian Presidential Spokesperson Bassam Rady.
+
+The meeting discussed prospects for cooperation with the French company, which enjoys international experience in the field of optics, electronics and cybersecurity technology and their applications in the civil and service sectors. This is in cooperation with Arab International Optronics and Benha Electronics, said Rady.
+
+President El-Sisi underscored the outstanding cooperation between Egypt and France in general, particularly the activities of French companies operating in Egypt and their contribution to the development process. He noted that their success in Egypt represented a launching pad to other countries in the region. The President confirmed that Egypt looks forward to further advancing this cooperation, particularly with Thales, which enjoys long years of experience in the field of optics and electronics, Rady added.
+
+The President gave directives to give due attention to enhancing human capacity, within the framework of the cooperation with Thales, in terms of practical and technical training and qualification so as to prepare staff of engineers in these specialized fields.
+
+The Chairman and CEO of Thales expressed appreciation for meeting with President El-Sisi to discuss cooperation with Egypt, stressing the importance of Egypt's role as a strategic ally of France. Mr. Caine confirmed keenness on the fruitful cooperation with Egypt in the company's field of activity, training and education for the transfer of knowledge, localization of the industry and in enhancing its capabilities in the field of optics.
+
+The meeting was attended by Commander of the Strategic Command and Military Industrialization Supervisor, Vice Admiral Ahmed Khaled; Chairman of the Board of Directors of the Arab International Optronics, Major General Tariq Zaghloul; Vice President of Thales’ Land and Air Systems, Mr. Christophe Salomon and Managing Director and CEO of Thales, Egypt, Sherif Barakat.","{'label': 'Neutral', 'score': 0.8861327171325684}",neutral,0.8861327171325684,0
+Hear what you pay for: a 'Voice Payment Card' for greater inclusion - Thales,"Fri, 02 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9yZXNwb25zYWJpbGl0eS9uZXdzL2hlYXItd2hhdC15b3UtcGF5LXZvaWNlLXBheW1lbnQtY2FyZC1ncmVhdGVyLWluY2x1c2lvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Hear what you pay for: a ‘Voice Payment Card’ for greater inclusion Share this article
+
+
+
+LinkedIn
+
+Thanks to the Thales Gemalto Voice Payment Card, blind and visually impaired people can enjoy a trusted and autonomous experience for their daily payments. The technology also helps people with other disabilities and can even translate and convert for those travelling to foreign countries.
+
+Today, most banking services are not adapted for people with disabilities. Did you know, for example, that 90% of visually impaired people have already faced fraud or encountered a mistake at a point of sale*? This statistic prompted Thales to develop a solution that could offer people with impaired vision trust and autonomy when making payments.
+
+Working in collaboration with its partner Handsome, a Fintech specialist in inclusivity, Thales has used its expertise in secure payment and connectivity to develop a discreet and secure assistive technology solution. This inclusive payment solution gives people with visual impairments greater control of every payment they make, reassuring them that they are always being charged the right amount.
+
+This unique innovation has now also been certified by Visa and Mastercard. Several banks will soon commercialise this one-of-a-kind solution, convinced of its interest for their clients.
+
+“At Thales we know innovation has the potential to solve a multitude of issues. That’s why, with the support of Handsome and based on Thales’s key expertise in developing secure and convenient payment solutions, we decided to tackle concerns faced by blind and visually impaired people. Since then, it became apparent that the solution has proven to be useful for other disabilities. All in all we are thrilled to see our innovations contribute to building more sustainable and responsible payment solutions.”
+
+Bertrand Knopf, Vice President Banking and Payment Services at Thales.
+
+How does it work?
+
+The Thales Gemalto Voice Payment Card works as a connected device that gets the amount from the point of sales terminal and communicates it to the mobile app via Bluetooth. The customer can then hear the information either through the phone’s speaker or through earphones.
+
+This solution is compatible with all existing EMV payment terminals with no software or hardware update needed.
+
+The process for the user is very simple: When a customer receives their new card, they just have to download the dedicated app on their phone (from the app store) and tap their card on it to pair the card with the app. Every time they make a payment, a secure, encrypted link connects their voice payment card to their mobile phone. Their phone voices the transaction amount to them before they enter their PIN on the Point Of Sale terminal to confirm payment. Their phone then delivers an audio confirmation of the transaction.
+
+Other uses
+
+Although specially designed by R&D teams for the visually-impaired, testing has demonstrated the usefulness of the system for anyone who struggles with point of sale transactions.
+
+A variation has also been developed, helping people travelling to countries with unfamiliar languages and currencies. Using this same system, each transaction step in a foreign country can be translated into the user’s language. The system can also convert the amount into the user’s currency before final confirmation of the transaction.
+
+Watch the video to find out more.
+
+*according to a survey done in 2019 by Handsome and Ethik Connection among 120 people in France","{'label': 'Neutral', 'score': 0.9864767789840698}",neutral,0.9864767789840698,0
+Thales awarded contract by French MoD to build deployable communications networks for theatres of operations - EDR Magazine,"Mon, 12 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS90aGFsZXMtYXdhcmRlZC1jb250cmFjdC1ieS1mcmVuY2gtbW9kLXRvLWJ1aWxkLWRlcGxveWFibGUtY29tbXVuaWNhdGlvbnMtbmV0d29ya3MtZm9yLXRoZWF0cmVzLW9mLW9wZXJhdGlvbnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"9 December 2022 – As high-intensity conflict returns to the world stage, the French defence procurement agency (DGA) has awarded Thales the ASTRIDE* 3 contract. Thales will work with several partners to deliver a high-speed, mobile and secure command infrastructure for deployment in an extremely wide range of tactical situations.
+
+click on image to enlarge
+
+After decades of asymmetric engagements, armed forces now face new types of high intensity conflict that underscore the importance of resilience, discretion and mobility of theatre networks and command posts. Forces engaged in disputed areas are also increasingly reliant on the capacity to share data between multiple sensors and effectors for collaborative combat operations and to support multi-site, multi-domain collaboration for collaborative command of allied units.
+
+ASTRIDE 3 will meet all these requirements by integrating new connectivity systems such as latest-generation satellite terminals (SYRACUSE IV), HCLOS (high-capacity line-of-sight) communications, tactical software-defined radios (CONTACT) and digital wireless services (LTE technology). These assets will interconnect the battlespace and provide a resilient network of connected command posts from theatre level down to tactical units. ASTRIDE 3 could also offer defence cloud hosting capabilities to meet the needs of collaborative command structures and support a broader computer network defence (CND) initiative to deal with cyber threats.
+
+click on image to enlarge
+
+The integrated, automated ASTRIDE 3 stations will accelerate and simplify manoeuvres in the theatre of operations, enabling forces to deploy different versions of the station – hardened container, shelter (transport cases) or pre-integrated in armoured vehicles in the SCORPION ecosystem – to adapt to an extremely wide range of tactical situations. Wireless connections will shorten command post deployment times by significantly reducing the number of manual operations required. In addition, the network planning, command and supervision tools MOSART**, will give land forces unprecedented agility in adapting to the tempo of their mission.
+
+ASTRIDE 3 stations will meet the latest FMN (Federated Mission Network) interoperability standards and enable France to act as a framework nation for forces command at Land Component Command (LCC) or Division level.
+
+The choice of Thales confirms the Group’s role as a trusted partner and preferred provider of military communication systems, and underscores its wide-ranging expertise in areas including handheld tactical radios, satellite communications, network capabilities and platform integration.
+
+Thales’ sites in Cholet (Pays de la Loire) and Gennevilliers (Ile-De-France), as well as those of numerous French technology partners and SMEs, contribute to both the development and production of the physical and software components of the ASTRIDE 3 system.
+
+“Thales is proud, once again, to be supporting French land forces in their digital transformation by providing a high-speed, mobile and secure command infrastructure that can be deployed in an extremely wide range of tactical situations. Phase 3 of the ASTRIDE programme is a further step towards collaborative combat, positioning connectivity and the land forces combat cloud at the heart of high-intensity warfare.” – Marc Darmon, Executive Vice President, Secure Communications and Information Systems, Thales.
+
+Image courtesy Thales","{'label': 'Neutral', 'score': 0.9986760020256042}",neutral,0.9986760020256042,0
+Thales Alenia Space and Space Cargo Unlimited Sign Contract for REV1 Mission - SpaceWatch.Global,"Thu, 29 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vc3BhY2V3YXRjaC5nbG9iYWwvMjAyMi8xMi90aGFsZXMtYWxlbmlhLXNwYWNlLWFuZC1zcGFjZS1jYXJnby11bmxpbWl0ZWQtc2lnbi1jb250cmFjdC1mb3ItcmV2MS1taXNzaW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ibadan, 29 December 2022. – Thales Alenia Space and Space Cargo Unlimited have announced the signing of the first phase contract for the conception and production of “REV1”, the first floating space factory, and the opening of a Space Cargo Unlimited subsidiary in Turin. As project contractor, Thales Alenia Space will be responsible for designing, engineering, and developing the REV1 vehicle. Likewise, Space Cargo Unlimited will be the owner and commercial operator of the vehicle.
+
+Space Cargo Unlimited plans to commercially operate a fleet of uncrewed cargo vehicles capable of returning to Earth to exploit the potential of microgravity for commercial applications on Earth. The REV1 pressurized vehicle will be a real floating space factory. Furthermore, it will be for specific missions, especially in biotechnology, pharmaceuticals, agriculture, and new materials. REV1 will be able to create unique laboratory conditions and real clean rooms essential for this type of research and manufacturing.
+
+The first REV1 vehicle, for launch in late 2025, will require adaptation to any available and compatible launcher system. This will make it unique to perform new missions, especially in an equatorial orbit. With a design allowing it to be reusable for 20 missions, the REV1 will carry payloads for 2-3 months in space.
+
+Speaking on the project’s importance, Massimo Comparini, Chairman and Deputy Chief Executive Officer and SEVP of Observation, Exploration, and Navigation at Thales Alenia Space, noted, “this project will be crucial to improving the technological capabilities of the European space industry by placing both companies at the forefront of the New Space economy through novel space applications.”
+
+The partnership agreement fully reflects Thales Alenia Space’s New Space approach, which includes creating more and more synergies with start-ups and offering disruptive solutions to evolve existing models. In addition, the project’s goal perfectly aligns with Thales Alenia Space’s Space for life vision by helping to make life better and more sustainable on Earth thanks to space.
+
+One of the ambitions of the partnership between the two companies is also to build a real “Space Garage” in Turin to maintain, repair, and overhaul future spacecraft, such as REV1, operated by Space Cargo Unlimited.","{'label': 'Neutral', 'score': 0.9955818057060242}",neutral,0.9955818057060242,0
+Thales' new multimodal biometric module combines facial and iris recognition - Intelligence artificielle - Actu IA,"Wed, 14 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFjdHVpYS5jb20vZW5nbGlzaC90aGFsZXMtbmV3LW11bHRpbW9kYWwtYmlvbWV0cmljLW1vZHVsZS1jb21iaW5lcy1mYWNpYWwtYW5kLWlyaXMtcmVjb2duaXRpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Before the end of this year, Schengen member states will be required to have a biometric entry and exit system to register non-EU citizens crossing an EU external border. The new multimodal biometric module announced on December 6 by Thales is an efficient solution for the registration and identification of travelers for smooth immigration and border control procedures.
+
+Regulation (EU) 2017/2226 aims to improve the efficiency of external border controls in the Schengen area by creating a centralized entry/exit system (EES) for third-country nationals crossing the EU’s external borders. This will help combat terrorism and address other border management and security issues.
+
+Under the regulation, all third-country nationals wishing to enter a Schengen member state will have to register with four fingerprints and a facial image, whether by land, sea or air. The data collected will be stored in the shared register of the central SEA database managed by eu-LISA, the European Union agency for the operational management of large-scale information systems within the Schengen area.
+
+Solutions offered by Thales
+
+Thales was selected by the French Ministry of the Interior to deliver several hundred pre-registration kiosks at numerous border crossings.
+
+With the acquisition of security company Gemalto in 2019, Thales has developed a complete EU EES border management system and offers “Gemalto EU EES Border Management System”, a complete end-to-end solution for secure, convenient and fast customs clearance at various border control points.
+
+The Thales Gemalto Border Kiosk offers an intuitive and interactive self-service interface, guiding travelers through each step of the check-in and identity verification process.
+
+The new multimodal biometric module from Thales
+
+This module combines facial recognition with iris recognition, a highly reliable biometric authentication process. Thales has developed the Cogent Iris Scanner CIS-202, a high-speed iris image capture device that can capture both irises simultaneously in less than two seconds.
+
+The new multimodal biometric module will enable border authorities to integrate a degree of automation into their procedures, while ensuring the security of passengers and staff and the confidentiality of data exchanged.
+
+Equipped with a camera and a high-resolution LCD screen, it can recognize the iris and face of pre-registered travelers from a distance of 0.5m to 1.5m with excellent accuracy. This AI-based solution retrieves both iris and facial data in as little as two seconds, speeding up operations and significantly reducing queues.
+
+It can be installed at any border control point (airports, seaports, etc.) to handle the initial check-in of travelers upon arrival and for fast and accurate biometric checks (at exit, for internal flights…).
+
+Youzec Kurp, Vice President Identity and Biometrics at Thales, states:
+
+“The combination of biometric attributes applied to contactless authentication of people, is sought by many market players to meet the challenges of security, convenience and functionality. Thales leverages its expertise in biometrics and border and passenger management to design, develop and deliver leading responsible biometric solutions that meet the expectations of users and the requirements of authorities.”
+
+Translated from Le nouveau module biométrique multimodal de Thales combine reconnaissance faciale et de l’iris","{'label': 'Positive', 'score': 0.9543440937995911}",positive,0.9543440937995911,1
+Thales Joins Cambridge University Spaceflight In Its Race To Cross The Karman Line - Thales,"Tue, 06 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWV1cm9wZS91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1qb2lucy1jYW1icmlkZ2UtdW5pdmVyc2l0eS1zcGFjZWZsaWdodC1pdHMtcmFjZS1jcm9zc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Joins Cambridge University Spaceflight In Its Race To Cross The Karman Line Share this article
+
+
+
+LinkedIn
+
+Thales in the UK is thrilled to announce its sponsorship of Cambridge University Spaceflight (CUSF). The student society’s ambitious goal is one Thales is very happy to get behind: to be the first European student team to send a rocket, its single-stage rocket, Griffin 1, into space to the dizzying altitude of 150km. This is well beyond the imaginary boundary between Earth’s atmosphere and the beginning of space – the fabled Kármán Line – which sits roughly 100km above sea level.
+
+Thales joins Horage and TTP as a headline sponsor, as well as other supporters of CUSF including Reaction Engines and Nexus Aurora. Our involvement also goes one step further as Thales is sponsoring CUSF Co-President, Abhi Pandit, on the Institute of Engineering & Technology’s Diamond Jubilee Scholarship programme.
+
+CUSF was founded in 2005 and initially focused its efforts on reaching the edge of space using a series of high-altitude balloons called Nova. The aim was to explore high-altitude flight and, ultimately, use the platform to launch a rocket into space.
+
+Alongside its high-altitude balloon programme, CUSF has also been working on high-powered rocketry and, since 2012, there have been three launches, including the Martlet 3 boosted-dart rocket.
+
+Martlet 3 Launch
+
+After the Martlet 3 launch in 2019, CUSF decided to take on the ambitious challenge to develop its own engines for future flights, resulting in Pulsar, the UK’s largest nitrous oxide hybrid engine.
+
+Successful test firings of Pulsar, saw the team keen to push the boundaries of student space endeavour by developing a more complex bi-propellant engine – one they could use in the space-shot Griffin Programme to go beyond the Karman Line.
+
+Since 2019, CUSF has been working on a scaled-down liquid bi-propellant engine demonstrator that will be tested at the end of November 2022. Named White Dwarf, it will be the first liquid rocket engine fired by Undergraduate students in the UK.
+
+A test firing in early February will provide valuable insights into test procedures, safety precautions, and performance characteristics that’ll be needed for tests of the full-scale White Giant engine and eventual launch of Griffin 1 into space in July 2024.
+
+CUSF’s White Giant engine promises to be one of the largest student liquid engines in the world. Powered by liquid oxygen and isopropyl alcohol, it will generate around 32kN of thrust for over 40 seconds – enough to take the rocket well beyond the Karman Line.
+
+Along with our fellow sponsors and partners, Thales in the UK is looking forward to supporting CUSF and getting behind the student Society’s detailed, scoped-out plans to achieve its ambitious goal of being the first European student society to launch a rocket beyond the Karman Line.
+
+Abhijit Pandit, Co-President, Cambridge University Spaceflight said “Our purpose as a Society is threefold. One, we’re here to inspire the next generation with a project that is really exciting and personally fulfilling. Two, provide our members with a real-world experience on a real-life project. And three, to help them develop the skills they’ll need to pursue a career in the engineering and aerospace industries. Having partners like Thales, one of the UK’s leading innovation companies, is crucial to helping us achieve all those aims.”
+
+Paul Gosling, Chief Technology Officer, Thales in the UK said ""It’s great to be supporting CUSF. The team’s ambition is quite remarkable and their commitment as a Society to inspire the next generation of engineers is close to our hearts at Thales. I, for one, will be following their progress closely in the coming months as they look to become a world first in student space flight.”
+
+You can find out more about Cambridge University Spaceflight’s journey into space here.","{'label': 'Neutral', 'score': 0.9762043356895447}",neutral,0.9762043356895447,0
+Thales and BlueCats digital awareness transforms asset tracking at Garden Island - Thales,"Thu, 15 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXMtYW5kLWJsdWVjYXRzLWRpZ2l0YWwtYXdhcmVuZXNzLXRyYW5zZm9ybXMtYXNzZXQtdHJhY2tpbmfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia's Above Water Systems business is trialing a Bluetooth/GPS based asset location tracking technology, developed by Australian SME, BlueCats. The Real Time Location System (RTLS) technology enables Thales' work teams at Garden Island Defence Precinct (GIDP) to 'tag' a piece of equipment and remotely track its location at all times.
+
+When preparing for the arrival of a naval ship or commercial vessel, the Thales Dock Operations and Reticulation Services (DORSC) team undertake a variety of activities to enable safe and successful dockings. These tasks can range from manufacturing dock blocks, internal transport services, caisson movements, cranage, air, sewerage, power and water services and may require hundreds of individual pieces of equipment, or ‘assets’ in addition to significant efforts from the DORSC team.
+
+To enhance asset tracking, utilisation and accountability, therefore reducing cost, saving time and improving efficiency, the team worked with BlueCats to apply its unique technology to the challenging environment of a naval dockyard. Not only does the RTLS assist the DORSC team in preparing the Captain Cook Graving Dock (CCGD) to receive a naval vessel but also in providing maintenance and support services once it has docked.
+
+“It was a pleasure to work with BlueCats on this project. The real time asset tracking solution allows our business to digitally monitor the tagged assets on how the DORSC equipment moves across the worksite which is easily accessible via a mobile device” said Thales DORSC Program Manager, Darren Moore.
+
+“We were confident that our real time asset tracking solution would be a good fit for the work Thales does at Garden Island. Captain Cook Graving Dock is one of the largest dry docks in the Southern Hemisphere and personnel can spend considerable amounts of time looking for the right piece of kit. Now, a desktop search can eliminate 98 percent of the facility in a matter of minutes,” said BlueCats CEO, Nathan Dunn.
+
+The BlueCats solution stands apart from other asset tracking technologies. Not only has the entire system been designed with scalability in mind, the custom-developed ruggedised combined Bluetooth/GPS tags boast a battery life of up to 10 years.
+
+Traditional GPS-derived RTLS solutions often require an accompanying, recurring data backhaul expense per tag that can significantly drive costs up depending on the number of tags being deployed. The BlueCats dual Bluetooth/GPS system enables the hundreds of tags to be utilised without a direct and corresponding increase in associated recurring data costs.
+
+Coverage is provided by BlueCats connected gateways known as ProxPoints, devices specifically designed to be easily deployed in challenging environments. A number of ProxPoints have been installed in fixed locations around the Captain Cook Graving Dock while others have been mounted as mobile readers on the golf carts used to traverse the vast precinct.
+
+An additional differentiator is the flexibility of the integration. The intent of the solution is to track and monitor assets, however, the insights gained can be integrated to inform predictive maintenance as well as a range of other business applications including real time alert systems, equipment management workflows.
+
+While initially confined to the dock the trial, has been extended further on the facility and is proving to deliver significant benefits to the Thales team and our customers.
+
+“Since the asset tracking system was installed, we have seen a reduction in administrative time which allows the team to focus on other critical tasks. The system provides us enhanced accuracy and visibility on the tagged assets” said Moore.
+
+‘We are immensely proud of the level of digital awareness we have been able to deliver to the Thales team at Garden Island in such a short period of time. This increased awareness will save so much time and energy traditionally wasted on simply finding needed tools or equipment. This time can be used to continue the great work the Thales team do in managing a critical sustainment asset for the Commonwealth.,” said Dunn
+
+To read more about BlueCats, please visit their website, here.","{'label': 'Neutral', 'score': 0.9996135830879211}",neutral,0.9996135830879211,0
+Research partnership extended with Thales Australia - University of Sydney,"Thu, 22 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnN5ZG5leS5lZHUuYXUvbmV3cy1vcGluaW9uL25ld3MvMjAyMi8xMi8yMi9yZXNlYXJjaC1wYXJ0bmVyc2hpcC1leHRlbmRlZC13aXRoLXRoYWxlcy1hdXN0cmFsaWEuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"(L-R): Thales Australia & New Zealand CEO Jeff Connolly and Professor Emma Johnston, Deputy Vice-Chancellor (Research) sign the MOU agreement.
+
+Agreed in 2017, a Memorandum of Understanding (MOU) was established to research, develop and master emerging technologies, with a focus on digital technologies including big data, machine learning and artificial intelligence.
+
+The partnership extension will continue the close collaboration, which comprises well established activities such as:
+
+the Australian Research Council Industry Transformation Research Hub on Intelligent Robotic Systems for Real-Time Asset Management
+
+research on vision-based space object detection and tracking with the SmartSat Cooperative Research Centre
+
+research and development activities focused on Autonomous Mine Counter Measures with the Trusted Autonomous Systems Defence Cooperative Research Centre (TAS-DCRC), and
+
+development of integrated optical components for communication and LIDAR (light detection and ranging) applications.
+
+The collaboration with Thales Australia has also yielded significant success through directly funded PhD programs in the areas of Aerospace, Mechanical and Mechatronic Engineering, and Electrical and Information Engineering. Thales also sponsors eight engineering industry placements and has directly funded research in Low Altitude Air Traffic Management for drone operations.
+
+As the collaboration develops both parties intend to embed staff within each other’s organisation to accelerate the translation of research and development into solutions that bring impact to the community, particularly focusing on national security outcomes.
+
+The new partnership extension was signed by Professor Emma Johnston, Deputy Vice-Chancellor (Research) and Thales Australia & New Zealand CEO Jeff Connolly.
+
+“Our researchers have the ideas and expertise that can help make Australia and the world a better place to live and this partnership accelerates the translation of our ideas into real world impact. Some of the new projects we are excited about are collaborations with the University of Sydney Business School focused on drone operations and logistics – this is the type of work that can make a difference to daily life,” said Professor Johnston.","{'label': 'Neutral', 'score': 0.9991408586502075}",neutral,0.9991408586502075,0
+Thales and DSNA unveil 4-FLIGHT to enhance ATM - Regional Gateway,"Mon, 12 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJlZ2lvbmFsZ2F0ZXdheS5uZXQvdGhhbGVzLWFuZC1mcmVuY2gtYW5zcC11bnZlaWwtNC1mbGlnaHQtdG8tZW5oYW5jZS1haXItdHJhZmZpYy1tYW5hZ2VtZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In line with the modernisation of France’s air traffic management (ATM) system, Thales and the Direction des Services de la Navigation Aerienne (DSNA) inaugurated 4-FLIGHT – a new generation of air traffic control (ATC) designed to ensure a smoother flow of flights, while being more environmentally friendly.
+
+The first operational implementation of 4-FLIGHT at the East Area Control Centre (ACC) was inaugurated in Reims on 8 December, 2022. Marseilles also implemented the system on 6 December.
+
+The system is one of the most advanced stripless ATC systems in Europe and comes equipped with an intuitive human-machine interface (HMI), the latest generation of equipment, as well as innovative and sophisticated tools to support flight management and safety.
+
+The system’s advanced Flight Data Processing system, Coflight, provides controllers with more accurate forecasts of 4D flight trajectories, enabling them to focus on essential tasks, better optimise air routes and contribute to sustainable aviation.
+
+“This success is a source of pride for DSNA staff, who have been very involved in this complex ATM project,” said Florian Guillermet, DSNA CEO. “This implementation of 4-FLIGHT at Reims, then at Marseille proves the commitment of DSNA to pursue its technological modernisation to deliver the challenges of the Digital European Sky, and high-quality and more competitive service. This represents a major European air navigation milestone for the sustainable recovery of air transport.”
+
+Registered as a SESAR Solutions, 4-FLIGHT is interoperable with other European air navigation systems. It is connected to 10 ANSPs neighbouring France, including ENAIRE in Spain, DGAC in Algeria, ENAV in Italy, Skyguide in Switzerland, DFS in Germany, the Maaastricht UAC (EUROCONTROL), Skeyes in Belgium, ANA in Luxembourg, NATS in the UK, IAA in Ireland and the Network Manager (EUROCONTROL.","{'label': 'Neutral', 'score': 0.6241345405578613}",neutral,0.6241345405578613,0
+"113 Griffon and 18 Jaguar: Nexter, Arquus and Thales have met their delivery targets for 2022 - EDR Magazine","Thu, 22 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1LzExMy1ncmlmZm9uLWFuZC0xOC1qYWd1YXItbmV4dGVyLWFycXV1cy1hbmQtdGhhbGVzLWhhdmUtbWV0LXRoZWlyLWRlbGl2ZXJ5LXRhcmdldHMtZm9yLTIwMjLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Versailles, December 22, 2022 – The temporary consortium of companies (GME) multi-role armored vehicle (EBMR), which includes Nexter, Thales and Arquus, delivered 113 GRIFFON vehicles and 18 JAGUAR vehicles to the Directorate General of Armaments (DGA) this year.
+
+The GME EBMR thus achieves its delivery target for 2022.
+
+In 2022 the DGA placed an additional order for 88 JAGUAR, 302 GRIFFON and 54 MEPAC.
+
+Continuation of deliveries and qualification
+
+Nexter, Thales and Arquus ensured all deliveries of GRIFFON and JAGUAR scheduled for 2022, in accordance with the 2019-2025 military programming law. Thus, since 2019, 452 GRIFFON and 38 JAGUAR have been delivered to the DGA. In parallel, the GME EBMR ensured in 2022 the development of a new version of the GRIFFON configured as an ambulance vehicle; the GRIFFON SAN will allow the care and evacuation of the injured. This new version was qualified on September 12, 2022 by the DGA. It is equipped with a medical module, fittings adapted to the storage and integration of medical equipment, and a system for assisting the loading of the injured consisting of a mobile table and a lifting winch. The interior configuration can accommodate seated or lying wounded with a capacity of four stretchers. The SAN version has all the elements common to the other GRIFFON versions (mobility, arming, protection and connectivity).
+
+An innovation in energy
+
+In June 2022, the GME EBMR also jointly presented the results of the risk reduction study on the integration of Lithium-ion batteries in military vehicles. Conducted on a model and on a GRIFFON prototype, this experiment enabled the teams of DGA Techniques Terrestres center expertise and testing and those of the GME EBMR to test the complete system. These new batteries will be able to power the increasing number of electrical equipment of tomorrow while maintaining the current standby time, and recharging twice as fast. The study conducted by the GME thus opens the way to new options for equipping the most energy-hungry vehicles in theaters of operations.
+
+SCORPION, an ambitious program
+
+The JAGUAR armored reconnaissance and combat vehicle (EBRC) and the GRIFFON multi-role armored vehicle (VBMR) were developed as part of the SCORPION program led by the DGA, alongside the SERVAL light VBMR vehicle. They are natively designed to implement the SCORPION combat information system (SICS). SICS empowers our soldiers to conduct collaborative combat, through real-time communication of information between different units and digitization of the battlefield. Thus, in the event of a high-intensity conflict, the Army will be assured of being one step ahead of its adversary. To implement these new combat capabilities, the first SCORPION combined arms brigade (BIA) will be formed at the end of 2023.
+
+The JAGUAR is a 25-ton armored reconnaissance and combat vehicle (EBRC), armed with a 40mm cannon with telescoped ammunition (CTA) and the MMP missile.
+
+The JAGUAR is a unique vehicle on several levels
+
+its turret combines three state-of-the-art weapon systems: the 40mm CTA cannon from Nexter, two medium-range missiles (MMP) from MBDA and the remotely operated T3 turret;
+
+its state-of-the-art vetronics, developed by Thales, notably includes the latest generation optronics (IR/TV, missile launch detector, laser alert detector, etc.) and an on-board tactical training capability;
+
+its new-generation chassis, developed by Arquus, its six-wheel drive, its innovative suspension and its 400CV engine for 25 tonnes give it exceptional tactical, operational and strategic mobility.
+
+The GRIFFON is a 24-ton multi-role armored vehicle (VBMR). Its many versions allow it to carry out multiple missions: troop transport, command post, communication relay, artillery observation or even 120mm mortar (MEPAC). Deployed in 2021 in the Sahel by the French Army, the GRIFFON is appreciated for its operational qualities, its mobility and its ease of maintenance. It shares equipment common to other SCORPION vehicles such as vetronics and SICS, as well as the remotely-operated Hornet cupola.
+
+Unofficial translation by EDR On-Line
+
+Photo courtesy GME EBMR","{'label': 'Neutral', 'score': 0.9999904632568359}",neutral,0.9999904632568359,0
+Thales lands Australian Navy communication system contract extension - Defense Brief,"Mon, 12 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZGVmYnJpZWYuY29tLzIwMjIvMTIvMTIvdGhhbGVzLWxhbmRzLWF1c3RyYWxpYW4tbmF2eS1jb21tdW5pY2F0aW9uLXN5c3RlbS1jb250cmFjdC1leHRlbnNpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Australian Department of Defense has awarded Thales Australia a contract extension for the SEA 1442 Phase 3 program.
+
+This program focuses on the development of an Internet Protocol (IP) based Maritime Tactical Wide Area Network (MTWAN) that supports the Royal Australian Navy’s Maritime Communications Modernization and network-centric warfare priorities.
+
+Thales’s MTWAN operates as part of the RAN’s maritime communication systems integration and implementation. The solution involves an integrated IP-based digital environment, interfacing with a range of existing RAN systems.
+
+Over the duration of the SEA 1442 Phase 3 program, numerous next-generation improvements to the system have been implemented. This ensures that the system is future-proof, capable of supporting current and future information exchange demands, while also ensuring interoperability with joint, coalition, and allied systems.
+
+Thales has developed and deployed several major baseline upgrades of MTWAN to support the growing demands of increased bandwidth for deployed forces, diversity of communication bearers, and enhanced cyber security of tactical networks at sea. This work has included the integration of additional commercial and military SATCOM systems, Joint Domain networks, and improved bandwidth utilization tools.
+
+Thales further said that the contract extension would allow it to adopt and implement further next-generation improvements to the MTWAN system, ensuring that it remains future-proof and capable of supporting the RAN’s current and future information exchange demands.
+
+“We’ve actively supported the RAN for the last 12 years with the MTWAN system, ensuring this critical capability delivers the security and reliability the RAN requires on operation. We’re proud the Commonwealth has shown confidence in its partnership with Thales Australia by extending this MTWAN support contract even further,” vice president for Digital Systems at Thales Australia & New Zealand, Peter Bull, said.","{'label': 'Positive', 'score': 0.9998624324798584}",positive,0.9998624324798584,1
+Nexter Arquus and Thales met delivery targets for 2022 with 113 Griffons and 18 Jaguars | Defense News December ... - Army Recognition,"Thu, 22 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5hcm15cmVjb2duaXRpb24uY29tL2RlZmVuc2VfbmV3c19kZWNlbWJlcl8yMDIyX2dsb2JhbF9zZWN1cml0eV9hcm15X2luZHVzdHJ5L25leHRlcl9hcnF1dXNfYW5kX3RoYWxlc19tZXRfZGVsaXZlcnlfdGFyZ2V0c19mb3JfMjAyMl93aXRoXzExM19ncmlmZm9uc19hbmRfMThfamFndWFycy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Nexter, Thales and Arquus ensured all of the scheduled EBMR Griffon and EBRC Jaguar deliveries in 2022, in accordance with the 2019-2025 military programming law. Thus, since 2019, 452 Griffons and 38 Jaguars were delivered to the DGA.
+
+Follow Army Recognition on Google News at this link
+
+
+
+EBRC Jaguar (Picture source: Army Recognition)
+
+In parallel, the GME EBMR ensured in 2022 the development of a new version of the Griffon configured as an ambulance vehicle, the Griffon SAN (sanitary) will allow the care and evacuation of the injured. This new version was qualified on 12 September 2022 by the DGA. It is equipped with a medical module, adapted facilities for storage and integration of medical equipment, and a loading assistance system injured consisting of a mobile table and a lifting winch. The interior configuration accommodates seated or lying wounded with a capacity of four stretchers. The version SAN has all the elements common to the other versions of the Griffon (mobility, armament, protection and connectivity).
+
+Innovation in energy
+
+In June 2022, the GME EBMR also jointly presented the results of the risk removal survey on the integration of Lithium-ion batteries in military vehicles. Conducted on a model and on a Griffon prototype, this experiment enabled the teams of the DGA Terrestrial Techniques center of expertise and testing and those of the GME EBMR to test the complete system. These new batteries will be able to power more electrical equipment tomorrow while maintaining the current standby time and recharging twice as fast. The study conducted by the GME thus opens the way to new options for equipping the most energy-intensive vehicles in theaters of operations.
+
+SCORPION, an ambitious program
+
+The EBRC Jaguar armored reconnaissance and combat vehicle (EBRC) and the multi-role armored vehicle (VBMR) Griffon were developed as part of the Scorpion program led by the DGA, alongside Serval light VBMR vehicles. They are natively designed to implement the SCORPION Combat Information System (SICS). SICS empowers our soldiers to carry out a collaborative fight, thanks to the communication of information in real time between different units and the digitization of the battlefield. Thus, in the event of a conflict intensity, the Army will be assured of being one step ahead of its opponent. To implement these new combat capabilities, the first brigade (BIA) SCORPION will be formed at the end of 2023.
+
+French and Belgian armies teaming up in CaMo Program
+
+The Belgian army will also be equipped with Griffons and Jaguars in the framework of the Belgian-French CAMO program (CApacité MOtorisée, Motorized Capability) that aims at common operationality in the field of motorized units.","{'label': 'Neutral', 'score': 0.9999821186065674}",neutral,0.9999821186065674,0
+Thales Australia extends partnership with University of Sydney for transformative technology research and development - Thales,"Thu, 22 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvcHJlc3MtcmVsZWFzZS90aGFsZXMtYXVzdHJhbGlhLWV4dGVuZHMtcGFydG5lcnNoaXAtdW5pdmVyc2l0eS1zeWRuZXnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia and the University of Sydney have extended their long-standing partnership to continue research and development of transformational solutions in aerospace, space, defence and digital security fields.
+
+Agreed in 2017, a Memorandum of Understanding (MOU) was established to research, develop and master emerging technologies to bring to market those that are core to the Thales business. A principal focus has been digital technologies including big data, machine learning and artificial intelligence.
+
+The recently signed partnership extension will continue the close collaboration between the organisations, which comprises well established activities such as the Australian Research Council Industry Transformation Research Hub on Intelligent Robotic Systems for Real-Time Asset Management, research on vision-based space object detection and tracking with the SmartSat Cooperative Research Centre, research and development activities focused on Autonomous Mine Counter Measures with the Trusted Autonomous Systems Defence Cooperative Research Centre (TAS-DCRC), as well as development of integrated optical components for communication and LIDAR (light detection and ranging) applications.
+
+The collaboration between Thales Australia and the University of Sydney has also yielded significant success through directly funded PhD programs in the areas of Aerospace, Mechanical and Mechatronic Engineering, and Electrical and Information Engineering. Thales also sponsors eight Engineering Sydney Industry placements and has directly funded research in Low Altitude Air Traffic Management for drone operations.
+
+As the collaboration develops, both parties intend to embed staff within each other’s organisation to accelerate the translation of research and development into solutions that bring impact to the community, particularly focusing on national security outcomes.
+
+The new partnership extension was signed by the Professor Emma Johnston, Deputy Vice-Chancellor (Research) and Thales Australia & New Zealand CEO Jeff Connolly.
+
+Dr John Best, Chief Technical Officer, Thales Australia and New Zealand noted that “over the previous 5 years we have not only delivered some tremendous research outcomes, including application in support of key defence capabilities. We have also developed teams who are skilled in identifying the research challenge in practical problems and able to plan and execute a research program to deliver real impact to our customers and end users. We will further build this capability to strengthen our collaborative impact.”
+
+Deputy Vice-Chancellor (Research), Professor Emma Johnston said the MOU is another milestone in continuing the productive relationship between Thales Australia and the University of Sydney.
+
+“Our researchers have the ideas and expertise that can help make Australia and the world a better place to live and this partnership accelerates the translation of our ideas into real world impact. Some of the new projects we are excited about are collaborations with the Business School focused on drone operations and logistics – this is the type of work that can make a difference to daily life.”
+
+University of Sydney’s Dean of Engineering Professor Willy Zwaenepoel agreed: “The best ideas are the ones that come through collaboration, and working closely with Thales gives us opportunities to make sure research solutions can be translated into practical outcomes.”
+
+“We look forward to growing the collaboration over the coming 5 years including finding new opportunities in our new Faculty initiatives of Digital Sciences Initiative and Net Zero Initiative.”","{'label': 'Neutral', 'score': 0.992774486541748}",neutral,0.992774486541748,0
+UK Royal Air Force to Operate New Radar Systems in Gibraltar - The Defense Post,"Thu, 08 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzEyLzA4L3VrLWdpYnJhbHRhci1yYWRhci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"UK Royal Air Force to Operate New Radar Systems in Gibraltar
+
+Thales and Aquila have installed radar systems at the top of the Rock of Gibraltar to support the UK Royal Air Force (RAF) Gibraltar’s air traffic management.
+
+Commissioned in partnership with the UK National Air Traffic Services, the radars will serve as surveillance assets for the air force and the Gibraltar International Airport.
+
+The radar systems use Thales’ StarNG and RSM970S for primary and secondary surveillance.
+
+Reliable Surveillance
+
+During a demonstration, the radar systems collected a large amount of data for computational analysis through a Thales-provided aircraft that flew around the vicinity.
+
+The information was sent to the UK Ministry of Defence for validation in parallel with RAF requirements.
+
+“We’re extremely pleased with the delivery and performance of the new Primary and Secondary radars that will serve Gibraltar for decades to come,” Thales UK Regional Program Manager Eddie Trott said.
+
+An ‘Inspiring’ Project
+
+According to Thales, the milestone follows a successful technical setup and customer acceptance trials managed by over 100 personnel.
+
+The radar systems were covered with a white spherical dome for protection against extreme weather conditions.
+
+A CH-47 Chinook helicopter was also used to airlift components to the mountain peak.
+
+“The installation challenges at the top of ‘The Rock’ have been daunting, yet inspiring and hugely rewarding. Location-wise, it’s certainly one of Programme Marshall’s most difficult installations, but a pleasure to be part of and satisfying to see it complete,” Trott explained.
+
+“We received exceptional support from RAF Gibraltar and the Government of Gibraltar. A huge thank you to the hundreds of people involved in the project and to the many Gibraltarians who’ve helped make it happen.”","{'label': 'Neutral', 'score': 0.9279019832611084}",neutral,0.9279019832611084,0
+Weapons company Thales under fire for human rights violations in West Papua - Green Left,"Wed, 14 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmdyZWVubGVmdC5vcmcuYXUvY29udGVudC93ZWFwb25zLWNvbXBhbnktdGhhbGVzLXVuZGVyLWZpcmUtaHVtYW4tcmlnaHRzLXZpb2xhdGlvbnMtd2VzdC1wYXB1YdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Community members gathered on December 1 to raise the West Papuan flag in the lobby of weapon's company Thales’ office.
+
+The action was held to protest Thales’ weapons' exports to Indonesia and call on it to recall its weapons from West Papua, where Indonesian forces use them to contain the movement for independence.
+
+“Thales Bushmasters have been spotted in West Papua. Our friends over there send us photos of pieces of exploded Thales missiles that they find on the ground,” activist Lilli Barto said.
+
+“This company has blood on its hands. They need to stop arming regimes that violate human rights, no matter how profitable the practice may be.
+
+“They are fuelling genocide and dispossession; they are implicated in the war crimes committed by their customers.”
+
+Less than 1300 kilometres from Darwin, West Papua has been struggling for self-determination since it was a Dutch colony. Formally, it is a region of Indonesia — the result of a United Nations agreement brokered by the United States in the 1960s.
+
+Thales is one of many companies that manufacture weapons in Australia for sale to the Indonesian forces. Others include BAE Systems, Northrop Grumman, Electro Optic Systems and Rheinmetall Defence.
+
+Indonesia's security forces have a long record of human rights violations including widespread rape, torture, political assassinations, razing villages, imprisonment of West Papuan leaders, severe curtailment of freedom of expression, and denying access to journalists and human rights observers.
+
+For these reasons Amnesty International, Human Rights Watch and the Asian Human Rights Commission have condemned Indonesia.
+
+Indonesia also considers the raising of the West Papuan morning star flag to be an act of treason.
+
+“We have regular contact with West Papuans in Australia and on the ground in the region, they tell us what is going on there,” said Bartolo. “Logging companies are buying up the forests where people live, then they send the army in to drive people off the land so that it can be logged. Then when the forest is gone, they turn it into palm oil plantations.
+
+“The military protects the property rights of the companies at the expense of the human rights of the people.”
+
+Peace In Papua, that coordinated the protest, has vowed to continue to peacefully disrupt businesses that they say fuel the conflict in West Papua.
+
+They describe their strategic goal as “ending all weapons exports and transfers from Australia to Indonesia, as one part of a broader struggle for disarmament, demilitarisation, and decolonisation across the world”.","{'label': 'Neutral', 'score': 0.9990066885948181}",neutral,0.9990066885948181,0
+An easier travel path from home to hotel room with digital credentials and facial biometric match - Biometric Update,"Thu, 08 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5iaW9tZXRyaWN1cGRhdGUuY29tLzIwMjIxMi9hbi1lYXNpZXItdHJhdmVsLXBhdGgtZnJvbS1ob21lLXRvLWhvdGVsLXJvb20td2l0aC1kaWdpdGFsLWNyZWRlbnRpYWxzLWFuZC1mYWNpYWwtYmlvbWV0cmljLW1hdGNo0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Digital travel credentials are here. The launch of American Airlines’ Mobile ID – which combines Thales technology with the Airside App – introduces complete traveler journeys without presenting any physical documents to airports across the U.S. Your ID stays in your bag.
+
+This new simplified form of air travel is now being extended to allow travelers access to more places and to quickly navigate more time-consuming procedures in additional airports across the U.S., with similar systems rolling out around the world, Thales Head of Business Development and Strategic Marketing Neville Pattinson tells Biometric Update.
+
+These revolutionary changes are enabling air travelers to enrol for their digital credentials at home, before they leave for the airport. Travelers can begin planning their journey, consenting to share their face biometric not just with the airline for faster, paperless flight boarding, but also entry into clubs and other airport processes.
+
+Stakeholder collaboration with the U.S. government’s Transportation Security Administration (TSA) to further improve the process is ongoing. In the meantime, U.S. travelers planning a flight can now use digital credentials and biometrics to get through the frustrating parts of air travel dramatically faster.
+
+Major advances behind the scenes
+
+The changes already made allow passengers to use only their phone and their face biometric to enter Admirals clubs and pass through TSA. All other airport processes, from check-in as well as bag-drop through boarding, will soon be completed even without the travelers’ phone. A face biometric check, previously consented to by the traveler, is all that is necessary at each point of interaction.
+
+AA’s passenger-held digital credential is available to U.S. residents flying on American, who are American Advantage members. The traveler downloads Airside’s digital identity app and uses Thales’ technology to create the digital credential, which is then consented to be shared at specific airports for the day of travel.
+
+This process creates an American Airlines’ persistent digital credential maintained on the traveler’s phone. The extra security checks necessary at TSA checkpoints require an ISO 18013-5 digital credential to be presented, through a quick process in the same app.
+
+“Under the control of the traveler we use their persistent American Airlines enrolled credential, and it is converted in the phone to the form that will now be accepted as a standard digital credential on the TSA CAT-2B devices or on the bag drop station,” Pattinson explains.
+
+Impact at airports and beyond
+
+In addition to the time savings by checking in for your flight before you leave home, individual checks are completed almost instantly, compared to five or six seconds each for processes that involve scanning a passport or Driving License.
+
+Multiplied by hundreds of people in each line, and in combination with related time-savings, Pattinson predicts that in some cases travelers will save hours on their journey through the airport.
+
+This is also creating an opportunity for the TSA to consider adding new dedicated lines for digital ID-holders.
+
+“They’re looking now at having dedicated lines for digital credentials, because the digital credential can facilitate people through the TSA identity verification quicker. Which is exciting because instead of waiting in-line at TSA, as an early adopter, you may potentially be able to take advantage of shorter lines.”
+
+In the longer run, Pattinson sees even the phone being unnecessary at TSA checks, with their digital credential being consented in advance to be used at every point in the touchless journey.
+
+Stats on the similar boarding process used for CBP’s Biometric Exit program has shown reductions of 40 percent or more in how long it takes to board aircraft, and Pattinson says Thales pioneering U.S. Exit devices at LAX were consistently able to board over 300 passengers faster than traditional boarding pass scan processes.
+
+The time savings can also help airlines and airports turn the gates over more quickly, allowing more flights in a day or reducing the staff hours needed.
+
+Addresses needs of consumers and businesses
+
+The time savings is only one part of the increased convenience that digital credentials and biometrics are delivering for passengers. Pattinson admits that he is often happiest going through the airport when he does not have to interact with agents with everything already predetermined in his airline app; no doubt a common sentiment.
+
+The same digital credential can also potentially be used for other transactions, such as car rentals and hotel check-ins. Payments can also be processed in the same way, at a Duty-Free Shop or any other retailer. Eventually, the same digital ID could even be used in non-travel applications, like opening a bank account on-line.
+
+“The more you can do on the mobile, the more you can do in advance, then you can just walk through the automated systems using biometrics,” Pattinson says. “You don’t have to remember to bring your driver’s license, necessarily, you don’t have to have a paper or digital boarding pass. These are the things that are going to change the way we travel in more of this digital environment.”
+
+This also meets a pair of critical and related needs for airports and airlines. Speeding people through the parts of the airport journey that are the least pleasant can improve how flyers feel about an airport or airline, giving them a competitive edge over those reluctant to adopt the technology.
+
+It also allows the existing infrastructure to be used to serve a greater number of passengers. Meeting that capacity is a current concern expected to get significantly worse by 2025, based on the International Air Transport Association’s (IATA’s) air traffic estimates. The example of switching a gate from one flight to another more quickly above is just one area where that capacity crunch can be eased with digital credentials and biometrics, Pattinson says.
+
+The rollout stage
+
+The technologies and partnerships that enable this faster, easier airport journey have been in development for several years. Digital ID for air travelers is finally ready to deliver on the promise that was seen as potential before the pandemic. As volumes have returned to normal, the need for them has become greater than ever.
+
+The Thales powered Airside mobile app for American Airlines travelers is now ready. The ISO/IEC 18013—5 standard, which allows the digital credential to be used in even the highest-security airport checks, was published last year. Thales has developed the biometrics and digital credential creation technologies to enroll travelers and convert their credentials to meet the standard and use during their travel experience.
+
+The touchless, paperless airport journey is now a reality. And the digital fast lane is still being built out, from your own front door to a hotel room in another city and the back home again
+
+Article Topics
+
+airports | biometrics | digital ID | digital identity | digital travel credentials | face biometrics | mobile app | Thales | Thales Digital Identity and Security | travel documents","{'label': 'Neutral', 'score': 0.995541512966156}",neutral,0.995541512966156,0
+Contract signed to develop REV1 space factory - The Engineer,"Tue, 06 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWVuZ2luZWVyLmNvLnVrL2NvbnRlbnQvbmV3cy9jb250cmFjdC1zaWduZWQtdG8tZGV2ZWxvcC1yZXYxLXNwYWNlLWZhY3Rvcnkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space and Space Cargo Unlimited have signed a first phase contract for the conception and production of ‘REV1’, the first floating space factory.
+
+As project contractor, Thales Alenia Space will be responsible for the design, engineering, and development of the REV1 vehicle. Space Cargo Unlimited will be the owner and commercial operator of the vehicle.
+
+“By taking a central place in new space initiatives and teaming up with innovative start-ups willing to take on new challenges, Thales Alenia Space is proud to embark on a new adventure that highlights the growing strategic importance of the space sector,” said Massimo Comparini, chairman and Deputy CEO and SEVP of Observation, Exploration, and Navigation at Thales Alenia Space.
+
+Space Cargo Unlimited plans to operate a fleet of autonomous cargo vehicles capable of returning to Earth to exploit the potential of microgravity for commercial applications on Earth.
+
+The REV1 pressurised vehicle will be used for specific missions, particularly in the fields of biotechnology, pharmaceuticals, agriculture, and new materials. REV1 will be able to create unique laboratory conditions and real clean rooms essential for this type of research and manufacturing.
+
+The first REV1 vehicle, scheduled for launch in late 2025, will need to be able to adapt to any available and compatible launcher system. Designed to be reusable for a total of 20 missions, the REV1 will carry payloads for two-to-three months in space.
+
+As part of the deal, a Space Cargo Unlimited subsidiary will be established in Turin.
+
+“The opening of our Turin office in the coming weeks will allow us to take a position at the heart of the Italian space ecosystem, one of the most dynamic in Europe, and to work for the development of REV1 in close collaboration with Thales Alenia Space, the European leader in space infrastructure for more than 40 years,” said Nicolas Gaume, CEO and co-founder of Space Cargo Unlimited.
+
+One of the ambitions of the partnership is also to build a ‘Space Garage’ in Turin to maintain, repair, and overhaul future spacecraft operated by Space Cargo Unlimited, which was founded in 2014 as a private commercial operator of space vehicles dedicated to manufacturing in space.","{'label': 'Neutral', 'score': 0.9974549412727356}",neutral,0.9974549412727356,0
+Thales to Build Deployable Communications Networks for Theatres of Operations - - Force Magazine,"Fri, 09 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZm9yY2VpbmRpYS5uZXQvdGhhbGVzLXRvLWJ1aWxkLWRlcGxveWFibGUtY29tbXVuaWNhdGlvbnMtbmV0d29ya3MtZm9yLXRoZWF0cmVzLW9mLW9wZXJhdGlvbnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"As high-intensity conflict returns to the world stage, the French defence procurement agency (DGA) has awarded Thales the ASTRIDE* 3 contract. Thales will work with several partners to deliver a high-speed, mobile, and secure command infrastructure for deployment in an extremely wide range of tactical situations.
+
+After decades of asymmetric engagements, armed forces now face new types of high intensity conflict that underscore the importance of resilience, discretion and mobility of theatre networks and command posts. Forces engaged in disputed areas are also increasingly reliant on the capacity to share data between multiple sensors and effectors for collaborative combat operations and to support multi-site, multi-domain collaboration for collaborative command of allied units.
+
+ASTRIDE 3 will meet all these requirements by integrating new connectivity systems such as latest-generation satellite terminals (SYRACUSE IV), HCLOS (high-capacity line-of-sight) communications, tactical software-defined radios (CONTACT) and digital wireless services (LTE technology). These assets will interconnect the battlespace and provide a resilient network of connected command posts from theatre level down to tactical units. ASTRIDE 3 could also offer defence cloud-hosting capabilities to meet the needs of collaborative command structures and support a broader computer network defence (CND) initiative to deal with cyber threats.
+
+
+
+
+
+
+
+
+
+The integrated, automated ASTRIDE 3 stations will accelerate and simplify manoeuvres in the theatre of operations, enabling forces to deploy different versions of the station – hardened container, shelter (transport cases) or pre-integrated in armoured vehicles in the SCORPION ecosystem – to adapt to an extremely wide range of tactical situations. Wireless connections will shorten command post deployment times by significantly reducing the number of manual operations required. In addition, the network planning, command, and supervision tools MOSART, will give land forces unprecedented agility in adapting to the tempo of their mission.
+
+ASTRIDE 3 stations will meet the latest FMN (Federated Mission Network) interoperability standards and enable France to act as a framework nation for forces command at Land Component Command (LCC) or Division level.
+
+The choice of Thales confirms the Group’s role as a trusted partner and preferred provider of military communication systems and underscores its wide-ranging expertise in areas including handheld tactical radios, satellite communications, network capabilities and platform integration.
+
+Thales’ sites in Cholet (Pays de la Loire) and Gennevilliers (Ile-De-France), as well as those of numerous French technology partners and SMEs, contribute to both the development and production of the physical and software components of the ASTRIDE 3 system.","{'label': 'Neutral', 'score': 0.9995604157447815}",neutral,0.9995604157447815,0
+Thales Darwin welcomes Clontarf Academy students from Northern NSW - Thales,"Mon, 19 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXMtZGFyd2luLXdlbGNvbWVzLWNsb250YXJmLWFjYWRlbXktc3R1ZGVudHMtbm9ydGhlcm4tbnN30gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia’s commitment to reconciliation is about building trust, honesty and integrity throughout our organisation and wider community. This commitment includes a focus on inclusivity, employment and career development, which is demonstrated through our partnership with the Clontarf Foundation. Recently, the Thales Explosive Ordnance (EO) team welcomed the Westport and Port Macquarie Clontarf Academy students to our EO depot in Darwin.
+
+The Clontarf Foundation is a not-for-profit organisation whose mission is to improve the education, discipline, life skills, self-esteem and employment prospects of young Aboriginal and Torres Strait Islander men. Thales Australia has been a partner of Clontarf since 2020 to support this mission. Over the course of this partnership, Thales has hosted Clontarf students across a number of sites - including Garden Island (Sydney), Eagle Farm (Brisbane), Myambat (regional NSW), Lithgow (regional NSW) and West Leederville (Perth).
+
+Year 12 students and Clontarf staff members undertook a week-long tour of the Northern Territory, visiting Litchfield National Park, Katherine Gorge and Adelaide River where they saw jumping crocs, and also took the opportunity for to visit Thales's Explosive Ordnance Depot in Darwin.
+
+The EO Depot is located on the RAAF Base at Darwin and has a staff of 14. They manage the direct delivery and collection of stock across the entire Northern Territory and Kimberley region to the Australian Defence Force, as well as inspect and maintain the ordnance for the Defence inventory.
+
+During the visit, the students shared their stories with Thales staff of their journey with Clontarf and how it has enabled them to complete their Higher School Certificate this year. Clontarf staff shared their journeys and how they ended up working for Clontarf and what it means to them to see the students graduate. The Thales EO team also took the opportunity to talk about their own career paths and potential career opportunities for school leavers within Thales Australia.
+
+It was a great experience and gave Thales staff a real appreciation of what the Clontarf Foundation is all about.
+
+This is the fourth time this year the Darwin Depot has partnered with the Clontarf Foundation and each time we have been thoroughly impressed. The Foundation truly makes a difference in the lives of the young Indigenous men they mentor and prepare for life upon completion of their schooling. I am proud to represent Thales in their partnership with the Clontarf Foundation."" Craig Rochester, Site Manager EO Depot Darwin
+
+One of our priorities at Thales, and captured formally in our Reconciliation Action Plan, is to form authentic relationships of mutual respect with Aboriginal and Torres Strait Islander Peoples within the community. This partnership with Clontarf is demonstrative of the genuine, authentic relationships we’re forming and we’re thrilled to have joined with Clontarf."" James Couche, Executive Sponsor and Vice President Legal & Contracts
+
+About the Clontarf Foundation.
+
+Read more about Thales Australia’s Commitment to Reconciliation.
+
+Interested in a career with Thales? Read more.","{'label': 'Neutral', 'score': 0.9988865256309509}",neutral,0.9988865256309509,0
+Saab to Provide British Army With Next-Gen Anti-Tank Systems - The Defense Post,"Fri, 09 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzEyLzA5L3VrLWFybXktbmxhdy1taXNzaWxlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The UK Ministry of Defence has awarded Saab a 229-million-pound ($278 million) contract to provide next-generation light anti-tank weapons (NLAW) for the British Army.
+
+Delivery will take place between 2024 and 2026. Thales will then assemble them at its facility in Belfast, Northern Ireland.
+
+“Demand is increasing for anti-tank systems such as NLAW. We look forward to further strengthening our close relationship with the UK and are proud to continue delivering our proven and trusted anti-tank capability,” Saab CEO and President Micael Johansson said.
+
+NLAW Restock
+
+The procurement will replenish the British Army’s shoulder-launched missile stocks after sending Ukrainian forces the weapons to defend against the Russian invasion.
+
+A separate contract will deliver 500 NLAWs to the UK by 2023 in addition to the thousand units expected from the latest agreement.
+
+Maintaining Missile Supplies
+
+The NLAW combines the capability of light anti-armor weapons and heavy, crew-operated guided missile systems, enabling warfighters to intercept targets from above.
+
+A single soldier can operate the missile system to engage heavily armored tanks from 20 to 800 meters away.
+
+“These next generation light anti-tank weapons have played a decisive role in supporting Ukraine’s army to drive back Russia’s illegal invading forces,” UK Defence Secretary Ben Wallace explained.
+
+“Working with our first-class industry partners, we are continuing to fulfil our commitment to NATO by ensuring our Armed Forces will receive a steady supply of these weapons over the coming years, whilst supporting UK jobs across the length and breadth of the country.”
+
+Earlier this year, the UK announced 1 billion pounds ($1.2 billion) in military aid for Ukraine, which included over 5,000 NLAW anti-tank missiles.","{'label': 'Positive', 'score': 0.9998970031738281}",positive,0.9998970031738281,1
+Thales: Belfast missile-making firm awarded £223m contract - BBC,"Wed, 21 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLW5vcnRoZXJuLWlyZWxhbmQtNjQwNTc3ODDSATtodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy91ay1ub3J0aGVybi1pcmVsYW5kLTY0MDU3NzgwLmFtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"He said the contract would ensure the armed forces ""will receive a steady supply of these weapons over the coming years, whilst supporting UK jobs across the length and breadth of the country"".","{'label': 'Positive', 'score': 0.9803244471549988}",positive,0.9803244471549988,1
+Franco-Italian Boost For Ukraine! Kyiv Could Get SAMP/T Missile Defense System As S-300s Get Bombed Out - EurAsian Times,"Thu, 15 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2ZyYW5jby1pdGFsaWFuLWJvb3N0LWZvci11a3JhaW5lLWt5aXYtY291bGQtZ2V0LXNhbXAtdC1taXNzaWxlL9IBXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2ZyYW5jby1pdGFsaWFuLWJvb3N0LWZvci11a3JhaW5lLWt5aXYtY291bGQtZ2V0LXNhbXAtdC1taXNzaWxlLw?oc=5&hl=en-US&gl=US&ceid=US:en,"France and Italy have accepted Ukraine’s request for SAMP/T air defense, designed by MBDA and Thales.
+
+Italy will be sending one of its systems to Ukraine, according to the information provided by the French ambassador to Ukraine, Etienne de Poncins, during a hearing before the National Defense and Armed Forces Committee of the French National Assembly.
+
+The hearing of the French ambassador to Ukraine was held on November 9, but its report was made public only on December 13.
+
+“France and Italy will provide Ukraine with the anti-aircraft defense instruments it requires. This is a strong request that President Zelensky has made, and the Italians have confirmed to us that they are ready to grant it. So we can meet their needs,” said the French ambassador.
+
+As EurAsian Times discussed previously, the resistance of Ukrainian forces against the Russian military is significantly dependent on its ability to deny the Ukrainian airspace to the Russian Aerospace Forces (VKS) and protect the country’s essential infrastructure from Russian large-scale missile and drone offensives.
+
+Ukraine Gets Multiple Air Defense Systems
+
+Ukraine fielded medium and long-range air defenses, like the S-300s and Buk-M1s, which forced the Russian fighter jets to fly at altitudes below 4500 meters, right into the range of the man-portable air defense systems (MANPADS). These MANPADS accounted for a significant number of shoot-downs of Russian aircraft.
+
+However, Ukraine has lost around 36 S-300 launchers so far, according to the figures compiled by the military tracking blog Oryx based on visual confirmations. The actual number of losses may be higher.
+
+Reports in July suggested that Ukraine’s air defenders are losing S-300 launchers at a rate of at least three or four a week.
+
+Additionally, in recent months, the Russian military has repeatedly been filling the Ukrainian skies with a salvo of missiles and loitering munitions to overwhelm the Ukrainian air defense systems, which has been depleting Ukraine’s stockpile of surface-to-air missiles at a heavy rate.
+
+Therefore, as recently announced by Ukrainian Defense Minister Oleksii Reznikov, Kyiv is discussing replenishing Ukraine’s stock of S-300 missiles with other countries.
+
+In addition, Ukraine has also been requesting its Western partners to bolster its air defense systems by providing the Ukrainian military with advanced capability. The Franco-Italian SAMP/T happens to be one such weapon system.
+
+In an interview with Le Monde on December 9, Reznikov said: “We are asking for SAMP/Ts and the Franco-Italian Mamba system. The French side reacted positively to our request, but the negotiation is not over with the Italian side.”
+
+The latest announcement by the French ambassador to Ukraine suggests that even Italy is on board now, and the last obstacle has been overcome.
+
+With this, the SAMP/T is all set to join other Western air defense systems already provided to Ukraine, including the German IRIS-T, the Norwegian NASAMS delivered by the US, the Italian Aspide delivered by Spain, or the Mistral and French Crotale NG.
+
+Ukraine may additionally get the American-made Patriot missile defense systems. The American media outlet CNN recently reported citing unnamed US officials, that the Biden administration plans to approve the Patriot system for Ukraine, which Kyiv has aggressively requested.
+
+SAMP/T Missile Defense System
+
+The SAMP/T, also known as MAMBA in the French military, is a theatre anti-missile system manufactured by Eurosam, a 50:50 joint venture between MBDA and Thales.
+
+It is intended to defend the critical fixed assets and deployed troops against all present and potential airborne threats, including cruise missiles, manned and unmanned aircraft, and tactical ballistic missiles.
+
+Also, the SAMP/T can function in areas with heavy electronic countermeasures and extreme clutter.
+
+The SAMP/T was operationally deployed by the French Army and Air Force, as well as the Italian Army, in 2011. The system is interoperable with other NATO air defense systems.
+
+It can be entirely flown by a NATO tactical transport aircraft, such as the Airbus A400M and Lockheed-Martin C-130J Super Hercules.
+
+Two essential parts of the SAMP/T system are the Aster 30 interceptor missile and the Arabel multi-purpose radar.
+
+The Aster 30 missile can travel at a speed of 1.4 kilometers per second and can intercept targets at altitudes from 50 meters to 20 kilometers. It is a two-stage missile in which the booster steers the missile toward the target and separates a few seconds following the launch.
+
+The missile’s maximum range against aircraft targets flying at altitudes above and below three kilometers is 100 kilometers and 50 kilometers, respectively.
+
+Apart from hostile aircraft, the SAMP/T system can engage various missiles, including cruise missiles, stand-off missiles, and anti-radiation missiles.
+
+While the Arabel is a 3D phased array radar developed by Thales that rotates to provide 360-degree coverage, the radar operates at 150kW peak power and has a range of 100 kilometers. It can track up to 100 targets and engage ten simultaneously.
+
+In addition, the SAMP/T system can be used with different long-range radars, such as the Thales GM400 long-range radar, which has a detection range between 300-400 kilometers.
+
+A complete SAMP/T system comprises four launcher vehicles, a Thales Arabel multifunction radar with a friend or foe recognition system, an engagement module based on a command and control (C2) vehicle, and an electric generator mounted on a vehicle.
+
+The launchers are accompanied by two vehicles with hydraulic cranes and trailers carrying extra missiles for reloading.","{'label': 'Neutral', 'score': 0.999545156955719}",neutral,0.999545156955719,0
+Thales Australia wins extension of martime comms deal - APDR - Asia Pacific Defence Reporter,"Tue, 13 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL3RoYWxlcy1hdXN0cmFsaWEtd2lucy1leHRlbnNpb24tb2YtbWFydGltZS1jb21tcy1kZWFsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia has been awarded a contract extension by the Australian Department of Defence for the SEA 1442 Phase 3 program, an Internet Protocol-based Maritime Tactical Wide Area Network (MTWAN) supporting the Royal Australian Navy’s Maritime Communications Modernisation and network centric warfare priorities.
+
+Thales’s MTWAN operates at the critical core of the RAN’s maritime communication systems integration and implementation. The innovative solution involves an integrated IP-based digital environment, interfacing with a range of existing RAN systems. This low-risk approach provides future-proofing through the use of Commercial Off The Shelf components, and reduces through life support costs.
+
+Over the duration of the SEA 1442 Phase 3 program, Thales’s continuous improvement policy and global access to cutting edge technologies has enabled the adoption and implementation of next generation improvements to the system, ensuring the system is future proof, capable of supporting current and future information exchange demands, whilst also ensuring interoperability with joint, coalition and allied systems.
+
+Thales has developed and deployed several major baseline upgrades of MTWAN to support the growing demands of increased bandwidth for deployed forces, diversity of communication bearers and enhanced cyber security of tactical networks at sea. This work has included the integration of additional commercial and military SATCOM systems, Joint Domain networks, and improved bandwidth utilisation tools.
+
+The contract extension is testament to the Thales Australia team’s deep technical know-how delivered by experienced and highly capable Australian-based engineers located at Thales’s Secure Communications Centre of Excellence at Rydalmere in Western Sydney.
+
+Vice President for Digital Systems at Thales Australia & New Zealand, Peter Bull, said “We’ve actively supported the RAN for the last 12 years with the MTWAN system, ensuring this critical capability delivers the security and reliability the RAN requires on operation. We’re proud the Commonwealth has shown confidence in its partnership with Thales Australia by extending this MTWAN support contract even further.”","{'label': 'Positive', 'score': 0.9999988079071045}",positive,0.9999988079071045,1
+UK Authority Delays Hitachi Rail's Acquisition of Thales's GTS Business - railway-news.com,"Fri, 09 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcmFpbHdheS1uZXdzLmNvbS91ay1hdXRob3JpdHktZGVsYXlzLWhpdGFjaGktcmFpbHMtYWNxdWlzaXRpb24tb2YtdGhhbGVzcy1ndHMtYnVzaW5lc3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Hitachi Rail has provided an update on the schedule for its acquisition of Thales’s Ground Transportation Systems (GTS) business.
+
+© Thales
+
+Hitachi Rail’s planned acquisition of Thales’s GTS business was initially announced in August 2021.
+
+The two companies have since been working to secure the required regulatory approvals for the transaction to proceed. To date, they have achieved merger clearances in 9 out of the 13 required jurisdictions.
+
+However, on 9 December, the UK’s Competition and Markets Authority (CMA) announced its intention to open a Phase II review of the transaction.
+
+The in-depth Phase II investigation aims to investigate whether the merger could result in a substantial lessening of competition in the industry.
+
+This decision is being reviewed, but Hitachi Rail states that it is now likely the transaction will close in the second half of 2023, rather than early 2023.
+
+Hitachi Rail is also currently still in discussion with the European Commission’s Directorate-General for Competition (DG Competition) to secure approval of the transaction in the EU.
+
+The two companies believe that the transaction will bring competitive value and will benefit customers in the rail signalling and mobility sectors globally.
+
+Hitachi Rail is consequently disappointed by the impact of the CMA’s decision, but remains committed to working with Thales and all regulatory bodies to ensure the transaction closes as soon as possible.","{'label': 'Neutral', 'score': 0.9994927644729614}",neutral,0.9994927644729614,0
+Ocius wins Australian navy USV deal - Asian Military Review,"Fri, 02 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMjIvMTIvb2NpdXMtd2lucy1hdXN0cmFsaWFuLW5hdnktdXN2LWRlYWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sydney-based Ocius Technologies has won a A$4.9 million contract to deliver five Bluebottle unmanned surface vehicles (USVs) to Royal Australian Navy (RAN) to boost the service’s efforts to advance its unmanned capabilities in the surface and underwater domains.
+
+The deal was announced at the christening ceremony of Bluebottle USVs BARRA (hull number 8) and BOMBARA (hull number 9) held on the sidelines of the company’s Annual General Meeting in in late November.
+
+“Over five years as HNC it has been fantastic being involved with Ocius and seeing Australian technology at the forefront,” said RAN Head of Navy Capability Rear Admiral Peter Quinn.
+
+“Systems like Ocius Bluebottles are really important to our strategy,” he added. “We have vast areas we need to patrol, and we have to and will be investing in uncrewed platforms that will be out there persistently conducting surveillance.”
+
+The Bluebottle USV is a 22 ft solar, wind, and wave-powered vessel centring on a glass-fibre hull and patented lightweight carbon-fibre solar sail and advanced rudder system. The sail automatically retracts in high sea states to ensure the survivability of the USV. According to Ocius Technologies, the USV can also support up to 300 kg of mission equipment and provide a 50 W average payload power for these systems.
+
+The Australian Border Force has also successfully deployed four Bluebottle USVs that have accumulated 23,000 nautical mules of unescorted maritime surveillance patrols off the coast of Western Australia. These are equipped with 360° day/night infrared cameras, radar, and satellite communications.
+
+The Australian Department of Defence (DoD) announced in mid-November that Bluebottle USVs were deployed by the Australian Army to support border and offshore maritime security during Operation Resolute, and also used to support reconnaissance operations with the army’s Regional Force Surveillance Group.
+
+Earlier in May 2022, Ocius and Thales Australia signed a teaming agreement to integrate the latter’s new thin line Fibre Optic Towed Array to the Bluebottle USV for a persistent underwater ISR capability. The effort is known as Blue Sentry.
+
+by Jr Ng","{'label': 'Neutral', 'score': 0.950599193572998}",neutral,0.950599193572998,0
+Rail signalling deal could push up fares for passengers - GOV.UK,"Fri, 09 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvcmFpbC1zaWduYWxsaW5nLWRlYWwtY291bGQtcHVzaC11cC1mYXJlcy1mb3ItcGFzc2VuZ2Vyc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Signalling systems are used across mainline rail and urban metro routes – such as the London Underground – to control the movement of trains, supporting the safety and reliability of services. Hitachi Rail Ltd (Hitachi) and Thales SA’s Ground Transportation Business (Thales) are both large global suppliers of signalling systems for both mainline and urban tracks. Hitachi announced a €1.7 billion deal to acquire the Thales Ground Transportation Business in August 2021.
+
+The supply of mainline signalling in Great Britain is currently undergoing significant change. A recent market study carried out by the Office of Rail and Road (ORR) found that supply of mainline signalling in Great Britain suffered from a lack of competition, with the market essentially being limited to only two suppliers – Siemens and Alstom. ORR made a number of recommendations intended to increase competition from alternative suppliers, such as Hitachi and Thales.
+
+The principal UK customer for mainline signalling, Network Rail is putting in place a new tendering process for its next major signalling procurement (the Train Control Systems Framework) to implement these recommendations. In parallel, the introduction of digital technology will drive one of the most significant modernisation programmes in the nearly 200-year history of Britain’s railway infrastructure.
+
+The Competition and Markets Authority (CMA) is concerned that the deal between Hitachi and Thales could eliminate a credible competitor from the new tendering process for mainline signalling, just when both firms are expected to offer much-needed additional competition.
+
+In urban signalling, Thales has a strong position within the UK market, as the largest provider of Communication Based Train Control (CBTC) signalling projects for Transport for London (TfL) services. While Hitachi has a much smaller position in the UK at present, it is one of a limited number of rivals with the capabilities to challenge Thales for these projects in future.
+
+The resulting loss of competition across both mainline and urban signalling markets could increase costs for Network Rail and TfL and have an adverse knock-on effect on taxpayers and passengers.
+
+Hitachi now has an opportunity to submit proposals to resolve the CMA’s concerns or the deal will face a more thorough Phase 2 investigation.
+
+Colin Raftery, Senior Mergers Director at the CMA, said:
+
+“Network Rail currently spends close to £1 billion annually on mainline rail signalling – and this is expected to increase in future, as equipment needs to be replaced and the UK transitions to digital signalling.
+
+“The cost of signalling, and its critical role in the safe and efficient running of our railways, makes it important that we ensure that future tenders can deliver value for money.
+
+“This deal involves two of the main competitors for future mainline rail and urban metro signalling projects, so the loss of competition could risk higher costs and lower quality services, which would ultimately come at the expense of taxpayers and passengers.”
+
+For more information, visit the Hitachi / Thales case page.
+
+Notes to editors
+
+The Office of Rail and Road published a final report following their market study into rail signalling systems in November 2021. ORR found that UK mainline rail signalling markets are highly consolidated, with high barriers to entry. Further information on the report can also be found in the ORR’s blog.
+
+The CMA’s competition concerns relate to the provision of:
+
+automatic train protection systems compliant with the European Train Control System (ETCS) standard, and interlockings, both of which are installed along mainline railway lines.
+
+operation and control systems, which are IT solutions designed to ensure the overall management of mainline rail networks.
+
+communication Based Train Control (CBTC) metro signalling systems, which are used across London Underground.
+
+Given the use of CBTC signalling systems across all of London’s metro lines, the CMA focused part of its investigation on the capital and how Hitachi and Thales will compete for signalling systems there in the future.
+
+Hitachi and Thales have until 16 December to submit proposals to address the CMA’s competition concerns. The CMA would then have until 23 December to consider whether to accept these in principle or refer the deal for an in-depth phase 2 investigation.
+
+All enquiries from journalists should be directed to the CMA press office by email on press@cma.gov.uk or by phone on 020 3738 6460.
+
+All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.","{'label': 'Neutral', 'score': 0.9685925245285034}",neutral,0.9685925245285034,0
+Defence Industry Minister meets Thales to solve ATC delays - Australian Aviation,"Mon, 05 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXVzdHJhbGlhbmF2aWF0aW9uLmNvbS5hdS8yMDIyLzEyL2RlZmVuY2UtaW5kdXN0cnktbWluaXN0ZXItbWVldHMtdGhhbGVzLXRvLXNvbHZlLWF0Yy1kZWxheXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Defence Industry Minister Pat Conroy has met with Thales Australia and New Zealand CEO, Jeff Connolly, to discuss how they can solve problems with a delayed project to merge both civilian and military air traffic control systems.
+
+Access to our Behind the Lens photo galleries and other exclusive content
+
+Access to In Focus reports every month on our website
+
+Access to our Behind the Lens photo galleries and other exclusive content
+
+Access to In Focus reports every month on our website
+
+Access to In Focus reports every month on our website
+
+To unlock all Australian Aviation magazine content and again unlimited access to our daily news and features, become a member today! A monthly membership is only $5.99 or save with our annual plans.
+
+Keep me signed in on this device
+
+To continue reading the rest of this article, please login.
+
+This content is available exclusively to Australian Aviation members.
+
+The federal government recently relisted the $4.1 billion OneSKY program as a “project of concern” amid what it called “significant schedule, technical and cost challenges”. It’s now reported to be delayed by two years and won’t launch until at least 2025.
+
+“Top-level focus is essential to ensure we put this project on track to deliver a new civil and military air traffic management system for Australia,” said Minister Conroy.
+
+“I thank Jeff Connolly and his senior leadership team for the spirit of cooperation and the constructive ideas they brought to the table today.
+
+== ==
+
+“The government is strongly committed to successful delivery of the CMATS project.”
+
+Minister Conroy said he is confident Thales can address shortcomings.
+
+“The measures we agreed today will strengthen the process and provide leadership of project delivery,” he said.
+
+“I’m pleased to say there is a strong commitment from all parties to move forward on resolving and remediating these complex endeavours.”
+
+The meeting also involved senior Defence, Infrastructure and Airservices Australia officials at the Projects of Concern Summit in Canberra — the first since 2020.
+
+In October, Australian Aviation reported how the Albanese government said it found that at least 28 projects are behind schedule by a cumulative 97 years, while 18 were also over budget. It claimed the blowout in costs reached $6.5 billion and pledged a raft of reforms to stop future complications.
+
+In particular, Labor highlighted the Spartan’s inability to land on battlefields as an example of mismanagement of Defence projects by the previous Liberal federal government.
+
+Australia currently has 10 Spartans operated by No. 35 Squadron from RAAF Base Amberley, which now focuses on peacetime operations such as search and rescue and aeromedical operations.
+
+The RAAF initially bought the aircraft as a replacement for the Caribou, to fit in between the Chinook and larger Hercules and C-17 Globemaster.
+
+Despite the first arriving in 2015, problems with its electronic self-protection system, designed to keep it safe under fire, mean it still has not achieved Final Operational Capability (FOC).
+
+Air Vice-Marshal Catherine Roberts, who previously headed air force capability, said in 2019, “The C-27J program has been challenging and … there have been significant delays in terms of achieving the capability outcomes that were originally determined.”
+
+However, she argued that the aircraft would still play a “significant role” in Australia’s defence capabilities.
+
+Last year, Defence acquired four more Chinooks to bolster its capability in battlefields. The RAAF also looks set to purchase 24 new versions of the Hercules for up to $10 billion to replace its ageing fleet of the iconic aircraft.
+
+Other programs of concern listed by Labor included:
+
+$44 billion Hunter Class Frigate program — construction delayed by four years and expected cost is $15 billion higher than initially anticipated
+
+$3.7 billion Offshore Patrol Vessel project — running one year behind schedule
+
+$356 million Evolved Cape Class patrol boats — running nearly a year behind schedule
+
+$970 million Battlefield Command System — three years behind schedule
+
+According to the Albanese government, these “significant and systemic issues” are the result of mismanagement from the former Morrison government.
+
+“Money was being flushed down the toilet while the former government regaled in how much they were spending on defence,” Deputy Prime Minister and Minister for Defence Richard Marles said.
+
+“We face the most challenging strategic circumstances since the Second World War — this, along with the serious pressures facing the economy mean we need to be more responsible about how we manage critical projects, particularly as we reach record spending within Defence as a per cent of GDP.
+
+“It’s not as though we can go onto the battlefield and overwhelm our adversary by waving a copy of the budget papers in their face.”","{'label': 'Neutral', 'score': 0.989297091960907}",neutral,0.989297091960907,0
+"New Belfast weapons contract a testament of success in the Ukraine war, says Ulster University economist - Belfast Telegraph","Wed, 21 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5iZWxmYXN0dGVsZWdyYXBoLmNvLnVrL2J1c2luZXNzL25ldy1iZWxmYXN0LXdlYXBvbnMtY29udHJhY3QtYS10ZXN0YW1lbnQtb2Ytc3VjY2Vzcy1pbi10aGUtdWtyYWluZS13YXItc2F5cy11bHN0ZXItdW5pdmVyc2l0eS1lY29ub21pc3QvNDIyMzY2MzQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A Belfast weapons factory’s $280m contract to produce anti-tank weapons is a testament to success in the Ukraine war, a senior economist at Ulster University has said.
+
+Thales in Belfast has received the contract to produce anti-tank missiles for the British Army.
+
+Speaking following the announcement, Dr Esmond Birnie said: “It is too early to say that the Saab/Thales NLAW light anti-tank missile system won the war for Ukraine against the Russian invasion but Wednesday’s news that the UK Ministry of Defence is to buy $280m of those missiles during 2024-26 is evidence of that weapon’s effectiveness”.
+
+“The NLAW represents a large part of the roughly 10,000 anti-tank weapons that the UK has donated to help Ukraine defend itself. So, it was always likely that a large order would be coming to Belfast to replenish the stocks which had been run down here in the UK”, he continued.
+
+It follows a recent announcement from the Ministry of Defence (MoD) around future anti-tank missile provision.
+
+Thales in Belfast has been awarded a contract to produce a further batch of NLAW effectors (Next generation Light Anti-tank Weapon).
+
+Saab’s NLAW is a shoulder-launched missile system that attacks a tank from above.
+
+It combines the simplicity of light anti-armour weapons with the advantages of heavy, crew-operated guided missile systems, and allows a single soldier to take out a heavily protected modern main battle tank at ranges between 20 and 800 metres.
+
+The NLAW has played an important role in Ukraine’s defence capacities, making up part of the 10,000 anti-tank weapons the United Kingdom has supplied to the Ukrainian armed forces.
+
+Thales Belfast has provided the final assembly of NLAW on behalf of Saab since 2008.
+
+The site is also home to the Thales STARStreak and Lightweight Multi role Missile (LMM) both of which have also been central to the UK’s support to Ukraine.
+
+A STARStreak LML-NG (Lightweight Multiple Launcher – Next Generation) missile system (left) and Starstreak LML (Lightweight Multiple Launcher) missile system (right) on display at Thales weapons manufacturer in Belfast (Liam McBurney/PA)
+
+More than 600 people from the region are employed in the plant which has in recent years secured contracts worth hundreds of millions from the MoD and in export contributing significantly to the economy of Northern Ireland and the UK.
+
+Philip McBride, managing director of Thales Belfast said, welcomed the announcement on Wednesday.
+
+“I am delighted to receive this contract today cementing our long standing relationship with Saab,” he said.
+
+“It is yet another vote of confidence in the talent of our workforce here at Thales Belfast.
+
+“Once again, Northern Ireland is demonstrating its significant role in the UK defence enterprise.
+
+“We are proud to continue to provide skilled manufacturing and engineering jobs.”
+
+Dean Rosenfield, group managing director of Saab UK, added: “We are pleased to be able maintain our close bond between Thales and Saab which has been a good working relationship for many years.
+
+“I have seen first-hand the expertise and enthusiasm of the workforce in Belfast and their seamless integration with Saab’s NLAW team, so I look forward to seeing this continue as part of the contract.”
+
+East Belfast MP Gavin Robinson also welcomed the announcement.
+
+“This is not just a very welcome and significant order for Thales and its workforce in Belfast, but represents how Northern Ireland has played a direct role in protecting the people of Ukraine,” he said.
+
+“These NLAW missiles have been vital in the defensive effort against Russia’s illegal invasion.
+
+“East Belfast is at the heart of our security and defence industry and companies such as Thales have skills and expertise that are world leading.
+
+“I hope that we will continue to see investment from the Government that will not just strengthen our defence capabilities, but also see direct benefits to companies across all parts of the United Kingdom, including Belfast.”","{'label': 'Positive', 'score': 0.9612999558448792}",positive,0.9612999558448792,1
+Underwater crawler to reduce mine risks - Mirage News,"Fri, 23 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL3VuZGVyd2F0ZXItY3Jhd2xlci10by1yZWR1Y2UtbWluZS1yaXNrcy05MjIxNDUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A mine-clearance underwater crawler developed by Flinders University was amongst newly developed technologies demonstrated as part of a national 'Mine Counter Measures in a Day' Project.
+
+Teams from Thales Australia, Defence Science Technology (DST) Group, Flinders University, University of Sydney (USyd), University of Technology Sydney(UTS), Western Sydney University (WSU) and Australian firms Mission Systems and Ineni Realtime descended on Christies Beach to demonstrate capabilities of a range of novel defence equipment.
+
+'Mine Counter-Measures (MCM) in a Day' is a 3.5-year, $15 million program funded jointly by the Trusted Autonomous Defence CRC, Navy and Thales Underwater Systems Australia. The application is to use uncrewed underwater vehicles to look for mines, unexploded ordnance and other hazards at sea to reduce the threat they pose to our shipping and defence forces.
+
+The project will design, develop, test, and evaluate various teams of Autonomous Underwater Vehicle (AUV) swarms and Autonomous Surface/Subsurface Vessels (ASVs) to provide an autonomous mine clearance capability that operates in the amphibious zone close to shore.
+
+The amphibious zone, also termed 'the littoral environment,' is notoriously complex to navigate when searching for underwater mines. The system must overcome tides, waves and currents and be equipped to work in a low visibility and low communications environment. The MCM In a Day project, will eventually seek to supplement current practices, that utilise the expertise of Navy Clearance Divers in exploratory Rapid Environmental Assessment (REA) of the area.
+
+Flinders' Centre for Defence Engineering Research and Training (CDERT) Director Professor Karl Sammut says the Subsea Crawler vehicle was designed by the team at CDERT and built in collaboration with German partner, iSeaMC with the aim of protecting lives. The CDERT team also includes Assoc. Prof. Russell Brinkworth, Dr. Phil Skelton and Dr. Aaron Melville-Smith.
+
+'Most demining activities are usually conducted with specialised clearance vessels in deeper waters while divers are still required to investigate and clear threats in the relatively shallow and turbulent waters of the surf zone where the wave action and turbidity is significant, putting clearance divers at risk. This project is specifically targeted at addressing this problem and reducing risk to human life,' Professor Sammut says.
+
+'Thales is the lead organisation managing the collaboration between the partners, each making a unique contribution. Flinders is working on the Subsea Crawler, USyd are developing a hovering autonomous underwater vehicle, Mission Systems is creating a small surface vehicle to operate in the surf zone, UTS is developing the mission planning software for the swarm of vehicles, and INENI and UWS are bringing together the Human-Machine Interface software for operators to observe and manage the team of vehicles remotely.'
+
+'It's been an excellent collaboration that demonstrates what can truly be achieved when you bring industry and academia together with defence partners to work on a large project. The Thales team have done an outstanding job in working with all the partners. During October and November, all the partners met up in person in our Maritime Lab at Flinders University to integrate their respective systems together culminating in combined trials at Christies Beach in late November.
+
+'This project has built on our expertise in maritime autonomy, and it's given us an invaluable opportunity to work with other excellent partners' Professor Sammut says.
+
+John Best, Thales Australia's Chief Technical Officer, was present at the demonstration, and noted the step-change this capability will provide to the Royal Australian Navy (RAN).
+
+'This project will utilise technology to transform high risk, and labour-intensive activities and accelerate amphibious zone mine clearance. By reducing the time it takes to clear a landing zone, while also gathering and analysing mission critical environmental data, personnel safety will be enhanced, as will the gathering of operational intelligence.'
+
+Richard Price, Defence SA Chief Executive, said the project was a great example of the benefits that collaboration brings.
+
+""Collaboration is vital for innovation and the development of this cutting-edge defence technology is a great example of what can be achieved when universities and industry work closely with Defence to co-design solutions to increasingly complex challenges.
+
+""South Australia has a long history of success in defence research and development and this latest demonstration showcases our strength as a critical testbed for defence technologies.""
+
+This project is a true reflection of collaboration between defence, academia and industry as well as a demonstration of sovereign capability. The majority of the equipment has been developed in country or brought in on specification and then modified to support the unique Australian conditions. There is total sovereign control over all software and hardware elements of the project.
+
+The demonstration at Christies Beach marks an important milestone for the project which is in its 2nd year, with further development and demonstration work to continue during 2023 until project completion early 2024.","{'label': 'Neutral', 'score': 0.9999955892562866}",neutral,0.9999955892562866,0
+Australia's HB11 Energy aims for laser fusion energy - @AuManufacturing,"Fri, 16 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmF1bWFudWZhY3R1cmluZy5jb20uYXUvYXVzdHJhbGlhcy1oYjExLWVuZXJneS1haW1zLWZvci1sYXNlci1mdXNpb24tZW5lcmd50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Australia’s first laser fusion energy company HB11 Energy has brought together global laser technology leaders including Nobel prize winners, aiming to develop a new Australian laser industry and develop laser fusion technologies.
+
+The group (pictured) plan an ultra high intensity petawatt-class laser facility on Australian soil, bringing new technologies to the country including clean fusion energy generation, sovereign advanced manufacturing capability, and Ultrashort & Short Pulse Laser (USPL) education and talent.
+
+HB11 Energy has brought together engineering multinational Thales Group, Japan’s first-ever laser fusion company EX-Fusion, the University of Adelaide, long-time global leaders in high-energy laser science the Institute of Laser Engineering Osaka University, engineering firm BECA and laser component manufacturer Southern Photonics.
+
+Also included are Nobel Prize winner Professor Donna Strickland, who invented the technology to reach high powers, HB11 Energy co-founder Professor Heinrich Hora who has worked in the field of laser fusion since the 1960s and CEO of Southern Photonics Professor John Harvey.
+
+It was a South Australian, Sir Mark Oliphant who demonstrated nuclear fusion by splitting the atom in 1931 – he later went on help develop radar and to participate in the Manhattan Project which created the world’s first atomic bomb.
+
+The goals of the coalition are to:
+
+Achieve Australian petawatt laser capability, as an internationally significant research infrastructure investment
+
+Build the partners’ capabilities for participation in large scientific partnerships, including public-private-partnerships (PPPs) for laser fusion energy
+
+Develop applications for Ultrashort & Short Pulse Laser (USPL) systems, including directed energy and laser fusion for clean energy generation
+
+Identify laser design, engineering, and development opportunities as a focus for investment, and acquire an Australian petawatt laser
+
+And establish a local sovereign advanced manufacturing industry for key components of USPL systems; and
+
+Build a workforce of experts in USPL science, design, and manufacture as a foundation to grow the emerging industry.
+
+Founder and Managing Director of HB11 Dr Warren McKenzie said: “Australia needs a large-scale solution as it phases out its legacy energy systems and embraces clean energy.
+
+“This is exactly what fusion energy can provide: clean energy that does not use any radioactive fuels and does not generate radioactive waste.
+
+“It has the scale of a nuclear reactor and the safety of traditional renewable sources, while also generating electricity directly, without the requirement of a steam-cycle.”
+
+VP Strategy of Thales Australia Gary Dawson said Thales had a global commitment to support the development of clean energy solutions and is a long-term investor in advanced technology research in Australia.
+
+Dawson said: “The ultra-short-pulse and high-peak-power laser technology developed and manufactured by Thales is critical for this coalition, and we are excited to be working with this international team at the cutting edge of fusion energy research.”
+
+Currently there are 71 ultra-high intensity laser facilities in the world but, despite Australia being prominent in laser science and technology, there are none in the southern hemisphere including Australia.
+
+McKenzie said: “Recent breakthroughs have propelled laser-based fusion to the front of the global race towards this holy-grail of energy generation.
+
+“However, the lack of lasers capable of performing fusion experiments is the primary bottle-neck limiting progress globally.
+
+“This presents an opportunity for Australia to develop the next-generation of purpose-built laser systems and advanced manufacturing.”
+
+Picture: HB11 Energy/Signatories to the coalition of world leaders interested in establishing a sovereign high-power laser industry: (1) University of Adelaide: Prof. Anton Middleberg, Deputy Vice Chancellor of Research, University of Adelaide (seated), with leader of the Ultra-Short-Pulse Laser (USPL) Group, Miftar Gunja (2) HB11 Energy: Dr. Warren McKenzie, Founder Managing Director of HB11 Energy, with co-founder and Scientific Director Prof. Heinrich Hora and Lead Scientist of Experimental Physics, A/Prof. Sergey Pikuz (3) BECA: David Barter, Director of Defence (4) Southern Photonics: Prof. John Harvey, CEO (5) Thales Australia and Thales LAS France SAS: Alan Stevenson and Anne Munroe (not photographed) (6) EX-Fusion (Japan): Mack Wilson and Koichi Masuda (7) Macquarie University: Prof. Alex Fuerbach (not photographed). We were also joined by Prof. Keisuke Shingemori, Deputy Director of Institute for Laser Energetics, Osaka University (Japan).","{'label': 'Neutral', 'score': 0.9997038245201111}",neutral,0.9997038245201111,0
+Egypt looks forward to boosting cooperation with French companies: Sisi - Foreign Affairs - Egypt - Ahram Online,"Sun, 11 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMihAFodHRwczovL2VuZ2xpc2guYWhyYW0ub3JnLmVnL05ld3NDb250ZW50LzEvMTIzNC80ODI0NDQvRWd5cHQvRm9yZWlnbi1BZmZhaXJzL0VneXB0LWxvb2tzLWZvcndhcmQtdG8tYm9vc3RpbmctY29vcGVyYXRpb24td2l0aC1GLmFzcHjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"President Abdel-Fattah El-Sisi said on Sunday that Egypt looks forward to continuing and boosting cooperation with French companies operating in the country, especially the French giant technology group Thales.
+
+Sisi's remarks came during a meeting in Cairo with Patrice Caine, Chairman and Chief Executive Officer of Thales, a global technology leader that invests in digital and artificial intelligence, connectivity, cybersecurity and quantum technology, with thousands of employees in five continents.
+
+According to a statement by Presidential Spokesman Bassam Rady, the president hailed the “distinguished cooperation” between Egypt and France, laying emphasis on the activities of French companies operating in Egypt and their contribution to the development process.
+
+El-Sisi discussed with Caine the prospects of cooperation between the French company, the Arab International Optronics, and Benha Electronics Company in the fields of optics, electronics and cyber security, added the statement.
+
+As part of the desired cooperation with Thales, the president directed to train and qualify young engineers in the areas of optics and electronics.
+
+During the meeting, Thales chairman said the French group is keen to promote cooperation with Egypt on localizing the optics industry, according to the statement.
+
+In June, Thales and its partners, Orascom Construction and Colas Rail, were awarded a contract to design, supply, deploy, and maintain for two years the first phase of Metro Line 4.
+
+The contract includes providing the advanced and integrated digital solutions for telecommunications, centralised control, and ticketing system of phase one.
+
+As many as 168 French companies are operating in Egypt, employing tens of thousands of workers.
+
+France has €4.6 billion in investments in infrastructure projects in Egypt, including the provision of €800 million in government loans, €1 billion from the French Development Agency, and €2 billion in bank loans guaranteed by the French state.
+
+Trade between Egypt and France amounted to $1.83 billion in 2021.
+
+In May, Egypt and France signed an agreement to manufacture 55 air-conditioned trains for Cairo Metro Line One and provide maintenance work for them for eight years. France’s Alstom Co. will implement the project, which will cost €776.9 million.
+
+In June 2021, Egypt and France also signed €1.7 billion worth of deals to fund projects in the fields of transport, housing, electricity, education and wholesale markets.
+
+Search Keywords:
+
+Short link:
+
+","{'label': 'Neutral', 'score': 0.999990701675415}",neutral,0.999990701675415,0
+Hitachi Rail provides an update on the schedule regarding the acquisition of Thales's Ground Transportation Systems ... - Mynewsdesk,"Fri, 09 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiwwFodHRwczovL3d3dy5teW5ld3NkZXNrLmNvbS91ay9oaXRhY2hpLXJhaWwtZ2xvYmFsL3ByZXNzcmVsZWFzZXMvaGl0YWNoaS1yYWlsLXByb3ZpZGVzLWFuLXVwZGF0ZS1vbi10aGUtc2NoZWR1bGUtcmVnYXJkaW5nLXRoZS1hY3F1aXNpdGlvbi1vZi10aGFsZXNzLWdyb3VuZC10cmFuc3BvcnRhdGlvbi1zeXN0ZW1zLWJ1c2luZXNzLTMyMjI2OTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Hitachi Rail’s planned acquisition of Thales’s Ground Transportation Systems (GTS) business was announced in August 2021. Since that time, Hitachi Rail and Thales have been making steady progress towards securing the regulatory approvals necessary for the transaction to proceed, including achieving merger clearances in 9 out of the 13 required jurisdictions. Hitachi Rail is currently in discussion with the European Commission’s Directorate-General for Competition (DG Competition) with a view to securing approval of the transaction in the EU.
+
+
+
+On 9 December, the UK’s Competition and Markets Authority (CMA) announced its intention to open a “Phase II” review of the transaction. The parties are reviewing the decision, but as a result it is now likely that the closing of the transaction will occur in the second half of 2023, instead of early 2023.
+
+
+
+Hitachi Rail and Thales strongly believes in the competitive benefits of the transaction, which will deliver value for customers in the rail signalling and mobility sectors in the UK, Europe and globally. Despite being disappointed by the impact of the CMA's decision on the timeline, Hitachi Rail remains committed to working with Thales and all regulatory bodies to ensure the successful close of the transaction as soon as possible.
+
+
+
+For more information, please contact: Ed Brown on ed.brown@hitachirail.com or +44 7850 071 287","{'label': 'Neutral', 'score': 0.9093742370605469}",neutral,0.9093742370605469,0
+Belfast weapons factory receives contract to produce anti-tank missiles - Jersey Evening Post,"Wed, 21 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL2plcnNleWV2ZW5pbmdwb3N0LmNvbS9tb3JlbmV3cy91a25ld3MvMjAyMi8xMi8yMS9iZWxmYXN0LXdlYXBvbnMtZmFjdG9yeS1yZWNlaXZlcy1jb250cmFjdC10by1wcm9kdWNlLWFudGktdGFuay1taXNzaWxlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A Belfast weapons factory has received a contract to produce anti-tank missiles for the British Army.
+
+It follows a recent announcement from the Ministry of Defence (MoD) around future anti-tank missile provision.
+
+Thales in Belfast has been awarded a contract to produce a further batch of NLAW effectors (Next generation Light Anti-tank Weapon).
+
+Saab’s NLAW is a shoulder-launched missile system that attacks a tank from above.
+
+Engineers at the Thales Belfast factory assembly line where the final assembly of the NLAW takes place (Thales/PA)
+
+The NLAW has played an important role in Ukraine’s defence capacities, making up part of the 10,000 anti-tank weapons the United Kingdom has supplied to the Ukrainian armed forces.
+
+Thales Belfast has provided the final assembly of NLAW on behalf of Saab since 2008.
+
+The site is also home to the Thales STARStreak and Lightweight Multi role Missile (LMM) both of which have also been central to the UK’s support to Ukraine.
+
+A STARStreak LML-NG (Lightweight Multiple Launcher – Next Generation) missile system (left) and Starstreak LML (Lightweight Multiple Launcher) missile system (right) on display at Thales weapons manufacturer in Belfast (Liam McBurney/PA)
+
+Philip McBride, managing director of Thales Belfast said, welcomed the announcement on Wednesday.
+
+“I am delighted to receive this contract today cementing our long standing relationship with Saab,” he said.
+
+“It is yet another vote of confidence in the talent of our workforce here at Thales Belfast.
+
+“Once again, Northern Ireland is demonstrating its significant role in the UK defence enterprise.
+
+“We are proud to continue to provide skilled manufacturing and engineering jobs.”
+
+Dean Rosenfield, group managing director of Saab UK, added: “We are pleased to be able maintain our close bond between Thales and Saab which has been a good working relationship for many years.
+
+“I have seen first-hand the expertise and enthusiasm of the workforce in Belfast and their seamless integration with Saab’s NLAW team, so I look forward to seeing this continue as part of the contract.”
+
+East Belfast MP Gavin Robinson welcomed the announcement.
+
+“This is not just a very welcome and significant order for Thales and its workforce in Belfast, but represents how Northern Ireland has played a direct role in protecting the people of Ukraine,” he said.
+
+“These NLAW missiles have been vital in the defensive effort against Russia’s illegal invasion.
+
+“East Belfast is at the heart of our security and defence industry and companies such as Thales have skills and expertise that are world leading.
+
+“I hope that we will continue to see investment from the Government that will not just strengthen our defence capabilities, but also see direct benefits to companies across all parts of the United Kingdom, including Belfast.”","{'label': 'Neutral', 'score': 0.9996509552001953}",neutral,0.9996509552001953,0
+Minister Ghita Mezzour signs a MoU about MAD 350 million invetments in Cybersecurity - الأصالة والمعاصرة,"Fri, 23 Dec 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vcGFtLm1hL2VuL2luZGV4LnBocC8yMDIyLzEyLzIzL21pbmlzdGVyLWdoaXRhLW1lenpvdXItc2lnbnMtYS1tb3UtYWJvdXQtbWFkLTM1MC1taWxsaW9uLWludmV0bWVudHMtaW4tY3liZXJzZWN1cml0eS_SAYABaHR0cHM6Ly9wYW0ubWEvZW4vaW5kZXgucGhwL2FtcC8yMDIyLzEyLzIzL21pbmlzdGVyLWdoaXRhLW1lenpvdXItc2lnbnMtYS1tb3UtYWJvdXQtbWFkLTM1MC1taWxsaW9uLWludmV0bWVudHMtaW4tY3liZXJzZWN1cml0eS8?oc=5&hl=en-US&gl=US&ceid=US:en,"Minister of Digital Transition and Administration Reform, Mrs. Ghita Mezzour, presided last Thursday, December 22, 2022 at her Department office in Rabat over the signing ceremony of a MoU about an investment project in off-shoring.
+
+The MoU, signed with “Thales” group, is aimed at investing more than MAD 350 million in the cybersecurity, through the creation of a “Near-shoring” center to serve “Thales” customers at the international level, the fact which will create about 150 direct jobs opportunities of added value.
+
+This MoU has come in harmony with the Moroccan Kingdom willingness to upgrade investments dynamism, in accordance with His Majesty King Mohammed VI’s supreme vision expressed in his royal speech on the occasion of the opening fall session of Parliament last October underlining that our county is betting today on productive investments as a fundamental leverage for economic recovery and achieve Morocco’s integration in promising sectors susceptible to create jobs opportunities and funding for different social and development programs.
+
+Minister Mezzour, in her statement on the occasion, has confirmed that this off-shoring center is part of several major projects launched by Morocco, and precisely by the Ministry of Digital Transition and Administration Reform over this year to make of the Moroccan Kingdom one of the most competitive countries in the regions in terms of off-shoring services.
+
+According to Minister Mezzour, the signing of this MoU will help create 146 direct jobs opportunities of added value in cybersecurity to be added to other investments so that the total of jobs opportunities in the Moroccan Kingdom in this sector reached since November 2021 more than 15.800 direct jobs with a overall investment amount estimated at MAD 1.10 billion.","{'label': 'Neutral', 'score': 0.9999500513076782}",neutral,0.9999500513076782,0

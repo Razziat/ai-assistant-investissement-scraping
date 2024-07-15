@@ -1,0 +1,150 @@
+2024-04-17 15:57:37,856: asyncio: INFO: [ETFTrader] Executing the initialize lifecycle method
+2024-04-17 15:57:40,786: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 15:57:40,786: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 15:57:40,786: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 15:57:40,802: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 15:57:40,802: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:40[0m
+2024-04-17 15:57:40,802: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:41,820: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:47,283: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:47[0m
+2024-04-17 15:57:47,293: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:47,294: root: INFO: Current backtesting datetime 2023-01-03 16:00:00-05:00
+2024-04-17 15:57:47,294: root: INFO: Current backtesting datetime 2023-01-04 09:30:00-05:00
+2024-04-17 15:57:47,294: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:47[0m
+2024-04-17 15:57:47,294: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:47,294: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:48,879: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:48[0m
+2024-04-17 15:57:48,883: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:48,883: root: INFO: Current backtesting datetime 2023-01-04 16:00:00-05:00
+2024-04-17 15:57:48,883: root: INFO: Current backtesting datetime 2023-01-05 09:30:00-05:00
+2024-04-17 15:57:48,883: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:48[0m
+2024-04-17 15:57:48,883: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:48,883: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:50,303: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:50[0m
+2024-04-17 15:57:50,303: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:50,303: root: INFO: Current backtesting datetime 2023-01-05 16:00:00-05:00
+2024-04-17 15:57:50,303: root: INFO: Current backtesting datetime 2023-01-06 09:30:00-05:00
+2024-04-17 15:57:50,303: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:50[0m
+2024-04-17 15:57:50,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:50,313: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:51,790: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:51[0m
+2024-04-17 15:57:51,790: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:51,792: root: INFO: Current backtesting datetime 2023-01-06 16:00:00-05:00
+2024-04-17 15:57:51,792: root: INFO: Current backtesting datetime 2023-01-07 09:30:00-05:00
+2024-04-17 15:57:51,792: asyncio: INFO: [ETFTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-04-17 15:57:51,792: root: INFO: Current backtesting datetime 2023-01-07 09:29:00-05:00
+2024-04-17 15:57:51,792: root: INFO: Current backtesting datetime 2023-01-07 09:29:00-05:00
+2024-04-17 15:57:51,792: asyncio: INFO: [ETFTrader] Executing the after_market_closes lifecycle method
+2024-04-17 15:57:51,792: root: INFO: Current backtesting datetime 2023-01-09 08:30:00-05:00
+2024-04-17 15:57:51,792: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 15:57:51,802: root: INFO: Current backtesting datetime 2023-01-09 09:30:00-05:00
+2024-04-17 15:57:51,802: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 15:57:51,806: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:51[0m
+2024-04-17 15:57:51,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:51,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:54,208: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:54[0m
+2024-04-17 15:57:54,208: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:54,215: root: INFO: Current backtesting datetime 2023-01-09 16:00:00-05:00
+2024-04-17 15:57:54,215: root: INFO: Current backtesting datetime 2023-01-10 09:30:00-05:00
+2024-04-17 15:57:54,215: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:54[0m
+2024-04-17 15:57:54,215: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:54,215: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:57,383: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:57[0m
+2024-04-17 15:57:57,383: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:57,383: root: INFO: Current backtesting datetime 2023-01-10 16:00:00-05:00
+2024-04-17 15:57:57,383: root: INFO: Current backtesting datetime 2023-01-11 09:30:00-05:00
+2024-04-17 15:57:57,394: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:57[0m
+2024-04-17 15:57:57,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:57,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:59,332: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:57:59[0m
+2024-04-17 15:57:59,337: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:57:59,337: root: INFO: Current backtesting datetime 2023-01-11 16:00:00-05:00
+2024-04-17 15:57:59,337: root: INFO: Current backtesting datetime 2023-01-12 09:30:00-05:00
+2024-04-17 15:57:59,337: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:57:59[0m
+2024-04-17 15:57:59,337: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:57:59,337: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:00,555: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:58:00[0m
+2024-04-17 15:58:00,555: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:58:00,555: root: INFO: Current backtesting datetime 2023-01-12 16:00:00-05:00
+2024-04-17 15:58:00,565: root: INFO: Current backtesting datetime 2023-01-13 09:30:00-05:00
+2024-04-17 15:58:00,566: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:58:00[0m
+2024-04-17 15:58:00,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:00,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:02,178: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:58:02[0m
+2024-04-17 15:58:02,178: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:58:02,178: root: INFO: Current backtesting datetime 2023-01-13 16:00:00-05:00
+2024-04-17 15:58:02,178: root: INFO: Current backtesting datetime 2023-01-14 09:30:00-05:00
+2024-04-17 15:58:02,185: asyncio: INFO: [ETFTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-04-17 15:58:02,185: root: INFO: Current backtesting datetime 2023-01-14 09:29:00-05:00
+2024-04-17 15:58:02,185: root: INFO: Current backtesting datetime 2023-01-14 09:29:00-05:00
+2024-04-17 15:58:02,185: asyncio: INFO: [ETFTrader] Executing the after_market_closes lifecycle method
+2024-04-17 15:58:02,185: root: INFO: Current backtesting datetime 2023-01-17 08:30:00-05:00
+2024-04-17 15:58:02,185: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 15:58:02,185: root: INFO: Current backtesting datetime 2023-01-17 09:30:00-05:00
+2024-04-17 15:58:02,185: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 15:58:02,194: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:58:02[0m
+2024-04-17 15:58:02,194: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:02,195: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:03,373: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:58:03[0m
+2024-04-17 15:58:03,378: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:58:03,378: root: INFO: Current backtesting datetime 2023-01-17 16:00:00-05:00
+2024-04-17 15:58:03,378: root: INFO: Current backtesting datetime 2023-01-18 09:30:00-05:00
+2024-04-17 15:58:03,383: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:58:03[0m
+2024-04-17 15:58:03,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:03,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:05,195: asyncio: INFO: [ETFTrader] [34mTrading iteration ended at 2024-04-17 15:58:05[0m
+2024-04-17 15:58:05,195: asyncio: INFO: [ETFTrader] [34mSleeping for 86400 seconds[0m
+2024-04-17 15:58:05,195: root: INFO: Current backtesting datetime 2023-01-18 16:00:00-05:00
+2024-04-17 15:58:05,202: root: INFO: Current backtesting datetime 2023-01-19 09:30:00-05:00
+2024-04-17 15:58:05,202: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 15:58:05[0m
+2024-04-17 15:58:05,202: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:05,205: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 15:58:06,570: asyncio: ERROR: [ETFTrader] 'MACD_12_26_9'
+2024-04-17 15:58:06,706: asyncio: ERROR: [ETFTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'MACD_12_26_9'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 88, in on_trading_iteration
+    elif sentiment == "negative" and probability > 0.80 and macd['MACD_12_26_9'].iloc[-1] < macd['MACDs_12_26_9'].iloc[-1] and rsi['RSI_14'].iloc[-1] > 30:
+                                                            ~~~~^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'MACD_12_26_9'
+
+2024-04-17 15:58:06,706: asyncio: INFO: [ETFTrader] Executing the on_bot_crash event method
+2024-04-17 15:58:07,549: root: INFO: Backtesting finished
+2024-04-17 15:58:07,880: root: INFO: There were no trades in this backtest.
+2024-04-17 15:58:08,455: root: ERROR: Not enough data to create a tearsheet, at least 2 days of data are required. Skipping
+2024-04-17 15:58:08,455: backtest_stats: INFO: Backtest took 0:00:30.614590 for a speed of 0.000

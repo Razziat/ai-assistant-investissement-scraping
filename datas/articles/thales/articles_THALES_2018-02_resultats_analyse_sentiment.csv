@@ -1,0 +1,662 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+New Thales Alenia Space antenna reflector is qualified - Thales,"Mon, 05 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9uZXctdGhhbGVzLWFsZW5pYS1zcGFjZS1hbnRlbm5hLXJlZmxlY3Rvci1xdWFsaWZpZWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"It’s official! A new deployable antenna reflector was qualified at the end of last year by Thales Alenia Space’s plant in Toulouse, southwest France. Designed for the company’s future communications satellites, especially the Spacebus NEO product line, this new antenna reflector is 2.6 meters in diameter and features a highly standardized design. It will also adapt perfectly to changing geostationary telecom mission requirements.
+
+In particular, this new reflector concept calls on composite materials, as well as metallic parts made using the additive manufacturing (3D printing) process. It incorporates about one hundred advanced titanium inserts, allowing the reflector to be assembled in just one week: a first in Europe! In terms of performance, it offers very high geometric stability in geostationary orbit, which means that it is well suited to telecom missions in Ku and Ka band, as well as the highly demanding Q/V band.
+
+Thales Alenia Space’s new antenna reflector was developed and produced by a multidisciplinary team, who employed the “Open Innovation” model. It had to combine very competitive economics with technical performance on a par with “best in class”. The team involved needed just a year to develop this product. Combining performance and competitiveness, it perfectly matches the needs of today’s telecom operators, also allowing them to speed up time-to-market for their satellites.
+
+The first flight models of this new deployable antenna reflector are now in production at Thales Alenia Space’s plant in Toulouse. It will be used for the first time next year on a geostationary communications satellite.
+
+Copyrights:
+
+Artistic view: © Thales Alenia Space/Master Image Programmes
+
+Photos: © Thales Alenia Space","{'label': 'Neutral', 'score': 0.9996446371078491}",neutral,0.9996446371078491,0
+Thales to develop sonar system for new French sub - UPI News,"Thu, 08 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTgvMDIvMDgvVGhhbGVzLXRvLWRldmVsb3Atc29uYXItc3lzdGVtLWZvci1uZXctRnJlbmNoLXN1Yi83ODQxNTE4MTIwNzYwL9IBcGh0dHBzOi8vd3d3LnVwaS5jb20vYW1wL0RlZmVuc2UtTmV3cy8yMDE4LzAyLzA4L1RoYWxlcy10by1kZXZlbG9wLXNvbmFyLXN5c3RlbS1mb3ItbmV3LUZyZW5jaC1zdWIvNzg0MTUxODEyMDc2MC8?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales received a 42-month contract to develop a sonar system for France's planned third-generation nuclear-powered ballistic missile submarine. Photo courtesy of Thales
+
+Feb. 8 (UPI) -- France has awarded Thales a 42-month contract to complete design of a sonar system for the country's third-generation nuclear-powered ballistic missile submarine. Two years ago, Thales was awarded a contract by France to develop the linear antenna towed based on optical technology. Advertisement
+
+Thales said in a release the technology is building on advances in algorithms and the digital revolution in a large antenna system and related processing capabilities.
+
+Thales said the program consolidates its leadership in underwater systems and expands the company's involvement in major French naval defense programs, including the SNLE second-generation nuclear-powered ballistic missile submarines, Rubis and Barracuda class nuclear-powered attack submarines, FREMM multi-mission frigates, the ATL2 maritime patrol aircraft upgrade and the SLAM-F mine countermeasures program.
+
+In late 2014, the French Ministry of Defense announced research on third-generation submarines, which would eventually replace the four Le Triomphant-class submarines starting in 2035.
+
+Thales is a French-based company that designs and builds electrical systems and provides services for the aerospace, defense, transportation and security markets.","{'label': 'Neutral', 'score': 0.7099098563194275}",neutral,0.7099098563194275,0
+Press Release: Australia and Thales to deploy world’s largest ATC system - Runway Girl Network,"Mon, 26 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTgvMDIvcHJlc3MtcmVsZWFzZS1hdXN0cmFsaWEtYW5kLXRoYWxlcy10by1kZXBsb3ktd29ybGRzLWxhcmdlc3QtYXRjLXN5c3RlbS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Australia occupies a unique global position in the air traffic management (ATM) domain. The country’s Air Navigation Service Provider, Airservices Australia, manages the largest airspace in the world, totaling over 11% of the globe. Their ambition is to ensure the seamless integration of all civil and military air traffic over an area totaling 53 million square kilometers, approximately equal to the combined surface of North America, Central America, South America and China.
+
+Airservices Australia and the Australian Defence Force have chosen to rely on Thales to achieve this ambition by signing an AUS $1.2bn (€777m) contract for the delivery and deployment of the OneSKY programme. OneSKY is the world’s most advanced civil military airspace integration project and calls for the modernization of the Australian and associated oceanic airspace.
+
+OneSKY’s objective is to bring benefits for passengers, airlines and the economy whilst maintaining Australian air sovereignty and safety to citizens, and is a critical part of the national infrastructure necessary to underpin the future economic prosperity of Australia.
+
+The ambition of this programme is to enable Australia to safely manage and benefit from the rapid increase in air travel over the next 20 years at a time when airspace management is becoming significantly more complex. OneSKY will leverage Thales’s proven track record in Air Traffic Management systems, dual civil/military interoperability and use the latest digital technologies in the fields of connectivity, big data and AI to improve flight co-ordination, safely increase the use of airspace, optimise air traffic flow and improve the way planes approach the runway. Drawing on its cybersecurity expertise, Thales will ensure the integrity of the connectivity that will drive this interoperability.
+
+For passengers the programme will reduce travel times and delays. For airlines, OneSKY seeks to maintain safety levels at increased volumes to enable them to increase their routes, whilst reducing fuel burn and CO2 emissions. The Australian Air Force will benefit from safer co-ordination with civilian air movements, thus helping them accomplish their mission of protecting Australia and its citizens more efficiently.
+
+The development and delivery of OneSKY will support over 500 highly skilled, high-tech jobs, of which 450 are in Melbourne as well as a further 50 jobs in similar disciplines in France. To this approximately 200 more jobs will be supported across the entire supply chain in Australia It builds on the long term investment by Thales and comprehensive technology transfer that has brought world-leading R&D in ATM systems to Melbourne.
+
+About Thales
+
+The people we all rely on to make the world go round – they rely on Thales. Our customers come to us with big ambitions: to make life better, to keep us safer.
+
+Combining a unique diversity of expertise, talents and cultures, our architects design and deliver extraordinary high technology solutions. Solutions that make tomorrow possible, today. From the bottom of the oceans to the depth of space and cyberspace, we help our customers think smarter and act faster – mastering ever greater complexity and every decisive moment along the way.
+
+With 64,000 employees in 56 countries, Thales reported sales of €14.9 billion in 2016.","{'label': 'Positive', 'score': 0.9999992847442627}",positive,0.9999992847442627,1
+NanoRacks Teams with Thales on ISS Airlock Module - Via Satellite,"Tue, 06 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTgvMDIvMDYvbmFub3JhY2tzLXRlYW1zLXRoYWxlcy1pc3MtYWlybG9jay1tb2R1bGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"NanoRacks announced that it has chosen Thales Alenia Space as the latest partner in its commercial airlock program. Thales Alenia Space will produce and test the critical pressure shell for NanoRacks’ Airlock Module, which is targeting to be launched to the International Space Station (ISS) late 2019, and will be used to deploy commercial and government payloads.
+
+Thales Alenia Space will also manufacture various secondary structures, including the Micrometeoroid Orbital Debris (MMOD) shields with Multi-Layer Isolation (MLI) panels, the power and video grapple fixture support structure and other structural components.
+
+“Thales Alenia Space was the obvious choice when it came to fabricating our Airlock’s pressure shell,” said Brock Howe, NanoRacks’ head of airlock. “Thales Alenia has manufactured over half of the Space Station’s pressurized volume, they understand the space station’s systems and they have produced some of the world’s best aerospace hardware.”
+
+NanoRacks signed a Space Act Agreement with NASA in 2016 to install the first-ever private Airlock Module on ISS. In February 2017, NanoRacks announced a partnership with Boeing to build and install the Passive Common Berthing Mechanism (PCBM), which will connect the Airlock to the rest of the ISS.
+
+Thales Alenia Space will produce and test the pressure shell this year, then ship it to NanoRacks’ Integration Facility in Houston, Texas in 2019. NanoRacks will integrate the avionics and wiring to complete the airlock assembly.
+
+NanoRacks’ engineering and operations teams will handle airlock integration, functional testing, crew training and final inspections. The Airlock will be then shipped to Florida for final pre-launch preparations and installation on the SpaceX Dragon Trunk, to get ready for the scheduled launch on the SpaceX CRS 19 mission. NanoRacks also teamed up with ATA Engineering and Oceaneering on the airlock’s subsystems.","{'label': 'Neutral', 'score': 0.9999891519546509}",neutral,0.9999891519546509,0
+French Navy's Future SSBN to carry Thales Next-Gen Sonar System - Navy Recognition,"Wed, 07 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiuAFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlLzIwMTgvZmVicnVhcnktMjAxOC1uYXZ5LW5hdmFsLWRlZmVuc2UtbmV3cy81OTMxLWZyZW5jaC1uYXZ5LXMtZnV0dXJlLXNzYm4tdG8tY2FycnktdGhhbGVzLW5leHQtZ2VuLXNvbmFyLXN5c3RlbS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The French defence procurement agency (DGA) has awarded Thales a 42-month contract to conduct a set of studies and technological developments for a sonar system to be equipped on France’s future third-generation nuclear-powered ballistic missile submarine (SNLE 3G).
+
+Triomphant-class 2nd-generation nuclear-powered ballistic missile submarine – © Alain Monot / French Navy
+
+These developments take into account current and future threat environment and support Thales's efforts to complete design and qualification of a large antenna system and related processing capabilities made possible by advances in algorithms and the digital revolution.
+
+
+
+This new research and development programme builds on the results of studies launched under France’s two previous defence spending plans. It will include final validation of the fourth-generation flank arrays and the development of a new sonar interceptor, with latest-generation adaptive antenna processing and threat classification algorithms as well as an innovative bow-mounted antenna concept.
+
+
+
+The contract follows an award announced in 2016 to develop the ALRO towed linear array based on optical technology. It further consolidates Thales’s leadership in underwater systems and expands the company’s involvement in major French naval defence programmes, such as the SNLE 2G second-generation nuclear-powered ballistic missile submarines (SSBN), Rubis and Barracuda class nuclear-powered attack submarines (SNA), FREMM multimission frigates, the ATL2 maritime patrol aircraft upgrade and the SLAM-F mine countermeasures programme.
+
+
+
+This latest award strengthens France's naval defence technological and industrial base through Thales and its programme partners and reflects the priorities of France’s 2017 strategic review of defence and national security, which recognises the need for a technologically advanced underwater defence capability.
+
+Tests of the Optical Linear Array for SNLE3G","{'label': 'Positive', 'score': 0.6834686398506165}",positive,0.6834686398506165,1
+NanoRacks adds Thales Alenia Space to team up on Commercial Space Station Airlock Module - Thales,"Mon, 05 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9uYW5vcmFja3MtYWRkcy10aGFsZXMtYWxlbmlhLXNwYWNlLXRlYW0tY29tbWVyY2lhbC1zcGFjZS1zdGF0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"February 05, 2017, Turin, Italy - NanoRacks announced today that Thales Alenia Space, the joint venture between Thales (67%) and Leonardo (33%), has been chosen as the latest partner in its commercial airlock program. NanoRacks announced today that Thales Alenia Space, the joint venture between Thales (67%) and Leonardo (33%), has been chosen as the latest partner in its commercial airlock program.
+
+
+
+Thales Alenia Space will produce and test the critical pressure shell for NanoRacks’ Airlock Module, which is targeting to be launched to the International Space Station late 2019, and will be used to deploy commercial and government payloads. Thales Alenia Space will also manufacture various secondary structures, including the Micrometeoroid Orbital Debris (MMOD) shields with Multi-Layer Isolation (MLI) panels, the power and video grapple fixture support structure and other structural components.
+
+Thales Alenia Space will produce and test the critical pressure shell for NanoRacks’ Airlock Module, which is targeting to be launched to the International Space Station late 2019, and will be used to deploy commercial and government payloads. Thales Alenia Space will also manufacture various secondary structures, including the Micrometeoroid Orbital Debris (MMOD) shields with Multi-Layer Isolation (MLI) panels, the power and video grapple fixture support structure and other structural components.
+
+“We are very proud of our selection by NanoRacks for this key commercial program,” said Walter Cugno, Vice President, Exploration and Science at Thales Alenia Space. “Signing this contract not only ensures our continued role as a global leader in space infrastructures, it also emphasizes our distinctive skills and expertise. Thales Alenia Space will bring to this program over 40 years of experience in the design and production of high-technology solutions and will continue to provide these capabilities both for the International Space Station and for future space exploration initiatives.”
+
+
+
+NanoRacks signed a Space Act Agreement with NASA in 2016 to install the first-ever private Airlock Module on the International Space Station. In February 2017, NanoRacks announced a partnership with Boeing to build and install the passive common berthing mechanism (PCBM), which will connect the Airlock to the rest of the Space Station
+
+“Thales Alenia Space was the obvious choice when it came to fabricating our Airlock’s pressure shell,” said Brock Howe, NanoRacks’ Head of Airlock. “Thales Alenia has manufactured over half of the Space Station’s pressurized volume, they understand the Space Station’s systems and they have produced some of the world’s best aerospace hardware. We’re looking forward to a very successful partnership that expands our manufacturing alliances into the heart of Europe.”","{'label': 'Neutral', 'score': 0.9999788999557495}",neutral,0.9999788999557495,0
+Are weapons at the heart of Britain's romance with Israel? - The Electronic Intifada,"Fri, 16 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZWxlY3Ryb25pY2ludGlmYWRhLm5ldC9ibG9ncy9kYXZpZC1jcm9uaW4vYXJlLXdlYXBvbnMtaGVhcnQtYnJpdGFpbnMtcm9tYW5jZS1pc3JhZWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"James Arbuthnot, a British politician, lobbies both for Israel and the weapons industry. (Chatham House/Flickr)
+
+What are British politicians really saying when they wax lyrical about Israel? Do they genuinely believe the myths about it being a thriving democracy? Or are they in awe of how Israel can – quite literally – get away with murder?
+
+Gavin Williamson, Britain’s defense secretary, has hinted that there is something rotten behind the romance. After celebrating Israel as a “beacon of light and hope” during a recent speech, he described its military investments as “impressive.”
+
+If Williamson has done a modicum of homework, he must know that the Israeli weapons industry brags – albeit in a coded way – about testing its products on Palestinians living under siege and occupation. His fawning betrayed an admiration for how a profitable industry has been built through subjugating an entire people.
+
+The fawning occurred when Williamson addressed a reception organized by Conservative Friends of Israel, a pressure group within Britain’s ruling party. He was among kindred spirits: it is unlikely to a be a coincidence that some of the group’s most ardent supporters are also lobbyists for the arms industry.
+
+Take James Arbuthnot. In 2015, Arbuthnot was hired by Thales UK, a branch of the French weapons-maker Thales. He had previously chaired Conservative Friends of Israel. He also sat in the British parliament for 28 years.
+
+Announcing the recruitment, Thales UK stated that Arbuthnot would join its advisory board. As its advisers are not “formal officers” of the company, they are “expressly prohibited” from lobbying on its behalf, Thales added.
+
+Submarine supporter
+
+While Arbuthnot may not have directly solicited business for Thales since then, he has taken part in discussions of relevance to the firm.
+
+After his appointment by Thales, Arbuthnot later in 2015 joined the House of Lords, the unelected upper chamber in the British parliament. He has used that platform to advocate that Britain should develop four nuclear submarines.
+
+Thales works on Britain’s nuclear submarine program. By opposing disarmament, Arbuthnot was pushing a political agenda conducive to his employer and the wider arms industry.
+
+Does Arbuthnot erase all thought of the fees he receives from Thales every time he chats with contacts amassed during his political career?
+
+Arbuthnot remains active in Conservative Friends of Israel. Earlier this month, he attended a discussion between the group and Ofir Akunis, Israel’s science minister and a hardline apologist for the theft of Palestinian land.
+
+Devoted to drones
+
+Going by Arbuthnot’s track record, it is highly unlikely that he availed of that occasion to scold Akunis. Arbuthnot has backed Israel’s acts of aggression and their enablers. At the time of the 2011 Arab uprisings, he effectively praised Hosni Mubarak, the Egyptian dictator, for his role in enforcing Israel’s blockade on Gaza.
+
+The ghastly consequences of Mubarak’s orders were that Gaza’s inhabitants had no way of escaping Israel’s bombs during Operation Cast Lead, a major offensive two years earlier. Writing for the website Conservative Home, Arbuthnot ignored those consequences, while noting with apparent favor that Mubarak “kept the border [between Egypt and Gaza] secure.”
+
+Arbuthnot’s support for Israel cannot be disentangled from his work on strengthening the weapons industry. He spent a total of nine years heading a key parliamentary committee on military issues. In that capacity, he tried to justify drones by contending that their operators had been unfairly maligned as “video gaming ‘warrior geeks.’”
+
+That vote of confidence in remote-controlled killing machines probably did not go unnoticed by his current employer. Thales is developing a drone program known as Watchkeeper for the British Army. Another partner in that program is Elbit, the Israeli weapons giant.
+
+Conservative Friends of Israel is also linked to Elbit. The lobby group’s erstwhile director, Stuart Polak, is a leading figure in a “political strategy” firm that numbers Elbit among its clients.
+
+Like Arbuthnot, Polak joined the House of Lords in 2015. Last year, he was found to have arranged meetings between Priti Patel, then a British government minister, and a number of Israeli politicians without respecting official protocol.
+
+Patel resigned her ministerial post amid the ensuing controversy, yet there were no repercussions for Polak – beyond some possible damage to his reputation.
+
+Trip to Turkey
+
+Polak and Arbuthnot both participated in a recent trip to Turkey, where they met Recep Tayyip Erdogan, the country’s president.
+
+Hilal Kaplan, who wrote a puff piece on the visit for Istanbul newspaper the Daily Salah, observed that it took place following two lucrative weapons deals between Turkey and Britain. Kaplan did not spell out the British lords’ own connections to the arms industry or the pro-Israel lobby.
+
+The lords appear to have been on their best behavior in Turkey, implicitly expressing their approval for its actions against Kurdish fighters in Syria. Their friendly gestures towards Erdogan are significant, considering that the Turkish president has posed as a defender of Palestinian rights.
+
+As Polak is arguably Britain’s top pro-Israel lobbyist, it is hard to believe that he hasn’t briefed that state’s politicians or diplomats about his Turkish sojourn. It was financed by the Bosphorus Center for Global Affairs, an organization that monitors press coverage unfavorable to Erdogan.
+
+The pro-Israel lobby in Britain is secretive about its precise activities, including its relationship to the arms industry. For all their talk about beacons of light, Israel’s supporters keep many things in the dark.","{'label': 'Neutral', 'score': 0.9999626874923706}",neutral,0.9999626874923706,0
+Thales Develops Antares for French Army Land Program - Force Magazine,"Thu, 15 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZm9yY2VpbmRpYS5uZXQvdGhhbGVzLWRldmVsb3BzLWFudGFyZXMtZnJlbmNoLWFybXktbGFuZC1wcm9ncmFtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Antares is an Electro-Optic platform to enhance the situational awareness and add soft-kill capability to vehicle crews.
+
+Thales has developed the Antares, a panoramic 360 situational awareness and softkill system for the French Army’s largest Land Program “Scorpion”. Thales will work with Nexter to mount the system on the Griffin multirole armoured vehicle and the Jaguar reconnaissance vehicle as a part of the program.
+
+Antares is an electro-optic platform with high resolution day/night camera along with an integrated laser warning system covering an area of 360 degree in azimuth, 75 degree elevation and 15 in depression. The low latency imagery provided can be displayed on the commander’s console for enhanced situational awareness and to the driver in negotiation obstacles, the laser warning receiver provides soft kill capability against laser range finders and designators.
+
+
+
+
+
+
+
+
+
+The system offers the capability to detect human targets at 150m and vehicle targets at 500m during the day time. The electro-optic platform can also be mounted on a variety of older Infantry Fighting Vehicles, Personnel Carriers and Main Battle Tanks by virtue of its modularity.","{'label': 'Positive', 'score': 0.9679945707321167}",positive,0.9679945707321167,1
+Philippine Frigate Controversy Deepens - The Maritime Executive,"Mon, 19 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL3BoaWxpcHBpbmUtZnJpZ2F0ZS1jb250cm92ZXJzeS1kZWVwZW5z0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Philippine Senator Antonio Trillanes IV is launching an inquiry into the details of the Philippine government's $336 million frigate contract, the nation's biggest naval acquisition program in decades.
+
+The Philippines Department of Defense has ordered two frigates from Hyundai Heavy Industries (HHI) as part of a larger military modernization program. Under the leadership of Defense Secretary Delfin Lorenza, the department decided that the vessels would be delivered with the Korean-made Hanwha Naval Shield combat management system (CMS, the computer network that serves as a warship's nerve center) instead of the widely-used Thales Tacticos CMS, the system initially specified.
+
+The Philippine Navy objected, and Navy chief Vice Adm. Ronald Mercado insisted that the Hanwha system did not meet requirements. The navy wanted to ensure that the CMS should be compatible with Link 16, the NATO standard battlefield communications protocol. Thales Tacticos is Link 16 compatible; Hanwha Naval Shield is not, although Hanwha is working on an update and expects it to be ready in 2019.
+
+Vice Adm. Mercado was removed from his post over his opposition to the Hanwha purchase in December, three months before his retirement date. ""I question [Mercado's] intention behind his fixation with one specific company [Thales] for the combat management system of the frigate acquisition project,"" said Lorenzana at a December 20 press briefing. Lorenzana estimated the cost premium for choosing Thales Tacticos over Hanwha would be $7 million per hull on the $168 million per vessel construction contract, a cost increase of four percent.
+
+Senator Antonio Trillanes IV is now leading an inquiry into the circumstances behind the government's preference for Hanwha. The paper trail on the procurement decision appears to lead back to Bong Go, special assistant to Philippine President Rodrigo Duterte. Last January, Go (or another individual in the president's palace) provided Secretary Lorenzana with a memo favoring the Hanwha system on the grounds of the firm's customer service advantages. Go has denied any involvement, and after testifying in a senate hearing Monday, he said that the investigation into the contract is a threat to the national defense. ""The Philippine Navy badly needs this project to protect our seas, but this controversy is seriously derailing the implementation of this security measure,"" he told reporters.
+
+At the hearing, Adm. Mercado's successor, Rear Adm. Robert Empredad, testified that the Philippines may not have any say over which CMS it buys. ""I’m still preferring Tacticos, but contract says it is the supplier [Hyundai Heavy Industries] that will have a sole decision to decide on what system to put in our frigate,” he said.","{'label': 'Neutral', 'score': 0.9999566078186035}",neutral,0.9999566078186035,0
+Reliance Aerostructure-Thales joint venture gets CCI nod - The Economic Times,"Tue, 13 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2RlZmVuY2UvcmVsaWFuY2UtYWVyb3N0cnVjdHVyZS10aGFsZXMtam9pbnQtdmVudHVyZS1nZXRzLWNjaS1ub2QvYXJ0aWNsZXNob3cvNjI5MDAyODAuY21z0gF-aHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvZGVmZW5jZS9yZWxpYW5jZS1hZXJvc3RydWN0dXJlLXRoYWxlcy1qb2ludC12ZW50dXJlLWdldHMtY2NpLW5vZC9hbXBfYXJ0aWNsZXNob3cvNjI5MDAyODAuY21z?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+Competition Commission has approved the joint venture between Reliance Aerostructure and Thales India, according to sources.Reliance Infrastructure-promoted Reliance Aerostructure would have 51 per cent stake in the entity.The joint venture would be known as 'Thales Reliance Defence Systems'.Sources said the Competition Commission of India CCI ) has approved the setting up of the joint venture.Deals beyond a certain threshold require clearance of the fair trade regulator.The proposal to set up the joint venture was announced in June 2017.""Leveraging Thales offset commitment as part of the Rafale contract, the joint venture is to develop Indian capabilities to integrate and maintain the radar and electronic warfare sensors,"" a joint statement from the companies had said last year.The joint venture would develop skills and activity in the Special Economic Zone of Mihan-Nagpur together with an Indian supply chain for the manufacturing of microwave technologies and high performance airborne electronics, it had said.","{'label': 'Neutral', 'score': 0.9998915195465088}",neutral,0.9998915195465088,0
+Bushmaster MR6 Multi-Role Armoured Vehicle - Army Technology,"Tue, 06 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFybXktdGVjaG5vbG9neS5jb20vcHJvamVjdHMvYnVzaG1hc3Rlci1tcjYtbXVsdGktcm9sZS1hcm1vdXJlZC12ZWhpY2xlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Bushmaster MR6 is being built by Thales Australia. Credit: Thales Group. Bushmaster MR6 ambulance configuration on display at the International Armoured Vehicles (IAV) 2018 conference. Credit: Thales Group. Bushmaster infantry mobility vehicle is the basis for Bushmaster MR6. Credit: Hpeterswald.
+
+Bushmaster MR6 (Multi Role 6) is an improved variant of the Bushmaster infantry mobility vehicle, which has been designed and manufactured by Thales Australia.
+
+The new variant was initially unveiled at the International Armoured Vehicles (IAV) 2018 exhibition in London, UK, in January 2018.
+
+It is designed to offer improved armour protection, reliability and mobility compared to its predecessor.
+
+The Bushmaster MR6 will be available in 12 configurations, including troop carrier, command vehicle, mortar carrier, maintenance vehicle, ambulance, and counter-IED / EOD or route clearance vehicle.
+
+The upgraded vehicle is being offered for the UK Multi-Role Vehicle Protected (MRVP) programme, which intends to provide future-protected mobility solutions for the British Army.
+
+Thales Australia recently completed the vehicle’s mobility, test and evaluation trials.
+
+Design and features of Bushmaster MR6
+
+The deep V-hull of Bushmaster MR6 is based on a 4×4 wheeled chassis. The vehicle is offered in right-hand driving configuration.
+
+The conventional layout of the vehicle houses the engine compartment at the front, a crew cabin in the centre and a troop / cargo section at the rear.
+
+Its cabin is able to accommodate a driver and a commander, while the rear compartment is capable of housing large volumes of payload or up to ten reconfigurable troop seats depending on the mission requirements.
+
+“The Bushmaster MR6 armoured vehicle’s enhanced protection capabilities offer high levels of ballistic and blast protection for the occupants and driveline components.”
+
+A large sliding door at the rear provides rapid access to the troop compartment.
+
+The vehicle can carry an additional 2t of payload compared to the basic Bushmaster vehicle.
+
+In the ambulance role, the vehicle accommodates one stretcher with four passengers, or two stretchers with two military medical corps and the required medical kits.
+
+The hull also incorporates roof hatches to enable the occupants to enter or exit the vehicle in case of emergency.
+
+Armament
+
+The new vehicle can be outfitted with an improved remote weapon station (RWS) or roof-mounted manned gun ring.
+
+Weapon options for the RWS include a 30mm cannon and a 40mm automatic grenade launcher, in addition to guided rockets and missiles.
+
+Bushmaster MR6 protection features
+
+The Bushmaster MR6 armoured vehicle’s enhanced protection capabilities offer high levels of ballistic and blast protection for the occupants and driveline components.
+
+Anti-ballistic materials are used in the vehicle armour to provide protection against ballistic armour-piercing projectiles and bullets.
+
+The vehicle’s deep V-hull is optimised for increased protection against land mines and improvised explosive devices (IEDs).
+
+In addition, its onboard rocket-propelled grenade (RPG) armour system protects the troops against RPGs fitted with high-explosive warheads.
+
+The survivability can be further increased with the addition of a firefighting system.
+
+Command and control
+
+The armoured personnel carrier incorporates command and control, communications, computers, and intelligence (C4I) systems, as well as a GVA-compliant integral computing system (ICS), which allows the crew to manage weapon system and sensors.
+
+Engine and mobility of Bushmaster MR6
+
+The Bushmaster MR6 multi-role armoured vehicle is powered by a six-cylinder 330hp engine, which is coupled to a six-speed automatic transmission system comprising six forward gears and one reverse gear.
+
+Its engine is designed to produce less carbon dioxide (CO 2 ) emissions than previous models and is certified to the EURO-3 European standard for air quality.
+
+The vehicle also features an improved heavy duty suspension, which offers smooth drive even in rough terrains.
+
+An anti-lock braking system (ABS) is installed to prevent wheel lock-up and improve control and overall vehicle safety.
+
+Additionally, the MR6’s improved central inflation system is intended to further increase the vehicle’s performance on all road conditions.
+
+The vehicle can attain a speed of more than 100km/h and a maximum range of 800km.
+
+It is also capable of fording a water depth of 1.5m.
+
+The Global Armoured Vehicles and Counter-IED Vehicles Market 2011-2021
+
+This project forms part of our recent analysis and forecasts of the global armoured vehicles and counter-IED vehicles market available from our business information platform Strategic Defence Intelligence.
+
+For more information click here or contact us: EMEA: +44 20 7936 6783; Americas: +1 415 439 4914; Asia Pacific: +61 2 9947 9709 or via email.","{'label': 'Neutral', 'score': 0.9421542882919312}",neutral,0.9421542882919312,0
+Reliance Aerostructure-Thales India JV gets CCI approval: Sources - Business Standard,"Tue, 13 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvcmVsaWFuY2UtYWVyb3N0cnVjdHVyZS10aGFsZXMtaW5kaWEtanYtZ2V0cy1jY2ktYXBwcm92YWwtc291cmNlcy0xMTgwMjEzMDA3MDBfMS5odG1s0gGMAWh0dHBzOi8vd3d3LmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9hbXAvYXJ0aWNsZS9jb21wYW5pZXMvcmVsaWFuY2UtYWVyb3N0cnVjdHVyZS10aGFsZXMtaW5kaWEtanYtZ2V0cy1jY2ktYXBwcm92YWwtc291cmNlcy0xMTgwMjEzMDA3MDBfMS5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en,"Competition Commission has approved the joint venture between Reliance Aerostructure and Thales India, according to sources.Reliance Infrastructure-promoted Reliance Aerostructure would have 51 per cent stake in the entity.The joint venture would be known as 'Thales Reliance Defence Systems'.Sources said the Competition Commission of India (CCI) has approved the setting up of the joint venture.Deals beyond a certain threshold require clearance of the fair trade regulator.The proposal to set up the joint venture was announced in June 2017.""Leveraging Thales offset commitment as part of the Rafale contract, the joint venture is to develop Indian capabilities to integrate and maintain the radar and electronic warfare sensors,"" a joint statement from the companies had said last year.The joint venture would develop skills and activity in the Special Economic Zone of Mihan-Nagpur together with an Indian supply chain for the manufacturing of microwave technologies and high performance airborne electronics, it had said.","{'label': 'Neutral', 'score': 0.9988716244697571}",neutral,0.9988716244697571,0
+Ex-Navy head denies pushing for Thales Tacticos - pna.gov.ph,"Mon, 19 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnBuYS5nb3YucGgvYXJ0aWNsZXMvMTAyNTY1M9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"MANILA -- Former Philippine Navy (PN) flag officer-in-command, Vice Admiral Ronald Joseph Mercado, on Monday denied pushing for Thales Tacticos to supply two missile-guided frigates for the Navy’s Combat Management System (CMS).
+
+""As regards the issue of insisting on Thales Tacticos as the combat management system of the Philippine Navy frigate, I vehemently deny these allegations,"" Mercado said.
+
+The former PN chief also cleared Special Assistant to the President Christopher ""Bong"" Go from alleged interference in the frigate deal, stressing that the latter never approached him to inquire about the matter.
+
+""Neither did he make any form of communication to influence my decision making as the end-user and flag officer command of the PN,"" he added.
+
+The Frigate Acquisition Project (FAP) is a key piece of the Armed Forces of the Philippines Modernization Program as it seeks to provide the country with two warships that have the capability to deal with air, surface and sub-surface threats.
+
+The warships will have a CMS which is said to be “the brain of a naval combat vessel”, a computer and software system package that integrates all the sensors and weapons systems of the ship into a single system to assure “knowledge superiority” over potential enemies, shorten decision-making cycles, and execute rapid and accurate weapon engagement, especially during combat or security operations. (PNA)","{'label': 'Neutral', 'score': 0.9981012940406799}",neutral,0.9981012940406799,0
+Raytheon and Thales silver sponsors for Dimdex 2018| Gulf Times - Gulf Times,"Sun, 25 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lmd1bGYtdGltZXMuY29tL3N0b3J5LzU4Mjg5OC9yYXl0aGVvbi1hbmQtdGhhbGVzLXNpbHZlci1zcG9uc29ycy1mb3ItZGltZGV4LTIwMTjSAV9odHRwczovL3d3dy5ndWxmLXRpbWVzLmNvbS9zdG9yeS81ODI4OTgvcmF5dGhlb24tYW5kLXRoYWxlcy1zaWx2ZXItc3BvbnNvcnMtZm9yLWRpbWRleC0yMDE4L2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"The organising committee of Doha International Maritime Defence Exhibition and Conference (Dimdex) has announced global defence contractor Raytheon Company and French defence electronics group Thales as silver sponsors of the upcoming sixth edition of the region’s leading maritime defence show.
+
+Dimdex 2018 will be held at Qatar National Convention Centre from March 12 to 14 under the patronage of His Highness the Emir Sheikh Tamim bin Hamad al-Thani, hosted and organised by the Qatar Armed Forces.
+
+“Over the years, Dimdex has proven to be a second-to-none platform for decision makers, official delegations and defence and maritime companies from across the globe, to gain and exchange insights and showcase their game-changing innovations,” said Staff Brigadier (Sea) Abdulbaqi S al-Ansari, chairman of Dimdex.
+
+“We are delighted to have global technology and defence leaders such as Raytheon and Thales Group support Dimdex and become silver sponsors of the world-class event. This demonstrates the confidence Dimdex has earned and underscores the value it offers its partners year on year,” he added.
+
+Global defence leaders are continuing to support Dimdex as a “recognised strategic platform to showcase the latest industry innovations and secure lucrative meetings with VIP delegates”, a press statement noted.
+
+Silver sponsor Raytheon Company is a technology and innovation leader specialising in defence, civil government and cybersecurity solutions. With a history of innovation spanning 96 years, Raytheon provides state-of-the-art electronics, mission systems integration, C5ITM products and services, sensing, effects and mission support for customers in more than 80 countries.
+
+Dimdex 2018 has also attracted the attention of industry giants beyond the maritime spectrum. As a global technology leader for the aerospace, transport, defence and security markets, silver sponsor Thales has the capability to design and deploy equipment, systems and services to meet the most complex security requirements. Its international footprint allows it to work closely with its customers all over the world.
+
+With 180 global exhibitors from around the world taking part this year across the defence, maritime and security sectors, Dimdex has “earned its position as one of the most prestigious maritime defence shows in the region”, the statement adds.
+
+Offering its audience “a world-class platform for technology, maritime and defence industry capabilities”, Dimdex 2018 stays true to Doha’s position as a burgeoning business hub. Also, the event acts as a “pivotal platform for exhibitors to access key decision makers represented by VIP delegates, which has led to the $31.95bn worth of deals completed to date since its first edition in 2008.
+
+
+
+","{'label': 'Neutral', 'score': 0.9834399223327637}",neutral,0.9834399223327637,0
+Senate probe exposes root of frigates deal mess - Rappler,"Sat, 24 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJhcHBsZXIuY29tL25ld3NicmVhay9pbi1kZXB0aC8xOTY1NTgtcXVlc3Rpb25zLXNlbmF0ZS1wcm9iZS1waGlsaXBwaW5lLW5hdnktZnJpZ2F0ZXMtZGVhbC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"This is AI generated summarization, which may have errors. For context, always refer to the full article.
+
+(UPDATED) Senators fail to probe deeper into why the defense department and the Navy did not come to a compromise
+
+Part 2
+
+(READ Part 1: 5 nagging questions after the Senate frigates probe)
+
+AT A GLANCE:
+
+Senior Navy officers present in the Senate unanimously agreed that they prefer the Combat Management System (CMS) of Tacticos Thales over the one that the shipbuilder plans to install.
+
+Senator Panfilo Lacson said the root of the frigates deal mess is the provision in the contract giving away to the shipbuilder the power to choose the suppliers for the subsystems. The probe failed to identify who allowed this provision that the Philippine Navy categorically opposed.
+
+As former Navy chief Vice Admiral Ronald Mercado protested the provision, the office of Special Assistant to the President Christopher “Bong” Go called Navy officers to a meeting in Malacañang to discuss the CMS selection. Mercado was relieved in December 2017.
+
+Defense Secretary Delfin Lorenzana said the frigates project will proceed and the department will implement the contract.
+
+Senator Ralph Recto proposed that the country pay extra to install the CMS that the Navy wants.
+
+MANILA, Philippines (UPDATED) – If there’s one thing that came out of the Senate probe on February 19, it’s the unanimous conclusion of senior Navy officers that they preferred Tacticos Thales as provider of the Combat Management System (CMS) that would be installed in the warships that the Navy planned to buy.
+
+So why did the Department of National Defense (DND) agree to install the inferior CMS of Hanwha Systems against the recommendation of the Philippine Navy?
+
+“Did we compromise [our] capability?” Senator JV Ejercito asked. “Won’t the CMS be an obsolete system?” Senator Edgardo Angara asked.
+
+While the Senate probe did not dig deeper into Malacañang’s involvement in the multi-billion-peso frigate project, it shed light on what caused the impasse between the defense department and the navy that apparently prompted the complaint that got Malacañang involved.
+
+The office of Special Assistant to the President Christopher “Bong” Go called Navy officers to a meeting in Malacañang to discuss the CMS selection. (READ: 5 nagging questions after the Senate frigates probe)
+
+Graduates of the Philippine Military Academy (PMA) who were expected to appreciate the significance of the project led the probe, navigating through technicalities to get to the bottom of the dispute. (Watch the hearing here.)
+
+The PMA alumni among the senators are Panfilo Lacson (PMA ’71), Gregorio Honasan (PMA ’71), and Antonio Trillanes IV (PMA ’95). The opposing sides in the controversy are led by Defense Secretary Delfin Lorenzana (PMA ’73) and former Philippine Navy chief Vice Admiral Ronald Mercado (PMA ’83), who was removed in December last year for alleged insubordination over the frigates project. (READ: Timeline of the PH Navy’s frigates project)
+
+Here are 5 conflicts during the Senate probe that exposed the main disagreements over the project.
+
+1. Lorenzana vs Mercado: Did Mercado favor a frigates supplier?
+
+The ousted Navy chief, Vice Admiral Ronald Mercado, got a boost at the start of the probe when Lacson vouched for his integrity amid speculations he had vested interests in his choice of Tacticos Thales.
+
+“You have built a solid service reputation, respected by peers, superiors and subordinates. Based on my initial findings, it is quite difficult for me to doubt your integrity. I hope I will not be proven wrong in the course of this hearing,” said Lacson.
+
+Mercado’s ouster in December 2017 tainted his sterling record in the military, where he served key positions such as commander of the Philippine Fleet and then chief of the Western Command guarding the West Philippine Sea before he became Navy chief.
+
+Lorenzana said he had ordered Mercado relieved because of insubordination over the frigates project. In the Senate, he slammed the former Navy chief’s alleged “personal interest” in pushing for the CMS of Tacticos Thales.
+
+Lorenzana told senators the contract agreement gave Hyundai the “sole right” to decide the maker of the subsystems of the ships, and it chose the cheaper CMS of Hanwha.
+
+“The frigate project is aboveboard and should have proceeded as scheduled if not for the meddling of a certain individual and his strange fixation on a certain product,” Lorenzana said.
+
+As Navy chief, Mercado fought to get Hyundai change its mind and install Thales technology – until his abrupt relief.
+
+Openly disagreeing with Lorenzana, his superior, in the hearing, Mercado reiterated that the provision giving Hyundai the “sole right” to choose its supplier was wrong to begin with. It was inserted, he said, and stressed that retaining it would make the frigates very expensive to maintain because different suppliers would need to be tapped for maintenance.
+
+Based on the technical requirements provided in the same contract, the Navy said only Tacticos Thales is qualified to supply the CMS of the warships. The Navy also wanted Thales technology for the other systems of the warships. (READ: ‘CMS not the only issue in frigates dea;’)
+
+Mercado said he was merely echoing the recommendation of the Navy’s Technical Working Group (TWG).
+
+“I was the Flag Officer in Command. I was desigated to be the head of all the officers and men of the Navy, so I’m going to stand up for what they want,” Mercado told reporters after the hearing.
+
+“I may be wrong, but so be it.” (READ: Ousted PH Navy chief wanted ‘proven technology’ for warships)
+
+Mercado denied he was unduly favoring Tacticos Thales. “In the first place, how did Tacticos Thales become involved in the Philippine Navy frigate acquisition project? It was HHI or Hyundai that offered Thales Tacticos during the bidding process,” said Mercado.
+
+He also debunked Lorenzana’s complaint that the Navy already gave him (Lorenzana) the go-signal to sign the contract in October 2017, only to raise problems later.
+
+“With all due respect, I’d like to state that the recollection of Secretary Lorenzana on what transpired during the signing of the contract was not accurate. I was just there invited to see the contract signing because I was the commander of the Western Command in Palawan. I was invited, I think out of courtesy, because I was the first head of the Technical Working Group. For two years, we crafted the technical specifications of the frigates. I was just there. I didn’t know what was in the contract,” said Mercado.
+
+2. Lacson vs Dayao: Who gave Hyundai sole right to choose subsystems?
+
+Who inserted the provision giving Hyundai the sole right to choose the subsystems of the warships?
+
+Lacson said this is the root cause of the mess, the original sin. “Yung uppended Annex ang sa tingin ko pinagsimulan lahat ng gulo dahil na-incorporate sa contract agreement (I think it’s the uppended Annex that caused all the problems because it was incorporated in the contract agreement),” Lacson said.
+
+Commander Sergio Bartolome, a member of the TWG, testified that he categorically opposed that provision when it was presented by Hyundai.
+
+“During [a] workshop, your honor, it was discussed that HHI will select subsystems. I did not agree [to] that so I asked for a suspension of the meeting to ask the HHI management and Navy leadership to [discuss it]. It is no longer a technical issue. It was referred to our legal officer of the TWG,” Bartolome said.
+
+That legal officer was Major Marlon Dayao, who supposedly told Bartolome that the provision was within the law. Dayao initialed the Annex that included the fineprint giving Hyundai the “sole right” to choose the subsystems.
+
+“Who authorized you to sign?” Lacson asked Dayao.”You were a junior member of the TWG. There were several members of the TWG. You alone signed an Annex that others are disowning, di ba (right)? Sabi nila wala sa minutes ‘yun (You said it’s not in the minutes) but you signed the Annex that was inserted in the contract agreement. Who authorized you to sign that?” Lacson said.
+
+Dayao said the Annex was taken up by the TWG and that he initialed it as “customary practice” for all attachments coming from the TWG.
+
+“That maker’s list was part of the attachment of the contract along with the building specifications and general arrangement of the project. I signed all those documents, Sir,” said Dayao.
+
+Despite Dayao’s broad and vague answer, the questions stopped there.
+
+Magdalo Representative Gary Alejano said this was a big cliff hanger. “A very important aspect of the whole frigate controversy was also missed – who allowed Hyundai Heavy Industries to have the authority to decide on which CMS to use? Shouldn’t the Philippine Navy, as the end-user, dictate what mission critical equipment and system its frigates would use?” Alejano asked.
+
+3. Mercado vs Empedrad vs Vila: Is Hanwha’s CMS compliant with Navy’s technical requirements?
+
+The former and current Navy chiefs – Mercado and Empedrad – know the project by heart. They previously served as chiefs of the Project Management Team (PMT) that supervised the process.
+
+Empedrad agreed that Tacticos Thales was the superior CMS that he wanted installed in the warships. “I’m not pushing for Hanwha. I’m still preferring Tacticos,” Empedrad told senators.
+
+Yet, Empedrad echoed the position of Lorenzana that Hyundai ultimately had “sole right” to choose the supplier. (It was Empedrad who led the briefing in Malacañang that was called by Go’s deputy and who would take over the position of Navy chief after Mercado’s ouster.)
+
+Mercado disagreed with this interpretation, citing a requirement that the CMS should be compliant with Tactical Data Link (TDL) 16, a connection standard adapted by the Armed Forces of the Philippines in 2016 for its frigates, fighters, and long-range patrol aircraft.
+
+Mercado said Hanwha’s CMS is not compatible with TDL 16 and is thus disqualified, leaving Tacticos Thales the only remaining option for the warships. Empedrad said this isn’t the case.
+
+The two Navy chiefs apparently referred to different lists of technical requirements. Empedrad referred to the requirements listed in the Navy’s bidding documents released in 2013. Mercado referred to the requirements listed in the contract agreement signed in 2016.
+
+The TDL 16 requirement was apparently added during a workshop between the Philippine Navy and Hyundai a month before the contract signing in October 2016.
+
+“The technical specifications in the post-qualification stage was improved during a workshop conducted one month before the signing of the contract. It’s different from what are stated in the contract,” said Mercado.
+
+The additional requirement effectively disqualified Hanwha even if it was declared compliant after the post-qualification assessment conducted in June 2016.
+
+Still, Empedrad said that Hanwha is compliant as far as the TDL 16 requirement is concerned because the company committed to develop the TDL 16 compatibility by 2019 or before the first ship is expected to be delivered.
+
+Commodore Sean Villa, also a former chief of the PMT in charge of the frigates project, disagreed with Empedrad. He argued that Hanwha is disqualified because a prototype cannot claim to be “proven” technology as required in the contract.
+
+Villa, a former commander of the Offshore Combat Force of the Philippine Fleet, underscored the importance of the frigates project and the need to install a proven CMS on them.
+
+“I am in charge of the warships. Right now, we are having difficulty maintaining our legacy vessel,” he said during the Senate hearing. But Empedrad said they need not be strict about the TDL 16 requirement because it was only a bonus feature inserted in the contract.
+
+Empedrad was confident Hanwha would comply. “Hanwha already gave a conformance that the TDL 16 is already compatible to our CMS. It’s no longer an issue. In the first place, if the ship will be delivered and it is not compatible, eh di huwag tanggapin ng (it shouldn’t be accepted by the) Philippine Navy,” Empedrad said.
+
+4. Lacson vs Hyundai: Did the DND and PN exercise due diligence in this process?
+
+Two other factors complicate this debate.
+
+While Villa said Hyundai approved the additional advantageous requirement before the contract signing, Department of Budget and Management chief Benjamin Diokno said it might be illegal to change technical specifications after bids are opened.
+
+“As a matter of rules, as far as I know, hindi puwede magpalit ng specs after the opening of the bid. Hindi na puwede (you can’t change the specifications after the opening of bids. You can’t do that),” Diokno said at the hearing.
+
+Trillanes also said the firm that passed the post-qualification stage was Hanwha Thales, not Hanwha Systems. In July 2016, or a month after the post-qualification tests, Korean media reported that Thales divested its 50% stake in Hanwha Thales.
+
+The legal impact of this development on the project is unclear.
+
+Lacson also confronted the country representative of Hyundai Heavy Industries, Korean Sandra Han, about the two-year ban imposed by the Supreme Court of South Korea on the shipbuilder.
+
+Hyundai cannot participate in any public bidding for government projects in South Korea for a period of two years, or until November 2019, because of a bribery conviction that sent its officials to jail. (READ: Bribery scandal hounds Korean firm tapped for PH warships)
+
+Lacson said Hyundai should have informed the Philippine Navy and the defense department that a ban was imposed on the company by a lower court.
+
+But Han said there was nothing to report during the bidding. They were not yet blacklisted because the case was pending appeal. The final decision was handed down in December 2017.
+
+“The point here is we didn’t have the obligation to inform the Philippines. We didn’t have any blacklist at that time,” Han said.
+
+Senators however did not push the defense and Navy officials hard enough about why they did not even know that a case against Hyundai was pending in the first place.
+
+Former defense secretary Voltaire Gazmin and Lorenzana both said they didn’t know about the case until it hit the local news.
+
+Lacson asked if the country conducted proper due diligence, which he said, could have prevented the frigates deal mess.
+
+Lorenzana said he wouldn’t have signed the contract had he known about its record.
+
+5. Gazmin vs Lorenzana: Is the Aquino administration to blame?
+
+Before the Senate probe, government spokespersons blamed the previous Aquino administration for the mess.
+
+Most of the work in the frigates project was completed in the past administration, but Gazmin said they decided to let the next administration finalize the deal. Lorenzana signed the contract in October 2016.
+
+In the Senate probe, Gazmin said they cannot be blamed for the mess because the new government had the option to review and cancel the contract.
+
+Lorenzana noted that Gazmin encouraged him to proceed with the contract, assuring him that it was aboveboard and it was badly needed by the Philippine Navy.
+
+Lorenzana claimed they didn’t change the contract prepared by the previous administration, apparently unaware of the technical requirements the Navy and Hyundai added a month before the signing.
+
+Lorenzana and Gazmin both previously served as commander of the elite command of the Philippine Army, the Special Operations Command (SOCOM).
+
+What comes next?
+
+At the end of the probe, both Lorenzana and Mercado said they were happy they were able to explain where they stood in the controversy.
+
+Lorenzana acknowledged that Mercado made valid points in the hearing but said the contract agreement had to be followed. Mercado said he continued to respect Lorenzana despite their bitter exchange at the hearing.
+
+“There is no bad blood. I respect the actions of the Secretary of National Defense. He did it with a purpose. I was the Navy chief. I have to protect my people,” Mercado said.
+
+What happens now to the frigates deal?
+
+Nothing changes so far. The Navy’s two frigates, envisioned to become its most capable warships, will have an inferior CMS – unless the project is stopped.
+
+Lorenzana said they have the obligation to implement the contract.
+
+Senator Ralph Recto offered a solution: Why doesn’t the country pay for the additional cost of installing the superior CMS of Tacticos Thales so the Navy can get what it wants?
+
+Lorenzana called it a “good proposal” that he would not oppose. Mercado called it a “win-win solution.” – Rappler.com","{'label': 'Neutral', 'score': 0.9996360540390015}",neutral,0.9996360540390015,0
+OneSKY contract finally signed for Civil Military Air Traffic Management - Australian Defence Magazine,"Mon, 26 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL29uZXNreS1jb250cmFjdC1maW5hbGx5LXNpZ25lZC1mb3ItY2l2aWwtbWlsaXRhcnktYWlyLXRyYWZmaWMtbWFuYWdlbWVudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Almost 50 months after tender evaluation commenced, the $1.2 billion contract for the complex, inter-departmental Project Air 5431 Phase 3 (Civil Military Air Traffic Management System [also known as OneSKY]) has been signed by Airservices Australia and Thales Australia.
+
+The Request for Tender was released to the market in June 2013, 18 months later than the expected December 2011 release. The system aims to integrate the nation’s civil and military air traffic management systems, enabling authorities to more efficiently handle forecast air traffic growth which will reduce congestion and open up more efficient air routes to reduce flight times and fuel costs.
+
+OneSKY was added to the Projects of Concern list in August last year; there were doubts as to whether the taxpayer was getting value for money as the evaluation of tendered prices against the cost criterion was not conducted in a robust and transparent manner.
+
+OneSKY was valued at $906 million when approved in 2014. Indeed, the conduct of the OneSKY tender is detailed by the ANAO report which makes for interesting reading. According to the national auditor, the records of tender evaluation activities and the outcomes did not demonstrate that sufficient attention had been given to whether the tendered acquisition and support costs were affordable for either Airservices or Defence.
+
+THE ANAO concluded that an overarching business case was not prepared for OneSKY, an inadequate approach to summarising the evaluation of tenders was employed, such that it was not clearly evident that the successful tender offered the best value for money. This was because adjustments made to tendered prices when evaluating tenders against the cost criterion were not conducted in a robust and transparent manner.
+
+Thales Group president and CEO Patrice Caine said the program is the world’s largest civil, military airspace integration project and is particularly ambitious in its sheer scope and complexity, covering 11 per cent of the globe.
+
+“We will be using our experience in ATM systems with our key digital technologies of, connectivity, Big Data, AI, and cybersecurity to foster the success of this program. Airservices Australia, the Air Force and the Australian Government have a true vision of the future of aerospace.”
+
+Defence Minister Marise Payne said the project will replace the ageing military air traffic management systems and is essential to ensuring our ADF can continue to operate safely in Australia’s airspace.
+
+“The integrated system will manage more than 11 per cent of global airspace and some of the world’s busiest air routes. As a result of reaching this important milestone, OneSKY will be removed from Defence’s Projects of Concern list.”","{'label': 'Neutral', 'score': 0.9893239140510559}",neutral,0.9893239140510559,0
+Australia and Thales to deploy world's largest air traffic control system covering 11% of the globe - Thales,"Mon, 26 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvYWVyb3NwYWNlL25ld3MvYXVzdHJhbGlhLWFuZC10aGFsZXMtZGVwbG95LXdvcmxkcy1sYXJnZXN0LWFpci10cmFmZmljLWNvbnRyb2wtc3lzdGVt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Australia and Thales to deploy world’s largest air traffic control system covering 11% of the globe ATM Share this article
+
+
+
+LinkedIn
+
+Australia’s OneSKY programme was made official and announced on 25 February. It is the world’s most advanced Air Traffic Management (ATM) system and the largest civil-military airspace integration project ever. Thales is proud to accompany Airservices Australia and the Australian Defence Force in this exceptional undertaking.
+
+Airservices Australia and the Australian Defence Force have chosen to rely on Thales for their ambition of integrating all civil and military air traffic over an area totalling 53 million square kilometres, or 11% of the globe’s airspace.
+
+OneSKY will set a new global standard for ATM, providing clear benefits to passengers, airlines and the economy whilst maintaining Australian air sovereignty and the safety of citizens. Passengers will notice quantifiable reductions in travel times and delays. For airlines, OneSKY is set to reduce fuel burn and CO2 emissions. The Australian Air Force will benefit from safer co-ordination with civilian air movements, thus helping them accomplish their mission of protecting the nation and its citizens more efficiently.
+
+The OneSKY system enables Australia to safely manage and benefit from the rapid increase in air travel over the next 20 years at a time when airspace management is becoming significantly more complex.
+
+Already a historic leader in the field of ATM systems, Thales has shown itself to be the trusted, committed partner needed for ambitious long-term programmes such as OneSKY.
+
+At a value of AUS $1.2 billion (over €700 million) for its supply and deployment, OneSKY will leverage Thales’s proven track-record in ATM systems, dual civil/military interoperability and use the latest digital technologies to improve flight co-ordination, safely increase the use of airspace, optimise air traffic flow and improve the way planes approach the runway. Drawing on its cybersecurity expertise, Thales will ensure the integrity of the connectivity that will drive this interoperability.
+
+In Australia and beyond, the development and delivery of OneSKY will support 700 highly skilled, high-tech jobs, of which over 500 at Thales.
+
+For a quick overview of the scale and benefits of this exciting programme, take a look at the OneSKY infographic and video below!
+
+","{'label': 'Positive', 'score': 0.9999996423721313}",positive,0.9999996423721313,1
+New Thales UK headquarters opened by Prime Minister Theresa May - Thales,"Mon, 26 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL25ldy10aGFsZXMtdWstaGVhZHF1YXJ0ZXJzLW9wZW5lZC1wcmltZS1taW5pc3Rlci10aGVyZXNhLW1hedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"New Thales UK headquarters opened by Prime Minister Theresa May Share this article
+
+
+
+LinkedIn
+
+Hosted by Victor Chavez, Chief Executive of Thales in the UK and Pierre Eric Pommellet, Chief Operating Officer of Thales Group, the visitors were taken on a tour of the research and technology centre. The Prime Minister was shown a number of key projects for Thales in the UK including the European Aviation Network, which will provide 4G connectivity on flights across Europe and some of the lifesaving capabilities developed for our armed forces.
+
+There was also an opportunity to meet a number of the 350 graduates and apprentices Thales employs in the UK. To hear about how the company participates in activities to promote STEM (science, technology, engineering and maths) to address the UK’s engineering shortage and increase diversity.
+
+The opening of the state of the art facility in Green Park, Reading, reaffirms Thales as a major contributor to the UK economy. The new site is bringing 500 highly skilled jobs to the area – including 300 specialised engineers – with capacity to accommodate a further 100 jobs as Thales grows in the region. This is a significant part of Thales’s overall contribution to UK prosperity, employing 6,500 people with annual revenues of £1.3bn.
+
+
+
+The new site promotes Thales’s emphasis on fostering innovation, being one of the company’s five global centres specifically designed to focus on research and technology –spending around £70m annually in the UK on research and technology. Further to this, the site will serve as Thales in the UK's centre of excellence for secure radio communications, network and infrastructure systems and cyber-security consultancy.
+
+Victor Chavez said: “The move to Green Park represents a strategic step forward for Thales, bringing together some of our key businesses with our Research team to ensure we remain on the cutting edge of customer-focused, technology and business model innovation. This new world-class workspace sets the benchmark for future working environments across Thales in the UK; designed to enable collaboration with customers, partners and suppliers as well as supporting our move to Smart Working.”
+
+Prime Minister Theresa May said: “It was a great pleasure to join Alok Sharma to officially open Thales UK’s Headquarters in Green Park. I really enjoyed meeting some of the staff who are going to work at the site, including several apprentices who are beginning a career in engineering. 2018 is the Year of Engineering and it’s so important we encourage our young people to take up careers in this vitally important area.”
+
+Alok Sharma MP said: “I am very grateful to the Prime Minister for taking the time to come to my Reading West constituency, to open the new Thales UK Headquarters in Green Park. I am delighted that Thales, a major contributor to the UK economy, has chosen to base its UK headquarters locally once again demonstrating that the Reading area is an economic powerhouse in the country. Thales, is also a major exporter from the UK demonstrating the strength of the UK manufacturing sector.”","{'label': 'Neutral', 'score': 0.9996495246887207}",neutral,0.9996495246887207,0
+Defence commences negotiations with Thales for continued management and operation of Benalla and Mulwala ... - Australian Manufacturing,"Wed, 07 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5hdXN0cmFsaWFubWFudWZhY3R1cmluZy5jb20uYXUvZGVmZW5jZS1jb21tZW5jZXMtbmVnb3RpYXRpb25zLXdpdGgtdGhhbGVzLWZvci1jb250aW51ZWQtbWFuYWdlbWVudC1hbmQtb3BlcmF0aW9uLW9mLWJlbmFsbGEtYW5kLW11bHdhbGEtbXVuaXRpb25zLWZhY3Rvcmllcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Defence will enter into negotiations with Thales Australia, trading as Australian Munitions, for the continued management and operation of Australia’s munitions factories in Benalla (Victoria) and Mulwala (New South Wales).
+
+Making the announcement, Defence Industry Minister Christopher Pyne said the move would provide long-term job certainty for over 640 highly-skilled workers employed across the two factories.
+
+“Under the existing contract, employment across the Benalla and Mulwala sites has increased by over 80 employees in 2017, generating vital job opportunities in regional Victoria and New South Wales,” the Minister added.
+
+“The Thales Australia supply chain includes 130 local small-to-medium enterprises, providing a wide range of goods and services to the Benalla and Mulwala sites.”
+
+He said the negotiations will see a new strategic arrangement for the management and operation of the factories, with the underutilised areas of the facilities to be sub-leased as additional precincts to other munitions companies, subject to maintaining high safety and security standards,
+
+These arrangements, according to the Minister, would improving price competitiveness and increase the export potential for Australian-manufactured ammunition and explosive products.
+
+“This long-term, performance-based arrangement will provide a greater degree of certainty for Thales as the principal tenant and operator of the facilities and will enable seamless transition from the current contract when it expires in mid-2020, Mr Pyne noted.
+
+“Drawing on the depth of engineering and manufacturing skills resident in these factories, the decision to commence negotiations with Thales builds on the well-established relationship between Thales and Defence.
+
+“The 1030 hectare Mulwala factory is the only remaining manufacturing site for propellants and high explosives in Australia, and the new propellant factory is arguably the most modern propellant manufacturing plant in the world.”","{'label': 'Positive', 'score': 0.7581799626350403}",positive,0.7581799626350403,1
+New variant Bushmaster pushed for export - Australian Defence Magazine,"Thu, 01 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9idXNpbmVzcy9uZXctdmFyaWFudC1idXNobWFzdGVyLXB1c2hlZC1mb3ItZXhwb3J00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has launched a new variant of the Bushmaster protected military vehicle (PMV), the Multi-Role 6 (MR6), at the International Armoured Vehicles Conference in London.
+
+Designed and manufactured by Thales Australia, the MR6 builds on earlier variants' battle-proven capability with the characteristic V-Hull retained for crew protection against land mines and IEDs, and is being offered for the UK's Multi-Role Vehicle-Protected (MRV-P) program to deliver future wheeled utility and logistics vehicles for the British Army.
+
+Now in service in 8 countries, the Bushmaster is used in more than a dozen variant configurations in multiple roles.
+
+Director of product line for protected vehicles at Thales Paul Harris said the MR6 has a new hull and driveline features and represents the sixth production run for the PMV, with 1,150 now delivered to eight customers, including of course the ADF, during the five previous runs.
+
+New features include front crew doors allowing access/egress for two crew on either side of the vehicle. The rear spare wheel station on the right side of the vehicle has been removed to allow greater internal volume in the rear compartment, enabling a 2+10 seat APC version as well as a new ambulance version. The latter has an improved clinical space providing medical service to one prone patient and three sitting patients, with an option for an additional stretcher space on the floor. Two seats for medics are positioned rear-facing just to the rear of the front crew seats.","{'label': 'Neutral', 'score': 0.9166436195373535}",neutral,0.9166436195373535,0
+"Defence Department won't give timeframe for new Thales management deal, but stresses need for private-public ... - The Border Mail","Sun, 11 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJvcmRlcm1haWwuY29tLmF1L3N0b3J5LzUyMjMyMjAvcGF5YmFjay1hLXRyaWdnZXItZm9yLW11bml0aW9ucy1kZWFsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"“The new arrangement between Defence and Thales Australia Limited (which trades as Australian Munitions) is yet to be negotiated but is envisaged to be a long term performance based strategic agreement enabling both parties to invest in and have sufficient tenure to allow economic payback of that investment,” the department stated.
+
+","{'label': 'Positive', 'score': 0.641431987285614}",positive,0.641431987285614,1
+Thales out of $5 billion LAND 400 defence contract bid - Bendigo Advertiser,"Sun, 11 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJlbmRpZ29hZHZlcnRpc2VyLmNvbS5hdS9zdG9yeS81MjIzMDY3L3RoYWxlcy1vdXQtb2YtNS1iaWxsaW9uLWRlZmVuY2UtY29udHJhY3QtYmlkL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Victorian government has thrown its support behind BAE Systems Australia’s bid to win a $5 billion defence contract to provide the next generation of Army vehicles – but despite its history manufacturing such vehicles, it looks like Bendigo’s Thales site will not play a part in the project.
+
+","{'label': 'Negative', 'score': 0.7292482852935791}",negative,0.7292482852935791,-1
+OneSKY removed from Projects of Concern list | ADBR - ADBR,"Mon, 26 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vYWRici5jb20uYXUvb25lc2t5LXRha2VuLW9mZi1wcm9qZWN0cy1vZi1jb25jZXJuLWxpc3Qv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"By Jordan Chong
+
+Australia’s Project AIR 5431 Phase 3 Civil Military Air Traffic Management System, or OneSKY, has been taken off government’s Projects of Concern list after the signing of final contacts by Airservices Australia, Defence, and Thales to build the joint civil and military air traffic management system.
+
+The $1.2 billion project, which aims to replace the currently separate civil and Defence air traffic management systems under a single program, was placed on the Projects of Concern list in August 2017. However, Minister for Defence Marise Payne said on Monday OneSKY would be taken off the list following the execution of the final contacts.
+
+“This project will replace the ageing military air traffic management systems and is essential to ensuring our ADF can continue to operate safely in Australia’s airspace,” Minister Payne said in a statement on February 26. “As a result of reaching this important milestone, OneSKY will be removed from Defence’s Projects of Concern list,” Minister Payne said.
+
+Airservices Australia said on Monday the final contacts for the $1.2 billion OneSKY project were signed “this week”. “It’s probably the biggest development in the safe management of Australia’s skies since aviation began in this nation,” Airservices Australia chief executive Jason Harfield said in a statement.
+
+The federal government named Thales as the successful supplier for OneSKY at the 2015 Avalon Airshow. Since then, Airservices Australia has been negotiating with the company ahead of signing formal contracts, with some preliminary work undertaken via a series of “advanced work orders”. Its statement on Monday said substantial progress had already been made.
+
+“In 2017, we commenced installation of the first phase of the new Voice Communication System, which will be commissioned later this year,” Harfield said. “We have also completed the system requirements review in January, which means Airservices, Defence and Thales have a common agreed understanding of the system’s requirements.
+
+“This has significantly reduced risks in the project prior to finalising the commercial and contractual arrangements,” he added. “Reducing uncertainty in system requirements prior to finalising the contracts, was a critical risk reduction strategy developed to address the challenges that other major overseas air traffic control providers experienced with their own system replacements.”
+
+Defence and Airservices Australia are jointly funding the OneSKY project. Negotiations between Airservices Australia and Thales had became increasingly protracted, as an Australian National Audit Office (ANAO) report published in April 2017 suggested Australia could end up paying too much for the project.
+
+Specifically, the ANAO was critical of how the tenders were evaluated. “It is not clearly evident that the successful tender offered the best value for money,” the ANAO report said, adding it was “not clearly evident that the successful tender is affordable in the context of the funding available to Airservices and Defence”.
+
+Airservices’ most recent five-year corporate plan noted, “OneSKY and its enabling projects account for $652 million” in capital expenditure over the next five financial years, through to the end of 2021-22.
+
+While Defence had previously capped its financial commitment at a “not to exceed” price of $244 million, RADM Tony Dalton told the Senate Foreign Affairs, Defence and Trade committee in October Defence’s share of the program could be higher than first expected.
+
+“Our contribution to the overall OneSKY program may need to increase. We have made some allowances in the revised Integrated Investment Program to accommodate for that increase. Our negotiations with Airservices have said that there’s a finite amount of money that we’re prepared to increase,” RADM Dalton, who is now general manager ships at Defence’s Capability Acquisition and Sustainment Group (CASG) but retains responsibility for Defence’s portion of the OneSKY program, told the committee.
+
+Parts of the new OneSKY system were expected to be operating by 2018, with the full operating capability expected in 2023, two years later than the original 2021 completion date.
+
+Thales Australia chief executive Chris Jenkins said OneSKY was a large and complex project that required the highest levels of safety and security. “Both Airservices and the Air Force are to be commended for their rigorous approach, fully defining the system requirements, acceptance criteria and schedule ahead of contract signature,” he said in a statement. “This is best practice for a complex critical infrastructure project such as OneSKY.”
+
+Minister for Defence Industry Christopher Pyne noted the OneSKY project would support 450 specialist jobs in Melbourne. Further, about 75 per cent of the acquisition cost and 95 per cent of ongoing annual support costs would be to Australian companies.","{'label': 'Neutral', 'score': 0.9989113807678223}",neutral,0.9989113807678223,0
+"Sialkot XI, Thales and Riyadh Warriors Yellow RCA champs - Saudi Gazette","Tue, 06 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc2F1ZGlnYXpldHRlLmNvbS5zYS9hcnRpY2xlLzUyNzc4NNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"RIYADH — Sialkot XI, Thales and Riyadh Warriors Yellow emerged champions in their respective sections of the tournament, organized by Riyadh Cricket Association (RCA) and sponsored by Saudi Arabian Investment Bank (SAIB). Al-Kharj League final was played earlier which was won by Pak Shaheen.
+
+
+
+In Huraymala League T20 final, Sialkot XI beat White Star CC by 5 wickets in a closely-contested match. White Star CC electing to bat first posted 217-6. Ashiq top scored with 93 off 50 balls, while Umar added 56 off 32 balls. Mohammed Jamil picked up 2 wickets. Sialkot XI won the match in 19.1 overs as Nadeem made 42, Amjad 34, Ali 30 and Yassir 26. Naeem claimed 2 wickets.
+
+
+
+Man of the Final — Mohammed Jamil; Man of the Tournament — Nadeem Arif (Sialkot XI, 391 runs and 12 wickets); Top Run Scorer — Asif Khan (Riyadh Warriors Blue CC, 484 runs); Top Wicket-taker — Salman Shahid (Al-Harbi CC, 16 wickets).
+
+
+
+In Hayer League final, Thales CC defeated Swat Tigers CC by 18 runs in another thriller. Thales, taking the strike first, managed 180-9. Najamul Saqib hit 64 and Ali 28. Anwar and Qaiser picked up 2 wickets each. Swat Tigers were restricted to 162-9. Shahzad made 43 and Sardar Ali 25. Abdul Khader and Moeen bagged 3 wickets each, while Shujah took 2.
+
+
+
+Man of the Final — Najamul Saqib; Man of the Tournament — Zakir Hussain (Green Bangla CC, 377 runs and 11 wickets); Top Run Scorer — Rizwan Khan Niazi (Riyadh Zalmi CC, 459 runs); Top Wicket-taker — Abu Musa (Green Bangla CC, 17 wickets).
+
+
+
+In Diriyah League final, Riyadh Warriors Yellow got the better of Raavi CC by 2 wickets in another tight finish. Raavi CC, batting first, was all out for 156. Tanweer scored 34 and Adnan 29. Zahid Riyaz grabbed 5-19 in his 4 overs. Riyadh Warriors Yellow hit the winning runs on the last ball of the match. Abdul Raheem and Mirza Ayub contributed 35 each, while Waseem added 33. Shahzad claimed 2 wickets.
+
+
+
+Man of the Final — Zahid Riyaz; Man of the Tournament — Uzair Amin Khan (Knight Hawks CC, 304 runs and 15 wickets); Top Run Scorer — Mohammed Abubaker (Raavi CC, 420 runs); Top Wicket-taker — Naveed Hassan Khan (KAMS IndoPak CC, 14 wickets).
+
+
+
+After the finals, a grand prize distribution ceremony was hosted by RCA General Secretary Nasir Abbasi. Graham Gunn, Senior Vice President of SAIB, was the chief guest. The ceremony was also attended by President RCA/Chairman EC SCC Tariq Javed, Qasim Naqwi from SCC, Sarfraz Ahmed from YACA and Tahir Karamat from EPCA. RCA CEO Nadeem Babar, SVP Abdul Kareem Khan and other RCA Executive Committee members were also present.
+
+
+
+Chief guest Gunn appreciated the efforts of RCA for organizing such a wonderful event. RCA President Javed thanked the RCA Executive Committee members for their continuous efforts for the promotion of cricket in the region. CEO Babar thanked Patron in Chief RCA Prince Abdulaziz Bin Nasser Bin Abdulaziz Al Saud for his support for RCA. — SG","{'label': 'Neutral', 'score': 0.9999996423721313}",neutral,0.9999996423721313,0
+Ajay Sooklal returns to haunt Zuma – The Mail & Guardian - Mail and Guardian,"Mon, 05 Feb 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vbWcuY28uemEvYXJ0aWNsZS8yMDE4LTAyLTA1LWFqYXktc29va2xhbC1yZXR1cm5zLXRvLWhhdW50LXp1bWEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sooklal’s allegation came after he detailed alleged bribes that were made to secure the arms deal and protection for French company Thales
+
+Ajay Sooklal, the lawyer who helped produce evidence implicating President Jacob Zuma in the 1999 arms deal, has made fresh allegations that during the deal, South African head of arms procurement Chippy Schaik was paid $1-million by Thales SA (Societe Anonyme) boss Pierre Moynot.
+
+Sooklal made the allegation in a submission to a tribunal hearing on economic crimes in South Africa, taking place at Constitutional Hill in Johannesburg. He said that Moynot told him on a number of occasions that he had made the payment to Schaik.
+
+The tribunal is the first of its kind in South Africa, seeking to invite submissions on economic crimes during apartheid, the arms deal and state capture. While the tribunal has no legal standing and is not binding, it aims to produce a report that will make recommendations in the interests of justice. The report will be compiled by the panel of five adjudicators which is headed by former justice Zak Yacoob.
+
+Sooklal’s allegation came after he detailed alleged bribes that were made to secure the arms deal and protection for French company Thales, and its subsidiaries, from South African law enforcement authorities.
+
+Sooklal had been identified by tribunal organisors, a group of non-government organisations, as “Witness X”. His name was revealed today moments before his testimony.
+
+He became known to the South African public in 2014 as the man who helped Thales arrange luxury accommodation in Europe, clothes, cash and legal fees for Zuma when he faced prosecution for the arms deal.
+
+One infamous document that was unearthed during the investigation was the encrypted fax written by Alain Thetard, the Thales southern Africa head, to Yann de Jomaron, the Thales Africa managing director, in 2000.
+
+In the fax, Thetard told de Jomaron of a meeting he had with Zuma, the deputy president at the time, where Thales offered a bribe of R500,000 per annum in exchange for Zuma’s political protection. Zuma would use the code word “Eiffel Tower” to accept the bribe.
+
+Much of Sooklal’s submission had become public information during the Seriti Commission. In 2017, Sooklal also filed an affidavit at the Pretoria high court, detailing how Zuma asked him to keep quiet.
+
+The affidavit states that Zuma did not want Sooklal, who was Thales’s lawyer for 6 years, to reveal that the French arms dealer had bribed him with a new wardrobe during the Rugby World Cup in 2007 and paid him €25 000 in cash on a trip to Brussels.
+
+Sooklal, who was also a fixer for Thales, said that he had gained Moynot’s trust, which was how he came to hear of the bribe paid to Chippy Schaik.
+
+“Mr Moynot had trusted me because he had done a long background check before he approached me in September 2003,” Sooklal said.
+
+He added that Moynot knew he had been privy to various meetings with French and South African government officials during the arms deal.
+
+Schaik told the Seriti Commission in 2014 that he had no decision making powers during the arms deal, and the final responsibility for the deal would rest with Cabinet and defense minister at the time Joe Modise.
+
+Sooklal also repeated information contained in a court judgement in Switzerland where it was revealed that Thales had paid Schabir Schaik 1.2-million French francs in two separate payment to a Swiss bank account. Some of that money was then paid to Zarina Maharaj – Mac Maharaj’s wife.
+
+Sooklal said the National Prosecuting Authority knew of this “bribe agreement” that implicated Schaik, Thales, and the Maharaj family, but chose not to act on it.
+
+“The NPA does nothing when it is armed with documentary evidence directly implicating the French and Maharaj family,” Sooklal said.
+
+He suggested that the tribunal make recommendations that financial conduct authorities abroad are questioned about why they did not pursue investigations in these matters.
+
+Sooklal alleged in 2014 that Thales owed him R70-million in legal fees. His submission to the tribunal continues.","{'label': 'Neutral', 'score': 0.9999232292175293}",neutral,0.9999232292175293,0

@@ -1,0 +1,52 @@
+2024-04-17 20:28:18,663: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-17 20:28:21,481: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 20:28:21,481: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-17 20:28:21,497: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 20:28:21,497: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 20:28:21,497: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 20:28:21[0m
+2024-04-17 20:28:21,497: asyncio: INFO: [MLTrader] Getting historical prices for SPY, 1D bars, 
+2024-04-17 20:28:21,511: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:28:25,742: asyncio: ERROR: [MLTrader] bad operand type for unary -: 'str'
+2024-04-17 20:28:25,742: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 45, in on_trading_iteration
+    df = self.get_historical_prices(self.symbol, '1D')  # Remplacement ici
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy.py", line 3000, in get_historical_prices
+    return self.broker.data_source.get_historical_prices(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\data_sources\yahoo_data.py", line 180, in get_historical_prices
+    response = self._pull_source_symbol_bars(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\data_sources\yahoo_data.py", line 98, in _pull_source_symbol_bars
+    result = result_data.tail(length)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\generic.py", line 5974, in tail
+    return self.iloc[-n:]
+                     ^^
+TypeError: bad operand type for unary -: 'str'
+
+2024-04-17 20:28:25,742: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-17 20:28:25,757: root: INFO: Backtesting finished
+2024-04-17 20:28:26,372: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 20:28:26,529: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 20:28:26,529: backtest_stats: INFO: Backtest took 0:00:07.880664 for a speed of 0.000

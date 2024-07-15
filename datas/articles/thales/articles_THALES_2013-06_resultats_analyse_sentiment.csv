@@ -1,0 +1,151 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Unveils Avionics 2020 The cockpit of the future. - ATC Network,"Mon, 17 Jun 2013 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmF0Yy1uZXR3b3JrLmNvbS9hdGMtbmV3cy90aGFsZXMtdW52ZWlscy1hdmlvbmljcy0yMDIwLXRoZS1jb2NrcGl0LW9mLXRoZS1mdXR1cmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"On the opening day of the Paris Airshow 2013 Thales, world leader in avionics innovation is proud to unveil the cockpit of the future.
+
+
+
+Named Avionics 2020, this cockpit is the natural evolution of the cockpit concept for which Thales has become famous, the ODICIS demonstrator. Unveiled at the last Paris airshow, the ODICIS concept illustrated the technologies and innovations Thales imagines will be need on commercial aircraft in the next 20 years. With the groundbreaking Avionics 2020 cockpit, Thales demonstrates to the world, the technologies and concepts manufacturable now and which can be made flight-ready on commercial aircraft in the next 7 years.
+
+
+
+
+
+Avionics 2020 incarnates a new-generation cockpit founded on the principles of natural and direct hands-on interaction and human-machine interfaces, designed to serve the pilot through the use of the latest head-up and head-down technologies. Its totally scalable model, can also include bi-chromal head-up displays enabling enhanced collimated piloting data organisation and discrimination, associated with a synthetic representation of the outside environment.
+
+Much like its overall avionics, the human-machine interface of Avionics 2020 can connect to core functions supplied by third parties. Furthermore, it can be personalised so as to merge with the cockpit concept as defined by the customer. Personalisation duties can interchangeably be handled by Thales or by the customer, who may wish to retain control over IP aspects and enjoy greater autonomy in the development and management of changes to their solution. The cockpit’s concept introduces a modern and effective cockpit implementation which integrates a large, secure display area associated with several reconfigurable means of control. This user-friendly organisation of the cockpit incorporates multi-touchscreen capabilities, offering pilots an intuitive interaction solution comprising all aircraft systems and functions.
+
+Continuing on from the most important innovations presented on the 2030 concept, Avionics 2020 is centred on enabling pilots to capitalise on their strengths and help them manage their weaknesses. Thales has therefore worked closely for a number of years with researches, scientific institutions and world class experts in the field of human-machine interface, to refine its understanding of this field of development. These efforts, culminated into a cockpit entirely focused on the tasks to be completed by the pilot. It achieves this by merging data from the different avionics and non-avionics systems and present them to the pilot in a transparent manner, making decision instinctive and less reliant on cognitive analysis, thus mimicking the processes which the human brain goes through in order to make a decision, especially under stress.
+
+Perhaps most significantly, this cockpit anticipates the future challenges of the air transport industry, in their continuing efforts to maintain growth trends in air traffic, whilst at the same time reducing carbon emissions, noise pollution and ease congestion in the skies without compromising safety standards. This critical future proofing is accomplished with the integration of SESAR and NextGen capabilities already built into the cockpit so that the pilot can easily and efficiently use the full range of the new functions required by these programmes.
+
+
+
+The capabilities built into the cockpit include I4D operations, which consist of giving the pilot a time constraint at metering point to each aircraft converging to this point, in order to better sequence traffic. Furthermore D-Taxi (Digital-Taxi) functionalities will be included in the cockpit. D-Taxi is a real-time uplink of the cleared taxi route via CPDLC (Controller-Pilot Data Link Communications) and representation of the taxi path in the cockpit systems. In addition, ASAS (Airborne Separation Assistance Systems) will also be displayed. ASAS spacing helps create a regular traffic flow by ensuring an aircraft adjusts its speed so that it can keep its spacing relative to another aircraft, and therefore merges according to the requirement set by the controller. And finally the ground-breaking Thales concept of ECO Take-Off, will be available on the Avionics 2020. ECO Take-Off is an optimised take-off and climb profile in order to define the trade-off between CO2 emissions and noise reductions.
+
+
+
+Commenting on this seminal moment for the Thales civil aerospace business, Denis Bonnet, Head of Innovation for the Cockpit Competence Center said: “In this exercise we took a leaf from the Automotive industry. The ever popular „concept car‟ exercise employed by successful auto makers is an invaluable process, which over the years, has allowed them to find the innovations and new implementations that have given us the most successful car models ever made. By using this same thought process, we designed ODICIS to think of the far future, and used this exercise to give us the inspiration to come up with all the practical applications we are outlining in the 2020 cockpit here at the Paris Air Show.
+
+
+
+Outlining his thoughts on the importance for the industry, he added: “This is indeed a seminal moment for us and the industry. We are showing the world that a cockpit designed around more seamless interaction between the pilot and the electronics is no longer a purely intellectual concept, but a viable commercial application which, as more and more functionalities and tasks are added to a pilot‟s workload, will become essential for the future of air transport. In that, we can safely say that Thales‟s HMI centric concepts such as Avionics 2020 will be new meter of comparison for commercial aviation in the XXI Century. Avionics 2020 is, the cockpit of the future”.","{'label': 'Neutral', 'score': 0.8684822916984558}",neutral,0.8684822916984558,0
+U.K. Evaluate French Datalink for Watchkeeper - Defense Update,"Mon, 17 Jun 2013 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTMwNjE3X3RtYTYwMDBfZGF0YWxpbmsuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is due to complete a study that will assess the possibility of integrating its Thales Modem for Air (TMA) 6000 wideband airborne Ku-band datalink terminal on the WK450 Watchkeeper UAV – Digital Battlespace reports. The company is under contract with the French MoD for the study, which is currently carrying out a flight test programme on the platform that has been designed for the British Army.
+
+According to Bruno Kerjean, product line manager for high rate datalinks within Thales, France is assessing the British requirement under contract from Thales UK. The program is studying the replacement of the Cubic Tactical Common Datalink (TCDL) currently employed with Watchkeeper, with the wideband link started earlier this year and is expected to end this month. TMA offers high transmission rate of sensor data, required for delivery of live, high-definition video and multi-sensor support.
+
+U-Tacs, the JV between Thales and Elbit responsible for the aircraft development and production is also part of the study. The UK MoD is also looking at the TMA 6000 for potential integration on future versions of the aircraft, which has yet to enter service, including the the Reaper and Heron UAVs – in service with UK and French Air Forces.
+
+Enhancements to the system include support for a new waveform optimized for special forces, offering improved countermeasures and resistance to interference, by better cancelling echo multipass. The TMA will also carry an improved broadband SATCOM waveform, also developed by Thales, enabling the TMA to transfer data over satellite data terminal when available on the platform.
+
+In 2012 thesystem received the STANAG 7085 certification by the Joint Interoperability Test Command (JITC), making the TMA 6000 the first European terminal of its kind to obtain certification in the United States. With this certification the TMA 6000 has officially demonstrated its capacity to transmit all types of data (navigation, video, images) to the US-made manpack terminals (ROVER) in service with NATO ground forces.","{'label': 'Neutral', 'score': 0.9713848829269409}",neutral,0.9713848829269409,0
+Thales Leites talks UFC return: ‘I’m more mature’ - Graciemag,"Tue, 25 Jun 2013 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmdyYWNpZW1hZy5jb20vdGhhbGVzLWxlaXRlcy10YWxrcy11ZmMtcmV0dXJuLWltLW1vcmUtbWF0dXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Share it
+
+After four years away from the biggest MMA franchise in the world, Thales Leites will return to the UFC to, once again, tread the path to the top. He, who once challenged Anderson Silva’s middleweight belt, will be making his comeback bout at UFC 163, also known as UFC Rio 4, on Aug. 3 at the HSBC Arena.
+
+While he devoured a white cheese sandwich at Nova União, Thales had a chat with GRACIEMAG about his opponent, Tom Watson, and his long awaited return to the Ultimate Fighting Championship. Check out the best parts of the conversation:
+
+GRACIEMAG.com: Almost a year without fighting due to a knee injury, and you’re going straight back to the UFC. How are you doing psychologically?
+
+THALES LEITES: It’s been 10 months since my surgery. I don’t even remember I was injured. I’ve recovered completely. The instinct of protecting my injured knee has gone away. Each day I gain more confidence in putting it out there in the line of fire. It’s brand new again.
+
+And what’s the difference between 2009 Thales and the UFC-returning Thales?
+
+I’m more mature. I have a different mind. I’ve learned to pace my fights better – not more, better. I’m more focused and stronger, both physically and psychologically. I’ve reached 24 bouts in my career and am ready for every fighting situation. And also I’ve got my feet on the ground. I’m realistic. The energy is great and I’ll be fighting in Rio in front of my family and friends. I’m happy.
+
+And about Tom Watson, do you know his game already?
+
+I’ve seen some of his fights. He used to compete in MFC in Canada. He’s a competent striker and has some decent ground moves, but it’s nothing that will make me refrain from fighting stand-up. If we’re standing, then fine, and if we’re on the ground, even better. I’ll sing along to the fight’s tune. But I represent the gentle art, and I’ll always be looking for a submission.
+
+How do you place yourself in such a complicated division as the UFC’s middleweight?
+
+For now my mind is on Tom Watson. I haven’t considered the division as a whole, but what I can say is that it’s way tougher than when I made my UFC debut back in 2006. Now they have a lot of strong fighters, especially since the arrival of the Strikeforce athletes. So I want to slowly but surely make my way in there.
+
+Is there a different kind of pressure surrounding you, considering you once challenged Anderson Silva for his middleweight belt?
+
+If there is, I’m unaware. I don’t care about that. I’m coming back now, but I also have UFC experience to fall back on, having fought eight times between 2006 and 2009. I’ll be all right as far as that.
+
+How do you think your next fight will go?
+
+He will be looking to fight standing and I’ll try to apply my game. Neither one is gonna back down, so I think the fight will not go the distance. That’s how I view my return – step by step, calmly making my way.
+
+UFC 163 – Aldo vs Jung
+
+HSBC Arena, Rio de Janeiro
+
+August 3, 2013
+
+Jose Aldo vs Chan Sung Jung
+
+Lyoto Machida vs Phil Davis
+
+Demian Maia vs Josh Koscheck
+
+Cezar “Mutante” Ferreira vs Clint Hester
+
+John Lineker vs Phil Harris
+
+Undercard
+
+Vinny Magalhaes vs Anthony Perosh
+
+Amanda Nunes vs Sheila Gaff
+
+Sergio Moraes vs Neil Magny
+
+Thales Leites vs Tom Watson
+
+Rani Yahya vs Josh Clopton
+
+Iliarde Santos vs Ian McCall
+
+Viscardi Andrade vs Bristol Marunde
+
+Robert Drysdale vs Ednaldo Lula","{'label': 'Neutral', 'score': 0.9934272766113281}",neutral,0.9934272766113281,0
+Thales to supply TMS 2000 sonobuoy processors to Romanian Navy - Navy Recognition,"Tue, 18 Jun 2013 07:00:00 GMT",https://news.google.com/rss/articles/CBMi3wFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlL3llYXItMjAxMy1uZXdzL2p1bmUtMjAxMy1uYXZ5LXdvcmxkLW5hdmFsLWZvcmNlcy1tYXJpdGltZS1pbmR1c3RyeS10ZWNobm9sb2d5LW5ld3MvMTA5MS10aGFsZXMtdG8tc3VwcGx5LXRtcy0yMDAwLXNvbm9idW95LXByb2Nlc3NvcnMtdG8tcm9tYW5pYW4tbmF2eS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"TMS 2000 processors offer a rapidly deployable ASW capability, with installation requiring only minor modifications to the aircraft. Sonobuoys are released over the sea by a fixed- or rotary-wing aircraft and send acoustic data to the processor via a VHF link. The VHF receiver on the aircraft receives and processes the data in real time.
+
+
+
+With the TMS 2000 system, Thales offers a solution that is both cost-effective and highly efficient in operational terms. It is quick and easy to install and delivers excellent signal processing performance and display quality. Overall, the TMS 2000 represents an ideal solution for navies that need to quickly acquire an ASW capability.
+
+
+
+Thales offers proven sonobuoy processors for maritime patrol aircraft as well as helicopters of all sizes. The operational performance of sonobuoys has improved rapidly in recent years, making them an increasingly serious threat to any submarine seeking to avoid detection.
+
+
+
+With a large number of systems already in service, Thales is a leading player in sonobuoy processors and is maintaining a significant level of investment in order to ensure client navies benefit from the very latest systems and technologies.
+
+
+
+The TMS 2000 processor is one of the most advanced currently available on the market and equips NH90 helicopters operated by the French, Norwegian and Swedish Navies as well as the Royal Navy’s EH101 Merlins.","{'label': 'Positive', 'score': 1.0}",positive,1.0,1
+Thales I-Master completes trials on DA42 MPP - Flightglobal,"Thu, 06 Jun 2013 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vdGhhbGVzLWktbWFzdGVyLWNvbXBsZXRlcy10cmlhbHMtb24tZGE0Mi1tcHAvMTEwMDA1LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales's I-Master radar system has successfully completed flight trials on board a Diamond DA42 MPP Guardian multi-mission piston-twin.
+
+The week-long evaluation - conducted in partnership with Diamond Aircraft and sister company Diamond Airborne Sensing from Wiener Neustadt in Austria - covered different radar modes at a range of altitudes and speeds. During the demonstration, full-resolution radar images and electro-optical/infrared footage was transmitted via a high-bandwidth line-of-sight datalink to controllers at the ground station.
+
+Thales
+
+""I-Master is an all-weather, lightweight payload that is easily installed in a standard 15in [38cm] gimbal outline. Its high-performance radar offers two modes: ground moving target indication (GMTI) and synthetic aperture radar (SAR) imagery,"" says Diamond.
+
+GMTI is used to detect moving targets - from high-speed vehicles to targets moving at walking pace. ""Its 360˚ capability can scan a wide area, such as deserts, savannah, borders and road networks, and its use over time can help to build a 'pattern-of-life' situation awareness,"" Diamond and Thales say in a joint statement.
+
+Thales
+
+SAR is used for long-range stand-off image collection - both high-resolution spotlight pictures and extended ""strip maps"". It is deployed as an alternative to gathering images by camera; its long range enables aircraft to avoid dangerous situations, and it is unaffected by severe weather or lack of light.
+
+The I-Master payload has previously been ordered for integration with the British Army's Thales UK/Elbit Systems Watchkeeper tactical unmanned air vehicles.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.8495016694068909}",neutral,0.8495016694068909,0
+Bushmaster - 1000 strong and still going - army-guide.com,"Thu, 13 Jun 2013 07:00:00 GMT",https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuYXJteS1ndWlkZS5jb20vZW5nL2FydGljbGUvYXJ0aWNsZV8yNjcxLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The 1,000th Bushmaster vehicle to be produced at Thales Australia’s Bendigo facility will be delivered to the Australian Defence Force this Friday.
+
+The Bushmaster is an Australian success story, delivering for the ADF, the local defence industry and Australia’s domestic manufacturing capability.
+
+Most importantly, the Bushmaster has saved hundreds of Australian lives.
+
+The milestone will be marked at an event at Thales’s Bendigo facility in Victoria, where the 1,000th Bushmaster will be officially handed over to the Department of Defence.
+
+Chris Jenkins, Thales Australia’s CEO, said: ""This is a very important day because the Bushmaster has become such a recognised life-saving vehicle thanks to its performance on overseas operations with the ADF and other customers.
+
+To have produced 1,000 vehicles is a testament not only to the Bushmaster’s innovative design and technology, but also to the high quality of its manufacturing. This is due to the skills and expertise of the workforce we have in Bendigo, where 200 people are dedicated to ensuring the continued success and evolution of the Bushmaster platform.
+
+""Australian industry has played a vital role in this achievement. There are around 120 companies in the Bushmaster supply chain, many of them local SMEs whose hard work, innovation and commitment to delivery have helped make the Bushmaster what it is today.""
+
+""Working together, Defence, Thales Australia and our industry partners have created a vital strategic capability, fully proven and ready to produce the next generation light protected vehicle, Hawkei, for the ADF and export markets.""","{'label': 'Positive', 'score': 0.9999617338180542}",positive,0.9999617338180542,1

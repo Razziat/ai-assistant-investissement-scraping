@@ -1,0 +1,60 @@
+2024-04-17 16:49:37,937: asyncio: INFO: [ETFTrader] Executing the initialize lifecycle method
+2024-04-17 16:49:42,253: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 16:49:42,253: asyncio: INFO: [ETFTrader] Executing the before_market_opens lifecycle method
+2024-04-17 16:49:42,253: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 16:49:42,253: asyncio: INFO: [ETFTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 16:49:42,253: asyncio: INFO: [ETFTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 16:49:42[0m
+2024-04-17 16:49:42,267: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 16:49:44,054: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 16:49:52,814: asyncio: ERROR: [ETFTrader] 'MACD_12_26_9'
+2024-04-17 16:49:52,846: asyncio: ERROR: [ETFTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'MACD_12_26_9'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 87, in on_trading_iteration
+    indicators = self.calculate_indicators()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 76, in calculate_indicators
+    'macd': macd_results['MACD_12_26_9'],
+            ~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'MACD_12_26_9'
+
+2024-04-17 16:49:52,846: asyncio: INFO: [ETFTrader] Executing the on_bot_crash event method
+2024-04-17 16:49:52,862: root: INFO: Backtesting finished
+2024-04-17 16:49:53,333: asyncio: WARNING: [ETFTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 16:49:53,536: asyncio: WARNING: [ETFTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 16:49:53,536: backtest_stats: INFO: Backtest took 0:00:15.598867 for a speed of 0.000

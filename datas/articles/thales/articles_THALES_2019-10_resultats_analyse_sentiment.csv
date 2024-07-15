@@ -1,0 +1,748 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Maxar-Thales Alenia Space team breaks up, now competing separately for Telesat LEO - SpaceNews","Wed, 23 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3BhY2VuZXdzLmNvbS9tYXhhci10aGFsZXMtYWxlbmlhLXNwYWNlLXRlYW0tYnJlYWtzLXVwLW5vdy1jb21wZXRpbmctc2VwYXJhdGVseS1mb3ItdGVsZXNhdC1sZW8v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Maxar Technologies and Thales Alenia Space abandoned plans to jointly compete to build Telesat’s low-Earth-orbit broadband constellation, setting up a now three-way race for a multibillion-dollar contract expected to be awarded soon.
+
+Paul Estey, Maxar’s executive vice president of customer relations for space infrastructure, confirmed the split up Oct. 23.
+
+“We believe bidding separately from Thales Alenia Space (TAS) on work related to this LEO constellation is in the best interest of the company and its shareholders at this time given the size, scope and financial metrics of the proposed relationship with TAS,” he said in an emailed statement.
+
+Maxar and Thales Alenia Space were competing together against Airbus Defence and Space for the Telesat LEO contract, estimated to be worth $3 billion. Telesat was expected to decide by the end of this year on who would build some or all of its 300-satellite constellation.
+
+Dan Goldberg, Telesat’s CEO, declined to comment on the breakup of the Maxar-Thales Alenia Space team when asked about it by SpaceNews Oct. 22 at the 70th International Astronautical Congress here, citing nondisclosure agreements.
+
+Thales Alenia Space confirmed its separation from Maxar, but declined to explain the decision.
+
+“We confirm that we are still mobilized to deliver our best proposal to Telesat based on our unique expertise in constellations as well as on the results of the derisking phase,” Thales Alenia Space spokesperson Sandrine Bielecki said in a statement.
+
+Estey said Maxar’s MDA division will continue to supply components to Thales Alenia Space despite the breakup.
+
+“Maxar continues to work closely with Telesat on its future architecture plans and continues to make progress on Telesat LEO,” Estey said. “We remain confident in the strength of our solution, which leverages the company’s strong commercial heritage in LEO constellations, it’s nimble supplier-base, as well as advanced technologies from Maxar’s Canadian business, MDA.”
+
+It’s not clear what impact the collapse of Maxar and Thales Alenia Space’s teaming agreement will have on Telesat’s constellation timeline, which is starting to accumulate delays. Telesat originally planned to select a manufacturer in 2018, and start commercial service in 2021. The company’s most recent plans, before the Maxar-Thales Alenia Space split, called for a downselect late this year and partial service in 2022, with full service following in 2023.","{'label': 'Neutral', 'score': 0.9996702671051025}",neutral,0.9996702671051025,0
+Thales details plans for integrating Gemalto biometrics and digital identity business - Biometric Update,"Fri, 04 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmJpb21ldHJpY3VwZGF0ZS5jb20vMjAxOTEwL3RoYWxlcy1kZXRhaWxzLXBsYW5zLWZvci1pbnRlZ3JhdGluZy1nZW1hbHRvLWJpb21ldHJpY3MtYW5kLWRpZ2l0YWwtaWRlbnRpdHktYnVzaW5lc3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The integration of Gemalto into Thales “Digital Identity and Security” (DIS) will result in average organic sales growth of four percent to six percent between 2020 and 2023, according to an update delivered at Thales 2019 Capital Markets Day. The expertise added in digital identity and biometrics, IoT secure connectivity, and data protection and encryption are notes as key enhancements to Thales portfolio.
+
+The company set out its plan for DIS following the integration of Gemalto with other digital businesses previously part of its “Defense & Security” segment, and updated its financial objectives for the medium term. The EBIT (earnings before interest and taxes) margin for DIS is forecast to reach between 12.5 and 13.5 percent by 2023, while the group also adds significant synergies across other operating segments. High-value opportunities identified for the DIS group in the update include embedded SIM software and services, cloud data protection, public and commercial biometrics, and secure IoT connectivity for critical industrial applications, as well as value maximization of its mature smart card business.
+
+Cost synergies could reach €120 million (US$131.6 million) on a run-rate basis by 2022, according to the announcement.
+
+Thales Chairman and CEO Patrice Caine expressed satisfaction that many development opportunities have arisen from the acquisition, and says the company has progressed with its “Ambition 10” strategic priorities.
+
+“We are continuing to implement operational performance initiatives and are accelerating our R&D investments. The results for both 2018 and the first half of 2019 were ahead of the dynamics needed to deliver on our 2021 targets,” Caine comments. “Our new ‘DIS’ global business unit is already the world leader in the fast-growing digital identity and security markets, addressing key challenges in the digital transformation of our customers’ intelligent systems. Across the whole Group, our teams have identified many business synergy opportunities that will generate several hundred million euros in revenues by 2023. In a more uncertain economic and geopolitical environment, we are initiating this new growth phase for Thales with a robust balance sheet and enhanced resilience thanks to a broader customer base and a technology portfolio that has been strengthened with regard to critical capabilities.”
+
+Caine also suggests that the company’s “technology portfolio and deep domain knowledge” within its five main markets will enable sustained profitable growth.
+
+Application opportunities for the group include pooled cybersecurity capabilities, airport solutions design, large cities and critical sites, surveillance and UAV management, and IoT implementations for the military and rail signal systems.
+
+A group including Gemalto was recently awarded a contract to produce 15 million biometric passports over the next seven years for Thailand.
+
+Article Topics
+
+biometrics | data protection | digital identity | encryption | Gemalto | IoT | Thales | Thales Digital Identity and Security","{'label': 'Positive', 'score': 0.9999986886978149}",positive,0.9999986886978149,1
+"SES, Thales, ThinKom celebrate milestone flight demo of MEO/GEO IFC - Runway Girl Network","Wed, 23 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTkvMTAvc2VzLXRoYWxlcy10aGlua29tLWNlbGVicmF0ZS1taWxlc3RvbmUtZmxpZ2h0LWRlbW8tb2YtbWVvLWdlby1jb21tcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Having validated an interoperable GEO/MEO connectivity platform in the cruise industry, SES Networks’ eyes are now on the skies for its hybrid network. Working in collaboration with aerospace giant Thales and antenna maker ThinKom Solutions, the satellite operator has successfully flight-tested broadband connectivity on a Gulfstream G-III business jet whilst seamlessly switching between its GEO and O3b MEO satellite beams.
+
+This milestone G-III flight – believed to be the first in-air demonstration of an aeronautical antenna communicating across a MEO/GEO hybrid satellite network – operated from Melbourne, Florida to the Atlantic coast of Nicaragua.
+
+The Thales FlytLIVE connectivity network on board featured ThinKom’s Ka2517-branded mechanically steered, phased array VICTS-based antenna integrated with a high-performance Hughes Jupiter airborne modem and ModMan. Engineers on the flight “saw dozens of switches successfully completed between GEO and MEO beams, and between multiple MEO satellites within a beam”, say SES and Thales in a statement. They used a broad range of bandwidth-hungry services – including delivery of 4K video streaming – and demonstrated “rates in excess of 265 Mbps”.
+
+All parties are, quite rightfully, chuffed about the outcome. “Our cruise customers have long experienced the benefits of the combined power that low latency MEO- and GEO-based connectivity brings to network performance and resilience. This innovation is now on its way for connected commercial and business air travel,” says Steve Collar, CEO of SES.
+
+The satellite operator is gearing up for the launch of its next generation O3b mPOWER MEO constellation “and now, with a demonstrated ability to roam seamlessly across our GEO and MEO networks, our customers will enjoy unprecedented speed and performance from our O3b constellation, while also benefiting from the scale and reach of our GEO fleet”, adds Collar. SES in 2017 vowed it would meaningfully serve aero with O3b mPOWER.
+
+Referencing the successful flight test, and hinting at the future prospects for a near global hybrid network for aero, Thales InFlyt Experience CEO Philippe Carette notes: “The system offers a consistent passenger experience gate-to-gate; Ka-band coverage on routes where GEO satellites do not currently exist; and is fully compatible with the new SES-17 satellite built by Thales Alenia Space that is scheduled to enter commercial service in early 2021.”
+
+For ThinKom, the successful demo with its hardware confirms what management has been saying all along – that its antenna can support seamless global satellite communication in the air with automatic roaming among GEO, LEO and MEO constellations, and that electronically steerable antennas are not the only technology capable of supporting such. “The demonstration further establishes that ThinKom has the only proven ‘no compromise‘ antenna solutions that can support seamless global satellite communication in the air with automatic roaming among GEO, LEO and MEO constellations,” says ThinKom chairman and CTO Bill Milroy.
+
+It’s not the first time that ThinKom’s hardware has shown such capabilities. Earlier this year, ThinKom successfully completed ground tests of the Ka2517 antenna via Telesat’s Phase 1 LEO satellite.
+
+A Ku-band version of ThinKom’s antenna was famously white-labeled by Gogo as 2Ku, and has already seen over 12 million flight hours. Like ThinKom, Gogo has long suggested that 2Ku would be able to talk to LEO constellations via an easy upgrade, with OneWeb in its sights.
+
+But SES’s scalable terabit-level O3b mPOWER Ka-band constellation with 35,000 fully-shapeable and steerable beams now in the works should give serious food for thought to Ka-band inflight connectivity stakeholders, and indeed those mulling or pursuing hybrid Ku/Ka solutions, be they in GEO, MEO or LEO orbit.
+
+The mPOWER network is being customized to ensure bandwidth can be tailored to specific passenger and operational connectivity requirements over certain travel routes and regions. SES believes this innovation will transform the inflight connectivity market, bringing unprecedented ultra-high capacity, low latency and unrivaled flexibility to passengers, and opening up brand new opportunities for airlines to leverage operational efficiencies like never before.
+
+If SES’s commitment to powering inflight connectivity has ever been in question, its recent doubling down in the market should put all queries to rest. The satellite operator, which currently powers Ku-band IFC for Gogo, Global Eagle and Panasonic Avionics, is already poised to aid Thales’ rollout of broadband connectivity on Spirit Airlines’ Airbus A320 family fleet. While Hughes Ka capacity is currently being used for flight tests and the initial phase of revenue service, which is delayed, SES’s powerful forthcoming SES-17 satellite will give the Spirit program – and other potential airline customers – serious capacity oomph in the coming years, covering North America, South America, Central America, the Caribbean and the Atlantic ocean.
+
+Moreover, SES recently teamed with Collins Aerospace Systems to launch LuxStream, which is billed as “the only service that offers speeds up to 25 Mbps in the United States and 15Mbps globally via SES’s managed Ku-band satellite network”. Vista Global, operating 116 business jets worldwide, will be the first to offer LuxStream services to business jet passengers.
+
+Incidentally, Gogo is in the process of launching its own global Ku-band network for the business aviation community, with Gilat rumored to be a key partner.
+
+Commercial airlines and business jet operators are significantly boosting the satellite-delivered connectivity aboard their flights to serve the growing number of passengers using inflight WiFi and broadband services, notes SES. It reckons the dream of a connected experience in the skies that’s just like the one enjoyed on the ground is about to become a reality thanks to a new age of high-powered multi-orbit, multi-band satellite capacity.
+
+Related Articles:","{'label': 'Positive', 'score': 0.9999974966049194}",positive,0.9999974966049194,1
+Thales Alenia Space starts the construction of its new facilities in Spain for the integration of large satellite payloads ... - Thales,"Wed, 16 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLXN0YXJ0cy1jb25zdHJ1Y3Rpb24taXRzLW5ldy1mYWNpbGl0aWVzLXNwYWlu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space starts the construction of its new facilities in Spain for the integration of large satellite payloads and instruments Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+• These unique facilities in Spain – with more than 600 m2 clean area and 20-meter height – will allow to expand the activities of the company in the domain of integration and testing of large space systems. The new facilities add-up to the existing 2000 m2 clean area devoted to manufacturing and integration of space equipment and large subsystems.
+
+• The SPAINSAT NG satellite payloads will be integrated in this new clean room, that will be ready in autumn 2020 and will pave the way for new services for space agencies and satellite operators.
+
+Madrid, October 16, 2019 – The construction of the new clean room(1) that Thales Alenia Space, Joint Venture between Thales (67 %) and Leonardo (33 %) is setting up in Spain has already started. This cutting-edge facility will become a reference for the integration and test of large space systems in Spain.
+
+The construction works will span for a little less than a year. Once finished, the company will have the capacity to pursue high complexity activities such as the integration of the telecommunication payloads for Spain’s next generation governmental satellites SPAINSAT NG and other large systems in the field of Earth observation and science instruments.
+
+This investment will result into a unique, cutting-edge facility in Spain. The new clean room will add more than 600 m2 clean area to the existing 2000 m2. With a free height of 12.5 meters in the inside, the facility will be equipped with bridge cranes with lifting capacity up to 12 tons each, prepared for the integration of payloads and instruments of large dimensions for all type of space missions, spanning telecommunications, navigation, Earth observation and science.
+
+Eduardo Bellido, CEO of Thales Alenia Space in Spain said: “With these new capacities we are matching Europe’s space powers and we will be ready to pursue high level integration activities in Spain. We are currently leading the development of the telecommunication payloads for the SPAINSAT NG satellites in Spain, a state-of-the-art program in space technology, with these payloads to be integrated in the new clean room.” Bellido added: “This great investment shows the strong commitment of Thales Alenia Space in the development of high added value space activities in Spain.”
+
+Centre of Excellence in Spain
+
+In 30 years of activity, Thales Alenia Space in Spain has participated already in 600 satellites, space vehicles and probes for space agencies and satellite operators all over the world, having built in its facilities in Madrid over 4000 equipment that feature over 200 million hours of operation in orbit.
+
+Specialized in the development of radiofrequency and digital electronics equipment, the company is a reference in Europe in satellite communication subsystems for all type of space missions and orbits, spanning Earth observation in low Earth orbit (LEO), meteorology missions in geostationary orbit (GEO) and science missions to the Moon and in orbit around the L2 Sun-Earth Lagrangian point at a distance of 1.5 million kilometers from the Earth. Over the last years it has delivered 30 large communication subsystems for several satellites, including Sentinel 1, 2 and 3, Ingenio, Meteosat Third Generation, GEO-KOMPSAT-2 and Euclid.
+
+Thales Alenia Space site in Madrid is also a centre of excellence in optical Earth observation instruments. It is responsible for the development of the electronics for instruments such as OLCI (Sentinel 3), Ingenio and up to 12 high resolution optical satellites. Furthermore, it develops the video and data processing units for the two main instruments of Meteosat Third Generation, key to guarantee the superior image quality of both instruments.
+
+The company is currently leading in Spain the study of the Land Surface Temperature Monitoring instrument (LSTM) for the expansion of the European environmental monitoring program Copernicus, a mission designed to provide seamless, accurate and easy to access information in support of agriculture and water resources management services, key to better addressing the nutritional needs of the world’s population over the next few decades.
+
+(1) Clean rooms are areas designed and equipped to operate in very low contamination conditions and under stable temperature, air pressure and humidity conditions. They have a strict control of the environmental parameters (humidity, temperature, air pressure, dust particles suspended in the air) as well as stringent access and dressing restrictions. Class ISO 8 (or class 100,000), needed for the manufacturing and assembly of on-board satellite electronics and systems, guarantees that the number of particles >0.5 microns is below 3.5 million per cubic meter, or equivalently, 100,000 particles per cubic feet.
+
+Photo copyright ©Thales Alenia Space
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+
+
+Cinzia Marcanio
+
+Tel: +39 06 41512685
+
+cinzia.marcanio@thalesaleniaspace.com
+
+About Thales Alenia Space in Spain
+
+Thales Alenia Space is well represented in Spain and is the country’s leading space company in the space segment and export markets, with 30 years of experience in the design, development and sale of advanced space systems and equipment. It has contributed to 600 satellites, space probes and vehicles used in telecommunications, Earth observation, science, exploration, navigation and orbital infrastructure missions. Thales Alenia Space in Spain offers a wide range of solutions spanning the design and integration of payloads and subsystems for telecommunications, data transmission and TT&C (tracking, telemetry and command), optical observation instruments, radiofrequency equipment, data processing and digital electronics, and network management systems for the ground segment.","{'label': 'Neutral', 'score': 0.9998213648796082}",neutral,0.9998213648796082,0
+Thales Announces TopMax For the Challenger 350 - FLYING,"Thu, 24 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmZseWluZ21hZy5jb20vdGhhbGVzLXRvcG1heC1jaGFsbGVuZ2VyLTM1MC1odWQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and StandardAero announced at the National Business Aviation Association’s 2019 Business Aviation Convention & Exhibition (NBAA-BACE) in Las Vegas this week that the Bombardier Challenger 350 will be the first airframe to be certified for TopMax, Thales’ new Wearable head-up display.
+
+TopMax is an industry first, resulting from Thales’ decades-long experience in military helmet mounted display systems (HMDS) and civilian head-up displays (HUD). It is the only wearable HUD system in the business jet industry whose ergonomics and functionalities are specifically adapted to the needs of civil pilots. At a glance, pilots with TopMax have instant and intuitive access to critical flight information for navigation and safety.
+
+A big part of the intuitive nature of the TopMax wearable HUD is the system’s ability to display and prioritize information in different colors, says Yanik Doyon, TopMax Director of Sales and Marketing. “This is really a game changer in the industry, there’s nothing like it out there. We of course have the standard color of monochrome green, but TopMax can show the pilot critical information in any color, such as white, red, yellow or for instance, the color blue for the water.”
+
+Doyon said that in flight testing, virtually all pilots were “blown away” by some of the key features of the wearable TopMax HUD. “You can see traffic and terrain in 360 degrees, so if the pilot turns around, he or she would normally only see only the cabin. But by wearing TopMax, they can see right through the cabin and spot traffic behind them.”
+
+Thales TopMax Wearable HUD on display at NBAA-BACE Dan Pimentel
+
+Another feature the test pilots really love, Doyon said, is the synthetic runways the system displays. “Synthetic runway functionality exists now on traditional HUDs, but you would only see the synthetic runway when you’re aligned with the runway. By wearing TopMax, you can look to your right or left and see the synthetic runway no matter where you turn your head. If you remember the Air Canada flight in San Francisco that almost landed on the taxiway a couple of years ago, they would have seen right away that they were not aligned with the correct runway. So we think TopMax will be a game changer in avoiding those types of potential tragedies,” he said.
+
+TopMax is a cost-effective alternative to a traditional fixed head-up display (HUD), and the technology has drawn the attention of several OEMs. “Pretty much all the major OEMs have met with us, whether it’s for a static or full simulator demo, or a flight test. Because the system brings so much more functionality to the flight deck than fixed HUDs, we believe strongly that TopMax will become mainstream in five to ten years. It really is an easy retrofit on any type of aircraft because of its minimal footprint in the cockpit, and offers an ideal combination of operational, technical and life-cycle cost benefits for aircraft owners and operators. And pilots love the lightweight design and simplicity of use,” Doyon said.
+
+The Bombardier Challenger 350 series of aircraft may expect to receive FAA certification for the retrofit upgrade by the end of 2020, with EASA certification to follow. Entry into service is planned for Q1 2021. The product will be certified on the Challenger 300 and Challenger 605/650 platforms once certification is received for the Challenger 350 series, with other airframes to follow.","{'label': 'Neutral', 'score': 0.9999816417694092}",neutral,0.9999816417694092,0
+Thales A/N PRC-148 Radio and Rechargeable Lithium-Ion Batteries - BidLink,"Mon, 07 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmJpZGxpbmsubmV0L25ld3MvMjAxOS8xMC90aGFsZXMtcHJjLTE0OC1yYWRpby1hbmQtcmVjaGFyZ2VhYmxlLWxpdGhpdW0taW9uLWJhdHRlcmllcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The AN/PRC-148 Radio is a hand carried Multiband Inter/Intra Team Radio (MBITR) used by the U.S. Military and numerous countries around the globe. Thales Defense & Security, Inc. (TDSI) a subsidiary of Thales Group is a French multinational company. Thales originally produced the PRC-148 Radio for USSOCOM under the name Racal Communications, Inc.
+
+The United States Special Operations Command (USSOCOM) awarded the 1st production contract for MBITR radio to Thales. One of the early contracts we found was posted on December 18, 2002 for production of the AN/PRC-148 Radio it was for 30,000 radios under contract number USZA22-97-D-0019 awarded to Thales, formerly known as Racal Communications, Inc. (RCI). Thales has continued with production since then.
+
+The AN/PRC-148 MBITR Radio, its batteries and accessories are big business due to the fact of how long they have been produced and used by so many countries. Newer versions such as the Joint Tactical Radio System (JTRS) Enhanced MBITR (JEM) have been introduced.
+
+Most military products evolve over time with continuous improvements resulting in new versions and upgrades to a single product. Part of this improvement process is solicitations are posted to seek out new incumbents or alternate suppliers. Recently there have been several open solicitations for rechargeable lithium-ion batteries used with the MBITR AN/PRC-148 Radio.
+
+The AN/PRC-148 hand held Radio uses a few different types of batteries, one of the most expensive is a rechargeable lithium-Ion battery costing over $500.00 each. Recent sales of both NSN 6140-01-487-1153 and 6140-01-642-6920 have been awarded to Thales Defense & Security, Inc. NSN 6140-01-642-6920, Thales part number 1600842-1 is the more expensive of the two. The Department of Defense orders both of these rechargeable lithium-Ion batteries on a regular basis.
+
+Defense Study on cost of batteries used in Military hand held radios
+
+In 2012 the Defense Standardization Program Office posted the results of a study that compared the cost of batteries used in hand held radios. It showed the AN/PRC-148 MBITR battery was about 50% more costly than the AN/PRQ-7 Combat Survivor Evader Locater (CSEL) battery.
+
+The AN/PRC-148 and AN/PRQ-7 rechargeable battery packs are very similar in function, size, and voltage. Both the AN/PRC-148 and the AN/PRQ-7 use 6 lithium ion 18650 type batteries.
+
+The AN/PRQ-7 battery is somewhat competitive whereas the AN/PRC-148 battery packs supplied by Thales are proprietary. One main difference among the battery packs was the physical interface to the radios and chargers.
+
+DOD Battery Sales
+
+Selling Batteries to the Defense Department is great business as DOD uses many types of batteries, have short shelf lives and buy a lot of them.
+
+You can do further research on these NSNs yourself by creating a free trial at www.bidlink.net.
+
+BidLink is an on-line tool to quickly find government contract opportunities, review past contract awards, procurement history and a market research tool. Sign up now for a free trial at www.bidlink.net","{'label': 'Neutral', 'score': 0.9998525381088257}",neutral,0.9998525381088257,0
+PACIFIC 2019: AMC & Thales Australia to team up for sonar testing equipment development - Naval News,"Wed, 09 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL2V2ZW50LW5ld3MvcGFjaWZpYy0yMDE5LzIwMTkvMTAvcGFjaWZpYy0yMDE5LWFtYy10aGFsZXMtYXVzdHJhbGlhLXRvLXRlYW0tdXAtZm9yLXNvbmFyLXRlc3RpbmctZXF1aXBtZW50LWRldmVsb3BtZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"PACIFIC 2019: AMC & Thales Australia to team up for sonar testing equipment development The Australian Maritime College and international defence firm Thales Australia will team up at the University of Tasmania’s defence precinct to develop state- of-the-art sonar testing equipment for the Royal Australian Navy.
+
+AMC press release
+
+A Memorandum of Understanding for a Thales presence at the Maritime Defence Innovation and Design Precinct was signed by University of Tasmania Vice- Chancellor Professor Rufus Black and Thales Australia Chief Executive Officer Chris Jenkins in Sydney today.
+
+Thales is the first defence industry prime to commit to the Precinct which aims to drive defence-related research and development projects in a world class research innovation hub.
+
+The Precinct is designed to help the Australian Government to deliver on its $90 billion Naval Shipbuilding Enterprise, including the $50 billion Future Submarine Program, by supporting the high value testing and evaluation needs of the RAN. The Australian Government has committed $30 million to Phase 1 of the Precinct.
+
+AMC, Australia’s national institute for maritime education, training and research,has a suite of the Southern Hemisphere’s best maritime related researchfacilities which will enable critical design inputs into the building of 57 naval vessels over the next thirty years.
+
+Professor Black said Tasmania was uniquely positioned to play an important rolein the regeneration of Australia’s naval capabilities. “Our relationship with Thales is based on a combination of the distinctivestrengths of our people and our facilities and the nature of our island homeitself,” Professor Black said.
+
+“We have world-renowned expertise in maritime research and engineering, wehave state of the art facilities, and we have access to Tasmania’s incrediblelakes, which are vital to our work with Thales.
+
+“Our advantage lies not just in who we are and what we can do, but also wherewe are.”
+
+Thales has a long involvement in Tasmania having undertaken sonar testingresearch in Tasmania’s deep, cold and acoustically quiet lakes since 1991.
+
+The MOU comes on top of a Thales Australia, University of Tasmania, AMC and AMOG Consulting agreement last year aimed at making Tasmania the home of state-of-the-art trials and test facilities for submarine and surface ship sonar systems.
+
+Thales Australia has a critical role in upgrading the sonar systems on the existing Collins Class submarines.
+
+AMC Principal Michael van Balen AO said the MOU would help AMC in its aim tosupport development of Australia’s sovereign shipbuilding capability.
+
+“AMC and Thales’ involvement in the Precinct will make the niche capabilities and skillsets at AMC available for defence requirements for both Defence anddefence industry,” he said.
+
+“As a result, there will be a flow through of defence spending into the commercial realm in Tasmania whilst we contribute to the broader national defence endeavour.
+
+“The Precinct will be a venue where contractors, Government agencies and disparate parties come together to conduct tests and look at the design issues they are facing marking out the way forwards for better design, operated more efficiently with greater safety.”
+
+Mr Jenkins said: “We will be working with AMC and industry participants likeAMOG Consulting on advanced acoustic measurements to be taken at a wide range of speeds, over a number of distances and with a high degree of precisionusing equipment designed with the expertise of the AMC.”","{'label': 'Neutral', 'score': 0.9999774694442749}",neutral,0.9999774694442749,0
+Thales and Airbus sign joint agreement to detect cyber threats - EDR Magazine,"Wed, 09 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy1hbmQtYWlyYnVzLXNpZ24tam9pbnQtYWdyZWVtZW50LXRvLWRldGVjdC1jeWJlci10aHJlYXRz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Monaco, 9 October 2019 – Airbus CyberSecurity and Thales, two European leaders in cybersecurity, have signed a partnership agreement to offer a unique solution against cyber attacks. The solution will combine the file analysis system Orion Malware from Airbus CyberSecurity with Thales’s intrusion detection system Cybels Sensor, which obtained Security Visa from the French national cybersecurity agency (ANSSI) in April 2019.
+
+This cooperation will enable the two companies to offer the best detection solution on the market, increasing the overall level of cyber defence for businesses and organisations. The partnership for the French market aims to help operators of vital importance reinforce cyber protection measures required by ANSSI with the Military Programming Law (LPM).
+
+The Cybels Sensor detection system from Thales enables OIVs and businesses to detect cyber attacks by confidently monitoring their networks. Through real-time analyses of large data volumes to detect potential threats, the sensor alerts cybersecurity teams as early as possible to maximise the protection of monitored networks. Customers already equipped with this solution, include Le Groupe La Poste and the European Space Agency (ESA) for its Galileo satellite-based positioning system.
+
+In conjunction with the Orion Malware solution developed by Airbus CyberSecurity, suspicious files captured on a network by Cybels Sensor are analysed in depth in less than a minute. After the analysis, Orion Malware returns a report detailing the risks and indicators of compromise. A summary accessible to non-experts is also provided to efficiently prepare the response to the incident.
+
+At the cutting-edge of research, and already in operation to protect institutional and corporate customers, Orion Malware works like a detonation chamber for malware. It combines the best static and dynamic detection engines to detect the stealthiest malware threats. Orion also integrates artificial intelligence to improve the classification of detected malware.
+
+Thanks to the combination of Orion Malware with Cybels Sensor, businesses and organisations can now enhance the overall efficiency of their cyber protection. While offering an unparalleled level of detection, the solution is easy to implement and is fully adapted and optimised for Security Operations Centres (SOCs), incident response and cyber threat intelligence operations. It therefore reduces the costs of operating and protecting IT infrastructure.
+
+Pictorial courtesy Thales","{'label': 'Positive', 'score': 0.9992737174034119}",positive,0.9992737174034119,1
+Thales wins Docklands Light Railway upgrading contracts - International Railway Journal,"Thu, 31 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9wYXNzZW5nZXIvY29tbXV0ZXItcmFpbC90aGFsZXMtd2lucy1kb2NrbGFuZHMtbGlnaHQtcmFpbHdheS11cGdyYWRpbmctY29udHJhY3RzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales wins Docklands Light Railway upgrading contracts
+
+THALES has won two contracts to prepare Docklands Light Railway (DLR) for the introduction of a new fleet of trains on its 34km automated light metro network in London.
+
+An artist's impression of the new Diseño fleet.
+
+
+
+Transport for London (TfL) awarded CAF a contract for 43 five-car driverless metro trains in June which are due to start entering service in 2023. CAF has contracted Thales to supply and integrate the control systems for the new trains. Under the second contract, awarded by TfL, Thales will upgrade the signalling systems and software for subsystems for the SelTrac communications-based train control (CBCT) system which Thales originally installed on the network from 1994 onwards.","{'label': 'Neutral', 'score': 0.9638084173202515}",neutral,0.9638084173202515,0
+Thales wins Docklands Light Railway signalling contracts | Metro Report International - Railway Gazette,"Thu, 31 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJhaWx3YXlnYXpldHRlLmNvbS9pbmZyYXN0cnVjdHVyZS90aGFsZXMtd2lucy1kb2NrbGFuZHMtbGlnaHQtcmFpbHdheS1zaWduYWxsaW5nLWNvbnRyYWN0cy81NDk1MC5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"UK: Thales has been awarded two contracts for signalling and train control equipment on the Docklands Light Railway light metro in east London, the supplier announced on October 31.
+
+Transport for London has awarded Thales a contract to supply upgrades to the signalling software subsystems on the network, which currently uses the company’s SelTrac CBTC.
+
+CAF has awarded Thales a contract for the supply of onboard train control systems for the 43 trains that it is supplying to replace the fleet from 2023. Both contracts run to September 2024.
+
+Earlier this year TfL selected CAF as the winner of a £350m contract to supply a fleet of 43 five-car driverless trains. The order includes 10 trains to enable an increase in frequency and capacity across the network, for which signalling software upgrades are also required.","{'label': 'Neutral', 'score': 0.728213369846344}",neutral,0.728213369846344,0
+"Eutelsat places satellite order with Thales Alenia Space, Gogo an anchor customer - SpaceNews","Tue, 29 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9ldXRlbHNhdC1wbGFjZXMtc2F0ZWxsaXRlLW9yZGVyLXdpdGgtdGhhbGVzLWFsZW5pYS1zcGFjZS1nb2dvLWFuLWFuY2hvci1jdXN0b21lci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Updated Oct. 30 at 11:54 a.m. Eastern with the correct total throughput for Eutelsat-10B’s high-throughput capacity.
+
+WASHINGTON — Eutelsat Communications selected Franco-Italian manufacturer Thales Alenia Space to build a replacement for a geostationary satellite roughly three years from retiring.
+
+Eutelsat and Thales Alenia Space said Oct. 29 that they had signed a “letter of agreement” for the production of Eutelsat-10B, an all-electric satellite that will carry more capacity than its predecessor, Eutelsat-10A.
+
+Thales Alenia Space spokeswoman Sandrine Bielecki said by email that the letter precedes a contract, but “marks the entry into force of the deal.”
+
+Eutelsat-10B’s design calls for continued coverage of Europe, the Middle East and Africa, plus two new high-throughput payloads — one covering air and sea routes from the North Atlantic to the Middle East, and another that covers the Indian Ocean, Africa and a larger part of the Atlantic Ocean. The high-throughput payloads will support a combined 35 gigabits per second of capacity.
+
+France-based Eutelsat said multiple in-flight Wi-Fi providers have committed to lease more than a third of the new high-throughput satellite capacity. Gogo, a Chicago-based in-flight W-Fi provider, said Oct. 29 that it agreed to lease capacity on the new satellite.
+
+Thales Alenia Space said it will build Eutelsat-10B on the Spacebus NEO platform it developed with the French and European space agencies. The satellite will carry 14 kilowatts of power to support the Ku-band HTS payloads, plus traditional C- and Ku-band widebeam capacity.
+
+Eutelsat said it expects to launch Eutelsat-10B in 2022. A launch provider has not been announced. The company expects the aging Eutelsat-10A satellite, which was also built by Thales Alenia Space, to retire in the second quarter of 2023.
+
+Thales Group, which owns 67% of Thales Alenia Space, said Oct. 22 that it was in the “final stage of 4 significant commercial satellite tenders,” with completions expected in the coming weeks. Thales Alenia Space is reducing its head count by around 500 people due to the ongoing slump in geostationary satellite orders.
+
+Last month, Thales Alenia Space, which is also 33% owned by Italian aerospace firm Leonardo, unveiled a new reprogrammable satellite line called Inspire that it hopes will capture a larger portion of the satellite market. Inspire is currently only available in Ku- and Ka-band, meaning satellites like Eutelsat-10B must use a different platform to support other frequencies.
+
+Thales Alenia Space said Eutelsat-10B will still have a “SpaceFlex” very-high-throughput-satellite processor onboard to optimize the satellite’s bandwidth.","{'label': 'Neutral', 'score': 0.9999961853027344}",neutral,0.9999961853027344,0
+"Rail News - Rail supplier news from Stadler, Keolis, C-Level Solutions, EnviroServe, Thales and Werner (Oct. 2). For ... - Progressive Rail Roading","Wed, 02 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5wcm9ncmVzc2l2ZXJhaWxyb2FkaW5nLmNvbS9zdXBwbGllcl9zcG90bGlnaHQvbmV3cy9SYWlsLXN1cHBsaWVyLW5ld3MtZnJvbS1TdGFkbGVyLUtlb2xpcy1DLUxldmVsLVNvbHV0aW9ucy1FbnZpcm9TZXJ2ZS1UaGFsZXMtYW5kLVdlcm5lci1PY3QtMi0tNTg3NDDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"10/2/2019
+
+Rail News: Railroading Supplier Spotlight
+
+Photo – Stadler
+
+
+
+Stadler demonstrated a model of a new diesel-electric FLIRT train in Milan at the EXPO Ferroviaria. The model is a mockup of trains Stadler is manufacturing for FNM to be operated on a regional rail line in Lombardy, Italy. First vehicles are scheduled for delivery in late 2021. The FLIRT three-car trains will be powered by a pack containing four low-emission diesel engines and two sets of batteries, and will reach a maximum speed of 87 mph. Meanwhile, Stadtwerke Augsburg awarded Stadler a $62 billion contract to supply and maintain 11 trams, which will operate in Bavaria, Germany, beginning in 2022. The contract includes an option for another 16 trams, Stadler officials said in a press release.
+
+Keolis launched a virtual mobility assistant on the Divia Mobilites multimodal network in Dijon, France. The system provides passengers itinerary, service and traffic information through a conversational, voice-assisted experience via a mobile application. Meanwhile, Keolis’ joint venture Shanghai Keolis last month began operating a new automated metro network at the Shanghai Pudong International Airport. The metro connects two terminals and two satellite halls. Keolis is under contract to operate and maintain the network for 20 years, company officials said in a press release.
+
+C-Level Solutions, a consulting and investment firm focused on the railroad, transportation and manufacturing industries, opened an office in Roseville, California. The firm is run by former Union Pacific Railroad executives Michael Murray and David White, and offers services that address corporate alignment, identify liability and risk, and improve employee productivity and morale, C-Level Solutions officials said in a press release.
+
+EnviroServe opened an office in Denver, Colorado, to remediate and prevent environmental releases and manage waste, as well as provide emergency response. With the Denver office, the company now operates in 17 locations across multiple states, company officials said in a press release.
+
+Ottawa’s O-Train Confederation Line entered into revenue service using Thales’ SelTrac™ communications based train control (CBTC) technology. Thales’ CBTC technology uses telecommunications between train and track equipment for traffic management. This allows train position to be demonstrated more accurately to signaling operators, Thales officials said in a press release.
+
+Werner Enterprises received the 2019 Dedicated Carrier of the Year Award at the Coca-Cola North America Carrier Conference in Atlanta. Werner was selected for the award based on its performance, communication, on-time service record and process improvements, company officials said in a press release. Werner is a transportation and logistics company that began its relationship with The Coca-Cola Co. in 1997.","{'label': 'Neutral', 'score': 0.9999856948852539}",neutral,0.9999856948852539,0
+Thales backs Tasmanian Defence Innovation and Design Precinct - Thales,"Wed, 09 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvcHJlc3MtcmVsZWFzZS90aGFsZXMtYmFja3MtdGFzbWFuaWFuLWRlZmVuY2UtaW5ub3ZhdGlvbi1hbmQtZGVzaWdu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales backs Tasmanian Defence Innovation and Design Precinct Underwater Systems in Australia Share this article
+
+
+
+LinkedIn
+
+
+
+Thales Australia has signed a Memorandum of Understanding with the Australian Maritime College to establish a presence at the Tasmanian Defence Innovation and Design Precinct.
+
+Thales Australia has signed a Memorandum of Understanding with the Australian Maritime College to establish a presence at the Tasmanian Defence Innovation and Design Precinct. Thales is the first defence industry prime to commit to a presence at the Defence Innovation and Design Precinct.
+
+Today’s announcement builds on Thales’s initiative to establish a sonar testing capability in Tasmania’s deep, cold and acoustically quiet lakes.
+
+Thales Australia has recognised that Tasmania’s world class Defence Innovation and Design Precinct will help create local jobs and drive defence-related research and development projects in the state.
+
+Thales Australia CEO Chris Jenkins today signed a Memorandum of Understanding with the Australian Maritime College, becoming the first defence industry prime to commit to the precinct.
+
+“The Federal Government’s $30 million funding to establish the Defence Innovation and Design Precinct in Tasmania reflects the range of smart innovations under development at the Australian Maritime College and from SMEs in Tasmania,” Mr Jenkins said.
+
+“Thales’s presence at the Precinct aims to encourage the development of new technologies and capabilities, including a sovereign acoustic testing capability for the next generation of Australian sonar technology, enhancing the capability of Australian submarine and surface ships over the decades ahead.
+
+“Thales’s commitment to the Precinct is a vote of confidence that it will increase opportunities for greater collaboration between Defence, academia and industry to deliver cutting-edge defence capability.
+
+“We are already working with a number of Tasmanian SMEs to deliver advanced capability to the Australian Defence Force, and through this ongoing collaboration we aim to further develop defence industry in Tasmania.
+
+“It’s all driven by the Australian Government’s historic recapitalisation of the ADF, which is a great national endeavour that will drive innovation and benefit businesses right across the nation.
+
+“This Agreement and the establishment of a sonar testing capability in Tasmania’s deep, cold and acoustically quiet lakes builds on more than 30 years of sonar development and manufacture in Australia in support of the Royal Australian Navy. It has also generated hundreds of millions of dollars of advanced technology exports from Australia,” Mr Jenkins said.
+
+“We will be working with AMC and industry participants like AMOG Consulting on advanced acoustic measurements to be taken at a wide range of speeds, over a number of distances, and with a high degree of precision, using equipment designed with the expertise of the AMC.”
+
+“This MoU between international defence powerhouse Thales Australia and the Australian Maritime College is a major step towards realising Tasmania’s new Maritime Defence Innovation and Design Precinct and will be a game changer in cementing our place in the national defence sector.” The Hon Will Hodgman, Premier of Tasmania
+
+“Thales has been proudly supporting the RAN’s sonar capability since 1983. Today we continue to be a strategic partner with Navy and as we look to the future.” Chris Jenkins, CEO Thales Australia
+
+“The University of Tasmania, through its flagship institute, the Australian Maritime College, is delighted to be working with Thales Australia. Thales’s commitment to world class research and development in the maritime domain, particularly through its work to develop world leading sonar systems for the Royal Australian Navy, is a fantastic example of academia and industry working together to support our national sovereign capability.” Rufus Black, Vice Chancellor University of Tasmania
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global technology leader shaping the world of tomorrow today. The Group provides solutions, services and products to customers in the aeronautics, space, transport, digital identity and security, and defence markets. With 80,000 employees in 68 countries, Thales generated sales of €19 billion in 2018 (on a pro forma basis including Gemalto).
+
+Thales is investing in particular in digital innovations — connectivity, Big Data, artificial intelligence and cybersecurity — technologies that support businesses, organisations and governments in their decisive moments.","{'label': 'Positive', 'score': 0.9328526258468628}",positive,0.9328526258468628,1
+Key Management in the Rail Sector - Thales,"Tue, 29 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9nZXJtYW55L21hZ2F6aW5lL2tleS1tYW5hZ2VtZW50LXJhaWwtc2VjdG9y0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The future of mobility is marked by change. New technologies, increasing prosperity and growing populations demand and promote change. At the same time, limited resources and the resulting energy and climate protection targets provide the framework within which these changes can take place.
+
+The mobility focus is on goals such as a primarily greenhouse gas-neutral and environmentally friendly transport system for both passenger and freight traffic. In Germany, the expansion of rail traffic and its digitalisation (Schiene 4.0), including both inner-city and nationwide rail traffic, plays a decisive role in the attainment of these goals.
+
+The railroad infrastructure is long-lasting and consequently leads to a very fragmented technology landscape. Systems cover thousands of kilometers and are interoperable across borders. The safety of both railroad operations and passengers has the highest priority. The expansion of rail transport poses enormous challenges for railroad operators, German federal states and municipalities – and increasing digitalization and the associated transformation hold many opportunities, but also harbor risks.
+
+Transport systems are critical infrastructures. The complexity and the increasing networking of communication increase vulnerability to cyber attacks. As the Cyber Threat Report 2019 shows, 49% of all hacker attacks are state-controlled, while only 5% is attributable to cyber terrorists. The targets of these hacker groups include above all governments and the defense sector, which shows a dramatic shift in attack targets. Our critical infrastructures must therefore be protected at both national and global levels, and this development must be taken into account in all mobility issues – particularly in rail transport – to ensure the security and safety of people and freight transport.
+
+© Thales
+
+Communication encryption requires key management, which is a critical component within the world of cybersecurity since it allows secure communication between two or more devices. Certificates and keys enable both the authentication of communication partners and the encrypted exchange of information between the communicating components.
+
+A wide variety of systems and devices communicate with each other in rail transport. The identification and authentication of the devices involved, and the protection of the information transmitted between them is of paramount importance – and data encryption is an absolutely essential protection system.
+
+One current usage case is the European Rail Traffic Management System (ERTMS), which is currently being introduced. It will be a significant factor in the modern control of trans-European rail traffic. An essential component of the system is the train control system (European Train Control System / ETCS). ETCS enables fast, Europe-wide train connections -and Thales played a vital role in its standardization. It prevents each train from exceeding its maximum speed, enabling maximum use to be made of the line and ensuring functional safety and security at the same time. The basis for the ETCS is the communication between the trains running on the tracks – or, more specifically, between the OnBoard Units (OBUs) integrated into the trains – and the “ETCS line centers” (Radio Block Centers / RBCs) along the routes. This communication is secured by a “key management system” (Key Management Center / KMC). The KMC generates, manages and distributes the necessary keys for secure communication between the OBUs and RBCs. Key management thus plays a vital role in ensuring the security of rail operations.
+
+“One challenge of ETCS key management is the complexity of operating a train across national borders using common keys in several national KMC domains,” says Michael Kälber.
+
+The complete supply of the electronic keys required for communication along the entire route must be ensured before the journey starts. The key sovereignty here lies with the national infrastructure manager. Thales Germany has been offering security expertise for several years now, also in the transport market. For example, the KMC4ETCS key management system covers the relevant requirements of ETCS standardization, and it is flexible and expandable in its field of applications. However, key management is not limited to mainline rail traffic alone – the use of the new standard is also planned in the urban rail sector, i.e. in trams and subways.
+
+First part of the interview series on the use of key management systems in rail traffic. Interview with Michael Kälber, cryptology expert at Thales Germany.
+
+Second part of the interview series on the use of key management systems in rail traffic. Interview with Harini Bakuri, system architect at Thales Germany, and with Michael Kälber, expert for cryptology at Thales Germany.
+
+Part three of the interview series on the use of key management systems in rail traffic. Interview with Gregor Ophey, software architect at Thales Germany, and with Michael Kälber, cryptology expert at Thales Germany.","{'label': 'Neutral', 'score': 0.909921407699585}",neutral,0.909921407699585,0
+Thales Alenia Space to build EUTELSAT 10B satellite for inflight and maritime connectivity services - Thales,"Mon, 28 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3NfcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLWJ1aWxkLWV1dGVsc2F0LTEwYi1zYXRlbGxpdGUtaW5mbGlnaHQtYW5k0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space to build EUTELSAT 10B satellite for inflight and maritime connectivity services Thales Alenia Space Connectivity Satellite Share this article
+
+
+
+LinkedIn
+
+Cannes, October 29, 2019 – Thales Alenia Space, Joint Venture between Thales (67 %) and Leonardo (33 %), has signed a letter of agreement with Eutelsat Communications (Euronext Pars: ETL) for the procurement of a new all-electric satellite, EUTELSAT 10B.
+
+© Thales Alenia Space
+
+The EUTELSAT 10B satellite is based on the Spacebus NEO Thales Alenia Space product line and will address particularly HTS (High Throughput Services) missions over Europe, the Mediterranean basin, the Middle East as well as over the Atlantic Ocean, Africa and the Indian Ocean.
+
+Two of the satellite’s payloads will be to provide timely continuity of services, in C and Ku Bands, on EUTELSAT 10A. The HTS missions will allow Eutelsat to access new customers and markets, delivering high capacity Ku Band mobility services in Aviation and Maritime. The missions will be supported by a digital 14kW multibeam digital payload allowing dynamic service allocation, essential to provide extensive flexibility and robustness with respect to market evolutions. A Thales Alenia Space SpaceFlex™ VHTS Processor of 5th generation will be integrated at the heart of the payload, achieving high flexibility performance and efficiency in throughput and bandwidth.
+
+© Thales Alenia Space
+
+“EUTELSAT 10 B is the 28th satellite ordered by Eutelsat to Thales Alenia Space, the 6th Thales Alenia Space satellite based on Spacebus NEO product line and the 4th embarking a Digital Transparent Processor of 5th generation for a fully digital mission”, declared Jean Loic Galle, CEO of Thales Alenia Space. He added: “I would like to thank Eutelsat for their longstanding trust and share this success with the French and European Space Agencies (CNES and ESA) whose support, through development programs, was essential to match today’s market and customers’ needs”.
+
+Scheduled to be launched in 2022, EUTELSAT 10B will be located at 10°E, for a lifespan of at least 15 years.
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont
+
+Tel: +33 (0)4 92 92 74 06
+
+chrystelle.dugimont@thalesaleniaspace.com
+
+
+
+Cinzia Marcanio
+
+Tel: +39 06 41512685
+
+cinzia.marcanio@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999078512191772}",neutral,0.9999078512191772,0
+10 Historical Legends You Didn't Know Were Actually Phoenicians - The961,"Sat, 12 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnRoZTk2MS5jb20vaGlzdG9yaWNhbC1waG9lbmljaWFucy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"“In Lebanon, not only do we not honor our great men but even worse, we ignore them. Pity!” Ildefonse Sarkis ~ Le Liban, Son Role Civilisateur
+
+When I came to know the truth of the identity of these remarkable historical influencers, whom we have studied in our Lebanese schools as being Greeks and Romans, I was stunned that they were actually Phoenicians who had taken their disciplines and knowledge and taught them in Europe.
+
+I was also saddened that our own schools have denied us from their truths for reasons I can’t explain, and neither would you, for there is no explanation to that.
+
+It is not a matter of Lebanese pride, although we do have all the right to be proud of our ancestors. It is about the right of our growing youth to be granted that source of strong inspiration and role model; remarkable people to relate to.
+
+We glorify great foreign men and women, we miss glorifying ours and their legacy.
+
+There are truths veiled by time and negligence, and which shouldn’t be eradicated from our collective minds, because they matter. Sharing such knowledge among ourselves helps in that.
+
+While the materials I have explored about our ancestry are quite extensive with remarkable knowledge and historical research, I am choosing to share with you just a very small selection (for now), compiled in a listicle, just because they are, in my opinion, too remarkable not to share the soonest. All others can wait.
+
+The Phoenicians’ great commercial sea network 5th century BC – Ancient Pages
+
+We can only hope that Lebanon will come one day soon to, at least, rectify what it has been teaching in our schools about the identities of these remarkable ancestors, and claim back what’s ours.
+
+Until then, here are 10 outstanding Phoenicians who and were wrongly credited to ancient Europe, and which influences are still alive today across the world.
+
+#1 Pythagoras
+
+Beyond famous to require any introduction, Pythagoras was born to a Phoenician father from the south of Lebanon and a mother from Samos.
+
+The father, a very wealthy merchant, had saved the island of Samos upon a natural disaster, providing a massive amount of food with his ships. Samos hence granted him honorary citizenship for saving the island from famine.
+
+Pythagoras, whose teachings are still alive in today’s education around the world, has to his credit numerous mathematical and scientific discoveries, including his famous theorem, as well as discoveries in the fields of medicine, astronomy, and music.
+
+#2 Euclid: Father of Geometry
+
+Euclid or Euckleides was a Phoenician from Lebanon – Bath AC UK
+
+Born in Tyre, South Lebanon, around 360 BC, Euclid is referred to as the founder of geometry.
+
+He is famous to date for his Elements, one of the most influential works in the history of mathematics up to the early 20th century. It is the main textbook for teaching mathematics, especially geometry. (Ref: Macardle, et al. (2008). Scientists: Extraordinary People Who Altered the Course of History. New York: Metro Books.)
+
+While the Greeks called him Euclid the Tyrian, in reference to his hometown Tyre, some came to name him as well Euckleides of Alexandria because of his long years of teaching in that city.
+
+His Phoenician identity was affirmed as well in Stromata (c. 150 – c. 215): 16, 61, by Clement of Alexandria himself.
+
+#3 Thales, One of the Seven Sages of Greece
+
+Born in Tyre, south of Lebanon, around 624 BC, “Thales, a member of the Thelides family, descends in a direct line from Agenor, King of Tyre and Cadmus,” Herodotus, 5 BC.
+
+As recorded by Diogenes Laërtius, a biographer of the Greek philosophers (3rd c. AD), “Thales was registered as a citizen of Miletus when he came to this city with Elee, exiled from Phoenicia.”
+
+A mathematician, astronomer, and pre-Socratic philosopher, Thales settled in Miletus where he founded, in 6 BC, a school of scientists that would become legendary in forming a long line of remarkable scientists, including Socrates and Pythagoras.
+
+He was recognized as one of the Seven Sages of Greece and, historically, as the first individual in Western civilization to have engaged in scientific philosophy, and the first known individual to whom a mathematical discovery has been attributed. (Ref: Boyer 1991, “Ionia and the Pythagoreans” p. 43)
+
+#4 Zeno, Founder of the Stoicism Philosophy
+
+Born 336 BC in the Phoenician colony of Citium (Larnaca today) to Phoenician parents from Tyre, South Lebanon, Zeno is honored with memorial statues in various parts of the world, including in Cincinnati (USA), Athens (Greece), and Larnaca (Cyprus).
+
+Zeno’s moral influence even earned him a crater on the Moon in his name!
+
+Zeno taught in Athens, Greece, his stoic philosophy that greatly emphasizes on goodness and peace of mind, which one could gain from living a life of Virtue in accordance with Nature.
+
+Highly appreciated in his time for his philosophical and pedagogical teachings, he was honored with the Golden Crown, while his school became one of the major ones in philosophy from the Hellenistic period throughout to the Roman era. His wisdom remains alive…
+
+#5 Cadmus, “Master of the World.”
+
+Cadmus The Phoenician – Art by Lee Laurie’s Cadmus, 1939
+
+Son of King Agenor and Queen Telephassa of Tyre, and sibling to Phoenix, Cilix, and Europa, prince Cadmus went to look for his abducted sister Europa.
+
+He carried along with him the Phoenician phonetic Alphabet, which he taught to the Greeks, who in turn adapted it to form theirs.
+
+He also carried with him from Phoenicia many other know-hows that he imparted, which got him to be honored by the ancient Greeks with the title “Master of the World.”
+
+Cadmus founded the Greek Mythology and the Greek city of Thebes, the acropolis originally named Cadmeia in his honor.
+
+Cadmus by Rubens | geheugenvannederland
+
+The ancient Greek Historians credited him as one of the first Greek historians. Herodotus estimated that Cadmus lived 1600 years before his time, which would be around 2000 BC.
+
+#6 Porphyry
+
+Born in Tyre, around 233 AD, to a wealthy family who spent generously on his education, Porphyry was actually named Malchus (Malek) at birth, meaning ‘king” in the Semitic languages.
+
+He grew up and studied in Tyre, before moving to Athens at 21, by 254 AD. It is in Athens that one of his teachers, Cassius Longinus, named him Porphyrius, meaning “clad in purple,” in reference to his Phoenician royal purple clothing.
+
+Porphyry moved to Rome when he was 30, and went into influencing the study of theology, philosophy, astrology, grammar, jurisprudence, and musical theory. His most influential contribution was the Introduction to Categories into Neoplatonism.
+
+His doctrine of the categories of being, which was translated into Arabic from a Syriac version by Abd-Allāh Ibn al-Muqaffa, could be considered the initiator of Sufism.
+
+Like Pythagoras, Porphyry was an advocate of vegetarianism on spiritual and ethical grounds.
+
+#7 Papinian, “The Asylum of Right and Treasurer of the Laws.”
+
+Born in Beirut in 142 AD, he taught at the Beirut School of Law before becoming the personal advisor of Emperor Septime Severe, a Phoenician of Africa.
+
+The equality of all, and the liberty of each! Papinian
+
+In an era abounding with slavery, Papinian was relentless in proclaiming fiercely, “The equality of all, and the liberty of each,” which caused his death at the hand of his pupil Caracalla, son of the Emperor, at the young age of 37.
+
+Papinian plaque in the US House of Representatives Chamber
+
+Despite his early death, Papinian contributed massively a judicial heritage of high importance, 595 of his articles were retained in the Justinian Digest.
+
+He was known as a Roman jurist, magister libellorum, attorney general, and praetorian prefect, as well as one of the most revered jurists in ancient Rome.
+
+Papinian was one of the only five jurists whose recorded opinions were considered decisive by the Law of Citations of 426 AD.
+
+It took the world 1500 years to hear from the philosophers of the 18th century that human essential values that the Phoenician Papinian had proclaimed: Liberty, Equality, Fraternity, and abolishment of slavery!
+
+#8 Ulpian
+
+Born in Tyre in 170 AD, Ulpian succeeded Papinian in the School of Law of Beirut, and later as advisor to the Phoenician Emperor Alexander Severe of Arqa, north of Lebanon.
+
+During his stay in Rome, Ulpian launched a fierce fight against abuses and vices, attempted to put a limit to the dictatorship of the pretorians, and reformed the Roman law.
+
+In that, he surpassed his predecessor Papinian with a contribution of over 2500 laws that went into the Justinian Digest. It is with a valid reason that Justinian went on calling Beirut, “Mother and Nurse of Laws.”
+
+#9 Mochus of Sidon, Father of the Atom Theory
+
+Prophet, Scientist, and Physicist, as qualified by the ancient Greeks, and founder of a school in Sidon that persisted till the 6th century, Mochus was the true creator of the theory of the atom.
+
+Strabo, a Greek biographer (63BC-24AD), recorded in Geography: 16, 2, 24, “The theory of Democritus on the atom is of Phoenician origin. It is due to Mochus of Sidon.”
+
+According to The Oxford Companion of Philosophy, ‘Isaac Newton, Isaac Causabon, John Selden, Johannes Arcerius, Henry More, and Ralph Cudworth credit Mochus of Sidon as the author of the atomic theory and some of them tried to identify Mochus with the prophet Moses.’
+
+#10 Marinus of Tyre, Father of Geography
+
+A reconstruction of a Marinus of Tyre like Pinax, according to Ptolemy and Nordenskioeld. Three wood panels were covered with a parchment map of the world | Portolanero
+
+A Phoenician geographer, cartographer, and mathematician who founded mathematical geography, Marinus was born in Tyre at the end of the 1st century AD.
+
+He was called the father of geography, although he wasn’t the first to work in that field; however, his contributions were as innovative and significant.
+
+Among them, the drafting of geographical maps, the realization that the earth is round, the underpinnings of Claudius Ptolemy’s influential Geography, development of a system of nautical charts, improvements to the construction of maps, and the coining of the term Antarctic.
+
+Marinus’ maps were the first in the Roman Empire to show China.
+
+The main legacy of Marinus’ maps is that he was the first to assign to each place a proper latitude and longitude, as well as his invention of the equirectangular projection, which is still used in map creation today.
+
+If you believe this knowledge must be known, share it with your network.","{'label': 'Neutral', 'score': 0.9971291422843933}",neutral,0.9971291422843933,0
+Egypt's TIBA-1 satellite is readied for launch - Arianespace,"Fri, 25 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFyaWFuZXNwYWNlLmNvbS9taXNzaW9uLXVwZGF0ZS90aWJhLTEtcHJlcGFyYXRpb25zLXZhMjUwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Processing is now underway with the TIBA-1 satellite passenger for Arianespace’s next dual-payload Ariane 5 mission, which is scheduled for a November liftoff from the Spaceport in French Guiana.
+
+Preparations so far have included TIBA-1’s fit-check – an initial milestone validating the satellite’s compatibility with the adapter that will serve as the payload interface with Ariane 5 – which was performed in the Spaceport’s S5 payload preparation facility’s S5C large clean room hall.
+
+TIBA-1 will occupy the upper passenger position in Ariane 5’s dual-payload configuration on the upcoming mission, which is designated Flight VA250 in Arianespace’s numbering system. Its co-passenger – Inmarsat’s fifth Global Xpress satellite, GX5 – is scheduled to arrive at the Spaceport this week.
+
+Enhancing Egyptian communications
+
+Based on the Eurostar E3000 satellite platform, TIBA-1 was developed by Airbus for operation by the government of Egypt and Thales Alenia Space. This communications spacecraft will weigh approximately 5,640 kg. at liftoff and was designed for a service life exceeding 15 years.
+
+Flight VA250 will mark Arianespace’s fourth mission in 2019 with a heavy-lift Ariane 5 and the eighth this year across its full family of launchers – which also includes the medium-lift Soyuz and lightweight Vega.","{'label': 'Neutral', 'score': 0.9999737739562988}",neutral,0.9999737739562988,0
+French Navy Received First Two Upgraded ATL2s Maritime Patrol Aircraft - Naval News,"Wed, 30 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDE5LzEwL2ZyZW5jaC1uYXZ5LXJlY2VpdmVkLWZpcnN0LXR3by11cGdyYWRlZC1hdGwycy1tYXJpdGltZS1wYXRyb2wtYWlyY3JhZnQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"French Navy Received First Two Upgraded ATL2s Maritime Patrol Aircraft The first two ATL2 maritime patrol aircraft (MPA) upgraded by Dassault Aviation were delivered to the French Navy (Marine Nationale) at the Lann-Bihoué naval air base.
+
+Last week, Florence Parly, Minister of the Armed Forces, flew on one of these aircraft. These two events demonstrate the progress made on the upgrade program which is designed to modernize the ATL2 combat system to standard 6.
+
+The contract for the upgraded (standard 6) ATL2 combat system was awarded by the defense procurement agency DGA on October 4, 2013. The program covers a fleet of 18 aircraft. Dassault Aviation will deliver a further five upgraded ATL2s in the period 2020-2023. In parallel, the SIAé aeronautical maintenance center will upgrade 11 aircraft.
+
+The new consoles. DGA picture.
+
+The “Standard 6” upgrade work includes:
+
+A new radar: The Thales Search Master with active antenna,
+
+A new acoustic subsystem by Thales: It gathers and processes signals from the latest-generation of sonobuoys for submarine detection,
+
+A new navigation console designed by Dassault Aviation,
+
+New consoles for the tactical display subsystem, developed by SIAé
+
+The upgrade work is performed by Dassault Aviation and Thales (co-contractors), in association with Naval Group and in cooperation with SIAé. Architect of the combat system, Dassault Aviation is as well responsible for development of the core system including LOTI[1] software designed by Naval Group. Dassault Aviation is also in charge of overall integration of all subsystems.
+
+All the specifications for this program were established using the PLM Systèmes tool as part of a Dassault Aviation-Thales-Naval Group-SIAé collaborative work platform installed at St-Cloud in the Dassault Aviation design office.
+
+DGA picture.
+
+The standard 6 upgrade will improve the ATL2s’ capability to support the Strategic Oceanic Force, to deal with modern threats (future nuclear or conventional submarines, naval forces at sea, etc.) and to support air-land missions, until 2030.
+
+France is one of the very few countries producing high-technology maritime patrol aircraft combining detection (optronics, radar, acoustics) with a variety of weapons (anti-ship missiles, torpedoes, laser-guided weapons).","{'label': 'Neutral', 'score': 0.984078049659729}",neutral,0.984078049659729,0
+"Intelligent Transportation - Bernard Roux, VP and Country Director at Thales UAE - Construction Business - Construction Business News","Sat, 12 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNibm1lLmNvbS9sb2dpc3RpY3MtbmV3cy9pbnRlbGxpZ2VudC10cmFuc3BvcnRhdGlvbi1iZXJuYXJkLXJvdXgtdnAtYW5kLWNvdW50cnktZGlyZWN0b3ItYXQtdGhhbGVzLXVhZS_SAXdodHRwczovL3d3dy5jYm5tZS5jb20vbG9naXN0aWNzLW5ld3MvaW50ZWxsaWdlbnQtdHJhbnNwb3J0YXRpb24tYmVybmFyZC1yb3V4LXZwLWFuZC1jb3VudHJ5LWRpcmVjdG9yLWF0LXRoYWxlcy11YWUvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en,"Kasun Illankoon spoke to Bernard Roux, VP and Country Director at Thales UAE, who gave us an overview of the ground transportation industry and delved deeper into how smart transportation can help the UAE and the wider region
+
+Tell us how Thales has been performing over the past 12 months and has the company achieved what it set out to do in 2019?
+
+The past 12 months have been strong for Thales with global order and sales intake for the first quarter of 2019 at €2,273 million €3,361 million respectively. Operating profitability improved across all segments and reached 10.6%, a level never before achieved by the Group. Our strategy for this year and up to 2021 is to support profitable growth by continuing to roll out operational performance initiatives and to strengthen our customer-centric culture. We continue to significantly invest in tech innovation, coupled with our strength in digitalisation, we see our business model as robust and balanced.
+
+Tell us what are Thales overall goals and objectives in terms of growth and expansion in the Middle East?
+
+The Middle East is one of our strongest markets, and we have demonstrated our excellence in supporting the region with advanced logistics and transport systems, especially in landmark projects such as Dubai Metro. We had implemented a complete technology package for Dubai Metro to deliver a world-class passenger experience including solutions such as our SelTrac™ CBTC for reliable driverless operations, easy multimodal ticketing and passenger information.
+
+Similarly, in Egypt, Thales supports the modernization programme of the Egyptian National Railway – to improve safety, capacity and reliability. Our signaling upgrade has made it possible to increase train speeds from 20 to 160 km/hour and reduced time intervals between trains from 10 to 5 minutes boosting the frequency of services. With the region investing in smart and urban mobility infrastructure, we see tremendous potential for growth in the region. Specific to the UAE, initiatives such as Etihad Rail will transform the nation’s public transport network and our aim is to contribute to such national initiatives and bring our advanced suite of technology to support the region.
+
+According to the Global Intelligent Transportation System (ITS) Market was valued US$ 22.5 Bn in 2017 and is expected to reach US$ 54.3 Bn by 2026, can you tell us factors behind this rise in value?
+
+Passenger transport across the world is increasing in volume, making the networks more complex to manage. With more than 50% of the world’s population living in urban areas, it is imperative that the transport sector has to evolve to meet ever increasing needs. Further, we also see growth in cargo movement – within nations and beyond. The most significant driver of growth in the ITS market, no doubt, is the investment in digitalisation of public networks – to revamp aging infrastructure and to create seamless interconnection for people.
+
+Can you give us an overview of the ground transportation industry and delve deeper into how smart transportation, which is essentially IoT in intelligent transportation, can help the UAE and the wider region?
+
+The value that digitalisation brings is unbeatable: for example, the use of AI in public transport helps unlock the value of data to improve the quality and efficiency for the public transport sector, especially in railways. The advances in digital technologies such as AI, big data analytics, Internet of Things (IoT) and blockchain, bring the concepts of seamless mobility and efficient interconnectivity to a reality. This presents many opportunities to the public transport and railway sectors. Similarly, leveraging digital solutions in signaling and interlocking systems will increase operational capacity, the frequency of operations and reduce delays.
+
+What are the obstacles you believe the industry will face moving forward and what steps can be taken to overcome this?
+
+The key challenge that the industry will face is the increasing pressure on public transport networks and the need for investments to drive infrastructure upgrades. That is why we reiterate the value that digitalisation brings to the entire ecosystem. It is imperative that aging public transport networks are revamped with modern systems put in place to meet increasing demand. For us, with our global experience and tech leadership, we are uniquely positioned to offer a smooth, safe and interconnected travel experience.
+
+Do you believe cities like Dubai are ready to incorporate more smart transportation, for example like autonomous cars on its roads?
+
+Of course, Dubai has been at the forefront in adopting smart transportation solutions and has already underlined its commitment to smart mobility solutions – not only to enhance the welfare of its citizens and visitors but also to cut down on emissions. Thales is strongly positioned to support Dubai’s smart city big ambition and we have proved that we are truly a local partner to our customers in the UAE.","{'label': 'Positive', 'score': 1.0}",positive,1.0,1
+The Defence export licence timeline - Australian Defence Magazine,"Thu, 31 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9kZWZlbmNlL2J1ZGdldC1wb2xpY3kvdGhlLWRlZmVuY2UtZXhwb3J0LWxpY2VuY2UtdGltZWxpbmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Former Minister for Defence Christopher Pyne released the Defence Export Strategy in January 2018, which aims to make Australia one of the top ten global defence exporters within the next decade. News in the past month that Australia has dropped in Defence exports rankings since that announcement needs some context.
+
+New figures from the Stockholm International Peace Research Institute (SIPRI), the world’s leading authority on global military spending, show that Australia has become the world’s second largest weapons importer but has dropped to 25th in the export rankings.
+
+Australia previously ranked as the fourth-largest importer and 18th largest exporter. It now imports more military equipment than any other country bar Saudi Arabia and exports less than Belarus, the Czech Republic and Norway.
+
+The government has expressed doubts over how the figures are calculated
+
+The shift up in imports, however, is reportedly due to significant payments for the F-35 and for the Future Submarine programs rather than a wider general increase.
+
+The government has expressed doubts over how the figures are calculated, however, with Ministers Payne, Pyne and Reynolds all raising concerns about the methodology of SIPRI over the years.
+
+With this in mind, ADM asked the Defence Department how the figures around export licences are performing in the wake of the ANAO announcement that they will be reporting on the issue, due in August 2020. Submissions to this report opened this week and will close in February 2020.
+
+“Defence received 1,995 export applications between 1 January and 30 June 2019,” a statement from Defence said. “Of these, 1,739 were successful and four were unsuccessful. The remaining applications were withdrawn, made inactive, lapsed, required no further action, or are under assessment.”
+
+Anecdotally there is strong dissatisfaction with the process. While compliant with the relevant national and international legislation, it is lagging behind industry expectations in terms of timeliness. Some exporters advise that customers with reasonable delivery timeframes are not pursued due to the uncertainty of timely export approvals.
+
+“The assessment time for non-complex applications is up to 15 working days, commencing from the date a complete application is received,” the Defence statement said. “For complex applications the assessment time is up to 35 working days. Between 1 January and 30 June 2019, the average time for assessing a non-complex application was 14 days, and the average time for assessing a complex application was 32 days.
+
+“During the same period, two per cent of applications were received from universities and 16 per cent of applications were from Defence primes. The remaining applications are from other entities, including small to medium enterprises and individuals.”
+
+While Defence does not publish detailed analysis of the applications received (for example the number of joint applications between industry and academia), high-level data can be accessed to get a high level overview of the data. These figures clearly show that 89 per cent of the applications that Defence receives are not complex. The remaining 11 per cent therefore are complex, and so take up much more time, not unlike complex programs in the acquisition/sustainment space.
+
+89 per cent of the applications that Defence receives are not complex
+
+It is noteworthy that where a foreign license is also required – for example where products are dual US and Australian technology – Defence will not commence processing the Australian permit until they are in receipt of the US permit. As US ITAR approvals are also onerous, complex and lengthy, this can effectively double the processing time and the sovereign risk to Australian companies. There are many contracts available on the international market that require a tighter turn around for licences than Defence can currently provide. This effectively removes market share from Australian companies and national economic benefit.
+
+ADM understands there is also a fairly common practice of industry going to the minister to fast track applications for complex systems or situations where the technology is ‘overtly offensive’ rather than a defensive system. ADM has spoken to an SME who had huge troubles securing a mortgage for his house because the big four banks would not lend to a company/person so intimately involved in the arms trade.
+
+Where complex applications are concerned, one of the criticisms is the lack of transparency within the processing. Applicants have no way of tracking the status of their applications and are dissatisfied with having to await responses from a generic email account. In contrast, US ITAR applicants are able to communicate with identified case officers and access the ELISA database to track the progress of the application.
+
+ADM Comment: It is much easier for an Australian company to export cables or circuit boards than it is a complex weapons system like a radar (defensive) or sniper rifle (offensive), particularly to parts of the world where Australia may not have the same world view as the end customer.
+
+There are many Australians that are unhappy, or at least uncomfortable, with the Defence Export Strategy in any context. The push to become a Top 10 arms exporter does not sit well with many voters despite the economic gains that such a campaign might bring.
+
+The fact that Australia currently sits only a single place behind Saudi Arabia as the number two importer of arms globally is also not a factoid that plays well with the public.
+
+It is also telling that not one company ADM approached was willing to go on the record in regard to their experiences with DEC, fearing that biting the hand that feeds them would be counterproductive to future efforts.
+
+ADM will watch with interest as to how the ANAO report on the matter comes together, with the report open to submissions shortly.","{'label': 'Neutral', 'score': 0.999562680721283}",neutral,0.999562680721283,0
+Pacific 2019 Innovation Award winners announced - Australian Defence Magazine,"Fri, 11 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9ldmVudHMvYXdhcmRzL3BhY2lmaWMtMjAxOS1pbm5vdmF0aW9uLWF3YXJkLXdpbm5lcnMtYW5ub3VuY2Vk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ten Australian innovators have won Pacific 2019 Innovation Awards, worth some $45,000. They were announced at the official opening by Vice Admiral Chris Ritchie, chairman of the event organiser and presented by the Minister for Defence Industry Melissa Price
+
+The winners include a research organisation that has developed a new rust‐proofing treatment for Navy warships and submarines; an SME which has developed a world‐leading portfolio of counter‐drone technologies in just 12 months; and a team of young innovators who have developed a sonar sensor management system for the Navy’s new Hunter‐class frigates.
+
+The winners are:
+
+• Pacific 2019 National Civil Innovation Award: DroneShield (NSW)
+
+• Pacific 2019 National Defence Innovation Award: DMTC (VIC)
+
+• Pacific 2019 Defence SME Innovation Grant ($15,000): EM Solutions (QLD)
+
+• Pacific 2019 Young Civil Innovator Award ($15,000): Lawrence Marychurch,
+
+• DroneShield (NSW)
+
+• Pacific 2019 Young Defence Innovator Award ($15,000): Ryan McGrath, Thomas
+
+• Churack and Jason Sardi, Thales Australia (NSW)
+
+• Pacific 2019 Innovation Award for C4ISREW, Space, Cyber and Counter‐Drone Systems: Ultra Electronics Avalon Systems (SA)
+
+• Pacific 2019 Innovation Award for Autonomous and Unmanned Systems: Advanced Navigation (NSW)
+
+• Pacific 2019 Innovation Award for Platforms and Propulsion: DMTC (VIC)
+
+In addition, two Award contenders won a High Commendation: EM Solutions and Ultra Electronics.
+
+“Our Innovation Awards recognise and reward the creativity, achievements and sheer excellence of innovative Australian companies and individuals in the maritime and defence sectors,” Pacific 2019 CEO Ian Honnery said.
+
+“Australia’s naval shipbuilding program will provide a spur for development and innovation for the next five decades. We want to ensure that Australian organisations are at the forefront of this innovation, commercialising the results of research and development as products and services that strengthen both our industry and our national defence capability.
+
+“The mission of Pacific 2019 is to promote the development of Australian industrial, manufacturing and information/communications technology resources in the commercial maritime and naval defence sectors.”","{'label': 'Positive', 'score': 0.8796672224998474}",positive,0.8796672224998474,1
+Latest-generation CBTC driving urban rail modernisation - Rail Express,"Wed, 09 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnJhaWxleHByZXNzLmNvbS5hdS9sYXRlc3QtZ2VuZXJhdGlvbi1jYnRjLWRyaXZpbmctdXJiYW4tcmFpbC1tb2Rlcm5pc2F0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Graphic: Thales
+
+Rail Express speaks with Thales’ Arnaud Besse about the company’s seventh-generation SelTrac CBTC system.
+
+Over three decades since commercialisation, Thales’ SelTrac Communications Based Train Control (CBTC) system has been installed on more than 100 metro lines, in over 40 major cities around the world, and moves more than three billion passengers every year.
+
+Thales launched the future-focused seventh generation of the SelTrac train control system, SelTrac G7, at Innotrans 2018, and will demonstrate the system again at AusRAIL PLUS 2019 in Sydney later this year.
+
+Arnaud Besse, Marketing and Communications Director for Urban Rail Signalling at Thales, tells Rail Express the new generation of SelTrac is aimed at helping passenger operators achieve 100 per cent availability of service.
+
+“Every operator wants to reach 100 per cent availability of service, and so do we,” Besse says.
+
+Changes in SelTrac G7
+
+With the share of global population living in cities expected to rise from 50 to 70 per cent by 2050, governments around the world must not only build new rail lines, but must maximise the capacity of existing infrastructure.
+
+Thales says it has developed its SelTrac system with this in mind: SelTrac G7 is designed to be as flexible as possible, to help different operators, on new and existing lines, using varied rollingstock.
+
+“SelTrac is both valid for greenfield and brownfield projects,” Besse explains, “and we are rollingstock provider agnostic. We have installed our system in trains from 14 different rollingstock manufacturers, which is pretty much every major rollingstock manufacturer on Earth.”
+
+Besse says after safety, the top priority in the development of SelTrac G7 has been working with customers to assess their needs.
+
+The result is a forward compatible system designed to ensure long and extendable design life, without the need for disruptive, system-wide re-signalling every time a new line is added or a new fleet enters service.
+
+Thales says SelTrac G7 features a set of advanced functions designed to better help public transport operators manage network growth, extensions and fleet expansions, and prepare for the future of control operations.
+
+Thales has improved the user interface for the centralised command-and-control system, which uses web technologies to allow users to work on their own workstations. The equipment installed on trains is also 20 per cent more compact for SelTrac G7, than for previous generations.
+
+The seventh-generation system is also designed to operate with any kind of telecommunication system, including new-generation LTE, which is notably favoured in China over WiFi for CBTC communications.
+
+Besse says one key innovation in SelTrac G7 is a bidirectional line management capability. This means if there is an issue at any given time, anywhere on the network, the operator can reconfigure the entire network to reduce or eliminate downtime.
+
+“When you have an incident on your line, SelTrac G7 can very quickly and safely put in place any provisional services that require trains to do something they’re not usually supposed to do,” Besse explains.
+
+“This means when a potentially disruptive incident occurs, the overall impact on the passenger and the operator is minimised.”
+
+This added flexibility ties in with SelTrac’s decision support system, or DSS. “When an alarm occurs on the line, the DSS will propose to the operator a few scenarios,” Bess explains. “If there is a train broken down at a station, for example, the system could propose one option to run a provisional service, another for trains to skip the station, or turn around, and present the information needed for the operator to decide.”
+
+Another customer-driven improvement made to SelTrac G7 relates to the first ‘C’ in CBTC – communication. When a train loses communication, SelTrac G7 allows it to continue until it reaches the limit of its movement authority. This means temporary, brief communications outages don’t impact operations.
+
+“Our customers told us that losing communication on one train should not necessarily mean they don’t have room to manoeuvre, i.e. that the train cannot at least proceed with a few monitors. After all, in CBTC you are providing a limit of movement authority – basically how far the train can go given its position.”
+
+In the case where a train does not re-establish communication before reaching the edge of its movement boundary, it will stop. But, as in most cases, if it has re-established its connection to the system, it will be able to continue.
+
+“It’s all about minimising the cost of operations,” Besse explains. “Any disruption on the network costs the operator money, and costs satisfaction for the passenger. Nobody likes to be stuck on the network for additional time.”
+
+With major research and development always going on in sectors like mission critical defence, security, and avionics, Thales has also applied its developments in cybersecurity to the new generation of SelTrac.
+
+“The technology behind encryption analytics and hardware that we are supplying to banks, for example, is the same that supports SelTrac G7,” Besse says. “We have the best cybersecurity experts looking at our system, trying to break into it, and advising how it can be made even more secure. This relationship also means we have kept cybersecurity as one of the design constraints throughout development – so SelTrac G7 is what we call ‘cybersecure by design’.”
+
+Always moving block
+
+Besse credits the level of innovation Thales is able to achieve with SelTrac to the history of the system itself.
+
+First developed by Standard Elektrik Lorenz (hence SEL in the name) in the 1970s, the technology now known as SelTrac began as the first fully automatic moving-block signalling system. It has never been a fixed block system, and is not based on fixed block technology. Besse notes this means Thales is not attempting to move innovation over from a fixed block mindset, into moving block; instead that innovation is always being made with moving block as the status quo.
+
+Part of this alternative approach means SelTrac has been designed to not require a secondary train detection system, which can cost millions of dollars to install and maintain. Typically, such systems are installed as fixed “backup” systems, using things like axle counters to detect when a train enters a section of the network.
+
+“This would be a fixed block system, added to a moving block solution,” Besse reasons. “Because our competitors are coming from a fixed block background and moving to a moving block, this secondary train detection is embedded into their system. But we started from the other end, so we don’t need it.”
+
+Besse notes SelTrac has been used in Vancouver for more than 30 years without secondary train detection.
+
+“We can equip a secondary train detection system if our customer wants one, but SelTrac does not need one by definition. And from our perspective, this secondary train detection infrastructure becomes another thing that can eventually impact the availability of the network.”
+
+Flushing line conversion
+
+Thales recently helped MTA New York City Transit convert one of its busiest subway lines, the Flushing line, to full CBTC, and launched Automatic Train Operation (ATO) capabilities on the line in May.
+
+The Flushing line, which serve 400,000 daily passengers, went into revenue service using SelTrac CBTC in December 2018. A Certificate of Substantial Completion was finalised for the project in March 2019. Two months later, in May 2019, Thales ATO capabilities were enabled.
+
+Thales says the project was the first irreversible re-signalling cutover project in North America. Modernising 17 kilometres of track connecting 22 stations with a fleet of 46 trains, the result of the project is a more efficient operation.
+
+On-time performance since revenue service began has increased by more than 16 percentage points to 91 per cent. For riders, the average amount of time they now spend onboard a train beyond their scheduled travel time has been slashed by over a minute, to just 39 seconds.
+
+The ATO also means train operators can put more focus on platform procedures and emergency breaking, while the train runs automatically.
+
+“We are committed to supporting the future of New York City with its Fast Forward plan and contribute to increased public transit capacity for New Yorkers,” Thales Urban Rail Signalling Managing Director Dominique Gaiardo said in July.
+
+“By re-signalling one of the busiest lines in New York, Thales has once again proven its outstanding capabilities in urban rail modernisation.”
+
+Thales to bring SelTrac G7 to Australian Market
+
+Thales is actively engaging with local industry to bring it’s SelTrac G7 solution to the Australian Market – starting in Sydney and then expanding to other neighbouring geographic regions.
+
+“Thales is excited to bring this world class CBTC solution to the Australian market in order to help our local customers achieve their project objectives – it is already in operation in a number of major cities around the world – reducing congestion in our customer’s cities and improving the safety of their networks, reducing travel times for their commuters and providing major economic and social benefits to their countries,” General Manager of the Ground Transportation Systems business for Thales Australia Elias Barakat said.
+
+Contact: thalesgroup.com","{'label': 'Neutral', 'score': 0.9743189215660095}",neutral,0.9743189215660095,0
+AS IT HAPPENED | Jacob Zuma stay of prosecution application dismissed - News24,"Fri, 11 Oct 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5ld3MyNC5jb20vbmV3czI0L3NvdXRoYWZyaWNhL25ld3MvbGl2ZS1qYWNvYi16dW1hLWp1ZGdtZW50LWRlbGl2ZXJlZC1pbi1zdGF5LW9mLXByb3NlY3V0aW9uLWFwcGxpY2F0aW9uLTIwMTkxMDEx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales statement:
+
+Thales (Euronext Paris: HO) has been notified of the decision by the High Court in Pietermaritzburg on October 11th 2019 to deny the application for a permanent stay of prosecution.
+
+Thales notes the decision of the High Court and is in the process of reviewing the judgment with its legal team after which it will assess its legal options.","{'label': 'Neutral', 'score': 0.998828113079071}",neutral,0.998828113079071,0

@@ -1,0 +1,931 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Wins Google Cloud Technology Partner of the Year Security – Data Protection Award - Thales,"Wed, 30 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L3ByZXNzX3JlbGVhc2UvdGhhbGVzLXdpbnMtZ29vZ2xlLWNsb3VkLXRlY2hub2xvZ3ktcGFydG5lctIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Wins Google Cloud Technology Partner of the Year Security – Data Protection Award Digital Identity and Security Share this article
+
+
+
+LinkedIn
+
+Thales recognised as Google Cloud Technology Partner of the Year in the Security – Data Protection category
+
+
+
+
+
+The Thales and Google Cloud collaboration addresses the needs of organizations around the world that are facing ever-increasing security, sovereignty, and performance requirements for their cloud deployments. With many years of cybersecurity expertise, Thales provides the level of trust and security required for customers around the world to move to the cloud, while maintaining the necessary level of control. By combining Thales’ platform expertise with Google Cloud’s enterprise-grade solutions and cutting-edge infrastructure, ​ the two companies work closely on a number of broad data security initiatives.
+
+Thales, in its constant search of excellence in its security portfolio, recently announced a new collaboration to develop data security capabilities and bring additional AI-powered features to users of its CipherTrust Data Security platform. This is powered by Google Cloud’s Vertex AI machine learning capabilities, to discover, classify and protect sensitive data in the cloud. The machine learning functionality helps to automate fundamental tasks for customers and ensure their sensitive cloud-hosted data remains protected.
+
+Since late 2022, Thales’ CipherTrust Cloud Key Manager has also supported Bring Your Own Key (BYOK) initiatives, including those for Google Cloud and Google Workspace. Thales and Google Cloud have also collaborated to operate a sovereign cloud joint venture (S3NS) for Google Cloud customers in France who seek to meet stringent data sovereignty requirements, such as those applicable to state and critical infrastructure organizations.
+
+Thales has built a structured cloud offering for companies that want to meet the most demanding data protection standards. In France, S3NS, the joint venture between Thales and Google Cloud, aims to offer French companies and public institutions a solution providing the equivalent of Google Cloud , compliant with the “SecNumCloud” label, a certification from the French information systems security agency (ANSSI). To date, SecNumCloud has the highest level of protection in France, excluding the protection of national defense secrets, and in Europe. S3NS has a first offering already available that offers additional guarantees & controls, such as data location in Europe and external encryption managed by S3NS (based on Thales technology).
+
+“Google Cloud’s partner awards recognize the significant impact and customer success that our partners have driven over the past year,"" said Kevin Ichhpurani, Corporate Vice President, Global Ecosystem and Channels at Google Cloud. ""We're delighted to recognize Thales as a 2023 Google Cloud Partner Award winner, and look forward to a continued strong partnership in support of our mutual customers.""
+
+Sebastien Cano, Senior Vice President of Cloud Protection and Licensing activities at Thales, commented: “We are very proud of our ongoing relationship with Google Cloud and this latest award recognises the brilliant work we’ve been doing with them across a range of projects. Together we are helping customers around the world discover, classify and protect their data more efficiently, and ensure their move to the cloud is as secure and compliant as possible.”
+
+Thales is also participating at Google Cloud Next, which is taking place from 29-31 August 2023. Some of the sessions include:
+
+How global leaders are addressing digital sovereignty requirements, with Cyprien Falque, CEO of S3NS More details about the event, which will be available to watch both live and on-demand online, can be found here.","{'label': 'Neutral', 'score': 0.6636673212051392}",neutral,0.6636673212051392,0
+"Telesat drops Thales Alenia Space, chooses MDA for Lightspeed LEO satellite constellation - DatacenterDynamics","Tue, 15 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kYXRhY2VudGVyZHluYW1pY3MuY29tL2VuL25ld3MvdGVsZXNhdC1kcm9wcy10aGFsZXMtYWxlbmlhLXNwYWNlLWNob29zZXMtbWRhLWZvci1saWdodHNwZWVkLWxlby1zYXRlbGxpdGUtY29uc3RlbGxhdGlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The company announced that space technology company MDA Ltd. will build 198 advanced satellites for its Lightspeed program.
+
+Telesat also announced that Lightspeed is now fully funded through to service delivery through a mixture of the company’s own equity contribution, vendor financing, and funding commitments from its Canadian federal and provincial government partners.
+
+First announced in 2018, Thales Alenia Space was chosen to be the prime manufacturer for the Lightspeed Constellation back in February 2021.
+
+However, supply chain issues mean the fleet was pushed back from its original 2023 launch date and dropped the number of satellites from 298 to 198, having already previously pushed back the original launch date of 2020 after delays in choosing a contractor.
+
+As recently as last month, Thales Group’s chief executive Patrice Caine suggested that Telesat’s order with the company was still “very much active.”
+
+The company said the switch to MDA results in a $2 billion cost saving, which means the constellation is now fully funded to the tune of $3.5bn. Telesat is investing around $1.6bn, with Canadian federal and provincial government partners contributing around $2bn. The operator also has “some hundreds of millions of dollars” in financing from an undisclosed vendor that CEO Dan Goldberg said was not MDA.
+
+“The re-designed Telesat Lightspeed network will achieve increased network efficiency and enhanced flexibility to focus and dynamically deliver capacity to users,” Telesat said. “These technology advances allow each satellite to be slightly smaller than the satellites Telesat was previously considering while still maintaining the highest levels of service performance, resiliency and overall usable capacity in the network.”
+
+The contract is the largest in MDA’s history and includes the design, manufacture, assembly and test of the satellites, which MDA will produce at its facilities in Montreal, Quebec.
+
+Satellite launches are scheduled to commence in mid-2026 and polar and global services are scheduled to begin in late 2027.
+
+The operator has funding commitments for the 156 satellites and will use Lightspeed revenues to fund the remaining 42 units. Telesat also has the option to purchase up to 100 additional satellites.
+
+“I’m incredibly proud of the Telesat team for their innovative work to further optimize our Telesat Lightspeed design – which was already a highly advanced and high performing LEO network – resulting in dramatically reduced costs with unmatched enterprise-class service offerings,” said Telesat CEO Goldberg.
+
+“MDA is a world-class satellite prime contractor with an impressive track record and a number of recent high profile, strategic space programs announced, and it is a privilege to be working side-by-side with them on the flagship, game-changing Telesat Lightspeed constellation.”
+
+Mike Greenley, CEO of MDA, added: “True to our values, MDA has been committed to being a trusted Telesat Lightspeed mission partner since the beginning, and our proven performance as an LEO constellation satellite prime contractor will now be leveraged to take the constellation forward.”
+
+According to SpaceNews, the new MDA satellites will offer 10 terabits per second (Tbps) of capacity per satellite – the same as previously planned – but with a smaller satellite that uses digital beamforming instead of analog antennas.
+
+The delays, however, mean the company will have to apply for an extension for its Ka-band spectrum rights with the ITU.
+
+Last year Globalstar picked MDA to build its Apple-backed third-generation satellites.
+
+In other satellite news:
+
+- Telefónica has renewed its contract with SES Astra until 2030 for €90 million. The original deal was set to end in 2027.
+
+- Viasat has announced the opening of a Real-Time Earth (RTE) ground station in Hokkaido, Japan.","{'label': 'Neutral', 'score': 0.9985200762748718}",neutral,0.9985200762748718,0
+Thales partners with ESA on Galileo cybersecurity and enhancements - GPS World magazine,"Tue, 01 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiImh0dHBzOi8vd3d3Lmdwc3dvcmxkLmNvbS8xMDMyNjUtMi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and the European Space Agency (ESA) will be working together on the cybersecurity aspects of the Galileo Second Generation (G2G) program.
+
+Under the partnership, Thales’ scalable and flexible architecture, and security equipment will enable the G2G program to strengthen its ability to detect and respond to new cyberthreats. The end-to-end solution Thales proposed will contribute to the development of greater security and resilience of satellites.
+
+In addition, Thales Alenia Space has partnered with the ESA to design and build the G2G ground mission segment, as well as support system engineering and technical assistance activities. The company also will provide six of the 12 satellites of the constellation.
+
+The second-generation ground mission segment is designed to generate and connect the navigation services to the Galileo satellites and to keep the satellites synchronized with a common time reference. The first version will arrive in time for the launch of the first second-generation satellites and for the validation of the system’s in-orbit capabilities. The second version will be responsible for the missions of both the first- and second-generation Galileo satellites.
+
+The new ground mission system, which includes several major technological innovations, will provide more than four billion users worldwide with improved performance in terms of positioning, navigation and synchronization.","{'label': 'Positive', 'score': 0.9995120763778687}",positive,0.9995120763778687,1
+Thales Australia's Maritime Autonomy and SME Collaboration Precinct to Grow Jobs and Investment in Newcastle - Naval News,"Wed, 23 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL25hdmFsLW5ld3MvMjAyMy8wOC90aGFsZXMtYXVzdHJhbGlhcy1tYXJpdGltZS1hdXRvbm9teS1hbmQtc21lLWNvbGxhYm9yYXRpb24tcHJlY2luY3QtdG8tZ3Jvdy1qb2JzLWFuZC1pbnZlc3RtZW50LWluLW5ld2Nhc3RsZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia’s Maritime Autonomy and SME Collaboration Precinct to Grow Jobs and Investment in Newcastle Thales Australia is developing a masterplan for the company’s Carrington site on the Newcastle foreshore to establish a sovereign Maritime Autonomy and SME Collaboration Precinct to support the Royal Australian Navy’s (RAN) Mine Countermeasures and Military Survey Capability SEA1905-1 program.
+
+Thales press release
+
+For over 30 years, the Carrington site has been critical in supporting the RAN’s Huon class MHC vessels and mine warfare capability. With the RAN’s MHCs scheduled for gradual retirement from service in the future, the Carrington site development, supported by Thales Australia’s DISP Level 3 classification, will establish an Australian eyes-only dedicated home for the development and deployment of a sovereign maritime autonomy capability, helping advance and accelerate the RAN’s Mine Countermeasures and Military Survey Capability, SEA1905-1.
+
+Building on Newcastle Harbour’s distinguished, century-long maritime heritage, the new Maritime Autonomy and SME Collaboration Precinct will realize Thales’s long-term commitment to supporting the RAN’s maritime autonomy ambitions in the Hunter region – with Carrington the ideal location for the capability as it enables rapid access to both shallow and deep water for trial teams.
+
+The Thales development at Carrington will also expand the company’s world-leading technology and autonomous capability footprint, with Maritime Autonomy Centres already operating in both the UK and the U.S – the Carrington development in Australia completing the capability triangle to enable the pooling of technology, expertise and industrial effort between the three countries.
+
+The purpose-built facility will also support collaboration across research institutions, SME partners, and key industrial partners to establish future sovereign technology pathways for the development and integration of autonomous vessels in support of Australia’s nuclear deterrence capability.","{'label': 'Neutral', 'score': 0.9412704706192017}",neutral,0.9412704706192017,0
+Driver’s licenses and ID cards from Thales cross 100M issued mark in North America - Biometric Update,"Wed, 30 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmJpb21ldHJpY3VwZGF0ZS5jb20vMjAyMzA4L2RyaXZlcnMtbGljZW5zZXMtYW5kLWlkLWNhcmRzLWZyb20tdGhhbGVzLWNyb3NzLTEwMG0taXNzdWVkLW1hcmstaW4tbm9ydGgtYW1lcmljYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales, one of North America’s leading providers of physical and mobile driver’s licenses, has announced that more than 100 million physical driver’s licenses and ID cards made by the company have been issued in the U.S. and Canada. Since 2007, Thales has supplied driver’s licenses and ID cards to 17 U.S. states and Canadian provinces, the announcement states.
+
+The company lists 12 states among them, including Colorado, where the mobile version of the state’s driver’s license is becoming more accessible.
+
+Colorado’s mDLs can now be stored on Apple Wallet, with Google Wallet support coming soon, state officials expect the adoption of digital IDs to accelerate, reports Route Fifty. The state first piloted the program in 2017 with Thales (then known as Gemalto) and gave users the ability to access digital IDs with the myColorado app in 2019.
+
+Taking advantage of the capabilities and market reach of Apple and Google is part of the state’s strategy for encouraging wide adoption of its mDL.
+
+Thales’ national ID programs allow for the implementation of mDLs for each cardholder. The company credits its seven percent growth in organic sales in the first half of the 2023 fiscal year partly to digital identity and security sales and was certified to the ISO/IEC 18013-5:2021 standard for mDLs at the end of 2022.
+
+“We’re proud to see U.S. residents benefiting from Thales technology through innovative credentials that can be used for daily purposes,” says Thales Identity and Biometrics North America Executive VP Tony Lo Brutto. “This milestone reflects the collaborative efforts of each of our customers and Thales to provide the most secure documents that effectively prevent fraud.”
+
+Article Topics
+
+biometrics | Canada | Colorado | digital ID | driver's license | ID card | mDL | Thales | United States","{'label': 'Positive', 'score': 0.938584566116333}",positive,0.938584566116333,1
+Telesat's initial LEO constellation fully funded after manufacturer switch - SpaceNews,"Fri, 11 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BhY2VuZXdzLmNvbS90ZWxlc2F0cy1sZW8tY29uc3RlbGxhdGlvbi1mdWxseS1mdW5kZWQtYWZ0ZXItbWFudWZhY3R1cmVyLXN3aXRjaC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"TAMPA, Fla. — Telesat has the funding to move forward with plans for a low Earth orbit (LEO) broadband network after saving $2 billion by pivoting to smaller satellites from MDA following production delays at Thales Alenia Space, the Canadian operator said Aug. 11.
+
+MDA is building 198 satellites for Telesat’s Lightspeed constellation under a contract worth 2.1 billion Canadian dollars ($1.6 billion), with launches slated to start in the middle of 2026.
+
+Weighing 750 kilograms each, Telesat CEO Dan Goldberg said the satellites are 75% smaller than earlier versions planned by Thales Alenia Space, but would have the same performance by using digital beam-forming array antennas instead of the analog terminals MDA was due to supply as a subcontractor.
+
+Goldberg said Telesat has funding commitments for the 156 satellites it would need to provide initial polar and global services from late 2027.
+
+The extra 42 satellites to complete the constellation would be funded through revenues Telesat expects to gain from providing initial services to enterprise and government customers.
+
+Telesat expects the total cost for 156 satellites to be around $3.5 billion, when factoring in launches and other expenses, including the ground systems and user terminal technology that would also be used for the 42 follow-on satellites.
+
+Around $1.6 billion of this cost would be funded by Telesat equity, Goldberg said during the company’s earnings call, and $2 billion would come from Canadian federal and provincial financing.
+
+The operator also has “some hundreds of millions of dollars” in financing from an undisclosed vendor that he said was not MDA.
+
+The MDA contract includes options for an additional 100 satellites to expand the constellation to 298 satellites.
+
+Telesat initially planned to launch 298 satellites in 2020 for commercial services starting in 2021.
+
+However, the company held off picking a prime contractor until 2021 to get a better deal on parts, only for Europe’s Thales Alenia Space to run into pandemic-related supply chain issues that led to the constellation being downsized a year later to 198 satellites.
+
+“It’s been a long road, Goldberg said during the earnings call, “Covid and the supply chain constraints and inflation that Covid brought represented real obstacles.”
+
+Glenn Katz, Telesat’s chief commercial officer, told SpaceNews the company has contracted all the launch vehicles required to complete the 198-satellite constellation, but declined to disclose details.
+
+The company has previously announced plans to use rockets still under development by Blue Origin and Relativity Space.
+
+Design changes
+
+Goldberg said during the earnings call that Telesat had passed on an opportunity years ago to use MDA’s digital beam-forming technology because the technology was too immature.
+
+However, following further investment by MDA, “we came to the conclusion that it was now sufficiently mature,” he said “and that not only could we leverage it but that we had to, given the massive efficiencies it delivers.”
+
+Integrated with digital processors, he said the technology enables Telesat to triple the number of beams per satellite, while improving link performance and the overall efficiency of the planned network.
+
+While the old satellite design required each satellite to have two pairs of analog beam-forming antennas, he said only a single pair of digital antennas would be required to deliver Telesat’s capacity target.
+
+He said this enables the satellites to be smaller while enabling the same amount of performance for the constellation, around 10 terabits per second (Tbps) of capacity. The design life for each satellite also remains unchanged at 11 years.
+
+Telesat originally aimed to provide 15 Tbps with earlier plans for a 298-strong constellation.
+
+But while Telesat had announced it selected Thales Alenia Space as prime contractor for the constellation, the companies did not have a manufacturing contract in place.
+
+Telesat will instead be the anchor customer for MDA’s software-defined configurable satellite design, MDA CEO Mike Greenley said Aug. 11 during the company’s separate earnings call.
+
+Greenley said MDA’s high-volume manufacturing facilities in Montreal could churn out two satellites a day after getting up to speed, “helping dramatically to reduce production costs and schedules for our customers.”
+
+While Telesat is the inaugural customer for the company’s integrated digital satellite product, MDA vice president of corporate communications Amy Macleod said the foundational technologies have previously flown in space.
+
+It is MDA’s second contract for a LEO constellation in 18 months after Globalstar picked the company last year to build its Apple-backed third-generation satellites.
+
+Katz said Telesat has reached a spectrum coordination agreement with SpaceX’s Starlink LEO network for its revised constellation, and has another in place for the LEO satellites Amazon is planning for Project Kuiper. Spectrum coordination talks are ongoing with British LEO broadband operator OneWeb.
+
+Telesat’s LEO deployment delays mean the company will need to secure regulatory extensions to retain its priority Ka-band spectrum rights, and Katz said the company recently filed for one from the International Telecommunication Union (ITU), an affiliate of the United Nations.
+
+Government-funding commitments for Lightspeed are also subject to due diligence and the conclusion of definitive agreements that the company expects to wrap up later this year.
+
+The cash Telesat is injecting into the constellation includes nearly $350 million Canadian dollars it is due to get in December from clearing C-band spectrum in the United States for terrestrial 5G telcos.
+
+Financials
+
+Telesat is targeting a 30% return on investment from Lightspeed, which is seeking a slice of an enterprise and government connectivity market the company estimates would be worth about 200 billion dollars around 2025.
+
+The company reported revenues of 180 million Canadian dollars for the three months ended June 30, down 6% compared with the same period last year when adjusted for changes in foreign exchange rates.
+
+The decrease was partly driven by a reduction in revenues from one of Telesat’s satellite TV broadcast customers in North America.
+
+However, Telesat said an increase in revenue from LEO satellite-to-satellite communications work with NASA helped partially offset its overall sales decline.
+
+Adjusted EBITDA, or earnings before interest, taxes, depreciation and amortization, fell 8% to 139 million Canadian dollars.
+
+Rocket Lab launched the latest prototype for Lightspeed July 17 after LEO 1, which launched in 2018, ran out of fuel amid the constellation’s protracted delays.","{'label': 'Neutral', 'score': 0.9999687671661377}",neutral,0.9999687671661377,0
+"Thales Recognised as an Overall, Innovation and Market Leader in KuppingerCole Analysts Leadership Compass for ... - Thales","Wed, 30 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZGlnaXRhbC1pZGVudGl0eS1hbmQtc2VjdXJpdHkvcHJlc3NfcmVsZWFzZS90aGFsZXMtcmVjb2duaXNlZC1vdmVyYWxsLWlubm92YXRpb24tYW5k0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Recognised as an Overall, Innovation and Market Leader in KuppingerCole Analysts Leadership Compass for Access Management Digital Identity and Security Share this article
+
+
+
+LinkedIn
+
+Thales OneWelcome Identity Platform recognised for offering a comprehensive suite of integrated Identity and Access Management products and services
+
+Thales OneWelcome Identity Platform is compatible with current IAM practices, while accommodating emerging needs and future trends such as identity proofing and Self Sovereign Identity
+
+
+
+
+
+The Thales One Welcome Identity platform is built on open and extendable architecture, ensuring compatibility with current Identity and Access Management practices while accommodating emerging needs like identity proofing, externalized authorization, delegated user management and consent & preference management. For higher assurance use cases, capabilities like strong customer authentication (SCA) and phishing-resistant MFA (multi-factor authentication) are provided directly by Thales, rather than relying on third parties.
+
+""With its presence and through a large network of distributors and sellers, Thales has a unique capability to design, develop, and deploy equipment, systems, and services that meet the most complex security requirements. The Thales OneWelcome Identity Platform offers a comprehensive suite of integrated IAM products and services designed to address various identity use cases for customers, partners, and external identities,"" saidAlejandro Leal, Analyst at KuppingerCole.
+
+The Workforce Access Management component, SafeNet Trusted Access (STA), is included in the platform and offers highly accessible access management and authentication capabilities specifically designed for common enterprise workforce scenarios like remote access and cloud application access. It ensures the highest levels of identity assurance for organisations, bolstering security and minimising risks associated with workforce-related access. This suite enables organisations to enhance their identity management practices, adapt to evolving technologies, and effectively safeguard their systems and data.
+
+""The industry is rapidly moving towards a decentralised identity ecosystem, with fast-evolving national, organisational, and individual sovereignty concerns. Combining our deep technology and commercial expertise in identity validation and digital security with our global reach, the Thales OneWelcome Identity Platform enables organizations to orchestrate frictionless, trusted and secure digital journeys for all users,"" said Danny de Vreeze, Vice President, Identity and Access Management Products at Thales.","{'label': 'Positive', 'score': 0.9991642236709595}",positive,0.9991642236709595,1
+Forensic investigation goes mobile with Thales - Thales,"Mon, 21 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZGlnaXRhbC1pZGVudGl0eS1hbmQtc2VjdXJpdHkvcHJlc3NfcmVsZWFzZS9mb3JlbnNpYy1pbnZlc3RpZ2F0aW9uLWdvZXMtbW9iaWxlLXRoYWxlc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Forensic investigation goes mobile with Thales Digital Identity and Security Government Share this article
+
+
+
+LinkedIn
+
+Thales presents its Evidence and Investigation Suite , a new generation of biometric identification solution dedicated to police and security forces.
+
+The cutting-edge offering includes a complete set of features supported by cloud-based solutions and compact multimodal biometric devices, for faster crime-solving and efficient investigation of persons-of-interest.
+
+In addition, the ultra-mobile multifunction application provides front-line operators with adapted biometric solution, bringing forensic investigation capabilities to the field.
+
+For decades, Thales expertise has allowed investigation professionals to record, analyze and compare biometric characteristics with the highest level of performance. Today, Thales puts forensic investigations to the next level with one of the top NIST-ranked solutions, uncompromised on accuracy, customizability, and scalability. With its new Evidence and Investigation Suite, Thales put the emphasis on remote accessibility and utmost mobility, offering forces full flexibility and improved results.
+
+
+
+
+
+According to the World Bank, 7 out of 10 individuals will live in cities by 20501. This rise in global urbanization leads to a significant need for technology to effectively improve public security. Thales Evidence and Investigation Suite is a cloud-based comprehensive suite of solutions and services that fulfill security forces' time constraints and flexibility demands. The Suite boosts and enhances the current capabilities of field operations by allowing investigators to access highly professional tools remotely on their mobile phones from anywhere.
+
+“In the fight against crime, time is the enemy”, highlights Luc Tombal, Public Security Solutions Director at Thales “that’s why Thales Evidence and Investigation Suite was created by experts with extensive field knowledge for experts.”
+
+Thales’ solution comprises compact devices that can capture biometric data such as facial and iris images, finger- and palmprints wherever they are needed; as well as secure data storage capacity and processing tools that support forensic teams during investigations. The security forces can rely on Thales and its 30+ years of biometrics expertise when making critical decisions in the fight against crime.
+
+“Thanks to the ultra-mobile multifunction application, each investigator can benefit from having a biometric forensic lab at the palm of their hand that strives to simplify and accelerate the procedure. Time optimization is crucial in investigations, and this unique approach allows access to vital information within minutes, expediting criminal case resolutions compared to the traditional days-long process,” added Luc Tombal.
+
+1 https://www.worldbank.org/en/topic/urbandevelopment/overview","{'label': 'Positive', 'score': 0.9999409914016724}",positive,0.9999409914016724,1
+Thales and Naval Group to provide through-life support for France's multi-mission frigates - Thales,"Thu, 31 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL2RlZmVuY2UvcHJlc3NfcmVsZWFzZS90aGFsZXMtYW5kLW5hdmFsLWdyb3VwLXByb3ZpZGUtdGhyb3VnaC1saWZlLXN1cHBvcnQtZnJhbmNlcy1tdWx0adIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Naval Group to provide through-life support for France's multi-mission frigates Naval Forces France DSEI Share this article
+
+
+
+LinkedIn
+
+Awarded to Thales by Naval Group, the seven-year contract to provide through-life support for the French Navy's multi-mission frigates (FREMM) has come into effect.
+
+The contract will secure the long-term operational availability of the Thales equipment on board the FREMM frigates to guarantee that the French Navy can conduct its missions in a timely fashion.
+
+An integrated team of experts from Naval Group and Thales has been formed to speed up the diagnosis and resolution of technical subjects and sustain the operational capabilities of the FREMM frigates over the long term.
+
+
+
+© Thales
+
+The FREMM through-life support contract, which came into effect in January 2023, is one of the largest support contracts awarded to Thales by Naval Group since the creation of the French Navy's Fleet Support Service (SSF). It will guarantee the at-sea availability of the Navy's eight multi-mission frigates based in Brest and Toulon. Thales will draw on its industrial resources and product expertise to support the warships, ensure the day-to-day availability of their on-board systems and sustain their operational capabilities over the long term.
+
+The FREMM programme was launched in 2005 and is one of the major components of France's anti-submarine warfare capability. Equipped with Thales sonars, radars, optronics and communication systems, the frigates are widely acclaimed for their operational range, endurance and high performance: the ships and their crews have been endorsed by the US Navy for their anti-submarine warfare capabilities, winning prestigious Hook’em Awards in 2020, 2021 and 2022.
+
+The intensive deployment of warships and their systems puts added pressure on every component of a naval force. The operational availability of France's multi-mission frigates is a key factor in maintaining the country's naval capabilities and ensuring the freedom of action of the French armed forces.
+
+To optimise the use of the French Navy's resources over the long term, Naval Group and Thales are setting up an integrated centre of expertise drawing on the specialised know-how and capabilities of both companies. To troubleshoot and resolve technical subjects quickly and efficiently, the centre's dedicated multi-disciplinary team will constantly monitor the technical performance of the Thales equipment and provide a rapid response capability at all times. Thales will ensure proactive component obsolescence management to further enhance the agility of the FREMM technical support teams, analysing system status on a regular basis to identify potential supply chain issues and speed problem resolution by experts from Naval Group and Thales.","{'label': 'Neutral', 'score': 0.9959272742271423}",neutral,0.9959272742271423,0
+Thales Australia's Maritime Autonomy and SME Collaboration Precinct to grow jobs and investment in Newcastle - Thales,"Wed, 23 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS1wYWNpZmljL2F1c3RyYWxpYS9wcmVzcy1yZWxlYXNlL3RoYWxlcy1hdXN0cmFsaWFzLW1hcml0aW1lLWF1dG9ub215LWFuZC1zbWXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Newcastle, NSW, 21 August 2023 - Thales Australia can reveal that work is underway to develop a masterplan for the company’s Carrington site on the Newcastle foreshore to establish a sovereign Maritime Autonomy and SME Collaboration Precinct to support the Royal Australian Navy’s (RAN) Mine Countermeasures and Military Survey Capability SEA1905-1 program, should Thales be selected - injecting over $40 million in the local Hunter economy in the first five years, and creating over 100 new jobs.
+
+For over 30 years, the Carrington site has been critical in supporting the RAN’s Huon class MHC vessels and mine warfare capability. With the RAN’s MHCs scheduled for gradual retirement from service in the future, the Carrington site development, supported by Thales Australia’s DISP Level 3 classification, will establish an Australian eyes-only dedicated home for the development and deployment of a sovereign maritime autonomy capability, helping advance and accelerate the RAN’s Mine Countermeasures and Military Survey Capability, SEA1905- 1.
+
+Building on Newcastle Harbour’s distinguished, century-long maritime heritage, the new Maritime Autonomy and SME Collaboration Precinct will realise Thales’s long-term commitment to supporting the RAN’s maritime autonomy ambitions in the Hunter region – with Carrington the ideal location for the capability as it enables rapid access to both shallow and deep water for trial teams.
+
+The Thales development at Carrington will also expand the company’s world-leading technology and autonomous capability footprint, with Maritime Autonomy Centres already operating in both the UK and U.S – the Carrington development in Australia completing the capability triangle to enable the pooling of technology, expertise and industrial effort between the three countries.
+
+The purpose-built facility will also support collaboration across research institutions, SME partners, and key industrial partners to establish future sovereign technology pathways for the development and integration of autonomous vessels in support of Australia’s nuclear deterrence capability.","{'label': 'Neutral', 'score': 0.9468599557876587}",neutral,0.9468599557876587,0
+Thales introduces multimodal biometric evidence suite for mobile forensics - Biometric Update,"Tue, 22 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJpb21ldHJpY3VwZGF0ZS5jb20vMjAyMzA4L3RoYWxlcy1pbnRyb2R1Y2VzLW11bHRpbW9kYWwtYmlvbWV0cmljLWV2aWRlbmNlLXN1aXRlLWZvci1tb2JpbGUtZm9yZW5zaWNz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A new software and hardware bundle to give police and security forces remote multimodal biometric identification capabilities has been unveiled by Thales, under the name Thales Evidence and Investigation Suite (TEIS).
+
+The combined solution includes Cogent palm and fingerprint biometric scanners and other biometric capture devices, a workflow engine and database, a biometric matching engine and what the company describes as a full set of software tools for evidence enhancement and analysis. The software runs in the cloud to bring forensic capabilities to the mobile phones used by officers in the field, according to the announcement.
+
+Thales says in the announcement that TEIS includes technology ranked highly by NIST, and delivers accuracy with customization and scalability.
+
+TEIS supports iris and face biometrics, in addition to palm and fingerprints.
+
+“Thanks to the ultra-mobile multifunction application, each investigator can benefit from having a biometric forensic lab at the palm of their hand that strives to simplify and accelerate the procedure,” says Thales Public Security Solutions Director Luc Tombal. “Time optimization is crucial in investigations, and this unique approach allows access to vital information within minutes, expediting criminal case resolutions compared to the traditional days-long process.”
+
+The last major addition to Thales’ biometrics portfolio was a multimodal biometric pod for border control launched late last year.
+
+Article Topics
+
+biometric identification | criminal ID | forensics | law enforcement | multimodal biometrics | Thales","{'label': 'Positive', 'score': 0.9454837441444397}",positive,0.9454837441444397,1
+Hitachi proposes disposal of French sites to seal Thales deal - International Railway Journal,"Thu, 31 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9uZXdzL2hpdGFjaGktcHJvcG9zZXMtZGlzcG9zYWwtb2YtZnJlbmNoLXNpdGVzLXRvLXNlYWwtdGhhbGVzLWRlYWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"BRITAIN’s rail regulator, the Office of Rail and Road (ORR), says a remedy package proposed by Hitachi Rail under which it will divest certain business assets would satisfy concerns over future competition in the British mainline signalling market following its proposed £1.7bn acquisition of Thales’ Ground Transportation Systems business.
+
+The proposed remedy package comprises the disposal of Hitachi Rail STS France, which includes the manufacturing site in Riom, France, and the core site in Les Ulis, France, which has research and development, engineering, and project delivery and design capabilities.
+
+In its response to a notice of possible remedies, Hitachi Rail states that it has serviced its British projects over the past 15 years by leveraging its French operations. Under the proposal, Hitachi Rail would divest all shares of Hitachi Rail STS France, transferring ownership of the ETCS wayside and digital interlocking platforms as well as its Argos wayside and interlocking platforms. It will also dispose of Hitachi Rail France’s business for ETCS and legacy onboard unit projects along with ownership or access to intellectual property rights. The remedy taker would benefit from the transfer of all existing ETCS ATP wayside, interlocking, ETCS and legacy onboard unit projects, service and maintenance agreements.
+
+In addition, the divestment would include all of Hitachi’s resources and assets relating to digital mainline signalling, or ETCS, in Britain, and the associated backlog of projects. Hitachi proposes carving out this element of its business into a new legal entity that would be transferred to Hitachi Rail France. It will also include the activities and backlog contracts of Hitachi Rail Deutschland, including an office in Munich, which has a test laboratory for factory acceptance tests with customers.
+
+The ORR notes that the proposed divestment business is a standalone, viable business with an experienced management team, and “in the hands of an appropriate remedy taker would be capable of replicating the competitive constraint of Hitachi Rail in the UK.”
+
+“The remedy taker will be acquiring a business which has been established for over 100 years in the European signalling market, has more than 500 FTEs with substantial signalling, engineering, and manufacturing experience and capability; and crucially, to the CMA’s provisional theory of harm, a business which has experience of delivering mainline signalling projects for Network Rail,” the ORR says.
+
+The ORR made the observations in a letter to Mr Stuart McIntosh, chair of the Competition and Markets Authority’s (CMA) Inquiry Group, which is investigating the proposed acquisition. The CMA’s provisional assessment announced in June found that the merger as it stands is likely to result in a substantial lessening of competition in the supply of “digital mainline signalling” or ETCS.
+
+CBTC
+
+However, the Inquiry Group has now updated its provisional findings regarding the supply of CBTC in the British market, stating on August 23 that the acquisition would not result in a substantial reduction in competition in the supply of CBTC to Britain.
+
+Hitachi welcomed this update, stating that it will continue “to work closely with the CMA to agree the best possible mitigations and appropriate way forward.” It also confirmed that a proposal to include the disposal of its core CBTC v6.6 Orion technology within the divestment package is no longer required.
+
+The CMA's assessment focused on the upcoming projects to resignal the Piccadilly and Bakerloo lines.
+
+Transport for London (TfL) is the main customer for CBTC in Britain and its current suppliers are Thales and Siemens. Hitachi, which acquired Ansaldo STS in 2015, has not previously supplied signalling for the London Underground (LU).
+
+CMA’s assessment focused on likely competition to re-signal the Bakerloo and Piccadilly lines. It states that the new evidence supports the provisional conclusion that Hitachi would not be a credible competitor to Thales or Siemens in these future tenders, leading to the provisional conclusion that Hitachi is not a credible bidder to supply CBTC to LU in the near or medium term.
+
+The CMA adds that re-signalling of LU lines is regarded as especially complex and challenging compared with other metro systems and that most of Hitachi’s relevant CBTC projects are smaller and less complex than the upcoming Piccadilly and Bakerloo projects.
+
+“Effective competition in the urban and digital mainline signalling markets is essential for ensuring the UK’s rail transport systems are efficient and reliable for passengers who rely on these services,” McIntosh says.
+
+“Having reviewed the additional evidence, which indicates that Hitachi is unlikely to be a credible bidder for signalling projects on the LU in the foreseeable future, we have provisionally concluded that the merger would not harm competition in the supply of these systems in the UK.
+
+“That said, our provisional view that this merger raises concerns in the supply of digital mainline signalling in Great Britain, is not affected by today’s announcement.”
+
+The CMA is expected to issue its final report on the proposed acquisition by October 6.
+
+Hitachi announced the proposed acquisition in August 2021. It said that the expansion would drive growth in its global railway signalling business, bringing an enhanced turnkey offering to new markets around the world and accelerating development of its Mobility as a Service (MaaS) offer.
+
+Regulatory approvals have been secured in all other relevant jurisdictions apart from the European Union (EU), where Hitachi says it is “making good progress towards securing clearance.”","{'label': 'Neutral', 'score': 0.9993057250976562}",neutral,0.9993057250976562,0
+Thales Australia develops sovereign Maritime Domain Awareness capability - Thales,"Wed, 02 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS1wYWNpZmljL2F1c3RyYWxpYS9tYWdhemluZS90aGFsZXMtYXVzdHJhbGlhLWRldmVsb3BzLXNvdmVyZWlnbi1tYXJpdGltZS1kb21haW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia is developing a Maritime Domain Awareness (MDA) capability to detect, identify, classify and track potential threats in the maritime environment.
+
+MDA is a critical enabler of Maritime Security, which is of particular relevance and importance for Australia, due to its ocean surrounds and large marine jurisdiction.
+
+While military activities in the maritime domain are more comprehensively monitored, civil maritime security threats are typically more pervasive, covert and difficult to track.
+
+The four pillars of the Australian Government Civil Maritime Security Strategy are: Understand, Influence, Prevent and Respond. The Thales Australia MDA sovereign capability has the potential to play a major part in each of these areas.
+
+Understand: A core component of Thales’s MDA capability is big data analytics; whereby sensor data received from various feeds of terrestrial, and satellite-based earth observation systems, is fused and correlated. The system utilises advanced analytics to create an almost instantaneous picture of the maritime environment.
+
+Influence: The nature of Thales’s capability, coupled with the expansiveness of the marine environment, requires effective collaboration and cooperation between all stakeholders to protect Australia’s maritime domain.
+
+Prevent: Having timely actionable intelligence available to key decision makers, stakeholders and multiple agencies across the system will act as a powerful deterrent to those wishing to carry out nefarious activities close to Australia, and its allies in the region.
+
+Respond: Any suspicious MDA observations are passed to an Intelligent Mission Tasking System (IMTS), which directs on-demand Intelligence Surveillance and Reconnaissance (ISR) resource and other assets, such as aircraft to carry out more surgical missions. For example, an air asset may be tasked to investigate an area of ocean based on evidence that fishing vessels may be operating illegally in that area.
+
+Max Kufner, Thales Australia’s VP Above Water Systems, said “This solution will provide our customers with a common operational picture and the actionable intelligence needed to achieve a range of national security, environmental and search and rescue outcomes.”
+
+Thales Australia’s MDA solution, while a commercial capability, is founded in decades of trusted partnership with Defence, and proven delivery of secure, safe and innovative capabilities.","{'label': 'Neutral', 'score': 0.9639095664024353}",neutral,0.9639095664024353,0
+Video: Modular CAPTAS-4 Sonar for Danish Absalon-class Frigates - Naval News,"Wed, 30 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzA4L3ZpZGVvLW1vZHVsYXItY2FwdGFzLTQtc29uYXItZm9yLWRhbmlzaC1hYnNhbG9uLWNsYXNzLWZyaWdhdGVzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Video: Modular CAPTAS-4 Sonar for Danish Absalon-class Frigates At the DALO Industry Days 2023 held in Copenhagen, Thales and Cubedin were showcasing their modular CAPTAS-4 variable depth sonar (VDS) solution for the first time.
+
+The CAPTAS-4 VDS is now recognized as one of the best anti-submarine warfare (ASW) sensor available today. Its latest customers include the Spanish Navy (F-110 frigate), the US Navy (Constellation-class frigate) and the Hellenic Navy (FDI frigate). It may now become available as a modular, plug-and-play solution.
+
+At the DALO Industry Days 2023, Thales and CUBEDIN (as well as SH Defence) unveiled a new modular solution for the CAPTAS-4. They are proposing it to the Royal Danish Navy as part of an upgrade program for the in-service Absalon-class of frigates.
+
+The requirement dates back to November 2020 when the Danish Ministry of Defence’s Materiel and Procurement Agency launched a tender for the acquisition of low-frequency towed array sonar systems (TAS) for the Royal Danish Navy two Absalon-class frigates.
+
+Speaking to Naval News at the DALO Industry Days 2023, Danny Ingemann, CEO of CUBEDIN explained:
+
+“CUBEDIN is a software company, integrating modular payloads to navy ships […] CUBEDINN is very much a configuration software and an integration software that allow modular payloads to be integrated on the ship. That’s the whole idea: To make the life of the crew easier”
+
+Naval News learned during the event that Germany’s Atlas Elektronik is also proposing a modular VDS solution (likely based on the ACTAS sonar) but they are not teaming with CUBEDIN.
+
+About CAPTAS-4 VDS
+
+CAPTAS-4 VDS aboard FS Languedoc
+
+The Combined Active Passive Towed Array Sonar (CAPTAS) 4 is a is a Low Frequency Active Sonar (LFAS) which consists of both active and passive sonar arrays.
+
+CAPTAS-4 already equips the FREMM frigates operated by France, Italy, Morocco, and Egypt, while the Sonar 2087 system – which also uses the CAPTAS-4 towed body and handling system – is fitted to Type 23 frigates serving with the Royal Navy and the Chilean Navy.
+
+The latest CAPTAS-4 Compact system – which significantly reduces the weight and footprint of the handling system – has already been selected by three navies. The FDI ships being built by Naval Group for France and Greece are to receive an independent tow variant separate active towed body and passive receive array; Spain’s new F110 frigates, being built by Navantia, will be equipped with a dependent tow version in which the receive array is attached to, and deployed with, the towed body on a single tow line.
+
+The latest CAPTAS-4 customer is the US Navy for its future Constellation-class frigates. The decision to procure CAPTAS-4 – which is being supplied to shipbuilder Fincantieri Marinette Marine (FMM) through Thales-owned Advanced Acoustic Concepts – came after the US Navy decided to end development of the Raytheon AN/SQS-62 Dual-mode Array Transmitter (DART) VDS, and cancel the anti-submarine warfare (ASW) mission module originally intended to equip the Littoral Combat Ship. The systems for the US Navy are already in production and have passed Factory Acceptance Tests (FAT) three month ago at the Thales site in Brest.
+
+About Absalon-class frigates
+
+Royal Danish Navy frigate Absalon (F341) patrolling the Nord Stream leak area. Danish Armed Force picture.
+
+Commissioned in 2005, Absalon-class ships ships are a hybrid of frigate and military support ship with multiple operational capabilities. They can be converted from a combat ship with the firepower of a conventional frigate to a hospital ship in a single day.
+
+The vessels were originally defined as flexible support ships (combat support ships). In October 2020, HDMS Absalon (F341) and Esbern Snare (F342) were reclassified as frigates, in order to start fulfilling ASW missions.
+
+The Absalon-class has a full-load displacement of 6,300 tons. The ship is 137 meters long, has a maximum beam of 19.5 meters and a draft of 6.3 meters.
+
+The ship has five standard flex container bays in the gun deck in the central part of the ship. Two modules each carry eight Harpoon Block II surface-to-surface missiles.
+
+The three surface-to-air missile modules each carry a 12-cell mk6 vertical launcher, allowing the ship to carry 36 RIM -162 Raytheon Evolved Sea Sparrow Missiles (ESSM).
+
+The Absalon-class is also equipped with 2×4 Harpoon AShMs, 127mm cannon, 2×2 MU90 torpedoes and 2x35mm Millenium CIWS.
+
+Sensor equipment includes;
+
+– SMART-S Mk2 3D air surveillance radar,
+
+– 3x Saab CEROS 200 fire control radar
+
+– Terma Scanter 6002 navigation radar,
+
+– Atlas ASO 94 Sonar
+
+– ES-3071 Electronic support measures","{'label': 'Neutral', 'score': 0.9999047517776489}",neutral,0.9999047517776489,0
+Thales Australia extends its strategic partnership with University of Technology Sydney - Thales,"Tue, 29 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWFzaWEtcGFjaWZpYy9hdXN0cmFsaWEvbmV3cy90aGFsZXMtYXVzdHJhbGlhLWV4dGVuZHMtaXRzLXN0cmF0ZWdpYy1wYXJ0bmVyc2hpcC11bml2ZXJzaXR50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia & New Zealand CEO Jeff Connolly and Professor Andrew Parfitt, Vice-Chancellor and President of the University of Technology Sydney.
+
+Building upon our long-standing relationship with the University of Technology Sydney (UTS), Thales Australia has signed a university-wide Memorandum of Understanding (MoU) to increase the impact of collaboration between the two organisations. By fostering ethical, transdisciplinary, practical, and critical skill development, the partnership will provide UTS students with cutting-edge experiences while creating a pathway for potential careers at Thales.
+
+Throughout our 20-year collaboration with UTS, Thales has played a pivotal role in advancing engineering education, research and social justice approaches in engineering practice, specifically through valuable Work Integrated Learning (WIL) experiences for undergraduate through to PhD students, with particular focus on Indigenous and female students pursuing STEM disciplines. The extension of this partnership will provide a sustained and significant contribution to a broad range of programs and activities, such as internships, scholarships, mentoring, events, guest lectures, participation in advisory boards, industry experience studios, curriculum development and research projects.
+
+“This relationship with UTS provides benefits to both organisations, but most importantly it gives UTS students the chance to get momentum into their careers while they are still studying, helping to build the next generation of engineers for Australia."" Philip Swadling, Technical Director
+
+
+
+Andrew Parfitt, Vice-Chancellor and President of the University of Technology Sydney said ""the agreement is about expanding this relationship into a whole-of-university one, enabling Thales to work with disciplines across UTS around a shared commitment for innovation and the development of technology, skills and talent.""","{'label': 'Neutral', 'score': 0.6665277481079102}",neutral,0.6665277481079102,0
+"French, Italian Horizon Frigates to Receive Mid-Life Upgrade - The Defense Post","Tue, 01 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzA4LzAxL2ZyYW5jZS1pdGFseS1ob3Jpem9uLWZyaWdhdGUtdXBncmFkZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Organisation for Joint Armament Cooperation (OCCAR) has awarded Naviris and EUROSAM a 1.5-billion euro ($1.64 billion) mid-life upgrade contract for the French and Italian Navy’s Horizon-class frigates.
+
+In addition, the joint venture will integrate a next-generation Principal Anti-Air Missile System & Long-Range Radar (PAAMS & LRR) into the vessels.
+
+Fincantieri and Naval Group will lead the frigate revamp, while MBDA and Thales will focus on the PAAMS & LRR.
+
+Other companies participating in the initiative are Leonardo, ELT, and Thales joint segment SIGEN.
+
+The program is expected to significantly enhance the Horizon fleet’s architecture and air defense capabilities to match evolving threats.
+
+Next-Generation Air Defense
+
+The fleet will receive new electronic warfare suites and command and control systems to complement the PAAMS & LRR.
+
+The frigates will then be able to counter modern projectiles such as supersonic sea-skimmer, hypersonic, ballistic, and high-velocity cruise missiles.
+
+Once upgraded, the ships will also be able to deter highly-maneuverable aircraft and unmanned aerial systems.
+
+“PAAMS & LRR, unique System deployed on the four French and Italian frigates, has been successfully engaged all over the world for more than 15 years in synergies with PAAMS & LRR – UK variant deployed on the six Type-45 destroyers,” EUROSAM Managing Director Eva Bruxmeier explained.
+
+“This new generation of PAAMS & LRR for the frigates… relies on an enhanced missile (ASTER Block 1 NT), an upgraded launcher, two new AESA radars (Kronos Grand Naval from Leonardo and SMART-L MM/N from Thales) and a new open software architecture command and control system.”
+
+The Horizon-Class Frigates
+
+The Horizon-class frigates were produced between 2000 and 2010 in partnership with Fincantieri and Naval Group.
+
+Each vessel measures 153 meters (501 feet), has a beam of 20.3 meters (66 feet), and can accommodate more than 200 personnel.","{'label': 'Neutral', 'score': 0.9919358491897583}",neutral,0.9919358491897583,0
+"Thales and Schiebel Successfully Conduct Factory Acceptance Test for UK MOD's Peregrine Programme, Paving the ... - EDR Magazine","Thu, 31 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS90aGFsZXMtYW5kLXNjaGllYmVsLXN1Y2Nlc3NmdWxseS1jb25kdWN0LWZhY3RvcnktYWNjZXB0YW5jZS10ZXN0LWZvci11ay1tb2RzLXBlcmVncmluZS1wcm9ncmFtbWUtcGF2aW5nLXRoZS13YXktZm9yLWZpcnN0LWRlbGl2ZXJpZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"30 Aug 2023 – Thales and Schiebel are delighted to announce the successful completion of the Factory Acceptance Test (FAT) for the UK Ministry of Defence (MOD) Peregrine Programme. The FAT, a pivotal milestone in the programme’s development, marks an important step towards the final delivery of the cutting-edge CAMCOPTER® S-100 UAS Peregrine System, the game changing rotary wing Uncrewed Air System (UAS) which aims to provide a protective ‘eye in the sky’ capability for Royal Navy warships.
+
+During the testing phase, Thales and Schiebel showcased the Peregrine’s exceptional capabilities to the specified requirements. The results have been outstanding, highlighting the program’s steadfast adherence to schedule and the unwavering commitment of both companies to excellence.
+
+With the FAT approval in place, the Peregrine Programme is now set to commence its first deliveries, ahead of schedule signifying an important advancement in strengthening the UK MOD’s operational capabilities. The innovative technologies incorporated into the CAMCOPTER® S-100 such as the Thales I-Master radar are poised to elevate reconnaissance, surveillance, and intelligence-gathering missions to higher levels for the Royal Navy.
+
+Moreover, in a parallel development, the Royal Navy is gearing up to commence their comprehensive operator and maintainer training on the Schiebel CAMCOPTER® S-100. This training will empower the Royal Navy personnel with increased UAS expertise, ensuring seamless integration and optimal utilisation of this state-of-the-art system.
+
+“We are immensely proud of the successful Factory Acceptance Test and the progress achieved in the Peregrine Programme,” stated Hervé Hamy, Vice President ISR Business Line at Thales.“Our unwavering dedication to precision engineering and collaboration with Schiebel has resulted in a cutting-edge solution that will undoubtedly strengthen the UK MOD’s operational capabilities.”
+
+“We have achieved a significant milestone in the Peregrine Programme,” commented HansGeorg Schiebel, Chairman of the Schiebel Group. “The S-100’s advanced features and proven performance ensure it will be a game-changer in the field of unmanned aerial systems, providing the Royal Navy with an invaluable asset.”
+
+Photo courtesy Thales","{'label': 'Positive', 'score': 0.9999982118606567}",positive,0.9999982118606567,1
+Canadian army to possibly select Thales Australia's Hawkei PMV as Light Utility Vehicle | Defense News August 2023 ... - Army Recognition,"Tue, 29 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMirwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vZGVmZW5zZV9uZXdzX2F1Z3VzdF8yMDIzX2dsb2JhbF9zZWN1cml0eV9hcm15X2luZHVzdHJ5L2NhbmFkaWFuX2FybXlfdG9fcG9zc2libHlfc2VsZWN0X3RoYWxlc19hdXN0cmFsaWFfc19oYXdrZWlfcG12X2FzX2xpZ2h0X3V0aWxpdHlfdmVoaWNsZS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"On August 28, 2023, photos were posted on Twitter by @SolarMare, showcasing the Thales Hawkei PMV (Protected Mobility Vehicle) undergoing cold weather tests. The vehicle is one of the contenders for the Canadian Armed Forces' Light Utility Vehicle (LUV) project.
+
+Follow Army Recognition on Google News at this link
+
+
+
+Thales Hawkei is a 4x4 light-wheeled protected vehicle, developed by Thales Australia (Picture source: @SolarMare Twitter)
+
+The Thales Hawkei is a 4x4 light-wheeled protected vehicle, developed by Thales Australia. It draws on the company's experience with the Australian Bushmaster program and is designed in collaboration with international and local partners such as Boeing, PAC Group, Plasan, and various Australian SMEs. The Hawkei aims to modernize the Australian Army's fleet of light-wheeled vehicles and is a candidate for Australia's LAND 121 Phase 4 program, which seeks to replace the Army's Land Rover fleet.
+
+Equipped with advanced C4I capabilities, the Hawkei serves as a fully integrated node in network-centric warfare. The Australian Army ordered 1,100 Hawkei vehicles in 2015, and by 2018, some were deployed to Iraq for operational trials. As of September 2020, the vehicle entered full-rate production at Thales' facility in Bendigo, Victoria, and was also shortlisted for Poland's Pegaz program.
+
+The Canadian Armed Forces' LUV project is designed to replace the Mercedes G-Wagon and Chevrolet Silverado, vehicles that serve multiple roles under various conditions. The LUV will become the primary vehicle for the Army Reserve for both training and mission tasks and will also be used by the Air Force's tactical helicopter squadrons for securing landing zones. Major David Gottfried, the project director, highlighted the vehicle's importance across the Canadian Armed Forces.
+
+The project is expected to go before the Defence Capability Board in the spring of 2020 and aims to procure about 2,500 vehicles. The estimated budget ranges from $250 million to $500 million, although some industry discussions suggest it could go as high as $1 billion. Companies that have garnered attention from the project team include Oshkosh, Mercedes Benz, Iveco, Thales, AM General, Jeep, Volkswagen, Jankel, and the Streit Group, among others.
+
+The essential requirements for this new vehicle include all-terrain mobility, integrated electronic systems, significant payload capacity, and a high level of protection against land mines, improvised explosive devices, and ballistic weapons, all while being light enough for airlift by military helicopters.
+
+The Thales Hawkei appears to meet many of these requirements. It is a 4x4 light-protected vehicle with a versatile remote-controlled weapon station that can accommodate various armaments. It offers seating for either three or six military personnel, depending on the variant, and is powered by a six-cylinder, 3.2-liter diesel engine that provides a range of over 1,000 km and speeds up to 115 km/h. The Hawkei is also C4I-ready and comes equipped with a self-recovery winch. Designed for adaptability and high performance, it can be airlifted by standard military aircraft like the C-130 Hercules, making it a versatile asset for modern military operations.","{'label': 'Neutral', 'score': 0.999992847442627}",neutral,0.999992847442627,0
+Thales Australia delivers Australian Combat Assault Rifle ACAR to Ukraine | Defense News August 2023 Global ... - Army Recognition,"Thu, 10 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMipQFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vZGVmZW5zZV9uZXdzX2F1Z3VzdF8yMDIzX2dsb2JhbF9zZWN1cml0eV9hcm15X2luZHVzdHJ5L3RoYWxlc19hdXN0cmFsaWFfZGVsaXZlcnNfdGhlX2F1c3RyYWxpYW5fY29tYmF0X2Fzc2F1bHRfcmlmbGVfYWNhcl90b191a3JhaW5lLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia, based in the New South Wales region, announced on August 7, 2023, that the Australian Combat Assault Rifle (ACAR) has been successfully supplied to Ukraine. This achievement was made possible with the support of the Australian Department of Defence, which facilitated the shipment of a limited quantity of ACAR weapons to Ukraine in early July. The delivery was part of a comprehensive package of weapons and munitions from Thales Australia's Lithgow Arms division. Reports indicate that the ACAR weapons were provided in two calibers, namely 5.56mm and 7.62mm.
+
+Follow Army Recognition on Google News at this link
+
+
+
+Australian Combat Assault Rifle ACAR (Picture source: Thales )
+
+These ACAR weapons have been provided to the Ukrainian forces, allowing them to assess the utility and effectiveness of the rifle for their future needs. Initial feedback on the ACAR has been positive, and Thales expresses confidence in its performance.
+
+Throughout its development, the ACAR has undergone rigorous testing and improvements, leading to its presentation at the 2022 Land Forces exhibition. The standard version of the ACAR is chambered in 5.56mm NATO and is also available in 7.62mm and .300 Blackout. A 6.8mm version is in the final stages of qualification.
+
+Thales' commitment to the industrialization of the ACAR involves expanding production capacities at the Lithgow Arms facility. This initiative is expected to be completed by the first half of 2024, paving the way for large-scale production of the ACAR upon receiving orders. The company has ambitious plans to introduce the ACAR to the European market, with its official launch scheduled at the DSEI defense exhibition in the UK in September.
+
+The specifications of the 5.56mm ACAR include a 12-inch (305mm) barrel, a length of 730mm with the adjustable buttstock collapsed, and an empty weight of 2.7kg. The magazine capacity varies from 20 to 30 rounds. Notably, the ACAR features a cold hammer-forged chrome-lined barrel, forged 7075-T6 aluminum alloy upper and lower receivers with an anodized finish, and a full-length Picatinny rail on the upper receiver. Given the adoption of noise reduction systems by the United States for all its future assault rifles, it was unlikely that the ACAR weapons would be incompatible with such devices.
+
+Thales expects to receive further orders and is actively engaging with Australian and international stakeholders regarding the potential of the ACAR. With its advanced features, compliance with technical requirements, and the benefits of local production, the ACAR is positioned to have a significant impact on various markets, particularly in Australia. The feedback from Ukrainian soldiers on this new assault rifle is now eagerly awaited.
+
+Australian Combat Assault Rifle ACAR (Picture source: Thales )","{'label': 'Neutral', 'score': 0.9655747413635254}",neutral,0.9655747413635254,0
+Thales Australia supporting the Navy Clearance Diver Trust - Thales,"Mon, 07 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS1wYWNpZmljL2F1c3RyYWxpYS9uZXdzL3RoYWxlcy1hdXN0cmFsaWEtc3VwcG9ydGluZy1uYXZ5LWNsZWFyYW5jZS1kaXZlci10cnVzdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Members of Thales Australia’s Under Water Systems (UWS) business recently visited the Royal Australian Navy’s Australian Clearance Diving Team One (AUSCDT1) at HMAS Waterhen in Sydney. The visit was facilitated byAUSCDT1 and the Navy Clearance Diver Trust (NCDT), which Thales Australia is a proud sponsor.
+
+The visit started with a workshop walk through led by the AUSCDT1 team, highlighting the technologies and capabilities they utilise to conduct operations; and also showing some of the most recent acquisitions delivered by Thales under the Deployable Mine Counter Measures Program, SEA1778-1.
+
+Some of the AUSCDT1 team then demonstrated, wharf side, one of their four fields of expertise, Underwater Damage Repair (UDR), using Surface Supplied Breathing Apparatus (SSBA). Troy Stephen, Vice President, UWS said ‘we are always extremely grateful for demonstrations such as this are crucial to allow defence industry to appreciate some of the challenges and trials that face our military partners on a daily basis’.
+
+Gavin Henry, Business Development Manager at Thales Australia and former Mine Warfare and Clearance Diving Officer (MCDO), knows these vocational challenges first-hand, but also those invisible challenges that can be faced by Clearance Divers, both serving and ex-serving, as well as their dependents. “The Trust essentially fills any gaps that may eventuate due to timing or scope of support from the RAN and DVA, so as to negate any form of financial hardship. It also provides support programs designed to provide professional career coaching to transitioning or recently transitioned CDs”.
+
+The tour also included a visit to the Mine Hunter Coastal (MHC) HMAS Yarra, which Thales built and has sustained for over 20 years at our Carrington site in Newcastle. The S2093 sonar, on board the MHC, has been wholly sustained by our Rydalmere site in Sydney, avoiding any lengthy supply chains and building the most competent workforce to support Navy’s future demands. Thales Australia’s support of the NCDT is an activity championed by the Thales Australia Veterans Committee who represent the interests, wellbeing and priorities of veterans across the organisation. Denise Goldsworthy AO, Chair of the NCDT said of Thales’s support “that the NCDT could not do the vital work that they do without the support of industry sponsors like Thales.”
+
+To learn more about Thales Australia’s commitment to veterans, visit: Our commitment to veterans.","{'label': 'Neutral', 'score': 0.9999830722808838}",neutral,0.9999830722808838,0
+Thales Australia announces Maritime Autonomy and SME Collaboration Precinct in Newcastle - Australian Defence Magazine,"Wed, 23 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5hdXN0cmFsaWFuZGVmZW5jZS5jb20uYXUvZGVmZW5jZS9zZWEvdGhhbGVzLWF1c3RyYWxpYS1hbm5vdW5jZXMtbWFyaXRpbWUtYXV0b25vbXktYW5kLXNtZS1jb2xsYWJvcmF0aW9uLXByZWNpbmN0LWluLW5ld2Nhc3RsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia has revealed the company’s Carrington site, on the Newcastle foreshore, is being developed in a bid to support the Royal Australian Navy’s (RAN) mine countermeasures and military survey capability Sea 1905-1 program.
+
+“Newcastle, and the Hunter region, have been a stalwart of the RAN’s mine countermeasure capability from the time of construction of the first Huon class MHC vessels by ADI in the nineties, through to today, with MHC maintenance and support continued to be carried out at Carrington,"" said Troy Stephen, Vice President Underwater Systems, Thales Australia and New Zealand.
+
+""As Newcastle has evolved into a modern metropolis, the RAN’s Mine Countermeasures and Military Survey Capability will also undergo rapid advancement and a significant technological step-change into autonomy under SEA1905-1.""
+
+""Carrington, the home of the MHC, is the ideal location to develop and deliver the next generation of sovereign mine warfare capability for the RAN, providing the ideal test and evaluation environment whilst generating significant investment in local SMEs and jobs in the region.”
+
+Establishment of the new Maritime Autonomy and SME Collaboration Precinct is expected to inject over $40 million in the local Hunter economy in the first five years and create over 100 new jobs, should Thales be selected for the Sea 1905-1 program.","{'label': 'Neutral', 'score': 0.9999089241027832}",neutral,0.9999089241027832,0
+Thales expands global partnership with Exclusive Networks - Strategy - Security - CRN Australia,"Thu, 17 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNybi5jb20uYXUvbmV3cy90aGFsZXMtZXhwYW5kcy1nbG9iYWwtcGFydG5lcnNoaXAtd2l0aC1leGNsdXNpdmUtbmV0d29ya3MtNTk5Mjg20gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Technology vendor Thales has expanded its partnership with cybersecurity distributor Exclusive Networks to reach broader markets across North America, EMEA and Asia-Pacific.
+
+The two companies, both based in Paris, will further invest in Thales’ data security and identity and access management channel business for existing and new partners.
+
+John Polly, vice president of global channel and alliances at Thales, said the company’s go-to-market strategy is through partners, and Exclusive Networks is “a distributor that’s only focused on security.”
+
+The distributor was the “perfect fit” to take on more of Thales’ distribution due to its global reach, executive relationships, field relationships, its ecosystem and its governance model, he said.
+
+And the team at Exclusive Networks made a difference in Thales’ mindset about how to further capture market share.
+
+“They really made us think about some things that we hadn’t thought of,” Polly told CRN in an exclusive interview.
+
+“They took it and created this great super campaign. They took it to a next layer of getting deeper into what the objective is and who are we trying to reach, and I think that’s actually how they’re going to help drive that revenue.”
+
+Thales is a global leader in data security and identity and access management with more than 30,000 customers. Exclusive Networks’ long-standing partnership with Thales was built on its expertise in cybersecurity.
+
+Denis Ferrand-Ajchenbaum, senior vice president of global business development and ecosystems at Exclusive Networks, said the distributor is selling the value proposition and educating on the value proposition of vendors to the partner ecosystem.
+
+In the next year, he expects to expand to a worldwide level and at least “double down on the size of the revenue we have done in the prior year” with Thales.
+
+“The size of the distribution total addressable market in North America is 15, 20 times of what is currently happening in EMEA plus APAC,” he said.
+
+The distributor is also going to introduce Thales to an even larger global ecosystem where it can tap into different types of partners.
+
+“Traditionally, we would talk about our products and go-to-market and say, ‘hey, we’ve got a ransomware product so let’s go enable the channel with our value prop,’” Polly said.
+
+“But then how do we do it with other key people in the ecosystem such as SAP, AWS, Dell and IBM? That’s where Exclusive is really going to help us,” Polly said.
+
+“Data security and identity are complex things,” he added.
+
+“The whole goal is how do we make this simple? We are a culture of heavy, heavy engineering.""
+
+""Exclusive is going to help us translate our great engineering piece into value that the partners can consume to go solve problems for their customers.”
+
+This article originally appeared at crn.com","{'label': 'Neutral', 'score': 0.995995044708252}",neutral,0.995995044708252,0
+"Lockheed, Leonardo, 3 Other Firms Vie for Bulgaria's New Military Radars - The Defense Post","Fri, 25 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzA4LzI1L2xvY2toZWVkLWJ1bGdhcmlhLW1pbGl0YXJ5LXJhZGFycy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Lockheed, Leonardo, 3 Other Firms Vie for Bulgaria’s New Military Radars
+
+Five defense companies are vying to clinch a 400-million lev ($221.7 million) contract to produce Bulgaria’s new military surveillance radars.
+
+The Balkan nation has been looking for a potential supplier of the new 3D radars to improve the protection of its airspace and NATO’s eastern flank.
+
+Lockheed Martin from the US, Leonardo from Italy, Elta from Israel, and Indra from Spain are all bidding for the project.
+
+France’s Thales is also offering its solutions to the Bulgarian defense ministry.
+
+According to Bulgarian Air Force Chief of Staff Colonel Dimitar Georgiev, the country is expected to receive its new radar in 2025 if a contract is signed later this year.
+
+No Adequate Radar
+
+Bulgarian military experts have been warning for several years that the army does not have military-grade radars that can properly monitor its territories.
+
+The service reportedly relies on advanced civil aviation radars, but they do not cover the entire territory of the country.
+
+Without military radars, the Bulgarian Air Force will also not be able to fully utilize its new F-16 fighter aircraft.
+
+Although the proposals have not been disclosed, it is worth noting that Lockheed Martin produces the TPS-77 multi-mission, ground-based radar that can perform medium to long range surveillance.
+
+Indra manufactures the Lanza multi-threat adaptive radar, while Leonardo and Elta have the RAT 31DL 3D surveillance radar and the ELM-2106 tactical 3D air defense radar, respectively.
+
+Thales is the developer of the Ground Observer family of radars for ground and coastal surveillance.","{'label': 'Neutral', 'score': 0.999955415725708}",neutral,0.999955415725708,0
+CMA updates scope of concerns in Hitachi Rail and Thales rail signalling merger - Rail Technology Magazine,"Thu, 31 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJhaWx0ZWNobm9sb2d5bWFnYXppbmUuY29tL2FydGljbGVzL2NtYS11cGRhdGVzLXNjb3BlLWNvbmNlcm5zLWhpdGFjaGktcmFpbC1hbmQtdGhhbGVzLXJhaWwtc2lnbmFsbGluZy1tZXJnZXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Competition & Markets Authority (CMA) has provisionally concluded that Hitachi Rail's planned €1.7 billion acquisition of Thales' Ground Transportation Systems business would not result in a substantial lessening of competition in the UK communications-based train control (CBTC) market.
+
+The CMA's assessment focused on the likely competition to resignal London Underground's Bakerloo and Piccadilly lines. Initially, CMA was concerned that Hitachi Rail were one of the only suppliers with the required resources to challenge Transport for London’s (TfL) current suppliers which includes Thales and Siemens. However, the CMA now says new evidence suggests that Hitachi would not be a credible bidder in the near to medium term.
+
+This is partly because TfL have indicated to the CMA in this report that the Bakerloo and Piccadilly line procurements for its resignalling projects will begin in 2030, five years ahead of the initial schedule. This change in schedule means that the CMA don’t believe that Hitachi Rail could complete its more highly complex projects in order to demonstrate its capabilities to deliver for TfL.
+
+The difficulty and complexities of the resignalling projects on the London Underground and experience and capability to complete the works is high on TfL’s wishlist. The CMA however noted that Hitachi Rail’s CBTC projects have yet to be completed and are less complex than the current and upcoming London schemes.
+
+Stuart McIntosh, chair of the independent Inquiry Group, said: “Effective competition in the urban and digital mainline signalling markets is essential for ensuring the UK’s rail transport systems are efficient and reliable for passengers who rely on these services.
+
+“Having reviewed the additional evidence, which indicates that Hitachi is unlikely to be a credible bidder for signalling projects on the London Underground in the foreseeable future, we have provisionally concluded that the merger would not harm competition in the supply of these systems in the UK.
+
+“That said, our provisional view that this merger raises concerns in the supply of digital mainline signalling in Great Britain, is not affected by the announcement.”
+
+The CMA's provisional conclusion is a positive development for Hitachi, which has been seeking regulatory approval for the acquisition since December 2022. The company has said that the merger would create a ""global leader"" in signalling and help to accelerate the UK's transition to a more sustainable transport system.
+
+The CMA's final report on the proposed transaction is due to be published on October 6.
+
+Photo Credit: Istock","{'label': 'Neutral', 'score': 0.9700854420661926}",neutral,0.9700854420661926,0
+Aussie Town Arms Ukrainian Troops With Assault Rifles - Kyiv Post,"Tue, 08 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzIwMzEz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A factory in Lithgow, a small city near the mountains of Australia, is building the high-quality assault rifles being used by elite Ukrainian troops. Ukraine’s ambassador would like to see the ties between Lithgow and currently occupied Berdyansk grow.
+
+An announcement was made late last week that Lithgow Arms, a part of Thales Australia, an international defense industry company, has now successfully supplied its locally developed and produced Australian Combat Assault Rifle (ACAR) to Ukraine.
+
+In cooperation with the Australian Department of Defence, an unspecified quantity of ACARs were shipped to Ukraine in early July as part of a weapons and munitions package, according to Defence Technology Review.
+
+With a population of some 21,000 people, Lithgow is about three hours west of Sydney, in the foothills of the World Heritage-listed Blue Mountains. A thriving mining town with growing healthcare sectors, it is also home to Thales Australia’s small arms manufacturer, Lithgow Arms.
+
+Advertisement
+
+Recently returned from a major meeting of Ukrainian diplomats with President Volodymyr Zelensky in Kyiv, Ukraine’s ambassador to Australia, Vasyl Myroshnychenko, told Kyiv Post that he was very grateful for Australia’s support.
+
+The ambassador also commented on his personal experience of Australia’s country towns.
+
+“Whenever I travel to regional Australia, I notice how strongly local Australians in these towns and cities support Ukraine’s independence and war against Russian aggression,” the diplomat said.
+
+Other Topics of Interest WATCH: Ukraine Reportedly Destroys Two Russian Tanks, Worth Millions, with FPV Drones Ukrainian special forces reportedly obliterated a Russian T-90 and T-72 tank, eliminating five soldiers and injuring three in the Donetsk direction.
+
+“I know that Ukrainians are so deeply moved and heartened by mainstream Aussies helping them – whether it’s working in a great plant in Lithgow or donating for humanitarian causes,” he added.
+
+The Ambassador further suggested that, starting with the supply of ACARs, there was potential for a broader relationship between Lithgow and Ukrainian cities.
+
+“It would be great to further build the community-to-community ties between Lithgow and, say, a city in Ukraine that will soon be liberated, like Berdyansk,” Myroshnychenko said.
+
+Advertisement
+
+Lithgow’s Mayor, Maree Statham, has been contacted by Kyiv Post for her views about the Lithgow connection to Ukraine’s battle for democracy.
+
+For the last 110 years, Lithgow Arms, formerly known as the Lithgow Small Arms Factory has made the rifles, machine guns, cannon barrels and other equipment that allows Australia to be self-reliant with regard to small arms.
+
+Australian soldiers – known as “diggers” or “ANZACs” – have carried weapons made in Lithgow into battle during both World Wars, Korea, Vietnam, Iraq and Afghanistan, a spokeswoman for Thales told Kyiv Post.
+
+During World War I alone, the factory produced more than 100,000 Lee-Enfield rifles that were part of the action in the tragic trenches of Gallipoli and France alike.
+
+Through continual modernization, Lithgow Arms, which currently employs 160 highly skilled local people, has come to produce state-of-the-art weapons such as the ACAR, which are now an official part of Australia’s assistance to Ukraine.
+
+Australia has provided some $465 million in military aid to Ukraine since the start of Russia’s full-scale invasion. The “Land Down Under” is considered one of the largest givers to Ukraine outside of NATO members and it is ranked 19th globally by the Kiel Institute for the Economy’s Ukraine Support Tracker.
+
+Advertisement
+
+Australia’s contribution includes 120 Bushmaster infantry fighting vehicles, which are highly regarded by Ukrainian armed forces for their mobility, versatility and safety.
+
+Industry media reported that the ACARs have been provided in both 5.56mm and 7.62mm caliber formats. The ACAR generally holds a 30-bullet clip.
+
+Informal feedback on the ACAR has to date been positive, Thales said. In addition to supplying the Australian Army, the manufacturer hopes to explore export opportunities of Australia’s first “AR-type” weapon in overseas military, paramilitary and law enforcement sectors.
+
+The use of the ACAR, which is yet to go into mass production, specifically in Ukraine is potentially part of demonstrating the new weapon’s capabilities in actual combat. Such a “show and tell” strategy is also being followed by many other international defense manufacturers. That often includes the active partnership of the Ukrainian government and military, including through the dedicated platform Brave1 defense technology platform.
+
+Advertisement
+
+Currently, the standard issue rifle for Ukrainian ground forces is the Soviet-era AK-74, which are renowned for their durability, but not their accuracy. However, there are more than a dozen assault rifle types in use by Ukrainian forces.
+
+The wide range of rifles in action reflects: a) the mission type of a given military unit, such as special forces or marines; and b) what has been donated by Ukraine’s allies to meet requirements – be they basic or advanced (such as the ACAR).
+
+The latter include American M4s, Czech BRENs, Belgian SCARs, and Polish GROTs.","{'label': 'Neutral', 'score': 0.9703564047813416}",neutral,0.9703564047813416,0
+CMA: Hitachi takeover of Thales' rail signalling unit won't impact London Tube projects - City A.M.,"Wed, 23 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vY21hLWhpdGFjaGktdGFrZW92ZXItb2YtdGhhbGVzLXJhaWwtc2lnbmFsbGluZy11bml0LXdvbnQtaW1wYWN0LWxvbmRvbi10dWJlLXByb2plY3RzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"CMA: Hitachi takeover of Thales’ rail signalling unit won’t impact London Tube projects
+
+Hitachi’s £1.4bn takeover of Thales’ rail signalling business won’t impact competition in the market for supplying signalling systems for the London Underground, the UK’s antitrust agency said today.
+
+The proposed deal led the Competition and Markets Authority to raise competition concerns back in December, as Hitachi and Thales are two of the main suppliers of signalling systems for railway networks in the UK. Siemens and Alstom are the other two leading firms.
+
+The CMA said in June that the deal could drive up prices and reduce service quality for passengers on the London Underground, indicating it could be blocked by the regulator.
+
+But the watchdog said new evidence had led it to reconsider previous concerns.
+
+The CMA said it now believed that Hitachi would “not be a credible bidder” to supply communications based train control (CBTC) systems for the Tube in the “near to medium term.”
+
+It said Hitachi was unlikely to meet TfL’s tendering requirements for two major upcoming projects on the Underground, at Bakerloo and Picadilly, and would therefore not “be a significant competitor to Thales” in the future.
+
+As a result, the takeover would be unlikely to significantly impact competition in the market.
+
+Stuart McIntosh, chair of the CMAs’ independent inquiry group, said “effective competition in the urban and digital mainline signalling markets is essential for ensuring the UK’s rail transport systems are efficient and reliable for passengers who rely on these services.”
+
+“Having reviewed the additional evidence, which indicates that Hitachi is unlikely to be a credible bidder for signalling projects on the London Underground in the foreseeable future, we have provisionally concluded that the merger would not harm competition in the supply of these systems in the UK.”
+
+McIntosh added, however, that “our provisional view that this merger raises concerns in the supply of digital mainline signalling in Great Britain, is not affected by today’s announcement.”
+
+The CMAs’ investigation is ongoing, with a final decision set to be made by October 6.
+
+Hitachi and Thales were approached for comment.","{'label': 'Neutral', 'score': 0.8835350871086121}",neutral,0.8835350871086121,0
+CMA updates scope of concerns in rail signalling merger - GOV.UK,"Wed, 23 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvY21hLXVwZGF0ZXMtc2NvcGUtb2YtY29uY2VybnMtaW4tcmFpbC1zaWduYWxsaW5nLW1lcmdlctIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In June, the Competition and Markets Authority (CMA) published its Phase 2 provisional findings which set out that Hitachi’s €1.7 billion proposed acquisition of the Thales’ Ground Transportation (GTS) business raised competition concerns in relation to both digital mainline and urban signalling rail systems. The publication of the provisional findings initiated a period of consultation in which the CMA invited responses to the findings from interested parties and continued to gather further evidence.
+
+Having carefully considered the new evidence, together with the wide range of information gathered previously, the independent CMA Inquiry Group has updated its initial findings and reached the provisional conclusion that the merger would not result in a substantial lessening of competition (SLC) in the supply of Communications Based Train Control (CBTC) signalling systems in the UK. Today’s update does not change the CMA’s provisional assessment that the merger is likely to lead to an SLC regarding the supply of digital mainline signalling.
+
+Transport for London (TfL), which oversees London Underground, is the main customer for CBTC signalling systems in the UK and its current suppliers are Thales and Siemens. Hitachi has not previously supplied signalling systems to the London Underground. The CMA’s assessment focused on the likely competition to resignal the Bakerloo and Piccadilly Lines, two of the main lines on the London Underground. In its original provisional findings, the Inquiry Group had considered evidence which indicated that Hitachi was one of a limited number of suppliers with the capabilities to challenge Thales and Siemens in these future tenders. The Inquiry Group provisionally found that the merger would therefore result in a substantial lessening of competition in this market.
+
+The new evidence obtained by the CMA, following the responses to the provisional findings, now supports the provisional conclusion that Hitachi would not be a credible bidder to supply CBTC signalling systems to the London Underground in the near to medium term.
+
+Resignalling lines on the London Underground is regarded as being particularly complex and challenging compared to most other metro systems. TfL attaches particular importance to proven experience and capabilities when appointing signalling suppliers. Most of Hitachi’s relevant CBTC projects have yet to be completed and are smaller and less complex than the upcoming Piccadilly and Bakerloo line projects. Therefore, given the likely time frame of the tendering process, Hitachi is unlikely to demonstrate the ability to meet TfL’s requirements for the Piccadilly and Bakerloo line projects.
+
+Having tested this new evidence thoroughly, the CMA has updated its provisional findings and now considers that Hitachi will not be a significant competitor to Thales in relation to future CBTC projects in the London Underground, and that the merger is unlikely to result in an SLC in the supply of CBTC signalling systems in the UK.
+
+Stuart McIntosh, chair of the independent Inquiry Group, said:
+
+Effective competition in the urban and digital mainline signalling markets is essential for ensuring the UK’s rail transport systems are efficient and reliable for passengers who rely on these services. Having reviewed the additional evidence, which indicates that Hitachi is unlikely to be a credible bidder for signalling projects on the London Underground in the foreseeable future, we have provisionally concluded that the merger would not harm competition in the supply of these systems in the UK. That said, our provisional view that this merger raises concerns in the supply of digital mainline signalling in Great Britain, is not affected by today’s announcement.
+
+The CMA’s investigation continues, and it remains due to issue its final report by 6 October 2023. For more information, visit the Hitachi / Thales case page.
+
+Note to editors:","{'label': 'Neutral', 'score': 0.99915611743927}",neutral,0.99915611743927,0
+'Doncaster Dismantlers' target Israeli weapons suppliers - Freedom News - Freedom News,"Thu, 24 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZnJlZWRvbW5ld3Mub3JnLnVrLzIwMjMvMDgvMjQvZG9uY2FzdGVyLWRpc21hbnRsZXJzLXRhcmdldC1jb21wYW5pZXMtc3VwcGx5aW5nLWlzcmFlbC13ZWFwb25zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"On Tuesday morning, an underground group dubbed the ‘Doncaster Dismantlers’ took action at the site of two companies with links to Israel’s war machine. These actions are another instance of targeted economic sabotage brought under the banner of ‘Palestine Action Underground’, wherein autonomous cells have taken covert direct action against companies complicit in the ongoing colonisation of Palestine. This Underground movement marks a new phase in the three-year-long campaign of Palestine Action.
+
+French-owned arms company Thales and British-owned property managers Fisher German found their Doncaster offices smashed and premises sprayed in blood-red paint, as the Doncaster group targets businesses with ties to Israel’s drone manufacturers.
+
+The companies hold extensive business ties to Israel’s Elbit Systems, a military technology company providing 85% of Israel’s drones and land-based military equipment. Thales are part-owners, along with Elbit, of the drone company UAV Tactical Systems, which has made numerous weapons exports to Israel from its Leicester-based factory. Fisher German, meanwhile, is contracted to provide property management services for the same site. Both have been targeted extensively by Palestine Action in the past, and the ‘Doncaster Dismantlers’ have taken it upon themselves to ensure that their town is free of complicity in the crimes committed with Israel’s British-made drones.
+
+This autonomous direct action represents new strength in the anti-imperialist movement in Britain, as independent groups take up the mantle of ensuring that Israel-supplying companies cannot go about their ‘business-as-usual’ while Palestinians are killed daily by the occupation regime. Today has brought news that a Palestinian teenager was killed by Israeli forces, meaning that since the start of this year, at least 216 Palestinians have been killed by Israeli fire, including 37 children.
+
+These murders are made possible only by continued international silence on the crimes of the occupation regime, along with the continued supply of weapons and technologies to Israeli forces. Israel is aware of this, hence their efforts, as revealed this week by the Guardian, to interfere in the court cases of individuals standing against their bloodshed. Palestine Action supports the autonomous acts of those working to undermine this complicity and calls on other regions to replicate the bravery of the Doncaster Dismantlers.
+
+Image: Guy Smallman / Shenstone near Birmingham / Jan 2022","{'label': 'Neutral', 'score': 0.9996848106384277}",neutral,0.9996848106384277,0
+Ukraine received new ACAR rifles - Militarnyi - Militarnyi,"Thu, 17 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvdWtyYWluZS1yZWNlaXZlZC1uZXctYWNhci1yaWZsZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"ACAR assault rifle. Photo credits: Thales Australia
+
+Ukraine received new ACAR rifles
+
+Thales Australia has handed over its newest assault rifle, the ACAR, to Ukraine.
+
+The Australian company reported that the military received ACAR in two versions – 5.56mm and 7.62mm caliber.
+
+Their transfer is part of a new tranche of military aid from Canberra, along with other unnamed weapons and ammunition.
+
+This supply will allow Ukrainian forces to assess the ACAR’s utility in meeting their needs.
+
+According to the company, informal feedback on ACAR has to date been positive.
+
+“It’s not a contract or a sale. That is why we have not made any reports so far,” a Thales spokesperson shared.
+
+The standard version of the ACAR has a caliber of 5.56mm and is also available in 7.62mm and .300 Blackout modifications. The 6.8mm variant is in the final stage of testing.
+
+The company is actively expanding its production capacity and hopes that combat tests of the new rifle will allow entering the European market.
+
+The official presentation of ACAR is planned at the DSEI defense exhibition in Britain, being held in September this year.
+
+The Australian state and federal law enforcement agencies are also testing the ACAR.
+
+Australian Combat Assault Rifle (ACAR)
+
+“The ACAR meets all existing and foreseeable technical requirements for an AR-style assault rifle, offering inherent durability and reliability with a good price-to-performance ratio,” the company said.
+
+The French company Thales is supplying GM 200 radars for Ukraine.","{'label': 'Neutral', 'score': 0.9995958209037781}",neutral,0.9995958209037781,0
+Thales to be awarded large contract to support navy equipment - UK Defence Journal,"Thu, 10 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvaHVnZS1jb250cmFjdC1hd2FyZGVkLXRvLXRoYWxlcy10by1zdXBwb3J0LW5hdnktZXF1aXBtZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Ministry of Defence has announced its intention to award a substantial contract, valued at an estimated £2.9 billion, to Thales UK Limited.
+
+The announcement, published on the 8th of August, highlights the contract as being for the in-service support of various equipment used by the Royal Navy.
+
+The support services encompassed in the contract include maintenance, managing obsolescence, stock management, provision of spare parts, and safety certification.
+
+Specifically, the contract details the equipment covered: “Sonars 2050, 2054, 2076, 2087, 2093, 2193; UAA4, UAT, UAT(16); T&V Class Periscopes; AJU, AJN & AXA Masts; AVS; Orphan MRE and NEP Cabinets“.
+
+The duration of the contract will span fifteen years, aligning with the Authority’s technical refresh programme for the aforementioned equipment. However, this term is subject to the MOD’s potential exercise of break options included within the contract.
+
+The MOD has chosen to award this contract to Thales UK Limited, citing technical reasons that rendered Thales the only feasible option. As stated in the official notice, “Thales UK Limited is the original equipment manufacturer of the Equipment and alone has the accumulated know-how required to support, and certify the safety of, the Equipment in accordance with the technical requirements of the Contract.“","{'label': 'Neutral', 'score': 0.9999723434448242}",neutral,0.9999723434448242,0
+How A Simple Act of Paperwork In Montreal Is Changing People's Lives - MTL Blog,"Thu, 24 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm10bGJsb2cuY29tL2hvdy1hLXNpbXBsZS1hY3Qtb2YtcGFwZXJ3b3JrLWluLW1vbnRyZWFsLWlzLWNoYW5naW5nLXBlb3BsZXMtbGl2ZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,", time to level up your local game.
+
+We have a favour to ask.
+
+MTL Blog is looking to transition to a more sustainable future where we are no longer as reliant on advertising revenue. Upgrade now and browse MTL Blog ad-free and directly support our journalism.","{'label': 'Neutral', 'score': 0.999462902545929}",neutral,0.999462902545929,0
+'FriendlyJordies' brings new attention to West Papuan occupation ahead of independence day arrests - Green Left,"Wed, 16 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmdyZWVubGVmdC5vcmcuYXUvY29udGVudC9mcmllbmRseWpvcmRpZXMtYnJpbmdzLW5ldy1hdHRlbnRpb24td2VzdC1wYXB1YW4tb2NjdXBhdGlvbi1haGVhZC1pbmRlcGVuZGVuY2UtZGF5LWFycmVzdHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"This week, Indonesians commemorate their independence from Dutch colonialism, on August 17, 1945. West Papuans also commemorate their six-decade-long struggle for independence this week on August 15. This date marks 61 years since the Papuan people were betrayed by the international community on August 15, 1962, under the terms of the New York Agreement, a deal between the Netherlands and Indonesia, brokered by the United States, over West Papua’s sovereignty.
+
+The ensuing decades have been bookmarked by a bloody struggle for independence, with Indonesian police and military deploying mass violence and killings to quell dissent.
+
+In the latest chapter of this struggle, 27 West Papuan National Committee (KNPB) activists, handing out leaflets for an independence rally in West Papua, were arrested by Indonesian occupying forces, on August 12. These arrests are typical of the suppression and intimidation of civil society groups working for recognition of West Papua.
+
+Three days later, West Papuan activists took to the streets on August 15, calling on the United Nations to review the New York Agreement. Indonesian security forces responded to the peaceful rallies with violence, attacking demonstrators and using water cannon. Many protesters received head injuries from the attacks.
+
+Joe Collins from the Australian West Papua Association told Green Left: “West Papuan civil society groups regularly hold events and rallies on days of significance in their history to try and bring attention to the world of the injustices they suffer under Indonesian rule. And this is what Jakarta fears most, international scrutiny on the ongoing human rights abuses in the territory.”
+
+International scrutiny was given a boost this month with the release of the 45-minute documentary Paradise Bombed, which details Indonesia’s military occupation of West Papua and its 2021 bombing of Kiwirok and surrounding remote mountain villages.
+
+The documentary, released by the internet incubated and oft outspoken ""FriendlyJordies"" (aka Jordan Shanks), has had more than 900,000 views at time of writing. It was released with a report by Matthew Jamieson of the PNG Trust investigating the Kiwirok bombings.
+
+FriendlyJordie’s producer Kristo Langker travelled to West Papua to make the documentary (a feat in itself). In it he alleges that six Papuan villagers were killed in the initial attack, seven more while fleeing for safety, and a further 284 villagers died as a result of starvation in the following months.
+
+Langker released an additional short documentary, HostageLand, filmed in West Papua with Sebi Samba, the spokesperson for the Free Papua Movement (OPM). It details the history of hostage taking in the region and the very limited resources the independence movement has access to.
+
+Paradise Bombed’s release makes FriendlyJordies one of only a few in Australia’s non-traditional media landscape working to shed light on Indonesia’s brutal occupation. The Juice Media is another, with its Honest Government Ad — Visit West Papua, released in 2018, receiving nearly 3.5 million views.
+
+United Liberation Movement for West Papua (ULMWP) president Benny Wenda praised the researchers and documentary makers, saying: “We are murdered, tortured, and raped, and then our land is stolen for resource extraction and corporate profit when we flee … My heart was crying as I watched this documentary, as I was reminded of the Indonesian attack on my village in 1977 … The international community knows this is a grave humanitarian crisis, and yet still refuses to act. Why?”
+
+Wenda called on diplomatic groups, parliamentarians, legal supporters and solidarity activists to “ask your governments to address this, to stop selling arms to Indonesia”.
+
+Paradise Bombed reveals that bombs and rockets were fired from helicopters and drones during the attack on Kiwirok. Langker is clearly terrified at his West Papuan hosts’ handling (and his own) of unexploded rockets recovered after the attacks.
+
+An estimated 2000 people were forced to flee the bombings into the mountainous forests, where they have remained in makeshift bush camps ever since. Villagers are rightly worried about returning home; the documentary reveals that those who try to have been shot and killed. Wenda alleges these villagers were “shot at close range, with sniper rifles, and tortured”, adding that “[t]he names of Kiwirok residents are now added to the 60,000‒100,000 who have been forcibly displaced by Indonesian militarisation since 2018”.
+
+The accompanying Report on the continuing aggravated attack and serious human rights violations of Ngalum Kupel people, prepared by the PNG Trust, details evidence from eye witnesses, who described “a drone dropping bombs together with four or five helicopters firing rockets at houses, food gardens, pigs and chickens”.
+
+The report tells how survivors collected shrapnel and bombs from the initial series of attacks, keeping them as evidence. They indicate that “Thales FZ 68 rockets and modified Krusik mortars were used as the munitions in the military aerial attacks”.
+
+Furthermore, it says “witness accounts detail the Indonesian military forces using a drone/UAV armed with modified Krusik mortars, Thales rocket FZ 68 weapon systems and military attack helicopters against an Indigenous community”.
+
+Thales has been under scrutiny for its supply of weapons to Indonesia's military.
+
+In Paradise Bombed, Langker interviews Stephen Loosley, Deputy Chair of the Board of Thales Australia. Loosely previously served as a federal Labor senator during the Hawke and Keating governments and chaired the Joint Committee on Foreign Affairs, Defence and Trade. He is also a Senior Fellow and past Chair of the Australian Strategic Policy Institute. Langker presents Loosely with identified Thales shrapnel from the bombed villages and pictures of the destruction. Typically, Loosley shirks responsibility.
+
+Nine hundred thousand views represents significant attention to the atrocities perpetrated by Indonesia in its brutal occupation of West Papua. The question becomes how best to translate this into meaningful action.","{'label': 'Neutral', 'score': 0.9995216131210327}",neutral,0.9995216131210327,0
+Mandating Australian industry content for the AUKUS SSNs | The Strategist - The Strategist,"Thu, 24 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS9tYW5kYXRpbmctYXVzdHJhbGlhbi1pbmR1c3RyeS1jb250ZW50LWZvci10aGUtYXVrdXMtc3Nucy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"British media reports indicate that the UK Ministry of Defence intends to sign a contract with BAE Systems for the ‘detailed design and long lead items’ of a new class of submarine.
+
+I wonder what that contract will say about the Australian dimensions of the project. At the minimum, this should include an Australian presence in the managerial, engineering and naval architecture elements of the design team. The detailed design phase must consider the Australian standards to be applied and local industry content and supply chains. If we miss the starting gun we will never catch up.
+
+Recent discussion on the need to reboot Australia’s defence industry laments Australia’s failures while citing overseas successes. The Collins-class submarines and Anzac-class frigates were Australian success stories. Both mandated a level of Australian content—70% for the Anzac and 60% for the Collins. Both projects exceeded these figures, creating ongoing Australian self-reliance using local supply chains.
+
+Pacific Marine Batteries Defence grew from the initial Collins-class local content requirements. PMB was established on a greenfield site in Adelaide undertaking battery system design work, manufacturing 50% of the first battery set and every Collins-class battery since. The company is now among the largest global manufacturers of submarine batteries, including developing lithium-ion and nickel-zinc-based battery systems, and it has opened PMB Battery Technologies UK.
+
+For the Collins sonars, the prime contractor, Thales, made the acoustics for bow, towed and passive ranging arrays in Australia. Today the bulk of the Collins sonar system—the biggest, most extensive and most powerful sonar suite ever installed in a conventional submarine—is locally produced. Many UK sonars use acoustics manufactured by Thales Australia and its local suppliers. Just one of its many developments was a unique civil geophysical array earning more thab $350 million in exports. Today, Thales Australia exports more than 80% of its locally manufactured acoustic sensors to Australia’s allies, including the UK, US and France.
+
+The ‘wet end’ (transducers, hydrophones, and the like) are predominantly piezo ceramic. Australia provides a viable alternative to the world’s dominant manufacturer of that material, China.
+
+A smaller but also critical example is MacTaggart Scott, which established an Australian company, with support from the Department of Defence, to provide a supply chain to refurbish the Collins’ emergency propulsion unit, towed-array handling system, outboard valves and actuators including the hydroplanes and, more recently, mast-raising equipment.
+
+The initial project office with a team of four has grown to 25 people in specialised facilities.
+
+The most significant change has been the massive shift in Australian industry capability and content. There are around 80 approved suppliers using 80% Australian content during refurbishment flow work down and outwards, contributing to and increasing the number of jobs in defence industry that would otherwise have gone offshore.
+
+MacTaggart Scott Australia is now a successful stand-alone company undertaking refurbishment and supplying new, Australian-built replacement items. It is involved in research and development work adding improvements to the equipment in Australia and is seeking an export licence to supply Australian-built items to overseas customers.
+
+None of the Australian industry policies that have been put in place since the mandated content strategy was abandoned have achieved anything like these successes. Such industrial policy instruments became unfashionable because economists tend to regard local content schemes as a backdoor means of protecting local industry, with the additional drawback that they are less transparent than a tariff or subsidy.
+
+That may be true in industries in which there’s a global level playing field, but it’s clearly not the case in defence industry in general and naval shipbuilding in particular. Most countries support or protect their own defence industries assiduously for strategic reasons but are also keen to capture as much export business as possible. This provides additional income for activities that generally have only a modest output and few growth opportunities, while also giving rise to cost reductions by taking advantage of greater scale.
+
+For these reasons, both the UK government and BAE Systems will be working very hard in the SSN AUKUS program to minimise Australian industry content to the benefit of British industry. The Australian government must match this vigorously and ensure that Australian industry receives its rightful share of the program.
+
+Mandated percentages make Australian companies immediately more competitive by requiring offshore equipment suppliers to find and transfer technology to Australian partners, or to set up locally. Primes find a local player (like PMB) with obviously high Australian content attractive to boost their overall offer.
+
+Mandated percentages play to the advantage of local industry as both a pull and a push factor in the market. Primes, such as the one Thales Australia was bidding to, wanted a maximum local content percentage as well as best the price and performance, plus the lowest risk.
+
+A mandated percentage is the simplest policy to implement and audit.
+
+The primary objective of this policy is to achieve high operational availability. Armed forces are an industrial product—a submarine without working sonars and batteries, or unable to raise its periscopes and other masts, is confined to harbour. High operational availability is best achieved by an Australian supply chain.
+
+The government must act now to ensure that any contract for the detailed design of SSN AUKUS has a mandated (and enforceable) framework for Australian industry involvement in the design, procurement and production. Given the tight timeline for a decision—the contract is about to be let—we should start with something we know worked well last time we built a submarine as it led to an Australian-based supply chain for over 90% of the sustainment costs. That ensured 60% of the cost of the submarine procurement and production would be spent in Australia. After all, Australia will be building more than half of the submarines to be constructed under this project.","{'label': 'Neutral', 'score': 0.999881386756897}",neutral,0.999881386756897,0
+Zuma and NPA finally agree on something concerning delayed arms deal trial | City Press - News24,"Wed, 16 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5ld3MyNC5jb20vY2l0eXByZXNzL25ld3MvenVtYS1hbmQtbnBhLWZpbmFsbHktYWdyZWUtb24tc29tZXRoaW5nLWNvbmNlcm5pbmctZGVsYXllZC1hcm1zLWRlYWwtdHJpYWwtMjAyMzA4MTbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"NEWS
+
+Former president Jacob Zuma has agreed to the State's proposal to expedite his application for the removal of senior State advocate Billy Downer from the arms deal corruption trial.
+
+
+
+The decision comes after Zuma's lawyers and the State met with KwaZulu-Natal Judge President Thoba Poyo-Dlwati on Tuesday for a case management meeting to discuss the case. The National Prosecuting Authority (NPA) has expressed regret over the continued delays in the protracted trial and vowed to defend Downer.","{'label': 'Neutral', 'score': 0.7366460561752319}",neutral,0.7366460561752319,0
+Friday Night Lights: Thales Sophie - Cooled LWIR Thermal Biocular - - The Firearm Blog,"Fri, 11 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoZWZpcmVhcm1ibG9nLmNvbS9ibG9nLzIwMjMvMDgvMTEvdGhhbGVzLXNvcGhpZS1jb29sZWQtbHdpci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Back again? Can’t get enough Friday Night Lights? Have you looked at all of our night vision and thermal-related articles? If not click here to see all the articles I have written. Well, today we take a look at another rare thermal device, a Thales Sophie thermal binocular. It is cooled thermal but what makes it very unique is that this is cooled Long Wave Infrared (LWIR). Most cooled thermal is usually middle wavelength infrared (MWIR).
+
+More Cooled Thermal @TFB
+
+Thales Sophie
+
+Thales is a French-based defense contractor. They are known for making the LUCIE low-profile night vision goggle. Well, just like Safran/Vectronix and Elbit, they make a long-range thermal binocular called the Sophie. They call it binoculars but just like the JIM LR/LRTV and CORAL-SD, it is a biocular. There is only one thermal sensor producing a thermal image that is duplicated on twin OLED screens, one for each eyepiece.
+
+The Sophie has eyecups but unlike the CORAL-SD, they seem glued to the eyepieces. What is frustrating is that when you adjust the diopter in each lens, the eyecup will rotate with the lens. I can’t believe that is how Thales designed this. Perhaps a previous owner glued them on?
+
+At the top of the Sophie are two buttons. These control zoom. Just like the JIM LR and CORAL-SD, the Sophie has an optical zoom to go from a wide field of view (WFOV) to a narrow field of view (NFOV) as well as digital zoom.
+
+Of all my cooled thermal bioculars, the Thales Sophie is the simplest one. It does not have any GPS, compass, day channel or laser rangefinder. You hold it like a giant pair of binoculars. Your right-hand thumb can press that button below the power switch however it does not seem to do anything on this model of Sophie. The power switch requires you to pull the lever out first then you can flip it up. There are three positions. Down is OFF. The middle position is STANDBY which keeps the Stirling micro cooler running but keeps the OLED displays off. The third position is when the lever is moved all the way up and this is the ON position.
+
+On the left-hand side are two buttons. This accesses the menu and you change settings using the zoom buttons.
+
+Top Button: Polarity, edge enhancement, brightness, reticle, AZ bore sighting, EL bore sighting, reticle distance units, language, horometer.
+
+Bottom Button: Focus, Gain, FOV (zoom)
+
+Polarity is simply white or black hot. I did not notice any difference when I turned the edge enhancement off or on. I will get to the reticles soon. The azimuth and elevation are for zeroing to some laser designator. Language options are French and English. The horometer is how long the unit has been running since it was made. Below are the three different reticles – cross, distance and micrometer. The distance one, I assume, is a stadiametric rangefinder reticle.
+
+The Distance reticle has 14 options but the distances seem odd numbers. Maybe this is due to the low resolution and limited by the pixels of the image?
+
+Front: 506m Side: 1012m
+
+Front: 539m Side: 1078m
+
+Front: 578m Side: 1156m
+
+Front: 622m Side: 1244m
+
+Front: 678m Side: 1348m
+
+Front: 736m Side: 1472m
+
+Front: 809m Side: 1618m
+
+Front: 899m Side: 1798m
+
+Front: 1012m Side: 2024m
+
+Front: 1156m Side: 2312m
+
+Front: 1349m Side: 2698m
+
+Front: 1619m Side: 3238m
+
+Front: 2025m Side: 4050m
+
+Front: 2699m Side: 5398m
+
+Front: 4050m Side: 8100m
+
+This is the menu option for reticle distance units. As you switch the distance, the two reticle bars move closer together as the distance increases.
+
+The Sophie has a proprietary battery that uses battery chemistry that is very uncommon, Lithium Manganese Dioxide. Not sure why Thales chose this battery chemistry over Li-Ion.
+
+The person I bought this from did not have a charger for the factory batteries even though he had three batteries, one is brand new and still sealed in the packaging. So he gutted one of the batteries and made an adapter using an RC Li-Po battery cable. You can see the original battery housing below with a battery cable coming out of it.
+
+The Sophie came with two of these camo-wrapped batteries seen above, but one of them was too low to charge. So I went to my local RC car shop and bought this higher-capacity battery.
+
+Nocorium was kind enough to make me a wrap for it.
+
+This is the same battery I used for my FLIR See Spot III, but it was originally bought for the Sophie.
+
+Sophie Carrying Case
+
+The Sophie thermal biocular came with a padded carrying case. It is sort of like a padded jacket. You can keep the Sophie inside and there are slots on either side for your hands to reach up inside and manipulate the controls. As you can see, it has a hole so the objective lens can stick out the side.
+
+At the rear are cutouts for the eyepieces and power switch.
+
+At the front is a zippered flap to access the battery. And to the side is a pass-through hole for what I assume is for power adapters and data cable. There is a port on that side of the Sophie but I do not have any cables for it.
+
+How Does The Sophie Look?
+
+The image is ok, it is not as good as the JIM LR. On paper, it sounds decent but I am not sure if this is for a newer version of the Sophie.
+
+If you notice, it is LWIR since its spectral band is 8-12 μm whereas MWIR is around 4-5 μm.
+
+According to this data sheet I found online, it claims to have some very impressive capabilities. However, I have not really found these to be accurate to the one I have.
+
+Here is my usual target for testing optics. That shed is 530 yards away. These images look worse than it really does since I am photographing through the eyepiece. I wish I had the video out cable so I could record the analog image digitally.
+
+Digital zoom is not too bad and that is without any magnifier.
+
+When I was testing it, I saw something moving just over 1k yards away. By its behavior, I thought it was a coyote. I confirmed it with my 16x binoculars and it was a pet dog. Identification would require I was closer but recognition at 1k yards is not bad at all.
+
+One thing I was hoping for with Sophie is if the sensitivity would be higher since it is cooled. My experience with cooled thermal is with MWIR systems and they are so sensitive they can see the heat coming off bullets as they fly through the air. No, I am not talking about tracers. Just normal bullets. Sadly Sophie does not show bullet heat the same as my cooled MWIR devices. Here is a comparison video where I recorded the video from my FLIR SeeSpot III while my friend Kythe shot 5.56 out to 475 yards. Then a video clip looking through the Sophie. You can sort of see a brief frame of heat that could be the bullet but it quickly disappears.
+
+Here is a video where I try to observe one of my thermal beacons, the Steiner
+
+Final Thoughts On The Thales Sophie
+
+I had high expectations for a cooled LWIR thermal device but so far I have not seen or tested a good example where it was more sensitive than an uncooled LWIR thermal. I suppose it did show that 5.56 bullet ever so briefly but that is not useful compared to what my cooled MWIR thermal devices can show even for being low-resolution systems. Size-wise, it is wider than any other thermal device I have and the features are not as extensive as others. It does not have a designating laser like the other ones pictured below.
+
+The distance reticle seems odd to me. It is only a single pair of vertical bars that you have to manually set the distance apart. Anything that does not fit perfectly between those two bars you cannot range it. This does not seem very useful to me. Also, the distances are all random numbers. They are not even numbers. The reticle does expand as you zoom in.
+
+There is a considerable amount of jelly roll in the OLED screens that I can see with my naked eye without even trying. You can see it in the videos I embedded above.
+
+I would like to find a video out cable for this one day but so far I have not been able to track one down. I did not pay much for this but I think it is worth a lot more. I have not been able to find a retail price since Thales does not list prices and always says “contact for quote”. Not sure why pricing is so secretive?
+
+Thank you for reading all the way to the end. See you next Friday.","{'label': 'Neutral', 'score': 0.9999854564666748}",neutral,0.9999854564666748,0
+France Orders 544 Kiosks & 250 Tablets for Entry/Exit System - SchengenVisaInfo.com,"Wed, 16 Aug 2023 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnNjaGVuZ2VudmlzYWluZm8uY29tL25ld3MvZnJhbmNlLW9yZGVycy01NDQta2lvc2tzLTI1MC10YWJsZXRzLWZvci1lbnRyeS1leGl0LXN5c3RlbS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Preparations for the new border management system of the European Union – the Entry Exit System (EES) – are underway in France, as its authorities have placed an order of a total of 544 new kiosks and 250 tablets, which will be installed at the country’s borders in the near future.
+
+- Advertisement -
+
+“The kiosks have been tested in Paris and are being reworked for improvements. But we will be ready, especially as we are sure now EES will start after the Olympics, even perhaps at the start of 2025,” the delegate of the Union of French Airports, Nicolas Paulissen, has told the Connexion France.
+
+The EES is a new security system for the management of external borders of the EU, initiated back in 2017. Through the same, the EU intends to become a safer territory, by collecting biometric information of those entering and leaving its territory, as well as precenting from entering those posing any type of threat to its security.
+
+Back in March 2021, France had selected Thales, a French multinational company that designs, develops and manufactures electrical systems, devices and equipment for transportation and security sectors, for delivering hundreds of pre-registration kiosks at various of its border crossing points.
+
+According to the same, the process for registering at its kiosks will take less than one minute, SchengenVisaInfo.com reports.
+
+“In less than one minute, third-country nationals will thus be pre-registered and have their identity verified at Thales kiosks deployed at French airports, train stations and ports,” the company claims.
+
+However, a newly released report by French public finance watchdog Cour des Comptes has raised concerns that waiting times at the borders between the United Kingdom and France could double or even triple once the new Entry/Exit System is launched.
+
+“Even though the average check time has increased since Brexit for Eurostar, doubling or even tripling waiting time could drive some travellers to opt for a plane,” the report reads.
+
+While France has already ordered the kiosks it needs to implement the EES, many of the Schengen countries remain behind in this regard, though they claim that they are “in line” with the other Member States.
+
+So far, Lithuania is the only country to have completed all preparations needed for the launch of the Entry/Exit System at its borders. The country has selected Easier and Idemia for equipping with over 70 self-service such kiosks and more than 30 automated border crossing lanes at its border crossing.
+
+Iceland and Denmark have also chosen IDEMIA to equip them with the needed kiosks for the implementation of the EES.
+
+>> EES Launch Date Remains Unknown, Member States Claim National Implementation Is “in Line” With Other EU Countries","{'label': 'Neutral', 'score': 0.9998348951339722}",neutral,0.9998348951339722,0

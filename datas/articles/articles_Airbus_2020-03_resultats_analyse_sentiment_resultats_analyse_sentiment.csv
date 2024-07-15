@@ -1,0 +1,865 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Biomimicry: a fresh approach to aircraft innovation - Airbus,"Thu, 12 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTAzLWJpb21pbWljcnktYS1mcmVzaC1hcHByb2FjaC10by1haXJjcmFmdC1pbm5vdmF0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Rethinking aircraft design by imitating nature’s best-kept secrets could help solve a variety of aviation challenges. Biomimicry—or biologically inspired engineering—is providing engineers with invaluable insight on how to design lighter and more fuel-efficient aircraft.
+
+When Daedalus and his son Icarus from classic Greek mythology found themselves imprisoned by King Minos of Crete, they began to wonder: what if they could escape by flying away like birds?
+
+According to the legend, Daedalus crafted bird-like wings made of feathers and wax, which enabled them to fly out of their prison. But Icarus failed to heed his father’s warning and flew too close to the sun. The wax melted and Icarus fell to his death. Daedalus heeded the warning and flew to the island of Sicily. His wing design—inspired by birds—had flown him to safety.
+
+Like Daedalus, aeronautical engineers have been inspired by birds for decades. In fact, the study and imitation of nature’s best-kept secrets to help solve human challenges has a name: biomimicry. As the aviation industry faces the colossal challenge of how to make aviation more sustainable, nature is increasingly proving to have some invaluable insight—from the flight secrets of birds to the movement of sharks—on how to make aircraft lighter and more fuel efficient.
+
+As the aviation industry faces the colossal challenge of how to make aviation more sustainable, nature is increasingly proving to have some invaluable insight on how to make aircraft lighter, faster and more fuel efficient.
+
+Ever noticed how snow geese often fly in a “V shape”? This is because follower geese expend less energy by surfing on the wakes (i.e. left-over kinetic energy of moving air in the sky) created by the leader bird. When flying in this way, geese immediately benefit from free lift, which enables them to stay aloft with minimal fatigue over long distances.
+
+The Airbus fello’fly demonstrator project aims to prove the viability of this flight technique—known as “wake-energy retrieval”—for commercial aircraft. Every in-flight aircraft creates a wake, so positioning a follower aircraft in the air upwash of the leader could help the follower to reap the benefits of this “free” lift. In fact, according to preliminary studies conducted by the Airbus fello’fly team, this collaborative activity could produce fuel savings of between 5-10% per fello’fly trip.
+
+Of all the birds of prey, the bald eagle reigns supreme. This large, powerfully built bird has long, broad wings that contribute to faster flight. Eagles, like albatrosses, are soaring birds—this means they can provide engineers with a lot of insight into dealing with wind gusts, and more.
+
+Airbus’ “Bird of Prey” conceptual airliner is inspired by the eagle. The theoretical design is a hybrid-electric, turbo-propeller aircraft for regional air transportation, which mimics the eagle’s wing and tail structure, and features individually controlled feathers that provide active flight control.
+
+Although Bird of Prey is not intended to represent an actual aircraft, it does provide insight into what a future regional aircraft could look like based on technologies that currently form the basis of Airbus research. This includes hybrid-electric propulsion, active control systems and advanced composite structures.
+
+The long-eared owl is one of nature’s most silent hunters, thanks to a wing design that enables it to fly in almost complete silence. When most birds fly, turbulence—created when air flows over the surface of their wings—causes noise. However, the long-eared owl is one of only a few birds that has primary feathers serrated like a comb. This breaks down turbulence into smaller currents called micro-turbulences. The serrated feathers thus are able to muffle the sound of air flowing over the wing by enabling the air to pass easily through.
+
+Today’s aircraft already produce 75% less noise than those produced 40 years ago. Airbus engineers are studying owls to further unlock the secrets of silent flight. Some ideas include a retractable, brush-like fringe to mimic the owl’s serrated feathers on wings and a velvety coating on aircraft landing gear.
+
+Like birds, sharks can also teach engineers a lot about aircraft movement. A shark’s tail is its propeller: it moves forward by swinging its tail back and forth, which pushes water around its fins. Aircraft move forward in the same way, pushing air around their wings to create lift. The shark also has dorsal fins that work exactly like the vertical stabiliser wing on an aircraft, giving it exceptional manoeuvrability.
+
+In 2013, Airbus introduced “sharklets”—or vertical wing-tip extensions that resemble a shark’s dorsal fin—as a retrofit to its A320 Family aircraft. These aerodynamic surfaces, which are mounted vertically at the wingtips, significantly reduce the size of the wingtip vortex, thus reducing induced drag. Today, all members of the A320neo Family are fitted with sharklets as a standard.","{'label': 'Neutral', 'score': 0.9620276689529419}",neutral,0.9620276689529419,0
+Airbus and Boeing Report February 2020 Commercial Aircraft Orders and Deliveries - Defense & Security Monitor,"Tue, 17 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiggFodHRwczovL2RzbS5mb3JlY2FzdGludGVybmF0aW9uYWwuY29tLzIwMjAvMDMvMTcvYWlyYnVzLWFuZC1ib2VpbmctcmVwb3J0LWZlYnJ1YXJ5LTIwMjAtY29tbWVyY2lhbC1haXJjcmFmdC1vcmRlcnMtYW5kLWRlbGl2ZXJpZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"COVID-19 Emerges as Potent Threat to Air Travel and Demand for Commercial Jets
+
+by J. Kasper Oestergaard, European Correspondent, Forecast International.
+
+While it would be premature to make detailed conclusions about how COVID-19 will impact the aviation industry in the future, even if the outbreak is short-lived, it is reasonable to argue that a major risk factor has emerged to air travel and aerospace manufacturing. While outbreaks of infectious disease across borders are not unprecedented, in recent history the impact has been geographically concentrated. The SARS outbreak in 2002-04 mainly impacted Southeast Asia and the 2013-16 outbreak of Ebola was predominantly in three nations in West Africa. COVID-19, while less lethal, has demonstrated that infectious diseases can fairly quickly cause great harm to worldwide economic activity due to the measures that need to be taken to contain it. While the aviation industry, and the air transport industry in particular, will not have to completely alter its approach to risk management, companies will certainly have to revisit and revise their models.
+
+Turning to the February numbers for orders and deliveries, Boeing and Airbus delivered 17 and 55 commercial jets in February 2020 compared to 49 deliveries each in the same month last year. Boeing’s deliveries continue to suffer in the aftermath of two 737 MAX crashes and the subsequent deliveries halt and grounding of the fleet. Deliveries of 737 MAX aircraft have been suspended since March 2019. Year-to-date, Boeing has delivered 30 aircraft and is 65 deliveries behind last year’s total for the first two months of the year. Airbus delivered a total of 86 jets in January and February, compared to 88 in the same period last year. For the full year 2019, Boeing delivered 380 aircraft, while Airbus set a new all-time annual record, handing over 863 jets. Prior to this, Boeing had retained a deliveries lead over Airbus since 2012. In 2018, Boeing delivered 806 jets (763 in 2017), with Airbus handing over 800 (718 in 2017).
+
+In December 2019, Boeing announced its decision to temporarily suspend 737 MAX production from January 2020. Prior to this, Boeing had been producing 737 MAX jets at a reduced rate of 42 aircraft per month and thereby built up an inventory of aircraft ready to be shipped. As of mid-March, the suspension is still in effect; however, Boeing expects the aircraft will resume service in mid-2020. In the meantime, test flights and software changes continue. Boeing has carried out more than 1,100 test flights with new MCAS software for a total of 2,100 flight hours. On January 10, the FAA announced that it remains focused on following a thorough process for returning the 737 MAX to service. The FAA continues to work with other international aviation safety regulators to review the proposed changes to the aircraft. The FAA made it clear that its first priority is safety and that no timeframe for when the work will be completed has been set. While Boeing is currently estimating that the grounding of the 737 MAX will be lifted during mid-2020, it will be a few years before the company is able to hit the planned monthly production rate of 57 aircraft. On January 30, Spirit AeroSystems, the 737 MAX fuselage manufacturer, announced that it had reached an agreement with Boeing for a restart of production and slow ramp-up of deliveries throughout the year to reach a delivery total of 216 737 MAX shipsets in 2020. To date, Boeing has delivered 387 737 MAX jets, of which 256 were delivered in 2018, up from 74 in 2017.
+
+In February, Boeing delivered one 737NG, three 767s, one 777 and 12 787s. Boeing raised the monthly Dreamliner production rate to 14 aircraft during 2019 and handed over 158 787s last year – a new annual record. The company delivered 145 787s in 2018, up from 136 in 2017. The 787 production rate will be reduced from 14 to 12 aircraft per month in late 2020 and is expected to be further adjusted to 10 per month in early 2021, with a return to 12 per month in 2023. The 777 program awaits the 777X’s service entry. The first flight of the 777X was completed on January 25 and first delivery is targeted for 2021.
+
+In February, Airbus delivered four A220s, 40 A320s (3 CEO / 37 NEO), two A330s, and nine A350s. Airbus increased the official A320 production rate to 60 aircraft per month during 2019 and is targeting an additional raise to 63 jets per month from 2021. Airbus is also discussing a further ramp-up with its supply chain and considers increasing the rate by one or two in 2022 and the same in 2023. This could bring the A320 production rate up to as high as 67 aircraft per month by 2023, equal to 804 jets per year, putting the company within reach of the 1,000-jets-per-year delivery mark. For the full year 2019, Airbus handed over 642 A320 family aircraft, of which 551 were A320neos. This compares to a total of 386 A320neo family aircraft delivered in 2018, up from 181 and 68 in 2017 and 2016, respectively. Airbus delivered a record 112 A350s in 2019, up from 93 and 78 in 2018 and 2017, respectively. Airbus increased the monthly A350 production rate to 10 during 2019. Airbus has been considering a further increase up to 13 A350s per month, but for 2020 the A350 is expected to stay at a monthly rate of 9-10 aircraft. Airbus expects to deliver 40 A330 jets in 2020, down from 53 in 2019.
+
+Turning to the orders race, Boeing reported 18 gross orders in February and 43 737 MAX cancellations, for a total of 25 net cancellations. Orders were mainly small 787-9 and -10 orders from multiple customers. Also, FedEx ordered a single 767 freighter. For the full year 2019, Boeing accumulated 243 gross orders (330 cancellations => -87 net new orders). For the full year 2018, Boeing booked 893 net new orders and 1,008 gross orders.
+
+In February, Airbus reported no new orders or cancellations.
+
+At the end of February, Airbus’ reported a backlog of 7,670 jets, of which 6,756, or 88 percent, were A220 and A320ceo/neo family narrowbodies. This is 55 aircraft below the company’s all-time backlog record of 7,725 aircraft set in January 2020. By the end of February 2020, Boeing’s backlog (total unfilled orders before ASC 606 adjustment) was 5,567 aircraft, of which 4,540, or 82 percent, were 737 NG/MAX narrowbody jets. Boeing’s all-time backlog high of 5,964 aircraft was set in August 2018. The number of Airbus aircraft to be built and delivered represents 8.9 years of shipments at the 2019 production level. In comparison, Boeing’s backlog would “only” last 6.9 years at the 2018 level, which we use as proxy for 2019 due to the drop in 737 MAX deliveries. This year to date, Boeing’s book-to-bill ratio, calculated as net new orders divided by deliveries, is negative due to cancellations exceeding gross orders. Airbus’ book-to-bill ratio is 3.19 thanks to very strong bookings in January. In 2019, Boeing’s book-to-bill ratio was negative, while Airbus reported a book-to-bill of 0.89.
+
+2020 Forecast
+
+Forecast International’s Platinum Forecast System® is a breakthrough in forecasting technology. Among many other features, Platinum provides 15-year production forecasts. The author has used the Platinum Forecast System to retrieve the latest delivery forecasts and, for 2020, Forecast International’s analysts expect Boeing and Airbus to deliver 491 and 858 commercial jets, respectively.
+
+On January 29, in connection with the release of its 2019 earnings report, Boeing, as expected, did not provide a delivery target for the year due to the 737 MAX uncertainty. On February 13, Airbus reported 2019 earnings and announced a target of 880 commercial aircraft deliveries in 2020, up 2 percent from 863 in 2019.
+
+Note: Boeing 777-300ER orders include one 777-200LR. The 777-300ER backlog includes two 777-200LRs.
+
+Joakim Kasper Oestergaard is Forecast International’s AeroWeb and PowerWeb Webmaster and European Editor. In 2008, he came up with the idea for what would eventually evolve into AeroWeb. Mr. Oestergaard is an expert in aerospace & defense market intelligence, fuel efficiency in civil aviation, defense spending and defense programs. He has an affiliation with Terma Aerostructures A/S in Denmark – a leading manufacturer of composite and metal aerostructures for the F-35 Lightning II. Mr. Oestergaard has a Master’s Degree in Finance and International Business from the Aarhus School of Business – Aarhus University in Denmark.
+
+References:
+
+Share this:
+
+
+
+Tweet
+
+Print
+
+Email
+
+","{'label': 'Negative', 'score': 0.886116623878479}",negative,0.886116623878479,-1
+"Airbus impressed by Northrop Grumman, but remains undecided on satellite servicing - SpaceNews","Wed, 11 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3BhY2VuZXdzLmNvbS9haXJidXMtaW1wcmVzc2VkLWJ5LW5vcnRocm9wLWdydW1tYW4tYnV0LXJlbWFpbnMtdW5kZWNpZGVkLW9uLXNhdGVsbGl0ZS1zZXJ2aWNpbmcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Airbus Defence and Space wanted to launch a satellite servicer shortly after Northrop Grumman launched MEV-1, but backed away from those plans two years ago because of uncertainty about the commercial market.
+
+Northrop Grumman’s Mission Extension Vehicle 1 launched in October and docked with the Intelsat-901 communications satellite in February, paving the way for a five-year extended lease on life.
+
+Airbus Defence and Space is “really excited to see what Northrop is doing” with MEV-1 to gauge whether satellite servicing is a viable business that Airbus ought also pursue, Oliver Juckenhöfel, Airbus Defence and Space’s senior vice president of on-orbit services and exploration, said March 9.
+
+“We still have in the drawers what we were doing in 2018 and we are able to ramp them up again if necessary,” he said during a press conference at the Satellite 2020 conference here.
+
+Airbus was preparing a satellite servicer based on the Eurostar Neo platform it uses as the basis for some telecommunications satellites, Juckenhöfel said. The servicer would have used all-electric propulsion and “robotic elements” to grab other satellites for refueling, he said.
+
+“It was a very nice design — technically feasible — but we had significant questions on the overall business case,” Juckenhöfel said.
+
+Airbus halted work on the servicer after reaching a preliminary design review, he said.
+
+“We feel it’s better not to be the first, in this particular case,” Juckenhöfel said. “We are watching it, but undecided.”
+
+Frank DeMauro, Northrop Grumman Space Systems’ vice president and general manager for Tactical Space Systems, said on a panel March 10 that MEV-1 is in the process of moving Intelsat-901 to its orbital slot. The combined stack — MEV-1 controls Intelsat-901 — should arrive at 332.5 degrees east by the end of March, he said, where it can cover both American continents, Africa and Europe.
+
+Transferring traffic from the ageing Intelsat-907 over to Intelsat-901 will take a few days to a week, he said, with full service starting in the “first half of April if not sooner.”
+
+Northrop Grumman has a second MEV that DeMauro said launches in June. Intelsat is also the customer for that servicer, which launches on an Ariane 5. Each MEV has a 15-year design life, enabling extension missions for multiple spacecraft.
+
+For Airbus to resurrect its servicer program would require a sizeable financial investment that Juckenhöfel declined to quantify.
+
+A significant determining factor is launch pricing, which Juckenhöfel said adds too much cost for satellite servicing to be feasible in Airbus’ eyes, especially as communications satellites get cheaper.
+
+Other spacecraft manufacturers have flirted with the idea of satellite servicing.
+
+Thales Alenia Space said last year it would build a satellite servicer provided it could land a government customer to anchor the program.
+
+Maxar Technologies was selected to build a servicer for the U.S. Defense Advanced Research Projects Agency, but relinquished the program in early 2019. DARPA later selected Northrop Gruman to continue that program, known as the Robotic Servicing of Geosynchronous Satellites.","{'label': 'Neutral', 'score': 0.9998815059661865}",neutral,0.9998815059661865,0
+Boeing down sharply second day in a row. Airbus stock in similar decline - Leeham News and Analysis,"Thu, 12 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAyMC8wMy8xMi9ib2VpbmctZG93bi1zaGFycGx5LXNlY29uZC1kYXktaW4tYS1yb3ctYWlyYnVzLXN0b2NrLWluLXNpbWlsYXItZGVjbGluZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"By Scott Hamilton
+
+March 12, 2020, © Leeham News: Boeing stock is in another sharp decline today.
+
+Yesterday, the stock fell 18%, to close under $200 for the first time since May 2017.
+
+Today, the stock was off 15% in early morning trading, to a low of $156. At this writing, Boeing is down 13.5% at $163. The Dow Jones was down 7%.
+
+Year-to-date, Boeing is off 52%.
+
+While here in the US, focus is on Boeing, looking at the Paris stock exchange, Airbus stock also in in a similar decline—without all the baggage Boeing has.
+
+Year-to-date, Airbus is off 45%. It’s off 14% today. Although not as volatile as Boeing’s stock, the illustrations show a remarkably similar trading pattern.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Negative', 'score': 0.9943211078643799}",negative,0.9943211078643799,-1
+Airbus announces measures to bolster liquidity and balance sheet in response to COVID-19 - Airbus,"Mon, 23 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wMy1haXJidXMtYW5ub3VuY2VzLW1lYXN1cmVzLXRvLWJvbHN0ZXItbGlxdWlkaXR5LWFuZC1iYWxhbmNlLXNoZWV0LWlu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"New € 15 billion credit facility
+
+Withdrawal of 2019 dividend proposal with cash value of € 1.4 billion
+
+Suspension of top up pension funding
+
+2020 guidance withdrawn
+
+Strong focus on support to customers and delivery
+
+Amsterdam – Airbus SE (stock exchange symbol: AIR) announces measures to bolster its liquidity and balance sheet in response to the COVID-19 pandemic as it continues to assess the ongoing situation and the impact on its business, customers, suppliers and the industry as a whole.
+
+“Our first priority is protecting people while supporting efforts globally to curb the spread of the coronavirus. We are also safeguarding our business to protect the future of Airbus and to ensure we can return to efficient operations once the situation recovers. We have withdrawn our 2020 guidance due to the volatility of the situation. At the same time, we are committed to securing the liquidity of the Company at all times through a prudent balance sheet policy. I am convinced that Airbus and the broader aerospace sector will overcome this critical period,” said Airbus Chief Executive Officer Guillaume Faury.
+
+Reflecting the Company’s prudent balance sheet policy and to ensure financial flexibility, Airbus’ management has received approval from the Board of Directors to: secure a new credit facility amounting to € 15 billion in addition to the existing € 3 billion revolving credit facility; withdraw the 2019 dividend proposal of € 1.80 per share with an overall cash value of approximately € 1.4 billion; and suspend the voluntary top up in pension funding. Given the limited visibility due to the evolving COVID-19 situation, the 2020 guidance is withdrawn. Operational scenarios, including measures to minimise cash requirements, have been identified and will be activated depending on the further development of the pandemic.
+
+With these decisions, the Company has significant liquidity available to cope with additional cash requirements related to the coronavirus. Liquidity resources previously standing at approximately € 20 billion, comprising around € 12 billion in financial assets at hand and around € 8 billion in undrawn credit lines, were further bolstered by converting an existing € 5 billion credit line into a new facility amounting to € 15 billion. Available liquidity now amounts to approximately € 30 billion.
+
+By maintaining production, managing its resilient backlog, supporting its customers and securing financial flexibility for its operations, Airbus intends to secure business continuity for itself even in a protracted crisis. Safe and efficient air travel is a key backbone of global economic development and cultural exchange. Airbus therefore highly welcomes governmental efforts around the globe to stabilise this industry by supporting the financial health of its airline customers and its suppliers. Airbus continues to monitor the overall health of the industry.
+
+Airbus has convened its 2020 Annual General Meeting in Amsterdam on 16 April. Due to the global outbreak of COVID-19, Airbus discourages physical attendance and strongly encourages shareholders to vote by proxy in line with public health and safety measures.
+
+* * *
+
+Note to editors: Live Webcast of Analyst Conference call
+
+At 08:30 CET on 23 March 2020, you can listen to an analyst call related to this announcement with Chief Executive Officer Guillaume Faury and Chief Financial Officer Dominik Asam via the Airbus website.","{'label': 'Neutral', 'score': 0.6386346817016602}",neutral,0.6386346817016602,0
+Successful launch for Airbus' Bartolomeo - Airbus,"Mon, 09 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wMy1zdWNjZXNzZnVsLWxhdW5jaC1mb3ItYWlyYnVzLWJhcnRvbG9tZW_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Cape Canaveral, 09 March 2020 – The Airbus built Bartolomeo platform has been successfully launched on 06 March from Cape Canaveral, Florida, US. Bartolomeo is now on its journey to the International Space Station (ISS) and will be installed outside of the Columbus Laboratory, the European module of the ISS built by Airbus.
+
+Andreas Hammer, Airbus’ Head of Space Exploration said: “This unique platform will offer new and affordable Earth observation applications and give companies and research institutions the unique opportunity to explore their project quickly and easily in space.”
+
+
+
+Bartolomeo - named after Christopher Columbus' younger brother - is funded by Airbus and will be operated with the support of the European Space Agency (ESA). The platform can host up to 12 different payload slots, providing them with a power supply and data transmission back to Earth.
+
+
+
+Not only does this provide opportunities for Earth observation, but also environmental and climate research, robotics, material sciences, astrophysics or to test new technologies in space, paving the way for their commercialisation. The platform’s unique vantage point 400 kilometres above the Earth offers unobstructed views of our planet enabling the hosting of external payload in low-Earth-orbit.
+
+
+
+Launch opportunities are available on every servicing mission to the ISS which is around every 3 months. The payload accommodation allows slots for a wide range of payload mass going from 5 to 450 kg. They will be provided with optical data downlink capacity of one to two Terabytes per day.
+
+
+
+In just 12 months any payload can be prepared and ready to operate. Payload sizes, interfaces, preparation before launch and integration process are largely standardised. This reduces lead times and saves costs significantly compared to traditional mission costs.
+
+
+
+Bartolomeo is an all-in-one mission service that pioneers sustainable space for a safe and united world.
+
+@AirbusSpace @ESA @Space_Station @ISS_Research #Bartolomeo #ISS","{'label': 'Neutral', 'score': 0.8376780152320862}",neutral,0.8376780152320862,0
+Airbus extends its reach into precision agriculture solutions with AgNeo - Airbus,"Fri, 06 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wMy1haXJidXMtZXh0ZW5kcy1pdHMtcmVhY2gtaW50by1wcmVjaXNpb24tYWdyaWN1bHR1cmUtc29sdXRpb25zLXdpdGjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Toulouse, 06 March 2020 – Airbus has launched AgNeo, its new integrated precision farming solution for commodity and permanent crops. Delivering in-season actionable information based on satellite imagery and premium agronomic analytics, AgNeo will help customers save time, optimise inputs and increase yields.
+
+AgNeo leverages Airbus’ 30-year experience in the agriculture market and the long-standing and fruitful collaboration with its customers to propose a wide range of crop analytics. Based on imagery-derived health maps from SPOT, Pléiades, Sentinel-2 and Landsat 8 data, they support a wide range of capabilities: from alerting features that direct agronomists to scout areas in their fields that require immediate attention, to the creation of management zones and variable rate application maps. Thanks to an Airbus-proprietary processing chain that normalizes data across all sensors, AgNeo customers can also derive absolute agronomic indicators to use as input to their own models for building nitrogen recommendation or establishing water budgets.
+
+AgNeo also provides enhanced analytics for high value permanent crops such as almonds, apples and grapes. Using 50cm resolution data from Pléiades, AgNeo creates a mask of all the tree crowns to remove noise from background vegetation and soil, improving the results and bringing analytics to the tree level. These analytics include a stand count inventory eliminating time-consuming and error-prone manual tree counts. The product will be able to utilise 30cm data from Airbus’ new Pléiades Neo satellites due to be launched later this year.
+
+The AgNeo solution is available with a full user interface and will also be accessible via APIs. On 10 March, the Company will host a public webinar to unveil the latest addition to its agriculture portfolio.
+
+Register now to attend the AgNeo launch webinar on March 10 by clicking here
+
+@AirbusSpace #AgNeo #precisionfarming","{'label': 'Neutral', 'score': 0.7222744226455688}",neutral,0.7222744226455688,0
+AirBusiness Academy to provide leadership programmes for the Emirates Group - Airbus Aircraft,"Wed, 11 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL2FpcmNyYWZ0LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vbmV3cy8yMDIwLTAzLWFpcmJ1c2luZXNzLWFjYWRlbXktdG8tcHJvdmlkZS1sZWFkZXJzaGlwLXByb2dyYW1tZXMtZm9yLXRoZS1lbWlyYXRlcy1ncm91cNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"DUBAI, UAE – 11 March 2020: The Emirates Group and AirBusiness Academy have signed a Memorandum of Understanding (MoU) to extend Airbus’s leadership programme to UAE National employees at the Emirates Group. The MoU was signed by Amira Al Falasi, Emirates’ Vice President, HR Talent Acquisition and National Talent Development and Serge Golofier, Head of Sales & Marketing at AirBusiness Academy.
+
+The new agreement will enable the Emirates Group’s cadre of high-potential UAE Nationals to tap into the Airbus Leadership Programme tailor-made modular learning framework, which aims to equip current and future UAE National leaders with the knowledge, skills and attitudes needed for their personal and professional development in an ever-changing business environment.
+
+Topics will be centered on soft skills like self-awareness and emotional intelligence, as well as practical, interactive learning through commercial aviation business simulations. The programme will last 10 days and will take place at the AirBusiness Academy within the Airbus Leadership University in Toulouse.
+
+Serge Golofier, Head of Sales & Marketing at AirBusiness Academy: “We look forward to delivering the very best of industry knowledge, resources and expertise in order to offer the highest of educational standards and interactive learning experiences for the Emirates Group. This agreement also highlights Airbus’s commitment to collaborating with industry partners and developing local talent to stimulate sustainable economic development in the communities we operate”.","{'label': 'Neutral', 'score': 0.9797043800354004}",neutral,0.9797043800354004,0
+Beyond aerospace: Airbus offers game-changing expertise to other industries - Airbus,"Mon, 02 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vbmV3cy8yMDIwLTAzLWJleW9uZC1hZXJvc3BhY2UtYWlyYnVzLW9mZmVycy1nYW1lLWNoYW5naW5nLWV4cGVydGlzZS10by1vdGhlci1pbmR1c3RyaWVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus’ innovative engineering solutions that have literally reshaped the aerospace industry since the company’s creation 50 years ago are now being offered to other sectors that can benefit from this unrivalled expertise.
+
+Opening access to Airbus engineering know-how is the goal of the Engineering Design & Services initiative launched in 2019, which envisions such potential scenarios as applying Airbus knowledge in aerodynamics, composite materials and stress analysis to improve automotive and nautical designs; or bringing the company’s skills in remote monitoring with via telemetry datalinks to the medical sector for tracking the function of artificial hearts.
+
+A “tailored approach” for customers
+
+“The scope of Engineering & Design Services is broad, aiming to propose a catalogue of standard off-the-shelf services – as well as the ability to respond to customer needs through a more tailored approach,” said Amrish Pathack, the head of consulting services at Airbus.
+
+This service capitalises on Airbus' highly specialised skills, focusing on customers' needs where a project requires excellence and expertise in one or more of the following five niche characteristics: harsh environment (such as low and high temperature, high vibrations), high performance (aerodynamics, strong and light materials), high integrity (robustness and safety), high regulation (market controls), and/or high complexity (products with millions of parts).
+
+In addition to the automotive and nautical sectors, the medical industry is particularly well-suited for this Airbus service as it satisfies all five niche characteristics.","{'label': 'Positive', 'score': 0.9999827146530151}",positive,0.9999827146530151,1
+The UK’s complicated history with Airbus - The Guardian,"Fri, 06 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDIwL21hci8wNi90aGUtdWtzLWNvbXBsaWNhdGVkLWhpc3Rvcnktd2l0aC1haXJidXPSAVhodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyMC9tYXIvMDYvdGhlLXVrcy1jb21wbGljYXRlZC1oaXN0b3J5LXdpdGgtYWlyYnVz?oc=5&hl=en-US&gl=US&ceid=US:en,"In Amélie de Montchalin’s article (Britain has the EU’s respect. It must now respect us too, Journal, 29 February) she refers glowingly to French and British stewardship of Airbus. It is undoubtedly true that the UK is at the heart of the success of this European project, but she overlooks the time from 1967-78, when the UK government nearly killed it at birth. We were in it from the beginning with a world-class wing design, but bailed out in 1969, preparing to support a domestic competitor, which would have fatally divided the market. A Franco-German alliance then took a leap of faith and funded the first member of the family despite few sales.
+
+Sir Arnold Hall negotiated a private deal with the two European governments to provide the wings. But Ted Heath’s government blocked the UK alternative and any official return to Airbus. In the late 1970s, the Labour government was considering a Boeing project, but in the face of resistance from the newly nationalised British Aerospace accepted that we should rejoin Airbus as a full partner.
+
+As a coda to this early history, in the 1980s Margaret Thatcher had to be persuaded to support the innovative fly-by-wire Airbus A320, now one of the most profitable airliners and the heart of Airbus’s subsequent challenge to American dominance. One can only hope that our future relationship with Airbus remains as close as it eventually became.
+
+Prof Keith Hayward
+
+Fellow of the Royal Aeronautical Society, London
+
+Join the debate – email guardian.letters@theguardian.com
+
+Read more Guardian letters – click here to visit gu.com/letters
+
+Do you have a photo you’d like to share with Guardian readers? Click here to upload it and we’ll publish the best submissions in the letters spread of our print edition","{'label': 'Neutral', 'score': 0.9994984865188599}",neutral,0.9994984865188599,0
+COVID-19 pandemic forces temporary suspensions at Airbus & Leonardo - Vertical Magazine,"Wed, 18 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3MvY292aWQtMTktcGFuZGVtaWMtZm9yY2VzLXRlbXBvcmFyeS1zdXNwZW5zaW9ucy1hdC1haXJidXMtbGVvbmFyZG8v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Helicopter OEMs are implementing drastic measures in response to the COVID-19 pandemic, with European-based Airbus and Leonardo temporarily suspending some operations.
+
+Leonardo, headquartered near Milan in Northern Italy in one the most affected regions of the outbreak, suspended activity at its offices on March 16 and 17 to start an “extraordinary cleaning and sanitation of company premises.”
+
+According to a translated statement posted on the company’s website, Leonardo said it continued “essential activities” during the closure, including activities related to the public utility, security, emergency medical services, and armed forces sectors.
+
+From March 18 to 25, the company said it would begin a progressive partial reactivation of operating activities, based on balancing the need to ensure the continuation of business while ensuring it was complying the safety measures required by the government in respect to COVID-19.
+
+Workers at its facilities are maintaining a distance of at least one meter between each other.
+
+Elsewhere in Europe, Airbus Helicopters has suspended production and assembly work at its facilities in France and Spain.
+
+The move, implemented on March 17, is to last four days, and will be in place across the parent group’s facilities in those two countries.
+
+“This will allow sufficient time to implement stringent health and safety conditions in terms of hygiene, cleaning and self-distancing, while improving the efficiency of operations under the new working conditions,” the company said in a press release announcing the decision. “In those countries [France and Spain], the company will also continue to maximize homeworking wherever possible.”
+
+Airbus Helicopters’ headquarters in Marignane, France, is the major rotary-wing site affected by the move, but the manufacturer also has facilities in Dugny, near Paris (which focuses on rotor blade design, production and customer services), and Albacete in Spain. The latter is a center of excellence for the production and integration of rear fuselages for all Airbus types.
+
+Airbus added that it is “working together with its customers and suppliers to minimize the impact of this decision on their operations.”
+
+While the COVID-19 virus is also changing life and working practices in North America, the continent appears to be a few weeks behind Europe in terms of the severity of the outbreak.
+
+A spokesperson for Bell, based in Fort Worth, Texas, said the company is continuing to operate its facilities on their regular schedules, while “staying vigilant and closely monitoring the situation and its impact worldwide.” Currently, Bell has avoided any disruption to its manufacturing and operations.
+
+“The health and safety of our employees is of utmost priority to our company,” the spokesperson added. “Bell has established preventive measures in accordance with CDC and WHO guidelines for employers and continues to provide all the necessary information to our workforce and customers.”","{'label': 'Neutral', 'score': 0.9968166947364807}",neutral,0.9968166947364807,0
+Airbus Reportedly Pitching an A350 Freighter - SamChui.com - Sam Chui,"Wed, 04 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2FtY2h1aS5jb20vMjAyMC8wMy8wNC9haXJidXMtcmVwb3J0ZWRseS1waXRjaGluZy1hbi1hMzUwLWZyZWlnaHRlci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus’ latest and most advanced widebody aircraft, the A350, has been an all round great performer for the company and airlines operating it; but now the manufacturer is reportedly pitching the model as a freighter, to the world’s leading freight handling airlines.
+
+Sources in contact with Cargo Facts state that Airbus is moving ahead with the development of an A350 Freighter and is actively pitching the aircraft to leading freight handlers, such as FedEx and UPS, with a launch to follow after securing a customer.
+
+Boeing is the current leader in the commercial cargo segment, with specialised loads notably carried by aircraft such as the Antonov 124 and 225. For years now Airbus has been interested in increasing their freighter market share, with a mediocre A330 Freighter program never gaining traction, and is probably looking to develop a competitive, modern platform.
+
+Sales executives in Toulouse have reportedly spent the last few months discussing the basis of a new freighter aircraft, including upgrading the A330 Freighter to an A330neo Freighter using the A330-900. If the sources in contact with Cargo Facts are accurate, it appears that Airbus has now voted in favour of an A350 Freighter; this is likely due to its modern design and long-term production scheme.
+
+Interestingly enough, a FedEx executive jet, registered N1FE, was captured by BND-Tls at Toulouse Airport on the 25th of February; this has led to speculation that Airbus was in talks about a new freighter platform.
+
+FedEx Private Jet (photo by BND-Tls, Flickr)
+
+Although its unknown what variant of the A350 Airbus would use to build a freighter, both the -900 and -1000 could easily do the job. To seriously compete with the Boeing 777 and 747-8 Freighter programs, the larger A350 variant would come out on top; with an estimated payload of 95 metric tonnes and its 308 to 319 tonne maximum takeoff weight.
+
+Additionally, the A350-1000 would boast a higher volumetric capacity, with over 800 metres cubed compared to the factory-built Boeing 777Fs 650 metres cubed, as stated by Cargo Facts.
+
+The reported A350 Freighter talks come shortly after Israeli Aerospace Industries (IAI) and GECAS launched a passenger to freighter conversion program for the Boeing 777-300ER, which will soon start to steadily make its way to retirement yards.
+
+The 777-300ER, which is very close to A350-1000 specification, would certainly make for an excellent competitor to an A350 Freighter, due to its lower capital costs and existing global fleet presence.
+
+Frederic Horst, who is the managing director of Cargo Facts Consulting, adds to this in a statement published in the original Cargo Facts article:
+
+“It is unclear how an A350 freighter would fit into the global freighter fleet. An A350-1000F would compete directly with a lower-capital-cost 777-300ERSF, whereas an A350-900F would compete with a 777-200F; but due to its lower design density, is a less-capable aircraft.” Frederic Horst – Managing Director, Cargo Facts Consulting
+
+Global cargo fleet figures indicate over a quarter of the worlds freighters consist of ageing aircraft, such as the Boeing 747-400F and McDonnell Douglas MD-11/10F. As these aircraft edge closer to retirement, the need for more than one product offering for replacement becomes apparent.
+
+But Airbus and Boeing have to be very careful. Although internet shopping and the demand for faster cargo shipments is increasing, the market is extremely sensitive and is currently facing difficulties as a result of the COVID-19 outbreak. FedEx has already parked 35 freighter aircraft, after losing Amazon as a major customer as well as battling increased trade tension.
+
+As an alternative to a pricey and fancy A350 Freighter, the alternative could be A330 passenger to freighter conversion; thanks to their growing availability, proven performance and similar size to MD-11/10 Freighter platforms.
+
+Cargo Facts also adds that sources say Airbus has already pitched the A350 Freighter to a large Asian carrier, however a purchase commitment was declined.
+
+Whether the A350 earns its position in the freighter market or not won’t be a major loss to Airbus, as the aircraft already has over 930 orders; with plenty more expected in the future and other platforms, such as used A330s, suiting the job as well. What will be a blow to the company is not getting a grip on Boeing’s majority market share, if the 777 passenger to freighter conversion program takes off or the company launches a new, more capable product.
+
+What are your thoughts on Airbus’ freighter movements with the A350?","{'label': 'Neutral', 'score': 0.9033417701721191}",neutral,0.9033417701721191,0
+World’s first Airbus ACJ320neo delivered following VVIP refit - Corporate Jet Investor,"Tue, 03 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNvcnBvcmF0ZWpldGludmVzdG9yLmNvbS9uZXdzL3dvcmxkcy1maXJzdC1haXJidXMtYWNqMzIwbmVvLWRlbGl2ZXJlZC1mb2xsb3dpbmctdnZpcC1yZWZpdC04MjIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"World’s first Airbus ACJ320neo delivered following VVIP refit
+
+news by Yves Le Marquand March 3, 2020 Print this page
+
+Acropolis Aviation has announced the delivery of its Airbus ACJ320neo, G-KELT, following a 13-month cabin outfitting by Basle-based AMAC aerospace. The aircraft touched down at Acropolis’s Farnborough Airport home on February 27th sporting its new interior overseen by designer, Yves Pickhardt, of Alberto Pinto.
+
+The Airbus ACJ 320neo was the first aircraft of this type delivered by Airbus Corporate Jets for VVIP configuration in early 2019. Acropolis Aviation is the launch customer, enhancing its aviation services with the addition of this VVIP aircraft. Building on the success of its existing Airbus ACJ319, the ACJ320neo will provide additional range via new high-efficiency engines and the addition of drag-reducing wingtip sharklet devices.
+
+Acropolis Aviation’s CEO, Jonathan Bousfield, told Corporate Jet Investor: “Acropolis has been an Airbus Corporate Jets customer since the introduction of G-NOAH, its first ACJ. Acropolis signed a contract for the Neo at EBACE 2015, choosing the aircraft for its strong passenger acceptance and building on its strong relationship with the manufacturer. The aircraft took just over a year from start to finish. A number of new enhancements were introduced, and Acropolis and designer Yves Pickardt were involved throughout the process. Acropolis is proud to be a dedicated ACJ operator and is looking forward to introducing G-KELT to the charter market.”
+
+Capable of flying for over 12 hours, G-KELT has accommodation for 19 passengers, including a private master bedroom leading to a luxury ensuite bathroom, the largest ever to be installed in an Airbus single-aisle aircraft. It features a full-sized kitchen galley for food preparation and an induction oven, enabling preparation of fresh, quality food, without fumes or odours. With an average cabin altitude of 6,400 ft, G-KELT has been fitted with an aircraft cabin air humidifier to improve passenger comfort.
+
+Collins Aerospace’s cabin-management system, Venue, along with its inflight entertainment system, Stage, allows viewing on 19 individual iPads and four large TV screens throughout the cabin. Collins is also providing its Viu LED mood interior-lighting system. The aircraft is also fitted with superfast wireless Wi-Fi via Ka-Band internet connection.
+
+“We have executed this completion project with Acropolis Aviation, as one of the world’s leading private aviation operators,” said Mr. Bernd Schramm, group chief operating officer of AMAC Aerospace. “This unique mission adds to the excellent reputation that AMAC has gained in the market which we continuously demonstrated over the last 20 VIP/ 25+ VVIP and refurbishment/modification projects at AMAC Aerospace.”
+
+Bousfield told Corporate Jet Investor that Acropolis is planning to showcase the ACJ320neo at EBACE: “We are delighted with G-KELT and are confident this is going to be a very popular VVIP charter aircraft – especially in Europe, Middle East and the USA. We are also looking forward to showcasing the aircraft on the static display at EBACE. We are in discussion with Airbus Corporate Jets to finalise that right now.”
+
+A look inside:","{'label': 'Positive', 'score': 0.9327436089515686}",positive,0.9327436089515686,1
+Airbus cancels €1.5 billion in dividends over coronavirus - DW (English),"Mon, 23 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9haXJidXMtY2FuY2Vscy0xNS1iaWxsaW9uLWluLWRpdmlkZW5kcy1vdmVyLWNvcm9uYXZpcnVzL2EtNTI4ODQ4NjbSAVhodHRwczovL2FtcC5kdy5jb20vZW4vYWlyYnVzLWNhbmNlbHMtMTUtYmlsbGlvbi1pbi1kaXZpZGVuZHMtb3Zlci1jb3JvbmF2aXJ1cy9hLTUyODg0ODY2?oc=5&hl=en-US&gl=US&ceid=US:en,"European planemaker Airbus is canceling a stakeholder payment to cope with the financial stress of the global coronavirus outbreak. The manufacturer called for federal support as it is hit by travel restrictions.
+
+European aviation giant Airbus on Monday said it was canceling a planned dividend payment and revoking its 2020 earnings forecast in the face of the global economic uncertainty created by the coronavirus pandemic.
+
+""We have withdrawn our 2020 guidance due to the volatility of the situation,"" Airbus chief executive Guillaume Faury said in a statement.
+
+Air travel has been severely impacted by the outbreak, for example through travel restrictions, Faury said. He called for ""strong support"" from the government to help air carriers get through this unprecedented time.
+
+Read more: Airbus fears higher tariffs on EU planes
+
+Dividends revoked
+
+To bolster liquidity and improve the group’s bottom line, the planemaker is ""withdraw(ing) the 2019 dividend proposal of 1.80 euros per share with an overall cash value of approximately €1.4 billion ($1.5 billion),"" the statement continued.
+
+The group also said it would sign a credit facility giving Airbus access to an additional €15 billion ($16.1 billion) in longterm funding on top of an existing €3 billion credit facility to boost its financial position.
+
+""We are also safeguarding our business to protect the future of Airbus and to ensure we can return to efficient operations once the situation recovers,"" the statement from Faury said.
+
+These measures provide the company with around €30 billion in liquidity and should ""secure business continuity for itself even in a protracted crisis""
+
+On Sunday, the manufacturer had announced it would partially resume production and assembly work at plants in France and Spain after work was halted for four days for health and security checks.
+
+Airbus employed a global workforce of 135,000 and generated revenues of €70 billion in 2019.
+
+kp/rc (AFP, Reuters)
+
+DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.","{'label': 'Negative', 'score': 0.8925419449806213}",negative,0.8925419449806213,-1
+Airbus to Partially Resume Production in France and Spain - Assembly Magazine,"Mon, 23 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFzc2VtYmx5bWFnLmNvbS9hcnRpY2xlcy85NTU0MS1haXJidXMtdG8tcGFydGlhbGx5LXJlc3VtZS1wcm9kdWN0aW9uLWluLWZyYW5jZS1hbmQtc3BhaW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"TOULOUSE, France — Airbus SE announces that it expects production and assembly work to partially resume in France and Spain on this week following health and safety checks.
+
+Airbus has carried out extensive work in coordination with its social partners to ensure the health and safety of its employees, while securing business continuity. The implementation of these measures required a temporary pause in production and assembly activities at the French and Spanish sites for a period of four days. Work stations will only re-open if they comply with the new health and safety measures in terms of hygiene, cleaning and self-distancing while improving the efficiency of operations under new working conditions.
+
+The same measures are being deployed across all other sites without full interruption.
+
+For other non-production activities, Airbus continues to support home-working where possible. Some employees will be asked to return to support business continuity following the implementation of these new measures. In February, the Airbus Final Assembly Line in Tianjin, China, reopened following a temporary production stoppage related to the coronavirus outbreak and is now operating efficiently.
+
+Airbus is supporting those in the health, emergency and public services that rely on its aircraft, helicopters, satellites and services to accomplish their critical missions. In addition, in the past days, the company has donated thousands of face masks to hospitals and public services around Europe and has started to use its test aircraft to obtain larger quantities from suppliers in China. A first flight with a test A330-800 aircraft has this weekend transported approximately 2 million masks from Tianjin back to Europe, of which the large majority will be donated to the Spanish and French authorities. Additional flights are planned to take place in the coming days.
+
+“Health and safety is our number one priority at Airbus so the work stations at our sites in France and Spain will only re-open if they meet the required standards. I’d like to salute the strong commitment from our employees to ensure business continuity in close cooperation with our social partners and other stakeholders,” says Airbus CEO Guillaume Faury. “At the same time we are doing all we can to support those on the frontline to fight the coronavirus and limit its spread. We try to live up to our values, humbled by the complexity of the situation, and contribute as much as we can to society in these very difficult times.”","{'label': 'Neutral', 'score': 0.9966926574707031}",neutral,0.9966926574707031,0
+Airbus engineers bring sustainable aviation to reality - Airbus,"Wed, 04 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vbmV3cy8yMDIwLTAzLWFpcmJ1cy1lbmdpbmVlcnMtYnJpbmctc3VzdGFpbmFibGUtYXZpYXRpb24tdG8tcmVhbGl0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"With today’s first-ever observance of the World Engineering Day for Sustainable Development, Airbus is highlighting the contributions of engineers across the company to a more sustainable aviation industry.
+
+“I like to think that being an engineer involved in aerodynamics gives me a ‘tiny environmental footprint,’” said Dr. Gerd Heller, senior aerodynamics expert with Airbus Commercial Aircraft. “I guided a team that developed the Sharklets on our A320 Family aircraft, and the impact of these wingtip devices on emissions is impressive.”
+
+The Sharklets reduce an A320’s fuel consumption and associated emissions up to 4%; applied to a fleet of thousands of aircraft with operational lives of over two decades, Gerd and his team will have helped reduce CO 2 emissions in the tens of millions of tonnes.
+
+A “smoother” approach with laminar airflow
+
+Another focus is on increasing laminar flow areas over aircraft surfaces – keeping the flow smooth as far downstream as possible. “The better the aerodynamics, the less drag an aircraft produces; and reducing drag cuts emissions from the fuel burned needed to overcome it,” Gerd explained. “Getting the wing shapes right despite the many constraints is exactly what engineers working in aerodynamics love to do!”
+
+At Airbus Helicopters, Luca Cossetti – a research and technology innovative power solutions specialist – agrees that excellent overall design is key to aircraft efficiency and emissions reduction. Cossetti focusses on propulsion, and sees real possibilities in electrification, even with the engineering challenges ahead.
+
+Workable hybrid technology for rotorcraft
+
+“We’re already getting close to workable hybrid technology that has similarities to the way hybrid cars work,” he explains. Automotive and rotorcraft could use similar methods in how systems manage the timing and blending of thermal and electrical power generation. “We’re planning to optimise the use of thermal and electric power to improve overall safety and efficiency, decreasing environmental impact through fuel consumption and noise.”
+
+Another area involves helicopters and VTOL (vertical take-off and landing) aircraft that would be fully electrically powered. With electric energy storage technology improving, engineers will have the opportunity to prove their value in this area, too. “Once the technologies are ready – including for batteries – the challenges will be to integrate them into an overall aircraft design and to devise or adapt systems which allow safe, efficient, emission-free flight,” says Luca. “This will be one of our day-to-day jobs as engineers: making zero-carbon emission helicopter flight a reality.”
+
+Into the stratosphere with Zephyr
+
+An even more “sustainable” approach is used for Airbus Defence and Space’s Zephyr very high-altitude unmanned aircraft – also known as a pseudo-satellite. Despite its 25-metre wingspan, the lightweight Zephyr can be hand launched by 3-4 people. Once airborne, the pseudo-satellite uses solar power for its climb and operation at an altitude of more than 60,000 ft. “Everything on Zephyr is designed to save weight and reduce drag,” explained Elly Thompson, a payloads system engineer at Airbus.
+
+Zephyr will carry out detailed optical surveillance and deliver new connectivity services from the stratosphere, equipped with a future payload of up to 15 kg. “Zephyr is able to trace the world’s changing environmental landscape, or provide connectivity to underserved areas,” Thompson said. “Flying for months at a time, it combines the persistence of a satellite with the flexibility of a UAV (unmanned aerial vehicle) and, because it lands at the end of a mission, it can change its payload and take off again.”
+
+Having already achieved a world record for flight endurance in 2018, the Zephyr programme team is confident the next step will involve development of the ecosystem needed to deliver future services from the stratosphere – further proof that Airbus engineers are shaping a sustainable future.","{'label': 'Positive', 'score': 0.9999428987503052}",positive,0.9999428987503052,1
+Airbus Helicopters strives to restart production - Vertical Mag - Vertical Magazine,"Thu, 26 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3MvYWlyYnVzLWhlbGljb3B0ZXJzLXN0cml2ZXMtdG8tcmVzdGFydC1wcm9kdWN0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Helicopters is gradually restarting production, implementing protection measures against the COVID-19 virus and facing a dramatic drop in the number of workers on site.
+
+The entire factory in Marignane, France, closed for four days, beginning to resume activity on March 23. The OEM is using the principle that a work station does not reopen until it is deemed safe, a company spokesperson told Vertical. “We inspect area after area,” she says.
+
+If the station is seen as not meeting the requirements, further work is conducted to bring it to the defined level of safety. “We work in close cooperation with unions,” the spokesperson said. The process is spread over two weeks and the final assembly lines have yet to restart.
+
+Health and safety measures include social distancing, with lines drawn on the floor every 3.3 feet (one meter) in critical areas, such as around entrance turnstiles. Wherever possible, doors are kept open all day. Hand disinfectant has been made available where toilets with soap and water are too far.
+
+Employees are directed to work on distant areas on a helicopter. When this is impossible, such as for flight testing, they use masks.
+
+Two shifts have been put in place and they are required not to meet. A three-hour period is dedicated to cleaning between the two. Cleaning operations are performed by the usual contractor.
+
+As of March 23, only 15 perent of Airbus Helicopters employees in Marignane were working on site. Another 50 percent were working from home. Since then, the numbers have evolved marginally, according to the spokesperson.
+
+As for the design office, some engineers are on site, typically to access those computers with powerful design software programs like Catia.","{'label': 'Neutral', 'score': 0.999969482421875}",neutral,0.999969482421875,0
+U.S. Army orders $122 million worth of Airbus UH-72 training helicopters - Vertical Magazine,"Wed, 04 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3MvdXMtYXJteS1haXJidXMtbGFrb3RhLXRyYWluaW5nLWhlbGljb3B0ZXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Helicopters has secured orders from the U.S. Army for another 15 UH-72 Lakota aircraft it uses for training, utility and other domestic missions.
+
+The $122.6 million deal announced March 3 covers work at Airbus’s Columbus, Mississippi, plant through August 2022. By that time, the Army will have taken delivery of at least 478 Lakotas, based on the twin-engine commercial H145.
+
+The UH-72A is a twin-engine light utility helicopter used for a wide range of military operations including border patrol, medevac, troop and VIP transport, light cargo, and homeland security. All 15 of the new aircraft will be delivered in the baseline training configuration.
+
+More than 440 Lakotas have been delivered to the Army since an initial contract for 345 UH-72s was awarded in 2006. Airbus in August delivered the 200th UH-72 to the Army Aviation Center of Excellence at Fort Rucker, Alabama.
+
+The aircraft initially were fielded to National Guard units for a variety of missions. The Lakota became the primary training helicopter for all Army rotorcraft pilots as part of the Aviation Restructure Initiative aimed at moving combat aircraft like the AH-64 Apache and UH-60 Black Hawk from reserve to active Army units.
+
+As part of the ARI, the legacy TH-67 training helicopter was scrapped in favor of the Lakota, which was officially designated the Institutional Training Helicopter. Accordingly, the Army in 2013 decided to increase its UH-72 fleet by 110 aircraft, from 317 to 427 helicopters and has continued to increase the total fleet number in small batches of more than a dozen aircraft at a time.
+
+More than 1,500 Army pilots have trained on the Lakota, according to Airbus. The U.S. military’s fleet has amassed more than 600,000 total flight hours.","{'label': 'Neutral', 'score': 0.9996004700660706}",neutral,0.9996004700660706,0
+Airbus test aircraft on COVID-19 mercy flights - Airline Ratings,"Mon, 23 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFpcmxpbmVyYXRpbmdzLmNvbS9uZXdzL2FpcmJ1cy10ZXN0LWFpcmNyYWZ0LWNvdmlkLTE5LW1lcmN5LWZsaWdodHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus is using test aircraft to ferry medical and other vital supplies to Europe as it moves to partially resume production work in France and Spain.
+
+A test Airbus A380-800 superjumbo this weekend transported two million masks from Tianjin, China, to help the fight against COVID-19 and said additional flights are planned in the coming days.
+
+The majority of the masks will be donated to Spanish and French authorities as part of wider donations to hospitals and public services around Europe.
+
+READ: Cathay passenger capacity shrivels to 4 percent.
+
+The European manufacturer is also bringing its French and Spanish production back online after suspending it to revamp hygiene, cleaning and social distancing requirements in its health regime.
+
+It was the most serious disruption to Europen production since a 1989 strike at then partner BAE systems. The manufacturer also closed its final assembly line in Tianjin as a result of the coronavirus outbreak but has since re-opened it and says it is “working efficiently”.
+
+Airbus said it had carried out extensive work with its partners to ensure the health and safety of employees and work stations would only re-open if they complied with the strict new regime.
+
+The manufacturer is also encouraging employees globally to work from home where possible.
+
+“Health and safety is our number one priority at Airbus so the work stations at our sites in France and Spain will only re-open if they meet the required standards,” said Airbus chief executive Guillaume Faury.
+
+“I’d like to salute the strong commitment from our employees to ensure business continuity in close cooperation with our social partners and other stakeholders.
+
+“At the same time, we are doing all we can to support those on the frontline to fight the coronavirus and limit its spread.
+
+“We try to live up to our values, humbled by the complexity of the situation, and contribute as much as we can to society in these very difficult times.”
+
+Airbus later announced it had opened a new €15 billion credit facility, withdrawn its 2019 dividend and stopped topping up pension funding to bolster liquidity.
+
+It also withdrew its 2020 earnings guidance.","{'label': 'Neutral', 'score': 0.9138314127922058}",neutral,0.9138314127922058,0
+Airbus E-Fan X electric aircraft achieves key milestones - Aerospace Testing International,"Wed, 11 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5hZXJvc3BhY2V0ZXN0aW5naW50ZXJuYXRpb25hbC5jb20vbmV3cy9lbGVjdHJpYy1oeWJyaWQvYWlyYnVzLWUtZmFuLXgtZWxlY3RyaWMtYWlyY3JhZnQtYWNoaWV2ZXMta2V5LW1pbGVzdG9uZXMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus’ E-Fan X technology demonstrator made its final test flight last month before it is modified with its hybrid-electric propulsion system and flown next year.
+
+The flight from Cranfield University in the UK of the BAe146 RJ100 was conducted on February 25. The aircraft is to be modified to accommodate a hybrid-electric propulsion system supplied by Rolls-Royce and flown in that configuration next year.
+
+The E-Fan X will be the latest iteration of Airbus’ E Fan series of aircraft, the first of which was developed in 2014. The project to develop the latest technology demonstrator is a partnership between Airbus and
+
+Rolls-Royce that is receiving £58m (US$74m) of funding from the UK Government.
+
+Bob Gilfillan, chief engineer E-Fan X at BAE Systems Air said, “The aircraft has been under our control since October. There were some test flights conducted then and at the end of February to baseline the performance, so that after it’s modified we can assess the impact of the hybrid-electric system accurately.
+
+“When we are using our Design Organisation Approval we are usually in charge of the program, but this case is unusual in that we are supplying that supervision and responsibility of the aircraft as a service to Airbus.”
+
+BAE Systems’ involvement is focused on making the modifications to the BAe146’s systems and structure to integrate the hybrid-electric system. This includes changes to the hydraulic and electrical systems as well as structural modifications.
+
+As a demonstrator, the aircraft’s certificate of airworthiness is no longer valid and BAE Systems are providing the permit to fly under delegated approval from EASA and CAA. The aircraft is currently being supervised by specialist BAe146-maintenance provider Avalon Aero at Cranfield and will remain there until October this year.
+
+The move at this time will be necessary because after the modifications the aircraft initially has to be flown without the hybrid system switched on. It is capable of flying on three engines but requires a longer runway than is present at Cranfield University to do so.
+
+Test flight schedule
+
+Test flights of the modified aircraft are being conducted by Airbus Test Operations. The main test flight program is expected to start out of Toulouse, France at the end of 2021 and last around six months.
+
+As well as looking at handling and aerodynamics in different environmental conditions, the flight test instrumentation will include equipment to closely measure the performance of the electrical system and will record current and voltages.
+
+The modifications to the aircraft will be done within the UK. The major modification will be engine number three, which will house a 2MW electric propulsion unit (EPU), swapping the aircraft’s current turbine for a Rolls-Royce-developed electrically driven fan and motor housed within the existing engine’s cowling.
+
+The EPU will be powered by a Rolls-Royce AE 2100 gas turbine-driven 2.5MW generator at the rear and battery system located at the front of the aircraft. According to Rolls-Royce the system will be the world’s most powerful flying generator when airborne.
+
+The hybrid-electric system, including the gas turbine, generator, power distribution system, motor and EPU are currently being tested at Airbus’ Test House in Ottobrunn, Germany before integration into the BAe146.
+
+Other modifications are being made to the aircraft to mitigate the expected heat that is produced by the new hybrid-electric system inside the aircraft. These changes include the addition of heat exchangers, air intakes and exhausts on the fuselage.
+
+Gilfillan said, “The three main concerns with hybrid-electric systems on aircraft are battery safety, installing the high voltage system in a confined space and the waste heat from the high voltage system, which is all produced in the wrong place. In this aircraft its being removed and dumped outside, but in future designs something better will be done with it.”
+
+Wind tunnel tests
+
+Airbus also recently completed wind tunnel testing on a 1:8 scale-model of the E-Fan X at its Filton low-speed wind tunnel in the UK. The wind tunnel has a test section measuring 3.65 x 3.05m and can produce airflow at speeds of up to 216mph.
+
+At a 1:8 scale, the E-Fan X was tested with a wingspan of over 3m. The model modified and used for the test was the same as was used in the BAe146 RJ100’s original development in the early 1980s.
+
+“The E-Fan X is an aircraft demonstrator, so it’s not optimized for aerodynamic design,” said Oliver Family, Airbus head of overall aircraft design, E-Fan X. “But to fly the demonstrator safely and efficiently, the aerodynamic impacts need to be fully understood.”
+
+“The only change we discovered during the test program is that we need to modify the porosity of some of the devices inside the ducts to ensure they relate correctly to the full-scale E-Fan X model devices,” said Paul Gingell, Airbus wind tunnel test engineer.","{'label': 'Neutral', 'score': 0.9999951124191284}",neutral,0.9999951124191284,0
+Airbus flocks in bird-like formation | LARA - LARA Magazine,"Wed, 18 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmxhcmFuZXdzLm5ldC9haXJidXMtZmxvY2tzLWluLWJpcmQtbGlrZS1mb3JtYXRpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"As a part of its “fello’fly” programme, Airbus has tested a bird-like formation with its A350s, believing that flying aircraft one behind the other could result in significant fuel savings.
+
+Beginning on 12 March Airbus conducted comparison flight tests using A350, in order to gather information about the effectiveness of formation flying. The manufacturer flew a single aircraft an 11-hour journey from Toulouse to Canada to Iceland to Greenland and repeated this with a second Airbus aircraft following. If the programme proves to be effective, it could increase airlines efficiency through considerable reductions on fuel costs and emissions.
+
+The proposed formation would see the FAA approved separation distance of five nm changed to 1.5nm, hoping to result in a reduction of 10-15% in fuel burn in the follower aircraft.
+
+The fello’fly programme aims to “demonstrate the technical, operational and commercial viability of two aircraft flying together for long-haul flights.”
+
+However there are many issues with the proposal. Having two aircraft following on a busy route would increase the possibility of incidents were it not monitored closely. It would also require aircraft to take off together, adding pressure to air traffic control and creating crowding in airport terminals as more passengers wait for coordinated flights.","{'label': 'Neutral', 'score': 0.7709457874298096}",neutral,0.7709457874298096,0
+Remembering the first Airbus A380 visit to the United States - AeroTime,"Thu, 19 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvMjQ2OTQtZmlyc3QtYWlyYnVzLWEzODAtdmlzaXQtdGhlLXVuaXRlZC1zdGF0ZXPSAVZodHRwczovL3d3dy5hZXJvdGltZS5hZXJvL2FydGljbGVzLzI0Njk0LWZpcnN0LWFpcmJ1cy1hMzgwLXZpc2l0LXRoZS11bml0ZWQtc3RhdGVzL2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"When Airbus officially launched the double-decker A380 in 2000, it was clear that the aircraft would become the poster child of the company in the 21st century. The Super Jumbo, as it was nicknamed, also became a poster child of many airlines, mostly in the Middle East: such carriers as Emirates, Etihad and Qatar Airways are associated purely with the Airbus A380, despite the fact that they also operate other aircraft. The A380’s portfolio of clients is fairly impressive, despite it being short – in total, 15 airlines operate the type, with one of them being an ACMI operator.
+
+But the list never included a single United States-based operator, despite the fact that carriers in the Land of Opportunity are some of the biggest airlines in the world. With Airbus ceasing the production of the A380 in 2021 and current operators possibly retiring the Super Jumbo much earlier than expected due to the current outbreak of COVID-19, it is highly unlikely we will see that change. While theoretically such airlines as American Airlines (A1G) (AAL) , Delta Air Lines or United Airlines could take-up second-hand A380’s, in practice, seeing an A380 fly the flag of the United States on its fuselage is not a sight that the world is bound to see.
+
+However, that is not to say that Airbus did not try. A few months before Singapore Airlines (SIA1) (SINGY) took the A380 for its maiden commercial flight in October, the European manufacturer embarked on trial flights of the Super Jumbo in the United States on March 19, 2007, when two A380s landed separately in New York John F. Kennedy International Airport (JFK) and in Los Angeles International Airport (LAX). The pair of aircraft also landed in Washington Dulles International Airport (IAD) and Chicago O’Hare International Airport (ORD) the same week.
+
+Experienced in the United States
+
+After all, the company has had its fair share of experience in selling jets in the United States. When Airbus launched its first aircraft, the A300, it embarked on a tour in the United States with the wide-body in 1973. While the tour did not provide the results the company wanted, as the 1973 oil crisis sent the global economy on a downward spiral, it caught the attention of some executives and the A300 finally found a buyer in the United States in 1978: Eastern Air Lines. The operator signed up for 23 aircraft after Airbus had used another cheeky sales tactic – gave the airline a trial period with four A300s to better understand its performance and operating economics.
+
+With the A380, Airbus expected to pick the fruits of the cherry tree almost immediately. John Leahy, the sales chief of Airbus, stated that the company was “looking forward to talking to United and Northwest,” reported Reuters after the Super Jumbo just landed in New York’s JFK airport. Furthermore, the Toulouse, France-based manufacturer was still planning to launch the A380F – a freighter variant of the aircraft. However, after FedEx and United Parcel Service (UPS) canceled their orders, it was left empty-handed. Eventually, the freighter version was canceled altogether.
+
+Clay McConnell, the former-Vice President of Communications and current Head of Communications at Airbus Americas, was more than optimistic for the A380’s future prospects. “We fully expect to break even and sell 1,600 over the next 20 years,” McConnell told the Time news.
+
+Airbus was not the only one excited about the trial flights. The former-deputy executive director of airports and security for Los Angeles World Airports Paul Haney stated that the airport authority was preparing for its largest turnout of spectators since 1974, when Concorde visited LAX, reported Los Angeles Times on March 19, 2007.
+
+One of the spectators at LAX, a World War Two veteran and a former B-17 bomber pilot, noted that the Airbus A380 was “a big boy.” For others, it was a regular day at work. Lufthansa (LHAB) (LHA) , whose aircraft landed at JFK, and Qantas, whose A380 landed in LAX, were testing the airports and their ability to handle the aircraft.
+
+The second round of visits was conducted in October 2007, a few weeks before the first Singapore Airlines’ (SIA1) (SINGY) customers boarded the A380 for their flights. During the second tour, Airbus’ pride and joy double-decker visited Bradley International Airport (BDL), Cincinnati/N. Kentucky Airport (CVG) and San Francisco International Airport (SFO).
+
+Sadly, despite the tours, no commercial airline in the United States signed up for the A380. Interestingly, the A380 almost became the Air Force One, replacing the aging Boeing 747-400s. But the story of an aircraft that was built in Europe flying the United States president never came to be: the Boeing 747-8 was chosen to be the next Air Force One.","{'label': 'Neutral', 'score': 0.7541030645370483}",neutral,0.7541030645370483,0
+Strata deploys automated manufacturing for Airbus A350-900 - STAT Times,"Mon, 16 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN0YXR0aW1lcy5jb20vbmV3cy9zdHJhdGEtZGVwbG95cy1hdXRvbWF0ZWQtbWFudWZhY3R1cmluZy1mb3ItYWlyYnVzLWEzNTAtOTAwLWF2aWF0aW9uL9IBZ2h0dHBzOi8vd3d3LnN0YXR0aW1lcy5jb20vYW1wL25ld3Mvc3RyYXRhLWRlcGxveXMtYXV0b21hdGVkLW1hbnVmYWN0dXJpbmctZm9yLWFpcmJ1cy1hMzUwLTkwMC1hdmlhdGlvbi8?oc=5&hl=en-US&gl=US&ceid=US:en,"Mar 16, 2020: Strata Manufacturing (Strata), the advanced composite aero structures manufacturing facility wholly-owned by Mubadala Investment Company PJSC, has deployed two of the latest generation MTorres Automatic Tape Laying (ATL) machines to support its Airbus A350-900 manufacturing capabilities.
+
+The Al Ain based manufacturer has gained first part qualification and first article inspection design and quality verifications for the use of the computer-controlled robotic ATL machines that will automate Strata’s production of the Inboard Flap components.
+
+“The deployment of breakthrough technologies brings enhanced efficiencies and increased productivity that will drive the company’s long-term competitiveness in a rapidly evolving and increasingly competitive industry,” said Ismail Ali Abdulla, CEO of Strata. “Through the quick adoption of cutting-edge technologies and solutions such as ATL, Strata will further advance its position in the global aerospace industry, facilitate our evolution to manufacture more complex aircraft parts and establish Strata as a key industry player with the technological capabilities to grow in advanced manufacturing.”
+
+As part of the nation’s Emiratization Plan and Strata’s commitment towards developing and harnessing the full potential of a UAE workforce, five of Strata’s employees, including two female Emiratis, Mai Jaber Saeed Al Marri and Latifa Abdulla Alshamsi, travelled to Spain for a five-day training course on the operation of the ATL Machine. The training course, which was split into theoretical classes and hands-on exercises, covered a complete overview of the system such as machine operation and maintenance. In addition, Emiratis Barraq buy klonopin online overnight delivery Khalid Abdulrahim, Project Lead and Meera Al Shamsi, Junior Supervisor in the Production unit, played an instrumental role in the development and deployment of the ATL machines on the Airbus A350 Inboard Flaps.
+
+“As we aim to continue delivering high-quality products to our customers, we consider the integration of machines and robotics vital in creating an efficient manufacturing system. Equipping our people with the right tools and techniques when adopting advanced manufacturing technologies is a key element in our vision in increasing Strata’s competitiveness in the global aerospace supply chain,” said Abdulla.
+
+The two ATL machines lay unidirectional prepreg materials onto a flat bed, which is then transferred to a mould tool for further processing. With a work envelope of 2.5 meters by 10 meters, the process of large composite layups is easily automated and eliminates the need for a separate ultrasonic cutting machine. Through this new technology, Strata will drastically reduce processing times in comparison to a standard hand layup process. With the support of its industry partners, Strata is likewise incubating other advanced technologies such as additive manufacturing, robotic assembly of aircraft structures, advanced inspection techniques through thermography, and optimisation of processing and machining of composite parts.
+
+Strata works with leading aircraft manufacturers, including Airbus, Boeing, Leonardo, and Pilatus. Based at Nibras Al Ain Aerospace Park, Strata supports the development of a leading aerospace hub in Abu Dhabi as part of the emirate’s economic diversification initiatives.","{'label': 'Positive', 'score': 0.9982604384422302}",positive,0.9982604384422302,1
+Thai Airways Airbus A350 Involved in Serious Landing Incident - SamChui.com - Sam Chui,"Mon, 30 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc2FtY2h1aS5jb20vMjAyMC8wMy8zMC90aGFpLWFpcndheXMtYWlyYnVzLWEzNTAtaW52b2x2ZWQtaW4tc2VyaW91cy1sYW5kaW5nLWluY2lkZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A Thai Airways Airbus A350 was involved in a serious landing incident, on January 1st 2020; which involved the aircraft descending below 670 feet, whilst still nearly 6.5 nautical miles from the airport.
+
+The aircraft, an Airbus A350-900 registered HS-THF, was performing flight TG-926 from Phuket when the incident occurred. Although at night, conditions and visibility were good.
+
+During descent, the pilots increased their descent rate while passing through 7,300 feet; as instructed to do so by air traffic control. Not long after clearance was provided to descent to 3,000 feet, at a heading of 040 degrees with a speed of 170 knots or higher. The aircraft was set up and cleared for an ILS approach into Frankfurt.
+
+At 6,000 feet the flaps were extended, with the landing gear being deployed at around 5,100 feet. By this time the descent rate was 2,000 feet per minute, just as the aircraft intercepted the localiser to begin its final approach sequence.
+
+With the ground proximity warning system (GPWS) calling out 2,500 feet, the autopilot system was disconnected. However, approximately nine seconds later another two GPWS call outs were made, this time alerting the crew of the sinkrate before calling out 1,000 feet.
+
+Noticing the issue, the pilot monitoring notified Frankfurt air traffic control; which was the first actual contact with the tower during approach. At this point the German Federal Bureau of Aircraft Accident Investigation states that the aircraft was at an altitude of 668 feet above ground level, 6.5 nautical miles from the airport runway.
+
+Vertical Profile of Initial Approach (German Federal Bureau of Aircraft Accident Investigation)
+
+A go around was performed, with the aircraft climbing out of the near-disastrous situation without further incident. During the second approach the correct altitude for the distance to the airport was achieved, being approximately 2,100 feet.
+
+To compare the approaches another illustration was published for the investigation, highlighting the serious vertical flight path deviation.
+
+Comparison of the two Approaches (German Federal Bureau of Aircraft Accident Investigation)
+
+Pilot Background
+
+On board the flight were three first officers and a captain. The German Federal Bureau of Aircraft Accident Investigation says that the first officer, that was flying the aircraft at the time, was 36 years old, held an airline transport pilot license (ATPL) and had a total of 4,000 hours of flying experience; with 1,500 of these hours being on the A350.
+
+The 43 year old captain monitoring the first officer holds 8,000 flying experience, with 400 hours on the A350. The two other first officers that were on board at the time were not in command positions. Each had their ATPL and were not undergoing training.
+
+Investigation
+
+Due the seriousness of the incident, the German Federal Bureau of Aircraft Accident Investigation has launched an in-depth investigation; this will likely focus on pilot awareness and fatigue, pilot mental state and how information is viewed during such a critical stage of flight.
+
+It is also understood that the pilots are being investigated by Thai authorities, for a serious breach of procedure that put a large aircraft and the lives of passengers, crew and those on the ground at risk.
+
+Information breakdown sourced from The Aviation Herald, Flight Global and German Federal Bureau of Aircraft Accident Investigation.","{'label': 'Neutral', 'score': 0.9994626641273499}",neutral,0.9994626641273499,0
+Airbus A330neo faces grim perspectives: report - AeroTime,"Fri, 06 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvMjQ2NDYtYWlyYnVzLWEzMzBuZW8tZmFjZXMtZ3JpbS1wZXJzcGVjdGl2ZXMtcmVwb3J00gFaaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy8yNDY0Ni1haXJidXMtYTMzMG5lby1mYWNlcy1ncmltLXBlcnNwZWN0aXZlcy1yZXBvcnQvYW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus A330 is the European manufacturer’s most successful wide-body jetliner family, which has so far sold over twice as well as its other wide-body options. The New Engine Option series, the current generation of airliners based on the classic A330s, are just taking off, but so far they still have a long way to go to achieve the predecessors’ glory, at least in sales books.
+
+A330neo not replicating the CEO success?
+
+Airbus has sold 1,823 aircraft across all the A330 variants, making the family Airbus’ best-selling wide-body aircraft. In comparison, other wide-bodies by the same manufacturer, the A340 and A350 families, have accumulated 377 and 935 orders respectively (as of January 31, 2020). That is not to mention the A380, which was canceled due to the lack of orders.
+
+However, the splendid A330 order book is mainly supported by the two classical passenger aircraft versions, the A330-200 and A330-300. Together they accumulated 1,445 orders before being replaced by the improved, New Engine Option (neo) series. The A330neo, however, so far has only landed 337 orders.
+
+The A330neo family encompasses two wide-body jet airliners. The first one to enter service, the A330-900, is based on Airbus’ most popular wide-body ever, the A330-300.
+
+The re-engined airliner made its first flight in October 2017, and after receiving clearance by authorities the following year, entered commercial passenger service with TAP Air Portugal in late 2018.
+
+So far, Airbus has landed 323 orders for the jet as of January 31, 2020, the manufacturer’s books indicate. Currently, the biggest A330-900 customer is AirAsia X, which is currently responsible for almost a quarter (78 aircraft) of the total bookings.
+
+Deferred deliveries and production cuts?
+
+However, due to ongoing novel coronavirus Covid-19 outbreak and subsequent slump in travel demand, AirAsia X CEO Benyamin Ismail revealed in late-February 2020 that the airline was deferring upcoming A330neo deliveries. The airline was looking for ways to employ narrow-body aircraft, namely Airbus A321, on “thinning” routes that had previously been served with A330.
+
+In response, Airbus is reportedly considering cuts of the A330neo production rate, Bloomberg reported on March 4, 2020, citing sources familiar to the matter. The decision could come as early as later in the month, as also outlined in the publication.
+
+In 2019, the manufacturer delivered 41 A330neo aircraft.
+
+A330-800: still doesn’t sell, but flies?
+
+Airbus’ newest addition to the family, the A330-800, also stands in sharp contrast to the previous generation when it comes to sales.
+
+After starting its flight test campaign in November 2018, the Airbus A330-800 received its joint-type certificate from the European Union Aviation Safety Agency (EASA) and the Federal Aviation Administration (FAA) on February 13, 2020.
+
+The A330-800 is a successor of the A330-200. The two aircraft share similar specifications in terms of seating capacity: -200 seats between 210-250 passengers in three-class configuration, while -800 seats between 210-260; both aircraft can accommodate up to 406 passengers in a high-dense configuration. But while the older aircraft has a range of 13,450 km, the new airliner has a longer range and can fly 15,094 km.
+
+However, despite all the upgrades, one thing the -800 does not share with its predecessor is the success in sales. While Airbus sold a total of 660 A330-200s throughout its production years, A330-800 orders as of January 31 stood at a modest total of 14. The only airline which has shown higher interest in the airliner is the launch customer Kuwait Airways, which has an order for eight aircraft. Uganda Airlines is waiting for two airliners, while four more planes were ordered by undisclosed customers.","{'label': 'Positive', 'score': 0.9223273396492004}",positive,0.9223273396492004,1
+H225: Maximum availability for utility work - Airbus,"Tue, 10 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTAzLWgyMjUtbWF4aW11bS1hdmFpbGFiaWxpdHktZm9yLXV0aWxpdHktd29ya9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Article: Belén Morant
+
+Media: Airbus Helicopters (video); Dianne Bond (images)
+
+Read more about Air Center Helicopters Inc in Rotor Magazine 118
+
+Air Center Helicopters Inc (ACHI) purchased 17 H225 helicopters previously devoted to the oil & gas market. Following the necessary retrofit work, these helicopters are now performing transport and utility missions for the U.S. Government, with an HCare Smart contract signed in October 2019 to guarantee their maximum availability. We talk to John Bean, Chief Operations Officer of ACHI.
+
+Air Center Helicopters Inc (ACHI) purchased 17 H225 helicopters previously devoted to the oil & gas market. Following the necessary retrofit work, these helicopters are now performing transport and utility missions for the U.S. Government, with an HCare Smart contract signed in October 2019 to guarantee their maximum availability.
+
+Why did ACHI decide at the time to purchase these 17 oil & gas H225s and repurpose them as utility helicopters?
+
+Many of the contract opportunities we’ve been looking at had very old aircraft – around 30 or 40 years old. This was affecting their reliability and their ability to satisfy customer needs. We therefore decided to look for a modern aircraft that was easily supportable and that could carry even more payload, with greater range, because in the utility market, payload and range are the key to customer satisfaction. The H225 was rather unique in this sense.
+
+Thanks to the availability of these aircraft due to the decline in the oil & gas sector, we were able to acquire a fairly significant number and convert them from an offshore configuration to one more suited to utility work, with capabilities such as external cargo hooks, an external hoist for human recovery, an NVG cockpit, etc. This conversion allowed our helicopters to fulfil a whole new range of missions that had previously only been possible for military customers of the H225.
+
+Airbus had a lot of experience here because they were familiar with the military variant of the H225, but adapting them was a bit of an engineering challenge as we had a list of around 12 modifications! Fortunately, our partnership with Airbus has paid off, with them providing the engineering and technical support combined with the MRO facilities.
+
+Why did you opt for an HCare Smart contract for maintenance of your H225s?
+
+Because of the type of work we do and the remote areas we operate in… but Airbus had to work very closely with us to make adjustments to their service offer. Now, as a result, we have a programme where we can count on having spare parts in close proximity to the aircraft when we need them, so that we can guarantee the high mission availability rates that our contracts demand. We can easily achieve this 99 percent of the time. In addition, when we need parts because something has broken in the aircraft, we can get these very quickly.
+
+The advantage of the HCare system is that I can predict exactly what the cost is going to be; this allows me to provide the most cost-effective solution to our customers, because I can be certain what my hour-cost will be on the aircraft. I can also be certain that I can have my parts when I need them.
+
+And now… what does the future hold for ACHI?
+
+ACHI’s strategy for the future is to diversify. We want to make sure we are in at least five or six different markets in addition to the U.S. Navy maritime support roles. We are expanding into personnel recovery and casualty evacuation roles, firefighting utility roles, and construction operations. We want to make sure we have a wide footprint so that we have the ability to adapt quickly if the economy or policies change.
+
+The H225 is a key player in this diversification. There aren’t too many large heavy-lift aircraft like the H225 that are modern, have a good range and payload, and are sustainable. That is where the H225 is unique. We see it covering around 75 percent of the expansion into these new markets.
+
+Our company specialises in governmental missions that require the movement of passengers and cargo. The markets we operate in include the training of U.S. Government military personnel, transport of personnel and cargo, personnel recovery, casual evacuations, and many more. We can be deployed overseas in countries such as Afghanistan and South Africa, and can cover everything from Ecuador to the Poles. We even have a contract for five years in Antarctica!","{'label': 'Neutral', 'score': 0.9999079704284668}",neutral,0.9999079704284668,0
+AirAsia X to Defer 78 Airbus A330neo Deliveries - SamChui.com - Sam Chui,"Mon, 02 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vc2FtY2h1aS5jb20vMjAyMC8wMy8wMi9haXJhc2lhLXgtdG8tZGVmZXItNzgtYWlyYnVzLWEzMzBuZW8tZGVsaXZlcmllcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Preparing for the worst, loss-making AirAsia X has announced plans to defer 78 Airbus A330neo deliveries; also planning to cut unprofitable routes, as the coronavirus situation worsens.
+
+According to Reuters, the airline is already holding talks with lessors, to return five aircraft early, and cut lease rates by up to 30 percent to cope with the upcoming turbulence. Additionally the airline plans on selling two of their 24 Airbus A330-300s, to add $100 million to their available funds.
+
+Citing the fast-spreading coronavirus, how long AirAsia X plans to defer the 78 A330neo deliveries is unknown; depending on when the global virus outbreak is contained and how soon passenger traffic will return to normal.
+
+A spokesperson for the airline has told Reuters that the airline will assess market conditions, to determine when and where aircraft can begin to be delivered and start operating. Airbus declined to comment on customer delivery schedules.
+
+Flights to mainland China and parts of Northern Asia account for roughly 30 percent of AirAsia Xs flights, however since the coronavirus begun spreading, and travel bans started to come into effect, the airline has had to cancel a significant amount of flights. For March 2020 alone the airline has over 600 flight cancellations, which will cause considerable pain to their financial results.
+
+“…A downtrend has been observed on passenger bookings in the forward months, as all tourism-related businesses face the impact of the Covid-19 outbreak. The Covid-19 outbreak has impacted AirAsia X particularly as we are one of the largest foreign airlines operating into China, a market which represents 30% of our capacity.” AirAsia X Group CEO Nadda Buranasiri
+
+In terms of routes, AirAsia X has aggressive plans to cut a number of unprofitable routes; to destinations such as Tianjin and Lanzhou in China and Jaipur in India.
+
+AirAsia X also plans to establish a dual-type fleet consisting of Airbus A330neos and A321neos, including the A321XLR, to better serve routes, hopefully recovering the airline from multiple yearly losses. From its Kuala Lumpur hub, the airline will begin using Airbus A321s to operate flights up to six hours long instead of the widebody A330s.
+
+Despite the deferral of A330neo orders, and an order reduction from 100 to 78 aircraft in August, AirAsia X still remains to be the largest customer for the A330neo.
+
+Unfortunately for the airline, the coronavirus situation comes at a time where Chief Executive Officer, Tony Fernandes, and the Chairman, Kamarudin Meranun, have both stepped aside for two months; as investigations, lead by the United Kingdom’s serious fraud office, allege that Airbus paid $50 million for a large aircraft order.
+
+When the corruption case was reported on the 3rd of February, AirAsia shares fell as much as 11 percent to $0.31; which Al Jazeera reports as the lowest since May 2016. Meanwhile AirAsia X shares plummeted 12 percent, to an all-time low to $0.03.","{'label': 'Negative', 'score': 0.9936422109603882}",negative,0.9936422109603882,-1
+Airbus and Boeing work on keeping their businesses running - AirMed and Rescue Magazine,"Thu, 26 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFpcm1lZGFuZHJlc2N1ZS5jb20vbGF0ZXN0L25ld3MvYWlyYnVzLWFuZC1ib2Vpbmctd29yay1rZWVwaW5nLXRoZWlyLWJ1c2luZXNzZXMtcnVubmluZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus partially resumed assembly and production work in France and Spain on 23 March, while Boeing has temporarily suspended the majority of its US-based airplane production activity from 25 March.
+
+Both CEOs have called for government support of aviation companies and airlines. Guillaume Faury, CEO of Airbus, said in a video statement: “We have re-started production on the French and Spanish sites which we had partially closed last week to take the necessary time to implement strict cleaning and hygiene measures. These measures are also being applied across all our sites without full interruption of production, as the pandemic situation is deemed less critical so far.”
+
+Airbus has also resumed activities at its A320 and A330 completion and delivery centers in Tianjin, China. Faury decided to completely revoke their earnings outlook for 2020, saying ‘today it’s impossible to precisely evaluate the impact the coronavirus will leave on our company this year’.
+
+“We’re advocating support of governments for the complete ecosystem across the industry, for our suppliers and customers. For example, through the use of export credit. For our generation these are unprecedented times. This crisis will see our industry undergo deep changes in the months ahead, but we, Airbus, and the broader aerospace sector will emerge from this difficult period eventually,” Faury said.
+
+Meanwhile, Boeing expects to temporarily suspend production at its Puget Sound facility for 14 days, representing about 80 per cent of Boeing’s overall production activity.
+
+Dave Calhoun, Boeing CEO, said: “This is different than any of those past situations, we have a virus, it is going to take its toll and move according to the epidemiologists along a curve and we’re going to get to the other side of the curve. Our job is simply to provide short-term liquidity to all of the industry – and yes all of aviation and the airlines – because I believe we’re at the point of the spear. We need to provide liquidity and keep our industry and our people warm, so that when the recovery comes we’re ready to go.”","{'label': 'Neutral', 'score': 0.9888134598731995}",neutral,0.9888134598731995,0
+Dyson and Airbus expect green light to start making ventilators - The Guardian,"Wed, 25 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIwL21hci8yNS9haXJidXMtZHlzb24tZmlybXMtd2FpdGluZy11ay1ncmVlbi1saWdodC1wcm9kdWNlLXZlbnRpbGF0b3JzLWNvcm9uYXZpcnVz0gF3aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjAvbWFyLzI1L2FpcmJ1cy1keXNvbi1maXJtcy13YWl0aW5nLXVrLWdyZWVuLWxpZ2h0LXByb2R1Y2UtdmVudGlsYXRvcnMtY29yb25hdmlydXM?oc=5&hl=en-US&gl=US&ceid=US:en,"Dyson, along with a separate consortium of manufacturers led by Airbus, is expecting the government to give it the green light to start making up to 30,000 medical ventilators from next week, after finalising plans to supply thousands of devices to help the NHS fight Covid-19.
+
+The proposals differ, with the Airbus-led Ventilator Challenge UK consortium planning to scale up production of existing models and also expected to win backing from Westminster.
+
+Dyson said it had received orders for 10,000 ventilators it aims to build from scratch, and released pictures and specifications of its CoVent prototype on Wednesday night.
+
+View image in fullscreen Dyson’s new ventilator. Photograph: Dyson
+
+In a letter to staff the company’s billionaire founder, Sir James Dyson, said the “race is now on to get it into production”. He promised to donate 5,000 machines to the international effort to treat Covid-19 patients, with 1,000 of the devices pledged to the UK.
+
+The government, which wants to increase the number of ventilators in the NHS from 8,175 to 30,000, has been considering which option to choose – but now looks likely to press ahead with both.
+
+A decision is expected on Wednesday ahead of a massive production effort, reminiscent of UK industry’s role in producing Spitfire planes during the second world war.
+
+In the meantime, the government has placed multimillion-pound orders with specialist suppliers that can provide a small number of ventilators to start addressing the shortfall swiftly. These include Crawley-based Inspiration Healthcare, which said in a statement to investors it had taken more than £5m in orders from the NHS.
+
+The Ventilator Challenge UK consortium’s plan will work to designs already made by Smiths Medical, from Luton, and Penlon, based in Abingdon, Oxfordshire.
+
+While these two firms are unable to produce the required number of ventilators on their own, they can draw on the facilities of other members of the consortium, including the engineering firms GKN and Meggitt, and the automotive company McLaren.
+
+Dyson has been working on a completely new model of ventilator with The Technology Partnership, a Cambridge-based group of science and innovation companies with expertise in medical equipment.
+
+Work is going on at Dyson’s Hullavington laboratory in Wiltshire, where it was designing an electric car until the plan was abandoned last year. Dyson believes it can meet the government’s requirements by deploying knowledge in areas where there is some crossover between its products and ventilators. These include digital motors, battery packs, expertise in airflow, and HEPA filters, which block fine particles but not air.
+
+Sources familiar with the two schemes said they were in a position to start work but have been waiting on the government to give its blessing to one or both of the projects. The government is expected to provide further details on Thursday.
+
+The wide-ranging collaboration between the government and the UK’s industrial powerhouses is being coordinated by three government departments, alongside the High Value Manufacturing Catapult, a research and development organisation.
+
+The Cabinet Office is managing procurement of the machines under the oversight of the chief commercial officer, Gareth Rhys Williams, while the Department of Business, Energy and Industrial Strategy (BEIS) is fielding offers of help from UK companies.
+
+The Department for Health and Social Care (DHCS) is responsible for vetting the types of ventilator that could be built, and has drawn up a list of specifications that were sent out to companies hoping to build one from scratch.
+
+The government is also exploring other sources of ventilators to plug the gap until larger production volumes come on-stream.
+
+Inspiration Healthcare’s chief executive, Neil Campbell, said: “I’m delighted that Inspiration Healthcare has been able to benefit from our commercial relationships with critical care equipment manufacturers and source such large quantities of this very specialist equipment, working closely with the DHSC to find solutions during this difficult time.
+
+“Inspiration Healthcare’s senior directors as well as our teams working all over the UK have played a key role in securing these supplies, which in total are considerably larger than we have ever received in the past.”","{'label': 'Neutral', 'score': 0.9999653100967407}",neutral,0.9999653100967407,0
+How Airbus has optimised its Beluga operation | Analysis | Flight Global - Flightglobal,"Wed, 11 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYWVyb3NwYWNlL2hvdy1haXJidXMtaGFzLW9wdGltaXNlZC1pdHMtYmVsdWdhLW9wZXJhdGlvbi8xMzcxODUuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Before Airbus introduced the A300-600 Super Transport, or BelugaST, in 1995, there was an industry aphorism that presumably resonated in Seattle: every Airbus had its first flight on a Boeing wing.
+
+The Aero Spacelines Super Guppy, which Airbus had previously used for more than 20 years to ferry aircraft assemblies between its production sites across Europe, was based on a 1940s propliner made by Boeing – the 377 Stratocruiser.
+
+In 1997, Airbus retired the last of its four Super Guppies, although one of them still operates today for NASA in the USA. Since then, five A300-600STs have been deployed to transport airframe sections to Airbus’s assembly lines in Toulouse and Hamburg from production facilities across France, Germany, Spain and the UK.
+
+The first BelugaXL – an A330-based replacement for the A300-600ST – entered service in January 2020. Airbus says a fourth BelugaXL, formally designated A330-700L, is currently in production in Toulouse. The airframer plans to operate six BelugaXL transports by the end of 2023, and start phasing out the A300-600ST from 2021.
+
+While it increases its predecessor’s available payload by just 4t, to 51t, the BelugaXL provides around 30% more capacity and is capable of carrying two A350 wings, where the A330-600ST had capacity for just one. This was a primary reason for the new aircraft’s development.
+
+Wings for Airbus’s entire commercial aircraft family, except the A220, are manufactured at its UK facility in Broughton, near Chester. The site produces complete A320-family and A380 wings, while wings for the A330 and A350 are ferried to the airframer’s site in German city Bremen for installation of high-lift systems before delivery to the final assembly line in Toulouse.
+
+Under Airbus’s current production plan, the five A300-600STs together operate around 7,600 hours a year, notes Nabil Tahiri, head of the operational control centre at Airbus Transport International, the airframer’s in-house Beluga operation.
+
+The Belugas transport airframe sections from Airbus’s facilities in France, Germany, Spain and the UK to the commercial aircraft assembly lines in Toulouse and Hamburg, and to the A400M assembly line in Seville. The furthest destination in the network is Turkish capital Ankara, where components for the A400M are picked up.
+
+Components for Airbus’s A320-family final assembly lines in Mobile, USA, and Chinese city Tianjin are transported from Europe by sea, says Tahiri.
+
+In 2019, Airbus opened in Toulouse a new facility to unload and load two Belugas at once, having previously operated out of a one-bay facility. It is the only two-bay loading dock in Airbus’s network, Tahiri points out. The airframer has established similar Beluga docks at 10 other production sites.
+
+The docks fully enclose the Beluga’s forward section with specially adapted hangar doors to accommodate the outside transport’s fuselage shape. This enables the opening of the large cargo door and the aircraft’s loading in inclement weather. While open-air loading of a Beluga is limited to wind speeds of 25kt, Tahiri says the new dock in Toulouse can be used with wind speeds up to 42kt.
+
+A further advantage is that Belugas can be turned around in 1h 20min, while open-air loading requires 2h 30min, Tahiri says. The aircraft can be fuelled during the loading process.
+
+The two docks in Toulouse are each equipped with an automated roll-on/roll-off cargo system which can receive the inbound flight’s freight while shipments for the next flight are ready for loading. For loading, the aircraft is jacked up with a central jack attached just aft of the cockpit. The Beluga’s cargo deck is adjusted to the building’s fixed-height cargo ramp via a laser-based alignment procedure.
+
+Belugas do not usually transport airframe sections from Toulouse as that site is focused on final assembly rather than component production. However, outbound Belugas from Toulouse typically carry jigs on which assemblies are delivered from other sites. Tahiri estimates that only around 5% of Beluga flights carry no cargo.
+
+A curious procedure unfolds when a Beluga transport is pushed back for a flight. While conventional aircraft are usually pushed back by a tractor located in front of the aircraft, the Beluga’s low cockpit prevents such a manoeuvre. Instead, a tractor is driven underneath the aircraft’s belly with a tow bar which is attached to the nose landing gear’s aft side.
+
+Tahiri says the Toulouse assembly line receives shipments from 85-100 Beluga flights a week.
+
+This analysis is written by Michael Gubisch from Toulouse, part of Cirium’s London-based reporting team","{'label': 'Neutral', 'score': 0.9999967813491821}",neutral,0.9999967813491821,0
+Orion spacecraft for Artemis I mission successfully completes major testing - Airbus,"Mon, 16 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wMy1vcmlvbi1zcGFjZWNyYWZ0LWZvci1hcnRlbWlzLWktbWlzc2lvbi1zdWNjZXNzZnVsbHktY29tcGxldGVzLW1ham9y0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Plum Brook Station, Sandusky, Ohio, 16 March 2019 – The Orion spacecraft for NASA’s Artemis I mission has successfully completed several months of simulated space environment System level testing in the NASA-owned thermal vacuum chamber at Plum Brook Station in Ohio. The tests were conducted in two phases; a 47 day thermal vacuum test and a 14 day electromagnetic compatibility and interference test in ambient conditions which both simulate the conditions the spacecraft will encounter during its voyage to the Moon and back to Earth.
+
+Andreas Hammer, Head of Space Exploration at Airbus, said: ""Today marked an important milestone for the Artemis I mission to the Moon. We proved to our customers ESA and NASA that the European Service Module, designed and built by our engineers in Bremen – supported by companies in 10 European countries - meets the requirements to withstand the harsh conditions in space. The Artemis programme will land the first woman and next man on the Moon and bring them back safely to Earth, we are proud to contribute to this endeavour with all our know-how, expertise and passion.”
+
+
+
+The engineering teams from Airbus, the European Space Agency (ESA), Lockheed Martin and NASA are pleased with the results of this crucial test, which proves that the spacecraft is suitable to navigate safely through the extreme conditions that it will experience in space.
+
+
+
+Orion will be transported back to the Kennedy Space Center to undergo further testing and prepare the spacecraft for integration with the Space Launch System rocket, beginning the next era of exploration.
+
+
+
+ESA's European Service Module built by Airbus under an ESA contract, will provide propulsion, power, air and water for the astronauts, as well as thermal control of the entire spacecraft. Artemis I will travel around the Moon and back to Earth. Airbus in Bremen is already building the second Orion Service Module for Artemis II, where astronauts will fly to the Moon and back to Earth for the first time.
+
+
+
+About the European Service Module (ESM)
+
+
+
+More than 20,000 parts and components will be installed in the ESM, from electrical equipment to engines, solar panels, fuel tanks and life support materials for the astronauts, as well as approximately 12 kilometres of cables. The first service module, which just finished the thermal-vacuum testing, was delivered to NASA in November 2018. The second service module is currently being integrated and tested by Airbus in Bremen.
+
+During the development and construction of the ESM, Airbus has drawn on its experience as prime contractor for ESA’s automated transfer vehicle (ATV), which provided the crew on board the International Space Station with regular deliveries of test equipment, spare parts, food, air, water and fuel.
+
+
+
+The ESM is cylindrical in shape and about four meters in diameter and height. It has four solar arrays (19 metres across when unfurled) that generate enough energy to power two households. The service module’s 8.6 tonnes of fuel can power one main engine and 32 smaller thrusters. The ESM weighs a total of just over 13 tonnes. In addition to its function as the main propulsion system for the Orion spacecraft, the ESM will be responsible for orbital manoeuvring and position control. It also provides the crew with the central elements of life support such as water and oxygen, and regulates thermal control while it is docked to the crew module. Furthermore, the service module can be used to carry additional payload(s).
+
+@AirbusSpace @ESA @NASA @Nasa_Orion @LockheedMartin #Artemis #OrionESM","{'label': 'Positive', 'score': 0.6664883494377136}",positive,0.6664883494377136,1
+Airbus Announces Support for Restoration of The People’s Mosquito - War History Online,"Thu, 26 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL3dhci1hcnRpY2xlcy90aGUtcGVvcGxlcy1tb3NxdWl0by5odG1s0gFfaHR0cHM6Ly93d3cud2FyaGlzdG9yeW9ubGluZS5jb20vd2FyLWFydGljbGVzL3RoZS1wZW9wbGVzLW1vc3F1aXRvLmh0bWwvYW1wP3ByZWJpZF9hYj1jb250cm9sLTE?oc=5&hl=en-US&gl=US&ceid=US:en,"Aviation heritage in the UK received a welcome boost in March 2020 with news that Airbus has announced its support for The People’s Mosquito.
+
+Financial backing from the aerospace giant represents a significant step forward in delivering the first de Havilland DH.98 Mosquito to be manufactured in the UK for more than 70 years.
+
+“Naturally, we’re excited and proud to be able to announce the link up with Airbus.
+
+The support of such a high-profile industry name provides a significant boost to our efforts to deliver an airworthy Mosquito FB.VI to the 5 million people who attend UK airshows every year,” said John Lilley, Managing Director of The People’s Mosquito.
+
+“Airbus is a strong believer in preserving wider aviation heritage and we are proud to be supporting The People’s Mosquito in this endeavour.
+
+For us the Mosquito is more than a beautiful and iconic aircraft, Airbus has a direct relationship to it as more than 90 were built at our Broughton factory in Flintshire,” said Jeremy Greaves, Vice President Corporate Affairs and Strategy, Airbus UK.
+
+“That passion and dedication is reflected today in our skilled workforce whose talents are focused on building wings for the Airbus commercial aircraft fleet.”
+
+The collaboration celebrates Airbus’ historic connection with the de Havilland Mosquito.
+
+Production of the wooden wonder was transferred in 1948 to Hawarden, now Airbus’ Broughton site, where the last Mosquito ever built in the UK, an NF.Mk38 serial number VX916, rolled out of the facility in November 1950.
+
+Hawker Siddeley Aviation went on to acquire de Havilland in 1960, before it became a founding member of British Aerospace (BAe), subsequently BAE Systems which was a 20% shareholder in Airbus until 2006.
+
+“We believe the Mosquito to be an exemplar of British aeronautical design excellence – an engineering pedigree that Airbus carries forward today,” added John Lilley. “We continue to engage with Airbus, and we look forward to a fruitful and productive relationship as our restoration progresses.
+
+Mechanic ‘Accidentally’ Fires Vulcan Cannon & Obliterates F-16 Sitting on the Runway
+
+These are exciting times and we hope this won’t be the last link up with the UK’s engineering, aerospace and manufacturing sectors in 2020.”","{'label': 'Positive', 'score': 0.9999963045120239}",positive,0.9999963045120239,1
+Coronavirus: Airbus uses A330neo test aircraft to transport medical supplies - Aerospace Testing International,"Mon, 23 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5hZXJvc3BhY2V0ZXN0aW5naW50ZXJuYXRpb25hbC5jb20vbmV3cy9pbmR1c3RyeS1uZXdzL2Nvcm9uYXZpcnVzLWFpcmJ1cy11c2VzLWEzMzBuZW8tdGVzdC1haXJjcmFmdC10by10cmFuc3BvcnQtbWVkaWNhbC1zdXBwbGllcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus transported 2 million face masks from Tianjin, China to Toulouse on a A330-800 test flight this weekend, as it prepared to resume production and assembly work at its factories in France and Spain.
+
+The test aircraft took off from Toulouse on Saturday, March 21 and returned with the cargo the next day. Most of the masks will be donated to the Spanish and French authorities. Additional flights are planned to take place in the coming days.
+
+Airbus is partially resuming production and assembly work in France and Spain after conducting health and safety checks and implementing more stringent hygiene measures at its sites to tackle the COVID-19 crisis.
+
+Airbus CEO Guillaume Faury said, “Health and safety is our number one priority at Airbus so the work stations at our sites in France and Spain will only re-open if they meet the required standards.
+
+“I’d like to salute the strong commitment from our employees to ensure business continuity in close cooperation with our social partners and other stakeholders. At the same time we are doing all we can to support those on the frontline to fight the coronavirus and limit its spread.”
+
+However, French trade union CGT, which represents workers at French Airbus sites, criticized the reopening saying it placed workers, the surrounding population and the supply chain at more risk of contracting coronavirus.
+
+Airbus has also announced a number of financial measures to help it survive the coronavirus pandemic. These included withdrawing its 2020 guidance for shareholders on the company’s performance, withdrawing its 2019 dividend proposal of €1.80 per share with an overall cash value of approximately €1.4 billion and securing a €15 billion credit facility.
+
+Combined with existing cash reserves, the company has around €30 billion to help it through the crisis. “I am convinced that Airbus and the broader aerospace sector will overcome this critical period,” said Faury.
+
+Meanwhile Boeing announced several decisions to support the company while it waited for the US Government to announce aid measures for the aerospace industry. These include CEO Dave Calhoun and Board Chairman Larry Kellner forgoing all pay until the end of the year, suspending its share dividend and extending a pause on any share repurchasing
+
+“We are drawing on all of our resources to sustain operations, support the workforce and customers, and maintain supply chain continuity through the COVID-19 crisis and for the long term,” Boeing said in a statement.","{'label': 'Neutral', 'score': 0.9986867308616638}",neutral,0.9986867308616638,0
+It's Hard Developing an Aerial Tanker for the Military. Ask Airbus and Boeing. - The National Interest Online,"Mon, 16 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2l0JUUyJTgwJTk5cy1oYXJkLWRldmVsb3BpbmctYWVyaWFsLXRhbmtlci1taWxpdGFyeS1hc2stYWlyYnVzLWFuZC1ib2VpbmctMTMzMzAy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Building a modern military aerial-refueling tanker is hard. It takes time, money and trial-and-error. A lot more of all three than once was the case. That’s an important truth that’s worth keeping in mind as American plane-maker Boeing falls farther behind in its effort to supply new KC-46 Pegasus tankers to the U.S. Air Force.
+
+Building a modern military aerial-refueling tanker is hard. It takes time, money and trial-and-error. A lot more of all three than once was the case.
+
+That’s an important truth that’s worth keeping in mind as American plane-maker Boeing falls farther behind in its effort to supply new KC-46 Pegasus tankers to the U.S. Air Force.
+
+Boeing in 2011 won the contract to supply as many as 179 KC-46s to the Air Force. The deal, which followed repeated failed attempts by the U.S. Defense Department to acquire a new refueler, could be worth as much as $40 billion.
+
+But problems with the KC-46’s refueling boom and other systems have delayed the type’s full entry into service. Boeing has delivered dozens of Pegasuses to the Air Force, but service officials admitted that it could be years before the tankers are ready to support front-line forces during combat.
+
+That should come as no surprise, Eamon Hamilton, an Australian air force public-affairs officer, explained in an unofficial tweet thread from his personal Twitter account.
+
+Early aerial tankers were simply old bombers or airliners that trailed hoses or carried simple booms. But to keep up with increasingly speedy fighters and bombers, the U.S. Air Force in particular needed an equally fast tanker.
+
+Boeing met that need in the 1950s with the KC-135, a variant of the company’s 707 airliner. With more than 400 examples in U.S. service alone, the KC-135 remains the world’s most numerous tanker.
+
+The KC-46 with its more modern 767 airframe improves on the KC-135’s range, payload and efficiency. But to understand why the Pegasus has been so difficult to develop, consider the example of the Australian air force, which in the early 2000s commissioned Airbus to develop a new tanker version of the A330 airliner.
+
+“When Airbus set out to convert the A330 into a [KC-30] Multi-Role Tanker Transport, they knew it was a big undertaking and prepared for it,” Hamilton wrote.
+
+The company designed its own boom and a built a ground-based test bed, as well as converting an A310 flying test bed, which flew in 2004. That would allow it to have the refuelling systems ready ahead of the A330 MRTT's scheduled first flight in late 2007. The first A330 MRTT was converted into a tanker in Spain and first flew in August 2007 -- ahead of schedule. Issues had been identified in testing but they were being addressed. Folks were optimistic and Airbus was bullish -- they wanted to win the U.S. tanker order for 179 jets.
+
+Airbus didn’t actually win the U.S. order, but other countries besides Australia opted for the KC-30, making the program a top priority for the company. But the new tanker’s development proved more difficult than some observers perhaps expected.
+
+Modern tankers are more complex than they might appear. Even when they’re based on a proven commercial airframe. “Don't think of the boom as just another system bolted on the tanker,” Hamilton explained. “Think of it as another little aircraft that flies whilst attached to the bigger aircraft.”
+
+“Any design changes -- whether it be with software, structural or aerodynamic -- that need to be made to the boom will have repercussions on the other two elements,” Hamilton wrote. “If they're not synchronised, the best-case scenario is the boom will fall off the tanker.”
+
+The Royal Australian Air Force’s KC-30s fell behind schedule. “Scheduled delivery of the first tanker bumps into late 2008,” Hamilton wrote. “The first A330 to be locally modified arrives in June 2008. [Initial Operational Capability] is forecast for late 2009. But delays keep mounting. More modifications are required. Then need to be flight-tested.”
+
+By 2010, MRTTs were rolling out of the conversion center in Brisbane and going to Europe for developmental testing. The RAAF “wasn't going to accept the tanker unless it was ready,” Hamilton wrote.
+
+“Then in January 2011, there's an unfortunate incident. The boom on the first KC-30 detaches during a trial refuel with a Portuguese F-16. Both jets recover -- and the boom's maturity -- after seven years of testing is called into question by many spectators.”
+
+“There are now several 'completed' KC-30As from the conversion centre in Spain, and the RAAF elects to start accepting delivery in Australia. The first KC30A will remain in Spain for testing, but KC30A A39-003 and -002 in that order arrive in Australia in June 2011.”
+
+In February 2013, the RAAF finally declared IOC. “We have four jets, can provide hose-and-drogue refuelling and air logistics support. But the project -- and the boom -- is still on the project-of-concern list.”
+
+In December 2013, Warren McDonald took over as commander of the RAAF’s Air Lift Group. “One of Macca’s priorities? Get the boom done already,” Hamilton noted.
+
+By then there were four KC-30As in Australia and the fifth was still testing the boom in Spain. “The program is five-to-six years late, depending on your metrics,” Hamilton tweeted. “Macca sends another KC-30A back to Spain to aid in the test program.”
+
+In August 2014, a KC-30 supported its second Pitch Black aerial war game, flying missions long distance to support Australian and allied fighters. “Barely a week after the exercise, the government announces an air task group will deploy to the Middle East to fight [Islamic State].”
+
+“By late September [2014], the KC-30A is dragging Super Hornets to the Middle East,” Hamilton wrote. And thereafter the tanker supported Australian and allied warplanes bombing militant forces.
+
+“The scale and speed of this deployment was unfathomable 10 years previously.” It took years of trial and error, but Australia finally got its new tanker. America should, too, in time.
+
+David Axe serves as Defense Editor of the National Interest. He is the author of the graphic novels War Fix, War Is Boring and Machete Squad.","{'label': 'Neutral', 'score': 0.9915845394134521}",neutral,0.9915845394134521,0
+Lufthansa Grounds Airbus A380 Fleet | AirlineGeeks.com - AirlineGeeks.com,"Sun, 08 Mar 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYWlybGluZWdlZWtzLmNvbS8yMDIwLzAzLzA4L2x1ZnRoYW5zYS1ncm91bmRzLWFpcmJ1cy1hMzgwLWZsZWV0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"[ Planes ] By John McDermott
+
+German flag carrier Lufthansa has announced that it will ground its entire Airbus A380 fleet in response to dwindling demand caused by coronavirus fears. The grounding game soon after Lufthansa Group announced that it is reducing capacity by up to 50 percent in the coming weeks due to the effect coronavirus has had on bookings.
+
+Both of these efforts intend to reduce the financial consequences of this dwindling demand. The A380 in particular is especially expensive to operate considering its relatively high fuel and maintenance costs. The Superjumbo jet has a lower per-seat fuel economy than many other planes in Lufthansa’s fleet, so operating the jet at substantially less than capacity would have a particularly negative effect on Lufthansa’s earnings.
+
+Per an internal memo, the airline is seeing a load factor of about 35 percent on its A380s, which have over 500 seats across four classes. Lufthansa says that the aircraft will be grounded through at least the end of May.
+
+Lufthansa will park its A380s in Frankfurt and Munich, both of which are bases for the aircraft. The airline will make arrangements with employees to respond to the grounding. While it may be easy for cabin crew to switch to other aircraft, pilots rated solely on the A380 may be facing substantial time off until the aircraft is flying again.
+
+The airline has already offered employees the use of voluntary individual personal measures in recent weeks, including granting employees unpaid leave and allowing them to shift their annual leave forward. It is in talks with trade unions and operating partners to avoid dismissals by taking advantage of part-time leave models.
+
+Airlines around the world are taking increasingly drastic action in response to dwindling travel surrounding the Coronavirus outbreak. Asian airlines have taken the most serious action, but carriers around the world have suspended services to the most severely-hit countries or waived change fees for passengers who wish to alter travel plans. With no end in sight for the Coronavirus outbreak, it’s tough to say when carriers will resume regular operations and passengers will begin to travel normally again.
+
+The novel COVID-19 virus was first identified in China in late 2019. Since then, it has spread to dozens of countries around the world, causing nerves around the world. People have cut down on travel and changed lifestyle habits to avoid infection causing a worldwide travel slowdown.
+
+Author John McDermott John McDermott is a student at Northwestern University. He is also a student pilot with hopes of flying for the airlines. A self-proclaimed ""avgeek,"" John will rave about aviation at length to whoever will listen, and he is keen to call out any airplane he sees, whether or not anyone around him cares about flying at all. John previously worked as a Journalist and Editor-In-Chief at Aeronautics Online Aviation News and Media. In his spare time, John enjoys running, photography, and watching planes approach Chicago O'Hare from over Lake Michigan.","{'label': 'Neutral', 'score': 0.6516439914703369}",neutral,0.6516439914703369,0
+Thai Airways Airbus A330 Chops Tail Off Gulfstream IV - SamChui.com - Sam Chui,"Tue, 10 Mar 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc2FtY2h1aS5jb20vMjAyMC8wMy8xMC90aGFpLWFpcndheXMtYWlyYnVzLWEzMzAtY2hvcHMtdGFpbC1vZmYtZ3VsZnN0cmVhbS1pdi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A Thai Airways Airbus A330 has seriously damaged a Gulfstream IV private jet. This occurred whilst taxiing at Vientiane Airport on the 9th of March; after its wing struck the tail, chopping it clean off.
+
+The aircraft, an Airbus A330-300 registered HS-TEU, was preparing to perform flight TG575 from Vientiane to Bangkok Suvarnabhumi, with 92 passengers and crew on board when the incident occurred.
+
+Photos circulating on Twitter show the Gulfstream IV, operated by Blue Sky Leasing under registration M-YWAY, in its parking bay looking in pristine condition, other than the fact that its tail is hanging somewhat perfectly off the side.
+
+However, upon closer inspection, the nose landing gear also appears to have endured considerable forces; as identified by its twisted stance, rather than being in line with the pavement markings.
+
+As for the Airbus A330, the damage is entirely limited to the outboard leading edge of the wing; photos show a dent just prior to the wingtip.
+
+For the Thai Airways Airbus A330 the repairs should be fairly easy, and at a time where travel demand is much lower due to COVID-19, this shouldn’t create too much of a problem in terms of operational performance.
+
+However the story is different for the Gulfstream IV, which will have to undergo a large-scale inspection; primarily for structural deformation and any other internal components that may have been destroyed/damaged.","{'label': 'Negative', 'score': 0.9553011059761047}",negative,0.9553011059761047,-1

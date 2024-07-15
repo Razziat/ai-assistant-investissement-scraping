@@ -1,0 +1,1631 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Airbus production cuts put 3,700 jobs at risk - The Guardian","Wed, 07 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDE4L21hci8wNy9haXJidXMtcHJvZHVjdGlvbi1jdXRzLXBsYW5lcy1qb2JzLXJpc2stYnJpc3RvbC1hMzgw0gFlaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMTgvbWFyLzA3L2FpcmJ1cy1wcm9kdWN0aW9uLWN1dHMtcGxhbmVzLWpvYnMtcmlzay1icmlzdG9sLWEzODA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus has confirmed it is cutting production of two aircraft in a move that will put up to 3,700 jobs at risk in France, Germany, Spain and at Filton, near Bristol.
+
+
+
+The double-decker A380 superjumbo and the A400M military plane would be scaled back, the aerospace company said.
+
+The A380 project came close to shutdown in January until a last-minute $16bn (£11.5bn) order for 16 of the airliners from Dubai’s Emirates, threw the programme a lifeline.
+
+However, demand remains weak and Airbus said deliveries would fall to six a year from 2020, down from an anticipated 12 deliveries this year.
+
+The A400M programme has been hit by delays and cost overruns. Deliveries of the new troop transporter will fall from 15 this year to eight in 2020.
+
+Airbus presented the adjustments to its European works council and would now enter formal negotiations with staff representatives at European and national levels, the company said.
+
+Airbus said about 10 sites in Europe would be affected, but would not provide details other than to say most workers would be offered redeployment.
+
+However, trade unionists present at the works council meeting said Britain’s Filton site, as well as plants in Bremen and Augsburg in Germany, and a factory in Sevilla, Spain, would be the main ones affected.
+
+Yvonnick Dreno, a senior Force Ouvrière unionist, said 1,925 jobs would be affected in Germany, 860 in Spain, 465 in Britain and 470 in France. He said redeployment to other programmes would be difficult in Spain and Britain.
+
+At a delivery rate of six per year, the A380 programme will make a loss, but Airbus said it hoped the Emirates deal would spur orders from other airlines.
+
+IAG, which operates British Airways, Iberia, Vueling and Aer Lingus, said on Tuesday it would consider buying more A380s if the aircraft was cheaper.
+
+The A400M, Europe’s largest defence project, has been beset by chronic delays and glitches.","{'label': 'Negative', 'score': 0.9981871247291565}",negative,0.9981871247291565,-1
+Airbus delivers new life support system for the ISS - Airbus,"Mon, 19 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1haXJidXMtZGVsaXZlcnMtbmV3LWxpZmUtc3VwcG9ydC1zeXN0ZW0tZm9yLXRoZS1pc3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"ACLS technology demonstrator generates oxygen and water in a closed system
+
+ACLS technology demonstrator generates oxygen and water in a closed
+
+system
+
+Friedrichshafen, 19/03/2018 – Airbus has delivered the ACLS (Advanced Closed Loop System), an advanced life support system to purify air and produce oxygen for the International Space Station (ISS). The system also produces water, more or less as a by‑product of the technology. ACLS was developed by Airbus for the European Space Agency (ESA) and is set to be used as a technology demonstrator on the ISS from summer 2018.
+
+The ACLS extracts a portion of the carbon dioxide in the cabin atmosphere and, using hydrogen obtained from splitting water molecules, converts it to methane and water in what is known as the Sabatier process. Oxygen is then produced from this water using electrolysis. This increases overall system efficiency and reduces the need for supplies from Earth.
+
+
+
+The ACLS will now be installed in the HTV-7 space transporter at the Tanegashima Space Center in Japan and is due to be transported to the ISS in August 2018.
+
+
+
+***
+
+
+
+About Airbus
+
+
+
+Airbus is a global leader in aeronautics, space and related services. In 2017 it generated revenues of € 67 billion and employed a workforce of around 129,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","{'label': 'Neutral', 'score': 0.998304009437561}",neutral,0.998304009437561,0
+Google picks up another win for G Suite as Airbus grounds Microsoft Office - GeekWire,"Wed, 14 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdlZWt3aXJlLmNvbS8yMDE4L2dvb2dsZS1waWNrcy1hbm90aGVyLXdpbi1nLXN1aXRlLWFpcmJ1cy1ncm91bmRzLW1pY3Jvc29mdC1vZmZpY2Uv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"With over 130,000 employees, Airbus uses a lot of office productivity software. It recently decided to make a big bet on Google’s G Suite software package after running the company for years on hosted versions of Microsoft Office, according to a report.
+
+The Register got its hands on (well, saw on a screen of some sort) an internal memo from Airbus CEO Tom Enders outlining the shift to G Suite as part of the company’s ongoing “digital transformation,” which is the new ubiquitous and fairly meaningless enterprise tech marketing buzzword. We’re really just talking about upgrades from hosted, on-premises software applications to cloud software applications, a transformation that for the most part has already taken place outside big old companies like Airbus.
+
+Still, it’s a nice deal for Google’s G Suite, the Google-hosted package that includes Docs, Gmail, and several other productivity apps. Google finally decided to share revenue figures for its cloud division, telling investors in February that it is making $1 billion a quarter between Google Cloud Platform and G Suite, and Airbus is a big enough company to move the needle.
+
+It’s also a disappointment for Microsoft, which chose to “politely decline” an opportunity to comment on the Airbus memo to The Register. Companies have been shifting away from on-premises versions of Microsoft Office for years, but Microsoft has done fairly well convincing those companies to use Office 365, as evidenced by the 41 percent growth in commercial revenue posted by the Office 365 group during its second fiscal quarter.","{'label': 'Neutral', 'score': 0.9999027252197266}",neutral,0.9999027252197266,0
+Airbus order: Deal with Greece's Aegean Airlines worth up to $5B - USA TODAY,"Thu, 29 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90cmF2ZWwvZmxpZ2h0cy90b2RheWludGhlc2t5LzIwMTgvMDMvMjkvYWlyYnVzLXNlY3VyZXMtMzIwLW5lby11cC01LWJpbGxpb24vNDY4NTkzMDAyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus order: Deal with Greece's Aegean Airlines worth up to $5B
+
+ATHENS, Greece (AP) — In a deal worth up to $5 billion, Greek airline Aegean said Wednesday it will buy 30 new Airbus aircraft, with the option of an additional 12, to upgrade its fleet as the country expects to break tourism records.
+
+Aegean said it was signing a memorandum of understanding with Airbus for 30 of the A320neo and A321neo aircraft. Along with the option for the additional dozen, the agreement is worth $5 billion at list prices, making it the largest private investment in Greece, the airline said. Airlines often negotiate prices that are lower than the list price.
+
+The signing of the final purchase agreement is expected in June.
+
+IN PICTURES: A look at Airbus' A320 family of jets (story continues below)
+
+""It's a big moment for Aegean ... and it's happening despite the (Greek) financial crisis and despite the challenges of international competition. Those are the conditions we grew in,"" said Eftichios Vassilakis, the airline's vice chairman.
+
+Greece is expecting another record tourism year in 2018, after the country received 27 million visitors in 2017, according to Bank of Greece data.
+
+The new aircraft have a choice of two engines, either from CFM International or Pratt and Whitney. The airline said it was in talks with both manufacturers and will make a decision on the engines by July.
+
+The 19-year-old Star Alliance carrier currently has a fleet of 58 planes and will fly to around 80 destinations this year, combined with its subsidiary, Olympic Air.
+
+IN PICTURES: A look at Airbus in North America over the years","{'label': 'Neutral', 'score': 0.9999358654022217}",neutral,0.9999358654022217,0
+Airbus CIO: We dumped Microsoft Office not over cost but because Google G Suite looks sweet - The Register,"Thu, 15 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDE4LzAzLzE1L2FpcmJ1c19jaW9faW50ZXJ2aWV3L9IBQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAxOC8wMy8xNS9haXJidXNfY2lvX2ludGVydmlldy8?oc=5&hl=en-US&gl=US&ceid=US:en,"Interview Collaboration rather than cost is the reason Airbus has given Microsoft’s old-world Office app bundle the heave ho and is migrating 130,000 staff – the entire workforce – to Google’s G Suite.
+
+As exclusively revealed by The Register on Wednesday, Airbus – yes, the designer, builder and seller of civil and military aeronautical hardware – will spend the next 18 months escaping the on-premises world of Microsoft licensing in pursuit of Google's cloud.
+
+Airbus chief information officer Luc Hennekens told El Reg he needs to help staff in different countries and parts of the organisation link arms more effectively. Apparently, it’s all about breaking down those silos or “artificial barriers”.
+
+“Everything we do depends on people and people working together, we have incredibly complex products that require people from very diverse backgrounds and specialisms to work together very closely and that is exactly what we are trying to do here.”
+
+“Cost was not a driver of this. Absolutely not. If cost was the driver, Tom [Enders, CEO] would not have been interested in this.” The driver, he said, was “better collaboration and higher agility rather than some short-term cost savings.”
+
+One insider at Airbus claimed the business was under some pressure due to the A380 order book not filling up as expected, and a battle with Boeing over subsidies.
+
+He said the company had evaluated all the options, including Microsoft’s Office 365 suite. Interestingly, Hennekens was previously CIO at Qantas, and joined months after the company had deployed Office 365.
+
+Legitimate blue-sky thinking
+
+The decision to move to Google was in no way related to his past experience he told us: “There is no link.” He claimed Google’s G Suite was “built from the ground up” for collaboration, and Airbus’ traditional tools in use were based around Microsoft and email.
+
+“We want people to fundamentally reconsider how they work and move away from old ways of working, like sending millions of emails around,” said Hennekens.
+
+“It is a lot easier to achieve that with a tool that, from its conception, radically breaks with past ways of working and past concepts, rather than working with a tool (Office 365), that is a step up, but still in many ways is similar to what we’ve been using in the past.
+
+“We want to force the organisation to make the change and drive a true transformation, and not just do a tool upgrade.”
+
+Airbus will organise information around “teams, topics and programmes” and “let people go to the information that they need for their jobs… almost the opposite from an environment that is based on email where you receive whatever it is that others decide you can receive.”
+
+The migration will take 18 months but Airbus did not make the details of the timing public. All employees will be moved onto G Suite, including 40,000 shop floor workers that have never been “digitally enabled,” he said.
+
+“We are going to engage a significant number of people in the company to actively be part of this transformation and help us design it in a way that is fit for purpose in their circumstance, because a design engineer, or a shop floor worker or an accountant have completely different needs.”
+
+Airbus ditches Microsoft, flies off to Google READ MORE
+
+The ultimate aim of all this digital transformation and “disrupting” of itself, is to build products faster to market, the CIO said.
+
+In the conference call for Alphabet's last set of financial results (calendar Q4), Google CEO Sundar Pichai, said G Suite was a $1bn-per-quarter business, pointing to “larger deals” with “more strategic customers” that he said the company had booked.
+
+“The number of deals worth over $1m across all cloud products more than tripled from 2016 to 2017,” he said.
+
+Eric Haddad, managing director at Google Cloud France and EMEA head of digital workplace, told El Reg the deal with Airbus was one of the largest his company has transacted in the defence and aerospace industry.
+
+And he said it was among the biggest in terms of seats across Europe. “When you look at the requirement from Airbus in terms of security, data protection, and so on, I think this project is quite strategic.” ®","{'label': 'Neutral', 'score': 0.9991998076438904}",neutral,0.9991998076438904,0
+"Airbus to axe 3,700 jobs in Europe - Phys.org","Wed, 07 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDE4LTAzLWFpcmJ1cy1heGUtam9icy1ldXJvcGUuaHRtbNIBOGh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDE4LTAzLWFpcmJ1cy1heGUtam9icy1ldXJvcGUuYW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"An A400M military transporter flies past an Airbus A380 superjumbo at the International Aerospace Exhibition (ILA) in Berlin in 2010.
+
+Aircraft giant Airbus is to axe around 3,700 jobs in Europe as it cuts back production of its troubled A380 superjumbo and A400M military transporter, the company and union officials said Wednesday.
+
+The cuts come as Airbus downscales deliveries of the under-selling A380—the world's biggest passenger jet—to six a year from 2020 and eight a year for the similarly problematic A400M.
+
+The company said ""up to 3,700 jobs"" in France, Germany, Britain and Spain would be affected by the drop in production, without saying whether the posts were being cut or moved elsewhere.
+
+But Force Ouvriere, the biggest union representing Airbus staff, said after a meeting with company executives that Airbus was planning to shed 3,720 jobs while avoiding outright redundancies.
+
+""At no moment was there any discussion of outright layoffs,"" union leader Jean-Marc Escourrou said after the meeting at Airbus headquarters in the southwestern French city of Toulouse.
+
+Temporary jobs and subcontractors will be the first to go, he added.
+
+The jobs lost will include 1,900 in Germany, 850 in Spain and 470 in France.
+
+Britain will lose 450 jobs at the Filton factory in Bristol which builds wings for the A400M, said FO official, Yvonnick Dreno.
+
+""The falling rate for the A400M will affect them 100 percent,"" he said.
+
+Airbus said in a statement that it was ""committed to managing any implications for its workforce in a responsible manner"".
+
+""The company is confident that it will be able to propose opportunities to most of the affected employees through programmes which are being ramped up,"" it added.
+
+Airbus had in January warned it would have to halt production of the A380 altogether unless it received new orders.
+
+Emirates Airlines, already the biggest customer for the A380 with 101 in its fleet and 41 more on order, threw it a lifeline days later by striking a $16-billion deal to buy 36 more of the jets.
+
+Airbus decided in 2007 to pursue the A380, capable of packing in 853 seats—a move diametrically opposed to rival Boeing's bet on the Dreamliner, marketed as a more efficient plane that could be used for both medium and long-distance flights.
+
+But the economics of the four-engine A380 have proved daunting, with airlines having to operate every flight at full capacity in order to make a profit.
+
+The A400M programme has also been fraught with worries, including delivery delays and technical problems.
+
+Airbus nevertheless said last month that record deliveries, windfall gains from divestments and favourable exchange rates had boosted profits last year, even though it took a 1.3-billion-euro ($1.6-billion) hit from problems with the A400M.
+
+The A400M is one of the most ambitious joint defence programmes ever launched in Europe. Seven countries are involved: Belgium, Britain, France, Germany, Luxembourg, Spain and Turkey.
+
+© 2018 AFP","{'label': 'Neutral', 'score': 0.9984514713287354}",neutral,0.9984514713287354,0
+Flexible door distribution allows Airbus to offer multiple A321 configs - Runway Girl Network,"Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTgvMDMvZmxleGlibGUtZG9vci1kaXN0cmlidXRpb24tZW5hYmxlcy1haXJidXMtdG8tb2ZmZXItbXVsdGlwbGUtYTMyMS1jb25maWdzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus’ proposals to airlines for the various capacity and configuration options for the A321neo remain very flexible, with multiple options for doors depending on planned internal configurations still possible, but with the variants still “intertwined”, executives tell Runway Girl Network.
+
+Senior vice president for marketing François Caudron sat down with RGN in Toulouse to discuss the three current primary options: the regular A321neo with the four A321ceo style larger doors; the higher capacity A321neo ACF (Airbus Cabin Flex) with several door layouts; and the longer range neo family member the A321LR, which is based on the ACF door configuration.
+
+For the ACF variant, Caudron says, “in short, we revisited the door distribution. We’ve increased the evacuation limit of door 1 and door 4. We removed door 2, and we’ve introduced two larger overwing exits. Now you end up having more space for seats ahead of the wing, and two overwing exits get actually activated depending on the LOPA [Layout of Passenger Accommodations] and the cabin configuration of the customer.”
+
+In this configuration, doors 1 and 4, an Airbus spokesperson confirms to RGN, are higher capacity Type C+ exits. The door configuration depends both on total seat count and on the capacity of each zone of seating, particularly the density between the overwing doors and the rear of the aircraft.
+
+The four options for the Door 3 position behind behind the wing, as a result, include three types of doors: either the standard Type C (30”x48”), a Type I (24”x48”), or a Type III (20” x 36”, with an interior step-up of less than 20”). (Measurements as per 14 CFR 25.807.)
+
+Essentially, as fewer passengers are seated in various sections of the aircraft, the size (and therefore weight) of the corresponding and overall doors can be reduced. Replacing the full-size doors 2 with the overwing exits, RGN understands, saves enough weight that Airbus did not need to increase the certified weight of the A321LR even with the need for additional fuel tanks.
+
+In addition, one of the overwing exits can also be deactivated and plugged for low-density versions, also saving weight. From the airline perspective, Caudron explains, for “somebody who would take a full economy cabin up to 240 seats, we’d then activate all the doors. Somebody who goes with a premium cabin and then economy seats, you can do it with only one overwing exit being activated, which means that inside the lining covers the door so it’s not visible.”
+
+A problem for the future and particularly for lessors, of course, is that these variants add complexity, harkening back to the numerous ways in which airlines chose to configure their Boeing 757-200 aircraft, which came both with and without overwing exits and afterwing doors.
+
+Caudron confirms to RGN that, if an A321neo is ordered as the LR version, it can be customised, decustomised and recustomised with one, two or three of the auxillary centre fuel tanks, allowing for flexibility. It doesn’t seem beyond the realms of supposition to suggest that lessors in particular may be keen to order the LR version to ensure later service options, even if their initial customer does not require with any of the actual fuel tanks.
+
+“Literally the tank can be taken on and off the aircraft overnight,” Caudron says. “It’s feasible, we know some of the customers will do it.
+
+“I’m not sure if it’s better to do it over a season, but physically once the provisions are on the aircraft it’s very flexible.”
+
+That flexibility is why Airbus believes more A321neo orders will be converted to the LR version, Caudron says. “Every A321neo ACF is capable of that version, which means the customer can opt for it or choose at the time of the customisation. Not every customer placed an order for the A321LR, but when it comes to customising the aircraft, about 18 months before delivery, they then have the ability to choose it.”
+
+“We have one hundred plus today on order,” Caudron says of the LR, “and I’m convinced we’re going to get a lot more because many of the A321neo ACF that have been ordered will be probably customised as a long-range version.”
+
+Highlighting the impressive performance of Airbus’ first A321LR demonstration flight from Paris to New York the previous week, Caudron notes that “it took 8h45m with very strong headwinds. The aircraft made it with two ACTs [auxiliary centre tanks], whereas the full LR version can take up to 3 ACTs. It really demonstrates the capability of the aircraft.”
+
+John Walton was a guest of Airbus in Toulouse.
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9999428987503052}",neutral,0.9999428987503052,0
+Air taxis: we have lift-off… - The Guardian,"Sun, 04 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdGVjaG5vbG9neS8yMDE4L21hci8wNC9haXItdGF4aXMtd2UtaGF2ZS1saWZ0LW9mZi1haXJidXMtdmFoYW5hLWVoYW5nLXZvbG9jb3B0ZXItdWJlci1lbGV2YXRlLWxpbGl1bdIBgAFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdGVjaG5vbG9neS8yMDE4L21hci8wNC9haXItdGF4aXMtd2UtaGF2ZS1saWZ0LW9mZi1haXJidXMtdmFoYW5hLWVoYW5nLXZvbG9jb3B0ZXItdWJlci1lbGV2YXRlLWxpbGl1bQ?oc=5&hl=en-US&gl=US&ceid=US:en,"Last month Airbus released a video of the first successful test flight of its electric vertical take-off and landing (eVTOL) autonomous drone. Although it only hovered in the air for 53 seconds, the fact that its eight rotors were powered entirely by electricity was a landmark for the manufacturer of gas-guzzling planes. The goal is that the technology could be used for airborne travel in congested cities. “Our goal is to democratise personal flight by leveraging the latest technologies such as electric propulsion, energy storage and machine vision,” blogged Zach Lovering, Vahana project executive.
+
+View image in fullscreen Impressive: the Ehang 184 carrying a passenger in Guangzhou last month. Photograph: Feng Zhoufeng/Southern Metropolis Daily/VCG via Getty Images
+
+Chinese drone manufacturer Ehang is considerably more advanced than Airbus. In February it flew 40 journalists and local dignitaries on trips of up to 15km in Guangzhou, southern China, reaching top speeds of 80mph. To fly, passengers simply mark their destination on a map and the drone creates and executes a flight plan. Ehang claims the craft is robust enough to withstand thunderstorms and typhoons – in the event of problems it can be piloted remotely from a control centre.
+
+View image in fullscreen Volocopter’s 2X model: capable of 30 minutes’ flight. Photograph: Sean Gallup/Getty Images
+
+The German company behind this 18-rotor, two-person air taxi is backed by Daimler and recently struck a partnership deal with Intel. Their latest model, the 2X, is capable of 30 minutes of flight – designers are aiming for a full hour, which they think will be sufficient for typical shuttles across most major cities. Risk of crashing is diminished by nine battery packs – in the event of catastrophic failure a ballistic parachute will save the day. The craft are being tested in Dubai.
+
+View image in fullscreen A solution to the LA gridlock? Uber’s Elevate concept. Photograph: Uber Elevate
+
+Uber Elevate
+
+Uber is developing several air taxi concepts. Last November the taxi firm signed a deal with Nasa to develop on-demand, 200mph electric aircraft that would begin testing in gridlocked Los Angeles in 2020, with a view to having the service fully operational for the city’s 2028 Olympics. Last month it announced a project with helicopter manufacturer Bell to begin flying air taxis in Fort Worth, Texas by 2023. Back in 2016 it published a 98-page white paper analysing the technical and regulatory hurdles that would have to be overcome before taxis become airborne.
+
+View image in fullscreen Lilium’s electric VTOL jet: the team say speeds of 185mph will be possible. Photograph: YouTube
+
+In April 2017 this Munich-based startup demonstrated the first unmanned flight of its two-seater prototype VTOL vertical take-off and landing jet. Powered by 36 electric jet engines, rather than rotors, the craft could reach speeds of 185mph. Lilium claims the 19-mile journey from New York’s JFK airport to Manhattan would take five minutes in its air taxi compared with 55 minutes by car; it also says the fare would be around 50% less. Lilium hope to have the service operational by 2025.","{'label': 'Neutral', 'score': 0.9998142123222351}",neutral,0.9998142123222351,0
+State of Qatar signs contract for 28 NH90 multirole helicopters - Airbus,"Wed, 14 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1zdGF0ZS1vZi1xYXRhci1zaWducy1jb250cmFjdC1mb3ItMjgtbmg5MC1tdWx0aXJvbGUtaGVsaWNvcHRlcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"DIMDEX 2018
+
+Doha, 14 March 2018 – Qatar has signed a contract for the purchase of 28 NH90 military helicopters, during DIMDEX, Qatar’s biennial defence exhibition. The agreement, which includes 16 NH90s in tactical transport (TTH) configuration and 12 NH90s in naval (NFH) configuration, will support the country’s plan to modernise their military helicopter fleet. As part of the plan, Qatar will receive 16 H125 light single-engine helicopters in training configuration for operation by the Qatar Armed Forces Air Academy.
+
+“We are honoured to support the Qatar Armed Forces through this strategic partnership”, said Ben Bridge, Executive Vice President Global Business at Airbus Helicopters. “The NH90 is a modern and combat-proven asset that will meet Qatar’s demanding operational requirements for decades to come, both in troop transport and naval missions. Our partnership on the new training academy will also strengthen the relationship between our countries by enabling the exchange of expertise and know-how in helicopter operations”, he added.
+
+Leonardo will act as prime contractor for the programme management with the end customer and Airbus will be responsible for the final assembly and delivery of 16 NH90 TTH aircraft from its facility in Marignane, France while Leonardo will be responsible for final assembly and delivery of the 12 NH90 NFH helicopters from its Venice – Tessera facility in Northern Italy.
+
+The NH90 is well suited for operations in the most demanding conditions and has been combat-proven in many theatres of operation worldwide. This contract for 28 helicopters brings the total order book to 543 aircraft. To date, 350 aircraft have been delivered to 20 customers in 13 countries and have accumulated around 170,000 flight hours.
+
+The twin-engine, medium-size NH90 helicopter program is managed by the consortium NHIndustries, a company owned by Airbus Helicopters (62.5%), Leonardo (32%), and Fokker (5.5%).
+
+About Airbus
+
+Airbus is a global leader in aeronautics, space and related services. In 2017 it generated revenues of € 67 billion and employed a workforce of around 129,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","{'label': 'Neutral', 'score': 0.9998929500579834}",neutral,0.9998929500579834,0
+"In new blow, Boeing defeats Airbus at American, sources say; AA says 'no decision yet' - Leeham News and Analysis","Fri, 23 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxOC8wMy8yMy9pbi1uZXctYmxvdy1ib2VpbmctZGVmZWF0cy1haXJidXMtYXQtYW1lcmljYW4tc291cmNlcy1zYXktYWEtc2F5cy1uby1kZWNpc2lvbi15ZXQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"March 23, 2018, © Leeham News: In a new, albeit not unexpected, blow to Airbus, Boeing won a hotly contest competition at American Airlines between the A330neo and the 787, two sources say.
+
+Bloomberg News reported Airbus lost the deal, earlier today.
+
+LNC confirmed the decision with two sources. But Derek Kerr, EVP and CFO of American, told LNC no decision has been made, but an announcement could be coming by the first quarter earnings call if not before.
+
+The competition originated with American’s long-publicized ambivalence over the legacy Airbus A350-900 order placed by US Airways long before the latter acquired American, a 787 customer of long-standing. With this deal, American will cancel the A350 order for 22 airplanes.
+
+Fleet simplification
+
+The new American has been clear that a sub-fleet of 22 airplanes didn’t fit with American’s strategy of simplifying its fleet.
+
+American has nine Airbus A330-300s and 15 A330-200s, also inherited from US Airways. AA previously announced it will phase out the -300s, which date to 1999-2001. The -200s date from 2009-2014, according to the Airfinance Journal Fleet Tracker.
+
+American has 35 787s in service and seven more on order.
+
+The number of 787s and sub-types involved hasn’t been learned, nor the delivery schedule.
+
+The A350s has been deferred until beginning in 2020 and were intended to replace the A330s. Deliveries were slated for 2, 5, 5 and 10, an American SEC filing indicates. The last of the current 787 orders is scheduled for delivery in 2019.
+
+With Boeing increasing the production rate of the 787 to 14/mo from 12/mo, it’s likely the delivery schedule will be similar to the A350.
+
+Boeing was viewed to have the advantage going into the competition, given its large 787 presence already and American’s desire to simplify its fleet.
+
+Aggressive deal
+
+Boeing’s offer was “aggressive,” LNC is told, similar to the recent Hawaiian Airlines deal in which Boeing displaced Airbus’s existing A330-800 order with the 787.
+
+It’s also been suggested Boeing offered to reconfigure the 787-8s that have an interior designed for the legacy American, but which doesn’t fit into the new cabin strategy adopted by the new American Airlines.
+
+GE Aviation, which provides American’s 787 engines and engines for the Boeing 737-8 MAX and Airbus A321neos ordered by American through its 50-50 partnership with CFM International, repriced an unspecified number of engines, LNC is told.
+
+All-out war
+
+This hotly fought battle, like the Hawaiian deal, is part of the all-out war that erupted between Airbus and Boeing in which Boeing is trying to kill the A330neo.
+
+Airbus believes Boeing will make any deal to keep Airbus wide-bodies out of the US, but it vows to protect its markets elsewhere in the world.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Neutral', 'score': 0.9996325969696045}",neutral,0.9996325969696045,0
+Airbus and human spaceflight: from ATV to Orion - Airbus,"Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1haXJidXMtYW5kLWh1bWFuLXNwYWNlZmxpZ2h0LWZyb20tYXR2LXRvLW9yaW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"On 9 March 2008 the first of five spacecraft was launched
+
+With 10 successful years as prime contractor for ESA, Airbus heads for new horizons
+
+Toulouse / Bremen, 09/03/2018 – Ten years as prime contractor for ESA – it’s just the beginning for Airbus in human spaceflight: The successful mission of the first Airbus-built ATV (Automated Transfer Vehicle) “Jules Verne”, launched on 9 March 2008, has become a key element of pioneering technologies for human spaceflight that includes Spacelab, the ATVs and the Columbus module of the International Space Station (ISS).
+
+
+
+Together they pave the way to the Orion European Service Module (ESM), Europe´s latest contribution to human spaceflight developed by Airbus, again as prime contractor.
+
+NASA's Orion spaceship is designed to take humans to the Moon and beyond, with the possibility of even reaching an asteroid and maybe Mars in the 2030s. The ESM integral to the crew module is designed to supply power, propulsion, thermal control, water and air for future human deep-space missions.
+
+Ten days after launch, the first ATV, the sophisticated space freighter executed a perfect manoeuvre to dock automatically with the ISS. The ATV then not only delivered vital supplies to the ISS but also successfully carried out its orbit-raising mission and became an integral part of the ISS. After six months docked to the ISS, the first ATV “Jules Verne” detached on 5 September 2008 and began its last journey in Space, which ended with a controlled burn up on re-entry into the Earth’s atmosphere on 29 September 2008. Four more ATVs (2011-2014) were sent to the ISS. Airbus was prime contractor to the European Space Agency (ESA) to develop and build all the ATVs and prepare their missions to the ISS.
+
+In total the ATVs shipped more than 31.5 tonnes of supplies to the ISS until 2015. They boosted the Space Station to raise its orbit numerous times and helped manoeuvre it out of the way of space debris. The ATVs demonstrated the ability to dock automatically with the ISS, which is vital technology for future space exploration missions. Airbus achieved this as part of a European partnership and thanks to the ATVs’ outstanding performance, the company became a full partner of NASA for major space programmes.
+
+
+
+“Spacelab, Columbus and the ATVs have fully proved our capabilities to develop a highly reliable system that will play an integral part in the success of NASA’s future exploration missions: namely the European Service Module of the Orion Multi-Purpose Crew Vehicle,” said Nicolas Chamussy, Head of Space Systems at Airbus.
+
+
+
+The ESM is cylindrical in shape and about four meters in diameter and height. It has four-wing solar arrays (19 meters across when unfurled) like the ATVs. The solar arrays are based on Airbus’ flight proven technology which are also installed on their highly reliable geostationary telecommunication satellites which operate for a minimum of 15 years in Space.
+
+
+
+The ESM’s 8.6 tonnes of propellant will power one main engine and 32 smaller thrusters used to perform orbiting manoeuvres and attitude control. Once again, ESA will rely on the experience gained with the ATVs, which successfully used their thrusters to allow the ISS to evade space debris.
+
+
+
+“The requirements for a mission to the Moon are of course very different to those for travel to the ISS in low Earth orbit. But the clever design of the ATV has allowed us to evolve the concept for new missions, for example by integrating one large main engine providing enough power to fly to the Moon and back,” said Nicolas Chamussy.
+
+
+
+In 2019 / 2020, the Orion capsule will perform an uncrewed mission known as Exploration Mission-1, with the aim of travelling 64,000 kilometers beyond the Moon to demonstrate the spacecraft's performance. The first human spaceflight mission, Exploration Mission-2, is expected to launch four astronauts on board Orion in 2023.
+
+
+
+***
+
+
+
+About Airbus
+
+Airbus is a global leader in aeronautics, space and related services. In 2017 it generated revenues of € 67 billion and employed a workforce of around 129,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","{'label': 'Neutral', 'score': 0.9252619743347168}",neutral,0.9252619743347168,0
+"Airbus, Blade see growing future for urban air transport - Vertical Magazine","Thu, 08 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3MvYWlyYnVzLWJsYWRlLXNlZS1ncm93aW5nLWZ1dHVyZS11cmJhbi1haXItdHJhbnNwb3J0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"At its Elevate Summit last year, the ride-sharing company Uber presented its vision for a future in which fleets of electrically powered vertical takeoff and landing (eVTOL) aircraft shuttle passengers above major metropolitan areas at a cost comparable to traveling by ground.
+
+That vision was a topic of much conversation at HAI Heli-Expo 2018, with some attendees embracing an eVTOL future, and others skeptical that it will come about anytime soon.
+
+For at least two companies, however, eVTOL aircraft aren’t a prerequisite for revolutionizing urban air mobility. Through a strategic partnership announced at Heli-Expo on Feb. 28, Airbus Helicopters and Fly Blade, Inc. aim to make it easier and cheaper for the public to find helicopter seats on demand, as the companies simultaneously lay the groundwork for a future in which eVTOL solutions expand the market for urban air transportation.
+
+“We’re not waiting for eVTOL. We’re not. We’re doing this today,” Blade CEO Rob Wiesenthal told reporters at Heli-Expo in Las Vegas, Nevada, last week.
+
+Airbus Helicopters, Inc. president Chris Emerson echoed, “What is really exciting about this [is] today we can create a customer experience just by pooling demand, and bringing the cost lower than pure charter on existing aircraft. That’s getting people to fly now.”
+
+Since launching in New York City in 2014, Blade has proven that there’s a viable market for on-demand helicopter transportation in urban areas. Blade customers use the company’s mobile app to reserve either an entire helicopter or seats on scheduled flights along popular routes: for example, from Manhattan to the Hamptons, Atlantic City, or local airports.
+
+Blade has recently expanded into on-demand jet charter and new geographic markets, including Los Angeles. The company does not operate aircraft itself, leaving that to established, Federal Aviation Administration-certified air taxi operators. Instead, it uses its digital technologies to pool demand, then manages the customer experience with stylish lounges that are a step up from the average fixed-base operator’s waiting room.
+
+“Our goal is to help build demand on behalf of the operators, and provide a convenient, cost-effective service to our consumers,” Wiesenthal explained. “And we’ve proven that since Blade has started in the New York area, the market for by-the-seat and charter has gone up by over 40 percent.
+
+“Seventy-five percent of all Blade flyers have never been in a helicopter,” he continued. “So what that means is that each of our operators have actually expanded their markets — we’ve created another revenue stream for them.”
+
+Airbus has its own on-demand helicopter booking platform, Voom, which it launched last year in São Paulo, Brazil, and will soon be expanding to Mexico City. The manufacturer also has an event-based helicopter shuttle service in the Dallas-Fort Worth, Texas, area called Airbus Ride.
+
+The partnership agreement with Blade will give Airbus access to Blade’s expertise in comprehensive booking and operator technology platforms, while helping Blade accelerate its expansion into new markets. At the same time, it will position both companies to take advantage of the boom in urban air transport that could come about with eVTOL technologies.
+
+“There’s an entire stack of what we’re working on with Airbus and our operators that is completely relevant to eVTOL,” said Wiesenthal, citing consumer messaging and interfaces; operator dashboard and accounting software; and on-the-ground logistics management. The many thousands of passenger movements envisioned for eVTOL networks will require sophisticated coordination behind the scenes, which is something that Blade is already doing well.
+
+“We can have 350 missions in a 24-hour period on one heliport,” said Wiesenthal. “That requires a lot of movement and a lot of coordination.”
+
+For eVTOL platforms to be used even more intensively in urban areas, they’ll need to be quieter and more cost-effective than the helicopters that exist today. According to AHS International executive director Mike Hirschberg, who presented on eVTOLs at Heli-Expo, these requirements are feasible thanks to advancements in electric motors, batteries, and manufacturing technologies.
+
+As Hirschberg explained, eVTOLs won’t be electric helicopters any more than cars were buggies with mechanical horses. Instead, new configurations will take advantage of distributed electric propulsion to replace today’s complex drive systems, reducing manufacturing and operating costs. Airbus is already active in developing such platforms, including the four-passenger City Airbus eVTOL demonstrator and the single-passenger Vahana eVTOL aircraft, both of which are autonomously piloted.
+
+In addition to being cheaper to build and fly, eVTOL aircraft should also be inherently quieter than existing helicopters — which will be key to gaining community support for widespread deployment.
+
+“When you think about eVTOL, and some of the numbers that we’ve seen where we talk about silence in the air, and 70 or 75 decibels on takeoff and landing, that’s really exciting,” Wiesenthal said. “Because at that point, you can reintroduce the conversation of having landing zones at places you never thought were possible.”
+
+As promising as an eVTOL future sounds, however, neither Blade nor Airbus expects it to arrive overnight. Even when eVTOLs do arrive, Wiesenthal said he anticipates a “co-habitation phase, where over time, you’ll see a mix of eVTOL and helicopters. The longer missions will be done with the helicopters, the shorter missions will be done probably by eVTOL-like equipment.”
+
+In the meantime, data obtained through its partnership with Blade will help Airbus understand how to design eVTOL aircraft to meet demand.
+
+“To find the right eVTOL, we need to understand what the demographics, what the requirements are going to be,” said Emerson. “We don’t yet know, is it going to be four people going 10 minutes? Is it two, 30 minutes?” Emerson characterized the move to eVTOL as a crawl-walk-run progression, and said that the industry is currently at “a crawling phase of understanding, what is this market going to look like in the future?”
+
+While Airbus and Blade have praised each other as partners working toward a common goal, their agreement isn’t exclusive. Wiesenthal said that Airbus is fully aware that Blade’s operator partners fly helicopters from a number of different manufacturers — and Airbus is OK with that.
+
+“What [Airbus is] interested in is growing this industry along with us, and they’re fantastic partners to help us grow this industry,” he said.
+
+According to Matthieu Louvot, executive vice president of customer support and services for Airbus Helicopters, the company believes it’s well positioned to benefit from any expansion of the industry, even without an exclusive agreement.
+
+“It’s helping the operators have more business, more flight hours, and it can grow the whole helicopter market,” he said. “Anything that grows the helicopter market is good [for Airbus].”","{'label': 'Neutral', 'score': 0.9984579086303711}",neutral,0.9984579086303711,0
+"Airbus cutting 3,700 jobs across Europe, slashing A400M aircraft production - Defense News","Wed, 07 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9pbmR1c3RyeS8yMDE4LzAzLzA3L2FpcmJ1cy1jdXR0aW5nLTM3MDAtam9icy1hY3Jvc3MtZXVyb3BlLXNsYXNoaW5nLWE0MDBtLWFpcmNyYWZ0LXByb2R1Y3Rpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS ― Airbus is cutting up to 3,700 jobs across four European nations as annual production of the A400M military airlifter and A380 superjumbo airliner will be slashed, the aircraft company said Wednesday.
+
+“At this stage, Airbus estimates the maximum impact of these measures will affect up to 3,700 positions at sites across the company’s home countries of France, Germany, the United Kingdom and Spain,” the company said in a statement.
+
+The company announced the cuts after a meeting of its European Works Council.
+
+Airbus will seek to offer work to most of the staff hit by the production cuts by moving employees to other programs with rising build rates, the company said.
+
+Annual production of the A400M transport plane will fall to eight units in 2020 from 15 this year and 11 next year.
+
+The drop in A380 production to six compares to 12 being built this year.
+
+
+
+“This adjustment is based on discussions with the A400M launch customer nations,” the company said.
+
+Airbus called for those talks in a bid to agree on a new delivery schedule, seeking to reduce penalty payments for late shipment of the turboprop airlifter. A new timetable is expected by the end of the year, which would stem the financial charges of €8.5 billion (U.S. $10.5 billion) booked by Airbus.
+
+RELATED
+
+An Airbus spokesman declined to give a figure on the jobs hit on the A400M program.
+
+Seville, southern Spain, is the assembly plant for the A400M, with wings built in Broughton in the U.K.; fuselage in Bremen, northern Germany; and cockpit in Saint-Nazaire, western France.
+
+The Airbus A400M military transport plane prepares to land after its demonstration flight during the inauguration of the 51st International Paris Air Show at Le Bourget airport, north of Paris, on June 15, 2015. Sitting at left is , and at right, Chief Executive Officer of Dassault Group Serge Dassault. AFP PHOTO / POOL / REMY DE LA MAUVINIERE (Photo credit should read REMY DE LA MAUVINIERE/AFP/Getty Images)
+
+Some of the Seville staff could be switched to retrofit of military capabilities on the A400M. The Spanish plant also works on the C-295 tactical turboprop plane and provides aircraft maintenance and repairs.
+
+The total 3,700 job cuts will fall on 13 factories across the four partner nations, with the company expecting to assign most of the staff to other aircraft programs.
+
+A lower production rate for the A400M seeks to address the problem of the number of aircraft built but then parked on the tarmac rather than promptly delivered to client nations. That excess of inventory arose from the need to fix a problem on the propeller gearbox of the TP400 engine.
+
+Slower production also allows Airbus more time to fit equipment for tactical capabilities rather than deliver the aircraft on time and later recall them for retrofit.
+
+Airbus also expects to use that extra time to pitch the plane in export markets.
+
+A January order from Dubai-based airline Emirates for 20 A380s, with an option for 16 more, gave a lifeline for the double-decker airliners with an annual baseline delivery of six units. That Emirates order was worth $16 billion at list price, though it was likely the airline won a large discount.
+
+“Airbus has to ensure the best possible production flow for its products,” the company said. “These rate-adjustment decisions provide clear visibility for customers, the supply chain and employees over the coming years.”","{'label': 'Neutral', 'score': 0.9999587535858154}",neutral,0.9999587535858154,0
+"Airbus completes sale of Plant Holdings, Inc. to Motorola Solutions - Airbus","Wed, 07 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1haXJidXMtY29tcGxldGVzLXNhbGUtb2YtcGxhbnQtaG9sZGluZ3MtaW5jLXRvLW1vdG9yb2xhLXNvbHV0aW9uc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus SE (stock exchange symbol: AIR) has finalised the sale of Plant Holdings, Inc., which holds the Airbus DS Communications Inc. business, to Motorola Solutions (NYSE: MSI) after receiving the required regulatory approvals.
+
+This divestment is part of the portfolio reshaping within the Airbus Defence and Space Division announced in September 2014.
+
+Airbus DS Communications is a leading provider in North America of command centre software for fielding emergency calls (911) and citizen emergency notification. It generated revenues of more than US$100 million in 2016.","{'label': 'Neutral', 'score': 0.8552065491676331}",neutral,0.8552065491676331,0
+easyJet signs Skywise Predictive Maintenance agreement with Airbus for its entire fleet - Airbus,"Tue, 27 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1lYXN5amV0LXNpZ25zLXNreXdpc2UtcHJlZGljdGl2ZS1tYWludGVuYW5jZS1hZ3JlZW1lbnQtd2l0aC1haXJidXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Big data bringing significant gains in operational performance for easyJet’s fleet
+
+
+
+easyJet has signed a five year agreement with Airbus to provide predictive maintenance services for its entire fleet approaching 300 aircraft. The technology relies on Airbus’ Skywise data platform which will allow easyJet’s engineers to intervene early and replace parts before the component’s failure, thereby preventing passengers from experiencing delays and cancellations.
+
+Johan Lundgren, CEO of easyJet, commented: “easyJet is leading the industry in using data and artificial intelligence to improve our efficiency as well as in other parts of the airline where its use can reduce costs, improve customer satisfaction and increase revenue. Our investment in the Skywise platform can really make a tangible difference for thousands of passengers by harnessing the power of big data to reduce delays. It will transform the way that we maintain and operate our aircraft with the long term aim of eliminating delays due to technical faults.”
+
+
+
+Tom Enders, Airbus Chief Executive Officer, commented: “Our Skywise trial with easyJet over the past three years has been tremendously successful, demonstrating significant gains in operational performance through predictive maintenance. We are delighted to further cement our collaboration by extending this trail-blazing technology to easyJet’s entire A320 Family fleet.”
+
+The new technology builds on extensive trials of the Skywise platform allowing easyJet to remove components before faults occur, thus enabling more flights to operate on schedule. Skywise can now analyse data from other components on easyJet’s aircraft thanks to the installation of Airbus’ newly released flight operations and maintenance exchanger FOMAX – which collects 60 times more data than existing systems. The new equipment will be fitted on easyJet’s fleet by summer 2019.
+
+
+
+Airbus launched the Skywise aviation data platform at the 2017 Paris Air Show, in collaboration with Palantir Technologies – pioneers in big-data integration and advanced analytics. Building on the announcement in February 2018 that some 1,000 aircraft were to be connected, Skywise aims to become the platform of reference used by all major aviation players to improve their operational performance and business results and to support their own digital transformation.
+
+","{'label': 'Positive', 'score': 0.9999748468399048}",positive,0.9999748468399048,1
+First H160 orders for the North American market - Airbus,"Thu, 01 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1maXJzdC1oMTYwLW9yZGVycy1mb3ItdGhlLW5vcnRoLWFtZXJpY2FuLW1hcmtldNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Las Vegas, Airbus Helicopters has signed the first order for four ACH160s with an undisclosed, North American customer. The launch customer, a major US business entity with extensive experience in corporate aviation, has opted for one aircraft to be delivered in Stylence by ACH configuration, the in-house, private and business design product line; with the remaining three aircraft to be delivered in ACH Exclusive configuration, the select design product line which allows the highest level of customisation and bespoke craftsmanship.
+
+“With the launch of Airbus Corporate Helicopters (ACH) last year, now followed by the first order of this new generation helicopter by a corporate customer, the ACH160 is set to revolutionise the way our private and business aviation customers travel,” said Ben Bridge, Executive Vice President Global Business at Airbus Helicopters.
+
+Although the ACH160’s cutting-edge design and technology provides passengers with a truly business jet-like passenger experience, it was the low external sound levels, witnessed during a flight demo at the company’s headquarters in Marignane, France, which helped the customer commit to an order for four aircraft. The ACH160 represents a step-change in passenger experience with its panoramic views, low sound levels, smooth flight even at high speeds, and the high-quality, ACH interior fits and customisation options that meet the high standards of private and corporate customers.
+
+“The H160 is set to become a market reference for private & business aviation, air medical services, and passenger transport in North America, revolutionizing the way our customers travel,” said Chris Emerson, President of Airbus Helicopters, Inc. and Head of North American Region. “We look forward to supporting our customers as they gear up to operate this new-generation helicopter.”
+
+Be sure to follow Airbus Helicopters for all the news and events throughout the show:
+
+http://www.airbus.com/newsroom/events/HAI-2018.html.
+
+Twitter: @AirbusHeli
+
+Follow the adventures of the H160 in the US on #H160ReasonsWhy
+
+
+
+About Airbus
+
+Airbus is a global leader in aeronautics, space and related services. In 2017 it generated revenues of € 67 billion and employed a workforce of around 129,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","{'label': 'Neutral', 'score': 0.9851480722427368}",neutral,0.9851480722427368,0
+Indian demand for new aircraft forecasted at 1750 over 20 years - Airbus,"Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1pbmRpYW4tZGVtYW5kLWZvci1uZXctYWlyY3JhZnQtZm9yZWNhc3RlZC1hdC0xNzUwLW92ZXItMjAteWVhcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"20-year growth almost twice as fast as the world average
+
+Largest footprint in India of any international aircraft manufacturer
+
+
+
+Every Airbus commercial aircraft is partly ‘Made in India’
+
+India will require 1,750 new passenger and cargo aircraft over the next 20 years to meet an exponential rise in both passenger and freight traffic, according to Airbus’ latest India Market Forecast. To help meet this growth, India will need 1,320 new single-aisle aircraft and 430 widebody aircraft valued at US$255 billion.
+
+While much of the air traffic growth is expected to be driven by the fast expanding economy, rising wealth and urbanisation, ambitious government-backed regional connectivity programmes are also set to enhance demand for air travel. By 2036, Indians will each make four times as many flights as today. As a result, traffic serving the Indian market is forecast to grow 8.1 percent per year over the next 20 years, almost twice as fast as the world average of 4.4 percent.
+
+Domestic Indian traffic is expected to grow five-and-half times over the next 20 years (2017-2036) reaching the same level as U.S. domestic traffic today, making it one of the world’s fastest growing markets, according to Airbus’ latest India Market Forecast for the period.
+
+""Make in India is at the heart of our strategy. Airbus has the largest footprint in India of any international aircraft manufacturer, nationwide across all aircraft programmes. Our sourcing volume has grown 16 times over the past 10 years and it is currently at more than US$550 million annually,” said Srinivasan Dwarakanath, President – Airbus Commercial Aircraft in India.
+
+India is set to become the world’s third-largest aviation market by 2019/2020 and Airbus is well positioned to partner its growth with backlog orders of over 530 aircraft to date.
+
+The complete Airbus product line comprises the best-selling A320 Family in the single aisle market, the popular A330 and A330neo, the A350 XWB in the mid-size widebody category and the flagship A380 in the very large aircraft segment. In the freight market, Airbus currently offers the new-build A330-200F and the Passenger-to-Freighter (A330P2F) programme.
+
+
+
+India highlights:
+
+• More than 70% backlog order share; more than 60% of in-service fleet
+
+• 8.1% annual growth in passenger traffic (global average 4.4%)
+
+• India is set to become the world’s third largest aviation market by 2019/20
+
+• New aircraft needs: 1,320+ single aisle, nearly 430 widebodies / US$255 billion
+
+• Indian passenger traffic expected to grow by five-and-half times
+
+• By 2036, Indian passengers will on average make four times as many flights as today
+
+• On average, one Airbus aircraft will be delivered to India every week for the next 10 years
+
+• Airbus secures 6,000 jobs including 1,500 engineers in India
+
+• Annual sourcing from India at more than US$550 million","{'label': 'Positive', 'score': 0.9988794922828674}",positive,0.9988794922828674,1
+"Retirement wave coming that will boost A330neo sales, says Airbus - Leeham News and Analysis","Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxOC8wMy8wNi9yZXRpcmVtZW50LXdhdmUtY29taW5nLXdpbGwtYm9vc3QtYTMzMG5lby1zYWxlcy1zYXlzLWFpcmJ1cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"March 6, 2018: Airbus is ramping up the messaging for the slow-selling A330neo, reiterating its view that a wave of retirements is coming from current A330 operators that will support new sales.
+
+LNC first reported the message Dec. 6.
+
+Jeff Knittel, the new president of Airbus Americas, reinforced this message yesterday at an industry conference.
+
+Retirements are the key
+
+As noted in LNC’s December interview with the program chief, Airbus believes the tide on sales will turn with a coming wave of retirements beginning in 2020.
+
+The crux of Airbus’ strategy is that as the A330ceo ages, the current large number of operators will want replacements. The A330neo has close economics to the Boeing 787, for up to $30m less in capital cost.
+
+Airbus also sees the growing long-haul, low-cost carrier sector as a natural for the A330neo.
+
+But the A330neo was launched long before the Middle of the Market airplane was a gleam in Boeing’s eye. The A330neo has far more range than the prospective Boeing New Midrange Aircraft will have, giving the long-haul advantage to Airbus. But for routes of 4,500nm to 5,000nm, the NMA will have a significant economic advantage over the A330neo, based on LNC’s analysis. If Boeing can keep the price to the airlines in the $70m-range–a tall order, to be sure–Airbus’ sales hopes for the A330neo will be severely tested.
+
+LCC penetration
+
+Knittel recapped the sales success of the A320neo. The following illustration is noteworthy with the list of low-cost carriers and its market penetration into what was once an area dominated by Boeing’s 737.
+
+A little history
+
+Finally, Knittel took a dive into Airbus’ market presence in the US and worldwide.
+
+The first transaction was with Eastern Airlines in a deal in which Airbus leased four A300B2s to EAL for six months as a “test drive,” charging $1. The deal led to Eastern eventually ordering 34 A300s.
+
+Today, Airbus’ worldwide market penetration is just a tad higher.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Positive', 'score': 0.9962517619132996}",positive,0.9962517619132996,1
+"Airbus on the Way to the Electric Future, Part 3 Electrification and E-Flight - Aviation Pros","Thu, 15 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5hdmlhdGlvbnByb3MuY29tL3Rvb2xzLWVxdWlwbWVudC9pbnN1cmFuY2UtZmluYW5jZS9haXJjcmFmdC9hcnRpY2xlLzEyMzk3MDg1L2FpcmJ1cy1vbi10aGUtd2F5LXRvLXRoZS1lbGVjdHJpYy1mdXR1cmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Electric-flight and Airbus - nobody would have put these words in the same context just 10 years ago. Electric flight was something belonging in the books of the French science-fiction writer Jules Verne but not in the direct context to one major commercial airplane manufacturer based in Verne's country. In only eight years the e-flight movement has dramatically gained momentum and Airbus has become a sort of a pacesetter in this fast growing field which is almost daily changing and is for some of traditional aviators simply confusing.
+
+The Airbus order books are full, new models and increasing production rates create a friendly economic climate for investment in alternative programs and are facilitating a shift to electric propulsion. This shift - which started for Airbus some 10 years ago - was not easy, was and still is risky as there are not ""safe, proven paths"" so the experience has to be made in-house. Airbus apparently clearly sees the potential of an electric aerospace revolution. Is this investment going to be profitable one day? Who knows, but if you don't start early with small steps you will never reach the target.
+
+Airbus has started doing those small steps early, much earlier than other market subjects, and this more than a decade ago. It started small, very small with a homebuilt one-seater Cri-Cri in 2010 and is now ""flying high"" on a hype wave created by the door-to-door personal transportation and urban taxi, creating milestones like Vahana, CityAirbus, E-Fan X, and dreaming of a partially electric-powered commuter like Airbus 20XX single aisle aircraft in a decade or so.
+
+Airbus and other manufacturers have the chance to go along this path with now unknown end results driven by the system ""hope"" and recent experience. This is an insecure and uncomfortable path for an established airplane manufacturer but if they don't take a chance now, new entrants from the nonaviation field will take (and are already taking) those opportunities.
+
+So, is aircraft electrification the next chapter in Airbus' aviation future? This is not a question of if, but of when and how much.
+
+To achieve good results Airbus understood early that it had to go into unexplored terrain and is doing this in a smart way, thinking out of the box, partnering with established/experienced industrial subjects like Siemens, and encouraging and acquiring brave start-ups coming from nonaviation fields.
+
+We can see a clear acceleration in the launch of development projects at Airbus since approximately 2015 for one- to four-passenger urban air taxi/UAV type of craft. Typical developments in this area are currently targeting a limited range of up to 50 km, with vertical takeoff and landing (VTOL) and all-electrical propulsion to give the benefits of low noise pollution and zero emissions. Many of these developments have advanced and made ground-breaking progress starting in Europe with help of Airbus sponsoring and joint ventures.
+
+At Airbus by mid 2015, Paul Eremenko was named the founding CEO of Airbus Group Silicon Valley technology and business innovation center, which marked the beginning of the above mentioned acceleration. He was responsible for establishing Airbus's Silicon Valley presence. This process is now in the hands of Airbus digital transformation officer Marc Fontaine who took over as acting chief technology officer after the departure of Eremenko at the end of 2017. Fontaine, who already reports to chief executive officer Tom Enders, became DTO in May 2016, responsible for all aspects of digital technology across the Group’s Divisions, as well as Airbus Group Corporate IT and the cyber security program. Enders said by mid 2017 that Airbus Group has to change, following the example of SpaceX and similar cultures favoring disruptive technology. For him staying the same is not an option. Enders said at the Airbus Media Days prior to the Paris Airshow 2017, that Airbus has seen disruptive technologies turning the table on some of its best businesses. This must not happen to its core business in the commercial airplanes unit.
+
+A large number of electrical propulsion projects at Airbus are underway, with several first flights planned for the coming years.
+
+Airbus Electrification, the time-line
+
+To better understand the process Airbus went through, here is a timeline.
+
+2010 Cri-Cri
+
+2011 e-Genius
+
+2011 DA36 E-Star
+
+2013 DA36 E-Star 2
+
+2014 E-Fan 1.0
+
+2015 E-Fan 1.1
+
+2015 E-Fan 2.0
+
+2016 E-Fan 1.2
+
+2016 Siemens Extra 330LE
+
+2017 Vahana
+
+2018 CityAirbus
+
+2020 E-Fan X
+
+20XX New Single Aisle Aircraft
+
+(MB, Image, Airbus pdf timeline presentation delivered)
+
+Brief History of Airbus Electric Aerospace Revolution
+
+2010 Cri-Cri
+
+Here are the roots of all Airbus electric airplanes. The project started in 2010 when Airbus sponsored an electric variant of the Colomban Cri-Cri, homebuilt monoplane. Its two, single-piston, two-stroke, 15-hp combustion engines were replaced with four MGM Compro units twirling contrarotating propellers and producing in total 60 hp. With less than 30 minutes of endurance, it had limited utility but it was an important proof of what is possible and the beginning of the Airbus electric flight journey. Cri-Cri had a takeoff weight (including the pilot) of just 175 kg (390 pounds).
+
+(MB. Image delivered, credit Airbus)
+
+2011 e-Genius
+
+The e-Genius electric aircraft made news in 2011 when it stayed airborne for over two hours while maintaining an average speed of 100 mph (160 km/h), on a single 56 kwh battery pack. The e-Genius has been developed at the Institute of Aircraft Design at the University of Stuttgart, Germany under leadership of Professor Rudolf Voit-Nitschmann and was built by a team of students between October 2010 and May 2011. E-Genius, the motorglider, derived from the solar motorglider Icaré II from 1996, was fitted later in 2006 with the fuel-cell propulsion system, then called Hydrogenius. Both have been awarded with the Berblinger-Prize of the City of Ulm, Germany.
+
+The e-Genius is a two-seater aircraft in high wing configuration, all composite made and equipped with a retractable landing gear. The propulsion is realized by a single permanent magnet synchronous motor with an electrical driven variable-pitch propeller. The diameter of this tractor configured propeller is 2.20 m (7.3 feet). The electric motor sits on top of the vertical stabilizer and was designed and manufactured for the e-Genius by the Slovenian company Sineton. Four lithium-ion battery packs are located behind the pilots in the aircraft center of gravity. The total capacity of this battery system is about 56 kwh. In July 2015 it crossed the Alps from Germany, over Switzerland, to Italy and back in a single day ""burning"" only some $25 of electric energy.
+
+(MB. Image delivered, credit Airbusor Marino Boric)
+
+2011 DA36 E-Star
+
+E-Star was the next step in the EADS (European Aeronautic Defence and Space Company NV, a previous name of Airbus) electric journey - first time shown in 2011. It moved from a battery-powered, all-electric airplane that was inherently limited by the energy density of batteries to a hybrid-electric architecture that relied on the combustion energy of hydrocarbon fuel but combined it with the flexibility of an electric propulsion system. It was developed by EADS in collaboration with German company Siemens and Austrian aircraft manufacturer Diamond Aircraft. The DA36 E-Star was the world's first series-hybrid electric aircraft and was based on the heavily modified Diamond HK36 two-seat motor glider. The E-Star’s propeller is driven by a 94-hp (70 kw) Siemens electric motor. Electricity is produced by a Siemens generator driven by a small Wankel engine made by Diamond, operating at a constant low output of only 40 hp (30 kw). Quiet, pure electric take-offs were possible due to the capacity of the battery system.
+
+(MB. Image delivered, credit Airbus)
+
+2013 DA36 E-Star 2
+
+""2"" stands for a second generation of a serial hybrid electric airplane and was exhibited at Paris/Le Bourget airshow in 2013. It introduced an integrated drive system, significantly improving the power-to-weight ratio of the hybrid-electric propulsion system. Siemens developed an integrated drivetrain for the second generation of the airplane DA36 E-Star 2. It consists of two main components: The electric drive and a generator, which is powered by a small Wankel engine. The hybrid motor glider made a successful one-hour maiden flight at the Wiener Neustadt airfield in Vienna, Austria, on June 1, 2013. EADS CEO Tom Enders, Siemens CEO Peter Löscher, and Diamond Aircraft owner Christian Dries signed an MoU in Le Bourget on June 18, 2013 setting the course for their future cooperation on electric aircraft development.
+
+(MB. Image delivered, credit Airbus)
+
+2014 E-Fan 1.0
+
+The E-Fan series was born in 2014. This two-seater aeroplane in tandem configuration improved the efficiency of electric flight with a purpose-built aircraft. The all-composite made airplane featured an uncommon propulsion system consisting of two electric motors totaling 60 kw of power and ducted propellers located on the aft portion of the fuselage. The aircraft was developed by Airbus Group and Aero Composites Saintonge and absolved the maiden flight on March 11, 2014 with the test pilot and designer Didier Esteyne. In December 2014 Airbus announced that Daher-Socata would complete the design work on the aircraft. VoltAir, an Airbus subsidiary, developed the initial prototype and worked with Daher-Socata during the testing phase as the project manager.
+
+(MB. Images delivered, credit Marino Boric or Airbus)
+
+2015 E-Fan 1.1
+
+On July 10, 2015, the Airbus E-Fan flew from Lydd Airport in England to 46 miles (74 km) distant Calais in France in 36 minutes at an altitude of about 3,500 feet. The E-Fan's undercarriage consists of a central (fuselage) retractable fore and aft wheels, and miniature fixed gear wheels under the wings. E-Fan featured a simple and rudimentary ""e-taxi"" system; the main wheel was powered via light metal chain by a 6 kw electric motor, which allowed the plane to be taxied without the main motors, and which accelerated the aircraft for take-off to 60 km/h (32 knots).
+
+(MB. Images delivered, Aircraft and e-taxi, credit Marino Boric)
+
+2015 E-Fan 2.0
+
+A mock-up of this aircraft project was first shown at the Paris Airshow in 2015. Two production variants were initially planned, a two-seater E-Fan 2.0 for use as a pilot trainer, and the E-Fan 4.0 four-seat GA-style, touring aircraft. The E-Fan 4.0 looked similar to the E-Fan 2.0 but had a longer and more convectional looking fuselage. E-Fan 4.0 would have had some sort of hybrid-electric system which would have increased flight duration from two hours to 3.5 hours. The first flight of the E-Fan 2.0 was originally planned for 2017 and the E-Fan 4.0 for 2019. Booth E-Fan project(s) were later stopped in favor of the E-fan X.
+
+(MB. Image delivered, credit Marino Boric)
+
+2016 E-Fan 1.2
+
+Airbus brought to AirVenture 2016 a variant of the E-Fan 1.1 called 1.2. The aircraft had instead two seats, as the 1.1 model, only one front seat - the rear seat was removed in favor of a range extender, a two-stroke engine, and electric generator. E-Fan 1.2 uses its batteries and electric motors during takeoff and landing and the gasoline power plant during cruise. It flew for the first time in France in mid July 2016. In Oshkosh Airbus announced that the four-seater 4.0 will not go into production, and will not be built as a prototype. The two-seater 2.0, according to the Airbus staff present, was only a feasibility study, intended to show the potential that lies in this technology.
+
+(MB. Image delivered, credit Marino Boric)
+
+2016 Siemens Extra 330LE
+
+The Extra 330LE aerobatic plane was debuted at AERO 2016 in Germany. It made its first flight in July 2016. Airbus’ partner Siemens exhibited an aircraft that had nearly 10 times the power level of all its predecessors. The Extra 330LE, built by Walter Extra from Germany, is a high-performance, Extra aerobatic airplane, which has been modified to fly with an electric motor delivering 260 kw of power (348 hp) in a 50 kg (110-pound) package - a 500 percent improvement in power density over previous generations of motors. The 330LE demonstrated its ripeness and validity of a project by setting many world records. In December 2016, it set a world record for fastest-climbing airplane in its class. In March 2017, the Extra 330LE was timed at 337.5 km/h (209.7 mph) and officially became the fastest electric airplane with MTOW less than 1,000 kg. At the Paris Airshow in 2017 it was daily flying and towing a glider.
+
+(MB. Image delivered, credit Marino Boric)
+
+2016 EAS House
+
+Airbus and Siemens have partnered on a ground test facility in Munich called the Electric Aircraft Systems House (EAS House). It is Airbus' primary development laboratory for electric propulsion technology and is able to test power systems in excess of 20 mw. It is where Airbus is developing the power system behind CityAirbus - its much larger, four-seat, all-electric VTOL aircraft that is core to Airbus' Urban Air Mobility strategy. A first flight is scheduled to take place next year.
+
+(MB. Image delivered, credit Airbus)
+
+2016 Skyways
+
+The Skyways drone is a fully autonomous octocopter that flies parcels in containers located on its underside along routes called ‘aerial corridors’ to and from designated stations where it is automatically loaded or unloaded. In February 2016, Airbus Helicopters signed an agreement with the Civil Aviation Authority of Singapore for “Project Skyways” to experiment with, and develop the regulations, technologies, and operational requirements to safely operate a drone parcel delivery service in urban environments. The project signed up Singapore SingPost in April 2017 as its logistics partner to trial small parcel delivery via autonomous drones to designated stations on the campus of the National University of Singapore. The Unmanned Air System (UAS) has successfully completed its first flight demonstration at the National University of Singapore (NUS) on Feb. 8, 2018.
+
+(MB. Images delivered, credit Airbus)
+
+2017 Vahana
+
+Vahana is the next technological breakthrough in urban air mobility according to Airbus. Project Vahana intends to open up urban airways by developing the first certified electric, self-piloted vertical takeoff and landing (VTOL) passenger aircraft. Airbus envisions Vahana being a cost-comparable replacement for short-range urban transportation like cars or trains. A core premise of this project is that full automation and sense-and-avoid technology will allow it to achieve higher safety levels by minimizing human error while allowing more vehicles to share the sky. As a platform, Vahana can be as diverse as its wheeled grounded counterparts when being used for cargo delivery, emergency services, search and rescue, or even as a tool to deploy modular infrastructure in disaster sites.
+
+Vahana, the all-electric, self-piloted, vertical takeoff and landing aircraft built by Airbus' innovation outpost in Silicon Valley, A³, successfully completed its first full-scale flight test, reaching a height of 5 meters (16 feet) before descending safely. The test was completed at 8:52 a.m. Pacific on Jan. 31, 2018 at the Pendleton UAS Range in Pendleton, OR. Its first flight, with a duration of 53 seconds, was fully self-piloted and the vehicle completed a second flight the following day.
+
+(all electric drivetrain. MB. Images delivered, credit Airbus)
+
+2018 CityAirbus
+
+The CityAirbus is a self-piloted electric VTOL (vertical takeoff and landing) multicopter which uses for propulsion four ducted rotors, each fitted with two direct-drive electric motors (100 kw each, Siemens SP200D) which spin fixed pitch propellers. Its rotors do not swivel, the cabin resembles that of the modern helicopter and should be capable to haul up to four passengers on 65 knots (120 km/h) speed with 15 minutes autonomy. It is intended for short flights in dense urban areas, with the aim of connecting major transportation hubs. The full-scale demonstrator will be tested on ground initially.
+
+Recently, in December 2017, the CityAirbus program reached another important milestone: the completion and “power on” of the “iron bird” in the ground test facility in Taufkirchen, Germany. This enables the verification of the entire electric propulsion system of CityAirbus, developed by Airbus’ E-Aircraft Systems unit. The first fully electric propulsion test bench has the capability to operate the propulsion system chain from flight controls to the dynamic loads of the propellers. After being maturated and verified on the ""iron bird,"" the propulsion system will be embedded on the demonstrator by mid 2018. The first flight is scheduled for the end of 2018. In the beginning, the test aircraft will be remotely piloted, but later a test pilot will be on board. Airbus is aiming to operate the craft along fixed, predetermined routes, with top air speeds of around 80 mph. Only short flights are now planned as today’s batteries are not capable of longer flights. Fast battery unit swapping or autonomous dock charging is expected.
+
+2020 E-Fan X
+
+Dropping plans to produce an E-Fan 1.0, 2.0, and 4.0 family of personal aircraft, Airbus has moved into developing a larger, more powerful aircraft, the E-Fan X, that could fly within three to four years.
+
+Airbus, Rolls-Royce, and Siemens announced in January 2018 that they have formed a partnership - bringing together some of the world’s foremost experts in electrical and propulsion technologies. The goal is to develop a near-term flight demonstrator which will be a significant step forward in hybrid-electric propulsion for commercial aircraft partially powered by electricity in 2020.
+
+The E-Fan X project will be based on a modified commercial, 100-seater, BAe 146 regional aircraft. The trio believes, it could lay the groundwork for commercial flights with the same electric technology as early as 2025.
+
+The companies will start by using a 2 mw electric motor as one of the aircraft's four engines. This flight demonstrator, a commuter jet, will see one of the engines replaced by an electric motor driven by an integrated turbine-generator in the fuselage in a serial hybrid architecture. If tests are successful, a second fuel-driven engine could be swapped out for an electric motor. Airbus has picked on 2 mw because it sees this is at the upper limit of what’s attainable with more-or-less conventional power distribution technology without having to master superconductivity or other exotic approaches.
+
+This demonstrator should eliminate some of the integration risks associated with a serial hybrid architecture at this scale. Integration risks such as thermal management, electromagnetic interference, arcing, partial discharge, and radiation effects on high-power electrical systems at operating altitude. The ultimate goal is to enable a hybrid-electric propulsion architecture for a single-aisle aircraft at the scale of the A320 family. This takes Airbus into the power range of around 20 mw for cruise and 40 mw of max power - another order of magnitude over the E-Fan X.
+
+20XX New Single Aisle Aircraft
+
+In several Airbus presentations we could see - and from talks with their representatives - we could perceive the remote target on this path called Airbus 20XX of which little was disclosed. This is going to be a technological successor of the E-Fan X project and should enter service as a commercial single aisle airliner.","{'label': 'Positive', 'score': 0.9840787649154663}",positive,0.9840787649154663,1
+"Blade completes Series B Financing, enters alliance with Airbus - Vertical Magazine","Mon, 26 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vdmVydGljYWxtYWcuY29tL3ByZXNzLXJlbGVhc2VzL2JsYWRlLWNvbXBsZXRlcy1zZXJpZXMtYi1maW5hbmNpbmctZW50ZXJzLWFsbGlhbmNlLWFpcmJ1cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Fly Blade Inc., the digitally powered short-distance aviation leader which services 22 core routes in seven states, has completed its Series B Financing. Lead investors Colony NorthStar and Lerer Hippeau were joined by Airbus Helicopters and LionTree Ventures. Approximately $38 million was raised.
+
+Concurrent with the financing, the company enters an alliance with Airbus Helicopters to provide customer and helicopter operator technology solutions and on-the-ground customer experience management for the Airbus Ride helicopter service in the Dallas market.
+
+Airbus Ride has operated for two years and will be co-branded with Blade. Additionally, Blade and Airbus will jointly explore launching an intra-city helicopter service in an international market to be determined this year. This jointly owned service will be Blade’s first new market launch overseas.
+
+The company will use the proceeds from the financing to expand the depth of schedule for its core routes, accelerate the rollout of new markets, and to continue to fortify the Blade brand.
+
+“Airbus Helicopters continues to develop the future of the urban air mobility (UAM) market, and our alliance with Blade is the next logical step in our quest to offer customers the full spectrum of urban air travel solutions,” said Matthieu Louvot, executive vice president of customer support and services for Airbus Helicopters. “By partnering with Blade, we are setting a strong foundation for the future, which will be the successful deployment of electronic vertical take-off and landing (eVTOL) systems.”
+
+“Blade has created a very desirable and highly recognized brand by offering a compelling aviation experience to a new generation of fliers — and its world-class booking platform and strong aviation operator technologies remain unmatched,” said Eric Hippeau, managing partner of Lerer Hippeau. “We look forward to the team continuing to build upon their success in new markets both in the U.S. and abroad.”
+
+“Given Colony’s strong real estate expertise, as well as its Los Angeles headquarters location, we look forward to working with the Blade team on expanding their West Coast presence, as well as helping to identify future landing zones for both helicopters and next-generation eVTOL aircraft,” said Justin Chang, managing director, Colony NorthStar","{'label': 'Positive', 'score': 0.9999831914901733}",positive,0.9999831914901733,1
+Indonesian ministry plans to acquire two Airbus A400M airlifters - Defense News,"Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAxOC8wMy8wOS9pbmRvbmVzaWFuLW1pbmlzdHJ5LXBsYW5zLXRvLWFjcXVpcmUtdHdvLWFpcmJ1cy1hNDAwbS1haXJsaWZ0ZXJzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"MELBOURNE, Australia — Indonesia’s Ministry of State-Owned Enterprises looks set to purchase two Airbus A400M airlifters under a unique agreement that will see the aircraft flown and maintained by crews from the Indonesian Air Force.
+
+The Air Force said March 7 in an announcement that the aircraft will be used to assist the state-owned PT Perusahaan Perdagangan Indonesia, also known as Persero, in the distribution of goods in eastern Indonesia.
+
+Air Chief Marshal Yuyu Sutisna, chief of staff of the Indonesian Air Force, added during a meeting in Indonesia’s capital Jakarta with the director of Persero, Agus Andiyani, that the service was ready to contribute air and ground crew to assist the company in operating the A400M.
+
+Persero’s main business activity is the import, export and distribution of consumer and industrial products throughout Indonesia, and the addition of the A400Ms is intended to improve availability and bring down prices of these items in the country’s remote eastern regions. Indonesia is an archipelago with more than 6,000 inhabited islands containing a population of 258 million people, stretching from the eastern Indian Ocean to Papua New Guinea from east to west, and from Borneo south of the Philippines to the Timor and Arafura Sea north to south.
+
+If the deal is concluded, it would see Indonesia become the second country in Asia to operate the A400M after Malaysia, which is flying four of the type.
+
+RELATED
+
+When contacted for comment, an Airbus spokesperson referred Defense News to earlier remarks by the head of military aircraft at Airbus Defence and Space, Fernando Alonso, who said “the A400M will be an outstanding asset to support Indonesia‘s vision of creating an air bridge to help redistribute wealth and resources across the archipelago as well as providing the basis for the expansion of our long-standing industrial cooperation.”
+
+He added that the “A400M´s advanced design and exceptional performance make it extremely well-qualified to play a key role in creating a safe and robust air transport network for Indonesia.” The company representative saw it as having potential to be the “basis for the transformation of the Indonesian Air Force’s air mobility operation.”
+
+Alonso was speaking in response to Indonesia’s Pelita Air, which is majority-owned by Indonesia’s state-owned oil and gas company Pertamina, having signed a letter of intent to acquire an unspecified number of A400Ms during then-French President François Hollande’s visit in March 2017.
+
+The acquisition of the aircraft by another ministry could be a way for Indonesia’s military to get around its own budget restrictions to operate the A400M.
+
+It had previously expressed an interest in the type to complement its fleet of Lockheed Martin C-130B/H Hercules airlifters, although reports in early January 2017 that the acquisition of A400Ms had been budgeted for were wide of the mark, with the country’s defense budget facing weak growth, increasing by 1.2 percent in 2017 following a reduction the year before.
+
+Mike Yeo is the Asia correspondent for Defense News.","{'label': 'Neutral', 'score': 0.9999198913574219}",neutral,0.9999198913574219,0
+Airbus Foundation launches youth development programme in the Philippines - Airbus,"Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1haXJidXMtZm91bmRhdGlvbi1sYXVuY2hlcy15b3V0aC1kZXZlbG9wbWVudC1wcm9ncmFtbWUtaW4tdGhl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Airbus Foundation, together with its partner “The Little Engineer” has launched the “Airbus Little Engineer” programme in the Philippines. The goal of the initiative is to encourage students between the age of 10 and 16 to understand and embrace technology, and ignite passion that could grow into an exciting career in the fields of Science, Technology, Engineering and Mathematics (STEM).
+
+The workshop, held at the De La Salle University Laguna Campus in Manila, introduced 15 students to the world of space exploration and enhanced their understanding of both the benefits and applications of space technology. Over the course of five hours, students assembled and launched a rocket, set up a base and established communications.
+
+“We are very excited to kick off the Airbus Little Engineer in the Philippines and to work with such highly motivated students to spark their interest in science and technology”, said Andrea Debbane, Executive Director of the Airbus Foundation. “The Airbus Little Engineer programme helps to facilitate access to STEM skills which are crucial in solving the complex problems of today. I would like to thank all partners for joining efforts and making this project possible in the Philippines.”
+
+This follows the series of workshops conducted in Singapore earlier, which aim was to train employees to deliver workshops in the whole region, helping students to understand the growing importance of STEM skills in society.
+
+Since its launch in 2012, the Airbus Little Engineer programme successfully positioned itself as an effective vehicle for discovery-based learning, working to enlighten and empower youth in the areas of science and technology through robotics and aerospace. It is running in more than 12 countries world-wide and has reached more than 4,000 students.","{'label': 'Positive', 'score': 0.9998486042022705}",positive,0.9998486042022705,1
+"Blade raises $38 million, partners with Airbus - Helicopter Investor","Fri, 23 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmhlbGljb3B0ZXJpbnZlc3Rvci5jb20vbmV3cy85Mjg0My9ibGFkZS1yYWlzZXMtMzgtbWlsbGlvbi1wYXJ0bmVycy13aXRoLWFpcmJ1cy03Mjkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Blade raises $38 million, partners with Airbus
+
+news by Alasdair Whyte 23 March 2018 Print this page
+
+It has been a busy week for Blade. The privately-owned online helicopter charter company has raised $38 million from its second round of financing and has partnered with Airbus to manage the Airbus Ride helicopter service in Dallas.
+
+The capital was raised from Blade’s financial backers, including Airbus, real-estate investment firm Colony NorthStar and venture capital firms Lerer Hippeau and LionTree Partners.
+
+Proceeds from this financing will be put towards expanding Blade’s core routes and help rollout the service on new markets.
+
+Eric Hippeau, managing partner of Lerer Hippeau said: “Blade has created a very desirable and highly recognized brand by offering a compelling aviation experience to a new generation of fliers–and its world-class booking platform and strong aviation operator technologies remain unmatched. We look forward to the team continuing to build upon their success in new markets both in the U.S. and abroad.”
+
+Blade charters flights on 22 core routes across seven different states and utilises a mixed fleet of helicopters, seaplanes, turboprops and jets.
+
+Flying partner
+
+From here on, Airbus Ride will be co-branded with Blade. Blade is being brought on board to provide new technology solutions and on-the-ground customer-experience management to the Ride service for its Dallas flights.
+
+The partnership is considering expanding the Ride service outside of the US – with further announcements coming this year.
+
+Airbus Ride is a booking service that contracts Part 135 charter flights on Airbus Helicopters. Right now, it contracts flights at major events, including short flights around sports events and music concerts.
+
+Matthieu Louvot, executive vice president of customer support and services for Airbus Helicopters said: “Airbus Helicopters continues to develop the future of the urban air mobility (UAM) market, and our alliance with Blade is the next logical step in our quest to offer customers the full spectrum of urban air travel solutions.”
+
+eVTOL
+
+Blade does not operate its own fleet but utilises existing helicopter and Jet fleets to fly both internal and city-to-city flights across the US.
+
+Blade was established with the goal of eventually chartering eVTOL charter flights when the technology is fully established. With Airbus developing its own eVTOL – the Vahana – and buying up other city charter services with eVTOL aspirations such as Voom, the partnership makes sense.
+
+Mr Louvot added: “By partnering with Blade, we are setting a strong foundation for the future, which will be the successful deployment of electronic vertical take-off and landing (eVTOL) systems.”","{'label': 'Positive', 'score': 0.6499711275100708}",positive,0.6499711275100708,1
+Airbus launches the longest range widebody in the below 300 seat market - Leeham News and Analysis,"Tue, 20 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxOC8wMy8yMC9haXJidXMtbGF1bmNoZXMtdGhlLWxvbmdlc3QtcmFuZ2Utd2lkZWJvZHktaW4tdGhlLWJlbG93LTMwMC1zZWF0LW1hcmtldC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"By Bjorn Fehrm
+
+March 20, 2018, ©. Leeham News, Toulouse: Airbus launched the 251t version of the A330neo in Toulouse today. The new weight variant increases the range of the A330-800 and A330-900, making the A330-800 the longest range airliner in the 250- to 300-seat segment.
+
+Airbus also presented an update on the progress of the A330neo program, now in the middle of flight tests.
+
+The A330neo program
+
+At the core of the A330neo program is the change from engines designed in the late 1980s to updated Boeing 787 Trent 1000 engines.
+
+The Rolls-Royce Trent 7000 is a derivative of the Trent 1000-TEN, which was updated with core technology from the Airbus A350’s Trent XWB engines.
+
+Another important change for the A330neo is wings with new winglets (once again based on A350 technology) combined with an adapted wing twist, Figure 3.
+
+The number one slat has a smoother integration with the wing and the flat track fairings have been reshaped to an A350 derived shape. With a wingspan of 64m versus the 61m of the 787, the A330neo wing now has a higher aspect ratio than the 787’s wing.
+
+The A330neo also has an A350 derived cabin, based on the Airspace cabin program. In figure 4, it’s hard to see there are two different cabins presented, A330neo to the left and A350 to the right.
+
+By moving the pilot crew rest to a common crew rest and introducing new lavatories with smaller footprints, the A330neo cabin can take up to 10 passengers more than the A330ceo cabin at equal seating and comfort standards.
+
+The first A330neo Airspace cabins are fitted to the A330neo launch customer’s A330-900s, TAP Air, Figure 5.
+
+The A330-900 and -800 were launched and developed simultaneously, Figure 6. The extra cost of developing the smaller -800 is negligible as the variants have over 99% commonality.
+
+The -900 is now halfway through its flight test program, with A330-800 starting flight test soon. Among the tests completed are hot and cold testing, Figure 7.
+
+Part of the reason for bringing the A330-800 to market is the expected replacement market for the A330-200. This model entered the market five years after the -300 model, Figure 8 and 9.
+
+Sales picked up for the model 2005-2008, therefore the replacement market is dragging the A330-300 replacement market with about five years or more.
+
+The Boeing 787 was designed to kill the A330, which had killed the 767 for Boeing. It didn’t quite happen, Figure 10.
+
+The resulting strong sales of the A330 means it’s now the most spread widebody aircraft with 107 passenger airlines operating the models. Figure 11 shows the operational spectrum for the A330. It’s unusually broad. The size of the bubbles shows the size of the fleet.
+
+Longer range versions
+
+The longest flight duration in Figure 11 will increase further. Airbus today formally launched the 251t version of the A330neo, both for the -900 and -800 versions. This increases the maximum range of the models, where the -800 now flies longer than Boeings longest range 787, the 787-9, Figure 12.The variants will be available from 2020.
+
+Boeing states the full passenger range for the 787-9 as 7,635nm. Conditions for the A330-800 and the 787-9 are not the same. We will put both in our performance model, weed out the differences and report the apples-to-apples range difference between the two in an up-and-coming article.
+
+Figure 13 shows the development of the Maximum Take-Off Weight over the years and by it the range of the A330 variants.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Neutral', 'score': 0.9999877214431763}",neutral,0.9999877214431763,0
+"Airbus and Audi's Pop.Up Next concept is part passenger drone, part driverless car - New Atlas","Wed, 07 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbmV3YXRsYXMuY29tL2FpcmJ1cy1hdWRpLXBvcC11cC1uZXh0LWRyb25lLzUzNzAwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus has combined its aerial prowess with the ground-vehicle know-how of Italdesign and Audi to produce an audacious mobility concept called Pop.Up Next. As a successor to the original Pop.Up concept revealed at last year's Geneva Motor Show, the two-seat travel solution on display at this year's show can both drive autonomously on the road and lift into the air vertically, looking to beat city traffic by plucking people right out of the thick of it.
+
+At the heart of the Pop.Up Next concept is a simple two-seat passenger cabin that can travel one of two ways. The simpler and more conventional route involves attaching to a 60-kW (80-hp) electric powered sled and assuming the role of a self-driving car. Top speed is listed at 100 km/h (62 mph) and it would rely on a 15-kWh battery for a 130-km (81-mi) range.
+
+But let's say you find yourself caught in gridlock. Using the vehicle-sharing app that accompanies the Pop.Up Next, users can hail one of the system's air modules, which would be deployed from a charging station nearby, latch onto the vehicle's roof and lift the formerly frustrated commuter the hell outta there. The air module can fly 50 km (31 mi) on each charge of its 70-kWh battery, using eight electric motors to zip over cities at 540 km/h (336 mph).
+
+The Pop.Up Next concept on show at Geneva Motor Show C.C. Weiss/New Atlas
+
+Sounds simple right? Sure, with all sorts of technical and regulatory obstacles to speak of, it will be anything but. However, the ability to easily switch between transport modes when and where it's convenient to streamline urban mobility definitely sounds like a good idea on paper..
+
+There isn't a substantial difference from a design viewpoint between the original Pop.Up and 2018's Pop.Up Next. Audi's participation is new, however, with the automaker bringing its autonomous vehicle and battery expertise to the party, while also working with Airbus to design the cabin's interior.
+
+That includes a 49-inch touchscreen that incorporates eye-tracking and speech and facial recognition, along with redesigned seats that use a mix of aluminum framing and ultralight meshing to keep weight low. The designers do say that the Pop.Up Next weighs far less than the 2017 version.
+
+At the heart of the Pop.Up Next concept is a simple two-seat passenger cabin that can travel one of two ways
+
+They also claim to have reworked the aerodynamics and rotor ducts to improve performance and power consumption, and have integrated a new titanium locking mechanism to couple and decouple the modules. Ultimately, these would be identical for both the ground and air modules, using onboard sensors during approach to align three coupling points, though the finer details of this remain a work in progress.
+
+The Pop.Up Next certainly seems pretty out there in terms of transport concepts, though Airbus and Italdesign share the belief that this kind of system could actually take flight within seven to 10 years. Airbus has been very active in the passenger drone space, recently test flying a full-scale version of its Vahana flying taxi, and autonomous driving technologies continue to come along in leaps and bounds.
+
+In the meantime, we can just use concepts like the Pop.Up Next to imagine a future where common urban folk aren't limited to ground travel, and don't have to deal with traffic as a result. It is on show at Geneva Auto Show this week, where New Atlas is on the ground bringing you other crazy concepts, along with real-life vehicles that'll be hitting the showroom soon.
+
+The video below shows how the concept would work.
+
+Source: Audi","{'label': 'Neutral', 'score': 0.9999510049819946}",neutral,0.9999510049819946,0
+"Turkish Airlines selects A350 XWB, lifting its fleet to new heights - Airbus","Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy10dXJraXNoLWFpcmxpbmVzLXNlbGVjdHMtYTM1MC14d2ItbGlmdGluZy1pdHMtZmxlZXQtdG8tbmV3LWhlaWdodHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus newest widebody aircraft for leading Turkish carrier
+
+Istanbul-based Turkish Airlines has signed a Memorandum of Understanding (MoU) to acquire 25 A350-900 aircraft plus five options, underlining its strong confidence in the global market-dynamism and growth.
+
+
+
+“This significant order will continue to enable our flag carrier to further compete, expand and reach new short and long-range destinations nonstop from our hubs in Istanbul, and Ankara.” said M. İlker Aycı, Turkish Airlines Chairman of the Board and the Executive Committee. “As Turkish Airlines, we are committed to offering our passengers on every route the best flying experience possible and we order on that promise as the Airbus’ A350 XWB provide comfort and convenience in spacious cabins, all matched with seamless reliability.”
+
+
+
+“We are extremely proud at Airbus to count Turkish Airlines as a new A350 operator, the world’s most modern and efficient widebody aircraft.” said Eric Schulz, Chief Commercial Officer, Airbus'. ”This order strengthens and expands the long-lasting partnership between Airbus, Turkish Airlines and Turkey overall.”
+
+
+
+Turkish Airlines currently operates an Airbus fleet of 167 aircraft with a further 92 A321neo on backlog.
+
+Turkey is an integral part of the Airbus supply chain for almost 20 years, being a partner in all Airbus aircraft programmes, including the prestigious A350 XWB.
+
+The A350 XWB is an all new family of mid-size wide-body long-haul airliners shaping the future of air travel, featuring the latest aerodynamic design, carbon fiber fuselage and wings, plus new fuel-efficient Rolls-Royce Trent XWB engines. Together, these latest technologies translate into unrivalled levels of operational efficiency, with a 25 per cent reduction in fuel burn and emissions, and significantly lower maintenance costs. The Airspace cabin which, on top of the aircraft spaciousness and quietness, provides better ambience, design and services, contributing to superior levels of comfort and well-being, and setting new standards in terms of flight experience for passengers in all classes.
+
+At end February 2018, Airbus has recorded a total of 854 firm orders for the A350 XWB from 45 customers worldwide.","{'label': 'Positive', 'score': 0.9999997615814209}",positive,0.9999997615814209,1
+Pressure mounts on Airbus A330 in widebody order battle - Yahoo Finance,"Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9haXJidXMtZmlnaHRzLWRlZmVuZC1hMzMwLW9yZGVyLWRlY2lzaW9ucy1sb29tLTE2MzE1OTM0MS0tZmluYW5jZS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"FILE PHOTO: A pilot celebrate in an Airbus A330neo aircraft after its maiden flight event in Colomiers near Toulouse, France, October 19, 2017. REUTERS/Regis Duvignau (Reuters)
+
+By Tim Hepher
+
+PARIS (Reuters) - Imminent airline decisions on $10 billion of wide-body plane orders could influence the fate of Airbus' <AIR.PA> A330neo even before the recently upgraded jet completes flight trials, industry sources said.
+
+A Tuesday announcement from Hawaiian Airlines that it had dropped its order of six Airbus A330neos in favor of 10 787-9 Dreamliner jets by rival Boeing <BA.N> was a sharp blow to the suffering wide-body program.
+
+American Airlines <AAL.O> said in January it was reviewing the Boeing 787-9 Dreamliner and shorter-range Airbus A330-900, which is in test flights before entering service this summer.
+
+The U.S. airline aims to buy some 25-30 wide-body jets and could make a decision in coming days, one of the sources said.
+
+""We are still evaluating our widebody options,"" a spokesman for the airline said.
+
+Even Boeing's most vigorous supporters doubt Airbus would give up on the A330neo, which is key for its bottom line, but the contest marks the latest in a series of battles between Boeing's newest long-haul jet in the air, the 787 Dreamliner, and upcoming A330neo - a market-share feud that has consumed the two planemakers for the past nine months or more.
+
+Level, a long-haul budget carrier recently set up by British Airways owner IAG <ICAG.L>, is also closing in on an order for about 8 planes in the same segment, the sources said.
+
+""We'll wait and see and we'll take advantage of whatever aircraft is available,"" IAG boss Willie Walsh said on Tuesday.
+
+Airbus has had patchy results with the latest version of its money-spinning A330, relaunched in 2014 with efficient new Rolls-Royce <RRR.L> engines, and has made boosting sales one of its top priorities this year.
+
+A330 family output has fallen to six a month from a peak of 10, making the success or failure of Airbus's only profitable wide-body line a key topic for investors.
+
+""The A330 makes money and generates cash, while absorbing a great deal of overhead,"" said Sash Tusa, aerospace analyst at Agency Partners, adding that its long list of customers was useful to Airbus when it came to marketing other planes.
+
+Story continues
+
+HAWAII SWITCH
+
+Jitters over the future of the A330neo became apparent when AirAsia, one of Airbus's largest customers, toyed with the idea of switching to Boeing's 787.
+
+Its decision to uphold an order for 66 jets, first reported by Reuters, eased pressure on the A330neo but analysts say that could change if it feels too exposed as the dominant buyer..
+
+The last major A330neo order was for 28 planes from IranAir but doubts are growing whether that can be implemented any time soon due to U.S. concerns about a nuclear sanctions deal.
+
+Industry sources agree Airbus is under intense pressure to win at American, preventing further output cuts and gaining valuable bragging rights in future contests across Asia.
+
+Keeping the A330neo in the game would also leave less space for a new mid-market plane that Boeing is thinking of launching as early as this year - a 225-275-seat model that partly competes with the A330 family.
+
+An Airbus spokesman declined to comment on specific contests, but said, ""Many campaigns are ongoing, building on the 110 airlines who are operating the A330 family today.""
+
+After trouncing Airbus in wide-body sales last year, Boeing aims to seize the advantage by targeting Airbus’s slow-selling A330neo with further sales of its competing 787.
+
+Some analysts have speculated Boeing would also revive the passenger version of its 767 as a cheaper alternative to the A330, but an executive ruled this out.
+
+But keeping A330neo output to a minimum would leave Airbus increasingly dependent on one model, the much newer A350-900, for its position in the wide-body market - mirroring Boeing's predicament in the Airbus-led narrowbody market.
+
+As the two marketing armies chase around the globe to the next 787-A330 dog fight, Australia's Qantas <QAN.AX> and Air New Zealand could be next to step into the battle, sources said.
+
+(Reporting by Tim Hepher; Additional reporting by Alana Wise, Sarah Young, Victoria Bryan; Editing by Alexander Smith and Cynthia Osterman)","{'label': 'Neutral', 'score': 0.9890692830085754}",neutral,0.9890692830085754,0
+"Hawaiian Airlines buys Boeing 787 Dreamliners, cancels Airbus order - Business Insider","Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGF3YWlpYW4tYWlybGluZXMtYnV5cy1ib2VpbmctNzg3LWRyZWFtbGluZXItY2FuY2Vscy1haXJidXMtb3JkZXItMjAxOC0z0gFsaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oYXdhaWlhbi1haXJsaW5lcy1idXlzLWJvZWluZy03ODctZHJlYW1saW5lci1jYW5jZWxzLWFpcmJ1cy1vcmRlci0yMDE4LTM_YW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"Hawaiian Airlines has ordered 10 Boeing 787-9 Dreamliners worth as much as $2.82 billion at list prices.
+
+Boeing and Hawaiian also agreed to an option for 10 additional Dreamliners.
+
+Hawaiian confirmed that it has canceled its order for six Airbus A330-800neo airliners.
+
+Advertisement
+
+Hawaiian Airlines has agreed to order 10 Boeing 787-9 Dreamliners worth up to $2.82 billion at list prices. The airline also announced that it has selected General Electric's GEnx engines to power its fleet of Dreamliners.
+
+""The Dreamliner combines excellent comfort for our guests with fantastic operational performance and will allow us to continue modernizing our fleet into the next decade,"" Hawaiian's new president and CEO Peter Ingram said in a statement. ""It has more seating capacity than Hawaiian’s current wide-body fleet, which will allow us to further build upon our successful growth in Asia.""
+
+The Hawaiian order comes at the end of an aggressive and highly contentious sales between Airbus and Boeing. Although small in scale relative to the orders coming from Asia and the Middle East, the Hawaiian order marks a significant victory for Boeing.
+
+Hawaiian's current flagship Airbus A330-200. Hawaiian Airlines
+
+As important as selling Dreamliners to Hawaiian Airlines may be to Boeing, the blow it dealt to Airbus' already struggling A330neo is of greater significance.
+
+Advertisement
+
+Years ago, Hawaiian placed an order for six Airbus A330-800neo widebody airliners on order. Even with the prototype gearing up for test flights, it remained the only six orders Airbus had for the plane. On Tuesday, Hawaiian Airlines confirmed to Business Insider that the A330-800neo order has been canceled.
+
+Tuesday order marks a dramatic turn of fortune for Boeing.
+
+Hawaiian's now canceled Airbus A330-800neo. Airbus
+
+Even though Hawaiian flies Boeing 717-200s on routes within the Island, its long-haul fleet is dominated by Airbus. This includes Hawaiian flagship fleet of 24 Airbus A330-200 and an incoming fleet of 16 Airbus A321neos. At the same time, Hawaiian had been expediting the retirement of its Boeing 767-300ER fleet and replacing them with new Airbus aircraft.
+
+Hawaiian and Boeing also agreed to an option for 10 additional 787s, which could push the value of the 20-plane deal past the $5.5 billion. However, it should be noted that it is customary for highly sought after airline customers receive heavy discounts from manufacturers, sometimes at a rate of more than 50%.
+
+Advertisement
+
+The Honolulu-based airline is expected to receive the first of its Dreamliners during the first quarter of 2021.","{'label': 'Positive', 'score': 0.999997615814209}",positive,0.999997615814209,1
+U.S. Army orders 35 UH-72A Lakota helicopters from Airbus Helicopters - Military Embedded Systems,"Tue, 13 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbWlsaXRhcnllbWJlZGRlZC5jb20vYXZpb25pY3MvY29tcHV0ZXJzL3Utcy1hcm15LW9yZGVycy0zNS11aC03MmEtbGFrb3RhLWhlbGljb3B0ZXJzLWZyb20tYWlyYnVzLWhlbGljb3B0ZXJz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"U.S. Army orders 35 UH-72A Lakota helicopters from Airbus Helicopters
+
+News
+
+Lisa Daigle Assistant Managing Editor Military Embedded Systems
+
+Photo: Airbus Helicopters
+
+GRAND PRAIRIE, Texas. Airbus Helicopters, Inc. recently won a contract valued at approximately $273 million to deliver 35 additional UH-72A Lakota rotary-wing aircraft to the U.S. Army.
+
+Under the terms of the contract, Airbus Helicopters will build and deliver UH-72A production aircraft, associated technical and flight operator manuals, and program management. The contract is split into two parts: The first will send 17 UH-72A Lakotas to the Initial Entry Rotary Wing mission at Ft. Rucker, while the second will send 18 UH-72A Lakotas for the Observer/Controller mission at the Army’s Combat Training Centers.
+
+Work under the contract will be performed at the Airbus facility in Columbus, Mississippi. According to company documents, the UH-72A twin-engine light utility helicopter is used for a wide range of military operations including border patrol, MEDEVAC, troop and VIP transport, light cargo lift, and homeland security.","{'label': 'Neutral', 'score': 0.9998902082443237}",neutral,0.9998902082443237,0
+Helionix fleet hits 100000 flight-hour milestone - Airbus,"Thu, 01 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1oZWxpb25peC1mbGVldC1oaXRzLTEwMDAwMC1mbGlnaHQtaG91ci1taWxlc3RvbmXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Las Vegas, Airbus’ fleet of helicopters equipped with the Helionix avionics system have surpassed the symbolic milestone of 100.000 flight hours, just three years after customer operations started.
+
+Initially in service with the H145 and H175, this digital avionics suite was later certified in the H135 and in the future will equip the H160 as well as other helicopters in the current and future Airbus Helicopters product line.
+
+Designed by Airbus Helicopters to offer increased mission flexibility and operational safety, Helionix grew out of operators’ need for a more powerful avionics system with greater functions and computing capacity, but which was easier to use and relied on fewer displays. It comprises two computers and a one-of-a-kind cockpit layout with up to four electronic displays designed to improve pilots’ situational awareness in flight.
+
+“Helionix is a family concept that has been hailed by users for its intuitive human machine interface and autopilot, features which allow pilots to concentrate more fully on the flight itself and increase flight safety” declared Jean-Jacques Mevel, Head of Helionix Program. “We keep investing on Helionix with regular software enhancement, which lately included bolstering the SAR capabilities as well as the Rig N’ Fly automatic oil platform mode approaches”.
+
+The avionics suite includes a four-axis autopilot to reduce pilot workload, and a First Limit Indicator in which engine instrument data is shown under one indicator. A GPS navigation and communication system and a Traffic Advisory System complete the suite, while a mission system, including Digital map, a Helicopter Terrain Avoidance System and a Synthetic Vision System, give pilots full situational awareness.
+
+Next step will involve enhancing functions like the Automated Dependent Surveillance-broadcast, the Synthetic Vision System and the Helicopter Terrain Awareness and Warning System advanced modes as well as proposing connectivity advanced solutions.
+
+At present, more than 250 helicopters are today operated with Helionix, involving over 40 operators worldwide and carrying out a wide range of missions including EMS, law enforcement, Police, Oil&Gas, SAR, VIP etc.
+
+About Airbus
+
+Airbus is a global leader in aeronautics, space and related services. In 2017 it generated revenues of € 67 billion and employed a workforce of around 129,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","{'label': 'Positive', 'score': 0.9970593452453613}",positive,0.9970593452453613,1
+Audi joins Italdesign and Airbus on Pop.Up autonomous flying car project - Motor Authority,"Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1vdG9yYXV0aG9yaXR5LmNvbS9uZXdzLzExMTU2NzJfYXVkaS1qb2lucy1pdGFsZGVzaWduLWFuZC1haXJidXMtb24tcG9wLXVwLWF1dG9ub21vdXMtZmx5aW5nLWNhci1wcm9qZWN00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"First Porsche expressed interest in a flying taxi, and now Audi has partnered with Airbus and Italdesign to bring a self-driving car with flying drone capabilities to life.
+
+Together, the companies presented the Pop.Up Next concept at the 2018 Geneva International Motor Show this week, an evolution of the Pop.Up concept unveiled by Airbus and Italdesign one year ago.
+
+The latest version of the concept adds self-driving capability on the ground using technology Audi is developing for its own self-driving cars of the future. Audi is also the parent of Italdesign within the Volkswagen Group.
+
+The Pop.Up Next is powered by electricity and on the ground can travel approximately 31 miles on a full charge. When it comes time to fly, the Pop.Up Next is designed to dock with a flight module being developed by Airbus. In the air, it's said to be capable of traveling 81 miles on a full charge.
+
+Pop.Up Next concept
+
+The project's backers have brought on numerous entities to help define the scope to one day make urban road and air transportation feasible. The list of entities involved include various municipalities, urban planners, and even sociologists.
+
+In parallel, Audi, Airbus and Italdesign continue to refine the design, making it lighter and more efficient. The biggest challenge is the docking system for the car and drone capability. Car and flight modules require very different operating and safety systems, and if the concept is ever to take off, it needs to operate in both transportation methods seamlessly.
+
+No word yet on when it might be ready for production.
+
+For more Geneva auto show coverage, head to our dedicated hub.","{'label': 'Neutral', 'score': 0.9997664093971252}",neutral,0.9997664093971252,0
+Airbus to roll out more Lakotas - Helicopter Investor,"Wed, 28 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmhlbGljb3B0ZXJpbnZlc3Rvci5jb20vbmV3cy85Mjg3NC9haXJidXMtdG8tcm9sbC1vdXQtbW9yZS1sYWtvdGFzLTAxMS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus to roll out more Lakotas
+
+news by Alasdair Whyte 28 March 2018 Print this page
+
+Airbus will finally start delivering on a 16 UH-72A Lakota order with the US Army after rival manufacturer Leonardo dropped a lawsuit that had delayed the order for two years in February.
+
+The French manufacturer signed the $116 million contract last week to begin delivery of the aircraft. This comes after a separate 35-aircraft Lakota deal signed earlier this month.
+
+The Army first decided to procure the 16 helicopters in 2016.
+
+In 2014, the US Army named the Lakota as its institutional training helicopter – a decision that caused Leonardo to file a complaint and restraining order against any further orders due to a supposedly ‘uncompetitive’ selection process. Leonardo dropped the restraining order against the 16-helicopter order after the order was repealed by the Federal Circuit in January.
+
+This contract requests 16 UH-72A aircraft outfitted in a training configuration, along with technical and flight-operator manuals and full training program management.
+
+Chris Emerson, president and CEO of Airbus Helicopters and head of the company’s North America operations said: “We are proud of our partnership with the U.S. Army. As the world’s best Helicopter Trainer provider, we recognize how important an asset the Lakota is for Army Aviation and our nation. Our employees at Airbus are committed to delivering every aircraft on-cost and on-schedule, without exception.”
+
+“Our mission of providing this vital national asset is crucial to the protection of our country and the closure of the pilot shortage gap.”
+
+Airbus has delivered more than 423 UH-72A Lakotas from its military aircraft facility in Columbus, Ms since the companies first Lakota contract in 2005.","{'label': 'Neutral', 'score': 0.9960166811943054}",neutral,0.9960166811943054,0
+Hawaiian Airlines CEO explains Boeing choice over Airbus - Business Insider,"Tue, 27 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGF3YWlpYW4tYWlybGluZXMtY2VvLWV4cGxhaW5zLWJvZWluZy1jaG9pY2Utb3Zlci1haXJidXMtMjAxOC0z0gFjaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oYXdhaWlhbi1haXJsaW5lcy1jZW8tZXhwbGFpbnMtYm9laW5nLWNob2ljZS1vdmVyLWFpcmJ1cy0yMDE4LTM_YW1w?oc=5&hl=en-US&gl=US&ceid=US:en,"Hawaiian Airlines recently announced an order for 10 Boeing 787-9 Dreamliners while canceling an existing order for six Airbus A330-800neos.
+
+The Dreamliner was selected after an intense sales competition between Airbus and Boeing.
+
+In an interview with Business Insider, Hawaiian Airlines CEO Peter Ingram explained why his company abandoned its long-standing Airbus order to go with Boeing.
+
+Advertisement
+
+On March 6, Hawaiian Airlines announced it would order 10 Boeing 787-9 Dreamliners with a list price of $2.82 billion. It was also the first major move the airline had made since Peter Ingram took over as president and CEO less than a week earlier.
+
+Ingram had been Hawaiian's chief commercial officer under Mark Dunkerley, who retired this month.
+
+For Boeing, the announcement proved to be a double shot of good news.
+
+Meanwhile, Hawaiian also confirmed it had canceled an order for six Airbus A330-800neos — the only six orders Airbus had for the aircraft type.
+
+Advertisement
+
+Hawaiian's decision to go with Boeing is the culmination of an intense and protracted sales competition between the 787-9 and the Airbus A330-900neo. As a result, Hawaiian is believed to have received a very substantial discount off the list price.
+
+""Both airplanes are terrific, and both had pros and cons,"" Ingram told Business Insider in a recent interview. ""Ultimately, we came to a conclusion after a disciplined and detailed process that the 787-9 is the right airplane for us.""
+
+A rendering of Hawaiian's canceled Airbus A330-800neo. Airbus
+
+Hawaiian's decision to go with Boeing surprised some. Over the past few years, Airbus had been on a roll with the Honolulu-based carrier. Hawaiian is replacing its Boeing 767-300s with smaller and more efficient Airbus A321neos. More significantly, the airline's current flagship is its fleet of two dozen Airbus A330-200s.
+
+Since the A330neo is an updated version of the A330 Hawaiian already has in service, it would make perfect sense to upgrade to the newer model of the plane.
+
+Advertisement
+
+In fact, Ingram called the A330neo order ""a natural extension"" for the airline.
+
+Related stories
+
+So how did Boeing manage to pull off the win?
+
+The story goes all the way back to 2008, when Hawaiian placed an order with Airbus that included six next-generation A350-800 jets.
+
+With room for about 280 people, the Dash 800 is the smallest member of the A350XWB family of carbon-composite wide-body jets. Though the European plane-maker was able to find plenty of buyers for the plane, the company decided to effectively give up on it in favor of developing the A330neo (""neo"" stands for new engine option). The neo would also be available in two sizes: the smaller A330-800 and the larger A330-900.
+
+Advertisement
+
+Hawaiian Airlines CEO Peter Ingram. Hawaiian Airlines
+
+As a result, in 2014, Hawaiian switched its order to the A330-800 from the A350-800.
+
+But Hawaiian would be the only airline to go with that plane, making Ingram and his team uncomfortable.
+
+""Unfortunately, the A330-800 has not proved to be as popular in the marketplace,"" Ingram said. ""But for us, it doesn't make sense to remain committed to an airplane that had the risk of not being sufficiently accepted in the marketplace in the future.""
+
+He continued: ""So the lack of orders for the A330-800 opened us up to having a competition to look at the wide-body platform for us going into the decade.""
+
+Advertisement
+
+The lack of industry acceptance creates all kinds of complications for airlines in terms of maintenance, service, and resale value.
+
+Hawaiian's current flagship Airbus A330-200. Hawaiian Airlines
+
+Ingram further explained his rationale. Though Hawaiian purchases an aircraft with plans to fly it for its entire service lift, Ingram also goes into it with the understanding that his company needs to remain nimble if the industry changes.
+
+""From a risk-management perspective, it's always prudent for us to consider what happens in the future if something affects the economics [of the business] and we need to make a change,"" he said. ""The fact that there are no other customers for that particular variant at this time put us in the position where, if we continued with the order, we would have very few options if we need to make a change.""
+
+In short, Hawaiian didn't want to be stuck with a plane no one else wanted.","{'label': 'Neutral', 'score': 0.9904404878616333}",neutral,0.9904404878616333,0
+Airbus fights to defend A330 as order decisions loom - Business Insider,"Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vci1haXJidXMtZmlnaHRzLXRvLWRlZmVuZC1hMzMwLWFzLW9yZGVyLWRlY2lzaW9ucy1sb29tLTIwMTgtM9IBYWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vci1haXJidXMtZmlnaHRzLXRvLWRlZmVuZC1hMzMwLWFzLW9yZGVyLWRlY2lzaW9ucy1sb29tLTIwMTgtMz9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"A pilot celebrate in an Airbus A330neo aircraft after its maiden flight event in Colomiers near Toulouse Thomson Reuters
+
+By Tim Hepher
+
+Advertisement
+
+PARIS (Reuters) - Imminent airline decisions on $10 billion of wide-body plane orders could influence the fate of Airbus' A330neo even before the recently upgraded jet completes flight trials, industry sources said.
+
+American Airlines said in January it was reviewing the Boeing 787-9 Dreamliner and shorter-range Airbus A330-900, which is in test flights before entering service this summer.
+
+The U.S. airline, which did not immediately respond to a request for comment, aims to buy some 25-30 wide-body jets and could make a decision in coming days, one of the sources said.
+
+Even Boeing's most vigorous supporters doubt Airbus would give up on the A330neo, which is key for its bottom line, but the contest marks the latest in a series of battles between Boeing's newest long-haul jet in the air, the 787 Dreamliner, and upcoming A330neo - a market-share feud that has consumed the two planemakers for the past nine months or more.
+
+Advertisement
+
+Level, a long-haul budget carrier recently set up by British Airways owner IAG , is also closing in on an order for about 8 planes in the same segment, the sources said.
+
+""We’ll wait and see and we’ll take advantage of whatever aircraft is available,"" IAG boss Willie Walsh said on Tuesday.
+
+Airbus has had patchy results with the latest version of its money-spinning A330, relaunched in 2014 with efficient new Rolls-Royce engines, and has made boosting sales one of its top priorities this year.
+
+A330 family output has fallen to six a month from a peak of 10, making the success or failure of Airbus's only profitable wide-body line a key topic for investors.
+
+Advertisement
+
+""The A330 makes money and generates cash, while absorbing a great deal of overhead,"" said Sash Tusa, aerospace analyst at Agency Partners, adding that its long list of customers was useful to Airbus when it came to marketing other planes.
+
+HAWAII SWITCH
+
+Related stories
+
+Jitters over the future of the A330neo became apparent when AirAsia, one of Airbus's largest customers, toyed with the idea of switching to Boeing's 787.
+
+Its decision to uphold an order for 66 jets, first reported by Reuters, eased pressure on the A330neo but analysts say that could change if it feels too exposed as the dominant buyer..
+
+Advertisement
+
+The last major A330neo order was for 28 planes from IranAir but doubts are growing whether that can be implemented any time soon due to U.S. concerns about a nuclear sanctions deal.
+
+Now, sources say Hawaiian Airlines has dropped an order for A330neos for the 787, a switch first reported by Leeham News.
+
+With that in mind, industry sources agree Airbus is under intense pressure to win at American, preventing further output cuts and gaining valuable bragging rights in future contests across Asia.
+
+Keeping the A330neo in the game would also leave less space for a new mid-market plane that Boeing is thinking of launching as early as this year - a 225-275-seat model that partly competes with the A330 family.
+
+Advertisement
+
+An Airbus spokesman declined to comment on specific contests, but said, ""Many campaigns are ongoing, building on the 110 airlines who are operating the A330 family today.""
+
+After trouncing Airbus in wide-body sales last year, Boeing aims to seize the advantage by targeting Airbus’s slow-selling A330neo with further sales of its competing 787.
+
+Some analysts have speculated Boeing would also revive the passenger version of its 767 as a cheaper alternative to the A330, but an executive ruled this out.
+
+But keeping A330neo output to a minimum would leave Airbus increasingly dependent on one model, the much newer A350-900, for its position in the wide-body market - mirroring Boeing's predicament in the Airbus-led narrowbody market.
+
+Advertisement
+
+As the two marketing armies chase around the globe to the next 787-A330 dog fight, Australia's Qantas and Air New Zealand could be next to step into the battle, sources said.
+
+(Reporting by Tim Hepher; Additional reporting by Alana Wise, Sarah Young, Victoria Bryan; Editing by Alexander Smith)","{'label': 'Neutral', 'score': 0.9973337650299072}",neutral,0.9973337650299072,0
+Airbus Aerial Announces Commercial Drone Services at Singapore Airshow 2018 - Drone Below,"Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZHJvbmViZWxvdy5jb20vMjAxOC8wMy8wOS9haXJidXMtYWVyaWFsLWFubm91bmNlcy1jb21tZXJjaWFsLWRyb25lLXNlcnZpY2VzLWF0LXNpbmdhcG9yZS1haXJzaG93LTIwMTgv0gFuaHR0cHM6Ly9kcm9uZWJlbG93LmNvbS8yMDE4LzAzLzA5L2FpcmJ1cy1hZXJpYWwtYW5ub3VuY2VzLWNvbW1lcmNpYWwtZHJvbmUtc2VydmljZXMtYXQtc2luZ2Fwb3JlLWFpcnNob3ctMjAxOC8?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus has launched the Asia-Pacific operations of its “Airbus Aerial” commercial drone services at the Singapore Airshow 2018. The newly established regional base of Airbus Aerial adds to two existing hubs based in Atlanta, U.S. and Munich, Germany.
+
+“We have chosen Singapore as the headquarters for our Asia-Pacific operations because it is a well-established regional hub with excellent connectivity to key countries such as Australia, India, Japan and China,” said Jana Rosenmann, Head of Unmanned Aerial Systems at Airbus. “It is also a great centre for innovation and potential partnerships, enjoying strong support from the local government for start-ups as well as the development of smart technologies.”
+
+Initially focussing on the development of new imagery services, Airbus Aerial leverages the latest software and aerospace technologies to provide actionable data and analysis of information provided by drones, satellites, high altitude aircraft and other sources. With its imagery services, Airbus Aerial targets a range of applications for industries such as insurance, agriculture, oil and gas and utilities, as well as state and local government
+
+During its first year in operation, Airbus Aerial played a critical role in the U.S., helping several major insurance companies assess damage and process claims faster than ever before. These results were achieved by providing before-and-after satellite imagery of affected areas and real-time imagery collected by drones during fly-overs. These images were then blended with proprietary Airbus data analytics to help insurers assess damage and prioritise resources.
+
+These initial services were provided in 2017, following Hurricane Harvey in the Houston, Texas area and Hurricane Irma in southern Florida and, more recently, after the devastating wildfires in California.
+
+The Asia-Pacific base of Airbus Aerial is led by Bernard Leong, who joined Airbus in January 2018. Previously, he was Head of Post Office Network and Digital Services at Singapore Post, with an extensive business and technology management background, including drone delivery and autonomous vehicles within the Asia-Pacific markets.
+
+The first target of the Singapore team will be to explore potential within the Asian regional insurance market and extend Airbus Aerial’s footprint from the U.S. and Europe to the Asia-Pacific region. It will gather information to provide relief and recovery in disaster prone regions with dedicated disaster management support, and also identify local possibilities including agriculture, critical infrastructure monitoring like power lines and railroad, and oil and gas mining where the business model may fit.
+
+Airbus Aerial Asia also aims in the next years to offer cargo drone services with autonomous logistic systems, applying the principle of supporting an open ecosystem while seeking strong partnerships with technology providers and drone operators in the Asian region.
+
+About Airbus Aerial
+
+Airbus Aerial is an aerial services business backed by Airbus, an international pioneer and leader in the aerospace industry. With bases both in the U.S. and in Europe, Airbus Aerial’s services leverage the best software and aerospace technology from across the globe to offer actionable data and analysis of information provided by drones, satellites, high altitude aircraft and other sources.
+
+About Airbus
+
+Airbus is a global leader in aeronautics, space and related services. In 2016, it generated revenues of € 67 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as Europe’s number one space enterprise and the world’s second largest space business. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Source: https://airbusaerial.com","{'label': 'Positive', 'score': 0.9992952346801758}",positive,0.9992952346801758,1
+"Boeing just won a major victory over Airbus by poaching one of its key US customers (HA, BA, GE) - Yahoo Finance","Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ib2VpbmctanVzdC13b24tbWFqb3ItdmljdG9yeS0yMzEwMDg2ODguaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Hawaiian Airlines boeing 787 Dreamliner
+
+Hawaiian
+
+Hawaiian Airlines has ordered 10 Boeing 787-9 Dreamliners worth as much as $2.82 billion at list prices.
+
+Boeing and Hawaiian also agreed to an option for 10 additional Dreamliners.
+
+Hawaiian confirmed that it has canceled its order for six Airbus A330-800neo airliners.
+
+Hawaiian Airlines has agreed to order 10 Boeing 787-9 Dreamliners worth up to $2.82 billion at list prices. The airline also announced that it has selected General Electric's GEnx engines to power its fleet of Dreamliners.
+
+""The Dreamliner combines excellent comfort for our guests with fantastic operational performance and will allow us to continue modernizing our fleet into the next decade,"" Hawaiian's new president and CEO Peter Ingram said in a statement. ""It has more seating capacity than Hawaiian’s current wide-body fleet, which will allow us to further build upon our successful growth in Asia.""
+
+The Hawaiian order comes at the end of an aggressive and highly contentious sales between Airbus and Boeing. Although small in scale relative to the orders coming from Asia and the Middle East, the Hawaiian order marks a significant victory for Boeing.
+
+Hawaiian Airlines Airbus A330
+
+Hawaiian AirlinesAs important as selling Dreamliners to Hawaiian Airlines may be to Boeing, the blow it dealt to Airbus' already struggling A330neo is of greater significance.
+
+Years ago, Hawaiian placed an order for six Airbus A330-800neo widebody airliners on order. Even with the prototype gearing up for test flights, it remained the only six orders Airbus had for the plane. On Tuesday, Hawaiian Airlines confirmed to Business Insider that the A330-800neo order has been canceled.
+
+Tuesday order marks a dramatic turn of fortune for Boeing.
+
+Airbus A330 800neo Hawaiian
+
+AirbusEven though Hawaiian flies Boeing 717-200s on routes within the Island, its long-haul fleet is dominated by Airbus. This includes Hawaiian flagship fleet of 24 Airbus A330-200 and an incoming fleet of 16 Airbus A321neos. At the same time, Hawaiian had been expediting the retirement of its Boeing 767-300ER fleet and replacing them with new Airbus aircraft.
+
+Story continues
+
+Hawaiian and Boeing also agreed to an option for 10 additional 787s, which could push the value of the 20-plane deal past the $5.5 billion. However, it should be noted that it is customary for highly sought after airline customers receive heavy discounts from manufacturers, sometimes at a rate of more than 50%.
+
+The Honolulu-based airline is expected to receive the first of its Dreamliners during the first quarter of 2021.
+
+NOW WATCH: A Wharton professor predicts what city Amazon will choose for their new headquarters
+
+See Also:
+
+SEE ALSO: These are the 9 best airlines in America
+
+FOLLOW US: on Facebook for more car and transportation content!","{'label': 'Positive', 'score': 0.9535748958587646}",positive,0.9535748958587646,1
+OPINION: A320 has repaid faith of Airbus - and governments - Flightglobal,"Thu, 29 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vb3Bpbmlvbi9vcGluaW9uLWEzMjAtaGFzLXJlcGFpZC1mYWl0aC1vZi1haXJidXMtYW5kLWdvdmVybm1lbnRzLzEyNzU3MC5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"There has been a lot of buzz around the single-aisle sector recently, with several significant production milestones following one after another.
+
+A month after Airbus handed over its 8,000th A320-family aircraft in February, Boeing went two thousand better with the 737. Now the European airframer has just passed the three-decade marker on the A320 programme, having delivered its first aircraft in March 1988.
+
+The achievements in Seattle and Toulouse are remarkable in their own way: the 737 for its longevity – the first delivery was over half a century ago – and the A320 in that the programme even got off the ground in the first place. Contrary to some early expectations, it has gone on to enjoy incredible global success.
+
+While the A320 is now the cornerstone of around half the world’s single-aisle fleet, its very existence was far from guaranteed back in the 1980s, when the fledgling “Airbus Industrie” was seeking a foothold in the mass-market sector of airliner production.
+
+At that time, Airbus was a consortium of European government-owned manufacturers needing launch aid to fund new projects. This was structured partly as a loan with a fixed repayment, with the balance repayable through a levy on each aircraft sold.
+
+Ralph Mortimer/REX/Shutterstock
+
+Back in 1984, Flight International estimated that to fund the launch and certification of the A320 airframe, Airbus needed £2 billion (around $2.8 billion at 1984 exchange rates). With costly, high-profile airliner project failures still fresh in its mind, the UK government’s support for the then British Aerospace’s involvement in Europe’s first single-aisle airliner joint-venture was initially uncertain.”I don’t want another Concorde on my hands,” warned then prime minister Margaret Thatcher.
+
+The government investment decisions were based on forecasts of demand for 3,200 150-seaters over the next 20 years. At that time, Airbus was modest in ambitions for market share, building a business case around 600 A320 sales.
+
+As it sought launch aid, the consortium had accumulated 96 A320 orders and commitments from five customers, including French state airlines Air France and Air Inter. While today that 600-sales target looks modest, back in the 1980s a successful European airliner project was a rarity, even though there was a sizable home market to tap. The incumbent Boeing 737 and McDonnell Douglas DC-9 dominated every market around the world.
+
+Airbus, meanwhile, still had much to do in order to shake off the image that it was little more than a national project run by a dysfunctional group of engineers, controlled by politicians. So it decided to grab the bull by the horns from a technology perspective.
+
+Former Airbus president Roger Béteille – who is seen as the “father” of the early products – has admitted that Airbus was perhaps too bold with the A320’s technical advances like fly-by-wire flight controls: “But we had no choice. Either we were going to be first with new technologies or we could not expect to be in the market.”
+
+But that bold approach has more than paid off. The A320 went on to establish Airbus on the global stage, and force its rivals to up their game. And with 30 years and over 8,000 deliveries behind it, the little twinjet has more than repaid the early faith of the supporting governments many times over, thanks to that clause requiring a levy on each sale.
+
+Source: Flight International","{'label': 'Positive', 'score': 0.9952316880226135}",positive,0.9952316880226135,1
+"Malaysia's AirAsia says still with Airbus, no plans to buy Boeing planes - Yahoo Finance","Thu, 01 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9tYWxheXNpYXMtYWlyYXNpYS1zYXlzLXN0aWxsLWFpcmJ1cy0wNzU0MTY2NDkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"FILE PHOTO: An AirAsia X Airbus A340 passenger jet arrives on its inaugural flight from Kuala Lumpur to Paris Orly Airport February 14, 2011. REUTERS/Charles Platiau/File Photo
+
+KUALA LUMPUR (Reuters) - Malaysian budget airline AirAsia Bhd (AIRA.KL) is sticking with Airbus (AIR.PA) and has no plans currently to purchase Boeing (BA.N) aircraft, Group CEO Tony Fernandes said at a press briefing late on Thursday.
+
+""Boeing is keen to have us as a customer...but right now we are still very much an Airbus customer,"" he told reporters.
+
+To a question if he had plans to buy Boeing planes, Fernandes said ""not at the moment"".
+
+Last month, Reuters reported that sources said AirAsia -Airbus' largest Asian customer - was set to confirm an order of wide-body jets from the European planemaker after Boeing tried to win the airline over and extend a lead in the lucrative long-haul market.
+
+On Thursday, the airline also announced the sale of its aircraft leasing operations to firms managed by BBAM Ltd, one of the world's largest aircraft portfolio managers, in a staggered deal that will see the budget carrier transfer ownership of up to 182 Airbus jets.
+
+The deal, valued at $1.2 billion in the first phase, will help the airline pare down debt and return money to shareholders, as well as give it firepower to grow its business.
+
+(Reporting by Liz Lee; Editing by Muralikumar Anantharaman)","{'label': 'Neutral', 'score': 0.9999569654464722}",neutral,0.9999569654464722,0
+"AUDI, italdesign + airbus unveil 'pop.up next', a self-driving car + passenger drone concept - Designboom","Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmRlc2lnbmJvb20uY29tL3RlY2hub2xvZ3kvYXVkaS1pdGFsZGVzaWduLXBvcC11cC1uZXh0LWFpcmJ1cy1zZWxmZHJpdmluZy1jYXItcGFzc2VuZ2VyLWRyb25lLTAzLTA2LTIwMTgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"at the 2018 geneva motor show, AUDI, italdesign and airbus are presenting the ‘pop.up next’ concept — a hybrid vehicle that blends a self-driving car and passenger drone with an aim to solve traffic problems in cities. the all-electric, fully automatic concept promises horizontal and vertical mobility. in the distant future, the ‘pop.up next’ could transport people in cities quickly and conveniently both on the road and in the air.
+
+
+
+‘pop.up next’ could transport people in cities quickly and conveniently both on the road and in the air
+
+together with AUDI and airbus, italdesign developed ‘pop.up next’ with an ultra-light, two-seater passenger cabin, which can be attached either to a car or flight module. internally, the dominant feature is a 49-inch screen which engages humans and machine through speech and face recognition, eye-tracking and a touch functions. meanwhile, AUDI is supporting the project with its expertise in battery technology and automation. ‘creativity is needed where new mobility concepts for cities and people’s diverse needs are concerned,’ says dr. bernd martens, AUDI board member for procurement and president of italdesign. ‘pop.up next is an ambitious vision that could permanently change our urban life in the future.’
+
+
+
+internally, the dominant feature is a 49-inch screen which connects humans and machine
+
+italdesign is the company behind future-oriented vehicle concepts for AUDI and customers around the globe. ‘various players will define the rules of urban mobility in the future,’ says jörg astalosch, CEO of italdesign. ‘we are proud to collaborate with airbus, the leading company in the aerospace industry, to investigate solutions for future mobility.’ astalosch envisions ‘pop.up’ next’ as a flexible on-demand concept that could open up mobility in the third dimension to people in cities. while an early version of ‘pop.up’ was premiered at the 2017 geneva motor show, the ‘next’ edition is significantly lighter than its predecessor and boats a completely redesigned interior scheme.
+
+
+
+‘pop.up next’ provides an ultra-light, two-seater passenger cabin
+
+
+
+the cabin can be attached either to a car or flight module","{'label': 'Neutral', 'score': 0.9997915625572205}",neutral,0.9997915625572205,0
+Babcock to operate the first fleet of H160s - Airbus,"Thu, 01 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1iYWJjb2NrLXRvLW9wZXJhdGUtdGhlLWZpcnN0LWZsZWV0LW9mLWgxNjBz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Las Vegas, 1 March 2018 – Babcock is set to become the global launch customer for the H160 after signing a five year frame agreement for the purchase of a fleet of H160s. The fleet of H160s is destined for EMS and other critical services missions starting in Europe and to be deployed progressively across Babcock’s bases worldwide. “The H160 was a natural choice for Babcock’s operations as its large cabin and low vibration levels and its state-of-the-art technology will make it a safe and comfortable environment for mission critical services to work in” said Roger Hardy, Chief Executive Aviation, Babcock International Group. “We are sure that the innovations that the H160 brings to the market will help us deliver our high standards of quality, safety and cost-effectiveness”.
+
+“We are proud that the largest civil helicopter operator has selected the H160 to become its next generation solution for saving lives. As the H160 launch customer, Babcock inaugurates a new era for helicopter operators” said Ben Bridge, Executive Vice President for Global Business at Airbus Helicopters. “In every aspect, from industrial production, to maintenance and fleet management and of course mission readiness, the H160 represents the new standard in helicopter capabilities for the next 30 years” he added.
+
+With 68 patents, the H160 integrates Airbus Helicopters’ latest technological innovations aimed at providing passengers with superior comfort thanks to the sound-reducing Blue Edge blades and superb external visibility for both passengers and pilots, not to mention the additional safety features provided by Helionix’s flight envelope protection and reduced pilot workload. Airbus Helicopters’ new industrial model, based on site specialisation and a plug and play component assembly process, has reduced the H160’s time to market to 24 weeks giving customers more flexibility. This will enable customers to confirm their mission configuration at later stage based on market needs.
+
+Babcock’s Aviation business provides mission critical services, ranging from aerial emergency medical services, aerial fire-fighting, Search and Rescue, Surveillance operations, and Oil and Gas transportation, in 14 countries with over 51 years’ experience in saving lives and protecting the environment.
+
+Be sure to follow Airbus Helicopters for all the news and events throughout the show:
+
+http://www.airbus.com/newsroom/events/HAI-2018.html.
+
+Twitter: @AirbusHeli
+
+
+
+Follow the adventures of the H160 in the US on #H160ReasonsWhy
+
+About Airbus
+
+Airbus is a global leader in aeronautics, space and related services. In 2017 it generated revenues of € 67 billion and employed a workforce of around 129,000. Airbus offers the most comprehensive range of passenger airliners from 100 to more than 600 seats. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","{'label': 'Positive', 'score': 0.9374791979789734}",positive,0.9374791979789734,1
+Aegean commits to 30 A320neo Family aircraft - Airbus,"Wed, 28 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAxOC0wMy1hZWdlYW4tY29tbWl0cy10by0zMC1hMzIwbmVvLWZhbWlseS1haXJjcmFmdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"New fleet will ensure airline's growth and market-leading position ‎far into the future
+
+Aegean ‎Airlines, the biggest airline in Greece, has signed a memorandum of understanding (MoU) with Airbus to purchase 30 A320neo Family aircraft, comprising 20 A320neos and 10 A321neos. The airline will also acquire a significant number of new A320neo family aircraft from leasing companies.
+
+Aegean currently operates a fleet of 46 Airbus aircraft (37 A320s, 8 A321s and 1 A319).
+
+Eftichios Vassilakis, Vice-Chairman of Aegean Airlines stated: “Aegean’s decision to select the latest generation Airbus A320neo Family follows an intense and exhaustive evaluation to determine the best aircraft for Aegean's growth and long-term success. These aircraft will be key for us to pursue our mission of providing services of high standards for our passengers on short and medium haul services.”
+
+“We are delighted that Aegean, an all Airbus customer, has chosen the bestselling single-aisle Family, becoming a new operator of the type. The commonality these aircraft offer along with lowest operating costs, longest range and a more spacious cabin make the A320neo Family the best choice for growing airlines such as Aegean,” said Eric Schulz, Airbus Chief Commercial Officer.
+
+The A320neo Family incorporates the very latest technologies including new generation engines and Sharklets, which together deliver at least 15 percent fuel savings at delivery and 20 percent by 2020. With some 6,000 orders received from nearly 100 customers, the A320neo Family has captured some 60 percent share of the market.
+
+The A321 is the largest member of the A320 Family and seats between 185 and 240 passengers, depending on cabin configuration. Incorporating the latest engines, aerodynamic advances and cabin innovations, the A321neo can fly up to 4,000 nautical miles (7,400 kilometres) non-stop – further than any other single-aisle airliner.
+
+","{'label': 'Positive', 'score': 0.9991094470024109}",positive,0.9991094470024109,1
+Airbus sells its first ACH160 - Helicopter Investor,"Mon, 05 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmhlbGljb3B0ZXJpbnZlc3Rvci5jb20vbmV3cy85MjY4MC9haXJidXMtc2VsbHMtaXRzLWZpcnN0LWFjaDE2MC04MzMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus sells its first ACH160
+
+news by Alasdair Whyte 5 March 2018 Print this page
+
+Airbus Helicopters has sold the first of its new ACH160 corporate helicopters.
+
+The unnamed North American business will be the launch customer for the ACH160. The helicopter will be outfitted in Airbus Corporate Helicopters ‘Stylence’ configuration and the remaining three will be delivered in the in-house exclusive configuration.
+
+“With the launch of Airbus Corporate Helicopters (ACH) last year, now followed by the first order of this new-generation helicopter by a corporate customer, the ACH160 is set to revolutionise the way our private and business aviation customers travel,” said Ben Bridge, executive vice president global business at Airbus Helicopters.
+
+The customer demonstrated the helicopter at ACH’s company headquarters in Marignane, France. The customer committed to the four-aircraft order after the demo.
+
+“The H160 is set to become a market reference for private and business aviation, for air medical services and for passenger transport in North America, revolutionising the way our customers travel,” said Chris Emerson, president of Airbus Helicopters and head of the North American region. “We look forward to supporting our customers as they gear up to operate this new-generation helicopter.”
+
+Airbus Corporate Helicopters launched last year and is promising a business jet-like passenger experience to customers, with lower noise levels and smooth flight.
+
+Speaking to Frederic Lemos, head of Airbus Corporate Helicopters at Helicopter Investor London 2018 last month, said that the ACH160 fills a gap in ACH’s portfolio – the super-medium VIP helicopter.
+
+“The ACH160 is generating a lot of interest but we have not started to deliver on orders. This is the first quarter we are starting to enter into contracts.
+
+“The market is expecting something else, with the competition introducing new products, and that is the ACH 160. This is the gap in the super-medium market we need to fill.” – he added.","{'label': 'Neutral', 'score': 0.9999837875366211}",neutral,0.9999837875366211,0
+SBAIR appointed official distributor and service centre of Airbus Helicopters in Turkey - Helicopter Investor,"Thu, 08 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5oZWxpY29wdGVyaW52ZXN0b3IuY29tL25ld3MvOTI3MzQvc2JhaXItYXBwb2ludGVkLW9mZmljaWFsLWRpc3RyaWJ1dG9yLWFuZC1zZXJ2aWNlLWNlbnRyZS1vZi1haXJidXMtaGVsaWNvcHRlcnMtaW4tdHVya2V5LTAxMS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"SBAIR appointed official distributor and service centre of Airbus Helicopters in Turkey
+
+news by Alasdair Whyte 8 March 2018 Print this page
+
+Airbus Helicopters has appointed SB Havacılık A.Ş. (SBAIR) as its new distributor and service center in Turkey. The Istanbul based company will represent the European manufacturer in Turkey and promote its civil product line.
+
+SBAIR was established in 2017 by Mr. Ercüment Bayegan (Bayegan Group) and Mr. Mehmet Yüksel Hocaoğlu (Swan Aviation). Bayegan Group was established in the 1940s, operating in the petroleum and petrochemical industry with 27 offices worldwide. Mr. Hocaoğlu has over 25 years of aviation experience and over 15 years of sales and management experience in business aviation market through Swan Aviation.
+
+SBAIR will act as a distributor and provide after-sales services in the areas of maintenance, logistics support and training support in Turkey for the Airbus civil helicopter fleet.
+
+Mickaël Peru, Airbus Helicopters’ head of Sales for Eastern EU & CIS, said: “We are pleased that we have found an experienced partner in Turkey, who will use his local expertise to serve our current and future customers in the best way possible, thus bringing a new dynamic in our approach to the market, particularly the proximity of support and services to our customers.”
+
+Mehmet Yüksel Hocaoğlu, Vice Chairman of SB Havacılık A.Ş., said: “The technologically advanced helicopters made by Airbus have a great potential in Turkey for commercial air transport as well as private and business aviation”.
+
+With a share of 50 percent of the global market in 2017 for civil and parapublic helicopters (turbine helicopters >5 seats), Airbus is the market leader in this segment. “We see a huge opportunity for growth in Turkey and our new distributor SB Havacılık A.Ş will help to further develop the use of helicopters in the country by being closer to the customers”, says Mickaël Peru.","{'label': 'Neutral', 'score': 0.9257023334503174}",neutral,0.9257023334503174,0
+Airbus wants helicopters to take on the world's worst traffic - CNBC,"Thu, 08 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTgvMDMvMDgvYWlyYnVzLXdhbnRzLWhlbGljb3B0ZXJzLXRvLXRha2Utb24tdGhlLXdvcmxkcy13b3JzdC10cmFmZmljLmh0bWzSAWVodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAxOC8wMy8wOC9haXJidXMtd2FudHMtaGVsaWNvcHRlcnMtdG8tdGFrZS1vbi10aGUtd29ybGRzLXdvcnN0LXRyYWZmaWMuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"The maker of the biggest passenger airplane is taking on a different kind of challenge: traffic jams.
+
+European aerospace giant Airbus is debuting its on-demand helicopter booking platform, Voom, in Mexico City on Thursday in an effort to drum up demand for choppers among well-heeled urban commuters sick of spending hours in traffic.
+
+Commuters in Mexico City spent an average of 58 hours in traffic last year, according to Inrix, which analyzes traffic data.
+
+""This is a real problem,"" said Uma Subramanian, Voom's chief executive. The Mexico City service will launch with set routes including between Mexico City's main international airport and the Toluca International Airport, a distance of about 50 miles (80 kilometers). The service is aimed at some of the wealthiest commuters in the city. A trip from the upscale Polanco neighborhood to Montes Urales will cost 2,000 Mexican pesos, around US$107. The trip between the airports costs 5,500 pesos, or about $294.
+
+The platform gives travelers the option to book a flight seven days in advance or up to an hour ahead of time. It is already available in Sao Paulo. The actual flying is supplied by outside helicopter operators.
+
+Both cities have severe traffic problems, but neither as worse as Los Angeles, which has the worst in the world, according to Inrix.
+
+Voom choose Mexico City because of its dedicated air traffic control and helicopter infrastructure, such as some 200 helipads, Subramanian said.
+
+The company now wants to expand the service to other cities, and is analyzing some candidates in Asia.
+
+Helicopter demand weakened following a slump in commodity prices from 2014, and orders are falling. Airbus said its order intake for its helicopter unit fell 5 percent last year from 2016, while demand for passenger jets is surging as record numbers of travelers take to the sky.
+
+The idea is that Voom, which was born in Airbus' Silicon Valley incubator A3, will get a new generation zipping around cities in helicopters.
+
+Airbus is developing a self-flying, electric, vertical-take off and landing, or VTOL, aircraft, called Vahana, which it said took its first test flight last month. Other companies, like Uber, are developing their own electric flying taxis.
+
+If you could get people flying today, there will be loyal customers by the time electric VTOL comes, Subramanian said. ""We create more demand.""","{'label': 'Negative', 'score': 0.5580034852027893}",negative,0.5580034852027893,-1
+Gallery: First Airbus BelugaXL transporter under construction - Aviation Week,"Fri, 23 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9nYWxsZXJ5LWZpcnN0LWFpcmJ1cy1iZWx1Z2F4bC10cmFuc3BvcnRlci11bmRlci1jb25zdHJ1Y3Rpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Gallery: First Airbus BelugaXL transporter under construction
+
+Next to BelugaXL 1, the second aircraft is already in production.
+
+One of the current Belugas, based on the A300-600ST model, takes off from Toulouse. The current Beluga fleet operated 100,000 hours in 2017 to 11 stations within the Airbus facility network.
+
+The aircraft is 63.1 m long, 18.8 m high, with a fuselage diameter of 8.8 m. The BelugaXL can carry a maximum payload of 52 metric tonnes nonstop over a range of 4,074 km/2,200 nm. The BelugaXL can transport two A350 XWB wings while the BelugaST could only transport one.
+
+In addition to the significant use of existing components and equipment, Airbus’ new BelugaXL will incorporate newly developed elements, including a lowered cockpit, cargo bay structure, and rear and tail section. The fleet of five BelugaXL aircraft will provide Airbus with an additional 30% extra transport capacity.
+
+The BelugaXL fleet will be operated by Airbus Transport International (ATI), an Airbus subsidiary airline. With a workforce of 230 people, ATI holds six airworthiness agreements required to support its fleet and unique know-how in the airline world.
+
+The BelugaXL is the successor of the current generation of Beluga, the BelugaST. The program was launched in November 2014 to address the transport capacity requirements in view of the A350 XWB ramp-up and other aircraft production rate increases. Airbus decided to expand its existing BelugaST fleet with the development and production of five new BelugaXL aircraft, derived from the company’s versatile A330 widebody product line.
+
+Based on the A330-200 freighter with a large re-use of existing components and equipment, the first BelugaXL aircraft is planned to enter service in 2019—operating in parallel with the existing five-aircraft BelugaST fleet. Five BelugaXLs should operate by mid-2022.
+
+ATW correspondent Kurt Hofmann was on site to get a closer look at the production line.","{'label': 'Neutral', 'score': 0.9999814033508301}",neutral,0.9999814033508301,0
+Aeroflot Expands Fleet with Four New Airbus A320 family aircraft - aviator.aero,"Thu, 29 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmV3c3Jvb20uYXZpYXRvci5hZXJvL2Flcm9mbG90LWV4cGFuZHMtZmxlZXQtd2l0aC1mb3VyLW5ldy1haXJidXMtYTMyMC1mYW1pbHktYWlyY3JhZnQv0gFjaHR0cHM6Ly9uZXdzcm9vbS5hdmlhdG9yLmFlcm8vYWVyb2Zsb3QtZXhwYW5kcy1mbGVldC13aXRoLWZvdXItbmV3LWFpcmJ1cy1hMzIwLWZhbWlseS1haXJjcmFmdC9hbXAv?oc=5&hl=en-US&gl=US&ceid=US:en,"Aeroflot has taken delivery of four new Airbus A320 family aircraft, including three A320 airliners and an A321 aircraft. All planes are equipped with aerodynamic wing-tips known as Sharklets.
+
+The VP-BIY A320 aircraft is named in honour of Valery Bryusov, a prominent poet, essayist, and editor, one of the founders of Russian Symbolism.
+
+The VP-BIF A320 airliner bears the name of Leonid Gaidai, the famed and popular comedy director.
+
+The VP-BII A320 jet is named after Sergei Dovlatov, one of the most popular Russian writers of the late 20th century.
+
+The A320 airplane is configured with 8 seats in business class and 150 seats in economy. Aeroflot operates Airbus A320 family aircraft across its European and domestic routes network. Airbus A320 satisfies the highest reliability, safety and comfort standards and is considered among the best for mid-range flights.
+
+The VP-BKZ A321 aircraft bears the name of Mark Bernes, an immensely popular singer mostly renowned for his songs of the years before, during and immediately after World War II.
+
+The airliner is designed in a new enhanced two class composition with 16 seats in business and 167 in economy. All A321 aircraft family are delivered to Aeroflot directly from the manufacturing plant in Hamburg. Aeroflot operates А321 aircraft across its European and domestic routes network.
+
+A321 airplanes satisfy the highest reliability, safety and comfort standards and are considered among the best for mid-range flights.","{'label': 'Neutral', 'score': 0.9716293811798096}",neutral,0.9716293811798096,0
+Army taps Airbus for 35 UH-72A Lakota helicopters - UPI News,"Fri, 09 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTgvMDMvMDkvQXJteS10YXBzLUFpcmJ1cy1mb3ItMzUtVUgtNzJBLUxha290YS1oZWxpY29wdGVycy85NDYxNTIwNjA0NDI0L9IBcGh0dHBzOi8vd3d3LnVwaS5jb20vYW1wL0RlZmVuc2UtTmV3cy8yMDE4LzAzLzA5L0FybXktdGFwcy1BaXJidXMtZm9yLTM1LVVILTcyQS1MYWtvdGEtaGVsaWNvcHRlcnMvOTQ2MTUyMDYwNDQyNC8?oc=5&hl=en-US&gl=US&ceid=US:en,"A U.S. Army UH-72A Lakota with Detachment 1, Alpha Company, 1-244, Aviation Security and Support Battalion, D.C. National Guard, lands at the D.C National Guard Armory, Washington D.C., January 19, 2017. Photo by Staff Sgt. Patrick P. Evenson/Army National Guard
+
+March 9 (UPI) -- Airbus Helicopters has been awarded a contract by the U.S. Army for 35 UH-72A Lakota aircraft. The deal, announced Thursday by the Department of Defense, is valued at more than $273.2 million under the terms of a firm-fixed-price contract. Advertisement
+
+The agreement between the Army and Airbus Helicopters taps the company to provide 35 UH-72A Lakota aircraft.
+
+The UH-72A is a twin-engine helicopter with a single, four-bladed main rotor.
+
+The helicopter is used in a domestic utility role to transport troops and supplies by the Army and National Guard, and has been in use since 2007.
+
+Work on the contract will occur in Columbus, Miss., and is expected to be complete by March 2021.
+
+More than $136.6 million will be obligated to Airbus Helicopters from Army fiscal 2017 and 2018 aircraft procurement funds.","{'label': 'Neutral', 'score': 0.9999301433563232}",neutral,0.9999301433563232,0
+Helicopter crash safety concerns persist at Heli-Expo - Vertical Magazine,"Tue, 06 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3MvaGVsaWNvcHRlci1jcmFzaC1zYWZldHktY29uY2VybnMtcGVyc2lzdC1oZWxpLWV4cG8v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The world’s largest helicopter trade show is traditionally a self-congratulatory time for the civil helicopter industry. But at HAI Heli-Expo 2018 in Las Vegas, Nevada, that mood was dampened by a fatal crash that occurred just two weeks before the show — highlighting longstanding industry failures in addressing occupant safety.
+
+Five British sightseeing passengers have now died as the result of the fiery crash of a Papillon Airways Airbus EC130 B4 at the Grand Canyon on Feb. 10: Becky Dobson, Stuart Hill, and Jason Hill, who died at the crash site; and newlyweds Jonathan Udall and Ellie Milward Udall, who died later while hospitalized in Las Vegas.
+
+Jonathan Udall’s parents have already filed a lawsuit against Papillon and Airbus Helicopters, claiming that their son would have survived had the EC130 B4 been equipped with a crash-resistant fuel system (CRFS). The Udalls’ lawyer, Gary Robb, recently represented David Repsher, the Flight For Life nurse who in 2015 sustained burns over 90 percent of his body when the Airbus H125 AStar he was riding in crashed and burned shortly after takeoff.
+
+Repsher received a $100 million settlement from Airbus and Air Methods Corporation on Feb. 1, just days before the Papillon crash. Robb previously secured a $38 million settlement in the 2001 crash of another Papillon sightseeing helicopter, a Eurocopter (now Airbus) AS350 B2. The sole survivor of that crash, Chana Daskal, also suffered severe burns over most of her body in the ensuing post-crash fire.
+
+While the lack of a CRFS in AS350 series helicopters, including the EC130 B4, has long been recognized as a safety problem, not until recently have operators had access to a solution. Although the newest version of the EC130, the H130 (previously known as the EC130 T2) entered service in 2012 with a CRFS as standard equipment, only since 2014 has a rupture-resistant fuel tank been available as an option for the H125 (AS350 B3e) and only since 2016 has it been standard on H125s manufactured in the U.S.
+
+Meanwhile, a CRFS did not become available for legacy AS350 and EC130 B4 helicopters until December 2017, when the U.S. Federal Aviation Administration (FAA) certified a retrofit kit developed by Robertson Fuel Systems and StandardAero. The Robertson/StandardAero tank is a direct replacement for most models of the AS350, including the H125.
+
+At Heli-Expo last week, StandardAero announced the signing of a memorandum of understanding with Papillon for 40 crash-resistant fuel tanks for Papillon’s fleet of AS350 B3 and EC130 B4 tour helicopters. Also at the show, StandardAero recognized the launch customer for the tank, Air Methods, which has committed to retrofitting its entire fleet with CRFS.
+
+At a ceremony at the StandardAero booth, Air Methods CEO Aaron Todd remarked, “[To] give you a sense of how anxious we were for this day to come, we received the first 20 tanks just a few weeks ago and already have 11 installed on our aircraft, and are going as fast as we possibly can. . . . We invite all of the operators to join with us and embrace this new technology, this new solution, so that we can expand the margin of safety in everything that we do.”
+
+It remains to be seen how many existing AS350 and EC130 operators will install the tanks proactively, rather than waiting for their hands to be forced by a catastrophic accident. However, with thousands of the models flying around the world, even a relatively low uptake of the Robertson/StandardAero solution could quickly overwhelm production capacity.
+
+For that reason, Chris Emerson — the president of Airbus Helicopters’ U.S. subsidiary, Airbus Helicopters, Inc. — is encouraging H125 operators to order rupture-resistant fuel tanks directly from Airbus, leaving more of the Robertson/StandardAero tanks available for legacy operators.
+
+“We need to get the volume and the supply chain ready to produce enough [to] meet demand. I think if you look at what Airbus and StandardAero can offer, we can work together,” Emerson told Vertical at Heli-Expo.
+
+“What I’m telling the customers [is] any B3e CRFS retrofit kit, you should buy from Airbus. And we’re going to incentivize that by selling them at cost,” he continued. Emerson said that cost is currently around US$70,000 to $80,000, depending on helicopter model, “and by the way, I’m going to keep working to get it lowered and lowered.”
+
+While post-crash fires have received most of the media attention recently, an FAA analysis of helicopter accident data from 2008 to 2013 found that blunt force trauma accounted for 80 percent of fatalities, even in accidents in which a post-crash fire was present.
+
+The FAA adopted more rigorous dynamic crashworthiness standards in 1989, and stricter fuel system crash resistance standards in 1994. But because both sets of standards apply only to helicopter models certified after the regulation dates, the same loophole that has allowed many new helicopters to be manufactured without CRFS has also allowed them to be sold with seats that do not protect occupants from the higher g forces specified in the 1989 standards.
+
+Currently, only the pilot and co-pilot seats in the H125 are energy-absorbing. When Vertical asked Airbus Helicopters in January whether the company intended to extend this protection, a company spokesperson responded, “There are no plans to introduce energy-absorbing seats for rear passengers.”
+
+At Heli-Expo, however, Emerson contested that statement.
+
+“I can tell you this: I don’t accept that as an answer, OK? Anything is possible and I do believe that it is possible to find a better solution on the AStar back seats than we have today,” Emerson told Vertical. “I for one am going to push the company like you cannot imagine it — because it’s the right thing to do.”
+
+Since the first of the year, five fatal helicopter accidents in the U.S. have resulted in a combined 16 deaths, according to National Transportation Safety Board data. That’s a troubling pace, given that there were a total of 20 fatal accidents and 34 associated fatalities in all of 2017, according to data released at Heli-Expo by the U.S. Helicopter Safety Team.
+
+While the number of fatal U.S. helicopter accidents in 2017 was slightly higher than in the preceding two years, it was still down from the 2013 peak of 30 fatal accidents, which resulted in a combined 62 fatalities. That year was recognized as a particularly deadly one for the U.S. helicopter industry, but 2018 is already on track to eclipse it, with the same number of fatal accidents and a higher number of fatalities than during the first two months of 2013.","{'label': 'Neutral', 'score': 0.9848063588142395}",neutral,0.9848063588142395,0
+Aegean Air picks Airbus for $5 billion order of 42 planes - Kathimerini English Edition,"Wed, 28 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVrYXRoaW1lcmluaS5jb20vZWNvbm9teS8yMjcxNjEvYWVnZWFuLWFpci1waWNrcy1haXJidXMtZm9yLTUtYmlsbGlvbi1vcmRlci1vZi00Mi1wbGFuZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Aegean Airlines will order 42 aircraft worth $5 billion (4 billion euros) from Airbus as Greece’s largest carrier renews its fleet of single-aisle planes, company executives said on Wednesday.
+
+The order is the largest by a Greek carrier and one of the biggest investments by a private Greek company since the country’s debt crisis broke out in 2010.
+
+Seeking to reduce maintenance costs, Aegean, a member of the Star Alliance airline group, had been weighing its options between the Airbus A320neo and Boeing’s 737 MAX.
+
+“Today is a very important day for Aegean,” Vice-Chairman Eftychios Vassilakis said during a news conference. “We confirmed our commitment to improve our competitiveness for signing a deal for an order of up to 42 aircraft.
+
+It is the third time in 19 years that the company is investing in new airplanes, Vassilakis said.
+
+Aegean said it had signed a Memorandum of Understanding with Airbus. The agreement, it said, included the firm order of 30 aircraft – of the A320neo family – with the option of 12 additional aircraft with new generation engines that offer fuel savings of 15 percent.
+
+The agreement is part of the company’s overall fleet expansion and renewal program, expected to take place between 2020 – 2025, Aegean said.
+
+The company wants to replace its aging mostly-Airbus jet fleet and add capacity for future expansion.
+
+The airline, which flies domestic and international routes, also owns former flag carrier Olympic Airlines, which was privatized in 2010. Most of its current leases need to be replaced between 2019 and 2023.
+
+Last year, Aegean grew full-year net earnings by 87 percent on an improved load factor and higher sales riding a strong tourism year. In 2016 it flew a total of 13.2 million passengers. [Reuters]
+
+","{'label': 'Positive', 'score': 0.9912168979644775}",positive,0.9912168979644775,1
+An updated guide to the four major helicopter manufacturers - Helicopter Investor,"Wed, 21 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmhlbGljb3B0ZXJpbnZlc3Rvci5jb20vaGVsaWNvcHRlci1ndWlkZS85MjgyNC9hLWd1aWRlLXRvLXRoZS00LW1ham9yLWhlbGljb3B0ZXItbWFudWZhY3R1cmVycy04NDQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"An updated guide to the four major helicopter manufacturers
+
+Helicopter Guide by Alasdair Whyte 21 March 2018 Print this page
+
+A quick look at the four major Helicopter manufacturers that Helicopter Investor covers.
+
+Airbus Helicopters
+
+Headquarters: Marseille Provence Airport
+
+Head of company: Guillaume Faury
+
+Airbus Helicopters is the biggest single operator in the global civil-helicopter market. The French manufacturer holds 50% of the civil and parapublic helicopter market sector and delivered more than 400 aircraft in 2017.
+
+Airbus Helicopters has a long and varied history that can be traced right the way back to Louis Blériot in France, and Willy Messerschmitt in Germany. The manufacturer, originally named Eurocopter, was formed in 1992 and operated under that name for 12 years until January 2014 when it merged with Airbus to form Airbus Helicopters.
+
+A year after the merger, Airbus Helicopters dropped the ‘EC’ prefix for its helicopter models and instead adopted the ‘H’ prefix that is seen on all commercial models currently in production.
+
+Back in the present, Airbus Helicopter’s main manufacturing site and headquarters are located at Marseilles Marignane Aiport in the south of France. Other key locations include the H135 and H145 manufacturing site in Donauwörth, Germany and Grand Prairie, Texas – the original headquarters of Vought Helicopter which later merged to become Eurocopter when it first launched in 1969.
+
+Current helicopters in production include civil and military models across the light to heavy categories. Its light single-engine offerings are the biggest sellers, but the medium twin-engine H145 and the long-range heavy H225 Super Puma families have also scored a lot of orders recently.
+
+Airbus has one new civil helicopter in development, its next-generation medium helicopter the H160. The 12-passenger medium-utility helicopter will start deliveries and enter into service in 2019. The H160 was launched at Heli Expo in 2015 under the prototype name X6.
+
+Leonardo Helicopters
+
+Headquarters: Rome, Italy
+
+Head of company: Alessandro Profumo
+
+What we know as Leonardo today was formed in July 2000 when parent companies of two manufacturers Agusta and Westland merged to form AgustaWestland. Westland’s parent company GKN sold its stake in the joint-venture to its partner Finmeccanica in 2004.
+
+Finmeccanica, which first launched in post-war Italy in 1948, bought up the newly established AgustaWestland and operated it under that name until January 2016 when Finmeccanica rebranded itself as Leonardo. AgustaWestland then became Leonardo Helicopters. Unlike Airbus, Leonardo has stuck with the AW prefix for its models.
+
+The manufacturer is headquartered in Rome, Italy and has bases in three other key markets: United Kingdom, Poland and the US. It also has a significant presence in France and Germany.
+
+Right now, the company’s 15-seat medium-class AW139 is its biggest seller, leading the way in its medium-utility class with the H160 coming in to compete next year. Its other popular civil-mission helicopters, including the AW119, AW169 and the AW189 have strong footholds in the light, medium and super-medium classes respectively.
+
+One of the most exciting upcoming helicopters is the AgustaWestland AW609 tiltrotor. Although tiltrotor technology has been in use by the military for some years, we’ve yet to see it used in a civil capacity.
+
+By having the rotor-blades change their position during different flight stages, a tiltrotor can transform from having a traditional helicopter-style profile that gives the helicopter vertical lift, to a turboprop-style aircraft, with forward-facing engines. This gives the AW609 the advantage of being able to land vertically, whilst still keeping the speed of a traditional turboprop aircraft. The AW609 is expected to ship in 2019 with Era as the launch customer.
+
+Bell
+
+Headquarters: Fort Worth, Texas
+
+Head of company: Mitch Snyder
+
+Bell’s history can be traced back to 1935 when founder and former stunt pilot Lawrence Dale Bell launched Bell Aircraft Corporation in Buffalo, New York. Back then, the manufacturer focused on building fighter aircraft and launched the first US-built fighter jet – the P-59 Airacomet. But to aircraft buffs Bell is perhaps best-known for its X-I rocket-powered plane which, piloted by Chuck Yeager, was the first manned aircraft to break the sound barrier.
+
+The company also launched the Bell 47, the first civilian helicopter certified by the Civil Aviation Authority in 1946. Over its production cycle, more than 5,600 of the aircraft were produced.
+
+Textron purchased the company in 1960, just a year after Bell launched one of its most-revered helicopter models, the UH-1 Huey. More than 16,000 Hueys were produced over its lifetime.
+
+At that point, Bell was split into three divisions, although only the helicopter division was still manufacturing complete aircraft. The company still produces civil and military helicopters and is currently developing a new military titltrotor, the V-280 Valor.
+
+Early in 2018, Bell Helicopter rebranded as Bell to move its brand away from its image as purely a helicopter manufacture to instead encompass all forms of flight. This goes along with its Uber partnership and an upcoming Air Taxi which is scheduled to launch in the mid-2020s. Whilst Bell wants to be known as more than a helicopter manufacturer, the greater proportion of its business still comes from manufacturing civil helicopters.
+
+Sikorsky, a Lockheed Martin Company
+
+Headquarters: Stratford, Connecticut
+
+Head of company: Dan Schultz
+
+Founded in 1923 by Ukrainian-born aircraft engineer Igor Sikorsky, the company began life designing and building traditional multi-engine aircraft and seaplanes from its base in New York. Four years later the company joined United Technologies Corporation (UTC) and moved its operations to Stratford, Connecticut where it is still based out of today.
+
+Following a merger with Vought Aircraft in 1928, Igor Sikorsky turned his attentions towards helicopters. The first aircraft, the VS-300, served as a test platform for the first Sikorsky production-build helicopter. The Sikorsky R-4 flew for the first time in 1942 and went on to deliver 131 units.
+
+Today, Sikorsky’s commercial core business is building medium-to-heavy-lift helicopters that are well known for their rugged performance. It is best known for the S-76, a commercial medium helicopter used by many coast guards and air forces around the world, and the heavy S-92 used mainly by oil and gas companies transporting workers between locations.","{'label': 'Neutral', 'score': 0.9999953508377075}",neutral,0.9999953508377075,0
+"AirAsia clinches $1.18 billion deal to sell its leasing arm, including 182 Airbus jets - CNBC","Thu, 01 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMTgvMDMvMDEvYWlyYXNpYS1jbGluY2hlcy0xLXBvaW50LTE4LWJpbGxpb24tZGVhbC10by1zZWxsLXVwLXRvLTE4Mi1haXJidXMtamV0cy5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMTgvMDMvMDEvYWlyYXNpYS1jbGluY2hlcy0xLXBvaW50LTE4LWJpbGxpb24tZGVhbC10by1zZWxsLXVwLXRvLTE4Mi1haXJidXMtamV0cy5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en,"AirAsia Berhad has achieved its goal of selling its leasing arm, clinching a $1.18 billion deal that includes the sale of up to 182 Airbus jets.
+
+The Malaysian low-cost airline announced Thursday the sale by its subsidiary Asia Aviation Capital Ltd to leasing entities and investors who will then lease most of the jets back to AirAsia and its affiliates.
+
+The jets will go to entities belonging to BBAM Limited Partnership, a major investment manager in commercial aircraft. AirAsia has been aiming to sell its aircraft leasing operations for the past year as part of a strategy to offload ""non-core assets and businesses,"" according to the group's CEO Tony Fernandes.
+
+The BBAM leasing and investing entities — FLY Leasing Limited, Incline B Aviation Limited Partnership, and Nomura Babock and Brown — will acquire a portfolio of 84 Airbus jets and 14 engines, most of which will be leased back to AirAsia. FLY and Incline have also agreed ""to acquire 48 aircraft to be delivered to AirAsia Berhad and an option to acquire a further 50 aircraft to be delivered,"" over the next three years, according to an AirAsia press release.
+
+As FLY Leasing acquires this major new aircraft portfolio, AirAsia will receive $50 million in FLY shares, giving it a 10.2 percent ownership of FLY. It will also invest $50 million into a fund belonging to Incline earmarked for global aviation investments.
+
+AirAsia, which has a fleet of more than 200 jets and flies to more than 165 destinations across 25 countries, is Airbus's second-largest customer and is expected to expand as Asia's middle-class grows.
+
+Both Airbus and its competitor Boeing have orders for their commercial aircraft, particularly the single-aisle planes favored by low-cost carriers, slated for the next seven years or more, making them appealing to long-term investors.
+
+""When we bought these planes, our gearing was high and some people could not see why we wanted to own these assets,"" Fernandes said. ""This deal shows it was the right strategy as we have something of value to dispose in return for cash and an equity relationship in two great companies, while removing residual risks.""","{'label': 'Neutral', 'score': 0.9998082518577576}",neutral,0.9998082518577576,0
+Audi gets in on the flying car action with Airbus and Italdesign - TechCrunch,"Wed, 07 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAxOC8wMy8wNy9hdWRpLWdldHMtaW4tb24tdGhlLWZseWluZy1jYXItYWN0aW9uLXdpdGgtYWlyYnVzLWFuZC1pdGFsZGVzaWduL9IBZ2h0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAxOC8wMy8wNy9hdWRpLWdldHMtaW4tb24tdGhlLWZseWluZy1jYXItYWN0aW9uLXdpdGgtYWlyYnVzLWFuZC1pdGFsZGVzaWduL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en,"The Geneva Motor Show is home to many supercars and outlandish apparitions, but the collaboration between Italdesign, Audi and Airbus on the Pop.Up Next flying car concept is one of the more out there. It’s an updated version fo the Pop.Up that Italdesign and Airbus brought to the show last year, this time including an Audi-branded components of the modular flying/driving system.
+
+The addition of Audi brings some car smarts, including expertise in battery electric ground-based vehicles and autonomous driving, while Airbus has been refining its quadcopter top and working together with the design firm and the automaker on how to better hand off the two-seat passenger capsule between the wheels on the ground and the rotors in the sky.
+
+[gallery ids=""1604233,1604234,1604235,1604236,1604237,1604238""]
+
+The capsule itself features its own built-in battery pack, which then pairs up with larger batteries in both the ground module (aka big skateboard) and the air module (the drone-looking thing). The passenger module itself is little more than a reinforced cockpit, with large, nearly full glass doors for easy ingress and egress.
+
+What I like about this design is that it eliminates a lot of the issues around how and where a flying-driving vehicle would land, and what kind of expertise would be required to operate it, both of which are huge sticking points on the PAL-V, for instance. But PAL-V aims to ship soon, whereas a lot of product development work needs to move beyond the R&D phase to make this Italdesign/Airbus/Audi concept a reality.
+
+Still, it could make for some super great chase scenes in movies.","{'label': 'Neutral', 'score': 0.9970699548721313}",neutral,0.9970699548721313,0
+"Malaysia's AirAsia says still with Airbus, no plans to buy Boeing planes - Yahoo News","Fri, 02 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbmV3cy55YWhvby5jb20vbWFsYXlzaWFzLWFpcmFzaWEtc2F5cy1zdGlsbC1haXJidXMtMDc1NDE2NjQ5Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"FILE PHOTO: An AirAsia X Airbus A340 passenger jet arrives on its inaugural flight from Kuala Lumpur to Paris Orly Airport February 14, 2011. REUTERS/Charles Platiau/File Photo
+
+KUALA LUMPUR (Reuters) - Malaysian budget airline AirAsia Bhd (AIRA.KL) is sticking with Airbus (AIR.PA) and has no plans currently to purchase Boeing (BA.N) aircraft, Group CEO Tony Fernandes said at a press briefing late on Thursday.
+
+""Boeing is keen to have us as a customer...but right now we are still very much an Airbus customer,"" he told reporters.
+
+To a question if he had plans to buy Boeing planes, Fernandes said ""not at the moment"".
+
+Last month, Reuters reported that sources said AirAsia -Airbus' largest Asian customer - was set to confirm an order of wide-body jets from the European planemaker after Boeing tried to win the airline over and extend a lead in the lucrative long-haul market.
+
+On Thursday, the airline also announced the sale of its aircraft leasing operations to firms managed by BBAM Ltd, one of the world's largest aircraft portfolio managers, in a staggered deal that will see the budget carrier transfer ownership of up to 182 Airbus jets.
+
+The deal, valued at $1.2 billion in the first phase, will help the airline pare down debt and return money to shareholders, as well as give it firepower to grow its business.
+
+(Reporting by Liz Lee; Editing by Muralikumar Anantharaman)","{'label': 'Neutral', 'score': 0.9999569654464722}",neutral,0.9999569654464722,0
+Orion propellant tank assembled - Airbus,"Thu, 29 Mar 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vbmV3cy8yMDE4LTAzLW9yaW9uLXByb3BlbGxhbnQtdGFuay1hc3NlbWJsZWTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Busy days in the cleanroom of Airbus and ArianeGroup in Bremen: What was long prepared now took place: integration of the propellant tank for the spaceship Orion, or to be precise, the integration in the European Service Module.
+
+The tanks will contain ieach about 2.000 liters of propellant. They found part of the propulsion subsystem together with 33 engines, pipelines, sensors and several electronic boxes.
+
+During the development of the service module, Airbus engineers had to overcome difficult space and mass challenges. For this reason, the space for the tanks is very narrow, so that no further work can be carried out at the points after installation. Before installation, the tanks had to be equipped with a very flat heating system (heat pipes). This ensures that the tanks have the desired temperature environment even under the extreme conditions in space.
+
+In addition, the corresponding thermostats must be installed during tank installation - with these regulators the tank would not have fit through the intended opening. The tank had to be turned several times after insertion to complete this task.
+
+Bas Theelen, Orion Programme Manager: ""Tank installation was a very important milestone for the Orion team. The colleagues from the integration team have done an outstanding job. The complex preparations and the installation are not trivial, but everything was mastered with flying colours I would like to thank the whole team for their tireless efforts and great work.""
+
+Following the installation of the tanks, important tests are started before the service module will be delivered to NASA in the summer. The first launch to the moon and back to Earth - uncrewed - is planned for end 2019 or beginning 2020.","{'label': 'Neutral', 'score': 0.9976862668991089}",neutral,0.9976862668991089,0
+"Audi, Airbus, and Italdesign Want You to Commute in a Flying Car - Digital Trends","Thu, 08 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL2NhcnMvYXVkaS1haXJidXMtYW5kLWl0YWxkZXNpZ24td2FudC15b3UtdG8tY29tbXV0ZS1pbi1hLWZseWluZy1jYXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Previous Next 1 of 4 Image used with permission by copyright holder Image used with permission by copyright holder Image used with permission by copyright holder Image used with permission by copyright holder
+
+Every year, the Geneva Auto Show is full of surprises. Airbus and Italian design house Italdesign joined forces to introduce a mobility concept named Pop.Up that drives and flies at last year’s edition of the event. Audi recently entered the equation to contribute its knowledge in the fields of battery technology and automation. The team presented an updated prototype named Pop.Up Next at the 2018 Geneva show.
+
+Recommended Videos
+
+Two main parts make up the Pop.Up Next. Called ground module, the first is a futuristic-looking city car with space for two passengers. It’s about the same length as a smart fortwo but it weighs only 440 pounds. Airbus explained it managed to make the Next much lighter than the original Pop.Up by redesigning the seats and using lightweight materials like aluminum and titanium.
+
+Power comes from an electric motor that draws electricity from a 15kWh battery pack to provide up to 80 miles of range. That is not much, but engineers needed to keep the size of the battery pack down to make it as light as possible. The trade-off is that the battery can take a full charge in only 15 minutes. On the road, the Pop.Up has a top speed of about 60 mph. It’s equipped with state-of-the-art autonomous technology so the passengers can sit back, relax, and enjoy the ride.
+
+Previous Next 1 of 6 Ronan Glon/Digital Trends Ronan Glon/Digital Trends Ronan Glon/Digital Trends Ronan Glon/Digital Trends Ronan Glon/Digital Trends Ronan Glon/Digital Trends
+
+Taken on its own, it’s hardly a ground-breaking vehicle. It becomes one when it leaves the ground thanks to the drone-like air module. Eight motor-driven propellers grouped into four clusters allow the air module to smoothly pick up the ground module and take off vertically like a helicopter. Sensors help the two parts align automatically. There are three coupling points and a central safety module. Self-rotating hooks help ensure the air module doesn’t drop its car in a lake mid-flight before gliding off into the horizon.
+
+The two passengers sit side by side, enjoying the view below through transparent doors and a large windshield. When that gets boring, or for passengers who are scared of heights, there is also a 49-inch screen that provides information about the flight, entertainment options, and connectivity functions. The passengers and the infotainment system interact with eye-tracking and facial- recognition technology.
+
+“Pop.Up Next is an ambitious vision that could permanently change our urban life in the future,” Bernd Martens, Audi’s board member for procurement and the president of Italdesign, said in a statement. The German firm also brings a dose of realism to the project. The Pop.Up Next is nothing short of awesome, and it could revolutionize the way we commute, but Audi realistically points out it’s a vision that can only become true in the distant future. Still, talks are already underway to find out what is involved in making a machine like the Pop.Up Next street-legal in key markets around the world.
+
+Pop.Up Next 2018
+
+Editors' Recommendations","{'label': 'Neutral', 'score': 0.9999924898147583}",neutral,0.9999924898147583,0
+Italdesign and Airbus partner with Audi for car-and-drone concept - Helicopter Investor,"Thu, 08 Mar 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmhlbGljb3B0ZXJpbnZlc3Rvci5jb20vbmV3cy85MjczOC9pdGFsZGVzaWduLWFuZC1haXJidXMtcGFydG5lci13aXRoLWF1ZGktZm9yLWNhci1hbmQtZHJvbmUtY29uY2VwdC03ODgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Italdesign and Airbus partner with Audi for car-and-drone concept
+
+news by Alasdair Whyte 8 March 2018 Print this page
+
+Design firm Italdesign and Airbus have partnered with car manufacturer Audi to develop the Pop.Up.Next – an updated prototype of the partnership’s fully-electric automobile and Vtol concept.
+
+A model of the flying-car design was presented at the Geneva Motor Show on 8 March, marking the first time a prototype of the vehicle has been on display to the public.
+
+Italdesign and Airbus teased the Pop.Up concept at the show last year and have brought Audi on board to brand the two-seater car-and-drone model and to help develop the battery.
+
+The model features a number of updates compared to the original concept, including automated driving, speech and face recognition, eye-tracking and a touch function.
+
+“Creativity is needed where new mobility concepts for cities and people’s diverse needs are concerned. Italdesign is an incubator for innovative technologies and radical prototyping. Pop.Up Next is an ambitious vision that could permanently change our urban life in the future,” says Dr. Bernd Martens, Audi Board Member for Procurement and President of Italdesign.
+
+Airbus is putting its full weight behind the city Vtol, having developed its own passenger drone and a parcel-delivery drone – as well as co-developing the Pop.UP.Next. The French aircraft manufacturer flew both of these drones for the first time last month.","{'label': 'Neutral', 'score': 0.9999699592590332}",neutral,0.9999699592590332,0

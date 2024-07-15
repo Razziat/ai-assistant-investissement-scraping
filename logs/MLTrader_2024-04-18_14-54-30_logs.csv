@@ -1,0 +1,1539 @@
+2024-04-18 14:54:30,027: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-18 14:54:31,755: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-18 14:54:31,755: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 14:54:31,755: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-18 14:54:31,755: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 14:54:31,755: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:31[0m
+2024-04-18 14:54:31,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:32,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:37,960: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 557.0 GOOG sell | at price $80.84700164794923 of class bracket with status new[0m
+2024-04-18 14:54:37,960: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:37[0m
+2024-04-18 14:54:37,960: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:37,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:37,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:37,960: root: INFO: market order of | 557.0 GOOG sell | at price $80.84700164794923 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:37,960: root: INFO: market order of | 557.0 GOOG sell | at price $80.84700164794923 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:37,960: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 557.0 GOOG sell | at price $89.83 of class bracket with status fill[0m
+2024-04-18 14:54:37,976: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:37,976: root: INFO: Current backtesting datetime 2023-01-03 16:00:00-05:00
+2024-04-18 14:54:37,976: root: INFO: Current backtesting datetime 2023-01-04 09:30:00-05:00
+2024-04-18 14:54:37,976: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:37[0m
+2024-04-18 14:54:37,976: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:37,976: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 824.0 GOOG sell | at price $81.90900192260743 of class bracket with status new[0m
+2024-04-18 14:54:39,621: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:39[0m
+2024-04-18 14:54:39,621: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:39,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:39,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:39,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,621: root: INFO: market order of | 824.0 GOOG sell | at price $81.90900192260743 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:39,621: root: INFO: market order of | 824.0 GOOG sell | at price $81.90900192260743 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:39,636: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 824.0 GOOG sell | at price $91.01 of class bracket with status fill[0m
+2024-04-18 14:54:39,636: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:39,636: root: INFO: Current backtesting datetime 2023-01-04 16:00:00-05:00
+2024-04-18 14:54:39,636: root: INFO: Current backtesting datetime 2023-01-05 09:30:00-05:00
+2024-04-18 14:54:39,636: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:39[0m
+2024-04-18 14:54:39,636: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:39,652: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 1278.0 GOOG sell | at price $79.2629997253418 of class bracket with status new[0m
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:41[0m
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,299: root: INFO: market order of | 1278.0 GOOG sell | at price $79.2629997253418 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:41,299: root: INFO: market order of | 1278.0 GOOG sell | at price $79.2629997253418 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:41,299: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 1278.0 GOOG sell | at price $88.07 of class bracket with status fill[0m
+2024-04-18 14:54:41,303: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:41,303: root: INFO: Current backtesting datetime 2023-01-05 16:00:00-05:00
+2024-04-18 14:54:41,303: root: INFO: Current backtesting datetime 2023-01-06 09:30:00-05:00
+2024-04-18 14:54:41,303: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:41[0m
+2024-04-18 14:54:41,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:41,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 1932.0 GOOG sell | at price $78.6240005493164 of class bracket with status new[0m
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:42[0m
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,960: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,960: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,960: root: INFO: market order of | 1932.0 GOOG sell | at price $78.6240005493164 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:42,960: root: INFO: market order of | 1932.0 GOOG sell | at price $78.6240005493164 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:42,960: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 1932.0 GOOG sell | at price $87.36 of class bracket with status fill[0m
+2024-04-18 14:54:42,979: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:42,981: root: INFO: Current backtesting datetime 2023-01-06 16:00:00-05:00
+2024-04-18 14:54:42,981: root: INFO: Current backtesting datetime 2023-01-07 09:30:00-05:00
+2024-04-18 14:54:42,984: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-04-18 14:54:42,984: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,984: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:42,992: root: INFO: Current backtesting datetime 2023-01-07 09:29:00-05:00
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: INFO: Current backtesting datetime 2023-01-07 09:29:00-05:00
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,008: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: INFO: Current backtesting datetime 2023-01-09 08:30:00-05:00
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,023: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: root: INFO: Current backtesting datetime 2023-01-09 09:30:00-05:00
+2024-04-18 14:54:43,039: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 14:54:43,039: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:43[0m
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:43,039: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,702: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 2839.0 GOOG sell | at price $80.2754997253418 of class bracket with status new[0m
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:44[0m
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,717: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,733: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,733: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:44,733: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,733: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,733: root: INFO: market order of | 2839.0 GOOG sell | at price $80.2754997253418 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:44,733: root: INFO: market order of | 2839.0 GOOG sell | at price $80.2754997253418 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:44,733: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 2839.0 GOOG sell | at price $89.19 of class bracket with status fill[0m
+2024-04-18 14:54:44,733: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:44,733: root: INFO: Current backtesting datetime 2023-01-09 16:00:00-05:00
+2024-04-18 14:54:44,733: root: INFO: Current backtesting datetime 2023-01-10 09:30:00-05:00
+2024-04-18 14:54:44,733: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:44[0m
+2024-04-18 14:54:44,733: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:44,749: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,535: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 4380.0 GOOG sell | at price $78.04800109863281 of class bracket with status new[0m
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:46[0m
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,550: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,550: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,566: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:46,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,566: root: INFO: market order of | 4380.0 GOOG sell | at price $78.04800109863281 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:46,566: root: INFO: market order of | 4380.0 GOOG sell | at price $78.04800109863281 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:46,566: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 4380.0 GOOG sell | at price $86.72 of class bracket with status fill[0m
+2024-04-18 14:54:46,582: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:46,582: root: INFO: Current backtesting datetime 2023-01-10 16:00:00-05:00
+2024-04-18 14:54:46,582: root: INFO: Current backtesting datetime 2023-01-11 09:30:00-05:00
+2024-04-18 14:54:46,582: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:46[0m
+2024-04-18 14:54:46,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:46,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,352: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 6326.0 GOOG sell | at price $81.05399780273437 of class bracket with status new[0m
+2024-04-18 14:54:48,352: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:48[0m
+2024-04-18 14:54:48,352: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,352: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,367: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,383: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,383: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:48,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,383: root: INFO: market order of | 6326.0 GOOG sell | at price $81.05399780273437 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:48,383: root: INFO: market order of | 6326.0 GOOG sell | at price $81.05399780273437 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:48,383: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 6326.0 GOOG sell | at price $90.06 of class bracket with status fill[0m
+2024-04-18 14:54:48,383: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:48,383: root: INFO: Current backtesting datetime 2023-01-11 16:00:00-05:00
+2024-04-18 14:54:48,383: root: INFO: Current backtesting datetime 2023-01-12 09:30:00-05:00
+2024-04-18 14:54:48,383: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:48[0m
+2024-04-18 14:54:48,383: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:48,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,154: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 9249.0 GOOG sell | at price $83.16000137329102 of class bracket with status new[0m
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:50[0m
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,169: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,185: root: INFO: market order of | 9249.0 GOOG sell | at price $83.16000137329102 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:50,185: root: INFO: market order of | 9249.0 GOOG sell | at price $83.16000137329102 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:50,185: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 9249.0 GOOG sell | at price $92.4 of class bracket with status fill[0m
+2024-04-18 14:54:50,200: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:50,200: root: INFO: Current backtesting datetime 2023-01-12 16:00:00-05:00
+2024-04-18 14:54:50,200: root: INFO: Current backtesting datetime 2023-01-13 09:30:00-05:00
+2024-04-18 14:54:50,216: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:50[0m
+2024-04-18 14:54:50,216: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:50,216: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,852: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 14005.0 GOOG sell | at price $82.37519989013673 of class bracket with status new[0m
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:51[0m
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,862: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,877: root: INFO: market order of | 14005.0 GOOG sell | at price $82.37519989013673 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:51,877: root: INFO: market order of | 14005.0 GOOG sell | at price $82.37519989013673 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:51,877: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 14005.0 GOOG sell | at price $91.53 of class bracket with status fill[0m
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:51,893: root: INFO: Current backtesting datetime 2023-01-13 16:00:00-05:00
+2024-04-18 14:54:51,893: root: INFO: Current backtesting datetime 2023-01-14 09:30:00-05:00
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,893: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,909: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,924: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,940: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,948: root: INFO: Current backtesting datetime 2023-01-14 09:29:00-05:00
+2024-04-18 14:54:51,948: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: INFO: Current backtesting datetime 2023-01-14 09:29:00-05:00
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:51,987: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:51,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: INFO: Current backtesting datetime 2023-01-17 08:30:00-05:00
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,003: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: INFO: Current backtesting datetime 2023-01-17 09:30:00-05:00
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 14:54:52,034: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:52[0m
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:52,034: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,821: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 20724.0 GOOG sell | at price $83.50199890136719 of class bracket with status new[0m
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:53[0m
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,852: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,852: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,852: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,853: root: INFO: market order of | 20724.0 GOOG sell | at price $83.50199890136719 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:53,853: root: INFO: market order of | 20724.0 GOOG sell | at price $83.50199890136719 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:53,853: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 20724.0 GOOG sell | at price $92.78 of class bracket with status fill[0m
+2024-04-18 14:54:53,868: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:53,868: root: INFO: Current backtesting datetime 2023-01-17 16:00:00-05:00
+2024-04-18 14:54:53,868: root: INFO: Current backtesting datetime 2023-01-18 09:30:00-05:00
+2024-04-18 14:54:53,868: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:53[0m
+2024-04-18 14:54:53,884: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:53,885: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 31033.0 GOOG sell | at price $83.64600219726563 of class bracket with status new[0m
+2024-04-18 14:54:55,639: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:55[0m
+2024-04-18 14:54:55,639: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,671: root: INFO: market order of | 31033.0 GOOG sell | at price $83.64600219726563 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:55,671: root: INFO: market order of | 31033.0 GOOG sell | at price $83.64600219726563 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 31033.0 GOOG sell | at price $92.94 of class bracket with status fill[0m
+2024-04-18 14:54:55,671: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:55,686: root: INFO: Current backtesting datetime 2023-01-18 16:00:00-05:00
+2024-04-18 14:54:55,686: root: INFO: Current backtesting datetime 2023-01-19 09:30:00-05:00
+2024-04-18 14:54:55,686: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:55[0m
+2024-04-18 14:54:55,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:55,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 47339.0 GOOG sell | at price $82.2509994506836 of class bracket with status new[0m
+2024-04-18 14:54:57,552: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:57[0m
+2024-04-18 14:54:57,552: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,552: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,567: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,583: root: INFO: market order of | 47339.0 GOOG sell | at price $82.2509994506836 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:57,583: root: INFO: market order of | 47339.0 GOOG sell | at price $82.2509994506836 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:57,583: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 47339.0 GOOG sell | at price $91.39 of class bracket with status fill[0m
+2024-04-18 14:54:57,598: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:57,598: root: INFO: Current backtesting datetime 2023-01-19 16:00:00-05:00
+2024-04-18 14:54:57,598: root: INFO: Current backtesting datetime 2023-01-20 09:30:00-05:00
+2024-04-18 14:54:57,598: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:57[0m
+2024-04-18 14:54:57,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:57,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,400: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 67634.0 GOOG sell | at price $86.35499725341798 of class bracket with status new[0m
+2024-04-18 14:54:59,400: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:54:59[0m
+2024-04-18 14:54:59,400: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,400: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,400: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,400: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,400: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,400: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,400: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,400: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,400: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,416: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,416: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,431: root: INFO: market order of | 67634.0 GOOG sell | at price $86.35499725341798 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:59,431: root: INFO: market order of | 67634.0 GOOG sell | at price $86.35499725341798 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:54:59,431: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 67634.0 GOOG sell | at price $95.95 of class bracket with status fill[0m
+2024-04-18 14:54:59,447: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:54:59,447: root: INFO: Current backtesting datetime 2023-01-20 16:00:00-05:00
+2024-04-18 14:54:59,447: root: INFO: Current backtesting datetime 2023-01-21 09:30:00-05:00
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,479: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: INFO: Current backtesting datetime 2023-01-21 09:29:00-05:00
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,510: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,510: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: INFO: Current backtesting datetime 2023-01-21 09:29:00-05:00
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: INFO: Current backtesting datetime 2023-01-23 08:30:00-05:00
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,588: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] [32mOrder was canceled: limit order of | 1278.0 GOOG buy | at price $79.2629997253418 with status canceled[0m
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] [32mOrder was filled: stop order of | 1278.0 GOOG buy | at price $101.28 with status fill[0m
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,604: asyncio: INFO: [MLTrader] [32mOrder was canceled: limit order of | 1932.0 GOOG buy | at price $78.6240005493164 with status canceled[0m
+2024-04-18 14:54:59,620: asyncio: INFO: [MLTrader] [32mOrder was filled: stop order of | 1932.0 GOOG buy | at price $100.46 with status fill[0m
+2024-04-18 14:54:59,620: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,620: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,620: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,620: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,620: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,620: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,620: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,620: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,620: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,620: asyncio: INFO: [MLTrader] [32mOrder was canceled: limit order of | 4380.0 GOOG buy | at price $78.04800109863281 with status canceled[0m
+2024-04-18 14:54:59,620: asyncio: INFO: [MLTrader] [32mOrder was filled: stop order of | 4380.0 GOOG buy | at price $99.73 with status fill[0m
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,635: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,635: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: root: INFO: Current backtesting datetime 2023-01-23 09:30:00-05:00
+2024-04-18 14:54:59,651: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 14:54:59,651: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:54:59[0m
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:54:59,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,405: asyncio: INFO: [MLTrader] [32mNew order was created: market order of | 94361.0 GOOG sell | at price $89.21699752807618 of class bracket with status new[0m
+2024-04-18 14:55:01,405: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-04-18 14:55:01[0m
+2024-04-18 14:55:01,405: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,405: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,405: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,420: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,436: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,436: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,436: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,436: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,436: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,436: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,440: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,440: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,440: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,442: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,443: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,444: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,444: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,445: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,445: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,445: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,446: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,446: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,446: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,447: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,447: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,447: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,448: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,448: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1 bars, 
+2024-04-18 14:55:01,449: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,450: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,450: root: INFO: market order of | 94361.0 GOOG sell | at price $89.21699752807618 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:55:01,451: root: INFO: market order of | 94361.0 GOOG sell | at price $89.21699752807618 of class bracket with status new was sent to broker backtesting
+2024-04-18 14:55:01,451: asyncio: INFO: [MLTrader] [32mOrder was filled: market order of | 94361.0 GOOG sell | at price $99.13 of class bracket with status fill[0m
+2024-04-18 14:55:01,461: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-04-18 14:55:01,461: root: INFO: Current backtesting datetime 2023-01-23 16:00:00-05:00
+2024-04-18 14:55:01,461: root: INFO: Current backtesting datetime 2023-01-24 09:30:00-05:00
+2024-04-18 14:55:01,461: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 14:55:01[0m
+2024-04-18 14:55:01,461: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 14:55:01,476: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote

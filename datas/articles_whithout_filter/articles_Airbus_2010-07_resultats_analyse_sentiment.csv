@@ -1,0 +1,723 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Rolls-Royce Skeptical of Re-engined Airbus A320 and Boeing 737 | AIN - Aviation International News,"Fri, 23 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9haXItdHJhbnNwb3J0LzIwMTAtMDctMjMvcm9sbHMtcm95Y2Utc2tlcHRpY2FsLXJlLWVuZ2luZWQtYWlyYnVzLWEzMjAtYW5kLWJvZWluZy03MzfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Rolls-Royce Skeptical of Re-engined Airbus A320 and Boeing 737
+
+Should Airbus and Boeing put upgraded engines on their single-aisle airliners while waiting for the crop of next-gen turbofans with their promise of much b","{'label': 'Positive', 'score': 0.9999847412109375}",positive,0.9999847412109375,1
+Airbus Makes a Late Entrance - The New York Times,"Sun, 18 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTAvMDcvMTkvYnVzaW5lc3MvZ2xvYmFsLzE5aWh0LXJhdm1pbHQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"SEVILLE, SPAIN — It is big-bellied and far from sleek and has had some trouble getting off the ground. But for four days this week, in the skies west of London, the Airbus A400M military transporter will be the star of the show.
+
+The flight display program at the Farnborough International Air Show is meant by European Aeronautic Defense & Space, the Airbus manufacturer, to prove to its critics that despite a three-year delivery delay and an €11 billion, or $13.7 billion, cost overrun, the plane will be worth the wait.
+
+The seven-nation military project was initially planned to cost €20 billion for 180 aircraft, with deliveries starting this year. An accumulation of delays and much-publicized financing problems threatened to provoke its cancellation by EADS as recently as March. Still, its backers say, criticism of the project has been much overdone.
+
+“Even if the program has suffered long delays, these must be seen in the light of the project’s 20 to 30 years long — or more — lifespan,” Pierre Sparaco, a member of the French Air & Space Academy, said in a telephone interview.","{'label': 'Negative', 'score': 0.9999827146530151}",negative,0.9999827146530151,-1
+"Airbus Plane of the Future Concept Has Smart Fuselage, See-Through Walls - Popular Science","Wed, 21 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5wb3BzY2kuY29tL3RlY2hub2xvZ3kvYXJ0aWNsZS8yMDEwLTA3L2FpcmJ1cy1wbGFuZS1mdXR1cmUtaGFzLXNtYXJ0LWZ1c2VsYWdlLXNlZS10aHJvdWdoLXdhbGxzLWFuZC1jYW4tZmx5LWZvcm1hdGlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus unveiled this 2030 concept plane at the 2010 Farnborough International Airshow. Airbus
+
+Of all the aviation tech emerging from the Farnborough International Airshow, Airbus’ futurist visions are among the coolest.
+
+The aviation firm unveiled its 2030 Concept Plane earlier this week, which includes dreams of a self-cleaning cabin; extra-long, slim wings; a U-shaped tail; and an intelligent fuselage designed to improve efficiency.
+
+Airbus acknowledges the plane is somewhat a flight of fancy, but it’s worth imagining how aviation would look if advancements in existing technologies “continue apace,” as the company puts it.
+
+Some of the concepts:
+
+Smart seats made from plant fibers, which could change shape to offer a comfortable fit
+
+See-through walls that offer passengers a 360-degree view
+
+Fuel cells, “cryo-power,” and even human body heat to provide power
+
+Self-cleaning materials that use beads of water to remove dirt and pathogens
+
+Holographic projections of virtual decors, allowing travelers to transform their private cabin into an office, bedroom or Zen garden
+
+“It’s not a real aircraft and all the technologies it features, though feasible, are not likely to come together in the same manner. Here we are stretching our imagination and thinking beyond our usual boundaries,” says Charles Champion, vice president of engineering at Airbus, in a press statement.
+
+Accompanying the concept plane is a futurist document (PDF) that would make Burt Rutan blush. “Futurologist” Robin Mannings envisions planes flying in formation like a flock of geese; flying aircraft carriers used for long-distance flights, which would allow small aircraft to dock; cryo-planes powered by hydrogen; and more.
+
+He even suggests flying cruise ships, complete with casinos and entertainment, which might generate enough revenue to make the tickets free.
+
+Here’s hoping these planes of the future look as cool as this design.
+
+Concept Plane Engines The Airbus concept plane has embedded engines, a U-shaped tail and a smart fuselage intended to improve energy efficiency.
+
+[Airbus via Smart Planet]","{'label': 'Neutral', 'score': 0.997603714466095}",neutral,0.997603714466095,0
+"Airbus Concept Has Weird Wings, Morphing Seats - WIRED","Tue, 20 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDEwLzA3L2FpcmJ1cy1jb25jZXB0LXBsYW5lLTIwNTAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"This is what aerospace engineers come up with when they let their imaginations run wild.
+
+Airbus says up front the Concept Plane, unveiled Monday at Farnborough International Airshow near London, is more of an ""engineer's dream"" than anything we might ever see. It's unlikely a real aircraft might look like this. Instead, it reflects what experts in aircraft materials, aerodynamics, cabin design and engines came up with after considering what air transport might look like in 2050.
+
+Aircraft manufacturers, like automakers, periodically engage in these flights of fancy. Charles Champion, Airbus executive vice president of engineering, says the technologies in the concept are feasible but ""not likely to come together in the same manner.""
+
+""Here we are stretching our imagination and thinking beyond our usual boundaries,"" he said in a statement. ""With the Airbus Concept Plane we want to stimulate young people from all over the world to engage with us so that we can continue to share the benefits of air transport while also looking after the environment.”
+
+The Airbus concept looks similar to concepts we've seen from Boeing and others -- and doesn't look much like what we are flying today. With environmental concerns moving to the fore, the concept contemplates how to make planes more eco-friendly. It features long, high aspect ratio wings, an interesting U-shaped tail and engines incorporated into a lightweight fuselage.
+
+Beyond the interesting overall design, Airbus talked about new interiors. It mentions morphing seats that change shape to fit passengers and ""walls that become see-through at the touch of a button, affording 360 degree views of the world below."" We'd like to see the ""holographic projections of virtual decors"" that let passengers ""transform their private cabin into an office, bedroom or Zen garden.""
+
+Seems safe to say there are some within Airbus who truly are allowed to imagine something beyond normal aircraft interiors.
+
+The ""what-if"" exercise continues with the possibility that fuel cells, solar cells and even passengers' body heat could provide energy for some (presumably non-essential) systems. And the airliners of tomorrow could fly in formation like geese to reduce drag, and therefore fuel consumption and emissions.
+
+Images: Airbus
+
+See Also:","{'label': 'Neutral', 'score': 0.9946115016937256}",neutral,0.9946115016937256,0
+Airbus's blue-sky thinking - The Economist,"Wed, 21 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vZ3VsbGl2ZXIvMjAxMC8wNy8yMS9haXJidXNzLWJsdWUtc2t5LXRoaW5raW5n0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"By A.B. | LONDON
+
+GUESSING the future and putting forward dreamy designs is a sensible activity for any technologically obsessed company. It makes them look dynamic and creative, without committing them to any definite action. Airbus's Concept Plane, which was shared with the world this week, is just such an exercise. It looks a bit different, a bit advanced, and carries the message that Airbus will be around and making beautiful aircraft in 40 years' time.
+
+The company does not, however, expect to make a plane that looks like this. As Charles Champion, the Executive Vice President Engineering, said, ""It's not a real aircraft and all the technologies it features, though feasible, are not likely to come together in the same manner"". But it does at least provide a way for Airbus to show off its engineers' less hidebound thinking.
+
+Many of the plane's attributes are designed to improve its environmental performance, such as its slim wings, lightweight body, semi-embedded engines and U-shaped tail. The rationale for each element is included in a document—“The Future, by Airbus”—which outlines the company's thinking on aeroplane design in particular and the aviation industry in general.
+
+The document makes five main predictions:
+
+- Demand for air transportation will grow
+
+- Alternative fuels will be increasingly important
+
+- Planes will fly closer together to reduce drag and save fuel
+
+- New materials will improve cabin experiences
+
+- Flexibility will be vital: think flying cars, vertical take-off, etc
+
+Nothing too ground-breaking, which is true of the document as a whole. The pretty pictures might inspire some children somewhere to careers in aeronautics, for which we should be grateful, but I can't help feeling a little more detail would have gone a long way. With pie-in-the-sky lines like ""New manufacturing methods will reduce the cost of building the aircraft in spite of the new advance materials and complex shapes"", it all reads rather like a sixth-former's science project.","{'label': 'Neutral', 'score': 0.9013567566871643}",neutral,0.9013567566871643,0
+Airbus A400M flies over Farnborough (photos) - CNET,"Fri, 23 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNuZXQuY29tL3BpY3R1cmVzL2FpcmJ1cy1hNDAwbS1mbGllcy1vdmVyLWZhcm5ib3JvdWdoLXBob3Rvcy8zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Airbus 400M ""Grizzly"" took the spotlight at the Farnborough International Airshow in the U.K. Here, its pilot took the 148-foot-long plane partway upside-down in a steeply banked turn.
+
+This week-long show west of London is where the aviation industry goes to buy and sell airplanes, helicopters, and everything needed to build them.","{'label': 'Neutral', 'score': 0.9996739625930786}",neutral,0.9996739625930786,0
+Brazil's TAM Airlines Orders 25 Airbus Aircraft - NYCAviation - NYCAviation,"Wed, 28 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55Y2F2aWF0aW9uLmNvbS8yMDEwLzA3L2JyYXppbHMtdGFtLWFpcmxpbmVzLW9yZGVycy0yNS1haXJidXMtYWlyY3JhZnQvMTAwNzLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"TAM Airlines signed a firm order for 25 Airbus aircraft, bringing the Brazilian airline’s total Airbus order book to 176, Airbus said in a statement on Wednesday.
+
+The order for 20 A320 Family and five A350-900s follows the Memorandum of Understanding announced at ILA Berlin Air Show in June, Airbus said.
+
+TAM’s new A320 Family aircraft will replace existing A320 Family aircraft as part of the airline’s commitment to keep an average fleet age of six years. Both the A320 Family and A350 XWB fleet will serve the carrier’s existing routes and boost eco-efficiency. “We have the commitment to offer our customers one of the youngest fleets in the world of aviation,” said Líbano Barroso, CEO of TAM Airlines.
+
+As of today, TAM’s total Airbus orders have increased to 134 A320 Family aircraft, 15 A330-200s and 27 A350 XWB. 65 Airbus A320 Family aircraft, two A330-200s and 27 A350 XWB are still in the backlog.
+
+TAM is Airbus’ biggest customer in the Southern Hemisphere and Brazil’s largest airline.","{'label': 'Positive', 'score': 0.6040217280387878}",positive,0.6040217280387878,1
+Airbus Unveils Fuel-Efficient Aircraft of the Future - Inhabitat,"Mon, 19 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vaW5oYWJpdGF0LmNvbS9haXJidXMtdW52ZWlscy1mdWVsLWVmZmljaWVudC1haXJjcmFmdC1vZi10aGUtZnV0dXJlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.999776303768158}",neutral,0.999776303768158,0
+"Farnborough International Air Show highlights servicemembers, aircraft > Air Force > Article Display - Air Force Link","Thu, 22 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzExNjA4NS9mYXJuYm9yb3VnaC1pbnRlcm5hdGlvbmFsLWFpci1zaG93LWhpZ2hsaWdodHMtc2VydmljZW1lbWJlcnMtYWlyY3JhZnQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Farnborough International Air Show highlights servicemembers, aircraft
+
+One of the largest air shows in the world kicked off here July 19, and U.S. servicemembers are among 1,500 exhibitors from around the world showing off the latest in aviation technology.
+
+
+
+Approximately 70 U.S. military and support members from bases across the world are participating in the Farnborough Air Show.
+
+
+
+""We are delighted to be here,"" said Col. Robert Suminsby, the U.S. Air Forces Europe air boss for the air show. ""The United Kingdom is a country that has a long tradition with incredible enthusiasm for aviation.""
+
+
+
+Various models of U.S. military aircraft are being shown as static displays and demonstrations, including the F/A-18F Super Hornet, F-16C Fighting Falcon, F-15E Strike Eagle, C-130J Super Hercules, C-17 Globemaster III, RQ-7 Shadow, UH-1Y Venom and the MH-60 Seahawk. Aerial demonstrations include the F-16, F-18, C-130J and a flyover by the B-52 Stratofortress.
+
+
+
+One Airman expressed his excitement over another aircraft: the F-22 Raptor.
+
+
+
+""The F-22 is the most advanced fighter out right now,"" said Senior Airman Paul Hayward, assigned to the 48th Maintenance Equipment Squadron at Royal Air Force Lakenheath, England.
+
+
+
+The F-22 Raptor, along with more than 165 aircraft, is on display during the air show.
+
+
+
+""This is where the entire aviation world turns to see what the latest technologies are,"" said Colonel Suminsby. ""We're proud of the technologies the United States is producing.""
+
+
+
+More than 285,000 trade and public visitors are expected to attend the bi-annual Farnborough Air Show.
+
+
+
+This year, 38 different countries are represented at 29 international pavilions.
+
+
+
+The air show will run July 19 through 25.","{'label': 'Neutral', 'score': 0.9994093179702759}",neutral,0.9994093179702759,0
+Lan Chile renews fleet and purchases 50 Airbus A320 family - MercoPress,"Wed, 21 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZW4ubWVyY29wcmVzcy5jb20vMjAxMC8wNy8yMS9sYW4tY2hpbGUtcmVuZXdzLWZsZWV0LWFuZC1wdXJjaGFzZXMtNTAtYWlyYnVzLWEzMjAtZmFtaWx50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Lan Chile renews fleet and purchases 50 Airbus A320 family
+
+21st Wednesday, July 2010 - 06:43 UTC Full article
+
+Latinamerica’s leading airline and the new A321 with a capacity for approximately 210 passengers
+
+Chile’s flag air carrier Lan Airlines S.A. and its subsidiaries, one of the leading airlines in Latin America, announced Tuesday an agreement for the purchase of 50 modern Airbus A320 family aircraft to be delivered between 2012 and 2016.
+
+The new aircraft will operate regional and domestic flights within Latin America. This order includes Airbus A319s and A320s, as well as, for the first time, the Airbus A321 which has a capacity for approximately 210 passengers.
+
+The order is valued at approximately 4,150 billion USD according to list prices. Additionally, Lan’s strategic fleet renewal plan now involves the sale of its 15 Airbus A318s between 2011 and 2013. Lan also announced it has ordered CFM56-5B engines to power its Airbus A320 family fleet deliveries starting in 2011.
+
+According to a release from the company “the incorporation of the new Airbus A320 family airplanes reflects Lan’s strong commitment to the environment as these aircraft incorporate the industry's latest technology and are highly efficient in fuel consumption, allowing for a substantial reduction in emissions, while also decreasing noise levels”.
+
+We confirm our commitment to the development of commercial aviation in Latin America, incorporating the best technology and offering our clients one of the world's most modern fleets. We continue investing in order to contribute to the economic growth and social development of countries in the region said Ignacio Cueto, Lan’s Chief Operating Officer.
+
+Lan Airlines is one of the leading passenger and cargo airlines in Latin America and with its affiliates serves over 70 destinations around the world through an extensive network that offers full connectivity within Latin America, while also linking the region with North America, Europe and the South Pacific, as well as 70 additional international destinations through its various alliances.
+
+The Chilean company and its affiliates have a leading position in their respective domestic markets of Chile and Peru as well as an important presence in the Argentine domestic market and has completed its first year of operations in the domestic market of Ecuador.
+
+Currently, Lan Airlines and its affiliates operate one of the most modern fleets in the world, with 86 passenger aircraft, and its cargo subsidiary, LAN CARGO and its respective cargo affiliates, have a fleet of 11 dedicated freighters. The company recently completed its short haul fleet renovation process by acquiring new aircraft from the Airbus A320 family, enabling Lan to improve its efficiency and to reduce significantly its CO2 emissions. The fleet renovation is part of the company's commitment to the protection of the environment.
+
+Lan is one of the few Investment Grade airlines in the world (BBB).
+
+Following the announcement of the operation Lan Airlines shares rose in Santiago trading, heading for the longest winning streak in five years. Latam’s biggest carrier by market value climbed 1.8% to a record 11,450 Chilean pesos, advancing for a tenth straight session.
+
+","{'label': 'Neutral', 'score': 0.6401811838150024}",neutral,0.6401811838150024,0
+FARNBOROUGH: Giant steps – has the latest Airbus A380 production revamp worked? - Flightglobal,"Mon, 12 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZmFybmJvcm91Z2gtZ2lhbnQtc3RlcHMtaGFzLXRoZS1sYXRlc3QtYWlyYnVzLWEzODAtcHJvZHVjdGlvbi1yZXZhbXAtd29ya2VkLzk0MjkwLmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Airbus A380 arrived to a huge fanfare in 2007 and is earning revenue for five of its launch customers. But frustratingly for the company, the same cannot be said for Airbus, which more than five years after building the first A380 is still battling to overcome costly production problems that have blighted the programme since the start.
+
+Last year, Airbus handed over just 10 A380s - two fewer than in 2008 and well below its target of 18 - as the ongoing production issues were amplified by delivery deferrals instigated by customers. Problems have rumbled on despite several drives to sharpen up processes, and by the beginning of this year Airbus management had clearly run out of patience.
+
+Louis Gallois, boss of parent EADS, warned that A380 production costs were ""still significantly above expectations"" while Airbus chief executive Tom Enders pointed out that the airframer had still not ""come to grips with this complex aircraft"" and that it would remain a ""financial liability for years to come"".
+
+But the signs are good that initiatives implemented last year to address some of the fundamental problems are at last bearing fruit. Key performance indicators, such as the level of outstanding work carried downstream to the assembly lines, show a dramatically improved situation. So Airbus is now publicly confident that it can ship at least 20 A380s this year as output in Toulouse heads towards stabilising at three a month by early 2012.
+
+The improved processes may also be good news financially, with EADS chief financial officer Hans-Peter Ring recently stating that A380 production should begin to break even by around 2015 on a ""per year"" basis. In the current US dollar environment, he says, EADS ""could be in a situation...by the middle of the decade"" where the A380 is ""no longer weighing"" on the company.
+
+The A380's now legendary production delays first came to light shortly after the first flight in April 2005. A key element of the problem - issues in the design of the multitude of wiring harnesses that equip each A380 - was blamed on the over-reliance on virtual design tools - specifically the three-dimensional digital mock-up (DMU) that was used extensively for the first time by Airbus on the superjumbo. And it did not help that there was incompatibility in the design tools being used by different divisions within Airbus. (Significantly, Airbus has reintroduced the concept of having a physical mock-up on the A350, to ensure it does not see a repeat of the A380 dramas.)
+
+As the then Airbus boss Christian Streiff explained in 2006 when announcing one of several A380 production delays: ""Quite simply, the wiring harness installation design package in the forward and rear fuselage could not keep pace with the rest of the aircraft programme.""
+
+While the production of all A380s was affected by the fundamental problems, these were particularly damaging to each customer ""head of version"" - ie the first edition of cabin specification.
+
+In the first three years of deliveries Airbus has had to deal with six of these - one each for Air France, Lufthansa, Qantas and Singapore Airlines, and two for Emirates. The Dubai airline has taken A380s equipped with two different cabin layouts seating either 489 or 517 passengers - the latter having additional seats on the main deck in place of the crew rest compartments.
+
+So Airbus reinvented its A380 production process while in parallel rebuilding by hand airframes in Toulouse that had already been assembled. Design of the wiring looms has always been the responsibility of Airbus's cabin centre of excellence in Hamburg, which is also where installation in the forward and rear fuselage sections takes place during the equipping process in the major component assembly (MCA) hall.
+
+The hall has the politically correct label of ""FAL1"" (or final assembly line one) with Toulouse - which is the A380's proper final assembly line - being ""FAL2"".
+
+Key parts of the changes included ""updating and harmonising"" 3D design tools as well as the implementation of new management and training procedures. All Hamburg's A380 functions were consolidated under the full responsibility of a single manager, Rudiger Fuchs (who was subsequently replaced in 2008 by former A380 programme manager Mario Heinen).
+
+To deal with the production problems, thousands of workers from other plants - mainly Hamburg - had to relocate to the Toulouse assembly line to undertake out-of-sequence work and modifications that should have been completed before the sections were transported.
+
+Meanwhile, progress with the reinvented production process saw the creation of what Airbus dubbed ""Wave 2"" A380s incorporating redesigned electrical harnesses. But the signs were not good when the first Wave 2 aircraft (MSN026) reached the power-on milestone four months late, in April 2008. Airbus said at the time that it had not rushed the build effort as it did not want a repeat of the earlier problems.
+
+But it seemed that every time Airbus thought it had the issues beaten, the programme would run into more trouble and the delays persisted. The result was that the 2009 output target, which at one point was expected to be more than 20 aircraft, was constantly revised downwards to the 10 deliveries eventually achieved.
+
+Although Airbus remained bullish in the early part of last year that the issues were behind it, by the time MSN026 was finally delivered to its customer, Qantas, in August 2009, it was evident that Wave 2 had not delivered the hoped-for ""silver bullet"".
+
+""Until MSN026 was delivered, we didn't see the full picture in terms of what would be the rework we needed to do on this aircraft,"" says A380 programme manager Alain Flourens. ""We realised that a significant amount of additional work was needed to update the DMUs, the design activity and the following manufacturing and engineering activities.""
+
+The problems that arose from Wave 2 production process were tackled in various ways, he says. ""We enforced a very strict quality gate around the DMU, starting from the first step at the release of drawings for production - which means we have more coming out right first-time. We have been through this process for all the heads of versions after MSN026.""
+
+The result of this initiative upstream of production has been a very good improvement in quality since the beginning of 2010. ""The quality gate at each stage of the DMU is mainly 'green' now, whereas in the past they were more 'amber' or 'red',"" says Flourens.
+
+The colour defines the acceptable level of quality at each stage, so ""green means we can proceed to the next step of the engineering process with no risk"".
+
+This has seen the production drawing backlog decline by four-fifths and level of outstanding work being undertaken in both ""FAL1"" and ""FAL2"" halved over the course of 2009 (see graphic). The out-of-sequence work has been reduced by a factor of seven since the beginning of 2007.
+
+""This translates immediately to the number of people working on the final assembly lines and the lead time,"" says Flourens.
+
+He estimates that the more efficient production process has reduced the A380's lead time by around 40% over the past 12 months, while over the same period the number of displaced workers in Toulouse has been roughly halved to around 1,000.
+
+The improvement in the quality of the DMU has also been helped by learning curve as more heads of version are completed. ""Our knowhow has been increased,"" says Flourens.
+
+Although the level of outstanding work is acceptable for the current rate of two A380s a month, Flourens says Airbus will continue to work to reduce it further as output ramps up three a month over the next year. The number of displaced workers will also be progressively reduced during 2010-11 in line with the production ramp-up.
+
+While the DMU quality control had a dramatic improvement in 2009, late last year Airbus took further steps to secure the production process of its flagship programme with an effort to ""change the mindset"" of its teams, which chief operating officer Fabrice Bregier dubbed ""stop and fix"".
+
+Implemented after further analysis of the production set-up, Flourens says this is a specific quality gate designed to establish whether the ""deliverable, which could be engineering or physical"", is achievable. ""The process means that if you are not at the correct level, you raise the alarm and the whole team has to work around to find a solution as quickly as possible.""
+
+He says the problem remains where it is in the production or design process until fixed, whereas under the old system unresolved issues would move on to the next stage, thereby adding to the mountain of outstanding work.
+
+
+
+Airbus has worked to tighten up the A380's delivery process. Picture: Airbus
+
+""This is a change of culture - both for the workers on the shop floor and in engineering - putting a lot of emphasis on doing it right first-time"" rather than on keeping the production process moving and tackling the problem later, says Flourens.
+
+Another change has been to do away with the sequential process and better integrate different parts of the organisation to help speed the reaction time to problems as they arise. ""During assembly, we've organised regular visits to the aircraft by multifunctional teams comprising design and manufacturing engineering, quality and production people, to have a common vision,"" says Flourens, This has helped drive down the resolution time for queries substantially.
+
+The much improved state of the assembly process is shown by the fact that the fuselage sections for latest A380 to arrive in Toulouse left Hamburg ""closed and dark"", meaning that all work was completed and they were ready to achieve the ""M2"" power-on status without additional modifications on the assembly line, says Flourens.
+
+While some may argue that Airbus should have been quicker to address what appear to be basic production issues, Flourens points out that a key part of understanding how to tackle the over-complexity has come through experience: ""As we drain the water inside the pool, we can now see different rocks that were hidden below the waterline.""
+
+The next two new A380 customers, Korean Air and China Southern Airlines, are due to receive their first aircraft in 2011. Flourens says that ""the basics are now there"" to ensure that the revised processes make the production of these heads of version much smoother, ensuring that the aircraft are delivered on schedule.
+
+And even this final process has been the subject of an improvement effort, with the size and complexity of the A380 making customer acceptance a long-winded affair. ""At the beginning it was a two-week process and we've got it down to eight days - and to five with some customers, which is a good target for such a big aircraft,"" says Flourens. ""But it is still longer for a head of version.""
+
+So after five years of what Emirates boss Tim Clark described as ""pulling teeth"" for Airbus, the light finally appears to be insight at the end of the tunnel. And hopefully some good will come out of all the pain for Airbus's next big airliner programme, says Flourens: ""We have transferred as much as we could of what we learned the hard way on the A380, onto the A350.""
+
+
+
+Subassemblies are now leaving the Hamburg factory in a good state of completion. Picture: Airbus
+
+Source: Flight International","{'label': 'Negative', 'score': 0.8706132769584656}",negative,0.8706132769584656,-1
+Airbus Unveils Fuel Efficient Aircraft of the Future - Elektor,"Tue, 20 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmVsZWt0b3JtYWdhemluZS5jb20vYXJ0aWNsZXMvYWlyYnVzLXVudmVpbHMtZnVlbC1lZmZpY2llbnQtYWlyY3JhZnQtb2YtdGhlLWZ1dHVyZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"July 20, 2010
+
+by Elektor Team on
+
+Airbus Unveils Fuel Efficient Aircraft of the Future
+
+Aviation has most definitely jumped on the eco bandwagon, judging by the amount of press releases I bump into lately. I consider that good news of course. Two months ago I wrote a little piece on Boieng working together with MIT on a pretty cool project: the ‘Double Bubble', a highly fuel efficient airplane. And when Boieng moves, it never takes long before we hear something of Airbus. And what we hear is good news: Airbus unveiled its aircraft of the future at the Farnborough Airshow in the UK...
+
+
+
+
+
+And what we hear is good news: Airbus unveiled its aircraft of the future at the
+
+
+
+Some of the dream plane’s more fanciful features include holographic projections of virtual decors, so that each passenger could transform his or her area into a workspace, a bedroom, or a Zen
+
+
+
+Both Airbus and Boieng are expecting to introduce their future aircrafts around 2030.
+
+
+
+
+
+
+
+
+
+
+
+Read more: Aviation has most definitely jumped on the eco bandwagon, judging by the amount of press releases I bump into lately. I consider that good news of course. Two months ago I wrote a little piece on Boieng working together with MIT on a pretty cool project: the ‘Double Bubble', a highly fuel efficient airplane. And when Boieng moves, it never takes long before we hear something of Airbus.And what we hear is good news: Airbus unveiled its aircraft of the future at the Farnborough Airshow in the UK just a few days ago. The concept aircraft is more fuel efficient, boasts advanced interior systems, and, best of all, it’s quieter.Some of the dream plane’s more fanciful features include holographic projections of virtual decors, so that each passenger could transform his or her area into a workspace, a bedroom, or a Zen garden , and walls and floors that can be made invisible, allowing better views of the landscape below.Both Airbus and Boieng are expecting to introduce their future aircrafts around 2030.Read more: Airbus Unveils Fuel-Efficient Aircraft of the Future | Inhabitat - Green Design Will Save the World","{'label': 'Neutral', 'score': 0.9997604489326477}",neutral,0.9997604489326477,0
+Airbus engineering chief Charles Champion - The Engineer,"Sun, 11 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWVuZ2luZWVyLmNvLnVrL2NvbnRlbnQvb3Bpbmlvbi9haXJidXMtZW5naW5lZXJpbmctY2hpZWYtY2hhcmxlcy1jaGFtcGlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9996753931045532}",neutral,0.9996753931045532,0
+Awesome Carbon Fiber Seats on Qantas” Airbus A380″²s - Airline Reporter,"Wed, 07 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFpcmxpbmVyZXBvcnRlci5jb20vMjAxMC8wNy9hd2Vzb21lLWNhcmJvbi1maWJlci1zZWF0cy1vbi1xYW50YXMtYWlyYnVzLWEzODBzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Airbus A380 is the largest commercial airline in the sky today. It is massive. When you think about this plane you don’t think about “light.” However there is something light about the seats on Qantas Airbus A380’s…they have carbon fiber.
+
+What’s carbon fiber you ask? (if you don’t ask, skip this paragraph) In easy terms it is woven fiber material that is stronger and lighter than metals used in other airline seats. For a more complex answer, read this. While the carbon fiber on the seats is what got my attention about the Qantas’ seats, there are plenty of other cool things going on.
+
+About a year ago, Mary Kirby, via her Runway Girl Blog, talked about the 2009 Australian International Design Award of the Year for their seats. Not only because of the high-tech materials used, but also the way the seats recline. Like a high-end movie theater, the bottom part of the seat moves forward when one reclines, taking away less room from the person behind you.
+
+Qantas told me, ’œThe carbon fibre backshell on the Qantas A380 Economy seats is exclusive to Qantas and provides a unique natural element and visually stunning appearance. The material was selected for sleek design appeal and aircraft weight benefits.’
+
+These carbon seats might be exclusive now, but I am sure we will be seeing seats like these on future flights. As carbon fiber gets cheaper and airlines are looking to cut costs and green house emissions I imagine more carbon fiber will be used. And as Kirby shows, you might be seeing this seat on a Boeing 787 Dreamliner as well.
+
+Two more pictures: ONE & TWO
+
+Thanks Dan for pointing this out!
+
+David Parker Brown EDITOR-IN-CHIEF & FOUNDER - SEATTLE, WA. David has written, consulted, and presented on multiple topics relating to airlines and travel since 2008. He has been quoted and written for a number of news organizations, including BBC, CNN, NBC News, Bloomberg, and others. He is passionate about sharing the complexities, the benefits, and the fun stuff of the airline business. Email me: david@airlinereporter.com https://www.airlinereporter.com","{'label': 'Neutral', 'score': 0.9819679856300354}",neutral,0.9819679856300354,0
+Airbus A380 vs Boeing Dreamliner – Business Traveller - Business Traveller,"Sat, 17 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmJ1c2luZXNzdHJhdmVsbGVyLmNvbS9uZXdzLzIwMTAvMDcvMTcvYWlyYnVzLWEzODAtdnMtYm9laW5nLWRyZWFtbGluZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"As Boeing debuts its 787 Dreamliner aircraft at the Farnborough Airshow this week, Business Traveller compares some of the key stats for two of the most eagerly awaited aircraft in recent history.
+
+The first delivery of Boeing’s Dreamliner is currently scheduled for the fourth quarter of this year, although only today there has been suggestions that this may slip into early 2011 (see our sister site abtn.co.uk for more details). The manufacture of the aircraft has been plagued by delays, with supply chain issues, a machinist’s strike at Boeing, and most recently the need to reinforce a section of the aircraft all resulting in the Dreamliner being over two years behind schedule.
+
+But flight testing began earlier this year, and five aircraft have already completed over 1,000 hours of flights. Launch customer ANA aims to roster the aircraft onto a domestic route in early 2011, before operating it on an international service around March time next year. Meanwhile Continental has been the first carrier worldwide to announced confirmed routes for the 787, with flights from Houston to both Auckland and Lagos set to begin in November 2011 (see online news June 15).
+
+The Airbus A380 has also had a chequered manufacturing history, with Airbus citing the complexity of the 500km of wiring on the aircraft, and the high degree of customisation for each airline among the reasons for the delays. Singapore Airlines took delivery of the first aircraft in August 2007, and now counts 11 superjumbos within its fleet, serving routes including London, Melbourne, Tokyo, Paris, Sydney, Hong Kong and Zurich.
+
+The A380 is now an established sight at airports around the world, with five carriers (SIA, Emirates, Qantas, Air France and Lufthansa) all having taken delivery of the superjumbo. For more information on the layouts and seating products adopted by each airline, click here.
+
+We are not claiming to be comparing like for like here – the A380 and B787 are built for different markets, with the Airbus aircraft serving high capacity routes between primary international hubs, and the Boeing Dreamliner likely to concentrate more on pairing smaller regional cities – long-haul routes that might not previously have been served.
+
+The A380 is capable of carrying nearly three times as many passengers as the Dreamliner at maximum capacity, while Boeing claims its 787 aircraft will be 20 per cent more fuel efficient than similarly-sized aircraft, due to the high percentage of lightweight composite material used in the aircraft’s construction.
+
+The below is simply to give readers a guide to some of the key differences between the two aircraft, which between them will account for over 1,000 deliveries to airlines worldwide over the coming years.
+
+For more information visit airbus.com, boeing.com.","{'label': 'Negative', 'score': 0.9996956586837769}",negative,0.9996956586837769,-1
+Airbus to expand production of A320 family - China Daily,"Sat, 31 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHA6Ly93d3cuY2hpbmFkYWlseS5jb20uY24vbS90aWFuamluL2UvMjAxMC0wNy8zMS9jb250ZW50XzExMDgxNDUyLmh0bdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"TIANJIN - Airbus will increase its monthly manufacturing capacity of the A320 family of commercial aircraft from 34 to 40 by early 2012 amid increasing demand, the aircraft manufacturer said Friday.
+
+""The low operating costs and high reliability of the A320 family made it the market's best seller,"" he added.
+
+Among the 498 aircraft Airbus delivered in 2009, 402 were A320 aircraft.
+
+Airbus's production bus in Tianjin.
+
+During the Farnborough International Air Show from July 19 to 23, Airbus received orders for 206 new A320 aircraft.
+
+The A320 family includes the A318, A319, A320 and A321 aircraft.
+
+Worldwide, the company has received orders for more than 6,500 Airbus A320 aircraft, of which nearly 4,300 have been delivered, the company said.","{'label': 'Positive', 'score': 0.9997588992118835}",positive,0.9997588992118835,1
+Airbus and Spirit Bring A350 XWB Jobs to North Carolina | AIN - Aviation International News,"Fri, 09 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9haXItdHJhbnNwb3J0LzIwMTAtMDctMDkvYWlyYnVzLWFuZC1zcGlyaXQtYnJpbmctYTM1MC14d2Itam9icy1ub3J0aC1jYXJvbGluYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus and Spirit Bring A350 XWB Jobs to North Carolina
+
+Airbus and U.S.-based Spirit AeroSystems showed how European funding benefits workers on both sides of the Atlantic last week, as Spirit formally opened a","{'label': 'Positive', 'score': 0.994753360748291}",positive,0.994753360748291,1
+"Virgin America Orders 60 Airbus A320s, Announces Plans for Sharklets - NYCAviation - NYCAviation","Thu, 22 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm55Y2F2aWF0aW9uLmNvbS8yMDEwLzA3L3Zpcmdpbi1hbWVyaWNhLW9yZGVycy02MC1haXJidXMtYTMyMHMtYW5ub3VuY2VzLXBsYW5zLWZvci1zaGFya2xldHMvOTg5OdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Virgin America today at the Farnborough Airshow announced an order for 40 new Airbus A320 aircraft, with options for an additional 20. Deliveries will take place between 2013 through 2016 at a rate of about 10 each year. The additional optioned aircraft would be spread out for two years beyond that.
+
+Virgin also plans on adding aerodynamic “sharklets” to all of their planes, the airflow-improving Airbus version of winglets, which become available late in 2012.
+
+Virgin America currently has 28 aircraft in their fleet.","{'label': 'Neutral', 'score': 0.9999880790710449}",neutral,0.9999880790710449,0
+747-8 vs A380 costs: airlines weigh in - Leeham News and Analysis,"Wed, 07 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vbGVlaGFtbmV3cy5jb20vMjAxMC8wNy8wNy83NDctOC12cy1hMzgwLWNvc3RzLWFpcmxpbmVzLXdlaWdoLWluL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In the ever-present back-and-forth between Boeing and Airbus about the costs of the 747-8 vs. A380, each company claims its airplane has lower costs.
+
+Boeing claims the 747-8 has double-digit lower costs, to which Airbus indignantly says Boeing–not to put too fine a point on it–is lying. Airbus is unusally blunt on this topic.
+
+Well, two airlines weighed in within days of each other.
+
+Emirates Airlines says the A380 has 16% lower costs than the 747-8, as reported in this article from Business Week. Emirates has ordered the A380 and the 747-8F.
+
+Lufthansa, which has ordered both the A380 and 747-8, concludes the A380 burns less fuel per 100 passenger kilometers, though the figure is 3% lower on a litre-per-passenger kilometer basis.
+
+Source: Lufthansa artwork
+
+When Airbus and Boeing go at each other, we’re skeptical of the the information provide for the obvious reasons. When a third party, like an airline, especially one that has ordered both airplanes, comes up with answers, we are more impressed.
+
+Here is what Airbus presented in May at its Innovation Days.
+
+Boeing has in the past and continues to make its case the 747-8 has lower costs than the A380. Here is Boeing’s slide about fuel burn per seat:
+
+Thus, we now have back-to-back Airbus and Boeing slides; a news report from Emirates; and Lufthansa’s own analysis.
+
+We report. You decide. Or so they say.
+
+Share this: Print
+
+Email
+
+Twitter
+
+Pinterest
+
+Facebook
+
+WhatsApp
+
+LinkedIn
+
+Tumblr
+
+Reddit
+
+","{'label': 'Positive', 'score': 0.7880849838256836}",positive,0.7880849838256836,1
+Airbus needs 'paradigm shift' to achieve A380 delivery forecast: Boeing - Flightglobal,"Fri, 16 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYWlyYnVzLW5lZWRzLXBhcmFkaWdtLXNoaWZ0LXRvLWFjaGlldmUtYTM4MC1kZWxpdmVyeS1mb3JlY2FzdC1ib2VpbmcvOTQ2MDMuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing may have significantly raised its 20-year delivery forecast in its latest current market outlook, but it continues to predict demand will remain flat in the 400-seat-plus sector, where the 747-8 competes with the larger Airbus A380.
+
+Here Boeing's latest forecast has declined slightly, from 740 deliveries to 720 (including around 220 freighters), which is less than half of the 1,729 aircraft market predicted by Airbus in its latest 20-year forecast.
+
+""Airbus is waiting for a paradigm shift in the marketplace, and that just hasn't happened,"" says vice-president marketing Randy Tinseth. ""The A380 has underperformed in the market even to our expectations,"" he adds, referring to the superjumbo's sluggish sales in recent years before June's Emirates deal for 32 more A380s.
+
+© Airbus Emirates A380 in final production
+
+In the presentation of the current outlook, Tinseth compares the two airframers' passenger aircraft forecasts from 2000 - the year that Airbus launched the A380. He points out that a decade ago Airbus put 20-year demand in the A380 category at 1,200 aircraft, but in the first 10 years since publication only around 300 747/A380-sized aircraft have been delivered.
+
+""For Airbus to make that year 2000 forecast happen, they have to figure out a way to deliver 1,000 A380s in the next 10 years.""
+
+Tinseth, who points to the fact that Emirates' 90 orders represent 38% of the entire A380 orderbook, sees the airline and its fellow Middle East carriers as major threat to the legacy network players outside the region. ""Based on the aircraft they're buying, the Middle East airlines are focused on taking the majority of the growth in the market, which is going to impact the other airlines,"" he says.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.6045223474502563}",neutral,0.6045223474502563,0
+The future of air transport: Airbus unveils concept airplane for 2030 - ZDNet,"Wed, 21 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RoZS1mdXR1cmUtb2YtYWlyLXRyYW5zcG9ydC1haXJidXMtdW52ZWlscy1jb25jZXB0LWFpcnBsYW5lLWZvci0yMDMwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Aircraft manufacturer Airbus on Monday unveiled its Concept Plane, an ""engineer's dream"" machine that envisions the future of air transport in 2030.
+
+The plane imagines what the airplane would look like ""if advancements in existing technologies continue apace,"" with consideration to the design of aircraft materials, aerodynamics, cabins and engines.
+
+The aircraft has long, slim wings, semi-embedded engines, a U-shaped tail and a lightweight, ""intelligent"" body that all target greater fuel efficiency, fewer emissions and less noise.
+
+The plane was announced at the 2010 Farnborough International Airshow.
+
+""It's not a real aircraft and all the technologies it features, though feasible, are not likely to come together in the same manner,"" said Airbus executive vice president of engineering Charles Champion in a statement. ""Here we are stretching our imagination and thinking beyond our usual boundaries.""
+
+It's an honorable goal. The airline industry rates pretty high in terms of adverse environmental impact, and the future of green transportation often overlooks the plane for cars, buses, streetcars and high-speed trains to reduce urban congestion.
+
+But planes are still necessary for long-haul transcontinental travel, and rethinking them can make a big difference for countries and corporations alike.
+
+A look into the future, by Airbus:
+
+Seats made from ecological, self-cleaning materials that change shape for a snug fit
+
+Walls that become see-through at the touch of a button, allowing 360-degree views.
+
+Holographic projections of virtual decors, allowing travelers to transform their private cabin into an office or bedroom.
+
+Use of green energy sources such as fuel cells, solar panels or even our own body heat to power some aircraft systems.
+
+Rethinking the flight itself: aircraft may even fly in formation like birds to reduce drag, fuel burn and emissions.
+
+Here's some of what futurologist Robin Mannings had to say in the company's official report (.pdf):
+
+Research in nanotechnology, biotechnology, information technology and cognitive science are providing a growing set of opportunities. Some examples include; new light and strong composite materials, electronic plastics, fuels created directly from growing plants (that are effectively scrubbing the atmosphere of unwanted carbon), smarter computer and avionics systems and transport informatics. A key challenge will be to bring the futures of new technology, of good design and innovative business together. For example; a future aircraft will need to be much more fuel efficient and need radical approaches to engines, airframe and avionics. The needs of passengers will require inspired cabin designs with the latest display and entertainment systems and new efficient boarding methods will be needed to help older passengers. The current businesses of airlines could change to be fully integrated with other parts of the transport system to minimise delays and hassle and maximise efficiency. Passengers will demand flexibility and an end to the hassles associated with flying. Intelligent transportation systems could organise optimal journeys so that all waste, error and delay are accounted for so that the traveller need only follow real time instructions (delivered by a personal wireless communications device that allows detailed tracking). Airports are travel bottlenecks so a future challenge will be to find innovations to streamline the part airports and aeroplanes play in multimodal travel. People do not want endless concrete, endless traffic queues, overcrowded rail journeys and endless delays, queues and the hauling of luggage. Self guided and remotely piloted aircraft are currently being pioneered by the military so perhaps the current model of human pilot and human air-traffic controllers may be redesigned. It seems unlikely that a passenger plane would have no pilot but a freight plane could be a candidate. Certainly if the demand for travel increases and the skies are hugely crowded, then radical new approaches to safe control and guidance will be needed. Many advances in navigation, wireless and sensor technology are predicted and research into machine learning and cognitive sciences are suggesting that in 40 years, there may be few human tasks that could not be performed by a machine. The goal of sustainability will need new approaches to materials, recycling and manufacturing. As well as fuel efficiency, all parts of the lifecycle of aircraft will need to take account of their
+
+environmental impact. Recycling and re-engineering may be as important as the initial manufacturing processes. Looking to the future we can learn many lessons from nature. Biomimicry inspired mankind to follow birds into the skies and it is likely that we can copy many other tricks that nature has evolved. Smart new materials should enable designers to create airframes that are as light as possible. Smart on the outside to aid aerodynamic and operational efficiency and smart on the inside to maximise passenger comfort and enjoyment. Electronics and computing will be integrated into the designs and it can be envisaged that computer chips will be everywhere and in almost everything.
+
+An exciting future, indeed.
+
+This post was originally published on Smartplanet.com","{'label': 'Neutral', 'score': 0.9343727827072144}",neutral,0.9343727827072144,0
+Airbus works to introduce lighter A350 structure with -800 variant - Flightglobal,"Fri, 30 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYWlyYnVzLXdvcmtzLXRvLWludHJvZHVjZS1saWdodGVyLWEzNTAtc3RydWN0dXJlLXdpdGgtODAwLXZhcmlhbnQvOTUwNzIuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Any weight savings found as Airbus evolves the A350's structural design could be incorporated when the -800 variant arrives around a year after the debut in 2013 of the baseline -900 version.
+
+Two areas of the A350's design that have held up production of the first aircraft - the carbonfibre fuselage's electrical structural network (ESN, which provides a return path for electrical current) and the fuselage's damage tolerance - have now been completed to enable construction to begin of A350-900 MSN001.
+
+However, A350 programme chief Didier Evrard says that Airbus is validating the ESN and structural design to see if further improvements can be introduced on later aircraft to generate weight savings. ""We have to be conservative in the first place, then [can improve] through validation,"" he says.
+
+© Airbus
+
+While there is currently no specific airframe number in the XWB production plan at which a block change could be introduced, Evrard says that there are several ""natural points: we have the first four -900 development aircraft, then we have the last development aircraft and the first deliveries, and then we have the introduction of the A350-800 one year later. So if we have opportunities, we would take the -800 introduction as the natural point of embodiment.""
+
+Evrard estimates that the first A350-800 would be around ""aircraft 20"".
+
+Source: Flight International","{'label': 'Positive', 'score': 0.916215717792511}",positive,0.916215717792511,1
+GECAS Orders 100 New Aircraft at Farnborugh 2010: 40 Boeing 737-800s and 60 Airbus A320s - NYCAviation - NYCAviation,"Mon, 19 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ueWNhdmlhdGlvbi5jb20vMjAxMC8wNy9nZWNhcy1vcmRlcnMtMTAwLW5ldy1haXJjcmFmdC1hdC1mYXJuYm9ydWdoLTIwMTAtNDAtYm9laW5nLTczNy04MDBzLWFuZC02MC1haXJidXMtYTMyMHMvOTc1ONIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing and GE Capital Aviation Services (GECAS), the commercial aircraft leasing and financing arm of General Electric, on Monday announced an order for 40 Next-Generation 737-800s for approximately $3 billion.
+
+“We are pleased to announce this Boeing order and the further growth of our fleet,” said Norman C.T. Liu, president and CEO of GECAS. “Over the years, GECAS has successfully leased many 737s to airlines around the world.”
+
+“Today’s announcement with GECAS reaffirms the Boeing Next-Generation 737 as a highly successful asset, both in operation with airlines as well as in the financial community,” said Marlin Dailey, vice president of Sales for Boeing Commercial Airplanes. “GECAS has more than 300 Next-Generation 737s in its fleet with another 105 to be delivered to lessees, including today’s announcement.”
+
+Boeing said GECAS’ continuing acquisition of new 737s reflects solid demand for rapid addition of new airplanes by customers throughout the world.
+
+Also at Farnborough, GECAS announced an order of 60 Airbus A320 jets, worth $4.9 billion at list prices. The aircraft will be outfitted with sharklets which reduce fuel consumption up to 3.2%. Deliveries will begin in 2012.
+
+NYCAviation’s Matt Molnar contributed to this report","{'label': 'Positive', 'score': 0.9999992847442627}",positive,0.9999992847442627,1
+Farnborough reveals multi-billion euro plane deals - RFI English,"Mon, 19 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJmaS5mci9lbi9hbWVyaWNhcy8yMDEwMDcxOS1mYXJuYm9yb3VnaC1yZXZlYWxzLW11bGl0aS1iaWxsaW9uLWV1cm8tcGxhbmUtZGVhbHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"United Kingdom
+
+Aerospace industry rivals Boeing and Airbus announced multi-billion euro deals on Monday at one of the world's biggest aviation trade events in Farnborough outside London.
+
+File photo of Boeing employees crowding the tarmac as the company's 787 Dreamliner taxies down the runway
+
+Advertising Read more
+
+Dubai’s Emirates put in an order for 30 Boeing long-range 777 aircraft worth a combined seven billion euros.
+
+Airbus meanwhile won a 3.3-billion-dollar order from US group Air Lease Corporation [ALC] for 51 single-aisle A320 jets.
+
+The orders for US aerospace giant Boeing and its fierce European rival Airbus come as the aviation industry recovers from the economic downturn and amid rising demand for air travel in the Middle East and Asia.
+
+The Farnborough show near London is renowned for being an arena for major deal announcements.
+
+
+
+Daily newsletterReceive essential international news every morning Subscribe","{'label': 'Negative', 'score': 0.4459361732006073}",negative,0.4459361732006073,-1
+Engine Alliance Completes 100th GP7200 Engine; Specific Fuel Consumption Improvement Noted - Green Car Congress,"Fri, 16 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmdyZWVuY2FyY29uZ3Jlc3MuY29tLzIwMTAvMDcvZWEtMjAxMDA3MTYuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Positive', 'score': 0.9999971389770508}",positive,0.9999971389770508,1
+Fan Photo: Lufthansa A340 with a few Boeing 727’s - Airline Reporter,"Tue, 27 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmFpcmxpbmVyZXBvcnRlci5jb20vMjAxMC8wNy9mYW4tcGhvdG8tbHVmdGhhbnNhLWEzNDAtd2l0aC1hLWZldy1ib2VpbmctNzI3cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"This one is taken at Charlotte Douglas International Airport (CLT) by Drew. You can see a Lufthansa Airbus A340 getting ready to take off, as well as a US Airways Boeing 737 on the left. What’s really cool about this one is you can see two Boeing 727-100’s in the background by the UPS Airbus A310, that are still flying,
+
+Those two Boeing 727-100’s are owned by Jack Roush with NASCAR. They were converted to have 90 seats and used to shuttle NASCAR crew from one race to another. It looks like Roush bought both planes from MGM and they spend quite a bit of time at CLT.
+
+LARGER VERSION
+
+David Parker Brown EDITOR-IN-CHIEF & FOUNDER - SEATTLE, WA. David has written, consulted, and presented on multiple topics relating to airlines and travel since 2008. He has been quoted and written for a number of news organizations, including BBC, CNN, NBC News, Bloomberg, and others. He is passionate about sharing the complexities, the benefits, and the fun stuff of the airline business. Email me: david@airlinereporter.com https://www.airlinereporter.com","{'label': 'Neutral', 'score': 0.9999845027923584}",neutral,0.9999845027923584,0
+Airbus Concept Plane: The future of flying - Pocket-lint,"Mon, 19 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnBvY2tldC1saW50LmNvbS9nYWRnZXRzL25ld3MvMTA0ODU5LWFpcmJ1cy1jb25jZXB0LXBsYW5lLWZsaWdodC1mdXR1cmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9996950626373291}",neutral,0.9996950626373291,0
+Quest will supply parts for Airbus - Business Standard,"Wed, 21 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9hcnRpY2xlL2NvbXBhbmllcy9xdWVzdC13aWxsLXN1cHBseS1wYXJ0cy1mb3ItYWlyYnVzLTExMDA3MjEwMDAwNV8xLmh0bWzSAW5odHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL2FydGljbGUvY29tcGFuaWVzL3F1ZXN0LXdpbGwtc3VwcGx5LXBhcnRzLWZvci1haXJidXMtMTEwMDcyMTAwMDA1XzEuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"May enter design, development in future.
+
+The Bangalore-based aer-ospace engineering and manufacturing company, Quest Global, has announced that it will manufacture parts directly for Airbus under a long term agreement. Quest Global supports its aerospace customers such as Airbus and Boeing for aerostructures, engines, accessories, actuation systems, aircraft interiors and ground support equipment.
+
+Quest has signed a work package with Airbus. A work package is a subset of a project that can be assigned to a specific party for execution. It is for supplying machined parts among other parts for Airbus.
+
+Quest Global has been certified AS 9100 for both engineering services and manufacturing practices. AS9100 is a quality management system for the aerospace and defence industries. Quest Global has set up an integrated manufacturing facility ranging from machining, sheet metal processing, assembly and special processing (through joint venture with Magellan Aerospace). The facility is approved by Airbus apart from other certifications.
+
+Under these agreements, Quest Global will support various programmes in manufacturing as well as the present and upcoming programmes in design.
+
+Quest Global has also set up an aerospace supply chain eco-system in its Special Economic Zone (SEZ) which is spread over 262 acres in Belgaum, North Karnataka, India.
+
+“The firm may get into design and development,” said Aravind Melligeri, chairman & co-founder, Quest Global.
+
+Comparisons with China, a major supplier for OEMs and where AVIC, the state-owned manufacturer, had a several-decades head start in manufacturing military and civil aircraft, are almost inevitable.
+
+Quest Global’s selection as Airbus supplier for manufacturing capabilities, could help Airbus to offer offset fulfilment.","{'label': 'Neutral', 'score': 0.9999734163284302}",neutral,0.9999734163284302,0
+Airbus holds talks with 36 countries interested in buying A400m military transport plane - The Telegraph,"Sun, 04 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvZmluYW5jZS9uZXdzYnlzZWN0b3IvaW5kdXN0cnkvNzg3MTMyMy9BaXJidXMtaG9sZHMtdGFsa3Mtd2l0aC0zNi1jb3VudHJpZXMtaW50ZXJlc3RlZC1pbi1idXlpbmctQTQwMG0tbWlsaXRhcnktdHJhbnNwb3J0LXBsYW5lLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Britain had signed up to buy 25 A400M's for the RAF, but that number will be reduced to 22 in lieu of paying more, after Airbus in March agreed a €2bn (£1.65bn) price increase with the nations to recoup the hundreds of millions of euros a month it has been burning through. European defence ministers agreed to pay the extra €2bn to Airbus and provide €1.5bn in loans in exchange for a share of future exports. The deal marked the end of a year of negotiations and secured 10,000 European jobs.","{'label': 'Neutral', 'score': 0.9992684721946716}",neutral,0.9992684721946716,0
+The plane of the future: Airbus showcases fantasy jet - Daily Mail,"Tue, 20 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEyOTU5NjQvVGhlLXBsYW5lLWZ1dHVyZS1BaXJidXMtc2hvd2Nhc2VzLWZhbnRhc3ktamV0Lmh0bWzSAW5odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc2NpZW5jZXRlY2gvYXJ0aWNsZS0xMjk1OTY0L2FtcC9UaGUtcGxhbmUtZnV0dXJlLUFpcmJ1cy1zaG93Y2FzZXMtZmFudGFzeS1qZXQuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"The plane of the future: Airbus showcases fantasy jet that is leaner, cleaner and quieter
+
+
+
+A glimpse of what flying in the future might be like was provided today by planemaking company Airbus.
+
+
+
+The firm produced images of a fantasy-like aircraft which might be the type of plane flying by 2050, or even 2030 if technology continues developing at the current rate.
+
+
+
+The lightweight plane includes ultra-long, slim bent-back wings and a U-shaped tail.
+
+
+
+Airbus has produced an artist's impression of a fantasy aircraft which includes long, slim wings and a U-shaped tail
+
+The jet would have lower fuel burn, a significant cut in emissions, less noise and greater comfort, according to Airbus
+
+It also has a light-weight ‘intelligent’ body all to improve the plane's environmental performance or ‘eco-efficiency’.
+
+
+
+It is designed to burn less fuel, produce fewer emissions, and create less noise - all in far greater comfort for the passenger.
+
+
+
+The images were displayed at the start of the Farnborough Airshow in Hampshire today.
+
+Charles Champion, engineering executive vice-president at Airbus, said; 'Our concept plane represents an engineer's dream about what an aircraft could look like in the long-term future.
+
+
+
+'It's not a real aircraft and all the technologies it features, though feasible, are not likely to come together in the same manner.
+
+
+
+'Here we are stretching our imagination and thinking beyond our usual boundaries. We want to stimulate young people from all over the world to engage with us so that we can continue to share the benefits of air transport while also looking after the environment.'
+
+The plane has semi-embedded engines and is designed to be 'eco-efficient'
+
+In ‘The Future by Airbus’ the company talks of morphing seats made from ecological, self-cleaning materials, which change shape for a snug fit.
+
+
+
+Other ideas included walls that become see-through at the touch of a button, affording 360 degree views of the world below; and holographic projections of virtual decors, allowing travelers to transform their private cabin into an office, bedroom or Zen garden.
+
+
+
+‘Green’ energy sources like fuel cells, solar panels or even our own body heat might provide energy for powering some systems on tomorrow’s aircraft.
+
+
+
+As aeronautics engineers continue to use nature as a source of inspiration, some of these aircraft may even fly in formation like birds to reduce drag, fuel burn and therefore emissions.
+
+
+
+Meanwhile an Airbus poll of more than 2,240 adults showed that, for the British public under 35, 'environmental issues' were second only to 'cost' as a barrier to flying.
+
+
+
+Those aged 55 or over ranked ease of getting to the airport, flight duration and comfort as being more important.
+
+","{'label': 'Neutral', 'score': 0.847542941570282}",neutral,0.847542941570282,0
+"That David Johnston scandal, in full - Maclean's","Mon, 12 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vbWFjbGVhbnMuY2EvcG9saXRpY3Mvb3R0YXdhL3RoYXQtZGF2aWQtam9obnN0b24tc2NhbmRhbC1pbi1mdWxsL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"I like to think my credentials as an Airbus obsessive are in order, so allow me to dissociate myself from any suggestion that the appointment of David Johnston as Governor General is somehow tainted by it.
+
+It’s true that it was Johnston, as adviser to the Prime Minister on the terms of reference for the Oliphant inquiry, who recommended against including the Airbus scandal in its mandate, a decision that looks all the more baffling in light of the judge’s findings: not only that Brian Mulroney took hundreds of thousands of dollars in cash, shortly after leaving office, from the very man from whom he was accused of taking bribes while in office, but that he lied about it, up to and including his appearance before the inquiry. Regardless of whether Mulroney was personally involved, the circumstances surrounding the Airbus deal are so suspicious that, even 22 years later, they cry out for an inquiry — not in spite of the passage of time but because of it. Johnston’s reasoning, that Airbus, having once been the subject of an RCMP investigation, was “well-tilled ground,” is simply unsupported by the facts: the RCMP had only just begun their investigation when it was shut down by the leaking of the infamous “Swiss letter,” a calamity from which it never recovered.
+
+That’s my opinion, at any rate. Lots of perfectly sensible people with no obvious axes to grind thought he was spot on. But even if you take my view of it, it’s a long way from an error of judgement to a conflict of interest. Those who insinuate there was something unseemly in Johnston’s appointment — sometimes accompanied by the disclaimer that, although they themselves do not believe any of this, others might — are obliged to offer some evidence, or even a plausible rationale, before tossing about such incendiary charges.
+
+At the very least they should say clearly what they mean. Is it seriously alleged that Johnston and Harper cooked up a deal in advance — you keep Airbus out of the inquiry, and I’ll make you Governor General? Surely no one is that far gone. Is it, then, that a grateful Harper bestowed the appointment upon him as a sort of reward, ie that it was only the appointment, and not the advice, that was corrupt — a prospect the Star’s Jim Travers raises, but can’t be arsed to properly debunk? Or is it merely, as Rick Salutin claims, that Johnston’s role in the Oliphant inquiry was an “audition” (whoops, “what can be seen as an audition”), a “test of what the guy might do in a situation where Harper interests are at stake.” You follow the logic: because he had ruled in a way that was supposedly favourable to Harper’s interests in the matter of Mulroney’s cash, he could also be relied upon to do so, say, in a constitutional crisis, the connecting factor being — what?
+
+Nothing in Johnston’s life or record suggests he would offer an opinion based on anything but his best judgment of the public interest. He has never been accused of any partisan leanings; Elections Canada’s site shows no record of him having contributed to a federal political party (apart, perhaps, from an “Experts-Conseil David Johnston Inc.”, which gave $459 to the Liberal Party of Canada in 2000). As far as I am aware, he has no personal links to Harper, and his “involvement” with Mulroney seems limited to having accepted the latter’s appointment as the first chairman of the National Round Table on the Environment and the Economy. By the same standard, his 1994-99 stint as chairman of the Advisory Council to the Federal Government on the Information Highway makes him a Chrétien crony. Perhaps it could be argued that, as a prominent member of the Canadian establishment, he is blinded by class loyalty. Supposing that were true: why should that make him a Harper man? Why not Ignatieff, whom he more obviously resembles in background and outlook (and who has warmly endorsed his appointment)?
+
+So the suggestion that Johnston advised as he did in the inquiry out of some personal or professional loyalty to the Conservative cause, or that he might do so in some future controversy, is clearly baseless — as baseless as the notion that he did so in return for being made Governor General, or the reverse, that he was given the office as a reward for his advice. (Some “reward”: as president of the University of Waterloo, Johnston earned more than $503,000 in salary and benefits last year, roughly four times what he will make in his new job.) The only evidence for it is that the recommendation happened to go Harper’s way.
+
+But did it? The Airbus affair happened more than twenty years ago, under a different government and, arguably, a different party. At the time Harper was a member of the fledgling Reform party, founded in opposition to the Mulroney Progressive Conservatives. No member of the current Conservative government is alleged to have been involved, nor is anyone in Harper’s personal retinue – the sole exception being Mulroney himself, with whom Harper had a brief and ill-advised rapprochement, but who was by the time the inquiry was called persona non grata, and has remained so ever since.
+
+And who called the inquiry? Harper. Had Airbus been included in Judge Oliphant’s mandate, there is no particular reason to assume his report would have been greatly damaging to Harper’s interests, any more than, say, the Air India inquiry, which also concerned events during Mulroney’s time in office. Oliphant’s report was damning enough as it was, with regard to Mulroney’s personal conduct: it seems to have had no impact on Harper’s poll standings. Who knows? A broader inquiry might even have won Harper points for transparency. (I know it didn’t work out so well for Paul Martin, but that was about events in a government of which he was an integral part, not least as senior minister for Quebec. It stretched credulity to believe that he knew nothing at all of the sponsorship mess, and whatever benefit of the doubt he enjoyed vanished when he called a snap election before the inquiry had been completed.)
+
+To recap: there’s no evidence, nor any reason to think, that Johnston’s advice regarding Oliphant was based on anything but his own best judgement. It’s not clear that Harper benefited politically from it, while Johnston’s “reward” involves taking a 75% pay cut. So where is the scandal here? It’s true that there need not be any actual quid pro quo for there to exist a conflict of interest: it is enough that a reasonable person might have a well-founded suspicion there was. But in this case a reasonable person would conclude there was neither quid, nor pro, nor quo.","{'label': 'Neutral', 'score': 0.9968459010124207}",neutral,0.9968459010124207,0
+Farnborough Air Show 2010: Boeing 787 and Airbus A400M to steal the limelight - The Telegraph,"Sun, 11 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvZmluYW5jZS9uZXdzYnlzZWN0b3IvdHJhbnNwb3J0L2Zhcm5ib3JvdWdoLWFpcnNob3cvNzg4MjIyNS9GYXJuYm9yb3VnaC1BaXItU2hvdy1Cb2VpbmctNzg3LWFuZC1BaXJidXMtQTQwME0tdG8tc3RlYWwtdGhlLWxpbWVsaWdodC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"This year promises a number of firsts, with Boeing's 787 making its international debut from July 18 to 20. Last year's Paris air show was awash with rumours that the 787 would make an appearance, but it has taken another 12 months for it to happen.","{'label': 'Neutral', 'score': 0.5628966093063354}",neutral,0.5628966093063354,0
+Airbus aims to finally start assembling first A350 centre wingbox in August - Flightglobal,"Thu, 29 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYWlyYnVzLWFpbXMtdG8tZmluYWxseS1zdGFydC1hc3NlbWJsaW5nLWZpcnN0LWEzNTAtY2VudHJlLXdpbmdib3gtaW4tYXVndXN0Lzk1MDkwLmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus expects to begin assembling a key subsection for the first A350 in August as it strives to keep on the programme's revised schedule and achieve a first flight in mid-2012.
+
+Under the adjusted plan revealed in April, construction of the centre wingbox for A350 number one was scheduled to begin around mid-year at Airbus's plant in Nantes. This was three months later than originally planned after Airbus decided to use some margin to fine-tune the design of the fuselage structure. However, a manufacturing issue with metallic parts has delayed the start of assembly slightly further, with it now to begin in August, says A350 programme chief Didier Evrard.
+
+© Airbus/computer rendering by EIAI The first centre wingbox is about to become a reality
+
+""There was a problem with the machining of some aluminium lithium fittings by a supplier, but this is fixed so we can start the centre wingbox assembly for MSN001 in August,"" he says. ""This was the latest we could start the assembly process without impacting the programme.""
+
+A key milestone in the XWB's production programme was the commissioning of the tooling for keelbeam in Nantes in June, says Evrard. ""This is a large piece of machinery that enables the lower shell of the keelbeam and the lower panel of centre fuselage to be laid up in one go. We'll start using this tooling in August so we can begin assembling the first keelbeam before year-end.""
+
+Meanwhile, the tooling for the four carbonfibre wing covers (two upper and two lower) have been delivered from the USA to Airbus's plants in Illescas, Spain, and Stade, Germany. These will be used to produce the first wing covers in August.
+
+""The next six months will see all the critical first composite parts for MSN001 being constructed,"" says Evrard. ""There will be one pre-production run [of components] to test the integrity, then we'll do MSN001.""
+
+Final assembly of the first A350 will begin in Toulouse in September 2011, with first flight in mid-2012 and deliveries starting to Qatar Airways a year later.
+
+Unlike Boeing's schedule with the 787, Airbus's objective is to begin full-scale fatigue testing at the start of 2012, six months before the first flight. Boeing is yet to begin this exercise, but says it aims to start ""very soon"".
+
+Airbus secured a memorandum of understanding for 15 A350s from HK Airlines at Farnborough for delivery from 2018, through the conversion of part of its existing commitment for 23 A330s. Meanwhile, Kuwaiti lessor ALAFCO has switched its 12 A350-800s to the larger -900 variant. Separately, the airframer's Chinese composite manufacturing joint venture has contracted Spain's Alestis Aerospace to supply parts for the A350's belly fairing. Production in China is due to begin in 2012.
+
+Source: Flight International","{'label': 'Neutral', 'score': 0.9879079461097717}",neutral,0.9879079461097717,0
+World's largest aircraft makes first commercial landing in India - The Hindu,"Thu, 15 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL1dvcmxkcy1sYXJnZXN0LWFpcmNyYWZ0LW1ha2VzLWZpcnN0LWNvbW1lcmNpYWwtbGFuZGluZy1pbi1JbmRpYS9hcnRpY2xlMTYyMDAyMjkuZWNl0gF_aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL25ld3MvbmF0aW9uYWwvV29ybGRzLWxhcmdlc3QtYWlyY3JhZnQtbWFrZXMtZmlyc3QtY29tbWVyY2lhbC1sYW5kaW5nLWluLUluZGlhL2FydGljbGUxNjIwMDIyOS5lY2UvYW1wLw?oc=5&hl=en-US&gl=US&ceid=US:en,"July 15, 2010 07:05 pm | Updated November 17, 2021 11:20 am IST - New Delhi
+
+The first commercial landing of the Airbus A380 — the largest aircraft of the world — took place at the newly inaugurated Terminal 3 of the Indira Gandhi International Airport here on Thursday. Organised to commemorate the launch of Terminal 3, the touchdown of flight EK-516 of the Emirates Airline from Dubai to Delhi was greeted by a water cannon salute at the airport.
+
+A major feature of the new T3 is its A380-compatible runway and passenger boarding bridges. However, rain held up the landing of the EK 516 for about half an hour. The plane, which was supposed to land at around 2.55 p.m., landed at roughly 3.35 p.m. The aircraft was about to touch down but owing to rain and poor visibility problems it took another round of the airfield before landing. On landing too, there was some delay before passengers could disembark. The pilot announced that the delay was caused as the aerobridges were being connected. Sources, however, said it was a stray dog on the runway that had caused the problem.
+
+An Emirates official said: “We organised this flight to promote the A380 in India and give an idea to people about what it is like.” However, India will have to wait before Emirates commences regular A380 operations in the country as the airline has no such immediate plans.
+
+Incidentally, it was the Kingfisher Airlines which first flew in the A380 to India in 2007. The A380, which is the world's only twin-deck, two-aisle airliner, is touted to be less polluting to the environment compared to other aircraft. It offers better fuel economy per passenger mile than most hybrid passenger cars and also produces less noise. The aircraft has two decks. The business and first class seats are on the upper deck of the Emirates A380 while economy seats are on the lower or main deck.
+
+It also boasts of 14 flat bed first class private suites with electrically operated doors and 76 fully-flat seats in business class, each of which has its mini-bar. The economy class too offers greater comfort through contoured seats.
+
+The A380 is 73 metres long while the height and wing span are 24.1 and 79.8 metres respectively. The aircraft's cabin is also believed to be the widest in the world and its cabin length is 50.68 metres.
+
+Speaking to journalists about the prospects of starting A380 operations to India, Emirates senior vice-president (commercial operations West Asia and Indian Ocean) Majid Al Mualla said: “There are three factors we always look into — the capacity and the growth of the routes, the bilateral agreement between the two countries and if the airport is capable of handling the A380. As soon as these factors are in place we will look into it.”
+
+“The Emirates currently has a fleet of 11 A380 aircraft. We will get an additional 79 A380 aircrafts over the next seven years. There will be opportunities for India as well,” Mr. Mualla said. The 79 aircrafts which have been ordered are worth over $ 59 billion.
+
+“We are in regular touch with the Ministry,” he said, stating that talks with the Indian government regarding A380 operations were yet to begin. Emirates began operations to India in 1985 with 10 flights a week and currently operates 184 weekly flights to 10 Indian cities. The airline has over 900 staff in India and plans to hire more.
+
+Correction and Clarification
+
+There is an error in the heading and text of the above report. It should have said “World's largest airliner” or “World's largest passenger aircraft”. The largest aircraft is the Antonov An-225, built by the Antonov Design Bureau.","{'label': 'Negative', 'score': 0.7365121841430664}",negative,0.7365121841430664,-1
+Emirates' Airbus A380 receives warm welcome in New Delhi - Gulf News,"Thu, 15 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZ3VsZm5ld3MuY29tL2J1c2luZXNzL2F2aWF0aW9uL2VtaXJhdGVzLWFpcmJ1cy1hMzgwLXJlY2VpdmVzLXdhcm0td2VsY29tZS1pbi1uZXctZGVsaGktMS42NTQ5NjjSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"New Delhi: Emirates became the first airline to land a commercially operated Airbus A380 on Indian soil in a special flight to celebrate the opening of a new terminal at New Delhi’s Indira Gandhi airport.
+
+EK 516, a special, one-off flight of the 517-seat A380 arrived at the IGI Airport to a water cannon salute at 2.50pm.
+
+A senior delegation of Emirates officials led by Richard Vaughan, Emirates’ Divisional Senior Vice President Commercial Operations and Majid Al Mualla, Emirates’ Senior Vice President, West Asia and Indian Ocean, arrived on this special flight of the Emirates A380.
+
+“This is a proud moment for Emirates as we celebrate 25 years of successful operations in India, one of our most important destinations, not just in Southern Asia, but across our global network,” Mr Vaughan told a 200-strong audience comprising media, travel agents and VIPs, hosted by Emirates and GMR.
+
+“We started our operations to India in 1985 with 10 flights a week and have, today, achieved a feat that no other international airline has"".
+
+Mr Vaughan said that with 11 A380s already part of the carrier’s fleet and 79 more to come, Emirates saw a “significant opportunity” to start regular services to India, subject to government approvals.
+
+“We do see India as one of the key markets where this product will be able to do full justice,” he said, pointing out that the connectivity that Emirates offers through its Dubai hub is second to none.
+
+“Introducing it on the Indian routes is only expected to fuel further growth in the Indian economy and strengthen bilateral ties between the two countries. We are upbeat about our plans and hopeful of being able to offer the product as a regular service to the Indian travellers in the near future.”","{'label': 'Neutral', 'score': 0.9680646061897278}",neutral,0.9680646061897278,0
+Lufthansa takes delivery of second Airbus A380; to be named München - Times of Malta,"Mon, 26 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdGltZXNvZm1hbHRhLmNvbS9hcnRpY2xlL2x1ZnRoYW5zYS10YWtlcy1kZWxpdmVyeS1vZi1zZWNvbmQtYWlyYnVzLWEzODAtdG8tYmUtbmFtZWQtbS11dW1sLjMxOTU3MtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Just two months since delivery of its first Airbus A380, Lufthansa has received the second of the type in Hamburg. The aircraft will be named München at a festive ceremony at Munich Airport by the wife of Munich's governing mayor on Wednesday.
+
+Its inclusion in the Lufthansa fleet will raise frequencies ex Frankfurt to Tokyo from thrice-weekly to daily services from August 2.
+
+In the Lufthansa configuration, the A380 seats a total of 526 passengers. An entirely new First Class with eight deluxe seats on the upper deck reflects individuality, superior comfort and technical innovation, making air travel an even more relaxing and pleasant experience.
+
+The upper deck also accommodates the prize-winning Business Class with 98 seats. Comfort is enhanced additionally in the 420 seats in an impressive and generously dimensioned Economy Class. Numerous airports around the world are currently preparing for the arrival of A380 flights. In Frankfurt, the home base of the Lufthansa A380 fleet, passengers are already boarding and disembarking from the new flagship on two levels.
+
+It is hoped that as from September 1, Lufthansa is to begin flying thrice-weekly from Frankfurt to Peking with its third A380, a company spokesman said.
+
+The giant Airbus will take off for Peking on Mondays, Wednesdays and Fridays, with return flights each time on the following day. A daily flight will be possible on the route when the fourth A380 joins the fleet at the end of October.
+
+From October 25, the airline is planning to commence thrice weekly flights with its flagship between Frankfurt and Johannesburg.
+
+These flights will be available ex Frankfurt on Mondays, Wednesdays and Saturdays. The return flights from Johannesburg will each be operated on the following day.
+
+Source: Lufthansa","{'label': 'Neutral', 'score': 0.7228332161903381}",neutral,0.7228332161903381,0
+"Terminal 3: For NRIs, India has now arrived - The Economic Times","Sun, 18 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vaW5kdXN0cnkvdHJhbnNwb3J0YXRpb24vYWlybGluZXMtLy1hdmlhdGlvbi90ZXJtaW5hbC0zLWZvci1ucmlzLWluZGlhLWhhcy1ub3ctYXJyaXZlZC9hcnRpY2xlc2hvdy82MTgzNTEyLmNtc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"(The writer is a media consultant to a UN Agency)
+
+
+
+
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+""Oh nooooo!"" groan many non-resident Indians (NRIs) as they stood in long queues for immigration after arriving at Delhi airport. Battling jet lag after a long-haul flight and then waiting in an almost immobile queue becomes their first experience of coming to their motherland. No more.Earlier, as NRIs arrived from New York, Toronto, London or Sydney, they would get a culture shock on entering Indian airports. Not now, for in addition to Delhi, new airports have been built for Mumbai, Bangalore, Hyderabad, Chennai and Pune, among others. When NRIs came from some of the world's best airports like Beijing, Hong Kong, Singapore, Bangkok, Kuala Lampur and Dubai, they would sigh, ""Oh, when will India catch up?"" Well, India has caught up as T3 ranks among the top 10 in the world.""Wow!"" could be their first response now as they land at the swanky new Terminal 3 (T3) of Delhi's Indira Gandhi International Airport that opened earlier this month, with its first commercial flight landing July 16, 2010.As they line up at the arrival immigration canyon, the NRIs will gape at the golden discs with delicate feminine hands in elegant postures. At 95 immigration counters, smartly dressed officers in gray blazers and ties, will process their passports. If the NRIs have a PIO or an OCI Card, they can be cleared quickly at special counters.Once they sprint out from passport control to the baggage claim concourse, their bags are most likely to be moving on the conveyor belts. ""Baggage claim has always been the biggest bottleneck at Delhi airport,"" moaned one NRI on a travel site. Others complained that they missed their onward train bookings due to airport delays. Not likely any more.The T3 has 14 baggage reclaim conveyor belts to speed up this chore. If an NRI has nothing to declare and brings in gifts or goods valued under Rs 8,000, he/she breezes through customs and enters the arrivals hall. A host of services are on hand here from taxis, car rentals, hotels, currency exchange, telephones, shopping and lots more.By the end of this year, the NRIs can ride the direct Delhi Metro Airport Express (DAME) link from the airport to the city centre. In less than a half-hour ride on this most modern rapid transit system in the world, he/she will be in Rajiv Chowk (Connaught Circus) and change for any other Metro station on the network.The NRIs' departure from Delhi airport will be no ordeal either. Gone are the chaotic scenes at the entrance to the departures lounge, the hassle of getting security checks for baggage, the long waiting at check-in counters and immigration control. The new airport has no security checks for baggage, has 168 check-in counters, 95 immigration counters and the capacity to handle 34 million passengers per year.If an NRI arrives early, checks in and clears immigration, there is plenty to do in terms of duty-free shopping, snacking and being entertained with TV channels.The humongous steel and glass terminal extends over 5.4 million square feet, has 78 gates or aero-bridges, 97 automatic walkways and five-level baggage screening system with a capacity to handle 12,800 bags per hour, 215,000 square feet of retail space and parking for 4,300 cars in a multi-level building connected to T3 with covered walkways.T3 has nine parking slots for the world's biggest double-decker Airbus A380 plane, six more than Heathrow. Covering 20 acres, T3 is the largest public building, with a length of 1.2 km end to end, constructed since India's independence in 1947. T3 was completed in 37 months by GMR compared with the 45 months China took to build the terminal in Beijing before the 2008 Olympics. Costing $2.7 billion, it can handle 75 planes in an hour with the latest Cat III runway landing system and 97 moving walkways.T3 became operational with the first Air India flight from New York with a big load of NRIs zapped with the new terminal. Another landmark was the first commercial flight of the Emirates A380 Airbus July 15. The Emirates double decker Airbus touched down from Dubai with 512 passengers, mostly NRIs, marking the world's largest commercial aircraft's arrival to the world's latest terminal. This flight was part of a drill to reaffirm the operational readiness of the the world's sixth largest passenger terminal.Instead of moaning on arrival at Delhi airport, NRIs will now beam with pride at the grand airport. For them, India has, literally, arrived.","{'label': 'Neutral', 'score': 0.9999790191650391}",neutral,0.9999790191650391,0
+Airbus boss Brian Fleets hands over the reigns - Cheshire Live,"Thu, 01 Jul 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNoZXNoaXJlLWxpdmUuY28udWsvbmV3cy9idXNpbmVzcy9haXJidXMtYm9zcy1icmlhbi1mbGVldHMtaGFuZHMtNTIwNTY5MdIBWGh0dHBzOi8vd3d3LmNoZXNoaXJlLWxpdmUuY28udWsvbmV3cy9idXNpbmVzcy9haXJidXMtYm9zcy1icmlhbi1mbGVldHMtaGFuZHMtNTIwNTY5MS5hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"Something went wrong, please try again later.
+
+Invalid email Something went wrong, please try again later.
+
+It's more important than ever to stay informed - Get the free CheshireLive newsletter direct to your inbox
+
+Something went wrong, please try again later.
+
+It's more important than ever to stay informed - Get the free CheshireLive newsletter direct to your inbox
+
+BRIAN Fleet steps down from his role as boss of Airbus’ wingmaking factory at Broughton in Flintshire tomorrow – and intends to continue making full use of many of the aircraft he has helped put in the air.
+
+But instead of spending much of his working week travelling to business meetings in France and Germany he is looking forward to leisure trips with his wife, Debbie, around the world.
+
+He retires from Airbus after 36 years with the company he joined as an engineering apprentice aged 18.
+
+His rise through the ranks has been mirrored by the growth of Airbus from new kid on the block four decades ago to the world’s leading manufacturer of airliners. It has successfully challenged and overtaken arch American rival, Boeing, to grab a more than half share of the market for large passenger aircraft.
+
+Mr Fleet has been in charge of the Broughton site for 11 years, holding the title of senior Airbus UK vice-president and head of the Centre of Excellence for Wing & Pylon.
+
+The Broughton site employs 8,000 people, 6,500 of them on Airbus’ payroll, the rest working for agencies, and the factory pumps tens of millions of pounds a year into the regional economy.
+
+Mr Fleet, 54, of Bebington, Wirral, has been involved with every wing production for every aircraft in the Airbus family – from the single aisle A320 Family to the A380 superjumbo, the world’s biggest passenger plane and on to the latest jet, the A350, now being developed. During that time he has overseen the dispatch of thousands of wing sets from the site to the final assembly lines in continental Europe.
+
+He has been responsible for four sites – Broughton and Filton, near Bristol, Bremen, Germany, and St Eloi, France.
+
+It’s been an astonishing accomplishment for the man who took the apprenticeship because his family did not have the money to send him to university..
+
+“Never in my wildest dreams did I envisage the journey we would both take over that 36-year period and the success we would both enjoy,” he said. “If someone had told me when I joined the apprentice training scheme what I and the site would look like some 36 years later I would probably have thought they were smoking ‘wacky backy’.
+
+“I am so thankful to the people who taught me and advised me as I was growing and developing as a young engineer.”
+
+Asked what he thinks was his biggest achievement while in charge at Broughton, he has no hesitation in naming the A380.
+
+“The greatest thrill I ever had was the day of the first A380 flight. I refused to go to Toulouse to join the VIPs, but stayed in the West Factory with all the operatives and staff who had helped design, procure, manufacture and assemble the product,” he recalled.
+
+He added that the Broughton site has doubled in size over the past 11 years and employment has also doubled.
+
+“We have invested during the last 11 years just under 2.7bn euros to double the manufacturing space but also to introduce some of the most advanced manufacturing technologies anywhere in the world. Broughton is internationally recognised as one of the world’s great centres of excellence for wing design and manufacture.”
+
+He explains the aerospace industry and its manufacturing technologies are forever evolving, then adds: “The challenges we face are complex and difficult but you know that at Broughton there is always one constant and that is the way the workforce will rise to these challenges and eventually succeed.”
+
+Future competition to Airbus, the Broughton site and its workforce will come, he forecasts, not from existing players and countries like Boeing and the USA, but from new players and countries like Brazil, China and Canada, who are all developing their own manufacturing industries and aircraft production programmes.
+
+“Every aircraft programme that we have secured over the last 40 plus years at Airbus has been under a competitive challenge and that has made us improve all the manufacturing technologies and that will continue in the future.”
+
+He said it was a good time for him to step down from the company, handing over the reins to Mark Barclay.
+
+Mr Fleet said: “I am confident that the current management team under the leadership of Mark, together with the skilled workforce, are up to any competitive challenge and will continue to keep Broughton as one of the great aircraft manufacturing centres of excellence.”
+
+He said he expects the A380 wing production facility, and the new North Factory which is due to start A350 wing manufacture next year, to both be in service for 40-plus years.
+
+The next programme that will be fundamental to the future success of the company will be the replacement for the single aisle A320 Family. That programme, costing up to £10bn, is not due to get underway for several years, giving Mr Barclay time to find his feet.
+
+“I have no regrets about stepping down at this time. It was my decision. The company is on the pickup with regards to volumes of production. Therefore the time is right,” said Mr Fleet.
+
+He began his near-four decades career, and 30 years at Broughton, in 1974 when the site was part of British Aerospace, later BAE Systems, until the creation of the Airbus single-integrated company in 2001.
+
+Mr Fleet was awarded the CBE in the New Year’s Honour’s list in January this year, for services to the aerospace industry.
+
+After leaving Airbus, he is looking forward to taking on a little lecturing work with “one or two local universities” and carrying out a handful of advisory roles in aerospace and related sectors.","{'label': 'Neutral', 'score': 0.9999240636825562}",neutral,0.9999240636825562,0

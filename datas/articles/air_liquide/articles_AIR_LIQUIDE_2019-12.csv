@@ -1,0 +1,201 @@
+Titre,Date de publication,URL,Contenu
+"Teamsters Call Strike at Airgas in Calif., Extend Picket Lines - International Brotherhood of Teamsters","Thu, 12 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGVhbXN0ZXIub3JnLzIwMTkvMTIvdGVhbXN0ZXJzLWNhbGwtc3RyaWtlLWFpcmdhcy1jYWxpZi1leHRlbmQtcGlja2V0LWxpbmVzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Press Contact: Tom Tullius Phone: (818) 601-4242
+
+(POMONA and SAN DIEGO, Calif.) – Airgas workers who are members of Teamsters Local 848 put up a primary picket line yesterday at Airgas in Pomona, Calif. to protest the company’s violations of federal laws that protect workers’ rights. These Airgas employees supply gas to California facilities and businesses such as hospitals, nursing homes and local restaurants.
+
+Members of Local 848 also extended the picket line to Airgas’ facility in San Diego today. All of the San Diego employees, who are members of Teamsters Local 542, refused to cross the picket line.
+
+This is the second unfair labor practice picket at Airgas Pomona; the first occurred in October when Airgas employees struck at four Southern California locations.
+
+“After the unfair labor practices strike in October, Airgas illegally terminated four workers. Airgas is now being prosecuted by the federal government for the illegal terminations,” said Eric Tate, Secretary-Treasurer of Teamsters Local 848 in Glendora, Calif.
+
+Airgas and its subsidiaries are America’s largest distributor of industrial, medical and specialty gases. Airgas’ parent corporation Air Liquide [EPA: AI], based in France, is the world’s largest distributor of such gases and is a Forbes Global 2000 company.
+
+These Airgas workers organized their union with Local 848 last year, but they do not yet have a contract.
+
+Airgas driver Mario Quintero said, “Going on strike to protest an employer’s abuses is a human right that’s recognized in the U.S. and around the world. In France, Air Liquide would never dare to fire workers for striking. We chose to form a union so we could have dignity and a voice on the job. Treating workers this way is unacceptable.”
+
+“An injury to one is an injury to all,” Tate said. “Under France’s Corporate Vigilance Law, Air Liquide could be sanctioned for its human rights violations in America. The French people would never allow Air Liquide to violate workers’ rights. Teamsters Local 848 will stand by our members and support their right to strike. Airgas workers deserve respect, and the company must follow the law and negotiate a contract.”"
+Why (most) industrial IoT platforms suck – and solve nothing by themselves - RCR Wireless News,"Wed, 11 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnJjcndpcmVsZXNzLmNvbS8yMDE5MTIxMS9mdW5kYW1lbnRhbHMvd2h5LW1vc3QtaW90LXBsYXRmb3Jtcy1zdWNrLWFuZC1kby1ub3RoaW5nLWFsb25l0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sometimes content gets left on the cutting room floor, and sometimes it does not even make the edit. And often that content is excellent, and deserves a feature all of its own. This is a (delayed) retelling of a briefing Enterprise IoT Insights had with an ‘OT operator’ a couple of months back in Sweden, at the European leg of PI World, a bi-annual gathering of industrialists working with PI System, the IT/OT data integration suite from California firm OSIsoft.
+
+The event is notable on the conference circuit because it does away with the ‘future selling’ that characterizes most other tech summits. Instead, it was all business; a private affair detailing the minutiae of industrial IoT mechanics, mostly told by the enterprises themselves. In Gothenburg, in September, the OT set sought to put the IT industry back in its ‘magic box’, as we have recorded.
+
+Part of the press briefing – picked up and put back into the edit, here – considers the mess of over-the-top data integration platforms, bundled for marketing as ‘IoT platforms’, offered by technology firms. There are 400 so-called IoT platforms in the market, we hear; an analyst, also in the briefing, reckons on 700; Enterprise IoT Insights has been quoted no fewer than 1,200.
+
+Either way, there are a bunch of them out there, and most of them suck (inevitably). And all of them, we hear, are useless on their own. Why? Because they are made by software companies, rooted in the IT sector, and presented as a panacea for industrial IoT – a way to unite shop-floor and back-office data in a single system, and press ‘go’ on industrial transformation.
+
+“Platforms are solutions without problems.” We are in conversation, in a briefing room in Gothenburg, with Conversión Magro, deputy chief executive at Alizent, a subsidiary of French firm Air Liquide, the world’s largest supplier (by revenue) of industrial gases. Alizent was founded in 2017, uniting a trio of digital services companies owned by Air Liquide, as a vehicle to marry its parent’s industrial knowledge with software and consultancy services.
+
+Rather like OSIsoft, which supplies underlying databases for industrial sensors and systems, it claims rarefied crossover appeal, between the IT and OT crowds. Unlike vendors tackling the IoT challenge from the other side, it gets industrial culture, it says, in a way that lets its go to the heart of the matter, and pull at the real levers of industrial change.
+
+“We are not about technology; we are about putting technology to work for the industry. That’s the difference,” says Magro. “We don’t talk about projects. We don’t talk about platforms. We talk about solutions. You have a problem, and we find the elements [to solve it] – and maybe some of them are not so glamorous, or so ‘IoT’. But they work, and they work globally.”
+
+The difference, he explains, is technologists have all their eggs in one tech basket; they know no other way, he says. “All of the value is in the platform, in the technology. They might put a finger over the line, to collaborate with domain experts. But they won’t go further than that; they will not deliver those [industrial] solutions. We are the opposite; we are entirely in the industrial space – our whole body is over the line.”
+
+Magro started as a software engineer in 1998, he confesses. But his journey with Air Liquide, moving into senior management positions before helping to create Alizent in 2017, has taken him beyond his roots, and entirely across the IT/OT divide. IoT platforms, he reasons, are the products of IT minds addressing OT problems from the outside. “It’s how I would have solved a problem 12 years ago, when I was still a software architect,” he says.
+
+“It’s what my engineering mind would have told me to do: separate out the part of the problem that I do not control – which is so huge; which covers the industrial part, the process part, the organizational piece, all the complexity of using digital in industry – and address the part I do understand, as an engineer. Which is the connectivity, the protocols, the forest of different brands, and all the devices I have to connect – and to try and generalize that.
+
+“But you cannot think that by solving that part of problem, which is the technical wiring and plumbing, you are solving the rest of it as well. You are still really far away, still, from solving the other [bigger challenge of industrial IoT]. Can this piece contribute to the wider solution? Of course it can. But you need imagination, as well. You need to bridge the gap.”
+
+And bridging the gap takes an unknowable amount of time – “a trillion man-days,” he says. Crucially, it also takes tremendous vision and desire on the part of senior management to make wide-ranging and effective digital change.
+
+A decent IoT platform, on its own, only provides a window into industrial systems and processes; questions around what and how to change operations go much deeper, and will not be answered by IT technicians. Coders write code, sure; but they need hand-holding when it comes to first inputs and final outputs, and how these flow across an organization seeking total reinvention.
+
+Magro puts it best. “If platforms get to a mature point, then they will shorten that gap, to do something useful. Because normally you have to customize it. But that is not the case today. Because the market is still being defined. And if it costs you a million man-days, at some point you wonder [what the point is]?
+
+This is an excerpt from a new editorial report on co-creation, co-innovation and co-configuration, out next week."
+Port of Antwerp Works With Industry Partners on Carbon Storage - The Maritime Executive,"Thu, 19 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL3BvcnQtb2YtYW50d2VycC13b3Jrcy13aXRoLWluZHVzdHJ5LXBhcnRuZXJzLW9uLWNhcmJvbi1zdG9yYWdl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Port of Antwerp is working with seven major industrial companies - Air Liquide, BASF, Borealis, INEOS, ExxonMobil, Fluxys, and Total - on the potential development of joint CO2 infrastructure. The consortium will conduct a study of the technical and economic feasibility of CO2 infrastructure for Carbon Capture, Utilization & Storage (CCUS). This infrastructure would be open-access, much like a utility, and could be used by the entire industrial port community.
+
+The capture and storage of CO2 and the use of CO2 as a raw material for various applications are two high-potential options in the transition to low-carbon port operations. If feasible, the development of joint CO2 infrastructure could lead to a reduction in CO2 emissions in the run-up to 2030.
+
+“From our role as a community builder, we want to contribute to this in a concrete way. If this common infrastructure can be realized, it will benefit the entire industrial port community,"" said Jacques Vandermeiren, Port of Antwerp CEO.
+
+In the first phase, the partners will examine the technical and economic feasibility of CO2 infrastructure in support of CCUS. The analysis is expected to take about one year. The consortium expects that broad financial support from the Flanders regional government, the Belgian government and the EU is essential for implementation of the project, and the study will include examining subsidy options.
+
+Unlike Norway, Belgium does not currently have a suitable site for storing CO2 offshore, so it will need international cooperation. Port of Antwerp and a number of partners have filed two applications for projects to be recognized by the European Commission as Projects of Common Interest. Both projects offer the opportunity to investigate the development of cross-border CO2 transport infrastructure, towards Rotterdam (CO2TransPorts project) and Norway (the Northern Lights project). A decision on these applications is expected by the end of this year.
+
+Two of the CO2 consortium partners, Fluxys and Port of Antwerp, are also part of a joint team examining the production and use of hydrogen as a fuel. Along with Deme, Engie, Exmar, the Port of Zeebrugge and WaterstofNet, they are conducting a joint analysis of the hydrogen import and transport chain, including sea and pipeline transport.
+
+“We want to give hydrogen as an energy carrier and as a basic element for chemistry and as fuel, and therefore commit ourselves as an active pioneer of the hydrogen economy,"" said Vandermeiren in November. ""As Europe's largest integrated chemical cluster, we are an important link in this. We also look at cooperation with spearhead clusters and knowledge institutions and want to learn from this hydrogen coalition for our international ambitions."""
+2020 Honda Clarity Fuel Cell is even more ready for infrastructure that hasn't arrived - Green Car Reports,"Thu, 19 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ncmVlbmNhcnJlcG9ydHMuY29tL25ld3MvMTEyNjQ2Nl8yMDIwLWhvbmRhLWNsYXJpdHktZnVlbC1jZWxsLWlzLWV2ZW4tbW9yZS1yZWFkeS1mb3ItaW5mcmFzdHJ1Y3R1cmUtdGhhdC1oYXNuLXQtYXJyaXZlZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The cold-weather startup performance of the 2020 Honda Clarity Fuel Cell has been improved.
+
+If this feels like a low-priority item for a California car (with limited availability in Japan and Germany, too), let the irony fall like snowflakes: This piece of fuel-cell refinement was likely partly in preparation for a since-delayed network of publicly accessible Air Liquide fueling stations originally due by now in the Northeast. If so, at least the engineering arrived on time.
+
+It’s been a rough year for fuel-cell vehicles, with many stations in the San Francisco Bay Area out of operation for months due to a June incident at a hydrogen facility and, most recently this week, the defeat of an extended EV tax credit that would have also renewed expired credits for hydrogen fuel-cell models. Factor in the faster-than-anticipated drop in battery prices, and you have an increasingly tough argument for fuel cells in passenger cars.
+
+That said, the issue in recent years hasn’t ever been the cars themselves—especially when you look at the latest from Honda. The Honda Clarity Fuel Cell, much more so than the outgoing version of the Toyota Mirai, turned a page in hydrogen-vehicle development and shed the science-experiment look and feel.
+
+Now with the Hyundai Nexo finishing off its first year of deliveries—boosting Hyundai past Toyota in global hydrogen-passenger vehicle sales—and a brand-new sport-sedan-like 2021 Toyota Mirai on the way next year, Honda is giving the 2020 Clarity Fuel Cell a little refresh and fortification heading into what’s already its fourth model year.
+
+2020 Honda Clarity Fuel Cell
+
+The 2020 model has an improved pedestrian-warning system for low-speed driving. Other new features are mostly cosmetic: It adds heated mirrors, a new Crimson Pearl color scheme (replacing Bordeaux Red), and a brown-hued interior now matched with the Platinum White exterior color.
+
+Core specs for the Clarity Fuel Cell remain unchanged. An electric motor system rated at 174 hp and 221 lb-ft turns the front wheels. It’s fed by a 103-kw fuel-cell stack, while an air-cooled 1.7-kwh lithium-ion battery pack acts as the energy buffer when full-throttle bursts are needed and to store away excess energy generated by the fuel-cell system or recovered by regenerative braking. That yields a range rating of 360 miles, or MPGe efficiency ratings of 69 city, 67 highway.
+
+Overall Green Car Reports has found the Clarity Fuel Cell to be a quiet, responsive, comfortable sedan that might be mistaken for a long-range electric car and feels like it could easily be sold bearing Honda’s Acura luxury badge. The infotainment system offers well-integrated CarPlay and Android Auto connectivity, and the full Honda Sensing suite is included.
+
+What’s not included is a whole lot of road-trip freedom. The Clarity Fuel Cell is offered through just 12 approved dealerships—six in the LA region, five in the San Francisco Bay area, and one in Sacramento.
+
+True Zero hydrogen fueling pump, run by First Element Fuels, opened in Thousand Oaks, CA, Mar 2018
+
+The economics are favorable, with an allowance of hydrogen included. In California—the only state where it’s currently available—the Clarity Fuel Cell qualifies for single-occupant HOV lane access as well as a $5,000 state rebate.
+
+A next-generation Toyota fuel-cell stack is due next year, in the Mirai; meanwhile Honda (with GM) is working on a next-generation fuel-cell stack that it hopes will sell in the ten-thousands, while this generation sells in the thousands. Honda underscores that there are 40 hydrogen fueling stations across California. Ever more the missing piece, just get some more stations installed, eh?"
+Latest Methanex project underway - BIC Magazine,"Wed, 11 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmJpY21hZ2F6aW5lLmNvbS9wcm9qZWN0cy1leHBhbnNpb25zL2Rvd25zdHJlYW0vbGF0ZXN0LW1ldGhhbmV4LXByb2plY3QtdW5kZXJ3YXkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Expand Methanex Geismar
+
+Louisiana Gov. John Bel Edwards recently highlighted the third methanol plant developed by Methanex in Geismar, Louisiana, where the $1.3 billion-$1.4 billion project will generate over 1,000 construction jobs in the next three years. LED Secretary Don Pierson joined Methanex President and CEO John Floren and other guests at a celebratory luncheon to recognize the company's growth in Ascension Parish. State, parish and local officials commemorated the latest project that began construction and will bring Methanex's total investment in Ascension Parish to more than $2.5 billion.
+
+Upon beginning operations in the second half of 2022, the G3 methanol plant in Geismar will create 62 new direct jobs with an average annual salary of $80,000, plus benefits. In addition, LED estimates the project will result in 301 new indirect jobs for a total of 363 new permanent jobs in the Capital Region of Louisiana.
+
+""In Louisiana, Methanex has discovered an ideal fit,"" Gov. Edwards said. ""Our extensive midstream infrastructure delivers the most competitive supply of natural gas and other industrial gases. We offer a seasoned workforce that ranks No. 1 for manufacturing productivity in the U.S., and Louisiana's port logistics are second to none. Since beginning methanol production here in 2015, Methanex continues to grow in Geismar and will support more than 1,700 direct and indirect jobs upon completion of this third plant. We congratulate the company on this major milestone.""
+
+Methanex's latest Louisiana project will leverage the most advanced production technology to generate up to 1.8 million metric tons of methanol per year. Combined, the three Methanex plants in Geismar will represent one of the world's largest methanol complexes.
+
+""Louisiana is a very attractive location for methanol production, and the state's investment attraction programs provide an excellent backdrop for this additional investment,"" said Mark Allard, vice president of North America for Methanex. ""As the global leader in the methanol industry, we evaluate growth opportunities around the world, and we are pleased that Ascension Parish will become home to our largest production site globally, with production capability of approximately 4 million metric tons per year.""
+
+With the third plant, the entire Geismar complex will grow to 230 total direct jobs, and the facilities will support another 1,500 indirect jobs in the Capital Region. Methanex is building its third Geismar plant on a 156-acre LED Certified Site, a location that has undergone extensive due-diligence studies to be development-ready.
+
+Methanex is the world's largest supplier of methanol. Methanol is a clear, biodegradable ingredient found in everything from windshield washer fluid, recyclable plastic bottles, plywood floors and paint silicone sealants to synthetic fibers. Also a clean-burning fuel, methanol is increasingly used in the energy sector for blending in gasoline and other fuels.
+
+For more information, visit www.methanex.com or call (225) 402-0300."
+Carbon Capture and Storage project Porthos a step closer - SAFETY4SEA,"Tue, 03 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vc2FmZXR5NHNlYS5jb20vY2FyYm9uLWNhcHR1cmUtYW5kLXN0b3JhZ2UtcHJvamVjdC1wb3J0aG9zLWEtc3RlcC1jbG9zZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The project organisation Porthos has signed an agreement with four companies to work in parallel over the coming nine months on preparations for the capture, transport and storage of CO₂, in line with the Netherlands’ goals to significantly reduce GHG emissions.
+
+The four companies are ExxonMobil, Shell, Air Liquide and Air Products. The capture is to take place at these refineries and hydrogen producers in Rotterdam.
+
+Transport to and storage beneath the North Sea is being prepared by Porthos, a project organisation from EBN, Gasunie and the Port of Rotterdam Authority.
+
+CCS (Carbon Capture and Storage) is an important element in achieving the Dutch Climate Agreement objectives. It is also needed for the production of climate-neutral blue hydrogen, which will enable the hydrogen economy to get off the ground quickly.
+
+Namely, the project is in line with the Netherlands’ climate objectives to reduce emission of greenhouse gases by 49% by 2030 and by 95% by 2050 compared with 1990.
+
+Porthos has now started with the FEED phase. Several millions of euros will be spent on technical preparations in this phase.
+
+That is why it is desirable that Porthos has a form of commitment from the business sector that they will actually use the CO₂ infrastructure.
+
+At the same time, Porthos has committed itself to continuing preparations for the transport and storage of CO₂ beneath the North Sea.
+
+According to the timeframe, by September 2020 an SDE++ tender, the national programme for CO₂ reduction, will start. SDE++ subsidy is required in order to bridge the difference in costs for ETS and the total costs for capture, transport and storage of CO₂.
+
+Whether this subsidy will be awarded and how the financial outline will look for all involved parties is expected to be known by early 2021.
+
+Companies will then have to take the final decision to capture CO₂ and deliver it to Porthos. It will be possible to store the first CO₂ beneath the North Sea by end 2023.
+
+Porthos stands for Port of Rotterdam CO₂ Transport Hub and Offshore Storage."
+Bertrand Piccard breaks world distance record for a hydrogen-powered vehicle in a Hyundai NEXO | Hyundai News ... - Hyundai,"Tue, 03 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lmh5dW5kYWkuY29tL2F1L2VuL25ld3MvZWNvL05FWE8tZGlzdGFuY2UtcmVjb3Jk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Arrival of record was celebrated in the setting of ‘’Musée de l'Air et de l'Espace’’ in Le Bourget, a reference to Bertrand Piccard's aerial exploits. In his capacity as the new world distance record holder with a hydrogen vehicle, Bertrand Piccard said:
+
+""With this adventure, we have proven that with clean technologies, we no longer need revolutionary experimental prototypes to break records. Everyone can now do it with standard zero-emission vehicles,” said Piccard. “A new era in performance is beginning, for the benefit of environmental protection”.
+
+As the first car manufacturer to mass produce hydrogen-powered vehicles, Hyundai is actively preparing for tomorrow's zero emission mobility. Avoiding any dogmatic position on alternative energies, the brand is already responding to current changes in the car market by offering the widest choice of electrified powertrains on the market.
+
+Bertrand Piccard is committed to the planet through the challenge of 1000 Efficient and Profitable Solutions to Protect the Environment, which he initiated with the Solar Impulse Foundation. Hyundai Motor France shares the same vision of sustainable growth and has used him as its ambassador since 2017.
+
+Record key figures:"
+"With mining leases renewed ahead of deadline, NMDC set for a promising 2020 - BusinessLine","Tue, 31 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vY29tcGFuaWVzL3dpdGgtbWluaW5nLWxlYXNlcy1yZW5ld2VkLWFoZWFkLW9mLWRlYWRsaW5lLW5tZGMtc2V0LWZvci1hLXByb21pc2luZy0yMDIwL2FydGljbGUzMDQzNDkwMi5lY2XSAZIBaHR0cHM6Ly93d3cudGhlaGluZHVidXNpbmVzc2xpbmUuY29tL2NvbXBhbmllcy93aXRoLW1pbmluZy1sZWFzZXMtcmVuZXdlZC1haGVhZC1vZi1kZWFkbGluZS1ubWRjLXNldC1mb3ItYS1wcm9taXNpbmctMjAyMC9hcnRpY2xlMzA0MzQ5MDIuZWNlL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en,"With iron ore prices set to firm up from January 2020 and both steel production and prices starting to move up from November, the country’s largest iron ore mining company NMDC Ltd has a lot going for it to cash in on the expected buoyancy.
+
+The Hyderabad-based State-owned mining company, whose focus has been on iron ore mining, has also received a shot in the arm with the Union Coal Ministry allocating two coal blocks — the Rhone and Tokisud North — both located in Hazaribagh district of Jharkhand, its iron ore mining leases in Chhattisgarh have been renewed three months ahead of the scheduled expiry and it has secured nod from the government for expansion of the Kumaraswamy mines in Karnataka from 7 MTPA to 10 MTPA.
+
+In a major development, the Chhattisgarh government has extended the mining lease of four mines of the Bialdila iron ore projects, in December, which were due for extension in March 2020.
+
+NMDC operates three iron ore complexes in the country, with two of them in the Dhantewada district of Chhattisgarh sharing a major portion of company’s total output and one is located in Karnataka’s Donimalai project.
+
+Of the 33 million tonnes per annum (MTPA)production, two complexes in Chhattisgarh in Bacheli and Kirandul under Bailadila projects contributed 24 MTPA in 2018-19, shows the significance of the lease renewal ahead of time for NMDC.
+
+Of the five mines in the Bailadila sector, lease of four mines with an installed capacity of 29 MTPA has now been extended and one mining lease received extension in 2017 itself.
+
+According to a research report by Emkay Global, “The Government is of the view that there is a risk of domestic demand for iron ore outstripping local supplies after March 2020 with imports still not a viable alternative, given the high landed cost of imports.”
+
+It further stated, “The approval of production increases (for Kumaraswamy) comes despite only two years of lease still remaining for this mine. This implies an immediate need to boost production in FY 2021 to counter a possible shortage as 60 MT of ore production in Odisha goes under the hammer.”
+
+Opportunities
+
+The allocation of the coal mines with extractible coal reserves of 191 million tonnes at Rhone coal block and 52 mt of thermal coal at Tokisud, will enable the iron ore mining major to diversify into coal production as well. The allocation of coal mine augurs well for the mining company as the coal produced could be used for captive consumption for its diversification projects, including steel.
+
+Emkay has factored 2/3 MT incremental production sales in FY 2021-22, considering the expansion of mining plan.
+
+In yet another important move, NMDC as also signed up with the Andhra Pradesh government for supply of iron ore for the proposed greenfield integrated steel plant in YSR Kadapa district, where a the linkage will be for a 5 MT of iron ore per annum in the first phase.
+
+It also expects a favourable development for Donimalai mines paving way for production.
+
+During the first half of this fiscal, NMDC logged sales of ₹5,505 crore, up 13 per cent over same period last year and profit after tax of ₹1,883 crore, up 17 per cent.
+
+SHARE Copy link
+
+Email
+
+Facebook
+
+Twitter
+
+Telegram
+
+LinkedIn
+
+WhatsApp
+
+Reddit"
+Cameroon: New oil code boosts investors' rush into the oil sector (SNH) - Business in Cameroon,"Mon, 02 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5jYW1lcm9vbi5jb20vaHlkcm9jYXJib25zLzAyMTItOTczMC1jYW1lcm9vbi1uZXctb2lsLWNvZGUtYm9vc3RzLWludmVzdG9ycy1ydXNoLWludG8tdGhlLW9pbC1zZWN0b3Itc25o0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"“(Business in Cameroon) - We note a real interest on the part of international oil companies, whether already operating in Cameroon or not, to take advantage of the incentives provided by the oil code to increase investment or invest into oil exploration and production in Cameroon. Many law firms and professional organizations have also expressed their interest in promoting the new oil code (...),” says Jean-Jacques Koum (photo), Chairman of the Permanent Commission for Oil and Gas Contract Negotiations set up by the Société nationale des hydrocarbures (SNH), the national oil and gas company, in a recent publication.
+
+According to the chairman, this enthusiasm is evident even though the framework is not yet fully in place. “The decree implementing the new law is eagerly awaited and should come into force shortly,” he says.
+
+The new code, issued on April 25, 2019, is more attractive to investors because of the various incentives it provides, the official indicates. These incentives help mitigate the risks taken by investors and improve savings realized on their different projects. An example of such incentive is the tax cuts that should, according to Mr. Koum, reduce the risks investors face in this highly capital-intensive and risky sector.
+
+From a fiscal point of view, Jean-Jacques Koum says, the new oil code contains a whole chapter devoted to the incentives Cameroon could grant to oil companies, to encourage them to take more risks, especially when the international oil market context is not favourable to investment, or when the field presents proven difficulties.
+
+These incentives range from tax consolidation measures, tax exemption periods, lower tax rate of 35%, incentives for the acquisition of seismic data to an exemption from the payment of signature bonuses. The text also specifies that specific investment programmes aimed at increasing production such as tertiary recovery may also benefit from the incentives.
+
+Sylvain Andzongo"
+Nitrogen Generator Market is Booming Across the Globe Explored in Latest Report 2019 ? 2025 | Top Key players - openPR,"Mon, 23 Dec 2019 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8xODgzMzk5L25pdHJvZ2VuLWdlbmVyYXRvci1tYXJrZXQtaXMtYm9vbWluZy1hY3Jvc3MtdGhlLWdsb2JlLWV4cGxvcmVk0gFhaHR0cHM6Ly93d3cub3BlbnByLmNvbS9hbXAvMTg4MzM5OS9uaXRyb2dlbi1nZW5lcmF0b3ItbWFya2V0LWlzLWJvb21pbmctYWNyb3NzLXRoZS1nbG9iZS1leHBsb3JlZA?oc=5&hl=en-US&gl=US&ceid=US:en,"Nitrogen Generator Market is Booming Across the Globe Explored in Latest Report 2019 – 2025 | Top Key players Analysis by IGS Generon, Holtec Gas Systems, Atlas Copco, Parker Hannifin, Proton
+
+Nitrogen Generator Market
+
+https://www.cmfeinsights.com/request-sample.php?id=120315
+
+https://www.cmfeinsights.com/ask-for-discount.php?id=120315
+
+https://www.cmfeinsights.com/enquiry-before-buying.php?id=120315
+
+www.cmfeinsights.com
+
+Nitrogen generators and stations are stationary or mobile air-to-nitrogen production complexes. Global Nitrogen Generator market is expected to rise to register a steady CAGR of XX% in the forecast period of 2019-2025.The report contains data from the base year of 2019 and the historic year of 2017.The worldwide market for Nitrogen Generator Market is expected to grow at a CAGR of roughly over the next five years, will reach million US$ in 2025, from million US$ in 2019. A new market research report, titled Nitrogen Generator Market analyzes the market by stating its current value, size, and market performance and statistics. The report is an in-depth study of the key dynamics of the global shipbuilding market. An overview of the types, the process, and value chain has been included in the report for the benefit of the readers.Request a sample copy of this report @Key Strategic Manufacturers are IGS Generon, Holtec Gas Systems, Atlas Copco, Compressed Gas Technologies, Linde Engineering, On Site Gas Systems, Parker Hannifin, South-Tek Systems, Proton, NOXERIOR S.r.l., PCI-Intl, SAM GAS Projects, Air Liquide.An assessment of the market attractiveness with regard to the competition that new players and products are likely to present to older ones has been provided in the publication. The research report also mentions the innovations, new developments, marketing strategies, branding techniques, and products of the key participants present in the Nitrogen Generator Market.Market Segment by Type, covers• PSA• Membrane• Cryogenic AirMarket Segment by Applications, can be divided into• Food Industry• Chemical Industry• Electronics• OtherAvailable up to 40% Discount on this report @Market Segment by Regions, regional analysis coversNorth America (United States, Canada and Mexico)Europe (Germany, France, UK, Russia and Italy)Asia-Pacific (China, Japan, Korea, India and Southeast Asia)South America (Brazil, Argentina, Colombia)Middle East and Africa (Saudi Arabia, UAE, Egypt, Nigeria and South Africa)Global Nitrogen Generator Market Report includes major TOC points:1. Global Nitrogen Generator Market Overview and Scope2. Classification of Global Nitrogen Generator by Product Type, Market Share by Type3. Global Nitrogen Generator Size Comparison by Region, by Application4. Global Nitrogen Generator Market Status and Prospect5. Global Nitrogen Generator Competition by Players/Suppliers, Revenue, Market Share, Growth Rate6. Global Nitrogen Generator Players/Suppliers Profiles and Sales Data, Price and Gross Margin7. Global Nitrogen Generator Market Manufacturing Cost Analysis, Key Raw Materials Analysis, Manufacturing Process AnalysisPurchase a Copy Of this Report @In this study, the years considered to estimate the market size of Nitrogen Generator market are as follows:History Year: 2014-2018Base Year: 2018Estimated Year: 2019Forecast Year 2019 to 2025.Key Market Features:The study provides a comprehensive analysis of the key market factors and their latest trends, along with relevant market segments and sub-segments. Nitrogen Generator Market size is calculable in terms of revenue (USD Million) production volume during the forecast period. The scope of the report extends from market eventualities to comparative rating between major players, price and profit of the required market regions. This makes available the holistic view on competitive analysis of the market. Some of the top players involved in the market are profiled completely in a systematic manner.Contact Us:CMFE InsightsJay S+44 7537 121342Office 271321 - 323 High RdChadwell HeathRM6 6AX UKsales@cmfeinsights.comAbout Us:CMFE Insights caters to clients’ needs by elucidating the power of innovation, thus thriving on business innovations. Our mission is to guide global businesses through our comprehensive market research reports. Through our infrastructural competence of digital transformations, we orchestrate escalated market efficiency for our clients by presenting them with capable growth opportunities in the global market scenario. Through the experienced eye of our research associates we help our clients to envision a flourishing future. CMFE Insights techniques is a perfect blend of both qualitative and quantitative modes, on basis of which we provide our clients with syndicated research reports to further enhance their strategic organizational decisions. CMFE Insights helps clients to build a pragmatic future in the innovative market industry."

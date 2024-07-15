@@ -1,0 +1,437 @@
+Titre,Date de publication,URL,Contenu
+Princeton students take engineering in new directions through senior thesis projects- Princeton Engineering - Engineering at Princeton University,"Mon, 04 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL2VuZ2luZWVyaW5nLnByaW5jZXRvbi5lZHUvbmV3cy8yMDE4LzA2LzA0L3ByaW5jZXRvbi1zdHVkZW50cy10YWtlLWVuZ2luZWVyaW5nLW5ldy1kaXJlY3Rpb25zLXRocm91Z2gtc2VuaW9yLXRoZXNpcy1wcm9qZWN0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Katie Kennedy traveled to the Himalayas to study 250-year-old bridges made from living tree roots. Meagan Yeh evaluated material for possible use in a fusion reactor. Hans Hanley built a tool to close a loophole in online privacy.
+
+For Princeton undergraduates, the senior thesis is a chance to pursue original research or creative work on a topic of their own choosing. All students earning bachelor’s degrees complete independent projects. Faculty advisers serve as guides for students as they learn to apply their knowledge in new ways.
+
+“The independent thinking was a great way to round out my time at Princeton,” said Kennedy, a civil and environmental engineering major. She added that she found it rewarding “to lead a project on my own and think through the entire process of what questions I wanted to answer and how to answer them.”
+
+Katie Kennedy: Framework for a greener future
+
+Kennedy first learned about living root bridges from Sanjeev Shankar, an architect who lectured at Princeton about his work documenting and preserving the structures. She was captivated by the long tradition of these sustainable spans, which are unique to Meghalaya, India. Grown from aerial roots of the Indian rubber tree on frames built of small palm-tree trunks, the bridges can span rivers tens of meters wide. They grow stronger and safer over time, and are remarkably resilient to the region’s monsoons.
+
+Kennedy worked with Branko Glišić, an associate professor of civil and environmental engineering, to analyze the bridges’ growth process, material properties and structural capabilities. Glišić said Kennedy’s thesis is an important contribution toward understanding the bridges’ engineering. “It creates a foundation for future research and opens many questions that no one thought about before,” he said. Also advising Kennedy on the project were Professor Maria Garlock and Assistant Professor Maurizio Chiaramonte, both of civil and environmental engineering; and Shankar, an architect and researcher based in Bangalore, India.
+
+Living root bridges are at risk from misuse by tourists, lack of maintenance and replacement with concrete. To help ensure the bridges remain a practical option in a modernizing world, Kennedy explored possibilities for refining their structures and speeding their productive growth – the bridges typically take about 30 to 40 years to become usable. She said she hopes these studies can advance the broader field of sustainable architecture through a new understanding of the structures’ “natural intelligence.”
+
+Meagan Yeh: Furthering the quest for fusion energy
+
+Meagan Yeh, a chemical and biological engineering major, applied her training to explore possible options for bringing the use of fusion energy closer to fruition. After a summer working at the Princeton Plasma Physics Laboratory with Professor Bruce Koel and Samuel Cohen, the director of the Program in Plasma Science and Technology, she used her independent work to address one of the most difficult challenges facing fusion researchers: making the reactor’s walls able to withstand the heat and energetic particles from the reactions.
+
+Koel suggested that Yeh join an effort examining a new approach that involves working with a special type of the metal tungsten, which is extremely hard and dense and has the highest melting point of any element.
+
+Yeh said she was immediately interested. The material, a formulation called “nano-grained” tungsten, has promising properties. The proposal “was exciting,” she said. “It was challenging. It was intimidating.”
+
+In nuclear fusion, enormous amounts of energy are released when two light atoms such as hydrogen isotopes fuse to make one slightly heavier atom such as helium. One proposed method for building a fusion plant involves reactions in superheated plasma that has been confined in magnetic fields. Plasma is an ionized gas made up of positively charged ions and negatively charged electrons.
+
+To test the tungsten’s performance in conditions that simulated a fusion reactor, Yeh and Luxherta Buzi, a postdoctoral researcher in Koel’s lab, used state-of-the-art equipment at the University of California-San Diego. At the Princeton Institute for the Science and Technology of Materials, Yeh examined the tungsten samples for damage using a scanning electron microscope.
+
+The work produced “important results for fusion applications,” Koel said. “They open the door for more research.”
+
+Lindy Zeng: Algorithms to illuminate the Amazon
+
+A 2016 internship sponsored by the Princeton Environmental Institute showed Lindy Zeng the power of applying computer science to environmental problems; she used computer vision and machine learning to gather data on African agriculture from satellite imagery.
+
+Zeng, who is graduating with an A.B. in computer science along with a certificate in environmental studies, pursued further independent work analyzing satellite imagery – including a project helping a governmental conservation program plan patrols of the Philippine rainforest to protect biodiversity. Toward the end of her junior year, Zeng was inspired by a competition she found on Kaggle, an online platform that hosts contests for machine-learning models using provided data sets.
+
+Zeng worked with Professor David Dobkin to use a Kaggle data set for her senior thesis project. Using satellite images of the Amazon rainforest, she developed methods to identify features such as rivers and roads, and to track land use patterns leading to forest loss.
+
+Dobkin, Princeton’s Phillip Y. Goldman ’86 Professor in Computer Science, praised Zeng’s creativity and persistence in continuing to tweak her algorithms to achieve higher accuracy scores. He said they had many conversations about using remote-sensing approaches to extract more information from the images – for example, by removing cloud cover.
+
+Zeng said the work was a valuable way to combine her interests. “I think it’s really important to apply novel research ideas to other domains – to show a larger audience what computer science can do to improve their fields,” she said.
+
+Hans Hanley: Strengthening online security
+
+The sheer scope of the 2013 revelations about government surveillance sparked an intellectual fire in Hans Hanley, who is graduating with a degree in electrical engineering. “At the time, the fact that any organization was collecting that much information about people was chilling,” said Hanley, who knew entering his freshman year that he was interested in cybersecurity.
+
+What he didn’t know is that before graduation, he would find himself at the cutting edge of online privacy. Working with Prateek Mittal, an assistant professor of electrical engineering, Hanley identified a new method for improving security within Tor, a web browser designed to provide anonymity to users. His research borrowed from a theoretical framework used in databases, known as differential privacy, and applied that framework to a known problem in the Tor browser’s relay system – the very mechanism that allows users to remain anonymous. Hanley’s approach essentially creates a layer of digital noise that would obscure any information leaks within Tor.
+
+“One thing that working on Tor has taught me is that there are many different tradeoffs that you must take into account when designing a system,” he said. “As an engineer, it is all about finding the best tradeoffs and picking a point along that optimization that you think is best and can help the people using your system the most.”
+
+This year, Hanley is one of three recipients of Princeton’s Daniel M. Sachs Class of 1960 Graduating Scholarship. As a Sachs Scholar at the University of Oxford, he will pursue two master’s degrees, one in computer science and one in mathematics and foundations of computer science. Hanley plans to continue researching privacy, security and information theory; he has also received a National Science Foundation Graduate Research Fellowship for doctoral work at Stanford University.
+
+Isabel Cleff: Building a better rocket
+
+Isabel Cleff’s senior thesis on rocket design stemmed from a fierce fascination with flight. Earning a pilot’s license in high school was “the driver towards realizing that I liked hands-on stuff ‚Ä¶ I liked the kind of machines that we use to explore space and the air,” said Cleff, a mechanical and aerospace engineering major.
+
+In her sophomore year, she heard about the supersonic wind tunnels in the Princeton Gas Dynamics Laboratory, and wondered what experiments she might do in a chamber that could move air faster than the speed of sound. For her thesis project, Cleff worked with Marcus Hultmark, assistant professor of mechanical and aerospace engineering, to design and test an aerospike nozzle: a structure on the end of a rocket engine that, in contrast to the standard bell nozzle, has the potential to markedly improve the rocket’s fuel efficiency. The wind tunnel allowed Cleff to simulate the rapid movement of air that occurs during a rocket’s launch through the atmosphere.
+
+Engineers have long theorized that an aerospike, which directs the flow of combustion gas through the nozzle, would enable a rocket to operate more efficiently as air pressure changes with altitude, but few have demonstrated this experimentally. Cleff’s work represents a “clever way of doing it on a small scale,” said Hultmark, whose research group is now building on the system that Cleff established.
+
+This summer Cleff, who is also a founder of the Princeton Rocketry Club, will begin a position in rocket engine development at the satellite launch startup Virgin Orbit, where she interned in 2017. Testing real rockets is “the coolest thing that I’ve had experience with in my life,” she said. “It’s awesome to stand out in the middle of the desert and watch a rocket engine fire.”
+
+Evan Wood: Problem-solving for an uncertain world
+
+Evan Wood sees a great opportunity in the uncertainty that comes with the rise of technologies like renewable energy and self-driving cars. Wood, who majored in operations research and financial engineering (ORFE), seeks to tackle the challenges of making smart decisions within complex, changing systems.
+
+For his thesis project with Professor Warren Powell, Wood said he had the chance to take on a “massive, rich and messy problem” involving energy usage. Through a partnership between Powell’s research group and the multinational industrial gas company Air Liquide, Wood examined methods to optimize the company’s electricity and natural gas contracts as well as its plant operations by using Air Liquide’s industrial gas storage capabilities. Air Liquide uses 0.1 percent of the world’s electricity to produce pure hydrogen, oxygen, nitrogen and other gases for applications such as manufacturing, health care and electronics.
+
+Energy prices and supplies are notoriously volatile, and have become especially unpredictable in Texas, the base for a large portion of Air Liquide’s production, thanks in part to the state’s growing adoption of wind power. Using an approach known as stochastic optimization, Wood wrote algorithms to generate policy options designed to maximize the profitability and reliability of the company’s operations within a system characterized by a high degree of randomness (or stochasticity).
+
+Powell said he was impressed by the “elaborate piece of software” Wood built. “He did a very careful study of different configurations and ways to help Air Liquide handle the volatility.”
+
+“I found this to be a really great exercise in understanding how you can take everything that you’ve learned and combine it together to solve a real-world problem,” Wood said. “It’s the whole reason why I joined ORFE in the first place.”"
+Runfola: Low bids may result in more expense - BIC Magazine,"Mon, 04 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJpY21hZ2F6aW5lLmNvbS9kZXBhcnRtZW50cy9lbmdpbmVlcmluZy1jb25zdHJ1Y3Rpb24vcnVuZm9sYS1sb3ctYmlkcy1tYXktcmVzdWx0LWluLW1vcmUtZXhwZW5zZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"When balancing the sometimes conflicting concepts of cost management and effective procurement, Joye Runfola, Senior Project Logistics Specialist, Americas Procurement Center for Air Liquide, said that the “bottom line is saving on costs.” But what’s cheapest is not always what’s best, she added.
+
+Discussing effective procurement and cost management at the Downstream Conference and Exhibition, held recently in Galveston, Texas, Runfola stressed the importance of safety in making procurement decisions, particularly when hiring contractors.
+
+“In my past experience as a construction manager … the organization chose lower-grade contractors that swore up and down that they were safe and had a safe culture, and they knew what was required of them,” Runfola said. “Then they get to the site and they’re not that at all. You spend more time in the field trying to bring them up to speed to your safety culture and not actually focusing on the critical craftwork that needs to be done in the very beginning. What we lose in man hour spending is money that would have been spent if they would have just spent a little bit more on the contractors.”
+
+Jay O’Connor, Senior Estimator for NextDecade, LCC and Margaret Martin, Procurement Leader of Gulf Coast Region for INEOS Styrolution America LLC joined Runfola on the panel; Dietrich Pankratz, Manager of Sourcing and Procurement Consulting for BearingPoint, moderated.
+
+× 1 of 2 Expand Jay O’Connor (let), Senior Estimator for NextDecade, LCC; Joye Runfola, Senior Project Logistics Specialist, Americas Procurement Center for Air Liquide and Margaret Martin, Procurement Leader of Gulf Coast Region for INEOS Styrolution America LLC × 2 of 2 Expand Joye Runfola (left), Senior Project Logistics Specialist, Americas Procurement Center for Air Liquide and Margaret Martin, Procurement Leader of Gulf Coast Region for INEOS Styrolution America LLC. Prev Next
+
+This article will appear in its entirety in the August issue of BIC Magazine."
+China: Hydrogen Industry Development Innovation Forum - Hydrogen Council,"Thu, 28 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vaHlkcm9nZW5jb3VuY2lsLmNvbS9lbi9jaGluYS1oeWRyb2dlbi1pbmR1c3RyeS1kZXZlbG9wbWVudC1pbm5vdmF0aW9uLWZvcnVtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"On 28 June, the Hydrogen Council convened in Beijing for the Hydrogen Industry Development Innovation Forum. The Council co-organized the event alongside China EV100, Hydrogen China, and the International Hydrogen Fuel Cell Association, with support from the United Nations Development Programme. Hosted by the prestigious Tsinghua University, more than 400 stakeholders were present and were able to take part in productive and meaningful conversations around hydrogen deployment, establishment of a hydrogen ecosystem, and the global market.
+
+The Forum was very well-attended by high-level representatives from academia, industry, and government such as CPPCC National Committee Vice Chairman Wan Gang, Tsinghua University President Qiu Yong, China EV100 President Chen Qingtai, China EV100 Executive Vice President Ouyang Minggao, Chinese Academy of Engineering Academician Gan Yong, China Energy Investment Corporation President and CEO Ling Wen, Chinese Academy of Sciences Academician Xu Guanhua, China EV100 Secretary General Zhang Yongwei, and Beijing Automotive Group Co., Ltd. General Manager Zhang Xiyong.
+
+The event marks the Council’s debut in China, a leading market for hydrogen deployment, and is the latest stop on our global roadshow aimed at engaging a broad range of international stakeholders. We thank our partners for a fruitful event, and our member companies, 3M, Air Liquide, Anglo American, Ballard, BMW, Bosch, China Energy, Daimler, ENGIE, Faurecia, Great Wall Motors, Hyundai, Linde, Shell, Toyota, and Weichai for their participation and support.
+
+Find related:"
+Europe sweats over CO2 shortage - Chemical & Engineering News,"Thu, 28 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vY2VuLmFjcy5vcmcvYnVzaW5lc3MvZm9vZC1pbmdyZWRpZW50cy9FdXJvcGUtc3dlYXRzLW92ZXItQ08yLXNob3J0YWdlLzk2L2kyN9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"European beer and soda drinkers could be left feeling a little flat this summer. Maintenance shutdowns at major suppliers of food-grade CO 2 have combined with a period of unusually hot weather across Europe to create a shortage of the gas for some food and drink producers.
+
+Credit: Shutterstock
+
+European industrial gas distributors including Air Liquide, Linde, and Praxair have been affected by the CO 2 shortage, with supply tightest in the U.K.
+
+A large volume of food-grade CO 2 is made as a by-product during the manufacture of ammonia. Many European ammonia producers close their plants for maintenance during the summer, when demand for fertilizers slows. But this year, plant shutdowns are being prolonged because ammonia prices are low and raw material costs are high. Consequently, ammonia producers have been importing—not making—some product.
+
+Meanwhile, the hot weather and the World Cup have caused a spike in demand for carbonated drinks in the region, beverage producers say.
+
+Sign up for C&EN's must-read weekly newsletter Email Address * Subscribe » Contact us to opt out anytime
+
+European food companies big and small say they are facing a CO 2 shortage. Coca-Cola in recent days disclosed that the shortage has forced it to interrupt production in the U.K. “Our focus is on limiting the effect this may have on the availability of our products,” the firm says.
+
+Booker, a wholesaler of drinks to bars, restaurants, and shops in the U.K., is limiting purchases of cases of beer, cider, and soft drinks to 10 per customer. And the shortage has gone beyond the beverage sector. Quality Pork, a Scottish firm that uses CO 2 to stun animals before slaughter, has temporarily halted operations.
+
+“It is worrying that failures in the gas sector can have such a potentially huge effect on British food production,” says Richard Griffiths, CEO of the British Poultry Council, an industry group."
+Cummings Properties appoints Russell vice president of operations and promotes Jendrick - New England Real Estate Journal Online,"Fri, 08 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmVyZWouY29tL2N1bW1pbmdzLXByb3BlcnRpZXMtYXBwb2ludHMtcnVzc2VsbC12aWNlLXByZXNpZGVudC1vZi1vcGVyYXRpb25zLWFuZC1wcm9tb3Rlcy1qZW5kcmlja9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Woburn, MA Derek Russell has been appointed vice president of operations at Cummings Properties, where he has worked for 16 years.
+
+Russell joined Cummings as an account manager and, in 2011, assumed greater responsibility and a direct supervisory role as operations manager. In his new position, he will oversee all sales and relationship management activities with existing client firms in the company’s core and suburban divisions. He will also serve as a member of Cummings’ eight-member executive committee
+
+Prior to Cummings, Russell served as director of business development for SPINdesign, a Gloucester-based interactive design agency.
+
+In addition, account manager Kathryn Jendrick has been promoted to operations manager. Her portfolio includes some of the company’s largest and most sophisticated client firms, such as Air Liquide, Amgen, and L3 Technologies. Prior to joining Cummings in 2014, Jendrick worked at architectural firm Chamberlain Companies, where she held positions of increasing responsibility in marketing, business development, and project management. She earned a bachelor’s degree in communications from the University of Hartford.
+
+“In her three years here, Kathryn has demonstrated tremendous business acumen, consistently and skillfully developing and managing her accounts to the benefit of both clients and the Company,” said Clarke.
+
+Since its founding in 1970, Cummings Properties has frequently promoted from within. Among its 360 employees, the average tenure is 11 years, with 20 colleagues serving for 30 years or more. The firm has in-house expertise in a variety of disciplines, including all of the construction trades, plus architecture, engineering, sales, graphic design, accounting, and legal."
+AVR to capture CO2 in Holland - letsrecycle.com,"Fri, 08 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmxldHNyZWN5Y2xlLmNvbS9uZXdzL2F2ci10by1jYXB0dXJlLWNvMi1pbi1ob2xsYW5kL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Starting April 2019, the agreement with gas and services firm Air Liquide will see AVR capture, purify and liquefy CO 2 from its waste incinerator in Duiven, the Netherlands.
+
+The construction of the CO 2 capture plant in means that 60 Kton CO 2 is expected to be captured and recycled. This is 15% of the total CO 2 emissions in Duiven.
+
+Distribution
+
+Air Liquide will invest in the necessary distribution and storage equipment to deliver the liquid CO 2 to end-users, primarily in the greenhouse agriculture industry, contributing to local circular economy.
+
+The liquid CO 2 produced by AVR will be distributed by Air Liquide, which will make investment associated with the transport fleet as well as the cryogenic storage and gas distribution installations for the end users, primarily in the greenhouse agriculture industry.
+
+Under the agreement, Air Liquide will provide the expertise in the liquid CO 2 value chain as well as solutions for injection and atmosphere control for the greenhouse agriculture sector.
+
+According to the companies, demand for liquid CO 2 for greenhouse agriculture has been growing. Air Liquide and AVR said they have collaborated to ensure greater flexibility and higher delivery reliability.
+
+Industry response
+
+Michiel Timmerije, director of energy & residues at AVR, said: “After a lot of effort and development this first installation is for AVR a test case that should result in making capture installations more efficient in the future and will help to utilize residual waste for a 100%. We are researching the possibilities of building a similar CO 2 capture installation at our location in Rozenburg (Port of Rotterdam).
+
+“We aim for the capture and application of 800,000 tonnes of CO2 annually.” Michiel Timmerije
+
+AVR
+
+“We aim for the capture and application of 800,000 tonnes of CO 2 annually. To achieve this we don’t only look at greenhouse horticulture, but also at the sustainable applications of CO 2 for example in building materials such as concrete, basic chemistry for plastics and biofuels.”
+
+Lars Strandberg, vice president Air Liquide North West Europe, said: “We are pleased to partner with AVR. This project will strengthen the liquide CO 2 supply and availability for this growing market. Air Liquide is committed to improve and optimise the CO 2 footprint and thus contribute to circular economy.”"
+"CO2 crisis explained: Causes, drivers and the impact on food & drink - The Grocer","Wed, 20 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZWdyb2Nlci5jby51ay9zdXBwbHktY2hhaW4vY28yLWNyaXNpcy1leHBsYWluZWQtY2F1c2VzLWRyaXZlcnMtYW5kLXRoZS1pbXBhY3Qtb24tZm9vZC1hbmQtZHJpbmsvNTY4NDI1LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A shortage in food-grade carbon dioxide is currently causing havoc for the UK food & drink industry. Here, we explain what’s behind the CO2 shortages - and why they’re having such a big impact on the industry.
+
+How is food-grade CO2 produced?
+
+Carbon dioxide is a clear, odourless gas formed by biological processes - including fermentation and decomposition of organic material – and by combustion.
+
+Although it is produced by simple combustion sources – such as heaters and boilers - the concentration of CO2 in the air is generally not high enough from these sources to make recovery commercially viable.
+
+Commercially produced CO2 is therefore sourced from industries that have a high-volume CO2 rich gas stream as a natural by-product – such as ammonia and hydrogen production from natural gas, or biological processes such as fermenting beer or whisky.
+
+How is it used in food and drink?
+
+CO2 is used widely throughout the food and drink supply chain. It plays a vital role in the modified atmosphere packaging used to extend the shelf life of fresh meat and salads, while pig and poultry processors also rely on it for slaughtering. “Many of our members have invested significant amounts in biphasic carbon dioxide systems in their slaughterhouses,” says British Poultry Council CEO Richard Griffiths.
+
+It’s also used extensively by the beverage industry to add bubbles to soft drinks, beer and cider, as well as during the bottling and kegging process.
+
+“You can chew through an awful lot of CO2 without even trying. Things like purging kegs, sterilising – that’s 30l equivalent of gas every time,” says one brewer. “The carbing (carbonisation) of the beer itself is one of the smallest contributing factors to that.”
+
+So why are we facing a shortage?
+
+One of the largest sources of food-grade CO2 in Europe is ammonia plants, which often close for maintenance in the summer months – outside of the peak production time for fertiliser. This means supplies of CO2 are always tight at this time of year, particularly as demand for soft drinks and booze increases with the warmer weather.
+
+This year, however, ammonia is in particularly short supply because more plants are shut than usual – with at least five producers across northern Europe currently in shutdown, according to Gas World. At the same time, a number of European bio-ethanol plants – another source of CO2 – have also shut for planned maintenance.
+
+The situation is particularly bad in the UK, where only one CO2 purifying plant is currently in operation, with the rest shut for maintenance or due to “technical breakdowns”, sources say, leading to a “mad scramble among suppliers.”
+
+“The situation is different from that which the industry experienced in 2015 in that this more recent shortage affects mainland Europe in addition to the UK,” says the British Beer and Pubs Association.
+
+“Supply issues here in the UK are being further complicated by a combination of planned plant shutdowns and unexpected equipment failure, in particular in connection with one of the two major national producers of bulk CO2.”
+
+According to some sources, the shortages are also down to a failure by the gas industry to develop the logistical capacity needed to keep pace with growing demand for CO2. “It’s not the shortage of CO2 itself that is the problem, it’s a shortage of their ability to collect and distribute it,” says one beverage industry source. “For them to say there is a global shortage of CO2 is complete tosh, they just haven’t sorted themselves out properly.”
+
+“It does sound like they are hamstrung at the moment in regards to logistically getting out to all the breweries,” agrees another industry source. “It was described to me that there’s only so many trucks that exist that can deliver the CO2. There’s been an explosion in breweries over the last few years so if anything it sounds like a logistical supply & demand type thing.”
+
+Right. What is the gas industry saying about all this?
+
+Major suppliers of CO2 – which include Messer, Air Liquide, Linde and Praxair – have all remained very tight-lipped on the situation so far.
+
+Messer’s senior vice-president of communications, Diana Buss, would not comment when approached by The Grocer but told Gas World: “As every year in summer, some of the European ammonia plants are not or partly in operation. In these repetitive situations, Messer tries to secure the customer supply by shifting product within Europe.”
+
+Air Liquide also refused to comment when approached by The Grocer, while Linde and Praxair have yet to respond to requests for comment. However, BOC – the UK arm of Linde which opened the country’s first carbon dioxide purification plant in Manchester last year – is currently telling customers it cannot supply CO2 due to a “global shortage”, sources claim.
+
+What are the implications of the crisis?
+
+Things are looking very bad indeed for the poultry industry – which relies on CO2 for both packaging and stunning. According to the British Poultry Council, up to 60% of the UK’s poultry processing plants could be knocked out within days unless the situation is rectified because they cannot continue slaughtering without supplies of the gas.
+
+Brewers are also already facing difficulties – especially in the bottling and kegging of their product. Heineken has warned pubs to expect major shortages of its Amstel and John Smiths brand because it can’t carbonate them, while sources claim Brew Dog has already suspended production.
+
+“A shortage of carbon dioxide would undoubtedly cause an issue for beer makers,” says Francois Sonneville, senior analyst at specialist food and agribusiness bank Rabobank.”In the middle of a World Cup, when fans across the globe want to watch the football with a beer in hand, the timing could not be worse.”
+
+Soft drinks brands are also struggling, with some bottling plants refusing to take any more stock for the foreseeable future. As a result, supermarket supplies could run out within days, according to sources, and some retailers have already put out of stock warnings on own label fizzy drinks.
+
+If the CO2 crisis is not averted, there could also be big implications for carbonated water, which is outpacing soft drinks like cola in terms of sales, Sonneville adds. “We could be in a situation where the supply of these premium fizzy waters runs dry in shops and restaurants. Soft drinks giants would therefore feel the pinch in one of their most promising markets as health-conscious consumers move away from sugary products.”
+
+Oh dear, so what next?
+
+The British Soft Drinks Association says its members are working with suppliers to mitigate the impact as well as looking at alternative sources of CO2, while the BBPA has been in contact with the two major national producers of CO2 asking them to rectify the situation. The situation is “very much in the hands of the producers themselves” and shortages “may last for at least the next few weeks,” it warns.
+
+“One supplier has already been in contact with their customers to notify them of force majeure.”
+
+As the situation grows ever more urgent, the BBPA and FDF have both asked Defra and the BEIS for help. However, with some poultry producers set to run out of the gas within days, the BPC has urged the government to prioritise the livestock sector and “help keep the supply chain moving in order to avoid any knock-on effects in the longer term regarding animal welfare and gaps in food supply.”
+
+Defra confirmed the government is “in contact with the relevant companies and trade associations, including those within the food and drink sector and main CO2 suppliers.”"
+Jean-Claude Lavorel remet un pied dans la santé - La Tribune Auvergne-Rhône-Alpes,"Mon, 25 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vcmVnaW9uLWF1cmEubGF0cmlidW5lLmZyL3N0cmF0ZWdpZS9tYW5hZ2VtZW50LzIwMTgtMDYtMjUvamVhbi1jbGF1ZGUtbGF2b3JlbC1yZW1ldC11bi1waWVkLWRhbnMtbGEtc2FudGUtNzgyOTM4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"""Pourquoi je reviens dans le secteur de la santé ? Parce que j'aime ça ! "". Lorsqu'il revendait le groupe de prestation de soins à domicile LVL Medical à Air Liquide contre 316 millions d'euros en juin 2012, on aurait pu penser que Jean-Claude Lavorel se retirait définitivement du monde de la santé.
+
+Sa nouvelle vie est ailleurs, avec une reconversion dans l'hôtellerie, via son groupe Lavorel Hotels - même s'il a conservé, lors de la cession, le contrôle capitalistique de Bonitas, la filiale allemande de LVL Medical, sans pour autant participer plus directement au pilotage de l'entreprise.
+
+Mais à 70 ans, l'entrepreneur replonge avec un nouveau groupe, Lavorel Medicare France. Une première pierre a été posée avec l'acquisition, en 2015, d'une première société d'une trentaine de salariés, Apotecnia-Kelis, spécialisée dans la distribution de dispositifs médicaux à usage unique.
+
+"" Après avoir passé plus de 40 années dans ce secteur, c'est difficile de tirer un trait définitif sur ce métier passionnant,"" commente Jean-Claude Lavorel.
+
+Une activité désormais complétée par le rachat d'Innoset (40 collaborateurs, 3,8 millions d'euros de chiffre d'affaires), une PME de la région toulousaine de fabrication de sets de soins stériles, eux aussi à usage unique.
+
+Acteur ""majeur et reconnu"" de la santé
+
+Premier objectif : remettre de l'ordre dans Innoset.
+
+""L'entreprise est aujourd'hui légèrement déficitaire. Nous souhaitons en faire un leader du secteur qui réalise environ 15 millions d'euros de chiffre d'affaires par an. Il existe un marché, et une nouvelle réglementation a rebattu les cartes dans le secteur. Pour l'instant, Innoset vend 70% de ses produits à des acteurs privés, qui sont d'ailleurs nos anciens concurrents de l'époque LVL Medical. L'idée est de renforcer notre offre auprès des établissements publics.""
+
+Jean-Claude Lavorel ne cache pas son ambition : Lavorel Medicare entend devenir un acteur ""majeur et reconnu "" dans le secteur de la santé.
+
+""Mais l'idée n'est pas de refaire la même chose que LVL Medical"", prévient-il.
+
+""On va y aller étape par étape en intégrant d'autres entreprises complémentaires. Dans mon esprit, le groupe pèsera une cinquantaine de millions d'euros dans cinq ans "".
+
+Gestion en famille
+
+En revenant de manière "" active"" dans le monde de la santé, Jean-Claude Lavorel gère, comme à son habitude, ses affaires en famille.
+
+Auprès de lui depuis de nombreuses années, son fils Stanislas supervise les activités de soins à domicile en Allemagne - qui réalisent 130 millions d'euros de chiffre d'affaires par an - ainsi que la construction d'un réseau de nounous à domicile, en France et au Luxembourg.
+
+C'est son épouse, Delphine Vale-Lavorel, qui prend la présidence d'Innoset. A elle la charge de l'opérationnel, tandis que Jean-Claude Lavorel intervient dans les décisions stratégiques.
+
+Celui qui avoue être "" angoissé "" par l'idée de la retraite est déjà très occupé par ses autres affaires : la reprise de la petite compagnie Les Bateaux Lyonnais (ex-Lyon City Boat) qui exploite six bateaux dont le célèbre bateaux-restaurant Hermès, mais surtout le déploiement de Lavorel Hotels (25 millions d'euros de chiffre d'affaires, 250 collaborateurs).
+
+Deux nouveaux hôtels en vue
+
+Déjà propriétaire du Marriott de la Cité Internationale et de deux petits hôtels de charme 5-étoiles (Le château de Bagnols dans le Beaujolais et Les Suites de la Potinière à Courchevel), le groupe vient de racheter l'Auberge de Létraz sur les bords du lac d'Annecy
+
+Il s'apprête à inaugurer en octobre prochain le Kopster Hotel dans le complexe du Groupama Stadium de Décines. Un établissement 3-étoiles de 140 chambres destiné à recevoir les visiteurs du stade - le "" kop "" de Kopster est un clin d'oeil aux supporters - et d'Eurexpo, et à accueillir des séminaires.
+
+Jean-Claude Lavorel révèle également être en cours d'acquisition de "" deux gros hôtels de luxe "" de la région, dont l'officialisation devrait intervenir à la rentrée.
+
+Entreprendre
+
+Santé, hôtellerie, garde d'enfants, exploitation de bateaux, gestion de restaurant (le Zucca au sein du Marriott), ses domaines d'activité sont désormais multiples.
+
+""Il y a des gens qui aiment faire du sport, voyager où aller à la pêche. Moi, ma passion, c'est d'entreprendre, de faire grandir des entreprises "".
+
+Il dispose, en plus de cela, des ressources financières nécessaires pour mener plusieurs fronts. Jean-Claude Lavorel reste vague sur les détails, mais le concède, dans un demi-sourire : ""On a un peu de sous..."""
+Hermès chasse LafargeHolcim de l'indice CAC 40 - Les Échos,"Thu, 07 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmxlc2VjaG9zLmZyLzIwMTgvMDYvaGVybWVzLWNoYXNzZS1sYWZhcmdlaG9sY2ltLWRlLWxpbmRpY2UtY2FjLTQwLTk5MjA5MNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Par Pierrick Fay
+
+Pour ses trente ans, l'indice CAC 40 vient de s'offrir un nouveau lifting et perd au passage l'un de ses membres historiques. L'ex-Lafarge Coppée, devenu en 2015 LafargeHolcim, après la fusion avec le groupe suisse, va quitter l'indice le 18 juin prochain. Il avait fait partie des 40 premières sociétés à avoir intégré l'indice vedette de la Bourse de Paris, au côté notamment d'Accor, Air Liquide, Bouygues ou Danone. Il cédera sa place au groupe de luxe Hermès.
+
+C'est ce que vient d'annoncer le comité scientifique des indices, une structure indépendante au sein d'Euronext, qui effectue une revue des indices chaque trimestre. Lafarge n'était jamais sorti jusqu'ici du CAC 40. C'est le premier mouvement de l'année au sein de l'indice.
+
+Depuis plusieurs mois, la place de LafargeHolcim dans l'indice vacillait. Sur un an, le titre a ainsi perdu 10 % de sa valeur et a vu sa capitalisation tomber à 27 milliards d'euros, ce qui en fait tout de même la 21e capitalisation de l'indice. Pas de quoi être évincé en tant que tel, mais selon les calculs de la Société Générale, sur la base des volumes d'échanges et du flottant, soit la part du capital librement échangeable sur le marché, LafargeHolcim tombait au 44e rang. Selon la banque, Solvay et Sodexo étaient aussi en danger. En mars dernier, le couperet était déjà passé tout près.
+
+Fermeture siège social
+
+Publicité
+
+Comme Nokia (dernière sortie de l'indice CAC 40 en septembre dernier au profit de STMicroelectronics), LafargeHolcim a pu aussi souffrir de son statut de valeur étrangère, plutôt que française, même si le groupe de matériaux de construction conserve de nombreux intérêts en France. Si le comité des indices se base essentiellement sur des critères objectifs liés à la capitalisation et à l'activité boursière de l'action, l'annonce, il y a quinze jours, de la prochaine fermeture du siège social parisien du groupe franco-suisse a pu entrer en ligne de compte.
+
+Certains gérants et investisseurs regrettent en effet le poids de plus en plus important pris dans l'indice par de grands groupes de moins en moins français, comme ArcelorMittal, Solvay ou TechnipFMC, laissant ainsi peu de place au renouvellement de l'indice de référence de la place parisienne.
+
+Le luxe en force
+
+A l'inverse, Hermès profite de la bonne tenue du marché du luxe. L'action gagne 27 % depuis le début de l'année, ce qui lui permet de peser en Bourse plus de 59 milliards d'euros, soit plus qu'AXA et un peu moins que Kering. Au cours actuel, Hermès figurerait comme la huitième plus grosse entreprise cotée du CAC 40. Selon les calculs de la Société Générale, Hermès était classé au 34e rang sur la base des critères du comité.
+
+« Le principal atout d'Hermès reste la régularité de la croissance », écrivait récemment les analystes d'Invest Securities. Conséquence, le groupe du Faubourg Saint-Honoré renforce un secteur déjà bien représenté sur le CAC 40 avec Kering, LVMH et L'Oréal.
+
+A noter que l'action Hermès a perdu 4,7 % jeudi soir, avant l'annonce d'Euronext. Le titre a souffert d'une recommandation négative d'Exane BNP Paribas compte tenu de la surperformance récente du titre."
+Réinventer l'Entreprise à l'heure des défis du 21e siècle | ENGAGE - Carenews,"Thu, 28 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNhcmVuZXdzLmNvbS9lbmdhZ2UvbmV3cy9yZWludmVudGVyLWwtZW50cmVwcmlzZS1hLWwtaGV1cmUtZGVzLWRlZmlzLWR1LTIxZS1zaWVjbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"VERS DE NOUVELLES RESPONSABILITES Ces deux prises de position soulignent nos responsabilités individuelles et collectives. Le monde est fini, limité en ressources comme en capacité d’absorption du CO2 ; Il a changé de nature, rendu instable, mouvant, liquide par l’accélération exponentielle des technologies ; il est devenu transparent à l’heure où l’information se partage en un clic. Nous pensions le monde infini, stable, cloisonné, nous le découvrons fini, liquide, transparent. Les cartes des responsabilités en sont rebattues et la répartition des pouvoirs redistribuée, entre les Etats, les territoires, les institutions, les entreprises privées et la société civile, plus ou moins organisée.
+
+LES ENTREPRISES QUI N’ONT PAS LE BIEN COMMUN COMME HORIZON VONT DISPARAITRE Lorsque les Etats sont économiquement sous tension, que le pouvoir politique voit sa légitimité reculer, le rôle des entreprises ne peut rester inchangé. La responsabilité de l’entreprise privée est immense car sa capacité d’impact est immense : sa vocation ne peut plus se limiter à la seule création de valeur économique et sa mission se restreindre à satisfaire les intérêts de ses seuls associés, comme les définissent les articles 1832 et 1833 du code civil*. La Mairie de New-York ou le fond d’investissement BlackRock -plus de 5.000 milliards d’euros d’actifs en 2016-, au travers de leurs injonctions récemment adressées aux entreprises de contribuer positivement à la société, disent finalement la même chose : l’entreprise qui n’a pas le bien commun comme horizon est probablement vouée à disparaître car, dans ce nouveau paradigme, elle perdra ses consommateurs, ses salariés et ses actionnaires. Le monde de l’entreprise bouge, mais comment appuyer cette évolution ?
+
+DES EVOLUTIONS MAJEURES SONT NECESSAIRES Pour l’entreprise, redéfinir son rapport au bien commun ne sera pas aisé car il nécessite des évolutions majeures : - Changer ses modes de gouvernance – inscrire l’entreprise dans la Cité et signer un pacte d’alliance sincère et durable avec les autres acteurs organisés de la société civile et les citoyens. - Placer l’éthique au cœur de sa stratégie de long terme – elle est à terme la condition de sa performance économique. - Définir avec les états, de nouveaux indicateurs de performance – ils dépassent la seule dimension économique : impact sur la Terre, sur la santé, sur le bien-être pour mesurer toutes les externalités. - Instiller à tous les niveaux hiérarchiques des nouveaux modes de management et de leadership – ils s’appuient sur des passeurs*, ‘émancipés’ et en cohérence avec eux-mêmes, et non plus sur des collaborateurs contraints par leurs fonctions. Viennent alors les questions. Comment soutenir cette transition ? Comment concilier la performance et la vertu** ? Devons-nous redéfinir le statut juridique voire l’objet social des entreprises privées ? Qui sera le juge de sa bonne moralité dans cette complexité ?
+
+La loi du 31 juillet 2014 relative à l’Economie Sociale et Solidaire a fait naître de nouvelles formes d’organisations commerciales ; Le cabinet Prophil*** a récemment publié un panorama international des statuts hybrides au service du bien commun, insistant tout particulièrement sur les entreprises à mission, dont nous pourrions nous inspirer. Encore faut-il trouver les moyens de soutenir le développement de ces nouvelles entreprises.
+
+POUR UNE DYNAMIQUE D’ALLIANCE Plus encore, notre ambition doit-elle se limiter à bâtir, encore et toujours, un monde parallèle, lorsque la majorité des entreprises ne changerait pas de trajectoire ? Il s’agit avant tout d’aider une majorité d’entreprises, ces « personnes morales », à se doter d’une véritable « personnalité éthique ». Une stratégie portée de concert par les acteurs de la société civile, les acteurs économiques, les décideurs politiques, les citoyens, car seule une dynamique d’alliance nous permettra de faire réellement bouger les lignes et de relever ce défi majeur.
+
+Jérôme Cohen, Fondateur d’ENGAGE
+
+*L’objet social des entreprises est défini par les articles 1832 et 1833 du code civil **Voir le livre ‘Entreprise et bien commun : la performance et la vertu’ de Pierre-Etienne Franc et Michel Calef, au éditions du Palio ***Etude réalisée par le cabinet Prophil en collaboration avec Mines ParisTech
+
+Et enfin, la lettre de Larry Fink, ici
+
+---
+
+Pour aller plus loin :
+
+> L’interview de Pierre-Etienne Franc, vice-Président du groupe Air Liquide, paru sur Time to Engage. Et sa tribune dans Le Monde - Les entreprises doivent mettre le Bien Commun au centre de leur stratégie
+
+> Le podcast de la matinée Comment réconcilier Entreprise et Bien Commun ? organisé par Spintank et ENGAGE
+
+Pastilles vidéos de leaders inspirants réalisées par ENGAGE
+
+> Thomas Landrain, fondateur de La Paillasse et JOGL - Etre leader, c’est accepter l’erreur
+
+> Pierre-Etienne Franc, vice-Président du groupe Air Liquide - Le leadership, c’est une prise de risque
+
+> Geneviève Férone, associée chez Prophil - L’âge de la multitude rebat les cartes du leadership
+
+> François Taddei, fondateur du Centre de Recherche Interdisciplinaire - Créer un cadre de liberté évolutif et fécond
+
+> Samuel Grzybowski, fondateur de Coexister - Faire confiance à la vision de chacun"
+"3DCeram-Sinto, l'histoire d'une start-up de Limoges devenue leader mondial - Limoges (87000) - Le Populaire du Centre","Wed, 06 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5sZXBvcHVsYWlyZS5mci9saW1vZ2VzLTg3MDAwL2Vjb25vbWllLzNkY2VyYW0tc2ludG8tbC1oaXN0b2lyZS1kLXVuZS1zdGFydC11cC1kZS1saW1vZ2VzLWRldmVudWUtbGVhZGVyLW1vbmRpYWxfMTI4NzAyNzUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"En 17 ans, l’ancienne antenne du centre technique de céramique de Limoges s’est hissé au rang de leader mondial de l’impression 3D Céramique. Rencontre.
+
+C’est l’histoire d’une start-up limougeaude devenue leader mondial de l’impression 3D céramique. L’entreprise, qui s’appelle à ses débuts, CeramPilot, a été créée en 2001 par le CTTC, centre de transfert de technologies céramiques, pour mettre en oeuvre les solutions résultant de ses recherches.
+
+Elle est spécialisée dans la réalisation de composants en céramique technique. Elle produit des composants pour de nombreux groupes industriels de haute technologie, dont Air liquide et le groupe Safran, mais un élément de la bague “Sceau de Cœur” créée par le joaillier Poiray ou encore des implants crâniens.
+
+Une reprise en 2009
+
+En 2009, Christophe Chaput, qui a mené de nombreux projets de R&D dans le domaine de la céramique technique et président de l’entreprise depuis 2001, rachète l’entreprise avec Richard Gaignon, ex-cadre dirigeant de la société Céric. Changement de stratégie et de nom. CeramPilot devient 3DCeram et élargit son offre. En plus des prestations de prototypage rapide de pièces en céramique, l’entreprise propose désormais à ses clients une offre de conseil et co-développement de matériaux céramiques et des solutions de production à la demande.
+
+
+
+
+
+Un an après, en 2010, 3DCeram fabrique sa première imprimante Ceramaker. Depuis, le développement de l’entreprise s’est accéléré : commercialisation de l’imprimante Ceramaker 900, pâtes céramiques dédiées aux imprimantes...
+
+« Aujourd’hui, l’entreprise dispose d’une équipe d’experts chevronnés en céramique technique, explique Richard Gaigon, co-dirigeant. Nous proposons désormais d’une offre complète pour accompagner nos clients sur des projets à défi technologiques : chois du type de céramique, élaboration du cahier des charges, R&D, mise au point d’une pièce 3D jusqu’à son industrialisation, sa production à la demande ou en série, vente d’imprimante et de sconsommables associés. Pour prendre une image connue, notre business modèle c’est celui Nespresso, fabricant de machine à café, de capsule et de café. Nous nous avons commencé comme fabricant de café. Nous fabriquons aujourd’hui nos machines et les capsules. »
+
+Fin 2017, 3DCeram a ouvert son capital au groupe industriel japonais Sinto pour accompagner sa croissance et asseoir son leadership mondial. 3DCeram-Sinto qui emploie aujourd’hui 22 personnes est spécialisé dans trois domaines : l’industrie (aérospatial, défense,aéronautique, automobile), le biomédical (implants oculaires, crâniens..) et le luxe (joaillerie, horlogierie).
+
+Recevez par mail notre newsletter éco et retrouvez l'actualité des acteurs économiques de votre région. Je m'inscris
+
+Désenclaver la région
+
+Ses clients ? Safran, Thales, Air luiquide, Zeiss, groupe Swatch, Apple, CHU de Limoges... Limoges où l’entreprise aimerait bien continuer de se développer. A condition qu’un effort soit fait pour le désenclacement de l’ex-Limousin, ajourd’hui abondonné, selon Richard Gaignon : « Nous sommes en train de nous développer mais allons nous continuer de le faire à Limoges ? C’est une question que l’on se pose parce qu’on est en train d’etouffer. C’est comme s’il n’y avait plus d’air, plus de sang qui arrivait... Pourtant, il y a ici tous les atouts pour réussir... »
+
+Thierry Chartrier, le pionnier. Ce sont les travaux amont sur la stéréolithographie laser du directeur du laboratoire Science des Procédés Céramiques et de Traitements de Surface (SPCTS) à Limoges qui ont contribué de manière décisive au développement de la technologie de fabrication additive de pièces en céramique que 3DCeram-Sinto a transformé en technologie de production.
+
+Anne-Sophie Pédegert"
+Le plan de la France pour ne pas rater le train de l'hydrogène - lnc.nc,"Fri, 01 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmxuYy5uYy9icmV2ZS9sZS1wbGFuLWRlLWxhLWZyYW5jZS1wb3VyLW5lLXBhcy1yYXRlci1sZS10cmFpbi1kZS1sLWh5ZHJvZ2VuZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Le gouvernement lance un plan de soutien à la filière hydrogène avec l'ambition de faire de la France un ""leader mondial de cette technologie encore émergente, mais présentant de nombreux atouts pour la transition énergétique.
+
+""L'hydrogène peut devenir une solution majeure pour notre mix énergétique de demain"", défend le ministre de la Transition écologique et solidaire Nicolas Hulot, dans un document détaillant les mesures du gouvernement.
+
+Ce gaz, surtout utilisé aujourd'hui dans l'industrie, permet de stocker de l'électricité, notamment celle produite à partir d'énergies renouvelables, et peut aussi servir de carburant dans les véhicules électriques équipés de piles à combustibles.
+
+Le plan sera présenté vendredi par le ministre aux représentants de la filière française. Doté d'un financement (piloté par l'Ademe, l'agence de l'environnement et de la maîtrise de l'énergie) de 100 millions d'euros pour accompagner les premiers déploiements, il met la priorité sur la production d'hydrogène ""vert"", la mobilité et le stockage d'énergie dans les zones isolées (outremer notamment), là où des avancées sont possibles plus rapidement.
+
+Un objectif est d'atteindre 5.000 véhicules en circulation d'ici 2023, contre un peu plus de 250 actuellement, et d'installer 100 stations de recharge contre une vingtaine aujourd'hui. Puis d'arriver jusqu'à 52.000 véhicules en 2028, surtout des utilitaires (taxis, engins de chantiers, etc.) et des véhicules lourds (bus, camions, etc.).
+
+Une mission parlementaire étudiera aussi les perspectives dans le parc ferroviaire, pour lequel Alstom a mis au point un train à hydrogène.
+
+- Hydrogène ""vert"" -
+
+Mais la ""première brique"" à développer, selon Nicolas Hulot, c'est de ""verdir"" la production de ce gaz. D'ici 2023, 10% de l'hydrogène utilisé en France devra être issu d'électricité de sources renouvelables (éolien, solaire, hydraulique), via la technique de l'électrolyse de l'eau. L'objectif est de monter entre 20% et 40% en 2028.
+
+Aujourd'hui, 95% des 900.000 tonnes annuelles d'hydrogène consommées par l'industrie sont issus des énergies fossiles, causant 7,5% des émissions de CO2 du secteur.
+
+La moitié des financements prévus soutiendra donc la construction d'électrolyseurs près de petits sites industriels consommateurs d'hydrogène (verreries, chimie, etc.). L'idée est ensuite de développer autour des flottes de transports.
+
+A plus long terme, l'hydrogène pourrait être injecté dans le réseau de gaz naturel, mais le plan ne fixe pas d'objectif. Des expérimentations sont en cours pour évaluer la faisabilité technique sans endommager les réseaux et les équipements alimentés.
+
+En parallèle, le gouvernement va avancer sur l'élaboration des normes sur ces différents usages et mettre en place en 2020 la traçabilité de l'hydrogène ""vert"" pour le valoriser par rapport à celui d'origine fossile.
+
+- Course mondiale -
+
+Le gouvernement veut surtout éviter les erreurs commises par le passé sur d'autres filières innovantes dans les énergies renouvelables (éolien notamment) où peu d'industriels français ont tiré leur épingle du jeu.
+
+""L'enjeu pour la France est de synchroniser les déploiements d'infrastructures"" en impliquant tous les acteurs, explique Charlotte de Lorgeril, associée au cabinet Sia Partners.
+
+La France peut déjà compter sur des acteurs comme Air Liquide, numéro 2 mondial de la production d'hydrogène, ou Engie qui a créé cette année une division dédiée. Le groupe mène par exemple avec d'autres partenaires deux projets pilote, à Dunkerque (Haut-de-France) et Fos-sur-Mer (PACA).
+
+Une multitude d'entreprises (McPhy, Areva H2Gen, HDF, etc.) ont développé des technologies de fabrication de piles à combustible ou d'électrolyseurs. En aval, des équipementiers automobiles, comme Faurecia ou Plastic Omnium, travaillent sur des réservoirs adaptés au nouveau carburant.
+
+""Il n'y a pas de misérabilisme à avoir. La France à des technologies au niveau et des acteurs d'ampleur"", assure Florence Lambert, directrice du laboratoire du Commissariat à l'énergie atomique dédié aux technologies des énergies renouvelables, qui a travaillé sur le plan.
+
+Mais il ne faut plus attendre. L'Allemagne dispose déjà d'une centaine de stations et d'acteurs de poids (Linde, Daimler, etc.). En Asie, le Japon et la Chine ont des plans ambitieux.
+
+""Les Chinois ont décidé d'avoir des milliers de bus en circulation et préparent les chaînes de production en conséquence. Il ne faudrait pas se faire doubler, car les industriels iront là où le cadre est le meilleur"", prévient Philippe Boucly, président de l'Afhypac, qui regroupe les acteurs de la filière en France."
+Une petite idée de banquier pour une gestion responsable des ressources pétrolières au Sénégal - DAKARACTU.COM,"Tue, 12 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5kYWthcmFjdHUuY29tL1VuZS1wZXRpdGUtaWRlZS1kZS1iYW5xdWllci1wb3VyLXVuZS1nZXN0aW9uLXJlc3BvbnNhYmxlLWRlcy1yZXNzb3VyY2VzLXBldHJvbGllJUNDJTgwcmVzLWF1LVNlbmVnYWxfYTE1MzI0NS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Un banquier formé en Suisse connaît a priori deux exemples opposés de pays sur l’utilisation des ressources financières issues de l’exploitation du pétrole et du gaz : le Nigeria et la Norvège.
+
+Prenons le cas du Nigeria. Cet immense pays d’Afrique produit 2,5 millions de barils de pétrole par jour. Un pactole considérable, mais une richesse inaccessible pour l'immense majorité de la population. L'Etat nigérian, qui ponctionne 60% des recettes pétrolières des compagnies étrangères, est censé les redistribuer aux différents Etats du pays.
+
+
+
+Depuis 50 ans, date de la découverte du premier gisement pétrolier, la malédiction est tombée sur la région sud du pays. En s'implantant dans cette zone, les compagnies ont déplacé des villages entiers. Puis, elles ont ravagé les cultures agricoles pour le tracé des pipelines. Et comme pour ajouter du malheur au malheur, la pollution par hydrocarbures asphyxie les mangroves où les poissons étaient autrefois nombreux. Résultat des courses : des bandes armées d'hommes cagoulés sillonnent les mangroves du delta du Niger à bord de leurs insaisissables speedboats. Leurs cibles ? les pétroliers. Leurs armes ? de traditionnelles kalachnikovs. Leur tactique ? essentiellement l'enlèvement de travailleurs étrangers. A cela, s’ajoute le terrorisme du mouvement Boko Haram dont la revendication identitaire islamiste se greffe à un sentiment de révolte sur la corruption généralisée dans le secteur pétrolier.
+
+
+
+Niveau corruption des élites politiques justement, rien que concernant les avoirs restitués par Berne à Lagos et qui ont été détournés par le dictateur Abacha, le montant s’élève à 321 millions de Francs Suisse, environ 177 milliards de FCFA. Cela donne une idée de l’ampleur du phénomène.
+
+
+
+8000 km au Nord du Nigéria, la Norvège, autre pays producteur de pétrole. De 1960 à 1990, le consensus politique bâti par les anciens Premier ministre Gehardsen, puis Ekofisk et le Comité Tempo a fait éclore un fonds souverain, la Norges Bank Investment Management (NBIM), où le gouvernement peut stocker les recettes issues du pétrole et du gaz. Cela se fait par le biais de transferts réguliers du capital des revenus issus du pétrole et du gaz (impôts et taxes diverses, droit d’exploitations, dividendes sur les participations de l’Etat, etc.) vers le fonds spécial.
+
+
+
+La spécificité du fonds réside dans le fait que le gouvernement ne peut qu’utiliser le rendement réel du fonds pour accroitre sa marge de manœuvre dans les politiques de l’Etat-Providence. De plus, une rigueur salutaire impose que l’Etat ne peut ponctionner au maximum que 4% des bénéfices réels dégagés par le fonds. C’est en quelque sorte une épargne pour les Norvégiens, à qui le fonds appartient. Quand, on pense que l’objectif communautaire de l’UEMOA en termes de déficit public vise un plafond de 3% à l’horizon 2020, en voici une piste concrète de son atteinte !
+
+
+
+Le fonds norvégien a atteint un nouveau record le mardi 12 septembre 2017, passant la barre symbolique des 1 000 milliards de dollars d'encours sous gestion, soit 2,7 fois le PIB de la Norvège. L’allocation d’actifs s’effectue désormais à travers 60% d’actions, 35% d’actifs obligataires et 5% d’immobilier, tout cela hors Norvège. Ce fonds souverain est le premier actionnaire de deux tiers des entreprises du CAC 40, parmi lesquels Axa, Air Liquide, Carrefour, Capgemini, Renault, Sanofi, Gemalto ou encore la Société Générale.
+
+
+
+Il est évident qu’il faut s’inspirer dans notre cas plus du modèle norvégien que de nos amis nigérians en mettant en place un fonds spécial adapté à nos contraintes locales.
+
+
+
+Ainsi, outre la fin budgétaire de l’utilisation des ressources d’un tel fonds, le financement des besoins de l’Etat-Providence au Sénégal est crucial et pourrait se faire selon la clé de répartition intelligente avec des objectifs clairs et précis. Par exemple, il semble utile d’avoir un programme de 15 ans pour construire dans chacune des régions administratives un grand hôpital pour lifter la santé de nos concitoyens.
+
+
+
+Autre piste d’investissement, les infrastructures nationales structurantes. L’idée de construire un barrage qui traverse tout le pays du Nord au Sud pourrait permettre de doper considérablement les rendements agricoles et de catalyser un réel développement de nos terroirs, sans compter la dimension de l’élevage et de la lutte contre l’avancée du désert et des aléas climatiques. Le cercle vertueux que ce type de projet créera est d’un diamètre insoupçonné, tellement de paramètres entrent en jeu pour modifier dans le bon sens des pans entiers de notre économie.
+
+
+
+Ces petites idées nous semble-t-il peuvent améliorer le vécu des populations et signer définitivement la fin du sous-développement de notre pays. C’est cela notre mission sacerdotale et notre exigence de legs à nos futurs enfants.
+
+
+
+Seydina NDIAYE
+
+Banquier"
+Inert Gas Generator Systems (IGGS) Market Globally Grow at a CAGR of 21.0% by 2026 | Top Key Company's (Air ... - openPR,"Fri, 15 Jun 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMi4gFodHRwczovL3d3dy5vcGVucHIuY29tL25ld3MvMTA4NDQ5MC9pbmVydC1nYXMtZ2VuZXJhdG9yLXN5c3RlbXMtaWdncy1tYXJrZXQtZ2xvYmFsbHktZ3Jvdy1hdC1hLWNhZ3Itb2YtMjEtMC1ieS0yMDI2LXRvcC1rZXktY29tcGFueS1zLWFpci1saXF1aWRlLWFsZmEtbGF2YWwtY29iaGFtLWNvbGRoYXJib3VyLW1hcmluZS1lYXRvbi1ob25leXdlbGwtbm92YWlyLXBhcmtlci1oYW5uaWZpbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Inert Gas Generator Systems (IGGS) Market Globally Grow at a CAGR of 21.0% by 2026 | Top Key Company’s (Air Liquide, Alfa Laval, Cobham, Coldharbour Marine, Eaton, Honeywell, Novair, Parker Hannifin)
+
+Inert Gas Generator Systems (IGGS) Market
+
+https://www.marketprognosis.com/sample-request/14185
+
+https://www.marketprognosis.com/buyReport/14185
+
+https://www.marketprognosis.com/enquiry/14185
+
+https://marketprognosis.com
+
+Marketprognosis.com Publish a New Market Research Report On “Inert Gas Generator Systems (IGGS) - Global Market Outlook (2017-2026)” which contains global key player’s survey information and forecast to 2026.Overview of the Global Inert Gas Generator Systems (IGGS) Market:The Global Inert Gas Generator Systems (IGGS) market is accounted for $650.48 Million in 2017 and is expected to reach $3,612.36 Million by 2026 growing at a CAGR of 21.0%. Compulsory requirement of inert gas generator systems in cargo ships is one of the major driving factors contributing the market growth. In addition, growing demand from industrial sector, technological advancements in IGGS are some of the factors boosting the market growth during the forecast period. However, stringent safety rules, threat from substitutes are the restraints limiting the market growth.Get a Sample Copy of this Report @Industrial sector is the most prominent among all the end users. IGGS are heavily used in food & beverages, oil & gas, electronics, and chemical industries for several industrial process. Rapid industrialization in developing countries also favouring industry-based IGGS to grow.By Geography, Asia Pacific is anticipated to dominate the large market share due to growth in acquiring commercial aircraft & military cargo in this region, and rapid industrialization in emerging countries such as India, Japan, & China. China is expected to witness its dominance over the forecast period.Major Key Players:1 Air Liquide2 Alfa Laval3 Cobham4 Coldharbour Marine5 Eaton Corporation6 Honeywell International7 Novair8 Onsite Gas Systems and More…………….Purchase this report online with 167 Pages, Top Key Players Analysis and List of Tables & Figure @Market Segment by Components:1 Marine IGGS Component2 Industrial IGGS Component3 Aviation IGGS ComponentMarket Segment by Fit Types:1 Retrofit2 OEM FitMarket Segment by IGGS Types:1 Marine2 Aviation3 IndustrialAny Query? Ask to our Expert @This study answers to the below key questions:1 What will the market size be in 2026 and what will the growth rate be?2 What are the key market trends?3 What are the challenges to market growth?4 Who are the key players in this market?5 What are the market opportunities and threats faced by the key players?In the end, this report covers data and information on capacity and production overview, production, market share analysis, sales overview, supply, sales, and shortage, import, export and consumption as well as cost, price, revenue and gross margin of Inert Gas Generator Systems (IGGS) Market.About us:We at Market Prognosis believe in giving a crystal clear view of market dynamics for achieving success in today’s complex and competitive marketplace through our quantitative & qualitative research methods.We help our clients identify the best market insights and analysis required for their business thus enabling them to take strategic and intelligent decision.We believe in delivering actionable insights for your business growth and success.Contact us:Market PrognosisPlot. No: 435, Sadanand Chs, B-Cabin Road,Ambernath (E). 421501India.sales@marketprognosis.com+1 973 241 5193"

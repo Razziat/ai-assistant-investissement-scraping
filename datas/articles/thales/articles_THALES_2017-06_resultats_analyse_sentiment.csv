@@ -1,0 +1,623 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"To boost Stratobus project, Thales Alenia Space takes stake in French airship maker - SpaceNews","Tue, 20 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vc3BhY2VuZXdzLmNvbS90by1ib29zdC1zdHJhdG9idXMtcHJvamVjdC10aGFsZXMtYWxlbmlhLXNwYWNlLXRha2VzLXN0YWtlLWluLWZyZW5jaC1haXJzaGlwLW1ha2VyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Thales Alenia Space has taken a “minority stake” in French airship maker Airstar Aerospace with the goal of completing a prototype of its Stratobus pseudo-satellite by 2020.
+
+The investment, which the companies declined to quantify, was announced June 19 at the Paris Air Show.
+
+Thales Alenia Space said in a press release that its investment in Airstar will enable the company to “address certain technological roadblocks on Stratobus” — the autonomous airship Thales Alenia Space has been developing since 2015 to provide a high-altitude platform for satellite-like capabilities including Earth observation and communications. The company aims to field operational Stratobus airships in 2021.
+
+Airstar Aerospace CEO Romain Chabert said in a June 19 statement that his company will develop Stratobus’s custom-designed envelope, including its nose mooring, pressure regulation system and tail assembly.
+
+“We will be using our highest-performance fabric for the Stratobus envelope, the lightest and strongest in the world, a fabric as thin as a sheet of paper capable of withstanding loads exceeding ten tons,” Chabert said.
+
+Stratobus, which will operate at an altitude of 20 kilometers, is classified by the International Telecommunication Union as a HAPS, or High-Altitude Platform Station (Thales Alenia and Airbus, which is developing the rival Zephyr system, tend to refer to HAPS as High-Altitude Pseudo Satellites).","{'label': 'Neutral', 'score': 0.9999737739562988}",neutral,0.9999737739562988,0
+Thales advances in work to meet 777X dual-satcom requirement - Runway Girl Network,"Mon, 19 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTcvMDYvdGhhbGVzLWFkdmFuY2VzLXdvcmstbWVldC03Nzd4LWR1YWwtc2F0Y29tLXJlcXVpcmVtZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"When Boeing signaled that it wanted a dual-satcom solution for cockpit communications and safety services on the 777X, Thales stepped up to the plate. Under a technical services agreement with the airframer, the French multinational corporation has been developing a so-called FlytLINK Duo multi-service L-band solution to support both Inmarsat SwiftBroadband and Iridium transmissions, offering “diversity and redundancy” to operators and the ability “to delete a second HF radio”.
+
+“We decided as a company to invest in next generation systems for both Iridium and Inmarsat,” says Thales VP, head of commercial avionics Peter Hitchcock. “L-band is so important for aviation that you’ve got to do both because if you believe in a software defined future, we believe it’s both. So we have some common modules for the two [Inmarsat and Iridium]. We are not buying somebody’s modem and putting it in a box.”
+
+Thales sees the FlytLINK Duo offering as a powerful combination. “We are not here to say one [aero service] is better than the other. We exploit both to the full potential. We think they are really valuable as they are protected [spectrum for aviation],” says Hitchcock.
+
+RGN first learned of Boeing’s dual-satcom requirement during an interview with Thales competitor Cobham Satcom, whose marketing director Willem Kasselman said the airframer wants two satcom systems on the 777X “that are not similar so that they have redundancy if one satcom system fails. And the reason they want that is the polar coverage Iridium [provides]. And they expect to get permission from ICAO to reduce the number of [HF] radios” which are notoriously slow, but work as a back-up. This would also drive weight savings.
+
+Though Cobham could not immediately meet Boeing’s requirement as an early supplier on the 777X, it expects to offer a dual-satcom solution in the 2020 timeframe “and we surely will go back to Boeing and see if we can at least secure a supplier position on the 777X”.
+
+Meanwhile, Thales’ march towards next generation architecture for flight deck comms continues apace. The first application is a nextgen Inmarsat terminal under development now.
+
+“That is coming to market and it should be around 2019, 2020. That is going to be BFE selectable by airlines. So we start to see future architectures and future software radios coming together,” says Hitchcock.
+
+Also in the works, the TopFlight Satcom (TFS) NG is a multi-waveform satcom terminal supporting Inmarsat Classic, Inmarsat SwiftBroadband, IRIS and Iridium NEXT. Even further out, Thales is headed to integrated modular communications for all – ATM and connectivity on board. “We think this is where the market is headed,” says Hitchcock.
+
+Related articles:","{'label': 'Neutral', 'score': 0.9995152950286865}",neutral,0.9995152950286865,0
+Thales Alenia Space Acquires Stake In Airstar Aerospace - Via Satellite,"Tue, 20 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTcvMDYvMjAvdGhhbGVzLWFsZW5pYS1zcGFjZS1hY3F1aXJlcy1zdGFrZS1haXJzdGFyLWFlcm9zcGFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space, the joint venture between Thales and Leonardo, confirmed its acquisition of a minority stake in French company Airstar Aerospace, which manufactures airships and flexible structures. Jean-Philippe Chessel, head of the Stratobus product line at Thales Alenia Space, and Romain Chabert, Chief Executive Officer (CEO) of Airstar Aerospace, signed the official agreement on June 19 at the Paris Air Show.
+
+According to the two companies, through this strategic partnership, Thales Alenia Space will be able to address certain technological roadblocks on Stratobus, a project to develop an autonomous High Altitude Platform System (HAPS) airship. Launched in 2015, the project will benefit from the two partners’ respective areas of expertise, with a flight prototype expected to be ready toward 2020.
+
+Thales Alenia Space will call on Airstar Aerospace’s expertise in the design of flexible structures for space, as well as captive observation balloons, platforms that complement the capabilities of drones and the Stratobus airship.
+
+“We will use our skills and expertise to resolve one of the technical roadblocks in the development of Stratobus, namely the need for a custom-designed envelope with all its systems (nose mooring, pressure regulation, tail assembly, etc.). We will be using our highest-performance fabric for the Stratobus envelope, the lightest and strongest in the world, a fabric as thin as a sheet of paper capable of withstanding loads exceeding 10 tons,” Chabert said.","{'label': 'Neutral', 'score': 0.9193191528320312}",neutral,0.9193191528320312,0
+Wanted: India partner for Thales mini drone - Defense News,"Sun, 18 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9kaWdpdGFsLXNob3ctZGFpbGllcy9wYXJpcy1haXItc2hvdy8yMDE3LzA2LzE4L3dhbnRlZC1pbmRpYS1wYXJ0bmVyLWZvci10aGFsZXMtbWluaS1kcm9uZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — Thales presented its Spy'Ranger, a mini UAV, in New Delhi, about three months ago as part of the French electronics company's search for a local partner to pitch its drone to the Indian Army.
+
+
+
+The search continues.
+
+
+
+Click here to get full coverage from the Paris Air Show.
+
+
+
+The Indian requirement is for an estimated 200 mini UAV systems, but there is uncertainty over whether there would be two or three units in a system, said Pascal Sécretin, Thales product line manager for mini UAVs at the Brétigny-sur-Orge airfield.
+
+
+
+Thales is in talks with private and state-owned Indian companies to pick a local industrial partner following New Delhi's request for information last year.
+
+
+
+
+
+Thales would supply Spy'C — a command and control software package — and payloads while the Indian partner would build the drone.
+
+Various payloads, including chemical detection, are being considered.
+
+The C2 software was tested for a year in Afghanistan with the French Army, he said.
+
+The mini UAV proposed for the Indian Army is an export version of the drone acquired in December 2016 by the Direction Générale de l’Armement for the French Army.
+
+That French order was seen as key in winning foreign sales.
+
+Production of an initial batch of 35 systems for France is due to start mid-2018 with a delivery during the first quarter of 2019, the executive said.
+
+There is an option for a further 35 systems, with the deal worth €104.3 million (U.S. $116.7 million). A system comprises three units and a control system.
+
+One of the key French specifications is to protect the mini drone from electronic jamming, he said.
+
+On the British Watchkeeper, Thales held with the Royal Navy a two-day exercise, dubbed Unmanned Warrior, in October. The event took place on Cardigan Bay off the western coast of Wales, fielding the tactical UAV for the first time in a U.K. naval exercise, said Nick Miller, UAS sales and business development manager.
+
+That exercise was intended to extend the UAV to fly maritime and homeland security operations out to 150 kilometers over water.
+
+There are also studies to fly the Watchkeeper from the Queen Elizabeth aircraft carrier, which is seen as a long-term prospect.","{'label': 'Neutral', 'score': 0.9999973773956299}",neutral,0.9999973773956299,0
+Thales Alenia Space acquires portion of Airstar Aerospace - Military Embedded Systems,"Wed, 21 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbWlsaXRhcnllbWJlZGRlZC5jb20vY29tbXMvY29tbXVuaWNhdGlvbnMvdGhhbGVzLWFsZW5pYS1zcGFjZS1hY3F1aXJlcy1wb3J0aW9uLW9mLWFpcnN0YXItYWVyb3NwYWNl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space acquires portion of Airstar Aerospace
+
+News
+
+Lisa Daigle Assistant Managing Editor Military Embedded Systems
+
+Stratobus rendering: Thales Alenia Space
+
+PARIS AIR SHOW. Satelllite and spacecraft company Thales Alenia Space -- the joint venture between Thales and Leonardo -- confirmed that it has acquired a minority stake in French company Airstar Aerospace, a company that manufactures airships and flexible structures that are capable of operating at all altitudes.
+
+To announce the deal, Jean-Philippe Chessel --chief of the Stratobus product line at Thales Alenia Space -- and Romain Chabert --CEO of Airstar Aerospace -- signed the official agreement at the Airstar Aerospace stand at the Paris Air Show.
+
+According to Thales Alenia, Airstar Aerospace is a good fit as Thales continues development of four key technologies for its own and its customers’ digital transformation: connectivity, mobility, big data, artificial intelligence, and cybersecurity. Thales Alenia Space will have access to Airstar Aerospace’s expertise in the design of innovative flexible structures for space, along with its experience with captive observation balloons, which are airborne platforms that complement the capabilities of drones and Thales Alenia's Stratobus airship.","{'label': 'Neutral', 'score': 0.9998975992202759}",neutral,0.9998975992202759,0
+Ready for the launch of the next ten Iridium® NEXT satellites! - Thales,"Thu, 22 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9yZWFkeS1sYXVuY2gtbmV4dC10ZW4taXJpZGl1bXItbmV4dC1zYXRlbGxpdGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"With the launch of the second batch of IridiumNEXT satellites coming very shortly, we asked Denis Allard, Thales Alenia Space Vice President, Telecom Constellations, to share the latest news on this program.
+
+Space Q&A: Could you summarize the main points behind the Iridium NEXT system for our readers?
+
+Denis Allard: Iridium® NEXT is a constellation of telecommunications satellites in low Earth orbit. Built by Thales Alenia Space as prime contractor for Iridium, the constellation will count 66 operational satellites in orbit, nine in-orbit spares, and six more on the ground. With 81 satellites in all and a special system architecture, Iridium® NEXT is one of the most complex and ambitious space programs ever developed. It is designed to connect thousands of users around the world, via an ingenious network that links dozens of telecom satellites circling the planet.
+
+© Thales Alenia Space/Master Image Programmes
+
+
+
+Space Q&A: What about the first batch of ten satellites, already launched?
+
+D.A: That launch took place on January 14, under a sparkling blue California sky. All the stars were aligned for that mission. But it was a daunting challenge: SpaceX had to not only launch ten satellites in one fell swoop, but also recover part of their launcher. The launch had to be successful, so these first Iridium® NEXT satellites could take over for their older brothers, which had been in orbit for nearly 20 years. The launch was widely covered in the media, and it was quite simply beautiful, with everybody’s emotions at fever pitch. And even with the successful launch, we had to wait many minutes to find out if the ten satellites had been correctly deployed, because of a short break in communications with the ground station. It was only minutes, but seemed like an eternity. Finally we received confirmation that the telemetry signals had been received and everything was A-OK! We all breathed a quick sigh of relief, then got back to our orbital positioning operations and tests of the ten satellites.
+
+
+
+
+
+VIDEO: Iridium® NEXT, a constellation story! Episode 1 : look back to the first launch!
+
+© Thales Alenia Space/Imag[IN]
+
+D.A. Thales Alenia Space is prime contractor for the Iridium® NEXT program, in charge of engineering, integration, operations and in-orbit validation of the 81 satellites and the overall system. The first ten satellites showed that Iridium® NEXT is perfectly compatible with the existing system, and also allowed us to make sure they were functioning correctly. Results so far are perfectly in line with expectations, or even better, to the great satisfaction of our customer, Iridium.
+
+
+
+Space Q&A: What are the three high points for you so far?
+
+© SpaceX","{'label': 'Neutral', 'score': 0.9997066855430603}",neutral,0.9997066855430603,0
+Sofradir to provide infrared tech on Thales' Talios targeting pod - C4ISRNET,"Thu, 22 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZGlnaXRhbC1zaG93LWRhaWxpZXMvcGFyaXMtYWlyLXNob3cvMjAxNy8wNi8yMi9zb2ZyYWRpci10by1wcm92aWRlLWluZnJhcmVkLXRlY2gtb24tdGhhbGVzLXRhbGlvcy10YXJnZXRpbmctcG9kL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"LE BOURGET, France — Sofradir will supply key components for infrared detectors on the Talios targeting pod, one of the upgrades for the Rafale F3-R fighter jet due for delivery next year, said Philippe Bensussan, chairman of the French specialist in military and civil infrared detectors, or IR.
+
+""Sofradir is bringing technology that will help Thales increase the range while keeping a similar size for the IR detector and lower power consumption,"" he told Defense News on June 22 at the Paris Air Show.
+
+Thales supplies Talios, a long-range, electro-optical pod seeking to span intelligence gathering to weapon delivery. Talios replaces the Damocles pod.
+
+
+
+Click here to get full coverage from the Paris Air Show.
+
+
+
+Bensussan noted that Sofradir supplies IR detectors for Storm Shadow and Mica missiles, as well as the Armement Air-Sol Modulaire, the air-to-ground modular weapon also know as AASM.
+
+Britain and France have agreed to a midlife upgrade on those weapons, as well as the French Exocet, which does not have an IR capability.
+
+The company continues to pursue the tough U.S. market and is now a supplier to the U.S. Air Force after previously delivering components to the U.S. Army, he said.
+
+Designing and making IR semiconductors calls for some 10 years, a lengthy period that makes it hard to find commercial funding, he said. ""Investment is needed to deliver a critical technology needed for innovation,"" he said.
+
+
+
+
+
+Sofradir has doubled its own funding for research and development over five years, while government support has been stable, he said.
+
+
+
+The company has drawn on the government's tax breaks for research, and it repays a small portion of the state support.
+
+Sofradir designs and builds chips for short-, medium- and long-wave IR sensors, which are fitted to military kits such as night vision goggles, IR cameras and targeting systems. The Ulis unit specializes in civil applications, including a system to detect leakage of methane gas.
+
+The company had 2016 sales of some €220 million (U.S. $245 million) and a stable profit. Sofradir is a joint venture of Safran and Thales.","{'label': 'Neutral', 'score': 0.9999591112136841}",neutral,0.9999591112136841,0
+Thales unveils TRAC NG world's most advanced enroute radar for dual civil/military operators - ATC Network,"Tue, 20 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hdGMtbmV0d29yay5jb20vYXRjLW5ld3MvdGhhbGVzL3RoYWxlcy11bnZlaWxzLXRyYWMtbmctd29ybGRzLW1vc3QtYWR2YW5jZWQtZW5yb3V0ZS1yYWRhci1mb3ItZHVhbC1jaXZpbG1pbGl0YXJ5LW9wZXJhdG9yc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"On the opening day of the Paris Air Show, Thales unveils TRAC NG the world’s most advanced dual use civil/military en-route radar. Derived from Thales STAR NG, the world’s most advanced approach radar, TRAC NG responds to the need to extend primary surveillance across en-route segments in ever more congested airspaces, and the more effective monitoring of secured military airspaces.
+
+
+
+The radar has already found its first two major customer countries, including Brazil’s armed forces who handle both civilian and military air traffic in the country.
+
+
+
+Primary surveillance radars are the most ubiquitous tools used by air traffic management operators to identify aircraft’s position speed and vector. Unlike secondary radars which rely on the aircraft transmitting information through their radar transponder, a primary radar always knows where its target is, and where it’s heading. Historically this functionality was mainly required when aircraft were approaching airports. With increased traffic volumes and more congested skies, the ATM industry has been working to make primary surveillance available beyond approach and through to en-route segments to better optimize the airspace.
+
+Thales TRAC NG is an L-Band primary radar with a range up to 250 nautical miles, perfectly tailored to serve as an effective system to guarantee primary surveillance across large tracks of en-route airspace.
+
+
+
+Just like STAR NG, it is a fully dual civil/military system, that offers as options altimetry, and the ability to track both fast and slow targets like helicopters, as well as small targets like UAVs. In addition, it can include concrete military features like frequency agility, jammer strobe detection and least jammed frequency selector, making it better hardened against electronic countermeasures than any other civilian radar.
+
+
+
+The use of TRAC NG presents some very concrete benefits that reduce lifecycle cost. Several unique aspects make it a very attractive proposition to both civilian and military users. Its compact design architecture optimizes power consumption and enables easier site installation. It has a much improved power budget, system stability, dynamic range and instantaneous bandwidth that allows it to increase detection performance, as well as signal-to-clutter ratio and false alarm management functionalities that make it harder to confuse the radar even during complex operations.
+
+
+
+As with latest generation Thales surveillance platforms TRAC NG also features improved windfarm filters and interference map spectrum. A large commonality of spare parts, software and support tools with other radars such as STAR NG and RSM enables to reduce inventories, training and documentation, leading to clear economic benefits to customers thanks to resulting reduced lifecycle cost.","{'label': 'Positive', 'score': 0.9997959733009338}",positive,0.9997959733009338,1
+Thales SAMDIS Multi-view Synthetic Aperture Sonar - Defence Procurement International,"Wed, 28 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRlZmVuY2Vwcm9jdXJlbWVudGludGVybmF0aW9uYWwuY29tL25ld3MvbWFyaXRpbWUvdGhhbGVzLXNhbWRpcy1tdWx0aS12aWV3LXN5bnRoZXRpYy1hcGVydHVyZS1zb25hctIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"During the Belgian Defence Technology & Industry Day trials, held at the Naval Base at Zeebrugge on 2 June, Thales successfully demonstrated the performances of its latest SAMDIS (Synthetic Aperture and Mine Detection Imagery Sonar) Multi-view sonar system integrated onboard an ECA A27 AUV platform. Thales says the A27 proved to be an extremely stable, enduring and reliable platform, capable of withstanding the strong tidal currents usually encountered in the North Sea.
+
+The SAMDIS sonar generates long-range, high resolution images (1 inch x 1 inch) with good reverberation-to-shadow contrast even in very shallow waters. Owing to its Multi-View capability, SAMDIS simultaneously generates three views of a given contact under different angles in a single path.
+
+SAMDIS, from Thales, is primarily designed for autonomous underwater vehicles
+
+According to Thales, the combination of high resolution and several independent views in a single pass is key to drastically reduce ambiguity when taking a detection/classification decision. This capability enables SAMDIS to combine high coverage with very high confidence rates of probability of detection and probability of classification of mines, with a very low false alarm rate.
+
+SAMDIS outputs are best processed by the PRACTIS software, which Thales describes as a a powerful detection and classification tool for optimising operator workload. Belgian Navy operators learned to operate PRACTIS easily during the sea trials. says Thales. The combination of SAMDIS and PRACTIS enables high confidence in classification of contacts as NON-MILCO (MIne Like Contact), thus avoiding lost time in lengthy investigations to identify the contact.
+
+SAMDIS is designed for seamless integration onto various platforms with a combination of several array lengths for medium- and heavy-weight AUVs, as well as side-scan sonars towed by USVs.
+
+The A27/SAMDIS combination is part of an equipment package that will be delivered to France and the UK as part of their MMCM programme, which aims to deliver a robust, proven unmanned mine hunting package to the two countries’ navies.
+
+In 2016, Thales performed successful demonstrations of its HALCYON USV off the North Sea Coast of Zeebrugge in Belgium and in Northern Scotland for the Royal Navy Unmanned Warrior exercises.
+
+During both trials, the HALCYON USV used a Towed Synthetic Aperture Sonar (TSAS) system. At the end of the trials in Belgium, Thales was well assessed for detection performance against all mine types.
+
+In the framework of the Belgian/Dutch MCM capability replacement programme, Thales will on its multi-domain pedigree to offer solutions in MCM: mission system integration and naval combat system. This will ensure a strong level of local industry involvement in terms of system development, as well as future system support, combined with a high level of operational efficiency.","{'label': 'Neutral', 'score': 0.7219411134719849}",neutral,0.7219411134719849,0
+"Thales Alenia Space, PGZ team up on concurrent design facility project - SpaceNews","Thu, 08 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLXBnei10ZWFtLXVwLW9uLWNvbmN1cnJlbnQtZGVzaWduLWZhY2lsaXR5LXByb2plY3Qv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"WARSAW, Poland – The Polish subsidiary of satellite builder Thales Alenia Space, Poland’s state-run defense group PGZ, and Warsaw University of Technology have signed a letter of intent on a project under which the partners could jointly build a concurrent design facility (CDF).
+
+The new facility is to serve as a platform that will allow to develop Polish space projects, PGZ said in a statement. In the long-term, the CDF is designed to support Poland’s strategic program to build the country’s first earth observation satellite, according to the state-run group.
+
+“The signing of this letter of intent represents the result of several months of intense tripartite talks and concept works. It marks an important step by the Polish industry towards the development of space and satellite technologies,” Maciej Lew-Mirski, the vice president of PGZ’s management board, said in a statement. “I’m very glad that our partner Thales Alenia Space is ready to cooperate with the Polish defense industry and Polish scientists.”
+
+PGZ said that the facility will allow “a team of experts to jointly design satellite systems.” The announcement comes as a number of Eastern European countries are boosting their space efforts. According to the Polish company, “in the long-term, [the CDF] could be used in projects carried out for the European Space Agency (ESA) or in national programs, such as the planned Satellite Optoelectronic Earth Observation System Strategic Program.”
+
+In 2014, a consortium led by the Military University of Technology, comprising both state-owned and private Polish defense companies as well as local research entities, obtained a contract from the National Centre for Research and Development to develop the program’s feasibility study. The document is to serve as the basis for the construction of Poland’s first earth observation satellite.
+
+Asked about the reasons for establishing cooperation with PGZ, a spokesperson for Thales Alenia Space told SpaceNews that she “can’t communicate on this subject as we are in … competitive tendering.”
+
+This suggests that Thales Alenia Space Polska Ltd, PGZ, and the Warsaw-based university could be considering whether to form a consortium to compete for the space government program in the near future.
+
+Domestic partners for foreign companies
+
+PGZ and other state-owned military companies and entities, including the members of the feasibility study consortium, are overseen by the Polish Ministry of Defense. Senior ministry officials have emphasized that developing Poland’s defense manufacturing capacity is a key priority, and foreign companies stand the largest chance of securing government contracts if they team up with local industry players. The ministry aims to ensure that the predominantly state-run defense sector gains access to new technologies, and local jobs are maintained.
+
+Thales says it has been present in the Polish market since 1992, and its local division employs about 280. In June 2015, the group opened a new office in Warsaw, dedicated to developing projects within the space sector.
+
+Headquartered in Radom, in the country’s central part, PGZ consists of more than 60 companies with an aggregate workforce of about 17,500 employees. The group says its revenues are about 5 billion zloty ($1.35 billion U.S.) per year.","{'label': 'Neutral', 'score': 0.9999901056289673}",neutral,0.9999901056289673,0
+Thales stays open-minded with design of Customer Experience Center - Runway Girl Network,"Sun, 04 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTcvMDYvdGhhbGVzLXN0YXlzLW9wZW4tbWluZGVkLXdpdGgtZGVzaWduLW9mLWN1c3RvbWVyLWV4cGVyaWVuY2UtY2VudGVyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"When Thales set about designing a new, cutting-edge Customer Experience Center at its ever-expanding Thales InFlyt Experience campus in Irvine, California, the firm was definitely aiming for something a little different. A beautifully laid out, 62,000 square foot facility covering roughly 1.3 football fields, the Customer Experience Center is commonly referred to by Thales execs as the “crowning achievement” of the Irvine facility’s growth. And after touring it last week with a contingent of aviation journalists from around the globe, it’s easy to see why.
+
+Rather than mimic the boxy, utilitarian design of some contemporaries, Thales sought inspiration instead from a wide range of sources, including everything from Japanese-inspired “lean thinking” principles to the surprisingly progressive Taco Bell headquarters located, quite literally, across the street.
+
+“We canvassed the area for local businesses that we knew had innovative building facility solutions and [Taco Bell] was one of the showcase facilities of the interior design architects who we worked with … so, they said we needed to take a look at it,” says Thales InFlyt Experience CTO Fred Schreiner. “They had a nursery for children, gymnasium, cafeteria and they [also] had their history branded on the walls … so, we kind of blended their ideas and our own and what you see here [are] Thales branded colors, shapes, images and just the idea that when you walked in here you’d see something a little bit different that the classic, inflight entertainment connectivity set-up.”
+
+“We also went to SpaceX and the thing that we carried over from them are the viewing galleries upstairs [and] the glass walls in some of our conference rooms and common areas that connect the people to the product, so you can look over and see the whole scene with the labs and everything,” adds Schreiner. “At SpaceX … there’s an office complex in the factory where people can watch all the rocket parts coming together. So, we took that too.”
+
+Inspired by the “chat room” and “Obeya-style” collaborative spaces at Hyundai and the cafe and made-to-order kitchen at Google, Schreiner says that the Customer Experience Center’s fully-equipped kitchen/social hub, which is set to open in the next few weeks, will provide yet another place for employees and customers to “collide in a social way.”
+
+“In this business there’s a tendency to organize around functions. You have software people and hardware people and we do have integrated product teams but this will [provide] a centralized facility with an outdoor patio that seats 90-100 people [so] it’s an area where we expect people to have regular communication, and that’s all part of the image we’re creating and that’s then propagating into the other buildings here, which are all being built-up and changed over the next year or so … to change the overall culture, the image, the openness to reflect who we really are.”
+
+And nowhere is the reflection of who Thales really is on finer display than in the facility’s 24,000 square foot, state-of-the-art IFE lab.
+
+“We call this our Customer Experience Center because this is the final integration and test facility where we bring the airlines and the OEMs, Boeing and Airbus, to come witness our integrated IFE solutions … so, really the cornerstone of this building [is] the IFE labs,” says Thales Director, Engineering Operations Management, Brian Crossman.
+
+“Our legacy labs were a bit noisy and hot and not very comfortable … they also didn’t look so good. So, we went through a design process [here] where we involved all the different disciplines, from facilities to engineering, sales, marketing, and, most importantly, our airline customers, some very top-tier customers, who had some very candid feedback about how we could improve our layouts and our test methodologies to test more like the aircraft, and you see that reflected in the layout of the labs here,” says Crossman.
+
+“The labs are really just a replica of the IFE systems that will be installed on the aircraft but they are in a lab environment, so that means it’s a little more compacted and put in a more ergonomic form factor so that we can see all the screens at once. For every airline configuration that we deliver, we have to set up a lab … because this is where Boeing and Airbus come to test that the software and the system are working and meeting all the certification requirements, and it’s also where the airlines come to make sure that the final branding experience is delivered. So, this facility is literally where they do the final acceptance of their system.”
+
+Though we were not allowed to photograph them, the labs feature sleek, specially-designed Thales fixtures which offer team members a modular, scalable environment where they can hang differently sized displays and controllers to often stunning effect.
+
+“We have some labs that are fully representative of the entire aircraft, the entire ship set,” explains Crossman. “If there are 300 passengers on the aircraft, you’ll find 300 seats … with all of the screens lit up and activated. But we also have smaller labs. We’ve used some of our patented simulation technology to simulate seats, so you actually don’t need all of the seats in the lab to do a testing.”
+
+And thanks a remote IT room that houses the headend racks, another thing Thales’ relatively quiet IFE lab doesn’t require is ear plugs.
+
+“One of the key features of the lab is that we’ve moved all the headend racks into a remote IT room [which] took all of the noise and the heat associated with the cooling fans and put it into one compartmentalized area.” An innovation that Crossman notes was made possible by raising the lab floor throughout and routing more than 250 miles worth of wiring – “From here to Texas!” he jokes – beneath it.
+
+“Right now we have about 40 labs built, but when it’s finally said and done, we anticipate around first quarter 2018, there will be 74 labs total in this facility, including in the mezzanine.” But at the end of the day, Crossman says that what Thales is probably most proud of is how their corporate philosophy of innovation and openness is reflected in every element of the design of its new Customer Experience Center.
+
+The facility “is very open, so, this is kind of how we are to the market”, Crossman says. “We’re an open architecture, open communication, and now we have an open facility to reflect that.”
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9999783039093018}",neutral,0.9999783039093018,0
+Fury Precision-Guided Weapon - Airforce Technology - Airforce Technology,"Thu, 08 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL3Byb2plY3RzL2Z1cnktcHJlY2lzaW9uLWd1aWRlZC13ZWFwb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Fury is a new lightweight precision guided glide weapon designed for use by small UAVs, Class IV unmanned aircraft systems, and light attack aircraft. Image: courtesy of Textron Inc. Fury was on display at International Defence Exhibition and Conference 2017 (IDEX) Image: courtesy of Mztourist. Fury was successfully launched from the Shadow tactical UAS in May. Image: courtesy of Textron Inc.
+
+The Fury is a lightweight, precision-guided glide weapon developed by Thales in association with Textron Systems Weapon and Sensor Systems.
+
+The weapon is intended for use by small unmanned aerial vehicles, Class IV unmanned aircraft systems, light attack, and intelligence, surveillance and reconnaissance (ISR) aircraft.
+
+The Fury was unveiled for the first time aboard a Beechcraft AT-6 during the 2014 Farnborough International Air Show, UK, held in July 2014. The development of the weapon was concluded in May this year.
+
+Fury flight test programme details
+
+The first live drop of the Fury from the Shadow 200 UAS was conducted in August 2014. The lightweight weapon successfully engaged and detonated on the target.
+
+Live fire demonstrations of the Fury were also conducted using a Shadow tactical unmanned aircraft system (TUAS) at the Yuma Proving Ground, Yuma, Arizona, US, in September 2014.
+
+The Fury munition was fired successfully from the Shadow TUAS against static vehicle targets in April 2016. The weapon, which was released from an 8,000ft altitude, successfully engaged the target during the test.
+
+The precision-guided glide munition was successfully launched from Shadow TUAS against moving targets at Yuma Proving Grounds, which concluded the end-to-end testing of the Fury weapon in May this year. The testing phase involved a total of 13 flights conducted from multiple unmanned aircraft platforms.
+
+Design and features of the Fury
+
+The Fury weapon is based on the lightweight multirole missile (LMM) range of precision weapons developed by Thales. It lacks arocket motor and offers a lower footprint than LMM. The common interface of the munition allows for rapid integration onto a range of manned and unmanned aircraft systems.
+
+The platform-agnostic weapon can be fitted to the aircraft through a single pylon mount or a multi-carriage launcher. The lightweight platform also enables the aircraft to carry multiple weapons in place of a larger weapon, increasing the capability to strike several targets. It creates lower drag, which causes nominal operational impact to the performance characteristics of the aircraft, including speed, endurance and range.
+
+""The precision-guided glide munition was successfully launched from Shadow TUAS against moving targets at Yuma Proving Grounds, which concluded the end-to-end testing of the Fury weapon in May this year.""
+
+The high accuracy and simple-to-use characteristics of the munition also make it ideal for unmanned aerial vehicles(UAVs) and light attack aircraft. It also provides off-axis strike capability to manned and unmanned aircraft, while it serves as a low-cost alternative to self-propelled missiles.
+
+The compact weapon has a length of 68cm (26in), diameter of 7.5cm (3in), and gross weight of approximately 6kg.
+
+The Fury’s warhead
+
+The weapon carries a dual-effect-shaped charge and pre-fragmented blast warhead, which has a tri-mode fuse with impact, height of burst, and delay modes.
+
+The warhead enables the engagement of static and moving targets, including light armoured vehicles, small boats, and personnel at a maximum range of 4,000m, when launched from an altitude of 3,000m.
+
+Guidance systems of the Fury weapon
+
+The Fury munition integrates a selective availability anti-spoofing module (SAASM) GPS-aided inertial navigation system, and a semi-active laser (SAL) seeker that provides mid-course and terminal guidance capabilities. These systems enable 360° engagement of targets.
+
+The weapon can strike both fixed and moving targets with 1m accuracy, and can be guided to particular target coordinates. The control actuators and enlarged fins on the munition offer superior flight control and increase the lift, respectively.
+
+Global Missiles and Missile Defence Systems Market 2011-2021
+
+This project forms part of our recent analysis and forecasts of the Global Missiles and Missile Defence Systems market available from our business information platform Strategic Defence Intelligence. For more information, click here or contact us: EMEA: +44 20 7936 6783; Americas: +1 415 439 4914; Asia Pacific: +61 2 9947 9709 or via email.","{'label': 'Neutral', 'score': 0.9972960352897644}",neutral,0.9972960352897644,0
+Hellas Sat 3 / Inmarsat S European Aviation Network (EAN) communication satellite has been successfully launched - Thales,"Thu, 29 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL3NwYWNlL3ByZXNzLXJlbGVhc2UvaGVsbGFzLXNhdC0zLWlubWFyc2F0LXMtZXVyb3BlYW4tYXZpYXRpb24tbmV0d29yay1lYW4tY29tbXVuaWNhdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"– Hellas Sat 3 / Inmarsat S EAN telecommunication satellite, has been successfully launched by Arianespace on board an Ariane 5 rocket from Kourou launch pad in French Guiana. This condominium satellite for Inmarsat and Hellas Sat (an Arabsat subsidiary) will provide Mobile Satellite Services (MSS), Fixed Satellite Services (FSS) and Broadcast Satellite Services (BSS).The Inmarsat S EAN payload will deliver communication services in the S-band to support Inmarsat’s European Aviation Network, an integrated satellite and ground network that will deliver robust, high capacity inflight broadband for airline passengers across Europe.The Hellas-Sat 3 payload will deliver in-orbit backed up DTH and Telecom services in its designated coverage areas, maintaining and expanding Hellas-Sat business reach with additional capacities and bringing video content in High Definition and Ultra High Definition format to the covered regions. The FSS/BSS coverage zones are Europe, Middle East and Sub Saharan African countries, including a cross trap service between Europe and South Africa.
+
+©Thales Alenia Space/Alban Pichon
+
+
+
+“With the launch of Hellas Sat 3 / Inmarsat S EAN, Thales Alenia Space is delighted to support Inmarsat and Hellas Sat expanding their respective service offerings. We are now focused on orbital positioning operations for this satellite, the 24th built by our company to be launched in 2017” said Bertrand Maureau, EVP Telecommunications at Thales Alenia Space.
+
+
+
+Built on the Spacebus 4000 C4 platform from Thales Alenia Space, Hellas Sat 3 / Inmarsat S EAN will deliver a S-band multi-beam mission for Inmarsat, as well as a powerful Ku/Ka-mission of 47 Ku-transponders (Beginning of Life), 44 Ku-transponders (End of Life) and 1 Ka-transponder for Hellas Sat. Satellite launch mass is around 5.8 tons, with a Payload power around 12.7kW. It will be positioned at 39° East.
+
+Artistic view: ©Thales Alenia Space/Briot
+
+
+
+About Thales Alenia Space
+
+Thales Alenia Space brings over 40 years of experience to the design, integration, testing and operation of innovative space systems for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ “Space Alliance”, which offers a complete range of services and solutions. Thales Alenia Space has built up unrivaled expertise in dual (civil-military) missions, constellations, flexible high-throughput payloads, altimetry, meteorology, and high-resolution radar and optical observation. The company capitalizes on its strong legacy, while also making innovation a key to its strategy. By offering a continuous stream of new products and expanding its global footprint, Thales Alenia Space has established its leadership in today’s fast-evolving space sector. Thales Alenia Space posted consolidated revenues of about 2.4 billion euros in 2016 and has 7,980 employees in nine countries. www.thalesaleniaspace.com
+
+
+
+Thales Alenia Space Press Contacts:
+
+Sandrine Bielecki
+
+Phone: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont
+
+Phone: +33 (0)4 92 92 74 06
+
+chrystelle.dugimont@thalesaleniaspace.com
+
+","{'label': 'Neutral', 'score': 0.994347870349884}",neutral,0.994347870349884,0
+Thales eyes new comms capabilities for data revolution on flight deck - Runway Girl Network,"Mon, 05 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTcvMDYvaGFsZXMtZXllcy1uZXctY29tbXMtY2FwYWJpbGl0aWVzLWZvci1kYXRhLXJldm9sdXRpb24tb24tZmxpZ2h0LWRlY2sv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boasting a leading position in Air Traffic Management (ATM) – its installed base of control center equipment covers more than 40% of global airspace – plus a legacy in satellite manufacturing and a portfolio of aircraft avionics, entertainment and connectivity systems, Thales Group should theoretically be at the forefront of today’s conversations around the connected aircraft.
+
+But while partnerships with Inmarsat and later ViaSat have seen Thales secure work as a broadband connectivity integrator and service provider on key airline programs over the years, the French multinational company has gained little of the recognition on that front, as both satellite operators have pivoted to more directly serve airlines in the hotly competitive market.
+
+Even today, as Thales rolls out Inmarsat Global Xpress-supported Ka-band connectivity hardware across the lion’s share of Qatar Airways’ Thales IFE-fitted fleet, it is Inmarsat which is enjoying the headlines as “prime” on the GX contract, as it supplies the bandwidth. And while Thales is technically prime on the JetBlue connectivity contract in the US, it is ViaSat which tends to receive the accolades for powering the carrier’s streaming class of Internet service on board.
+
+There are worse things in the world than being viewed as a key partner in the background of the inflight connectivity game, especially now that the service side of the game means war. And to be sure, Thales’ fingers are in a number of connectivity pies both in the cockpit and cabin; it provides “complete suites (for cockpit HF, VHF)” and designs and manufactures L-band systems to support Inmarsat and Iridium services. “And you’re probably aware we are the designer and manufacturer of the terminal for the European Aviation Network so we’ve got a stake in in all of this,” noted Thales VP, head of commercial avionics Peter Hitchcock during a recent pre-Paris Air Show briefing at the firm’s Bordeaux facility.
+
+Moreover, in addition to reselling GX for the cabin and counting major carriers as customers, including Singapore Airlines and Qatar Airways, Thales is, of course, working to carve out a position of self-reliance over North America, teaming with SES and Hughes to secure Ka-band capacity from in-orbit satellites in the immediate future, and then building a high-capacity Ka-band satellite operated by SES to support Thales’ service to airlines (an unnamed airline customer has already been secured).
+
+But the firm also has its eyes on what it sees as a bigger prize. Acknowledging that aviation is migrating towards an ultra-connected and digitalized ecosystem – and facing a rise in autonomy – Thales wants to play a pivotal role in the transformation of airline operations. Using the ample tools in its avionics and ATM sheds, together with connectivity and big data, it is working to create a “natively digital cockpit”, wherein next generation avionics are core, and secured connections are key. And Thales would be sitting pretty.
+
+“For the past 40 or 50 years, the avionics inside the cockpit have not been connected. It was a closed loop. But in the last few years, they have started to be opened up,” explains Vincent Megaides, strategy director for Thales Avionics. He believes there is “a unique opportunity for a player like Thales because we have all the technical bricks” including solutions to control and fly aircraft, optimize the efficiency of aircraft, and receive end-to-end connectivity.
+
+Noting that “trajectory management is our world”, Thales’ Hitchcock urges, “imagine every pilot optimizing the protected communications to do that. That’s not an environment you’re scaled for today but that’s what’s coming. Once you have adequate connectivity on board to ensure the integrity [of transmissions] imagine what could happen.” The first step is to get 4D” trajectory calculations for optimized flights, as contemplated by the SESAR program. “The evolution beyond that is to provide the data and the links to that [between the aircraft Flight Management System and ground automation systems]. What will change is how to augment the ability for the ground to be more connected to what the pilots see on the screen. We can see a picture because of what we do (in ATM, space, etc).”
+
+A significant amount of regulatory work needs to take place before Thales’ full vision of a digitally native cockpit comes to fruition. But Thales is “building in the hooks” to its electronic flight bag (EFB) software and Avionics 2020 cockpit demonstrator “that can evolve to a much more transformational future even if the regulations aren’t mature”, says Hitchcock.
+
+EFB IS NEAR-TERM ANSWER
+
+Journalists were given a glimpse of how Thales’ work is progressing in Bordeaux, with management explaining that Avionics 2020 – first unveiled in 2013 – is being designed to display open world information alongside information coming from the secured avionics, in an integrated manner. Avionics 2020 will connect with both safety and non-safety critical aspects “like airline operations centers’ data and services providers on the ground, and the EFB system” or other systems, explained the firm. New functionality will be highlighted in a few weeks at the Paris Air Show.
+
+Inflight connectivity will play a crucial role in @ThalesAerospace's next generation avionics. The company explains here. #avgeek pic.twitter.com/5YHzqMW47f — Runway Girl Network (@RunwayGirl) May 18, 2017
+
+But while Thales’ futuristic cockpit work is impressive, Hitchcock admits that EFB “is the answer to issues today, the need for information fast and cheap”. That’s why Thales last year acquired Belgian firm Aviovision, and with it the Aviobook portable EFB software suite, which is already in use by pilots at KLM, Finnair, Flybe, Comlux, Aegean, Thomson, Hong Kong Airlines, Martinair and others. Branded Thales InFlyt Optim, the EFB software can crunch weather and wind data supplied by third parties to the airline, and be pushed to the pilot’s portable EFB devices.
+
+“We have two choices – model with connectivity or not, based on the regulatory environment.” But it goes without saying that real-time data – versus pre-flight uploads – will make InFlyt Optim sing. L-band connectivity will be sufficient for transmitting the first iteration of this EFB application, confirms the Thales executive. “The intro of this in EFBs – you’ll be able to use L-band.” Incidentally, parallel work is occurring at other satcom solutions providers. Cobham, for instance, last year announced that its AVIATOR 300D terminal enabled in-air connected EFBs for the first time over Inmarsat’s SwiftBroadband Safety (SB-S) service. This technology breakthrough “takes the EFB to a new level by allowing pilots to obtain real-time information while in flight, rather than waiting for downloads while on the ground. Applications include graphical weather, telemedicine, passenger data, aircraft documentation, and more,” said Inmarsat at the time.
+
+“Today [without connectivity] the pilot has a good situational vision of 45 minutes in front of the aircraft,” says Hitchcock. “The next step is for the [InFlyt Optim] solution to propose a flight path to the Thales Flight Management Computer on the aircraft.” While there are no technical barriers to facilitate this type of connection, he says, regulatory hurdles abound.
+
+AUGMENTING IRIDIUM AND INMARSAT
+
+Thales views Iridium and Inmarsat’s services as baseline for supporting safety services, and notes that L-band is increasingly becoming a primary communications channel on the flight deck. “What we see is more and more use of L-band as primary comms spectrum, [which is] one reason why both Iridium and Inmarsat will be used, but not only them, you need to look at the replacement of VHF datalinks moving to L-band,” says Hitchcock.
+
+The Iris Precursor work is one example of this migration.
+
+But the company, like other stakeholders, sees an opportunity to transmit far more operational data over larger, faster, cheaper bandwidth sources. “There is more demand than what the protected connectivity solutions can handle today”, especially when “you look at what Thales is proposing for the avionics of the future – Avionics 2020,” concedes Hitchcock. As such, in Thales’ view, Inmarsat and Iridium links will ultimately need to be augmented with other protected links. “There is a question in our minds as well which bands will be good to go in the future.”
+
+Surveying the current connectivity scene, Thales sees a landscape that is woefully inefficient. “This has really grown over the years and it’s a very expensive, inefficient way of continuing. So as new technologies come across, things are being added to the aircraft without anything being removed. So what you’ll find is over capacity in terms of total capacity [on some connectivity-fitted aircraft]. So on the aircraft today, you’re carrying lots of redundancy while having stove pipes and inefficiencies.”
+
+The question for Thales, is “how long can it continue like that without requiring a reset? We are asking ourselves for how long we continue in this mode before the inefficiencies, and the cost of upgrading so many systems becomes a burden to the community too much.” Forecasting how the connectivity landscape will evolve is difficult, adds Hitchcock, “but we’re pretty confident it needs to change”.
+
+Hoping to drive efficiencies in the space, Thales is embracing software defined radio technology, and looking at getting multiple waveforms in the same box to allow operators to roam into different networks. “We have brought that technology into the aviation world,” says Hitchcock.
+
+The first application will be firmly focused on safety services. “Once you’ve done [safety], the other things are easy. It’s not so easy to go the other way,” he says, noting that Thales is relying on its experience “having done software radios for military”. More details about Thales’ latest radio work will be divulged at the Paris Air Show.
+
+BRAVE, NEW WORLD
+
+By the middle of the next decade, with a disruption expected when the Airbus/Boeing duopoly is broken by the march of Chinese and Russian OEMs, Thales expects to see integrated multi-function radio systems on board, supported by multi-band antennas.
+
+The firm envisages a full IP-based architecture with a unified set of interfaces, and safety services supported by a new Internet Protocol Suite (IPS) router. By that time, it expects that domain segregation will have matured. And EFBs may also become redundant. “In the future, do you need EFB or have you natively designed the cockpit?” asks Hitchcock.
+
+He adds:
+
+In the future there needs to be more bearers to support this activity – cockpit data link, cockpit safety voice and data – to take advantage of safety analytics. In order to permit flight operation efficiencies, you can do a certain amount with EFBs, but in 2025, 2030, you have to wonder how that bit [cockpit safety] is going to change. And that’s the bit we’re thinking about.
+
+He concedes that once you “build in automation and machine management change” capabilities “is where it eats bandwidth”. The volume of data would be so vast that it would require a cloud-based system even for cockpits because no single aircraft will be able to store it.
+
+“We’re not there yet,” says the Thales executive, stressing again that the “the fusion of onboard and offboard data sources” are the primary issues that need to be addressed. Seeming to relent on the proposition of using broadband pipes for such activity in the future, if integrity could be guaranteed, he says, “The Thales/SES deal is an example. So we don’t care if [data] moves over Ka. But when adding in third world data, connectivity…we have to guarantee it’s safe. The rules around the fuse; that’s where you have to build the hooks. It’s a journey.”
+
+While the journey will take years, Thales seems to have an increasingly clear idea of what to pack for the voyage.
+
+Thales covered the author’s travel to attend the pre-Paris Air Show briefings
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9890678524971008}",neutral,0.9890678524971008,0
+Hispasat 1C fulfilled its mission and was sent to the graveyard orbit - Thales,"Fri, 02 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvcHJlc3MtcmVsZWFzZS9oaXNwYXNhdC0xYy1mdWxmaWxsZWQtaXRzLW1pc3Npb24tYW5kLXdhcy1zZW50LWdyYXZleWFyZC1vcmJpdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Today the Spanish satellite communications operator HISPASAT completed the re-orbiting operations of the Hispasat 1C satellite (subsequently called 30W-3 and 84W-1, the two orbital positions where it was located). These operations, which began on 29 May after the transmission of the final command from HISPASAT's satellite control centre in Arganda del Rey, takes place after effectively providing communication services for 17 years, two more than the initially expected lifetime.
+
+The Hispasat 1C satellite was launched on 3 February 2000 from Cape Canaveral, Florida, aboard the Atlas IIAS rocket, from the company ILS. Built by Thales Alenia Space, it was located at the 30° West orbital position (Hispasat 30W-3). With this satellite, in 2003 HISPASAT began marketing its broadband services in Latin America, which have been used by more than 20 of the operator’s clients in the region. Furthermore, the capacity of Hispasat 1C has been used for distance education, such as in the Uruguay’s Plan Ceibal project or the Subtel Programme in Chile, for the MEDNET project for telemedicine in Peru, to connect remote areas of Antarctica in Argentina, and to develop energy, livestock and fishing industries in different areas of the region.
+
+The satellite, based on the Spacebus B2 platform, had 24 transponders on the Ku-band and its main services included broadcasting television channels both in Europe and in the Americas, as well as providing other telecommunications solutions, such as corporate networks and broadband applications. Throughout its lifetime, Hispasat 1C has made 22,850 transmissions, more than 1,200 manoeuvres controlled from the ground, and has borne witness to 1,544 eclipses of the Earth and 36 of the moon.
+
+In 2014, after an agreement was reached between HISPASAT and Star One, the satellite was moved to the 84° West position and was renamed Hispasat 84W-1. From this new position over Brazil, it continued to provide service to Latin America, mainly internet access and IP communications.
+
+“The satellite’s operational lifetime surpassed our contractual commitment, clearly reflecting the reliability that characterizes our Spacebus satellites fleet,” said Bertrand Maureau, Vice President, Telecommunications at Thales Alenia Space. “Thales Alenia Space formed close ties with Spanish industry to conduct the Hispasat 1C program, including companies such as CASA, GMV, Indra, Mier, RYMSA, SENER and Thales Alenia Space in Spain, proving our ability and commitment to partnering countries that contribute to generate business growth in the space sector"".
+
+
+
+Antonio Abad, Chief Technical and Operations Officer noted that ""the Hispasat 1C satellite exceeded our expectations. We were able to provide guaranteed services for 17 years and it was a privilege to work with the Spanish industry in its development. Without any doubt, part of this technological success can be attributed to the Spanish industry, along with Thales Alenia Space, the satellite’s manufacturing company”.
+
+Today marks the end of the satellite's journey from 84° West, at 36,000 km to 36,300 km, where it has been definitely placed in the so-called ""graveyard orbit"", as established by the recommendations of the International Telecommunication Union (ITU) and the Inter-Agency Space Debris Coordination Committee regarding the proper maintenance of the geostationary orbit when a satellite reaches the end of its lifetime.
+
+
+
+About THALES ALENIA SPACE
+
+Thales Alenia Space brings over 40 years of experience to the design, integration, testing and operation of innovative space systems for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ “Space Alliance”, which offers a complete range of services and solutions. Thales Alenia Space has built up unrivalled expertise in dual (civil-military) missions, constellations, flexible high-throughput payloads, altimetry, meteorology, and high-resolution radar and optical observation. The company capitalizes on its strong legacy, while also making innovation a key to its strategy. By offering a continuous stream of new products and expanding its global footprint, Thales Alenia Space has established its leadership in today’s fast-evolving space sector. Thales Alenia Space posted consolidated revenues of about 2.4 billion euros in 2016 and has 7,980 employees in nine countries. www.thalesaleniaspace.com
+
+Press contact:
+
+Sandrine Bielecki - Tel: +33 (0)4 92 92 70 94 - sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont - Tel: +33 (0)4 92 92 74 06 - chrystelle.dugimont@thalesaleniaspace.com
+
+Oriol Casas Thió - Tel: +34 91 807 7806 - oriol.casasthio@thalesaleniaspace.com
+
+
+
+
+
+About HISPASAT
+
+HISPASAT is comprised of companies that have a presence in Spain as well as in Latin America, where its Brazilian affiliate HISPAMAR is based. HISPASAT is a world leader in the distribution and broadcasting of Spanish and Portuguese content, and its satellite fleet is used by important direct-to-home television (DTH) and high-definition television (HDTV) digital platforms. HISPASAT also provides satellite broadband services and other added value solutions to governments, corporations and telecommunication operators in America, Europe and North Africa. HISPASAT is one of the world's largest companies in its sector in terms of revenue, and the main communications bridge between Europe and the Americas.
+
+Press contact:
+
+Iñaki Latasa - Tel: +34 91 710 25 40 – ilatasa@hispasat.es / comunicacion@hispasat.es
+
+","{'label': 'Neutral', 'score': 0.9999963045120239}",neutral,0.9999963045120239,0
+Thales Wins two New Train Fare Collection Contracts - railway-news.com,"Fri, 16 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vcmFpbHdheS1uZXdzLmNvbS90aGFsZXMtd2lucy10d28tbmV3LWZhcmUtY29sbGVjdGlvbi1jb250cmFjdHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Wins two New Train Fare Collection Contracts
+
+Thales has signed two new train fare collection contracts covering 19 new stations on the Cairo metro. Both contracts are part of the Line 3 extension project: Phase 3 is the western branch of the line and includes 15 new stations, and Phase 4B is the eastern side of the line, with four stations.
+
+The two new contracts follow earlier awards in December 2015 to upgrade the fare collection systems on Lines 1 and 2 of the Cairo metro.
+
+© Thales Transportation
+
+Thales’s Fare Collection Solutions
+
+Thales will build on this experience to deploy its latest TransCity TM systems into the existing infrastructure: 70 automatic vending machines, 177 ticket office machines, 50 portable ticket control terminals as well as 460 new-generation automated access gates, which will speed throughput and provide smoother passenger flows.
+
+Thales has been contributing to the development of the Cairo metro for more than 30 years. These two new contracts, lasting more than 5 years (Phase 3) and more than 2 years (Phase 4B) respectively, underscore the continuing confidence of Egypt’s National Authority for Tunnels (NAT) in the Thales Group.
+
+Cairo Metro
+
+The Cairo metro is an efficient mass transit solution designed to significantly improve urban mobility in the Egyptian capital, contributing to sustainable development and helping to improve the quality of life. More than 4 million people will benefit from the Line 3 extension project.
+
+Thales has been present in Egypt for more than 40 years and employs approximately 500 people (including joint ventures) in the country, 30 of whom are working exclusively on fare collection projects for the Cairo metro.
+
+Original article © Thales Group.
+
+FOR ALL THE LATEST INFORMATION, NEWS, IMAGES, VIDEOS AND ARTICLES FROM THALES, PLEASE CLICK HERE.","{'label': 'Positive', 'score': 0.9191495180130005}",positive,0.9191495180130005,1
+Thales wins Cairo metro ticketing contract | News - Railway Gazette,"Fri, 16 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnJhaWx3YXlnYXpldHRlLmNvbS90aGFsZXMtd2lucy1jYWlyby1tZXRyby10aWNrZXRpbmctY29udHJhY3QvNDQ2ODMuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"EGYPT: The National Authority for Tunnels signed two fare collection contracts for the Cairo metro with Thales on June 10.
+
+A five-year project covers 15 stations on the western Phase 3 extension of Line 3, and the other contract is for the four stations of the Phase 4B eastern extension, which will last two years.
+
+Thales will supply 70 ticket vending machines, 177 ticket office machines, 50 portable validation terminals and 460 ticket gates. These will feature Thales’ TransCity TM technology.
+
+In December 2015 Thales was awarded a contract to upgrade the fare collection systems on lines 1 and 2.","{'label': 'Neutral', 'score': 0.9825025796890259}",neutral,0.9825025796890259,0
+Flagship Day For British Engineering - Thales,"Mon, 26 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2ZsYWdzaGlwLWRheS1icml0aXNoLWVuZ2luZWVyaW5n0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Flagship Day For British Engineering Royal Navy Share this article
+
+
+
+LinkedIn
+
+© Original image ©www.forces.net
+
+In a historic day for the Royal Navy and the Aircraft Carrier Alliance, HMS Queen Elizabeth, has set sail from her home port of Rosyth to start the first stage sea trials.
+
+
+
+As a founding member of the Alliance, Thales has welcomed the milestone achievement that saw the 65,000 tonne carrier, the largest ship ever to serve with the Royal Navy, edge out to sea.
+
+Three years after she was named by The Queen, the UK’s future flagship will spend an initial period of around six weeks at sea to test the fundamentals of the platform. The trials will evaluate the carrier’s speed, manoeuvrability, power and propulsion as well as undertaking weapons trials and additional tests on her levels of readiness.
+
+Thales, as a founding member of the alliance (ACA), is working alongside Babcock, BAE Systems and the Ministry of Defence to deliver the 65,000 tonne carriers.
+
+With more than 10,000 people employed in the construction of the ships, the project is the largest engineering programme in the UK and Thales’s highly skilled engineers have played an integral role.
+
+As well as platform design, Thales leads the Power and Propulsion element of the QEC programme. Our skilled engineers work collaboratively with others from Rolls-Royce, GE Energy and L-3 to deliver a distribution network that will generate enough energy to power a town the size of Swindon, as well as each ship’s 33 tonne propellers.
+
+Victor Chavez, Chief Executive, Thales UK, says,
+
+What a fantastic moment for the Royal Navy and British engineering to see HMS Queen Elizabeth setting off on the first sea trials. We’re incredibly proud to be a founding member of the alliance and everyone who has played their part can rightly feel a sense of pride today.
+
+Following this initial period, HMS Queen Elizabeth will return to Scotland for further testing and maintenance before heading back to sea for a second stage which aims to test her Mission Systems. She will transit to her home port of Portsmouth Naval Base to be handed over to the Navy later this year.
+
+Admiral Sir Philip Jones, the Navy’s First Sea Lord, said: “This is a hugely significant moment for the Royal Navy, for all our Armed Forces and for our island nation.
+
+“Already this ship represents the best of the UK’s industrial and engineering expertise, and once in service she will symbolise our military power and authority in the world for decades to come. There is still much work to do between now and then, but be in no doubt: a new era of British maritime power is about to begin.”
+
+HMS Queen Elizabeth is the largest and most powerful warship ever constructed for the Royal Navy. The ship will operate with a crew of approximately 700, increasing to the full complement of 1,600 when aircraft are in operation. The Ship’s Company moved on board earlier this month. Working alongside industry colleagues, they have been familiarising themselves with the new ship and the high tech systems on board as well as undergoing training.
+
+HMS Queen Elizabeth’s sister ship, HMS Prince of Wales is structurally complete and is currently in the outfitting phase of her programme.
+
+The Class will be the centrepiece of Britain’s maritime capability. Each aircraft carrier, coupled with the F-35B Lightning aircraft, will form an integral part of the UK’s Carrier Strike capability. The vessels will transform the UK’s ability to project power around the world, whether independently or working closely with our allies, on operations ranging from high intensity warfighting to providing humanitarian aid and disaster relief.","{'label': 'Neutral', 'score': 0.9956673383712769}",neutral,0.9956673383712769,0
+Satnews Publishers: Daily Satellite News - Satnews,"Thu, 22 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHA6Ly9zYXRuZXdzLmNvbS9zdG9yeS5waHA_bnVtYmVyPTIwMjcyMzgwMjLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Satnews Daily
+
+OHB Selects Thales Alenia Space’s Belgium Made New-Gen Electronics for Electra
+
+
+
+Picture : from left to right: Mrs Zuhal Demi, Belgium Stet Secretary in charge of the Belgian Space Policy; Mr Guy Perez, Chief Technical Officer, OHB System AG; Mr Emmanuel Terrasse, Chief Executive Officer, Thales Alenia Space Belgium; and Mr Etienne Desmarez, Marketing, Sales & Business Development Picture : from left to right: Mrs Zuhal Demi, Belgium Stet Secretary in charge of the Belgian Space Policy; Mr Guy Perez, Chief Technical Officer, OHB System AG; Mr Emmanuel Terrasse, Chief Executive Officer, Thales Alenia Space Belgium; and Mr Etienne Desmarez, Marketing, Sales & Business Development
+
+Planes soar and deals are struck, there are handshakes and news announcements — such is the atmosphere at the Paris Air Show. And following suit in this pattern, Thales Alenia Space has signed its first contract with OHB, at this year’s Paris Air Show, to provide new-generation electronic equipment*, made in Belgium, for the Electra platform.
+
+Developed in a public-private partnership (PPP) by the operator SES, the European Space Agency (ESA) and the German space agency DLR, Electra is a generic geostationary platform with all-electric propulsion. It will have a payload capacity of 300 kilograms, with up to 3 kW of power, and offers a design life of up to 15 years.
+
+These products are developed in Belgium by Thales Alenia Space, within the scope of ESA’s ARTES (Advanced Research in Telecommunications Systems) project. They meet the requirements of all-electric versions of new-generation European geostationary satellite platforms, designed to address operator expectations for competitiveness, flexibility and multi-launcher compatibility.
+
+Emmanuel Terrasse, Chief Executive Officer of Thales Alenia Space’s Belgian unit said that Thales Alenia Space, which counts on its subsidiaries to expand its market reach and enhance its technical content through various centers of expertise, already develops most of the electronics for the Spacebus Neo platform in Belgium. Today, OHB is entrusting them with this responsibility. Thanks to productive teamwork, their new products will deliver unprecedented performance, competitiveness, flexibility and lightness. They also reflect the contribution of Belgium’s delegation to ESA programs. He added that in fact, it’s thanks to Belgium’s long-term investment in telecommunications that they have built up expertise in space electronics that is unrivaled in Europe.
+
+*The new products developed by Thales Alenia Space through the ARTES program are as follows:
+
+PCU NG, a new-generation Power Conditioning Unit, the satellite’s electrical core, which handles the conversion and management of electrical power from the solar panels, as well as battery charge and discharge management (23 kW).
+
+DCU (Drive Control Unit), a modular device that controls the antenna and solar array steering motors.
+
+PPU Mk3 (Power Processing Unit). Newly qualified, this unit is compatible with all plasma (electric) thrusters now available on the market (5 kW). The PPU Mk3 controls the thrusters used for orbital positioning and station keeping on the new generation of all-electric telecom satellites.","{'label': 'Neutral', 'score': 0.9999970197677612}",neutral,0.9999970197677612,0
+Thales successfully completes demonstration of its exhaustive Mine-Hunting Unmanned Package in Belgium - EDR Magazine,"Thu, 29 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS90aGFsZXMtc3VjY2Vzc2Z1bGx5LWNvbXBsZXRlcy1kZW1vbnN0cmF0aW9uLW9mLWl0cy1leGhhdXN0aXZlLW1pbmUtaHVudGluZy11bm1hbm5lZC1wYWNrYWdlLWluLWJlbGdpdW3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"In June 2017, on the occasion of the Belgian Defense Technology & Industry Day trials, held at the Naval Base at Zeebrugge, Thales successfully demonstrated the performances of its latest SAMDIS Multi-view Synthetic Aperture Sonar (SAS) system integrated onboard an ECA A27 AUV platform.
+
+The A27 proved to be an extremely stable, enduring and reliable platform, capable of withstanding the strong tidal currents usually encountered in the North Sea.
+
+The SAMDIS sonar generates long range, high resolution images (1 inch x 1 inch) with excellent reverberation-to-shadow contrast even in very shallow waters. Owing to its Multi-View capability, unique on the market, SAMDIS simultaneously generates 3 views of a given contact under different angles in a single path. The combination of high resolution and several independent views in a single pass is key in order to drastically reduce ambiguity when taking a detection/classification decision. This capability enables SAMDIS to combine high coverage with very high confidence rates of probability of detection and probability of classification of mines, with a very low false alarm rate.
+
+SAMDIS outputs are best processed by the PRACTIS software that has again proven to be a powerful detection and classification tool that drastically optimise operator workload. PRACTIS is so efficient and user-friendly that Belgian Navy operators learned to operate it easily during the sea trials. The combination of SAMDIS and PRACTIS enables high confidence in classification of contacts as NON-MILCO, thus avoiding losing time in lengthy investigations to identify the contact.
+
+SAMDIS is designed for seamless integration into various platforms with a combination of several array lengths for medium and heavy weight AUVs as well as side scan sonars towed by USV’s.
+
+Thales has 50 years of cumulative experience in developing advanced technologies to support major Navies in their Mine-Hunting operations.
+
+The A27/SAMDIS combination is part of the equipment package that will be delivered to France and the UK as part of their MMCM programme. This on-going European programme aimed at delivering a robust, proven unmanned mine hunting package to these two Navies as they switch to Unmanned MCM capabilities.
+
+In 2016, Thales performed a number of successful demonstrations of its HALCYON USV off the North Sea Coast of Zeebrugge in Belgium and in Northern Scotland for the Royal Navy Unmanned Warrior exercises. During both trials, the HALCYON USV was towing its Towed Synthetic Aperture Sonar (TSAS) system. At the end of the trials in Belgium, Thales was well assessed for detection performance against all mine type, thus recognising the quality of the group’s unmanned mine-hunting systems’ capabilities.
+
+In the framework of the Belgian/Dutch MCM capability replacement programme, Thales intends relying on its multi domain pedigree to offer state-of-the-art solutions in MCM: mission system integration and naval combat system. This will ensure a strong level of local industry involvement in terms of system development as well as future system support, combined with a very high level of operational efficiency.","{'label': 'Positive', 'score': 0.9985561966896057}",positive,0.9985561966896057,1
+"Thales eyes India for supply of UAVs, radars - The Economic Times","Tue, 06 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2RlZmVuY2UvdGhhbGVzLWV5ZXMtaW5kaWEtZm9yLXN1cHBseS1vZi11YXZzLXJhZGFycy9hcnRpY2xlc2hvdy81OTAxNDMxNC5jbXPSAXFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9kZWZlbmNlL3RoYWxlcy1leWVzLWluZGlhLWZvci1zdXBwbHktb2YtdWF2cy1yYWRhcnMvYW1wX2FydGljbGVzaG93LzU5MDE0MzE0LmNtcw?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+PARIS: Thales, a global technology player in aerospace, transport, defence and security, is eyeing India for offering its latest unmanned aerial vehicle (UAV) systems and radars in view of the growing demand for them in the country.Thales is in talks with its partners in India which needs around 200 UAVs , a top company official said during a recent media interaction at the company's facilities at Bretigny and Rouen in France.""We are in discussions with a couple of companies in India and checking what can we do with them,"" said Thibault Trancart, Vice President, Marketing and Intelligence, Surveillance and Reconnaissance Strategic Projects of Thales.""We have got BEL-Thales Systems Limited (BTSL), a Joint Venture Company between Bharat Electronics Limited and Thales, where we are developing a fire control radar for both gun and missile systems,"" he said.""We are doing some radars locally with some industries and transferring some know how for the benefit of the Indian market,"" Trancart said.Historically speaking, Thales has been present in India in the defence sector and later moved to the transportation sector and the aerospace business, he said.There are several players in the UAV market, which is organising itself. Many of them will disappear in five years, Trancart said.""There has been a shift in the last seven to eight years. Today, the civilian domain is pulling the military domain. Now, there are many innovations made by the civilian domain, to be used by the military domain,"" he said.The Thales official also spoke about a ""major interest"" from South East Asia for the company's 'Searchmaster' radar which combines the benefits of Active Electronically Scanned Array (AESA) antenna technology in a lightweight and modular design.""India could be a major customer for Searchmaster,"" he said.""There are queries for specifications on installing our radars in patrol aircraft and helicopters,"" Trancart said.Thales also announced that it will deliver to India 36 state-of-the-art RBE2 AESA radars aboard Rafale aircraft, from 2019.Thales will deliver the first batch of 'Spy' Ranger fixed-wing UAVs to the French armament procurement agency next year, the company's product line manager of UAVs, Pascal Secretin, said.Each system consists of three vehicles and a ground control station.The mini-UAV has an operating range of 30 km, delivers a high-definition, day-and-night capability.It has a wing span of 3.8 metre, weighs 14.5 kg, and can stay aloft for two and a half hours.The company has 64,000 employees spread across 56 countries. It has been present in India since 1953 and has over 300 employees working with its wholly-owned Indian subsidiary, Thales India Pvt Ltd.Thales has been associated with the Hindustan Aeronautics Limited (HAL) and has formed joint ventures with Samtel, Bharat Electronics Limited (BEL) and L&T Technology Services.A member of the Rafale team, Thales has also delivered four upgraded Mirage 2000 to the Indian Air Force.","{'label': 'Neutral', 'score': 0.6439936757087708}",neutral,0.6439936757087708,0
+"PARIS: Thales, PAL join forces on surveillance-roled Q300 - Flightglobal","Mon, 19 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vcGFyaXMtdGhhbGVzLXBhbC1qb2luLWZvcmNlcy1vbi1zdXJ2ZWlsbGFuY2Utcm9sZWQtcTMwMC8xMjQ0NjQuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and its Canadian partner, PAL Aerospace, are using the Paris air show to provide further details of their collaboration on a special-mission development of the Bombardier Dash 8 Q300.
+
+The companies are promoting their ""on-demand"" intelligence, surveillance and reconnaissance (ISR) development, which introduces the Thales Searchmaster maritime radar and Amascos mission system onto the Q300 airframe.
+
+Plans for the ""Force Multiplier"" multi-mission system were announced at the CANSEC show in Canada early this month, with PAL offering to provide flightcrew and mission system operators to customers from next year. This model will enable nations to employ an ISR capability ""without owning, operating and maintaining the aircraft and equipment"".
+
+PAL Aerospace
+
+By using the ISR capability on a per-hour basis, customers will be able to gain experience in using such equipment, and support personnel training activities prior to making future acquisitions. Thales will also gain a new capability to demonstrate its mission systems to prospective buyers.
+
+""The platform is currently being integrated, and will be presented during the Dubai air show in November,"" says Thales.
+
+Additional details of the innovative concept will be disclosed by partners on Tuesday.
+
+Get all the coverage from the Paris air show
+
+Source: FlightGlobal.com","{'label': 'Neutral', 'score': 0.9991092085838318}",neutral,0.9991092085838318,0
+"Thales, Reliance Defence seal deal for joint venture for radars, electronic warfare - The Economic Times","Wed, 21 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMikwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9kZWZlbmNlL3RoYWxlcy1yZWxpYW5jZS1kZWZlbmNlLXNlYWwtZGVhbC1mb3Itam9pbnQtdmVudHVyZS1mb3ItcmFkYXJzLWVsZWN0cm9uaWMtd2FyZmFyZS9hcnRpY2xlc2hvdy81OTI1NjkyOC5jbXPSAZcBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvZGVmZW5jZS90aGFsZXMtcmVsaWFuY2UtZGVmZW5jZS1zZWFsLWRlYWwtZm9yLWpvaW50LXZlbnR1cmUtZm9yLXJhZGFycy1lbGVjdHJvbmljLXdhcmZhcmUvYW1wX2FydGljbGVzaG93LzU5MjU2OTI4LmNtcw?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+NEW DELHI: French defence electronics manufacturer Thales has announced that it is floating a joint venture company with Reliance Defence with shareholding of 49% and 51% respectively to set up an Indian supply chain for radars and electronic warfare sensors at a facility in Nagpur.Industry executives told ET that Thales, a leading supplier to Dassault Aviation , maker of Rafale fighter aircraft, has to spend nearly $1billion (about Rs 6,451crore) in Indian defence production sector as part of its offset commitments for the deal signed last year to supply 36 Rafale jets to Indian Air Force.The team will start with 40 people and scale up as work shifts from France to India as part of the deal.“The JV will develop skills and activity in the special economic zone of Mihan-Nagpur together with an Indian supply chain for the manufacturing of microwave technologies and high performance airborne electronics,” the two companies said in a joint statement.This is the second JV that Reliance Defence is setting up to execute offset obligations for the Rafale deal after it tied up with Dassault Aviation last year. The Indian company has said that it will start work at the Mihan facility in Nagpur from July and hopes to produce the first components for global orders of the Rafale jet by the first quarter of next year.While the JV capital is still under discussion, the two sides have started the process of identifying and qualifying the Indian side of the supply chain, the executives cited earlier said. Thales, which supplies 25% of the Rafale equipment by value, also has a nearly $800 million offset obligation for an earlier contract to upgrade the Mirage 2000 fleet, they said.While 36 Rafale jets are currently on order, the number is expected to go up to meet the air force requirements for urgent replacements of the ageing Russian origin fleet. The maritime version of the Rafale is also a top contender, along with the US Boeing F/A 18, for a naval require","{'label': 'Neutral', 'score': 0.9999836683273315}",neutral,0.9999836683273315,0
+"Thales, SITA to enhance security at Bahrain airport - Biometric Update","Tue, 06 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmJpb21ldHJpY3VwZGF0ZS5jb20vMjAxNzA2L3RoYWxlcy1zaXRhLXRvLWVuaGFuY2Utc2VjdXJpdHktYXQtYmFocmFpbi1haXJwb3J00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Bahrain’s Ministry of Transportation and Telecommunications has selected Thales and SITA to provide the security and operations management system — which will include biometrics and other technologies — for Bahrain International Airport.
+
+The ministry launched the Airport Modernization Program in 2015 with an end goal to significantly improve Bahrain International Airport’s infrastructure and services.
+
+This ongoing program includes the development of a new passenger terminal and the expansion and renovation of the existing terminal.
+
+With 14 million passengers a year expected by 2020, airport authorities at Bahrain International Airport are tasked with improving the security and safety of all the passengers, airlines and staff, as well as making the airport operations more manageable and efficient.
+
+As the master system integrator, Thales will deliver a security system that ensures continuity of operations, centralizes the airport operations management and adheres to all safety and security requirements.
+
+The system will use smart data processing to provide the operators with a real time security and operations situation awareness.
+
+The security system will be equipped with all the advanced technologies needed for airport management, including smart video protection, access control and biometrics, IT and telecommunication infrastructures.
+
+Leveraging the system’s decision support tools and procedures, the airport operators will be able to respond to emergencies more effectively and faster, as well as monitor airport performances.
+
+Thales will ensure end-to-end protection of the global solution, providing real time counter-measures against the most advanced cyber-attacks.
+
+In March, SITA formed the Secure Journeys Working Group, a new initiative aimed at addressing growing airport security threats in the United States.
+
+Article Topics
+
+access control | airports | biometrics | SITA | Thales","{'label': 'Positive', 'score': 0.9990376234054565}",positive,0.9990376234054565,1
+Reliance Defence forms JV with Thales for IAF's Rafale jet production - Business Standard,"Thu, 22 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jb21wYW5pZXMvcmVsaWFuY2UtZGVmZW5jZS1mb3Jtcy1qdi13aXRoLXRoYWxlcy1mb3ItaWFmLXMtcmFmYWxlLWpldC1wcm9kdWN0aW9uLTExNzA2MjEwMDk5NV8xLmh0bWzSAZEBaHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FtcC9hcnRpY2xlL2NvbXBhbmllcy9yZWxpYW5jZS1kZWZlbmNlLWZvcm1zLWp2LXdpdGgtdGhhbGVzLWZvci1pYWYtcy1yYWZhbGUtamV0LXByb2R1Y3Rpb24tMTE3MDYyMTAwOTk1XzEuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"French defence firm Thales, a supplier of radar and electronic warfare, display systems, software, communication solution to Rafale jet fighters set up a joint venture with Anil Ambani's Reliance Defence Ltd to integrate India-specific capabilities for 36 Rafale jet fighters and maintain radars and manufacture high-performance airborne electronics. French defence firm Thales, a supplier of radar and electronic warfare, display systems, software, communication solution to Rafale jet fighters set up a joint venture with Anil Ambani's Reliance Defence Ltd to integrate India-specific capabilities for 36 Rafale jet fighters and maintain radars and manufacture high-performance airborne electronics.
+
+The Indian government signed a contract to purchase 36 Rafale fighter jets in fly-away condition for Indian Air Force in last September for $8.8 billion. The JV will also serve to leverage Dassault's offset commitment as part of the deal for the supply of 36 Rafale fighter aircraft to IAF.","{'label': 'Neutral', 'score': 0.9992541670799255}",neutral,0.9992541670799255,0
+NSW government backs Thales plan to reactivate ship repair site | ADBR - ADBR,"Fri, 30 Jun 2017 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWRici5jb20uYXUvbnN3LWdvdmVybm1lbnQtYmFja3MtdGhhbGVzLXBsYW4tdG8tcmVhY3RpdmF0ZS1zaGlwLXJlcGFpci1zaXRlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The New South Wales government has announced funding to renew the Fitzroy Street shipyard slipway to reactivate the Port of Newcastle and the Hunter region as a major ship repair and maintenance precinct.
+
+Thales Australia will begin stage one of a phased redevelopment of the site, creating 70 new jobs, stated Deputy Premier John Barilaro.
+
+“This ship repair operation for a nationally significant facility will revitalise the Hunter’s proud maritime heritage and restore the port as a maritime hub,” Barilaro said. “The slipway upgrade will allow the port to handle bigger ships, attract skilled tradespeople back to the region and ensure naval maintenance work stays in NSW.”
+
+Niall Blair, Minister for Trade and Industry, stated that the plan closely aligns with the NSW government’s Defence and Industry Strategy.
+
+“This will be a major boost for our defence and industry sector,” Blair said. “Thales expects to grow local subcontractor industries to support its maritime operations in the region.”
+
+Thales Australia CEO Chris Jenkins stated that Thales intends to establish an enduring ship repair and maintenance facility.
+
+“Thales has successfully conducted ship maintenance, repairs and upgrades for Defence and commercial vessels for over 26 years at Garden Island,” Jenkins said.
+
+“Thales’ heritage in marine maintenance and sustained engagement with local businesses puts us in a unique position to reactivate the site, creating a new east coast marine precinct at the Port of Newcastle.”","{'label': 'Neutral', 'score': 0.9763016104698181}",neutral,0.9763016104698181,0

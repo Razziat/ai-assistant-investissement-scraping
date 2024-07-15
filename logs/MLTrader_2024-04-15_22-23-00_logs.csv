@@ -1,0 +1,78 @@
+2024-04-15 22:23:00,105: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-15 22:23:02,952: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-15 22:23:02,964: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-15 22:23:02,966: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-15 22:23:02,966: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-15 22:23:02,968: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-15 22:23:02[0m
+2024-04-15 22:23:02,968: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-15 22:23:23,895: yfinance: ERROR: AAPL: No price data found, symbol may be delisted (1d 1925-05-09 -> 2024-04-15)
+2024-04-15 22:23:23,927: root: ERROR: YAHOO did not return data for symbol AAPL. Make sure this symbol is valid.
+2024-04-15 22:23:23,927: asyncio: ERROR: [MLTrader] unsupported operand type(s) for /: 'float' and 'NoneType'
+2024-04-15 22:23:23,958: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbot.py", line 48, in on_trading_iteration
+    cash, last_price, quantity = self.position_sizing()
+                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbot.py", line 30, in position_sizing
+    quantity = round(cash * self.cash_at_risk / last_price,0)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'NoneType'
+
+2024-04-15 22:23:23,958: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-15 22:23:23,974: root: INFO: Backtesting finished
+2024-04-15 22:23:41,283: websockets.client: ERROR: data transfer failed
+Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\websockets\legacy\protocol.py", line 968, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\websockets\legacy\protocol.py", line 1038, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\websockets\legacy\protocol.py", line 1113, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\websockets\legacy\protocol.py", line 1170, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\websockets\legacy\framing.py", line 69, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\streams.py", line 752, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\streams.py", line 545, in _wait_for_data
+    await self._waiter
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\proactor_events.py", line 286, in _loop_reading
+    length = fut.result()
+             ^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 803, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 462, in finish_socket_func
+    return ov.getresult()
+           ^^^^^^^^^^^^^^
+OSError: [WinError 121] Le délai de temporisation de sémaphore a expiré
+2024-04-15 22:23:41,346: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2024-04-15 22:23:41,362: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-15 22:23:44,016: yfinance: ERROR: ^IRX: No price data found, symbol may be delisted (1d 1925-05-09 -> 2024-04-15)
+2024-04-15 22:23:44,032: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-15 22:23:44,267: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-15 22:23:44,267: backtest_stats: INFO: Backtest took 0:00:44.168107 for a speed of 0.000

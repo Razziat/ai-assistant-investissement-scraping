@@ -1,0 +1,53 @@
+2024-04-18 21:20:37,746: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-18 21:20:40,761: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-18 21:20:40,761: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 21:20:40,761: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-18 21:20:40,761: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 21:20:40,775: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 21:20:40[0m
+2024-04-18 21:20:40,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 21:20:44,344: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 21:20:52,511: asyncio: INFO: [MLTrader] Getting historical prices for GOOG, 1d bars, 30
+2024-04-18 21:20:52,511: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 21:20:52,527: asyncio: ERROR: [MLTrader] YAHOO data source does not have data with '30' timestep
+2024-04-18 21:20:52,527: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 55, in on_trading_iteration
+    historical_prices = self.get_historical_prices(self.symbol, '1d', '30')  # Fetching 30 daily data points
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy.py", line 3000, in get_historical_prices
+    return self.broker.data_source.get_historical_prices(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\data_sources\yahoo_data.py", line 180, in get_historical_prices
+    response = self._pull_source_symbol_bars(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\data_sources\yahoo_data.py", line 69, in _pull_source_symbol_bars
+    interval = self._parse_source_timestep(timestep, reverse=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\data_sources\data_source.py", line 281, in _parse_source_timestep
+    raise UnavailabeTimestep(self.SOURCE, timestep)
+lumibot.data_sources.exceptions.UnavailabeTimestep: YAHOO data source does not have data with '30' timestep
+
+2024-04-18 21:20:52,527: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-18 21:20:52,545: root: INFO: Backtesting finished
+2024-04-18 21:20:54,970: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-18 21:20:55,122: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-18 21:20:55,122: backtest_stats: INFO: Backtest took 0:00:17.375756 for a speed of 0.000

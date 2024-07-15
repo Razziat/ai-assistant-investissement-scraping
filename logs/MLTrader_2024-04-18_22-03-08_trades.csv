@@ -1,0 +1,25 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2023-01-12 09:30:00-05:00,MLTrader,55712dd469b84e19a83ae99ab5046fd2,GOOG,sell,market,new,1,gtc,0.0,1,stock,,,
+2023-01-12 09:30:00-05:00,MLTrader,55712dd469b84e19a83ae99ab5046fd2,GOOG,sell,market,fill,1,gtc,0.0,1,stock,92.4000015258789,541.0,0.0
+2023-01-13 09:30:00-05:00,MLTrader,987056db49ab44e2bbeb466b223adc9c,GOOG,sell,market,new,1,gtc,0.0,1,stock,,,
+2023-01-13 09:30:00-05:00,MLTrader,987056db49ab44e2bbeb466b223adc9c,GOOG,sell,market,fill,1,gtc,0.0,1,stock,91.52799987792969,819.0,0.0
+2023-01-20 09:30:00-05:00,MLTrader,9d90c337f8d04f10a6ff932383617af0,GOOG,buy,limit,canceled,1,day,0.0,1,stock,,,
+2023-01-20 09:30:00-05:00,MLTrader,f872b681ad404d4293c0ba65eace9c72,GOOG,buy,stop,fill,1,day,0.0,1,stock,97.02000160217285,541.0,0.0
+2023-01-20 09:30:00-05:00,MLTrader,b2db685134bc48488dcc777285ecd07f,GOOG,buy,limit,canceled,1,day,0.0,1,stock,,,
+2023-01-20 09:30:00-05:00,MLTrader,105ca9af378342f39d79775d4c32c717,GOOG,buy,stop,fill,1,day,0.0,1,stock,96.10439987182617,819.0,0.0
+2023-01-25 09:30:00-05:00,MLTrader,d4eb6aa964b84d868ab79ebb62059ae2,GOOG,sell,market,new,1,gtc,0.0,1,stock,,,
+2023-01-25 09:30:00-05:00,MLTrader,d4eb6aa964b84d868ab79ebb62059ae2,GOOG,sell,market,fill,1,gtc,0.0,1,stock,97.19999694824219,482.0,0.0
+2023-02-01 09:30:00-05:00,MLTrader,ed52ed6b856243e8bcef439e4133fa0d,GOOG,buy,limit,canceled,1,day,0.0,1,stock,,,
+2023-02-01 09:30:00-05:00,MLTrader,8246c0ce079b4a01bd5216463d5e8b2c,GOOG,buy,stop,fill,1,day,0.0,1,stock,102.0599967956543,482.0,0.0
+2023-02-03 09:30:00-05:00,MLTrader,7b43649635b8476e96e05ea8baa7c595,GOOG,sell,market,new,1,gtc,0.0,1,stock,,,
+2023-02-03 09:30:00-05:00,MLTrader,7b43649635b8476e96e05ea8baa7c595,GOOG,sell,market,fill,1,gtc,0.0,1,stock,103.51000213623047,442.0,0.0
+2023-02-09 09:30:00-05:00,MLTrader,f5819bb3c8014e3ea373aa1886f2522e,GOOG,buy,stop,canceled,1,day,0.0,1,stock,,,
+2023-02-09 09:30:00-05:00,MLTrader,6184599e63bb431f81d00a017b5b116e,GOOG,buy,limit,fill,1,day,0.0,1,stock,98.33450202941894,442.0,0.0
+2023-04-26 09:30:00-04:00,MLTrader,f837b7e315b3466cb49e38d6f38a5c1a,GOOG,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-04-26 09:30:00-04:00,MLTrader,f837b7e315b3466cb49e38d6f38a5c1a,GOOG,buy,market,fill,1,gtc,0.0,1,stock,105.2300033569336,445.0,0.0
+2023-05-08 08:30:00-04:00,MLTrader,860e3dfad67141e59ef9914de31728d4,GOOG,sell,stop,canceled,1,day,0.0,1,stock,,,
+2023-05-08 08:30:00-04:00,MLTrader,fdc564ab482d4e828cc040329bad3f9a,GOOG,sell,limit,fill,1,day,0.0,1,stock,110.49150352478028,445.0,0.0
+2023-11-28 09:30:00-05:00,MLTrader,94ac76d9fc5d4f1dbb704687274b43e3,GOOG,sell,market,new,1,gtc,0.0,1,stock,,,
+2023-11-28 09:30:00-05:00,MLTrader,94ac76d9fc5d4f1dbb704687274b43e3,GOOG,sell,market,fill,1,gtc,0.0,1,stock,137.6300048828125,349.0,0.0
+2023-12-04 08:30:00-05:00,MLTrader,dbafe02f0d77498ea89ae7b16351a458,GOOG,buy,stop,canceled,1,day,0.0,1,stock,,,
+2023-12-04 08:30:00-05:00,MLTrader,7e88e6d3322647c0a7459489136ea31e,GOOG,buy,limit,fill,1,day,0.0,1,stock,130.74850463867188,349.0,0.0

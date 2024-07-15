@@ -1,0 +1,552 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Telit acquires Thales' cellular IoT products to establish Telit Cinterion - IoT News,"Mon, 01 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmlvdHRlY2huZXdzLmNvbS9uZXdzLzIwMjIvYXVnLzAxL3RlbGl0LWFjcXVpcmVzLXRoYWxlcy1jZWxsdWxhci1pb3QtcHJvZHVjdHMtZXN0YWJsaXNoLXRlbGl0LWNpbnRlcmlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ryan Daws is a senior editor at TechForge Media, with a seasoned background spanning over a decade in tech journalism. His expertise lies in identifying the latest technological trends, dissecting complex topics, and weaving compelling narratives around the most cutting-edge developments. His articles and interviews with leading industry figures have gained him recognition as a key influencer by organisations such as Onalytica. Publications under his stewardship have since gained recognition from leading analyst houses like Forrester for their performance. Find him on X (@gadget_ry) or Mastodon (@gadgetry@techhub.social)
+
+Telit is acquiring Thale’s portfolio of cellular IoT products to establish a combined firm called Telit Cinterion.
+
+Paolo Dal Pino, CEO of Telit, said: “Innovation, scale and efficient IoT solutions are key for success. This transaction with Thales is arguably the most impactful one for Telit competitiveness.
+
+“While it will boost our ability to address customer needs more precisely from a richer portfolio, it will also enable us to deliver all-new offerings derived from the experience, expertise and the DNA of two companies that have made security and quality part of their brand promise from the very beginning.”
+
+Telit Cinterion will be based in California and aims to be “a leading Western provider” of IoT solutions.
+
+Under the terms of the transaction, Telit will acquire Thales’ cellular wireless communication modules, gateways, and data (modem) cards, ranging from 4G LTE, LPWAN to 5G.
+
+Philippe Vallée, EVP of Digital Identity and Security at Thales, commented: “The Thales and Telit combination brings together complementary strengths. The business will provide a unique value proposition in a highly competitive global IoT market and will allow Thales to focus its investments on its three core activities in aerospace, defence and security, and digital identity.
+
+“The new combination will rely on a unique set of expertise brought by Thales and Telit employees. It will also benefit from leveraging both companies’ strong and complementary product portfolio and Thales’s experience in cellular connectivity.”
+
+Pending regulatory approvals and other conditions, the transaction is expected to close in Q4 2022. Telit Cinterion plans to spin off the automotive IoT unit to sharpen its focus on the Industrial IoT.
+
+(Image Credit: Cinerama14 under CC BY-SA 4.0 license)
+
+Want to learn about the IoT from industry leaders? Check out IoT Tech Expo taking place in Amsterdam, California, and London.
+
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","{'label': 'Positive', 'score': 0.9999123811721802}",positive,0.9999123811721802,1
+"Semtech/Sierra, Telit/Thales set ground for new east-west IoT clash (Analyst Angle) - RCR Wireless News","Wed, 03 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5yY3J3aXJlbGVzcy5jb20vMjAyMjA4MDMvYW5hbHlzdC1hbmdsZS9zZW10ZWNoLXNpZXJyYS1hbmQtdGVsaXQtdGhhbGVzLXNldC1ncm91bmQtZm9yLW5ldy1lYXN0LXdlc3QtaW90LWNsYXNoLWFuYWx5c3QtYW5nbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"There were two high profile pieces of M&A news in the IoT hardware space in the last week. First up, on Friday 29th July, Telit and Thales announced that they were combining the assets of Telit with those of Thales’ IoT hardware business into Telit Cinterion. That was followed on 2nd August by the news that Semtech Corporation would acquire Sierra Wireless.
+
+Telit and Thales – straightforward merger
+
+Let’s examine Telit/Thales first. The deal will merge Thales’ IoT connectivity hardware business, which it acquired through its purchase in 2019 of Gemalto (which itself had acquired Cinterion in 2010). The new organisation will be called Telit Cinterion. As part of the deal Thales will receive a 25 percengt stake in the new organisation. This is fairly straightforward merger of two companies operating in more or less the same space.
+
+Semtech and Sierra – unusual bedfellows
+
+The Semtech/Sierra Wireless deal is rather different. Sierra Wireless is a more diversified player than the new Telit Cinterion. It has been through a process of building out an IoT MVNO connectivity business, including acquisitions of Wireless Maingate in Sweden (bringing in 500,000 connections), Mobiquithings in France (which had 100,000 connections), Numerex in the US (around 2.5 million connections), and Australia’s M2MOne (which had 400,000 connected devices).
+
+Today it manages around five million connections. This connectivity business accounted for 30 percent of revenue in 2021. (Check out our ‘IoT MVNO market landscape 2021’ report from November 2021.) Not only that, but Semtech is a very different type of organisation. It is a supplier of semiconductors. Its IoT interest is focused particularly on the LoRa/LoRaWAN technology that it gained through the acquisition from Cycleo in 2012, which it licenses to third parties.
+
+This contrasts with Sierra Wireless, which is focused entirely on 3GPP cellular technologies, and with a particularly nice gateways business. Could Semtech envisage launching its own LoRaWAN gateway powered by Sierra Wireless cellular-based backhaul? It has all the necessary pieces in place, although how this would play with other gateway manufacturers (check out our ‘LoRaWAN Gateway Market Landscape’ report) is unclear. Conversely, might we also expect Sierra Wireless to focus more of its connectivity business on public LoRaWAN networks rather than cellular? It’s very likely, and provides a boost to public LoRaWAN deployments.
+
+The total enterprise valuation of Sierra Wireless is $1.2 billion, which represents about a 2.5x multiple on revenues. That’s relatively high for a hardware business, which typically sells for 1-2x revenue. It’s likely to have been lifted by Sierra Wireless’ connectivity business, where multiples on revenue have been at an all time high recently at around 5x revenue, albeit probably declined somewhat in the last 6 months.
+
+Old guard – western consolidation
+
+One of the notable features of these two announcements is that it affects all three of the triumvirate of cellular IoT hardware makers that dominated the global market as little as a decade ago. Collectively Cinterion, Sierra Wireless and Telit accounted for the majority of IoT shipments. However, over the last decade the Chinese vendors such as Quectel and Fibocom have swallowed the lion’s share of the market and driven down prices a bit further.
+
+What do you do in the face of shrinking market share? You consolidate or you find new markets. All three have tried, variously, to do both. They’ve all made acquisitions or been acquired and have diversified. Sierra Wireless went into the connectivity space, as noted above, whereas Telit has recently beefed up its offering as a full MVNO. But these further mergers to gain more scale in IoT hardware make sense. They need scale.
+
+New divide – west versus east
+
+What’s particularly interesting from the Telit Cinterion deal is that it is positioning itself as a “western” IoT solutions vendor. This is illustrative of where the management thinks it can play most effectively – in other words; those companies and markets where it is either prohibited to buy from China or where it is considered undiplomatic to do so. This demonstrates something of a lack of ambition, but probably a reflection of the reality of pricing challenges.
+
+The Sierra Wireless/Semtech deal is less immediately illustrative of this shift, although the requirement for Sierra Wireless to sell out reflects the challenging competitive environment. However, it does create another “western” hardware vendor. And it’s just possible that Semtech might now seek to position LoRaWAN as the “western” LPWA technology. That might be explicit, or just implicit by aggressively targeting a wider set of deployments of public LoRaWAN networks.
+
+Regional LPWA – LoRaWAN versus NB-IoT
+
+It is a very real possibility that Semtech might seek to position LoRaWAN as a western LPWA technology in contrast to NB-IoT which is predominantly deployed (in terms of numbers of devices) in China. Of course, NB-IoT isn’t in any way an exclusively Chinese technology and is standardised by the global 3GPP and deployed by operators around the world. But there is the potential that it can be pitched as such, not least because Huawei (courtesy of its acquisition of Neul) was the company overwhelmingly responsible for bringing NB-IoT to market.
+
+In the event that LoRaWAN gains traction as a western technology, it could trigger a number of consequences. Clearly the mobile network operators outside of China will want to either (i) have a LoRaWAN offering or (ii) be able to demonstrate that NB-IoT is a global offering. The former means more opportunities for the likes of Everynet providing LoRaWAN neutral host networks for mobile operators.
+
+The latter might trigger hardware makers (Huawei particularly) to make some compromises with operators over providing network upgrades much more cost-effectively. Currently NB-IoT devices are more expensive and with generally inferior battery life compared to LoRaWAN. Driving adoption outside of China by pushing down prices and improving NB-IoT power performance will become a key objective.
+
+As an interesting side-note on this topic, Sierra Wireless has been notable for slewing strongly towards LTE-M and away from NB-IoT (although it does have NB-IoT products). To quote from its own assessment of the relative merits of the two technologies: “There are no NB-IoT use cases that LTE-M can’t also support”. (Although we must note that Transforma Insights disagrees with this analysis).
+
+Having Semtech/Sierra Wireless as a strong advocate for the LoRaWAN/LTE-M LPWA combination is a very strong possibility.","{'label': 'Neutral', 'score': 0.999997615814209}",neutral,0.999997615814209,0
+Kraken signs partnership MoU with Thales for K50 boats - Naval News,"Fri, 05 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzA4L2tyYWtlbi1zaWducy1wYXJ0bmVyc2hpcC1tb3Utd2l0aC10aGFsZXMtZm9yLWs1MC1ib2F0cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kraken signs partnership MoU with Thales for K50 boats British maritime technology company Kraken Technology Group (KTG) announced that it has signed a Memorandum of Understanding (MoU) with Thales for the ongoing development and provision of systems for the Kraken K50 maritime precision engagement platform.
+
+Kraken press release
+
+The K50 has been designed to deliver unparalleled levels of performance, modularity and operational capability for modern green-water security operations.
+
+Further areas of collaboration and development will include the development of advanced composite high-performance craft, in addition to bespoke electric and advanced hybrid powertrain solutions, all of which will be built at a new advanced engineering and technology centre.
+
+Thales will provide the ability to integrate a range of sensor and weapons equipment with scalable command and control, communication and networking systems. Thales has also identified the world-leading Lightweight Multi-role Missile (LMM) as a candidate for integration onto Kraken.
+
+LMM, also known as ‘Martlet’, has demonstrable capability in air defence and surface attack, able to defeat a range of threats including Fast Inshore Attack Craft (FIAC), UAVs and fast jets, aligning it perfectly with Kraken’s key principles of high performance, multi-role use and adaptability. This integration is in conjunction with Thales’ other partners MSI-DSL, who are developing a new lightweight launcher matched to LMM.
+
+“We are exceptionally pleased to be teaming with one of the most well-respected names in the Defence and Security industry, and looking forward to working together to address the growing requirement for advanced powertrain and modular composite structure solutions for the precision engagement sector”
+
+Mal Crease, Founder and CEO of Kraken Technology Group
+
+K50 (Kraken image)","{'label': 'Positive', 'score': 0.5921172499656677}",positive,0.5921172499656677,1
+"Supply Side: Wabtec, Rail Vision, Thales - RailwayAge Magazine","Tue, 09 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnJhaWx3YXlhZ2UuY29tL25ld3Mvc3VwcGx5LXNpZGUtd2FidGVjLXJhaWwtdmlzaW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Wabtec Corporation (Wabtec) opens first European Transit Performance Optimization Center (TPOC) in Derby, U.K. Also, Rail Vision Ltd. (Rail Vision) receives notice of allowance from the U.S. Patent and Trademark Office (USPTO); and Thales will provide additional 128 vehicle on-board controllers for new R-211 MTA New York City Transit railcars.
+
+Wabtec
+
+Wabtec recently celebrated the grand opening of its first European TPOC in Derby, U.K., which was created to “help transit sector customers improve operational performance and reduce service costs and lost productivity through real-time monitoring and analytics,” the company says.
+
+“The TPOC builds upon Wabtec’s well-established expertise in fleet performance monitoring in the freight rail industry,” the company says. Wabtec currently has four Global Performance Optimization Centers (GPOCs) located in the U.S., Brazil and Kazakhstan that monitor more than 18,000 assets (freight locomotives, marine engines, OHV Systems) 24 hours a day, 7 days a week.
+
+According to Wabtec, the TPOC is a major step in the company’s expansion and growth into transit asset analytics and condition monitoring. Across Wabtec’s GPOCs, the company says, technicians monitor roughly 10 million pieces of data per day on the health status and performance of transit systems globally, allowing potential train/sub system failures to be predicted before they occur, and maintenance to be scheduled without passenger or train disruption.
+
+“We are thrilled to open this new center, which will provide next generation service solutions for our customers in Europe,” said Garry Mowbray, Wabtec Vice President of Regional Services. “The combination of our inherent experience in global asset management, access to monitoring technology, analysis platforms and maintenance capabilities provide a winning combination for our customers.”
+
+Porterbrook Leasing is the first U.K. rail business to utilize the TPOC services across their fleet of 4,000 passenger rolling stock assets. The TPOC will help deliver enhancements for three key Porterbrook projects that include Class 170 powerpack “power by the mile,” Class 158/9 & 168 oil analysis, and Class 172 powerpack analytics.
+
+“This is a welcome investment from Wabtec, and we look forward to the benefits that the new TPOC in Derby will bring to the industry,” said Ben Ackroyd, Chief Operating Officer at Porterbrook. “Better performance controls and analysis will help Wabtec and asset owners, such as Porterbrook, jointly provide more dependable whole-life asset management capabilities to passenger and freight operators. It will drive improved and more consistent performance and give us the opportunity to further leverage technology in our mission to deliver a safe, reliable and sustainable railway.”
+
+Rail Vision
+
+Israeli development stage technology company Rail Vision announced on Aug. 8 that it has received notice of allowance from the U.S. Patent and Trademark Office (USPTO) for its patent titled System and Method for Built-in Test for Optical Sensors.
+
+Rail Vision CEO Shahar Hania
+
+The new patent allowance, Rail Vision says, covers the company’s “industry-leading, cutting-edge, artificial intelligence (AI)-based technology, specifically designed for railways, and its ability to perform built-in, real-time tests of the optical sensor.” According to Rail Vision, which is “seeking to revolutionize railway safety and the data-related market,” the system can detect a reduction in optical quality and determine issues with external optical disturbances (EOD) and/or failure of the optical sensors, increasing the trust of operators to rely on technology.
+
+“By strengthening our IP portfolio with this latest patent allowance, we are now in a great position to accelerate the rollout of our game-changing technology into the massive U.S. market,” commented Rail Vision CEO Shahar Hania. “The U.S. has seen more than 10,525 railroad crossing incidents in the last five years, resulting in nearly 1,300 deaths, including five tragically lost just weeks ago when an Amtrak train collided with a dump truck in rural Missouri in late June. It’s this very type of accident that our technology is designed to prevent, and our team is fully dedicated to making this evolution in train safety a reality.”
+
+Thales
+
+Thales recently announced in LinkedIn and Twitter posts that its Urban Rail division has been chosen by the New York Metropolitan Transportation Authority (MTA) to supply an additional 128 vehicle OBCUs (On-Board Control Units) for Kawasaki Rail Car-built R-211 cars, exercising an option on an existing contract.
+
+”We appreciate the trust MTA has placed in Thales, and this option award is a testament of the relationship MTA and Thales have been strengthening,“ the company said.","{'label': 'Positive', 'score': 0.9823664426803589}",positive,0.9823664426803589,1
+Telit to Acquire Thales' Cellular IoT Products - The Fast Mode,"Mon, 01 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZWZhc3Rtb2RlLmNvbS90ZWNobm9sb2d5LXNvbHV0aW9ucy8yNjU4NC10ZWxpdC10by1hY3F1aXJlLXRoYWxlcy1jZWxsdWxhci1pb3QtcHJvZHVjdHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Telit, a global leader in the Internet of Things (IoT), and Thales, a global leader in Aerospace, Defense, Security & Digital Identity, jointly announced they have entered into an agreement under which Telit intends to acquire Thales' cellular IoT products.
+
+The intended transaction includes Thales' portfolio of cellular wireless communication modules, gateways, and data (modem) cards, ranging from 4G LTE, LPWAN to 5G.
+
+The intended transaction establishes California-based Telit Cinterion, as a leading Western provider of IoT solutions, expanding the company's presence in growing industrial IoT segments and end markets including payment systems, energy, e-health, and security. It also enhances the company's ability to respond more expertly to growing demand for cybersecure IoT solutions in modules and cellular connectivity, thanks to leading technologies from Thales.
+
+Thales' cellular IoT module business, with approximately 550 employees across 23 countries, services many of the world's top brands. It generated sales of more than €300 million in 2021. With the transaction expected to close in Q4 2022, subject to entering a binding share transfer agreement, regulatory approvals and other customary closing conditions, Thales becomes a shareholder in Telit Cinterion, controlled by asset manager DBAY Advisors and led by Telit CEO Paolo Dal Pino.
+
+Thales' cellular IoT products business and Telit's customers and partners will continue to receive the outstanding supply, support, and service to which they have been accustomed. All relevant parties will receive regular updates throughout the transaction, upon closing and ensuing integration periods.
+
+To sharpen focus on Industrial IoT, Telit Cinterion plans to spin off and manage separately the automotive IoT unit after closing.
+
+Deutsche Bank acted as exclusive financial advisor to Thales, and Rothschild & Co as exclusive financial advisor to Telit, DBAY Advisors.
+
+Paolo Dal Pino, Telit's CEO
+
+Innovation, scale and efficient IoT solutions are key for success. This transaction with Thales is arguably the most impactful one for Telit competitiveness. While it will boost our ability to address customer needs more precisely from a richer portfolio, it will also enable us to deliver all new offerings derived from the experience, expertise, and the DNA of two companies that have made security and quality part of their brand promise from the very beginning.","{'label': 'Positive', 'score': 0.9997120499610901}",positive,0.9997120499610901,1
+"Kraken, Thales Partner to Further Develop K50 Precision Engagement Craft - The Defense Post","Mon, 08 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzA4LzA4L2tyYWtlbi10aGFsZXMtazUwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kraken Partners With Thales to Further Develop K50 Precision Engagement Craft
+
+English maritime technology firm Kraken Technology Group has signed a memorandum of understanding with Thales for the ongoing development and systems provision for Kraken’s K50 maritime precision engagement platform.
+
+The collaboration includes the development of “advanced composite high-performance craft and hybrid powertrain solutions,” which will be built at a new engineering center.
+
+Weapons for K50
+
+Thales will also potentially integrate a range of sensors and weapons equipment into the K50.
+
+The French multinational pitched its Lightweight Multi-role Missile (LMM) for integration onto the vessel.
+
+The LMM is a lightweight precision strike missile that can be fired from a range of tactical platforms. It’s designed for quick reaction to a range of threats, including small ships, fast inshore attack craft, and drones.
+
+This aligns “perfectly with Kraken’s key principles of high performance, multi-role use and adaptability,” the company said.
+
+Kraken K50
+
+The K50 is a rapid response vehicle that can operate solo or in a swarm. It can be equipped with heavy weapons for surface and aerial interception but also offers mission-specific customization.
+
+The boat is the “spiritual successor” of renowned powerboats active during World War II, including Motor Torpedo Boats, PT Boats, and Motor Gun Boats.
+
+In April, the company announced it had secured additional investment to develop its K50, which has been designed for rapid response, precision engagement, and protection of critical offshore infrastructure.
+
+The platform includes multiple modular systems and sensors that can deliver semi-autonomous operational capabilities.","{'label': 'Neutral', 'score': 0.9988366961479187}",neutral,0.9988366961479187,0
+Spirit's transition to SES-17 satellite capacity continues apace - Runway Girl Network,"Sun, 21 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjIvMDgvc3Bpcml0LXNlcy0xNy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Spirit Airlines’ new inflight Internet service was initially tested and formally launched using leased Ka-band satellite capacity on in-orbit Hughes satellites. But as of 17 August, a total of 55 Airbus A320 family aircraft in the budget operator’s fleet have transitioned to the new high-capacity, high-throughput SES-17 satellite, the carrier’s aero ISP Thales reports.
+
+“As of last night, 55 Spirit Airlines aircraft equipped with Thales’ FlytLIVE connectivity have transitioned to the SES Satellites SES-17, meaning 7,975 seats are now enabled with the Fastest Wi-Fi in the Sky,” Thales revealed in a post on LinkedIn.
+
+“We have moved over a third of the Spirit fleet equipped with FlytLIVE to SES-17 and will have 150 aircraft on SES-17 by the end of the month,” added Thales’ Romain Carton, program manager for Spirit. “A big thank you to the teams for all their efforts and dedication to achieve this major milestone.”
+
+In advance of this achievement, Thales engaged in a variety of tests to ensure a seamless switchover. “We’ve done mobility testing, we’ve done some flight testing on experimental STC’d aircraft, we’ve got mobile van testing that we’re going to continue exercising the network to validate the beam switches — all of the technology,” said Thales vice president of connectivity product delivery Jeffrey Payne last month, just before Spirit flipped the switch on Wi-Fi across its A320s and A321s.
+
+He described how SES-17 is playing a key role in Thales’ bid to support an “unmatched passenger experience” on Spirit.
+
+“The digital transparent processor [DTP] — that dynamic allocation of the bandwidth — is a significant game changer for a satellite like this high-throughput satellite,” he said. “It allows us to put the demand, put the power and the speeds where the demand is at. So we’re no longer just heating up portions of the oceans or routes or areas [with] beams that are not needed. We can dynamically allocate that, the frequencies and the power, everything that we need to meet the growing demand of the passengers.”
+
+Payne noted that, with SES-17, Thales is able offer full coverage across all Spirit routes, including aircraft that fly to Latin America.
+
+From a passenger experience standpoint, Payne said, Thales can achieve 400 Mbps on the downlink with ThinKom Solutions’ Ka2517 VICTS antenna, which is now installed on the lion’s share of Spirit’s fleet. “We’ve seen 100 Mbps on an uplink. So you can imagine what you can do with that type of a capability.”
+
+Hughes, meanwhile, whose Ka-band satellite capacity supported Spirit’s initial trial period and launch, can provide a level of redundancy if congestion is experienced on the network, or should any gaps need to be filled. However, Payne said there is a “low probability” that such a back-up will be required, adding: “[I]t’s there if we need it.”
+
+Nonetheless, Hughes still has an important role to play in the program, as its modem technology is part of the Thales IFC package, and able to support the speeds described by Payne. “We’ve seen this in a lot of our testing. No doubt that this is a solid waveform for us to continue to push through and to carry into the aircraft,” he said.
+
+Since Spirit went live with onboard Internet for passengers last month, the low-cost carrier has entered into an arrangement that will see it acquired by JetBlue Airways.
+
+In announcing the deal with Spirit, JetBlue vowed to bring the JetBlue experience to all aircraft. That will require substantial retrofit work on Spirit’s fleet, as JetBlue offers seatback IFE and extra legroom seats, among other amenities.
+
+It remains to be seen if JetBlue will retain the Thales FlytLIVE solution or retrofit Spirit’s A320 family with its own inflight connectivity solution — a high-capacity Ka-band satellite system powered by Viasat, and offered for free to passengers.
+
+But in the meantime, Spirit passengers can expect high-speed Internet at reasonable price points, courtesy of Spirit, Thales and its partners.
+
+Related Articles:
+
+Featured image credited to Spirit Airlines. Embedded image credited to Thales Aerospace","{'label': 'Neutral', 'score': 0.9998811483383179}",neutral,0.9998811483383179,0
+"Rail News - Rail supplier news from Wabtec, Thales, Aspen Equipment and Railway & Locomotive Historical Society ... - Progressive Rail Roading","Tue, 09 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5wcm9ncmVzc2l2ZXJhaWxyb2FkaW5nLmNvbS9zdXBwbGllcl9zcG90bGlnaHQvbmV3cy9SYWlsLXN1cHBsaWVyLW5ld3MtZnJvbS1XYWJ0ZWMtVGhhbGVzLUFzcGVuLUVxdWlwbWVudC1hbmQtUmFpbHdheS1Mb2NvbW90aXZlLUhpc3RvcmljYWwtU29jaWV0eS1BdWctOS0tNjcyNTLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"8/9/2022
+
+Rail News: Railroading Supplier Spotlight
+
+Photo – Aspen Equipment
+
+
+
+Wabtec Corp. announced the opening of its first European Transit Performance Optimization Center in Derby, England. The new center will help transit sector clients improve operational performance and reduce service costs and lost productivity through real-time monitoring and analytics. The opening represents a milestone as the company expands into transit asset analytics and condition monitoring, Wabtec officials said in a press release.
+
+Thales was chosen by MTA New York City Transit to supply 128 vehicle on-board control units as part of an additional option on an existing contract. The units feature safety-critical, dual-processor computers that help increase performance and reliability of trains, Thales officials said on Twitter.
+
+Aspen Equipment has promoted Cole Lundeen to territory manager in the Iowa and Illinois region for Manitowoc, Grove and National Crane sales and rentals. Previously, Lundeen was an inside sales representative. He has been with the company since 2019. Lundeen has a proven sales record, said Director of Sales Aaron Carlson in a press release.
+
+The Railway & Locomotive Historical Society announced five winners of its 2022 scholarship awards worth $3,000 each. The winners are Kaitlyn Drittler, who is pursuing a bachelor’s degree in business administration; Benjamin Kletzer, who is a Ph.D. candidate in history; Joe Krebsbach, who is pursuing a bachelor’s degree in transportation and logistics management; Taylor Lang, who is pursuing a master’s degree in city and regional planning; and Maria Lecompte, who is a Ph.D. candidate in transportation technology and policy.","{'label': 'Neutral', 'score': 0.8704604506492615}",neutral,0.8704604506492615,0
+"Telit buys Thales IoT business, spins off automotive business ... - eeNews Europe","Tue, 02 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vdGVsaXQtYnV5cy10aGFsZXMtaW90LWJ1c2luZXNzLXNwaW5zLW9mZi1hdXRvbW90aXZlLWJ1aXNuZXNzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Telit buys Thales IoT business, spins off automotive business Business news | August 2, 2022 By Nick Flaherty
+
+
+
+Telit is to acquire the cellular Internet of Things (IoT) business of French conglomerate Thales and sell off its automotive business.
+
+Telit will incorporate the Thales cellular IoT products business and re-name as Telit Cinterion to create a leading IoT provider of hardware, software, and connectivity solutions.
+
+Thales will receive a 25% stake in Telit Cinterion for its portfolio of cellular wireless communication modules, gateways, and data (modem) cards, ranging from 4G LTE, LPWAN to 5G. The Thales IoT business has 550 employees across 23 countries and services many of the world’s top brands. It generated sales of more than €300m in 2021.
+
+The transaction is expected to close by the end of 2022, subject to entering a binding share transfer agreement, regulatory approvals and other customary closing conditions.
+
+To sharpen focus on Industrial IoT, Telit Cinterion plans to spin off and manage separately the automotive IoT unit after closing.
+
+“Innovation, scale and efficient IoT solutions are key for success. This transaction with Thales is arguably the most impactful one for Telit competitiveness,” said Paolo Dal Pino, Telit’s CEO. “While it will boost our ability to address customer needs more precisely from a richer portfolio, it will also enable us to deliver all new offerings derived from the experience, expertise, and the DNA of two companies that have made security and quality part of their brand promise from the very beginning.”
+
+Telit was founded in Italy but opened its global headquarters in California last year after a deal to go private.
+
+Other articles on eeNews Europe
+
+If you enjoyed this article, you will like the following ones: don't miss them by subscribing to : If you enjoyed this article, you will like the following ones: don't miss them by subscribing to : eeNews on Google News
+
+Share:","{'label': 'Neutral', 'score': 0.8313685655593872}",neutral,0.8313685655593872,0
+Thales Alenia Space and Miprons to develop satellite propulsion system with AM parts - Metal Additive Manufacturing magazine,"Mon, 01 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1ldGFsLWFtLmNvbS90aGFsZXMtYWxlbmlhLXNwYWNlLWFuZC1taXByb25zLXRvLWRldmVsb3Atc2F0ZWxsaXRlLXByb3B1bHNpb24tc3lzdGVtLXdpdGgtYW0tcGFydHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Share to your network:
+
+
+
+
+
+
+
+
+
+The water-powered propulsion system will be based on Miprons’ proprietary technology, the ALEXIUS space propulsion system (Courtesy Miprons)
+
+Thales Alenia Space, a joint venture between Thales Group and Leonardo S.p.A, has signed an agreement with aerospace component manufacturer Miprons, Segni, Italy, to develop a propulsion system for satellites that will feature additively manufactured components and be powered by water. Based in France, Thales Alenia Space provides solutions for telecommunications, navigation, Earth observation and environmental management, exploration, science and orbital infrastructure.
+
+Founded in 2019, Miprons specialises in micro propulsion for nano satellites. It has filed three international patents, on innovative space propulsion systems and the relative main components. It is particularly focusing on the use of water in space applications for both propulsion and human requirements. The water-powered propulsion system will reportedly be based on Miprons’ proprietary technology, the ALEXIUS space propulsion system solution which has been patent filed in fifty countries.
+
+By utilising this technology the companies aim to develop a miniaturised, high-powered thruster that will use water as a propellant. An electrolysis process splits the water into hydrogen and oxygen, which are fed into the combustion chamber. By only loading water, the system would allow faster maneuvers such as orbit-raising, de-orbiting and collision avoidance. The system is expected to be both compact and scalable, allowing it to be installed on a range of small and large satellites. The development of the propulsion system will also utilise Additive Manufacturing for a number of components.
+
+Designed specifically for Thales Alenia Space’s satellites, this high-efficiency thruster is expected to feature reduced weight and volume. Thales Alenia Space states that it will guide thruster development and its location in Italy will support the environmental testing of the engineering model.
+
+“We are very proud to team up with Miprons, which is gaining increasing international recognition, since our collaboration could well change the paradigm for space missions,” stated Massimo Claudio Comparini, CEO of Thales Alenia Space in Italy. “This agreement confirms Thales Alenia Space’s strategy to play a pivotal role in new space initiatives, reflected in synergies generated with exciting new startups that catalyse the entire space ecosystem. We are always willing to tackle new challenges that emphasise the growing strategic importance of the space sector.”
+
+Angelo Minotti, CEO and founder of Miprons, commented, “I am extremely proud of our agreement with Thales Alenia Space. It’s truly a privilege to earn the trust of one of the world’s largest space companies. Our project, although still in its early stages, clearly has the potential to define a new paradigm in space, and we will do everything we can to have the system up and running as soon as possible.”
+
+www.miprons.com
+
+www.thalesgroup.com","{'label': 'Neutral', 'score': 0.9990296363830566}",neutral,0.9990296363830566,0
+New Thales Academy campus opening this month in Flowers Plantation - RALtoday,"Tue, 02 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcmFsdG9kYXkuNmFtY2l0eS5jb20vcHJldmlldy10aGFsZXMtYWNhZGVteS1mbG93ZXJzLXBsYW50YXRpb24tY2xheXRvbi1uY9IBW2h0dHBzOi8vcmFsdG9kYXkuNmFtY2l0eS5jb20vcHJldmlldy10aGFsZXMtYWNhZGVteS1mbG93ZXJzLXBsYW50YXRpb24tY2xheXRvbi1uYz9fYW1wPXRydWU?oc=5&hl=en-US&gl=US&ceid=US:en,"Did you know Thales Academy is a network of schools that began in Raleigh and now serves communities throughout NC, VA + TN?
+
+The newest campus will be located at 65 Flowers Parkway in Flowers Plantation. Construction is currently underway and will be completed in time for the campus’ opening later this month.
+
+Thales Academy at Flowers Plantation will initially offer pre-k through seventh grade for the 2022-2023 school year, and plans to add subsequent grades in future years — eventually providing a full K-12 offering (contingent on adequate interest and enrollment for staffing).
+
+Academics
+
+Well-known for its rigorous academics, Thales Academy uses Direct Instruction teaching techniques + a classical curriculum to cultivate virtuous, critical thinking, and compassionate individuals.
+
+Philosophical discussion, Latin studies, and logic and rhetoric prepare students to think critically in school and later in the competitive workforce.
+
+Keep reading to learn more about Thales Academy’s approach to character and skills development, along with affordability and application information.
+
+Character + skills development
+
+Thales Academy incorporates character development into classroom lessons, school culture, and facilities. Think: Character traits inscribed on the hallway walls and transparent lockers without locks to encourage a spirit of honesty + respect.
+
+An emphasis on a specific set of skills help prepare students with the real world competencies they need to succeed, including:
+
+
+
+Written and verbal communication
+
+Time management
+
+Problem solving
+
+Alertness
+
+Risk taking
+
+Visualization
+
+Affordability + applications
+
+There are no additional tuition fees and sibling + full-payment discounts are available. | Photo provided by Flowers Plantation
+
+Payment options, discounts, and scholarships are available at Thales Academy. Bonus: All textbooks + technology are included in Thales’ all-inclusive tuition.
+
+There are still limited spaces available for the 2022-2023 school year.. Learn more + apply (and get to know the Flowers Plantation teaching staff).*
+
+","{'label': 'Neutral', 'score': 0.9999897480010986}",neutral,0.9999897480010986,0
+Optimized water phantom brings streamlined commissioning to ring-shaped radiotherapy systems – Physics World - physicsworld.com,"Wed, 24 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vcGh5c2ljc3dvcmxkLmNvbS9hL29wdGltaXplZC13YXRlci1waGFudG9tLWJyaW5ncy1zdHJlYW1saW5lZC1jb21taXNzaW9uaW5nLXRvLXJpbmctc2hhcGVkLXJhZGlvdGhlcmFweS1zeXN0ZW1zL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The THALES 3D SCANNER from LAP has been specifically designed for acceptance, commissioning, and quality assurance of bore-type image-guided linacs such as Varian’s popular Halcyon machine
+
+Streamlined commissioning: The THALES 3D SCANNER has been designed to speed up acceptance testing, beam model validation, and quality assurance for bore-type image-guided radiotherapy systems, in particular Varian’s Halcyon and Ethos machines (Courtesy: UZ Brussel)
+
+After 30 years of outright domination in the radiotherapy suite, conventional C-arm beam-delivery systems are now being joined by bore-type machines that look more like a CT or MR scanner. Initially driven by the emergence of MR-guided radiotherapy, which can only be realized with a ring-shaped design, image-guided radiotherapy machines with the same geometry have found favour in the clinic for their speed, simplicity, and improved patient comfort. Early adopters of Varian’s Halcyon system have even reported a 70% reduction in energy usage compared to a previous installation of the vendor’s more traditional TrueBeam radiotherapy machine.
+
+But the more confined geometry of a ring-shaped design demands a different approach to quality assurance. Take, for example, the water phantom that is used by medical physicists to record accurate dosimetry measurements when commissioning a new radiotherapy system, or for periodic checks of the radiation beam profile during the machine’s lifetime. “Medical physicists want independent QA and verification tools to confirm that the radiotherapy system is working as it should,” comments Thierry Mertens, business development manager for healthcare at LAP, a company that specializes in laser systems and radiotherapy QA. “A water phantom provides rigorous beam data and beam model visualizations to verify that the system is delivering the correct dose to the patient.”
+
+While water phantoms originally designed for conventional linacs can be used with ring-shaped systems, Mertens says that their large size and weight adds unnecessary complications to the measurement workflow. For a start, extra care must be taken to ensure the phantom does not collide with the sides of the machine as it moves into the opening, while additional corrections need to be made to compensate for the heaviness of the water tank on the couch.
+
+In contrast, the THALES 3D SCANNER has been designed from the outset to validate bore-style machines such as the Halcyon, as well as Varian’s new AI-enabled Ethos adaptive radiotherapy system. For the medical physicist that means greater workflow efficiency: the compact system works seamlessly with the smaller 3D volumes of these machines, with extra guidance plates to enable different types of detectors to be incorporated into the device. The motorized phantom offers an automated set-up that takes less than 15 minutes, as well as pre-defined measurement sequences to help the medical physics team complete their test routines more quickly. Dedicated software is also provided for acquiring and analysing the data, with a rolling upgrade programme to improve the functionality in response to customer feedback.
+
+“LAP has carefully considered the design to make the device as easy to use as possible,” says Thierry Gevaert, professor at the Vrije Universiteit Brussel and deputy head of the radiotherapy department at UZ Brussel (UZB) in Belgium. “We use a water phantom a few times a year, and with this system there is no need to relearn the measurement process each time. Many of the steps are automated, so we don’t need to waste time finding the right position of the chamber before starting the measurements.”
+
+The THALES 3D SCANNER is the second iteration of the company’s water phantom, with the first version designed specifically for commissioning and testing a new generation of MR-guided linacs such as the MRIdian MR-guided system from ViewRay. Released in 2021, the THALES 3D MR SCANNER is fully compliant with the challenging requirements of the MR-linac environment, with all system components made from non-ferromagnetic materials that have been certified for use within the MRI scanner’s 0.35 T magnetic field. “The THALES 3D MR SCANNER provides a golden-standard dose accuracy check for MR-guided radiotherapy systems,” comments Mertens. “It is a perfect fit for commissioning the beam model of the MRIdian system.”
+
+Effective translation: LAP’s Thierry Mertens (second from right) with Thierry Gevaert (right) and two of his UZB colleagues. Tests by the UZB team showed that the MR version of LAP’s THALES water phantom provides accurate beam data when used with Varian’s image-guided Halcyon machine (Courtesy: UZ Brussel)
+
+The THALES 3D MR SCANNER has already been used by several radiotherapy centres around the world to support the commissioning and acceptance of the MRIdian system. At UZB, for example, the medical physics team were given just five weeks to complete their commissioning and acceptance protocols, as well as machine and patient-specific QA, before the machine was deployed in the radiation oncology clinic. “With only a day and a half of training, we were able to set up the phantom and take all the measurements by ourselves,” comments Gevaert. “The software is very intuitive, and we were able to collect all the necessary data within a week.”
+
+When UZB’s satellite centre, ASZ Aalst, acquired a Halcyon machine, Gevaert was keen to see whether the THALES 3D MR SCANNER could be used to check the beam parameters that had been provided by the vendor. Because it’s not used very often, a water phantoms is a big investment for just one machine,” Gevaert points out. “We wanted to see whether we could translate our MR version of the THALES system to the Halcyon, since both machines have the same geometry.”
+
+Both Viewray’s MRidian and Varian’s Halcyon come pre-commissioned, with all the beam data already loaded into the planning system, but Gevaert says that it is still important for medical physicists to verify that the data is correct. “We wanted to use a water phantom for the Halcyon as we believe it is the golden standard for acquiring and remeasuring beam data,” he comments.
+
+Working with the engineers from LAP, Gevaert found that it was straightforward to set up the MR version of the phantom to work with the image-guided Halcyon. Just one new adjustment was needed to level up the device, since otherwise the weight of the water caused the phantom to sag when it was positioned on the couch. “We were one of the first to use the MR version with the Halcyon, so we needed to check that the measurements would still be accurate,” said Gevaert. “We found a good agreement with the data we received from the company.”
+
+Meanwhile, the newly released THALES 3D SCANNER offers all the same functionality and performance as the MR-enabled device, with the only major difference being that the MR-specific capabilities have been stripped out to produce a more affordable solution for treatment centres that plan to install one or more image-guided bore-type machines. Varian has certified the phantom to be fully compatible with both its Halcyon and Ethos machines, and the device shares the same regulatory approvals in the US and Europe as the original MR-compatible version.
+
+Both iterations of the phantom come with an annual maintenance visit, an ongoing programme of software and hardware updates, and a configurable multi-year warranty. “We know we are the new kids on the block. Our modern phantom design has been shaped by clinical physicists and we continue to incorporate their feedback to inform our upgrade programme,” says Mertens. “We will continue to improve the product through new software-enabled capabilities.”
+
+As an example, Gevaert is currently working with LAP on new functionality that will make it possible to benchmark new dosimetry measurements against previous readings or a reference dataset. “That will enable us to directly compare measurements taken at different times,” he said. “Ideally we want to have everything built into one piece of software to avoid the need to export the data into another tool.”
+
+Mertens and his colleagues at LAP are also evaluating the THALES water phantom for other bore-type accelerators such as Elekta’s MR-guided Unity and Accuray’s Radixact systems. “The voice of the clinical radiotherapy user is fundamental to our requirements-gathering and for understanding how the machine is being used in a clinical context,” Mertens adds.
+
+Note that LAP and THALES are trademarks of LAP. Designations of other companies and products are only used to describe the application of our products.","{'label': 'Neutral', 'score': 0.9999505281448364}",neutral,0.9999505281448364,0
+New Launchers for Laser Guided Rocket - Defense Update,"Wed, 31 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMjIwODMxX25ldy1sYXVuY2hlcnMtZm9yLWxhc2VyLWd1aWRlZC1yb2NrZXQuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"While large caliber weapons such as the M142 HIMARS and its M31 GMLRS rockets are making the headlines in the Russian-Ukrainian War, smaller, more agile guided rockets have evolved, utilizing the laser-guided light rockets. Initially, these weapons utilized standard launchers, but recent developments from Thales, BAE Systems, and L3Harris have optimized the use of such weapons by helicopters, special operations forces, and unmanned vehicles.
+
+Thales has shown the FZ606 at the Thai Defense & Security 2022 expo. This is the latest version of the rocket launcher optimized for laser-guided 2.75” rockets FZ275LGR. The new launcher stores six guided rockets in closed containers, protecting the rocket and its seeker from foreign objects (FOD), and the rocket flux generated by neighboring rockets launches. The launcher also provides two-way communications between each of the rockets and the control unit in the cockpit, enabling target verification, pre-launch programming of the fuse, setting the ignition sequence, and performing the necessary pre-launch tests.
+
+The FZ275LGR from Thales (formerly FZ) is the latest version of the 70mm rocket, positioned as a competitor to the US-made BAE Systems’ APKWS II and Turkish CIRIT from Roketsan. This rocket ranges beyond 6,000 m’ with hit accuracy below 1m CEP. It uses a laser sensor mounted at the tip of the fuselage, providing a wider field of regard for the sensor. Alas, at this position, the sensor is also vulnerable to damage from foreign objects, environmental effects, and the heat and debris of launches of neighboring rockets. Hence, the advantage of the new launcher.
+
+The Cirit from Roketsan is another 70 mm laser-guided rocket system designed for helicopters, vehicles, and drones. The rocket can use one of three types of warheads – a multipurpose (armor piercing, high explosive-incendiary), high explosive fragmentation (anti-personnel) incendiary, and enhanced blast (thermobaric). Roketsan has developed a new launcher pod housing four rockets attached to the platform as an all-up round. The same pod can be mounted on various unmanned boats and weapon systems. These rockets are currently used by the air forces of Turkey, UAE, Bahrain, and the Philippines.
+
+Other launchers equipped with unguided rockets haven’t suffered these effects as the rockets they use are more robust and less sensitive to flash and FOD impact. With the new launcher, the 275LGR can lock on lased targets as soon as the launcher blind is opened, performing the ‘lock on before launch’ (LOBL) technique. Other guided rockets, such as the APKWS II, employ a matrix of four laser sensors mounted on the folding fins, thus keeping the sensor protected in the launcher until the rocket is launched. This method enables the rocket to acquire targets only after launch (LOAL), a shorter process prone to errors.
+
+According to sources at Thales, the 275LRG uses improved propulsion providing a steady burn rate, resulting in stable trajectory and flight with higher accuracy. The weapon uses a high explosive fragmentation warhead with a high-performance armor-piercing warhead in development that will be able to penetrate frontal armor.
+
+Lightweight rocket launchers for laser-guided weapons have evolved recently to provide agile and effective firepower for special operations forces and light manned and unmanned aircraft. Another launcher making its debut in the warzone in Ukraine was the Vampire – HarrisL3’s Vehicle-Agnostic Modular Palletized ISR Rocket Equipment (VAMPIRE). The modular system provides precision strike capability with ground-to-ground or ground-to-air laser-guided munitions. VAMPIRE can be mounted on commercial or tactical vehicles. Is designed to fit in any pickup or vehicle with a flat surface. It comes with a power supply that enables mounting on civilian vehicles using 12V electrical systems.
+
+The launcher uses the Fletcher LGR4 quad launcher from Arnold Defense, loaded with four APKWS II laser-guided rockets. Such rockets can be used against ground targets, drones, and helicopters. This launcher can also fire unguided rockets using the ballistic fire control computer, but its main advantage is using laser-guided rockets, supported by a mast-mounted electro-optical payload system capable of designating targets within line of sight.","{'label': 'Neutral', 'score': 0.9997333884239197}",neutral,0.9997333884239197,0
+Telit bulks up in Europe with Thales IoT acquisition - Telecoms.com,"Mon, 01 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRlbGVjb21zLmNvbS9pb3QvdGVsaXQtYnVsa3MtdXAtaW4tZXVyb3BlLXdpdGgtdGhhbGVzLWlvdC1hY3F1aXNpdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"US-based IoT specialist Telit looks set to take a bigger slice of the European market.
+
+Late last week it agreed to acquire French defence giant Thales’ cellular IoT business. The division offers a range of modules, gateways and modem cards. Sold under the Cinterion brand, they support 5G, LTE, NB-IoT and LTE-M, as well as GPS and GLONASS positioning technologies. It boasts 550 employees spread across 23 countries, and last year it turned over €300 million.
+
+The deal with Telit – which is due to close in Q4 subject to all the usual terms and conditions – will create Telit Cinterion, expanding Telit’s presence in several industrial IoT verticals and various end markets including payment systems, energy, e-health, and security. Thanks to Thales’ defence and security heritage, the acquisition will also provide Telit with the ability to offer cyber-secure cellular IoT modules. Telit said it wants the new division to focus primarily on industrial IoT, and so with that in mind, it plans to spin off its automotive IoT division into a separate unit once the deal closes.
+
+“This transaction with Thales is arguably the most impactful one for Telit competitiveness. While it will boost our ability to address customer needs more precisely from a richer portfolio, it will also enable us to deliver all new offerings derived from the experience, expertise, and the DNA of two companies that have made security and quality part of their brand promise from the very beginning,” said Telit CEO Paolo Dal Pino, in a statement last Friday.
+
+“The Thales and Telit combination brings together complementary strengths. The business will provide a unique value proposition in a highly competitive global IoT market and will allow Thales to focus its investments on its three core activities in aerospace, defence and security, and digital identity and security,” added Philippe Vallée, EVP of digital identity and security at Thales. “The new combination will rely on a unique set of expertise brought by Thales and Telit employees. It will also benefit from leveraging both companies’ strong and complementary product portfolio and Thales’ experience in cellular connectivity.”
+
+Financial terms of the transaction were not disclosed, but the companies did reveal that Thales will take a 25 percent stake in the new entity, which will be managed by Telit execs.
+
+While Telit has always been a fairly acquisitive company, in recent years it has been the one subject to approaches from potential buyers. In late 2020, amid interest from several suitors, Swiss IoT logistics company U-blox made a move for Telit, but the latter didn’t like the terms on offer and the deal fell apart in January 2021. In May of that same year, UK-based private equity firm Dbay Advisors agreed to acquire Telit in a deal valuing the company at £320 million. The transaction closed in September, at which point Telit de-listed from the London Stock Exchange.
+
+This consolidation all points to IoT players trying to scale up in anticipation of mass adoption. Analyst firm Transforma Insights predicted last week that global IoT connections are expected to more than double between now and the end of the decade, from 13.1 billion to 29.4 billion. In revenue terms, it expects the market to be worth $621 billion in 2030, compared to $213 billion in 2021.
+
+If there really is that much headroom still left in the IoT market, it is little wonder Telit is keen to bulk up.
+
+Get the latest news straight to your inbox. Register for the Telecoms.com newsletter here.","{'label': 'Positive', 'score': 0.9988186955451965}",positive,0.9988186955451965,1
+Telit's Thales Acquisition Creates Top Western IoT Hardware Powerhouse - IoT World Today,"Mon, 01 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmlvdHdvcmxkdG9kYXkuY29tL2lpb3QvdGVsaXQtcy10aGFsZXMtYWNxdWlzaXRpb24tY3JlYXRlcy10b3Atd2VzdGVybi1pb3QtaGFyZHdhcmUtcG93ZXJob3VzZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"By Andy Brown, Practice Lead, IoT, Omdia
+
+Telit and Thales planned acquisition of Thales’ cellular IoT products business – Telit Cinterion – brings a new Western IoT powerhouse for IoT solutions offering an extensive suite of IoT products, services and bundles consisting of hardware, software, and connectivity solutions.
+
+The move expands the portfolio of modules and gateways the new company can offer, gives the business greater buying power from semiconductor companies, and allows for extensive device management and connectivity offerings. It will allow Telit to extend its leadership in the industrial IoT module market segment, a focus that will be sharpened by the spinoff and separate management of Thales Automotive modules business. Additionally, The new company will leverage Thales’ expertise in IoT security across SIM technology, modules and connectivity while expanding the customer reach by combining the existing commercial relationships. Telit Cinterion will be well placed to leverage Thales considerable expertise in secure eSIM management and will be a major global player in the IoT hardware business going forward
+
+The East vs. West Battle for IoT Hardware Supremacy
+
+The IoT hardware business has changed dramatically over the last five years, with Chinese vendors becoming far more dominant in the overall IoT module mix, leveraging large infrastructure projects in China in areas such as utilities, manufacturing, smart buildings and smart cities. In 2021, the two largest Chinese vendors, Sunsea AIoT and Quectel, combined to capture almost 53% of the entire IoT module market. Six of the top 10 IoT module vendors are now Chinese as shown in Figure 1 (below).
+
+Source: Omdia Cellular IoT Module Market Shares Report (July 2022)
+
+Sunsea AIoT, the combined entity of SimCom and Longsung, leveraged the significant 2G module share in China initially, while Quectel has continued to expand its significant presence, overtaking Sunsea in 2018 to become the global unit market leader, with extensive carrier certifications, a one-year free repair and maintenance aftermarket offering and rapidly expanding distribution channel key factors in the company’s growth.
+
+Quectel has been adept at moving from module design concept and build to certification and mass production, by its aggressive investment in research and development and testing facilities. It was one of the main winning bidders when China Mobile launched a major project for 5 million NB-IoT modules in late 2018 and has since expanded outside China, launching its Connectivity-as-a-Service (CaaS) service in EMEA in early 2022 and expanding it to the whole of the Asia Pacific region in June 2022.
+
+Reacting to Chinese IoT Dominance
+
+With the growing challenge and increasing dominance of major Chinese OEMs (in addition to the Sunsea AIoT and Quectel, Neoway, Fibocom, Gosuncn and MeiG smart have also gained ground), western IoT hardware vendors must find ways to compete. Low ASPs and the scale that large Chinese vendors can achieve (in terms of production, cost and purchasing of components, especially semiconductors) means they can achieve economies of scale that western vendors have found very hard to match.
+
+The new company has a significant upside:
+
+A Sharper Focus for Thales’ IoT Module business: Cinterion was born from the original sale of Siemens Wireless modules. When it was acquired by Gemalto in 2010, the new business developed real expertise in creating advanced certified modules for automotive and other IoT markets, underpinned by Gemalto’s expertise in security and digital identity management. With Thales’ 2019 acquisition of Gemalto, the IoT module business has been something of an outlier to the French multinational’s main focus of defense, aerospace, security and identity management. The new business will create a much sharper focus for Thales’ cellular IoT module unit, with approximately 550 employees across 23 countries.
+
+Source: Omdia Cellular IoT Module Market Shares Report (July 2022)
+
+Scale: While not an exact measure, the combined market share of both companies would create the third largest module vendor in terms of shipments and a clear second largest vendor in terms of revenues, based on 2021 numbers. The company can therefore scale far more effectively than it can at present.
+
+Geographic reach: More than half of Telit’s revenue is generated by North America. The new company will have greater reach into EMEA and Asia and Oceania, given that Thales has a roughly equal mix across the three major regions.
+
+Procurement synergies: Both companies use Qualcomm, Intel and Sequans (among others) to supply the semiconductors used in their module and gateway products. The new business has significant buying power with these suppliers as a larger entity and a better ability to negotiate lower supplier prices and terms.
+
+Cost competitiveness: The new company will not only be able to scale in terms of volume, but also compete in module ASPs in highly price-sensitive markets in Asia and Oceania.
+
+Stronger vertical focus: Telit has a very strong position in the industrial/manufacturing industry, as well as a presence in consumer/residential, energy/utilities, medical/health care and retail among others. Thales also has a strong presence in retail, energy/utilities and medical/health care as well as a significant business in security and automotive (from which a new business will be spun out). These vertical industries can be served more effectively across more geographic markets and make the new company a strong proposition for multinational customers.
+
+Managed services growth: The new company will be able to more strongly drive into managed services, given that the business will be able to offer a rich hardware portfolio. Omdia would expect further acquisitions to allow for additional offerings in the area of managed services that will allow the new business to compete with the threat posed by Quectel’s territorial expansion.
+
+Source: Omdia Cellular IoT Module Market Shares Report (July 2022)
+
+More M&A Activity on the Horizon?
+
+How will the market respond, especially the western vendors? uBlox has a strong, but niche position in positioning modules and cellular, but this would seem to most impact Sierra Wireless. How will they react? Sierra Wireless has built a strong, previously dominant and focused, module and gateway business, supported by application enablement platform capabilities and managed connectivity.
+
+However, the company will now be dwarfed by the “Big 3” of Quectel, Telit Cinterion and Sunsea AIoT. Will it make further acquisitions to allow it to scale? For example, in 2020, Sierra Wireless completed the sale of its automotive embedded module product line for $165 million to a consortium including Fibocom called Rolling Wireless. Sierra Wireless may consider reviewing its relationship with Fibocom to compete with the new threats in both the East and West.","{'label': 'Positive', 'score': 0.9999843835830688}",positive,0.9999843835830688,1
+Australian Army to test Thales Bushmaster ePMV electric prototype - Militarnyi,"Mon, 22 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvYXVzdHJhbGlhbi1hcm15LXRvLXRlc3QtdGhhbGVzLWJ1c2htYXN0ZXItZXBtdi1lbGVjdHJpYy1wcm90b3R5cGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Bushmaster ePMV. Photo credits: Australian Ministry of Defence
+
+Australian Army to test Thales Bushmaster ePMV electric prototype
+
+Australian Army is testing the Thales Bushmaster ePMV electric prototype.
+
+It’s the first Australian electrification of a military vehicle, according to the Army Recognition website.
+
+The ePMV engine and gearbox have been replaced with a pair of lithium-ion batteries and an electric motor driving each axle.
+
+This military vehicle is about 2 tonnes lighter than a regular Bushmaster. The armored vehicle was presented at a symposium of army chiefs.
+
+Matt Thistlethwaite, Member of Parliament, Assistant Minister for Defence, Assistant Minister for Veterans Affairs and Assistant Minister for the Republic presents the Bushmaster Electric Protected Mobility Vehicle, Photo credits: Australian Department of Defense
+
+The centre of gravity has also moved rearwards and downward.
+
+“That helps with stability, high-speed and cross-country manoeuvres, and safety under braking. But in theory it (Bushmaster ePMV, – Ed.) will do 0-60km/h in a little over three seconds. For a 12-tonne vehicle, that’s amazing. Up to 100km/h will take about 12 seconds, where the normal Bushmaster takes 42 seconds,” Colonel Robin Smith, director of Army’s Robotic and Autonomous Systems Implementation and Coordination Office said.
+
+Matt Thistlethwaite and Robin Smith, director of Army’s Robotic and Autonomous Systems Implementation and Coordination Office. Photo credits: Australian Department of Defense
+
+The first version has about a 100 km range, but a planned larger battery should increase this to 350km.
+
+In addition, there’s also work to mount small external generators, increasing the range to about 1000 km.
+
+The Bushmaster was chosen as a prototype due to its availability, good armour, and a looming decision on whether to replace or upgrade the fleet. It features high-speed charging, like a Tesla, filling the battery in about three hours or via a household plug in about seven hours.
+
+Colonel Smith said the several power outlets on the vehicle could be used for command posts and field workshops.
+
+“The vehicle’s battery power could run the average Australian home for just over six days,” he said.
+
+They are also considering the creation of a hybrid, that will use a lot less fuel than a regular Bushmaster.
+
+“It’s quieter and less warm, lowering the thermal signature, and it’s a software-driven vehicle, so autonomy is easier,” Colonel Smith said.
+
+There is also more space between the driver and the crew commander, and a modernised dashboard.
+
+Bushmaster ePMV. Photo credits: Australian Ministry of Defence
+
+Colonel Smith said his team wanted to get this into the hands of servicemen and really test its real-world performance.
+
+After a larger battery is fitted, the team will conduct road-capability trials.
+
+The Australian Army’s Robotics and Autonomous Systems Implementation and Coordination Office is also considering electrification of tracked vehicles.
+
+As previously reported, the Senator of the Australian Parliament, David Wang, visited the location of one of the units of the 80th Air Assault Brigade. He talked to the Ukrainian servicemen about the use of Australian Bushmasters on the front lines.","{'label': 'Neutral', 'score': 0.9999876022338867}",neutral,0.9999876022338867,0
+Thales's commitment to a greener future demonstrated through sustainable banking solutions - Thales,"Thu, 18 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy90aGFsZXNzLWNvbW1pdG1lbnQtZ3JlZW5lci1mdXR1cmUtZGVtb25zdHJhdGVkLXRocm91Z2gtc3VzdGFpbmFibGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Did you know that the amount of plastic used to produce banking cards every year is equivalent to the weight of eight Boeing 747s? Thales's global environmental strategy aims to decrease our overall environmental impact, to build a sustainable future we can all trust. A number of eco-friendly products and solutions to substantially reduce the environmental impacts surrounding the production of payment cards and services have been developed by Thales’s Digital Identity and Security (DIS) team. These developments are a step toward a more sustainable future.
+
+In Australia alone, there are around 14 million credit cards in use, equating to a massive 74,000kg of polyvinyl chloride (more commonly known as PVC) - a notoriously difficult material to recycle, just sitting in our wallets or adding to the country’s collective plastic waste.
+
+With sustainability a key focus of Thales Group’s Environment, Social and Governance strategy, our organisation has developed a number of environmentally-friendly bank card solutions certified by Mastercard’s Sustainable Card Program. Their Australian contingent of the program assesses the sustainability claims across industry to promote the uptake of eco-friendly solutions and Thales’ certification demonstrates our contribution to building a sustainable future.
+
+The eco-friendly cards developed and offered by Thales are made with sustainable products, including polylactic acid which is produced from corn, as well as a card produced from plastic waste collected by coastal clean-up operations. There is even a card that is simply made entirely from plastic waste from the packaging and printing industries.
+
+Not only do these Thales products have a low carbon footprint, but Thales also offers a carbon offset option to customers to make the cards carbon neutral.
+
+Although the uptake of these options are still in their early stages, our Melbourne-based Digital Identity and Security team believes there are several Australian banks in the pipeline who are in the process of switching to our sustainable cards. Since Thales’ acquisition of Gemalto in 2019, it may be noticed that some bank cards (for example, those held with ANZ, CITI or ING) are already bearing the mark of Thales’ innovative approach to banking solutions on the reverse of the card.
+
+Whilst the Australian footprint of bank cards sounds large, it’s a relatively small portion of the global market however, changing the way these cards are made by using recycled resources or biodegradable materials could have a significant impact on our environment.","{'label': 'Neutral', 'score': 0.99839848279953}",neutral,0.99839848279953,0
+Kraken Technology Group (KTG) Signed Memorandum of Understanding (MoU) with Thales - defenceturkey.com,"Thu, 04 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmRlZmVuY2V0dXJrZXkuY29tL2VuL2NvbnRlbnQva3Jha2VuLXRlY2hub2xvZ3ktZ3JvdXAta3RnLXNpZ25lZC1tZW1vcmFuZHVtLW9mLXVuZGVyc3RhbmRpbmctbW91LXdpdGgtdGhhbGVzLTUyMTLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Date: Issue 115 - August 2022
+
+On August 4, 2022, British maritime technology company Kraken Technology Group (KTG) announced that it signed a Memorandum of Understanding (MoU) with Thales for the ongoing development and provision of bespoke systems for the Kraken K50 maritime precision engagement platform. The K50 has been designed to deliver unparalleled levels of performance, modularity, and operational capability for modern green-water security operations.
+
+Further areas of collaboration and development will include the development of advanced composite high-performance craft, in addition to bespoke electric and advanced hybrid powertrain solutions, all of which will be built at a new advanced engineering and technology center.","{'label': 'Positive', 'score': 0.9820713400840759}",positive,0.9820713400840759,1
+"SES: O3b mPower delayed again, service to start Q2 2023; video pricing 'stable to increasing'; SES-17 outperforming ... - Space Intel Report","Thu, 04 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5zcGFjZWludGVscmVwb3J0LmNvbS9zZXMtbzNiLW1wb3dlci1kZWxheWVkLWFnYWluLXNlcnZpY2UtdG8tc3RhcnQtcTItMjAyMy12aWRlby1wcmljaW5nLXN0YWJsZS10by1pbmNyZWFzaW5nLXNlcy0xNy1vdXRwZXJmb3JtaW5nLWl0cy1zcGVjcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PONTE VEDRA, Florida — Satellite fleet operator SES reported another delay in the deployment of its 11-satellite O3b mPower medium-Earth-orbit constellation, saying launches would not start until late this year.
+
+SES said launches of the first six satellites, which will trigger the start of commercial operations, will occur on three SpaceX Falcon 9 launches between October and December.
+
+In an Aug. 4 conference call with investors in the company’s financial results for the first six months of 2022, SES Chief Executive Steve Collar did not specify . . .
+
+To view the entire article, become a subscriber!","{'label': 'Neutral', 'score': 0.999365508556366}",neutral,0.999365508556366,0
+Thales’ cellular IoT products acquired by Telit - CIO News,"Mon, 22 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vY2lvbmV3cy5jby5pbi90aGFsZXMtY2VsbHVsYXItaW90LXByb2R1Y3RzLWFjcXVpcmVkLWJ5LXRlbGl0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Thales and Telit combination brings together complementary strengths. The business will provide a unique value proposition in a highly competitive global IoT market and will allow Thales to focus its investments on its three core activities in aerospace, defence and security, and digital identity
+
+Thales’ portfolio of cellular IoT products is being acquired by Telit for establishing a combined firm called Telit Cinterion.
+
+Paolo Dal Pino, CEO of Telit, said: “Innovation, scale and efficient IoT solutions are key for success. This transaction with Thales is arguably the most impactful one for Telit competitiveness.
+
+“While it will boost our ability to address customer needs more precisely from a richer portfolio, it will also enable us to deliver all-new offerings derived from the experience, expertise and the DNA of two companies that have made security and quality part of their brand promise from the very beginning.”
+
+Telit Cinterion will be based in California and aims to be “a leading Western provider” of IoT solutions.
+
+Telit will acquire Thales’ cellular wireless communication modules, gateways, and data (modem) cards, ranging from 4G LTE, LPWAN to 5G, as per the terms of the transaction.
+
+Philippe Vallée, EVP of Digital Identity and Security at Thales, commented: “The Thales and Telit combination brings together complementary strengths. The business will provide a unique value proposition in a highly competitive global IoT market and will allow Thales to focus its investments on its three core activities in aerospace, defence and security, and digital identity.”
+
+“The new combination will rely on a unique set of expertise brought by Thales and Telit employees. It will also benefit from leveraging both companies’ strong and complementary product portfolio and Thales’s experience in cellular connectivity.”
+
+The transaction is expected to close in Q4 2022 as regulatory approvals and other conditions are still pending. To sharpen its focus on the Industrial IoT, Telit Cinterion plans to spin off the automotive IoT unit.
+
+Also read: Monitoring industry trends and the evolving tech landscape is a must to build enterprise architecture for the future
+
+Do Follow: CIO News LinkedIn Account | CIO News Facebook | CIO News Youtube | CIO News Twitter
+
+About us:
+
+CIO News, a proprietary of Mercadeo, produces award-winning content and resources for IT leaders across any industry through print articles and recorded video interviews on topics in the technology sector such as Digital Transformation, Artificial Intelligence (AI), Machine Learning (ML), Cloud, Robotics, Cyber-security, Data, Analytics, SOC, SASE, among other technology topics","{'label': 'Positive', 'score': 0.9999890327453613}",positive,0.9999890327453613,1
+"Zuma, Thales corruption trial postponed to October - The Citizen","Mon, 01 Aug 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNpdGl6ZW4uY28uemEvbmV3cy9zb3V0aC1hZnJpY2EvY291cnRzL3p1bWEtdGhhbGVzLWNvcnJ1cHRpb24tdHJpYWwtYXVndXN0LTIwMjIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Zuma, Thales corruption trial postponed to October
+
+Zuma has turned to the ConCourt to have Downer removed from prosecuting the arms deal corruption trial.
+
+Former President Jacob Zuma will not be in court when his corruption trial resumes. Picture: Michele Spatari/POOL/AFP
+
+The corruption case against former president Jacob Zuma and French arms manufacturer, Thales, has been postponed to 17 October 2022.
+
+Arms deal corruption trial
+
+Pietermaritzburg High Court Judge Piet Koen on Monday postponed the matter, pending a Constitutional Court (ConCourt) appeal of Zuma’s special plea application to have lead state prosecutor, advocate Billy Downer, removed from prosecuting the corruption trial.
+
+Zuma’s leave to appeal application to the apex court followed his failed applications to the Pietermaritzburg High Court and the Supreme Court of Appeal (SCA) to have Downer removed from the case.
+
+Zuma claims Downer lacks independence and impartiality to conduct a fair trial and has accused the prosecutor of leaking confidential medical records to the media.
+
+Downer and the National Prosecuting Authority have denied Zuma’s claims and accused the former president of delay tactics.
+
+‘Issue has not been resolved’
+
+Downer informed the high court on Monday that the ConCourt was yet to rule on Zuma’s leave to appeal application. The application was filed on 10 June, and the state responded on 17 June.
+
+“Since 17 June 2022, we’ve been waiting for the resolution of the issue in the Constitutional Court.
+
+“We’ve made our own inquiries through the State Attorney, and we’ve determined that the issue has not been resolved. There has been no order issued out of the Constitutional Court,” Downer said.
+
+ALSO READ: NPA concerned by Zuma’s ‘intimidating and delaying’ tactics in arms deal corruption trial
+
+Judge Koen said the 17 October date would be a provisional date until the ConCourt decides on Zuma’s application.
+
+“Depending on what happens, if it’s determined by that date, the trial will then start on 7 November, which is roughly two weeks later to give everybody time to put their house in order.
+
+“And, if the matter is still not ready to proceed by 17 October then a further holding date would have to be determined,” Koen ordered.
+
+Zuma and a representative of Thales were not present during Monday’s court proceedings, due to a previous court arrangement that excused them from attending.
+
+Judge Koen said the pair would also be excused from attending court on 17 October.
+
+Zuma and Thales are on trial over the controversial multibillion-rand arms deal concluded in the 1990s.
+
+Zuma is facing 16 counts including fraud‚ corruption, money laundering and racketeering, while Thales faces four counts.
+
+Among the allegations is that the former president received an annual kickback of R500 000 – paid through his then financial advisor Schabir Shaik – in exchange for shielding Thales from an investigation into the deal and he is said to have accepted a total of 783 dodgy payments from the company.
+
+Zuma and Thales pleaded not guilty to the charges against them on 26 May 2021.
+
+The Foundation has noted that the commencement of the almost 2 decades trial has again been postponed owing to delays in the Constitutional Court.
+
+The focus of H.E President Zuma is now on the SCA hearing in Bloem on 15th August 2022 regarding the appeal on the parole matter. — JGZuma Foundation (Official) (@JGZ_Foundation) August 1, 2022
+
+NOW READ: Jacob Zuma won’t be in the dock for his corruption trial","{'label': 'Neutral', 'score': 0.9995980858802795}",neutral,0.9995980858802795,0

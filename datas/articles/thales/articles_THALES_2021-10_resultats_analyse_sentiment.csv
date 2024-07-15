@@ -1,0 +1,1163 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales expands its ALFS repair capabilities in the United States - Naval News,"Thu, 28 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzEwL3RoYWxlcy1leHBhbmRzLWl0cy1hbGZzLXJlcGFpci1jYXBhYmlsaXRpZXMtaW4tdGhlLXVuaXRlZC1zdGF0ZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales expands its ALFS repair capabilities in the United States Thales Defense & Security, Inc. today announces a key milestone in the primary sustainment activities for ALFS having serviced more than 1,300 subsystems over the past eight years. For more than 20 years, Thales Defense & Security, Inc. has been the primary sustainment service provider for ALFS demonstrating a continued commitment to onshore maintenance in the United States.
+
+Onboard the U.S. Navy and other Navies' ASW MH-60R helicopters, the ALFS anti-submarine warfare system is capable of detecting and classifying submarines.
+
+Thales press release
+
+Thales Defense & Security, Inc. is increasing its U.S. based sustainment capabilities by bringing additional repair operations onshore to further increase the throughput of repairs already performed in the U.S. These new processes bring a majority of the repairs closer to the Navy providing shorter turnaround times that enhance readiness. Additionally, this will enable the development of new skills and create more U.S. jobs.
+
+This further supports the recent contract Thales signed with Lockheed Martin RMS for additional ALFS system deliveries and for continued sustainment support under Seahawk Performance-Based Logistics (PBL).
+
+Mike Sheehan, President & CEO, Thales Defense & Security, Inc., said:
+
+“we are very proud to expand our domestic U.S. support to the U.S. Navy for the ALFS systems. It is a decisive advantage to be closer to our customer and reaffirm our commitments to providing U.S. based capabilities.”
+
+Gwendoline Blandin-Roger, Managing Director Underwater systems, said:","{'label': 'Positive', 'score': 0.9998189806938171}",positive,0.9998189806938171,1
+UPDATE 1: Thales Alenia Space Built SES-17 + SYRACUSE 4A Satellites Successfully Launched By Arianespace ... - SatNews,"Sun, 24 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL25ld3Muc2F0bmV3cy5jb20vMjAyMS8xMC8yNC90aGFsZXMtYWxlbmlhLXNwYWNlLWJ1aWx0LXNlcy0xNi1zeXJhY3VzZS00YS1zYXRlbGxpdGVzLXN1Y2Nlc3NmdWxseS1sYXVuY2hlZC1ieS1hcmlhbmVzcGFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Arianespace VA255 launch from Europe’s Spaceport in Kourou, French Guiana. Photo is courtesy of Arianespace.
+
+On Sunday, October 24, at 02:10 UTC, Ariane 5 lifted off from the Guiana Space Center (CSG) and successfully orbited two satellites built by Thales Alenia Space, those being SES-17, a telecommunications satellite operated by SES, and SYRACUSE 4A, a telecommunications satellite developed for the French Ministry of the Armed Forces.
+
+Artistic rendition of SES-17 on-orbit, courtesy of SES.
+
+The SYRACUSE 4A satellite, image courtesy of Arianespace.
+
+With this 111th mission, Ariane 5 broke the record for the cumulative net mass ever delivered to Geostationary Transfer Orbit (GTO) by a single launcher. With a total performance of 11.2 metric tons, the mass of the Ariane 5’s payloads reached 10,264 kg at separation (6,411 kg for SES-17 and 3,853 kg for SYRACUSE 4A). For this mission, Ariane 5 also reached a height of 56.4 meters, thanks to a 1.5 meter extension placed under the long fairing.
+
+This launch sent two satellites into orbit:
+
+SES-17
+
+This High Throughput telecommunication satellite (HTS) provides excellent coverage over the Americas, the Caribbean and the Atlantic Ocean and has been designed to transform the aviation connectivity landscape, address data demands across maritime, government and enterprise segments, as well as to accelerate digital inclusion initiatives. It features almost 200 spot beams, the power of which can be dynamically adjusted in step with customers’ changing requirements. It is also the first SES satellite to have a totally digital payload, powered by an advanced digital transparent processor (DTP), enabling far greater flexibility and efficiency than previously available. The satellite will form a multi-orbit network adaptable to varying bandwidth and latency requirements, operating with SES’ next generation non-geosynchronous satellite system, O3b mPOWER.
+
+The Thales Alenia Space’s 5th generation Digital Transparent Processor (DTP) embarked on SES-17 allows for easy frequency conversions as well as unlimited gateway switching and traffic routing. Combined to flexible amplifiers, it will meet customer’s changing requirements and real time traffic demands.
+
+SES-17 marks an important milestone in satellite technology as the first Ka-band geostationary satellite to embark a fully digital payload powered the most powerful digital transparent processor (DTP) ever placed in orbit. It will have nearly 200 user beams that can be connected to any other beam at any time. This, combined with the ability to dynamically change the power and frequency allocation of any beam, means that SES-17 can adapt to changing customer needs in real-time.
+
+This also the first GEO satellite to use Adaptive Resource Control (ARC), an industry-first software system that leverages the full flexibility of totally digital payloads to autonomously adapt space and ground resources on the fly to meet customer needs.
+
+Equipped with an all-electric propulsion system, the satellite will reach orbit as of mid-2022. When operational, anchor customer Thales InFlyt Experience will use SES-17’s connectivity to power its next-generation aviation connectivity solution, FlytLIVE. Thales InFlyt Experience will ensure both crew and passengers will have an always-on high-speed Wi-Fi connection at peak times and in high-traffic routes while optimizing bandwidth.
+
+SYRACUSE 4A
+
+This military communications satellite, commissioned by the Armament General Directorate DGA, will allow to connect the armed forces together when deployed. At sea, in the air or on the ground, militaries need secured and powerful communication means in order to be able to exchange information with the command center. Thanks to its state-of-the-art equipment (anti-jamming antenna and digital transparent processor on board), SYRACUSE 4A will guarantee a high resistance to extreme jamming methods. At the service of France’s sovereignty, the satellite will also support NATO and European-led operations.
+
+Developed under the leadership of the DGA in close coordination with the national center for space studies (CNES), the Space Command of the French Air and Space Force and the other armed forces, SYRACUSE 4A was built by Thales Alenia Space. In the upcoming years, two other military telecommunications satellites will join it in order to create a constellation that will serve the needs of the Armed forces in an ever-growing digitalization of the battlefield. SYRACUSE 4A will connect most naval vessels, moving armored vehicles or aircraft: in particular Griffon armored vehicles, upcoming Suffren attack submarines or the tanker Phoenix .
+
+The Syracuse IV defense communications satellite segment, comprising three satellites, of which the first 2, Syracuse 4A and Syracuse 4B, are built for the French defense procurement agency DGA (Direction Générale de l’Armement) by the industrial consortium formed by Thales Alenia Space and Airbus Defence and Space. Thales Alenia Space is in charge of the Syracuse 4A satellite and co responsible with Airbus Defence and Space of the payloads for both satellites. Initiating the replacement of the previous generation, Syracuse 4A is designed to be compatible with the existing system, while also delivering expanded capacity and new functions for armed forces, especially greater throughput, capacity and flexibility, along with a broader coverage zone. Because of this flexibility, the satellite can meet the needs of forces deployed anywhere in the coverage zone, while also efficiently managing its X-band and Ka-band resources. Unlike commercial satellites, the Syracuse satellites have to resist a wide variety of potential threats, including jamming, to guarantee service continuity and resilience. Built on the all-electric Spacebus NEO platform, Syracuse 4A features the latest cyber-defense and data encryption technologies – two areas in which Thales is a leader for both terrestrial and space applications.
+
+For Syracuse IV, Telespazio, Joint Venture between Leonardo (67 %) and Thales (33 %), is in charge of the orbital positioning and station keeping for the satellites and will support the Ministry of the Armed Forces by contributing to its valorization and exploitation during the next 15 years. Thales is supplying the ground segment, which will rely on its highly, protected, secure and high-performance Modem 21 transmission system, as well as hardened tactical and naval ground stations, to guarantee the availability and confidentiality of all communications and provide protection from the full spectrum of threats. SYRACUSE is the French military satellite communications (MILSATCOM) program that kicked off in 1980. It handles all military communications between headquarters in France and units deployed in different theaters of operation. The program is designed to provide an independent solution to meet France’s need for long-range, secure telecommunications, protected against electronic warfare. Three generations of Syracuse satellites built by Thales Alenia Space were deployed between 1984 and 2015.
+
+SES-17 and SYRACUSE 4A will be the 164th and 165th Thales Alenia Space satellites to be launched by Arianespace.
+
+“With this new success for Ariane 5, which comes a week after its previous launch, Arianespace is delighted to serve the interests of two loyal customers, the operator SES and the French Ministry of the Armed Forces”, said Stéphane Israël, Chief Executive Officer of Arianespace. “VA255, by putting two highly innovative satellites manufactured by Thales Alenia Space into orbit, demonstrates once again the competitiveness and reliability of our launch solutions serving the ambitions of our private and institutional clients. Dedicated to connectivity and security, these satellites are at the core of our mission: Space for a better life on Earth. The next challenge for Ariane 5 will be the launch of NASA's space telescope, James Webb, in partnership with the European Space Agency. Mission to Success!”
+
+""With all the European industrial partners of the Ariane 5 program, we are proud to have set a new world record for performance to geostationary transfer orbit, serving two major and long-standing Arianespace customers. We continue to improve the European heavy launcher, and there are now six Ariane 5 launches left before it definitely enters the legend as the most reliable launcher in the world, much to the benefit of Ariane 6 that will take over flight duties in 2022. ArianeGroup is determined to innovate more and more to provide Europe with an ever more reliable access to Space,” said André-Hubert Roussel, CEO of ArianeGroup. “This launch of SES-17 is an exciting milestone for our FlytLIVE Connectivity Solution currently flying within the United States,” said Craig Olson, Vice President at Thales InFlyt Experience. “The network and satellite architecture was specifically developed for the unique connectivity requirements of our commercial aviation customers and their passengers. With SES-17, FlytLIVE will provide full coverage for the entire Americas and North Atlantic Corridor delivering an unmatched connectivity experience in the air.” “We are immensely excited to have SES-17 join our GEO fleet and medium earth orbit (MEO) constellation. SES-17 is the fruit of a successful collaboration between the Thales Group, Thales Alenia Space and SES, and will enable us to address the exponential connectivity demands in aviation and maritime, and to accelerate digital inclusion initiatives across the Americas,” said Steve Collar, CEO of SES. “Thanks to Arianespace, SES-17 is now on its way to orbit. We are looking forward to SES customers being able to leverage the high throughput, global reach and low-latency of SES’s multi-orbit, interoperable Ka-band satellite network comprising SES-17 and our upcoming O3b mPOWER constellation.” “What a launch – SES-17 has mobilized all Thales Alenia Space experts – from the innovative design of the satellite itself to the last combined operations – and is now on its way to orbit. Fully-digital and highly-innovative, SES-17 will benefit from all the state-of-art technologies we have developed to fulfil the market’s connectivity needs,” said Herve Derrey CEO of Thales Alenia Space.
+
+ArianeGroup is the prime contractor in charge of the development and production of the Ariane 5 and Ariane 6 launchers. It leads an industrial network comprising more than 600 companies, including 350 small and medium-size enterprises (SME). ArianeGroup oversees the entire Ariane 5 industrial supply chain, from design studies and upgrades to production and mission-specific data and software. The supply chain encompasses equipment and structures, manufacture of the propulsion systems, stage integration, then integration of the launcher in French Guiana. ArianeGroup delivers a flight-ready vehicle on the launch pad to its subsidiary Arianespace, which operates the flight starting with liftoff on behalf of its customers.
+
+SES’ vision is to deliver amazing experiences everywhere on Earth by distributing the highest quality video content and providing seamless connectivity around the world. As the leader in global content connectivity solutions, SES operates the world’s only multi-orbit constellation of satellites with the combination of global coverage and high performance, including the commercially-proven, low-latency Medium Earth Orbit O3b system. By leveraging a vast and intelligent, cloud-enabled network, SES is able to deliver high-quality connectivity solutions anywhere on land, at sea or in the air, and is a trusted partner to the world’s leading telecommunications companies, mobile network operators, governments, connectivity and cloud service providers, broadcasters, video platform operators and content owners. SES’s video network carries more than 8,650 channels and has an unparalleled reach of 361 million households, delivering managed media services for both linear and non-linear content. The company is listed on Paris and Luxembourg stock exchanges (Ticker: SESG).","{'label': 'Neutral', 'score': 0.99994957447052}",neutral,0.99994957447052,0
+Indonesia orders Thales Alenia Space satellite to replace lost Nusantara-2 - SpaceNews,"Thu, 28 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vc3BhY2VuZXdzLmNvbS9pbmRvbmVzaWEtb3JkZXJzLXRoYWxlcy1hbGVuaWEtc3BhY2Utc2F0ZWxsaXRlLXRvLXJlcGxhY2UtbG9zdC1udXNhbnRhcmEtMi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"TAMPA, Fla. — Indonesia has ordered a high-throughput communications satellite from Thales Alenia Space for a 2024 delivery to fill a gap left by last year’s loss of Nusantara-2 to a Chinese launch failure.
+
+The satellite, dubbed HTS 113BT, will be operated in geostationary orbit by Telkomsat, a subsidiary of Indonesian state-owned telecoms operator Telkom that ran an open tender for the contract.
+
+Based on Thales Alenia Space’s Spacebus 4000B2 platform, HTS 113BT will weigh about 4,000 kilograms at launch, designed to provide more than 32 gigabits per second (Gbps) of capacity over Indonesia with C-band and Ku-band beams.
+
+The satellite aims to improve connectivity for the thousands of islands across the Indonesian archipelago from the 113 East orbital slot above the country.
+
+“The [HTS 113BT] satellite will help strengthen the capacity, quality, and capability of digital connectivity in Indonesia, especially in areas that are not yet reached and lack terrestrial networks,” Telkomsat President Director Endi Fitri Herlianto said in a statement.
+
+“Hopefully this step can support the realization of Indonesia’s digital sovereignty.”
+
+Telkom-3S, the last satellite Thales Alenia Space built for Telkomsat, was also based on the Spacebus 4000B2 platform and was launched in 2017.
+
+Need for speed
+
+Despite the growing popularity of all-electric, software-defined satellites among GEO operators, Indonesia’s government opted for speed-to-orbit by choosing Spacebus 4000B2.
+
+“This platform has the advantage of being chemically propelled, allowing the satellite to be put into orbit in a few days, as opposed to several months for more recent electrically propelled satellites,” a Thales Alenia Space official said via email.
+
+“It was a requirement of the customer who had a constraint on the date of commissioning following the launch failure of the satellite that HBT 113 BT is replacing.”
+
+That satellite is Nusantara-2, formerly Palapa-N1, which was destroyed when a Chinese Long March 3B rocket failed April 9, 2020.
+
+China Great Wall Industry Corp. built Nusantara-2 for an Indonesian joint venture between telco Indosat Ooredoo and Pasifik Satelit Nusantara (PSN), a private-sector satellite operator.
+
+The Indonesian government owns about 14% of Indosat Ooredoo, which is majority-owned by Qatari multinational telecoms company Ooredoo.
+
+String of failures
+
+Nusantara-2 is part of a series of setbacks for Indonesian satellite operators.
+
+The Telkom-3S satellite that Thales Alenia Space made for Telkomsat was ordered to replace Telkom-3, built by ISS Reshetnev, which was lost in an August 2012 failure of Russia’s Proton rocket.
+
+In August 2017, Telkomsat’s aging Telkom-1 satellite, built by Lockheed Martin, exploded in orbit after experiencing an antenna failure.
+
+Meanwhile, PSN’s Maxar-built Nusantara-1 satellite, also known as PSN-6, is reportedly suffering a power anomaly after being launched in 2019. Maxar was unable to comment before this article was published.
+
+The private Indonesian operator has another satellite on order called SATRIA, which Thales Alenia Space is building for a launch in the first semester of 2023.
+
+As well as being prime contractor for Telkomsat’s HTS 113BT, including its ground control segment, Thales Alenia Space will handle the satellite’s early orbital positioning phase, in-orbit tests, and provide in-orbit support throughout its expected 15-year lifetime.
+
+Thales Alenia Space also built Indosat Ooredoo’s Palapa D satellite, which launched in 2009 and was supposed to be replaced by Nusantara-2.","{'label': 'Neutral', 'score': 0.9937321543693542}",neutral,0.9937321543693542,0
+"Thales and CS GROUP partner to offer cybersecure, jam-resistant navigation system - Naval News","Thu, 28 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzEwL3RoYWxlcy1hbmQtY3MtZ3JvdXAtcGFydG5lci10by1vZmZlci1jeWJlcnNlY3VyZS1qYW0tcmVzaXN0YW50LW5hdmlnYXRpb24tc3lzdGVtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and CS GROUP partner to offer cybersecure, jam-resistant navigation system Thales and CS GROUP have combined their complementary expertise to offer a high-performance, resilient and cybersecure navigation system.
+
+Thales press release
+
+The system comprises Thales’s TopAxyz inertial navigation unit, which has delivered outstanding performance in the especially rigorous conditions of civil aviation, clocking up over 20 million hours of operation. The naval version of the unit was integrated on a Navy vessel in less than a day by CS GROUP and has already proven its operational value for maritime navigation.
+
+Thales, with over 40 years of experience in the design and manufacture of inertial navigation systems, and CS GROUP, a specialist in smart cyberprotected mission-critical systems, have partnered to offer a complete navigation system for Navies surface ships.
+
+At the heart of this system is the Thales TopAxyz inertial navigation unit, which is integrated with CS GROUP’s real-time computer in a disruptive approach to maritime navigation that combines high-level performance and resilience in an electronic warfare environment.
+
+The new compact, high-performance maritime inertial navigation system has already demonstrated its maturity in an operational setting during its first sea trial on a military vessel.
+
+Thales and CS GROUP have combined their complementary expertise to offer a high-performance, resilient and cybersecure navigation system. The system comprises Thales’s TopAxyz inertial navigation unit, which has delivered outstanding performance in theespecially rigorous conditions of civil aviation, clocking up over 20 million hours of operation. The naval version of the unit was integrated on a Navy vessel in less than a day by CS GROUP and has already proven its operational value for maritime navigation.
+
+
+
+In today’s constantly changing naval environment, crews need to contend with the threat of cyberattacks, electronic warfare activity and the high risk of jamming and spoofing of GPS-based radionavigation solutions. Accurate navigation data, real-time data distribution and resistance to external threats are crucial for every mission conducted by a naval vessel today.
+
+
+
+Thales and CS GROUP have worked together for over 20 years to address these issues. Drawing on their combined expertise across all the key navigation system technologies, the two companies are now proposing a new approach to maritime navigation based on more trustworthy and reliable navigation data.
+
+
+
+The TopAxyz inertial unit uses accurate, reliable navigation information that is independent of sea state and vessel location, combined with a function that detects attempts to spoof GPS signals. The navigation data calculated by TopAxyz is distributed in real time by the NDDS (Navigation Data Distribution System) developed by CS GROUP’s onboard computer. This computer uses the latest technological advances in cybersecurity, guaranteeing the best level of resilience to attacks. Its architecture offers 3 key advantages: safer navigation, reduced costs and integration risks, ease of use and simplified maintenance of the system.
+
+
+
+The new compact, high-performance maritime inertial navigation system has already demonstrated its maturity in an operational setting during its first sea trial on a military vessel. No calibration is required during the service life of the system, thereby reducing the total cost of ownership.
+
+
+
+The system provides high-precision pointing, gyrocompass, location and navigation functionality for all types of naval platforms, from surface combatants and submarines to autonomous vehicles.
+
+Combining complementary cutting-edge technologies from Thales and CS GROUP, this new maritime navigation system will leverage the unique capabilities of the two companies at their respective production and integration facilities in Châtellerault and Aix-en-Provence in France.
+
+“After proving their value on board aircraft, space launchers and French Army land vehicles, Thales inertial navigation systems are now available for naval platforms. Thales and CS Group have combined their complementary expertise to offer a navigation system that delivers the highest levels of trust, performance and security to ensure the success of naval missions.”
+
+
+
+Tristan Grivel, Vice President Business Development and Sales for Thales’s flight avionics business.","{'label': 'Positive', 'score': 0.8190454840660095}",positive,0.8190454840660095,1
+Thales Alenia Space Contracted By Telkomsat To Build The HTS 113BT Satellite – SatNews - SatNews,"Thu, 28 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmV3cy5zYXRuZXdzLmNvbS8yMDIxLzEwLzI4L3RoYWxlcy1hbGVuaWEtc3BhY2UtY29udHJhY3RlZC1ieS10ZWxrb21zYXQtdG8tYnVpbGQtdGhlLWh0cy0xMTNidC1zYXRlbGxpdGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space has signed a contract with PT Telkom Satelit Indonesia (Telkomsat) as subsidiary of PT Telkom Indonesia (Persero) Tbk (Telkom), a state-owned digital telecommunication company in Indonesia, to build the HTS 113BT satellite.
+
+This will be a High Throughput Satellite (HTS) telecommunications satellite in C-/Ku-band and will be slotted in an orbital position at 113° East.
+
+Thales Alenia Space is the program prime and responsible for the design, construction, testing and on-ground delivery of the satellite. The company is also in charge of the early orbital positioning phase (LEOP) and in-orbit tests (IOT).
+
+In addition, Thales Alenia Space will supply the Ground control segment and will train and support the Customer team of engineers on site. The on-orbit support will also be provided all along the satellite lifetime.
+
+Built on Thales Alenia Space’s Spacebus 4000B2 platform, HTS 113BT will provide more than 32 Gbps capacity over Indonesia. The satellite will weigh about 4 metric tons at launch and will be delivered in early 2024 for a 15-year expected lifetime.
+
+""After an open international tender conducted by Telkomsat, we are very pleased that Telkomsat has renewed its trust in working with us,"" said Hervé Derrey, President and CEO of Thales Alenia Space. ""It's very fulfilling to be able to support our customer's business development after Telkom 3S. HTS 113BT is the fourth telecom program to serve the Indonesian satellite operators confirming that Thales Alenia Space is able to match its customers’ needs by offering a wide telecom satellites product range.""
+
+Endi Fitri Herlianto, CEO of Telkomsat, said, “HTS 113BT will strengthening connectivity infrastructure across Indonesia archipelago to support digital business by providing better quality of service for Indonesia society.”","{'label': 'Neutral', 'score': 0.9999492168426514}",neutral,0.9999492168426514,0
+Thales SeaFire Radar Qualified and Ready for Integration on FDI CMS - Naval News,"Thu, 21 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzEwL3RoYWxlcy1zZWFmaXJlLXJhZGFyLXF1YWxpZmllZC1hbmQtcmVhZHktZm9yLWludGVncmF0aW9uLW9uLWZkaS1jbXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales SeaFire Radar Qualified and Ready for Integration on FDI CMS Thales Sea Fire, full digital radar is qualified by the DGA after exhaustive and thorough testing in Saint-Mandrier, the reference trial centre for the French naval forces. The radar is now handed over to Naval Group for integration into combat system on-board the FDI frigates.
+
+Thales press release
+
+Over a period of 18 months, the Sea Fire radar underwent a substantial number of land-based tests, mobilising a vast panel of resources and combined teams from the DGA, Thales and Naval Group. All testing took place at the Shore Integration Facility (SIF) on the DGA’s SESDA site in Saint-Mandrier in the South of France – a major testing reference centre in Europe for the naval sector. Since 1969, this facility has been testing and qualifying ashore every combat system and critical sensors of major ships (frigates and aircraft carriers) in service within the French Navy.
+
+Evaluated and tested against an extensive range of situations including surface targets (light boats, surface vessels…), air targets (helicopters, jets, missiles, drones, etc.) in various environments. – the Sea Fire assured its ground-breaking ability to search simultaneously for air and surface targets in a difficult environment, scanning a range of several hundred kilometres with 90° in elevation and an unmatched refresh rate.
+
+Thanks to the Sea Fire’s unique full digital technology (for instance digital beamforming), the radar delivers enhanced performance for all missions through dynamic radar resource management with very short response time. This digital radar is at the forefront of technological innovation and benefits from all Thales’s Big Data and cybersecurity expertise.
+
+The first SeaFire radar array in Limours, back in 2019.
+
+Assembled in Limours, south of Paris, with the contribution of a network of French small and medium- sized companies, Sea Fire production started in May 2018 and the first FDI shipset was delivered in May 2021 (4 panels).","{'label': 'Neutral', 'score': 0.9520872831344604}",neutral,0.9520872831344604,0
+"""Science helps us build a safer, greener world and a more equitable society"" - Thales","Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvZ3JvdXAvbmV3cy9zY2llbmNlLWhlbHBzLXVzLWJ1aWxkLXNhZmVyLWdyZWVuZXItd29ybGQtYW5kLW1vcmUtZXF1aXRhYmxlLXNvY2lldHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"""Science helps us build a safer, greener world and a more equitable society"" environment Corporate Responsibility Sustainability Share this article
+
+
+
+LinkedIn
+
+The pressure to act on environmental and social issues is mounting every day. Media coverage of the latest IPCC report on the climate, growing concern over the increase in extreme climate phenomena, and the ongoing discussions about the European taxonomy1, clearly show that public opinion is more sensitive to these issues than ever before. Thales didn't wait for the latest wave of public sentiment to weigh up its responsibilities. But for Chairman & CEO Patrice Caine, now is a perfect time for the Group to explain how its corporate responsibility policy is structured and to announce its new objectives.
+
+© Eric M - Encre Noire
+
+Patrice Caine, what are the responsibilities of a company like Thales in meeting the challenges of sustainable development?
+
+A global technology leader and an economic player as important as Thales clearly has a duty to act and step up to the major challenges of our times. We are a member of society in our own right and we have a responsibility to address the issues it faces. And there are a lot of ways we can act, particularly through technology. I would even go as far as to say that helping to build a more sustainable world is part of our identity. After all, it's integral to our purpose of ""building a future we can all trust"". And ESG (Environmental, Social, Governance) objectives are now part of our variable compensation structure for eligible employees, who make up a solid 70% of our workforce.
+
+This is only logical, because beyond my own personal convictions, I know our employees share the same concerns. And that includes our future employees too! Young graduates are particularly mindful of the commitments made by the companies they want to work for.
+
+We are generally not the most vocal or outspoken people on these issues, but I think it's fair to say that, on questions of climate change, compliance, diversity, inclusion and health and safety, we have been among the best performers in the industry for a very long time.
+
+How are you translating this strategy into tangible action?
+
+There are three pillars to our strategy — working for a world that's safer, more respectful of the planet and more inclusive — backed by firm, measurable commitments on our ESG performance. Without overloading you with data, let me explain our main objectives.
+
+First, in the fight against global warming, we have decided to raise the ambitious targets we set in 2019. So now we have undertaken to reduce our direct emissions by 35% between now and 2023, compared with 2018 levels, instead of our previous objective of 20%. And by 2030, we aim to reduce our emissions by 50% instead of 40%.
+
+That aligns us with the target of limiting global warming to 1.5°C, and we will be beginning the SBTi2 certification process in 2022 to substantiate the progress we are making. We also intend to get to ""net zero"" by 2040 — in other words, by then, CO2 produced will match CO2 absorbed and our net climate balance will be zero.
+
+So that's your climate action plan. How are you stepping up to societal demands like diversity and ethics?
+
+In terms of diversity, we confirm our commitment to having three or more women in at least 75% of our management committees by 2023, and for women to account for at least 20% of the Group's senior management positions by the same date. That might still seem insufficient, but we are ahead of the field in an industry where women are significantly under-represented in engineering roles.
+
+As for ethics, in 2021 we became one of the very first companies in our sector to achieve ISO 37001 certification for our anti-bribery management system. We will continue to apply a zero-tolerance policy on corruption and influence peddling, and all the staff affected will receive mandatory training every two years.
+
+Last but not least, to protect the health and safety of all our employees, we have also put strict measures in place to reduce workplace accidents by 30% — and by even more if possible — between now and 2023, again compared with our 2018 baseline.
+
+These commitments concern your internal processes. But what about your business activities, your products and services? Can they play a role in building a more responsible future?
+
+Absolutely. It's important to remember that the very nature of Thales's business and technologies helps our customers to build a safer, more inclusive and more environmentally responsible world.
+
+It may come as a surprise to some people, but our defence businesses are an integral part of our contribution to corporate responsibility. It's obvious when you think about it, but it's worth repeating: the ability to live in peace is a basic requirement for the long-term development of any society. And I'm proud that Thales is playing its part in ensuring the safety of our fellow citizens and protecting democratic societies. I know some people may struggle to understand that, but there is no doubt in my mind that defence and security will soon have their rightful place at the ESG table. There are already signs of progress, such as the European Commission's plan to invest large sums of money in building a European defence capability.
+
+Critics sometimes accuse defence contractors of being opaque…
+
+Yes, it's very paradoxical. Defence is probably the most transparent and tightly regulated industry in the world. Sales of defence technologies are prohibited without prior government authorisation. Stereotypes of arms dealers with shady business practices couldn't be further from the truth.
+
+Physical security is one thing, but what about the digital security we also need today?
+
+You're right — you can't have one without the other. Digital security is a pre-requisite for new technologies to benefit the greatest possible number of people. Especially when you consider that the threats are increasing every day with the digitalisation of our societies and the exponential growth in the number of connected devices. Here too, Thales has a major role to play, in particular since the creation of our Digital Identity and Security business (following the acquisition of Gemalto), which has propelled us into a world leadership position in this field.
+
+You have mentioned the Group's ambitious objectives for reducing greenhouse gas emissions. But can Thales's products and technologies help to fight climate change?
+
+© ESA / ATG Medialab
+
+You can't fight climate disruption without first observing and understanding climate phenomena. As an expert and a market leader in sensors and satellites, Thales is making a direct contribution to this effort. One example is the key role we are playing in Europe's Copernicus Earth observation and climate monitoring programme, which will help to shape public policy by providing a better understanding of the environmental impact of human activity.
+
+We are also part of the shift towards more frugal, more sustainable technologies. Eco-design is a key principle in all our developments. From this standpoint, our ecological goals are perfectly consistent with our business objectives because the markets we serve need products that are as small, lightweight and as energy-efficient as possible.
+
+Some of our innovations also offer customers ways to significantly reduce their emissions: for example, our aircraft flight path optimisation systems could reduce the environmental footprint of the air transport sector by 10%. That's a big savings. And there's no need to wait until aircraft fleets are renewed or new engines can be developed. We could achieve this goal in the very near future!
+
+We have the same approach to digital technologies, where we are developing ""frugal algorithms"" and moving towards smart data rather than big data3, which reduces demand for computing power and therefore limits energy consumption.
+
+Last but not least, you mentioned the role that Thales is playing in promoting inclusion. But the Group mainly makes large-scale, complex systems for major government agencies and private organisations. So how do you think you can improve the day-to-day lives of the general population?
+
+Let me give you two examples. More than a billion people in the world have no legal identity. Administratively speaking, that's tantamount to not existing, not having access to social services, not being able to vote, and so on. With our digital identity and biometric solutions, we are taking concrete steps to rectify this situation and ensure that people can exercise their fundamental rights.
+
+Another example is bridging the digital divide. Some of the telecom satellites we are building will provide web access to communities who currently have no Internet connections. And we sometimes tend to forget that the Internet is first and foremost about access to knowledge, not just entertainment and online shopping.
+
+How do you think Thales will address these issues in the future?
+
+The issues will clearly continue to gather momentum. And new possibilities will emerge as we develop new technologies, because that is our primary means of action — technologies like artificial intelligence today and the highly promising quantum technologies tomorrow. So we will continue to build on the three pillars I have mentioned to move ahead in our own way, with modesty, with perseverance, and with the conviction that this is how Thales will deliver sustainable growth over the long term.
+
+
+
+1 The EU taxonomy is a common classification system that establishes a list of environmentally sustainable economic activities for the entire European Union in order to help scale up sustainable investment.
+
+2 The Science Based Targets initiative (SBTi) is an initiative by international experts that enables economic players to use science-based criteria to determine whether their greenhouse gas emissions are compatible with the objective of limiting the increase in the average temperature of the planet to within 2°C or 1.5°C.
+
+3 The energy consumption of most new data analytics technologies rises in proportion to the volume of data stored, processed and transmitted. In ""smart data"" models, as opposed to Big Data, only the most meaningful and relevant data is used.","{'label': 'Neutral', 'score': 0.9274289608001709}",neutral,0.9274289608001709,0
+Green Mobility - Thales,"Wed, 06 Oct 2021 14:23:49 GMT",https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncmVlbi1tb2JpbGl0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"While overall transport emissions in Europe have increased 29% over the past three decades, rail emissions have fallen dramatically – despite rising passenger numbers and freight volumes. Freight moved by rail is nearly nine times less polluting than freight moved by road. Passenger journeys by rail also produce much lower emissions than equivalent journeys by other means of transport.
+
+Railways will need to expand their share of passenger and freight traffic dramatically in the coming years if net-zero emissions are to be achieved. Their ability to attract and absorb additional traffic is governed by three factors: capacity, attractiveness and integration with other modes of transport.
+
+Innovative digital technologies play a critical role in expanding capacity, boosting performance and cutting emissions
+
+© Thales
+
+Thales is developing complex Artificial Intelligence (AI) systems that promote eco-responsible AI based on learning and knowledge and consume less energy.
+
+Driver advisory systems (GreenSpeed™), Traffic Management Systems (TMS), and systems to manage automatic operation of both metros (Green CBTC) and autonomous trains (RailBot™) optimise energy consumption through carefully defined driving strategies and by calculating optimal acceleration and braking profiles in real time.
+
+Anticipating network incidents is also an important factor in reducing unexpected train stoppages caused by obstacles on the tracks. Station supervision systems will also analyse energy consumption in real time. Their sensors will determine exact energy needs depending on passenger flows to ensure that energy consumption matches requirements as closely as possible, while guaranteeing expected levels of performance and without sacrificing passenger comfort.","{'label': 'Neutral', 'score': 0.9906836748123169}",neutral,0.9906836748123169,0
+Thales Alenia Space has been selected by the European Space Agency to study specific technical aspects for a future ... - Thales,"Tue, 26 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3NfcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLWhhcy1iZWVuLXNlbGVjdGVkLWV1cm9wZWFuLXNwYWNlLWFnZW5jeS1zdHVkedIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space has been selected by the European Space Agency to study specific technical aspects for a future Lunar Radio Navigation System Moon Moon exploration Lunar Infrastructures Thales Alenia Space ESA Share this article
+
+
+
+LinkedIn
+
+Rome, October 27th, 2021 - Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), has been selected by the European Space Agency (ESA) to study fundamental techniques, models and algorithms to facilitate a future Lunar Radio Navigation System (LNRS). This study contract is part of ESA’s Moonlight initiative, aiming to build reliable communication and navigation services to support the next generation of institutional and private Lunar Exploration Missions. Moon exploration is a strategic priority in space exploration, for both ESA and the industries, and it will enable the future manned missions to Mars.
+
+© ESA
+
+This contract covers the definition of the Orbit Determination and Timing Synchronization (ODTS) concepts, the Lunar reference frames (selenodetic and timing) and the signal modulation techniques for one-way and two-way services applicable to future lunar radio navigation communication.
+
+The Orbit Determination and Time Synchronization are key factors to provide accurate positioning and timing synchronization to future Moon Users. In recent years, the scientific community has been involved in several studies on the Lunar Navigation system, and in particular on different Orbit Determination and Time Synchronization algorithms. Some of these algorithms have been used for terrestrial applications but, for the lunar environment, additional models and technological constraints have to be considered.
+
+This is the challenge that Thales Alenia Space will tackle, in partnership with Telespazio, a joint venture between Leonardo (67%) and Thales (33%), the French National Centre for Space Studies - CNES (Space geodesy office) and Politecnico di Torino.
+
+This activity complements the ongoing Phase A/B1 activities that will study the feasibility and definition of a future Lunar Communications and Navigation Services, with one of the parallel contracts led by Telespazio. Thales Alenia Space, together with Telespazio, is responsible for the definition and design of the overall system, as well as for the design of the space segment (elements orbiting around the Moon) and the lunar segment (elements on the surface of the Moon). The synergy established with Telespazio will ensure the optimisation of the solution.
+
+About THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 1.850 billion euros in 2020 and has around 7,700 employees in 18 sites in 11 countries across Europe and a plant in the USA.
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel.: +33 (0)6 78 64 63 97
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 129 91
+
+marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999991655349731}",neutral,0.9999991655349731,0
+1000th EPC from Thales Alenia Space in Belgium in orbit on SES-17 - Thales,"Mon, 25 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy8xMDAwdGgtZXBjLXRoYWxlcy1hbGVuaWEtc3BhY2UtYmVsZ2l1bS1vcmJpdC1zZXMtMTfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"1000th EPC from Thales Alenia Space in Belgium in orbit on SES-17 Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Power supplies for traveling wave tubes: an impressive success story
+
+On October 24, 2021, Arianespace launched two geostationary communications satellites, both built by Thales Alenia Space as prime contractor, SES-17 and Syracuse 4A. Our Belgian team also supplied some of the electronics for the Ariane 5 launch vehicle. Both of these satellites are built on our Spacebus NEO fitted with an all-electric propulsion system – and this launch marks the advent of our Spacebus NEO product line.
+
+The 1,000th electronic power conditioner (EPC) built by Thales Alenia Space in Belgium was on the SES-17 satellite. This is a good opportunity to take a closer look at these spaceborne power supplies, the clever devices that provide the high voltage needed for traveling wave tubes (TWT), the all-important amplifiers on satellites. Over the years, Thales Alenia Space in Belgium has become one of the world’s leading suppliers of this type of equipment.
+
+EPCs from 1969 to the 21st century
+
+In 1969, the TAS Belgian team (at the time ETCA) won a contract from ESA to design and build a high-voltage power supply prototype for traveling wave tubes, including an electrical mockup and a demonstration model delivered to ESTEC, ESA’s European Space Research and Technology Center. ESA integrated the EPC prototype with a TWT and confirmed that the two were compatible.
+
+The first EPCs, manufactured in Charleroi Belgium, were delivered in 1994 for the Telecom 2 satellite program. We then began to develop a second-generation EPC 2G, expanding the product’s power and voltage envelope, to ensure compatibility with different platforms for telecom missions, as well as scientific observation missions. At the same time, we set up microwave test facilities to handle EPC/TWT integration, initially for Ku-band applications, then gradually extended to other bandwidths.
+
+The EPC 2G was introduced on the Russian Express A launched in March 2003. Between 2000 and 2012, 500 EPCs were chosen for various scientific and telecom programs on behalf of ESA, NASA and the Chinese and Indian space agencies. The mythic space probe New Horizon, carrying several TAS devices, transmitted superb images of Pluto, the “once and future planet” farthest from the Sun. New Horizon continues its journey within our solar System, recently passing the distance mark of 50 astronomical units (1 AU = average distance from the Earth to the Sun). And nearly 16 years later, our devices continue to send images taken by New Horizon back to Earth – the most distant images ever taken!
+
+A changing market in the new millennium
+
+Given the highly competitive EPC market, we had to quickly develop a new generation offering even higher performance and lower cost. The development of a third generation EPC kicked off in 2002, with upgrades to the technologies used on the EPC 2G. Once again, it was our Russian customer, RSCC, that opted for TAS, choosing the first two EPC 3G devices on their Express AM44 satellite launched in 2009. Since then, more than 250 EPCs of this type have been sent into orbit, for scientific and Earth observation satellites such as the Sentinel families in the Copernicus environmental monitoring program. No less than 48 EPCs are aboard various Sentinel satellites.
+
+The Sentinel satellite families, developed on behalf of the European Space Agency for the European Commission’s Copernicus program, are at the heart of environmental monitoring in Europe. Thales Alenia Space is a major partner in Copernicus, which currently counts a dozen series of satellites and instruments – and we contribute to 11 of the 12! Furthermore, in 2020, Thales Alenia Space was chosen for five of the six new Copernicus Expansion missions, three as prime contractor and two as payload supplier. These new satellites will measure carbon dioxide in the atmosphere produced by human activities, monitor the thickness of sea ice and snow cover, provide optimized new services for sustainable agriculture management and biodiversity, observe the behavior of oceans, and support precision agriculture and food security. With Copernicus, our tagline, “Space for Life”, really comes into its own.
+
+A dual in Space…
+
+Dual EPCs, simultaneously powering two TWTs on communications satellites, were introduced in the late 1990s and have been systematically used since 2010. Our Belgian team expanded the EPC 3G product line as early as 2005 to keep pace with market trends and carve out a position in the dual EPC segment.
+
+The dual EPC 3G also features greater power and frequency flexibility, new functions that were developed by teaming up with Thales Alenia Space’s Toulouse plant, manufacturer of linearizer driver limiter amplifiers (LDLA) and Thales (microwave imaging subsystems), the TWT supplier. Collaboration was necessary because these three key components are highly interdependent. Along with the development of this new type of EPC, the company completely upgraded its TWTA test facilities to handle testing of the DLCTWTA, which comprises a dual LDLA, a dual EPC and two traveling wave tubes. Production facilities were also upgraded to increase capacity.
+
+The first flight models went into orbit in 2015 on the Eutelsat 8WB satellite. Since then, more than 600 DLCTWTAs have been ordered. With the launch of SES-17, we’re proud to announce that we’ve passed the milestone of 1,000 EPCs in orbit. The SES-17 high throughput communications satellite, for instance, has 55 EPCs. It was designed to provide SES customers with fast, flexible and permanent connectivity no matter where they are, on land, at sea or in the air. Its coverage zone spans, North and South America, the Atlantic Ocean and the Caribbean.
+
+Next stop, Space Inspire!
+
+Our Belgian team is now developing a new-generation EPC, more highly integrated and offering greater performance, flexibility and competitiveness, to address the growing number of constellation projects and within the scope of our Space Inspire initiative.
+
+Thales Alenia Space’s Space Inspire solution is based on a new medium-size platform, featuring digital technology, a high degree of flexibility and fully reprogrammable in orbit, including for coverage zones. With the digital technology and flexibility offered by our new product line, operators can dynamically allocate bandwidth anywhere and at any time, for all bands. Space Inspire signals a paradigm shift in the fast-evolving telecommunications market, and cements Thales Alenia Space’s position at the forefront of this market.
+
+Just some of the current and upcoming programs using these products:
+
+Copernicus, ExoMars, EUTELSAT KONNECT VHTS, WFIRST, PACE, Lunar Gateway, Plato, Hera, SWFO, SES 22 & 23 , LT5M, EUTELSAT KONNECT, N301, Amazonas Nexus, Satria, LT5VM, MSR-ERO.
+
+Illustrations: SES-17 satellite photos © Marie-Ange Sanguy - Others © Thales Alenia Space","{'label': 'Positive', 'score': 0.9999666213989258}",positive,0.9999666213989258,1
+A step closer to the Axiom Commercial Space Station - Thales,"Wed, 13 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9zdGVwLWNsb3Nlci1heGlvbS1jb21tZXJjaWFsLXNwYWNlLXN0YXRpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space’s Turin plant recently took a major step forward in the construction of the primary structure of the Axiom commercial space station’s first module.
+
+The Manufacturing Readiness Review was completed on September 21, allowing the start of welding operations on the pressurized module cone panels, key parts in the pressurized section of the Axiom Hub 1.
+
+The actual welding operations kicked off just a few days ago, a major achievement for Thales Alenia Space since it marked the first use of the friction stir welding process in Europe to construct such a large pressurized module!
+
+© Thales Alenia Space
+
+The welding of the pressurized module cone panels is the first step in the primary structure assembly process, leading to the production of a windowed pressurized module approximately 11 meters long and 4.2 meters in diameter at the widest part. By applying this lower-temp welding process to such large modules, we can improve their reliability and mechanical properties in relation to the previous plasma welding method used on comparably sized habitation modules (e.g., nodes on the ISS, Columbus, MPLM).
+
+Thales Alenia Space called on the expertise built up over the last 40 years in building similar orbital infrastructures to implement this new technique. Engineers were able to identify the best technical solutions during the detailed design process, thus shortening the procurement and design phases. In fact, welding operations are already underway just 14 months after program launch.
+
+The primary structure passed its Preliminary Design Review and Critical Design Review in conjunction with Axiom Space and NASA. After completion of primary structure component manufacture in Q2 2022, initial integration and testing operations will get underway for delivery of the first habitation module to Houston by early 2023, where Axiom will assemble, outfit, integrate, and prepare the complete spacecraft for launch.
+
+© Axiom Space
+
+More about the Axiom Space Station
+
+The Axiom Station will serve as humanity’s central hub for research, manufacturing, and commerce in low Earth orbit (LEO). While under construction off of the International Space Station’s Node 2 – also built by Thales Alenia Space – it will expand the usable and habitable volume of the ISS for the remainder of the orbiting lab’s lifespan. The Axiom modules will be ready to detach and operate as a free-flying, next-generation commercial space station by 2028, operating into the future as the foundational layer of orbital infrastructure for microgravity research, manufacturing, and critical exploration life support testing, while also hosting astronauts from both the private and government spheres around the world. The Axiom Station will be the cornerstone of a permanent human presence in space and a thriving network of commercial activity in LEO, driving new advances both on Earth and further out in space. The first two modules to be launched will each contain four crew quarters.","{'label': 'Neutral', 'score': 0.9996265172958374}",neutral,0.9996265172958374,0
+Ground radar unveiled by Thales designed to provide full-spectrum coverage - Military Embedded Systems,"Fri, 08 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbWlsaXRhcnllbWJlZGRlZC5jb20vcmFkYXItZXcvc2Vuc29ycy9ncm91bmQtcmFkYXItdW52ZWlsZWQtYnktdGhhbGVzLWRlc2lnbmVkLXRvLXByb3ZpZGUtZnVsbC1zcGVjdHJ1bS1jb3ZlcmFnZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ground radar unveiled by Thales designed to provide full-spectrum coverage
+
+News
+
+Emma Helfrich Technology Editor Military Embedded Systems
+
+Thales photo. ARLINGTON, Va. Thales has unveiled its Ground Observer 20 Multi-Mission radar (GO 20 MM) radar designed to combine ground and low-level air surveillance in a single surveillance asset. The radar is also engineered to offer early unmanned aerial vehicle (UAV) detection and automatic classification.
+
+Providing coverage of the full spectrum of threats in the field, the GO20 MM is intended to provide continuous 360-degree 3D coverage for a multitude of threats. Through an HMI Venus interface, operators can recognize a threat decide on the plan of attack.
+
+In complex scenarios such as asymmetric conflicts or high-density combat, the ability to classify automatically to get a fast situation picture is designed into the system to provide a tactical advantage. The GO20 MM is transportable and can be set up by two soldiers to redeploy for a new mission.
+
+Officials claim that the GO20 MM could provide Armed and Special Forces with situational awareness for hours by choosing to opt-out of the generator option, and instead incorpoorate a six-pack battery.","{'label': 'Neutral', 'score': 0.9149000644683838}",neutral,0.9149000644683838,0
+Rheinmetall and Thales to continue taking care of Tiger helicopter simulators in France and Germany - Rheinmetall,"Wed, 27 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5yaGVpbm1ldGFsbC5jb20vZW4vbWVkaWEvbmV3cy13YXRjaC9uZXdzLzIwMjEvMjAyMS0xMC0yOF9yaGVpbm1ldGFsbC1hbmQtdGhhbGVzLXRvLWNvbnRpbnVlLXRha2luZy1jYXJlLW9mLXRpZ2VyLWhlbGljb3B0ZXItc2ltdWxhdG9ycy1pbi1mcmFuY2UtYW5kLWdlcm1hbnnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Together with its partner Thales, Rheinmetall will continue to look after the helicopter simulators used for training crews of the Tiger attack helicopter. In summer 2021, a contract to this effect was awarded through OCCAR, the European procurement organization. This integrated service support contract, which for Rheinmetall represents sales in the low double-digit million-euro range, runs from 1 January 2022 to 31 December 2025.
+
+Under the terms of the contract, Rheinmetall and Thales will now be taking care of a total of twenty modern Tiger simulators at bases in Le Luc, Fritzlar, Pau and Phalsbourg, as well as providing service and maintenance support. The eight full-mission simulators and twelve cockpit procedure trainers enable crews to train using the latest configuration of the aircraft in service: in France, the Tiger Hélicoptère d’Appui et Destruction (HAD) Block 2, and in Germany, the Unterstützungs¬¬hubschrauber Tiger Step 2 Krypto. The French armed forces and the German Bundeswehr train their personnel in a modern virtual combat environment, contributing to full operational readiness and greater flight safety. The Tiger simulators are among the most advanced full-mission simulators for attack helicopters anywhere. The Tiger is a highly sophisticated weapons system, whose replication in a simulator poses major demands in terms of hardware and software.
+
+In the current order, Rheinmetall, Thales and OCCAR (which stands for Organisation Conjointe de Coopération en Matière d'Armement) are building on years of successful cooperation in the field of simulation and training. OCCAR contracted with the Tiger Aircrew Training Means (ARGE TATM) working group to modernize the simulators currently in use. ARGE TATM is a joint venture of Rheinmetall Electronics GmbH and Thales AVS France SAS. This project was successfully completed at the end of 2019. Future treatment of obsolescent features and further updates, such as the current installation of the latest maintenance releases, make continued cooperation in the Tiger domain appear likely, including follow-up orders.","{'label': 'Neutral', 'score': 0.9997894167900085}",neutral,0.9997894167900085,0
+Vodafone Connects Its Customers With Thales' Eco-SIM Card - Business Wire,"Thu, 21 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjExMDIwMDA2MTExL2VuL1ZvZGFmb25lLUNvbm5lY3RzLUl0cy1DdXN0b21lcnMtV2l0aC1UaGFsZXMlRTIlODAlOTktRWNvLVNJTS1DYXJk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS LA DÉFENSE--(BUSINESS WIRE)--Thales to supply Vodafone Group with Eco-SIM; a product whose card body is made out of 100% recycled plastic from refrigerator interiors. Vodafone initially plans to deploy Eco-SIM in ten countries1 in Europe and Africa.
+
+Over 4.5 billion SIM cards are produced every year2, representing 20,000 tons of plastic – the equivalent weight of two Eiffel towers. Developed in partnership with Veolia, the global leader in ecological transformation, the Thales Eco-SIM was launched in 2020 and is made from 100% recycled polystyrene recovered from discarded refrigerators. Offering a second life to the refrigerator interiors, Thales enabled an independent and exclusive green plastic supply flow to Vodafone.
+
+Thales’ carbon offsetting program also ensures its innovative ‘green SIM’ is certified as carbon neutral3. As a result, the new contract will support Vodafone’s far-reaching plans for cutting e-waste, reducing its carbon footprint, and contributing to a circular economy.
+
+“An individual SIM may be tiny, but in total our Eco-SIM manufacturing program will save nearly 5,000 metric tonnes of virgin plastic every year,” said Emmanuel Unguran, VP Mobile & Connectivity Solutions at Thales. “Just like Vodafone, Thales has developed transformative plans for environmental action. This new contract highlights the determination of both companies to recognize their responsibilities to the planet.”
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global leader in advanced technologies, investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum computing – to build a confident future crucial for the development of our societies. The Group provides its customers – businesses, organisations and governments – in the defense, aeronautics, space, transport, and digital identity and security domains with solutions, services and products that help them fulfil their critical role, consideration for the individual being the driving force behind all decisions.
+
+Thales has 81,000 employees in 68 countries. In 2020 the Group generated sales of €17 billion.
+
+PLEASE VISIT
+
+Digital Identity & Security
+
+Download HD photos
+
+1 UK, Germany, Italy, Spain, Ireland, Hungary, Czech Republic, Romania, the Netherlands (as VodafoneZiggo), and South Africa.
+
+2 ABI Research – September 2020
+
+3 Thales’ Eco-SIM card is a CarbonNeutral® certified product in accordance with The CarbonNeutral Protocol – the global standard for carbon neutral programmes.","{'label': 'Neutral', 'score': 0.999982476234436}",neutral,0.999982476234436,0
+Australia welcomes torpedo support contract | Thales Group - Thales,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvcHJlc3MtcmVsZWFzZS90aGFsZXMtYXVzdHJhbGlhLXdlbGNvbWVzLXRvcnBlZG8tc3VwcG9ydC1jb250cmFjdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia welcomes the announcement by Defence Industry Minister Melissa Price to award a $20m contract to maintain the Royal Australian Navy’s MU90 Light Weight torpedo, demonstrating Thales’s established capability in Australia to sustain guided munitions and weapons systems.
+
+The MU90 has been successfully supported by Thales Australia’s facility in Rockingham, Western Australia, since it entered into service with the Navy in 2013.
+
+The renewal of the in-service support contract for 3 years will be delivered utilising 100% Australian Industry Capability (AIC), and will directly support jobs with Thales in Western Australia, and more in Thales’s local WA supply chain.
+
+Over the past decade, Thales has built a sovereign industrial capability in WA to ensure Australia has the capability to fully support the MU90 torpedo.
+
+In addition to the 140 people employed directly by Thales in Western Australia, a further 110 people are employed by Thales’s WA suppliers, according to recent analysis by Accenture. In 2020, Thales spent $23m with 86 West Australian suppliers, almost three-quarters of them SMEs.
+
+By maintaining deep industrial capability, a high level of skills and an established local supply chain, Thales is able to provide around the clock support for Navy. We are pleased that the Commonwealth’s assessment found Thales’s offer to be a high quality and value-for-money solution.","{'label': 'Positive', 'score': 0.9141104817390442}",positive,0.9141104817390442,1
+"Google to build cut of its cloud operated by France’s Thales, for French government clients - The Register","Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIxLzEwLzA2L2dvb2dsZV90aGFsZXNfc292ZXJlaWduX2Nsb3VkL9IBSWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyMS8xMC8wNi9nb29nbGVfdGhhbGVzX3NvdmVyZWlnbl9jbG91ZC8?oc=5&hl=en-US&gl=US&ceid=US:en,"Google and French defence and industry titan Thales have cooked up an interesting arrangement that will see the latter create a sovereign version of the G-Cloud.
+
+The two have created a joint venture in which Thales – a sprawling entity with interests in aerospace, defence, transport, and energy – will hold a majority share. Together, they'll build a hyperscale cloud that uses Google's cloud tech but doesn't touch any of the ad giant's physical infrastructure.
+
+The result will be a cloud that behaves like the G-Cloud but, as it is resident on French soil and Google doesn't control it, meets local standards for government use.
+
+The cloud will be updated as Google evolves its own cloud, but Thales will inspect those changes before putting them into production. Thales will also ensure support is delivered from France.
+
+Sovereign clouds are not new – plenty of small providers have carved out a niche by emphasising they're not beholden to laws of other jurisdictions. Clouds for government users are also anodyne – Google already has a cut of its cloud for the US government, as do Microsoft and AWS.
+
+But a joint venture to create a captive version of a public cloud platform is novel.
+
+Google's cloud is well-regarded but rated as less comprehensive than Azure or AWS. The company also lacks the enterprise roots, applications, and sales force that help the likes of Oracle to build a cloud business. One tactic to grow the business has reportedly been to discount in pursuit of substantial customers willing to make multi-year commitments.
+
+The search goliath's cloud efforts have produced torrents of red ink – $14.6 billion over the three years to 2021.
+
+In Google's most recently reported quarter it reported strong growth for its cloud: Q2 2021 saw $4.6 billion of revenue arrive, up from $3 billion a year earlier.
+
+It still made a loss of $591 million – a terrifying number but far less so than the $1.43 billion it lost in the corresponding quarter in 2020.
+
+Google CEO Sundar Pichai has also suggested that previous losses were due, in part, to the cost of building a cloud and that once spending drops, better results will follow.
+
+The announcement of the new French cloud doesn't specify whether Google or Thales will wear the cost of construction, but it would be a strangely lop-sided partnership if Google is stumping up all the cash.
+
+The Register imagines the news won't go down well with French cloud operator OVH. Nor at one Google Cloud partner, VMware, which overnight announced support for partners that wish to build sovereign clouds on its stack.
+
+Such partners may now wonder if Google is talking to companies with pedigrees like Thales'. ®","{'label': 'Neutral', 'score': 0.9985973238945007}",neutral,0.9985973238945007,0
+"Thales Inertial Navigation Unit Boards French Navy Vessel for Cybersecure, Real-time Navigation - Inside GNSS","Fri, 29 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vaW5zaWRlZ25zcy5jb20vdGhhbGVzLWluZXJ0aWFsLW5hdmlnYXRpb24tdW5pdC1ib2FyZHMtZnJlbmNoLW5hdnktdmVzc2VsLWZvci1jeWJlcnNlY3VyZS1yZWFsLXRpbWUtbmF2aWdhdGlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and CS GROUP have combined to offer a high-performance, resilient and cybersecure navigation system comprising Thales’s TopAxyz inertial navigation unit, which has clocked over 20 million hours of operation in civil aviation, and CS GROUP’s real-time computer. The TopAxyz IMU comprises three ringlaser gyroscopes and three accelerometers in a compact unit. The naval version of the inertial unit was integrated on a French Navy vessel in less than a day by CS GROUP and has proven its operational value for maritime navigation.
+
+In today’s constantly changing naval environment, crews need to contend with the threat of cyberattacks, electronic warfare activity and the high risk of jamming and spoofing of GPS-based radionavigation solutions. Accurate navigation data, real-time data distribution and resistance to external threats are crucial for every mission conducted by a naval vessel today.
+
+The TopAxyz inertial unit uses accurate, reliable navigation information that is independent of sea state and vessel location, combined with a function that detects attempts to spoof GPS signals. The navigation data calculated by TopAxyz is distributed in real time by the NDDS (Navigation Data Distribution System) developed by CS GROUP’s onboard computer. This computer uses the latest technological advances in cybersecurity, guaranteeing the best level of resilience to attacks. Its architecture offers 3 key advantages: safer navigation, reduced costs and integration risks, ease of use and simplified maintenance of the system.
+
+The system provides high-precision pointing, gyrocompass, location and navigation functionality for all types of naval platforms, from surface combatants and submarines to autonomous vehicles.
+
+“After proving their value on board aircraft, space launchers and French Army land vehicles, Thales inertial navigation systems are now available for naval platforms,” said Tristan Grivel, Vice President Business Development and Sales for Thales’s flight avionics business.","{'label': 'Positive', 'score': 0.9753665924072266}",positive,0.9753665924072266,1
+Keisan Refrigeration - An innovative Aussie SME in the NT - Thales,"Thu, 21 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy9rZWlzYW4tcmVmcmlnZXJhdGlvbi1pbm5vdmF0aXZlLWF1c3NpZS1zbWUtbnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Keisan Refrigeration, based in Darwin in the Northern Territory, are an integral part of the Thales Australian Supply Chain. They work with us on our maintenance activities for the Armidale Class Patrol Boat, ensuring that air conditioning and refrigeration capabilities on board are fully operational. Read more about this family owned and operated business below.
+
+Founded in 2001, Keisan Refrigeration was originally a two-person operation between Keith Timms, now Managing Director, and his wife Sandra (with their combined names providing the name of the company). In the first few years of operation, they were working out of their house with Keith, a refrigeration and air conditioning tech by trade, working primarily in the Marine industry and Sandra providing administration support.
+
+“This business was the result of a real partnership between Sandra and I and it wouldn’t have happened without her” Keith says.
+
+“Initially she was providing support in her spare time, but it eventually became a full-time role. As we moved to a proper office, Sandra would be working there, often with the kids in tow – it was a real ‘mum and dad’ operation.”
+
+In 2005, Keith went to an information briefing to hear more about the ‘patrol boats’ that were coming in to town. At the end of the evening, Keith decided he liked what he’d heard and ‘threw his hat in the ring’ and, after being successfully selected, they started work.
+
+The Marine side of cooling and refrigeration has always been an area of interest for Keith, and it has helped build both expertise and a positive reputation in this space.
+
+“I spent a lot of time on fishing boats as a kid which planted the seed at a young age. This area is our niche and we’ve deliberately set the business up that way,” said Keith.
+
+Fast forward to 2017 when Thales took over the role of prime contractor on the Armidale Class Patrol Boat In-Service Support. By this time, Keisan Refrigeration had grown to seven employees, taking on one apprentice every two years, and were well versed in providing and maintaining critical cooling and refrigeration capabilities to these platforms and the demands of Defence sub-contracting.
+
+Over the last four years, Keisan Refrigeration has continuously provided exceptional work for both Thales Australia and the Royal Australian Navy. They’ve increased their number of apprentices and Keith says that working with Thales has provided a level of confidence and surety in gaining future work.
+
+“We feel comfortable and confident that work is coming down the pipeline. This has given us more confidence about taking on more apprentices as well as carrying stock; we’ve got a great rapport with Thales.”
+
+The team at Keisan Refrigeration are a valued part of our supply chain with Alex Strehle (ACPB Program Manager in Darwin) saying the work they provide is second to none.
+
+“We have a proven and effective supply chain here in the NT and routinely bring in new companies. Keisan prove that small enterprises have a genuine role in major Defence programs, and are an important part of the local capability that delivers ship availability,” said Alex.
+
+If you’d like to read more about Keisan Refrigeration, please visit their website, here.","{'label': 'Neutral', 'score': 0.7748805284500122}",neutral,0.7748805284500122,0
+User experience of MRIdian Linac commissioning and QA with the THALES 3D MR SCANNER – Physics World - physicsworld.com,"Fri, 29 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vcGh5c2ljc3dvcmxkLmNvbS9hL3VzZXItZXhwZXJpZW5jZS1vZi1tcmlkaWFuLWxpbmFjLWNvbW1pc3Npb25pbmctYW5kLXFhLXdpdGgtdGhlLXRoYWxlcy0zZC1tci1zY2FubmVyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Available to watch now, LAP GmbH Laser Applikationen explores the THALES 3D MR SCANNER during the commissioning of the MRIdian Linac of Viewray
+
+Want to learn more on this subject? Watch now
+
+The market introduction of the MR-Linac technology improves the patient care via the real-time imaging of the targeted PTVs. Conventional Water Phantoms with ferromagnetic material become prohibited due to safety reasons. To overcome this situation, LAP introduced the MR-compatible Water Phantom THALES 3D MR SCANNER. Dr Thierry Gevaert, medical physicist and co-ordinator at the UZ Brussel institute, will share his experience with the THALES 3D MR SCANNER during the commissioning of the MRIdian Linac of Viewray. Furthermore, he will highlight which benefits played an important role for his clinical workflow.
+
+During the webinar you will also learn more about the THALES technology for commissioning and quality-assurance processes of conventional Linacs.
+
+Want to learn more on this subject? Watch now
+
+Thierry Gevaert graduated as medical physicist at the Vrije Universiteit Brussel (VUB) and defended his PhD “Clinical implementation of frameless radiosurgery” in 2012. In 2016, he was nominated professor at the VUB and became chief of medical physics at the UZ Brussel (UZB). His appointment in the Department of Radiotherapy involves research, teaching and clinical practice. Thierry is board-certified in therapeutic physics and is engaged in mentoring medical physics for graduate students, residents and medical engineers. His research and clinical interests include stereotactic radiosurgery (SRS), stereotactic body radiotherapy (SBRT), motion management, the development of high-tech radiation techniques, image-guided radiotherapy (IGRT), all with an emphasis on clinical implementation of translational research. Thierry has made numerous international and national presentations, and published more than 50 peer-reviewed papers. Since 2015, he is also an auditor for the Novalis Certification program.
+
+Thierry Mertens has a PhD in physics and nearly 15 years of experience in medical physics and radiotherapy. His main responsibility is to develop innovative quality assurance solutions to support the medical end-users with their clinical tasks. As business development manager for LAP since 2016, Thierry has been instrumental in the development of the THALES 3D MR SCANNER and had the opportunity to work closely together with pioneer users of the MRIdian system, therefore, within the LAP R&D team, he can advise on the customers’ needs, ensuring that the end-user needs are fulfilled.","{'label': 'Neutral', 'score': 0.5877310037612915}",neutral,0.5877310037612915,0
+Tanzania Civil Aviation Authority receives Thales surveillance system - Arabian Aerospace,"Mon, 25 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHA6Ly93d3cudGltZXNhZXJvc3BhY2UuYWVyby9uZXdzL3RlY2hub2xvZ3kvdGFuemFuaWEtY2l2aWwtYXZpYXRpb24tYXV0aG9yaXR5LXJlY2VpdmVzLXRoYWxlcy1zdXJ2ZWlsbGFuY2Utc3lzdGVt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"TCAA’s mission is to ensure safety, security and regularity of civil aviation in Tanzania through effective oversight, provision of efficient air navigation services and training while maintaining quality, protecting the environment and safeguarding the interest of stakeholders.
+
+The modernisation programme involved the installation of ATC surveillance radars and TopSky - ATC at six different locations in Tanzania, including Songwe, Dar es Salaam, Kilimanjaro, Mwanza, Zanzibar and Arusha airports.
+
+Integrated with existing sensors, Thales ‘ co-mounted STAR NG Primary approach radar with RSM970S Mode S en-route secondary radar together with TopSky - ATC enable the automation of en-route, approach and tower control centers, providing a highly accurate view of the air traffic.
+
+The RSM 970S secondary radar Mode S downloads aircraft parameters that gives the controller early notice of aircraft evolution (speed, heading …) and the clearances (e.g. altitude selected by the pilot), as well as providing the ACAS Resolution Advisory Report. All of this real-time data enables the controller to have the correct information in order to make the best decision at the right moment in time.Dar Es Salam Julius Nyerere International Airport (JNIA) is also equipped with an ATC simulator to train TCAA air traffic controllers and engineers.
+
+The TopSky-ATC EFS (Electronic Flight Strip) replaces paper strips, taking track of every flight, allows Tanzanian Air traffic controllers to monitor safely and efficiently from a touchscreen real-time data updates and contributes to data sharing for collaborative decision-making. It also makes it easier for controllers to handle fluctuations in traffic volume, changing weather, and all types of situations that can impact air traffic control decisions at any time.
+
+Thales TopSky – ATC monitors and controls more than 80% of African airspace, including 5 out of 6 upper airspace East African community states. More than 80 ATC radars are in operation across Africa, amongst 900 surveillance radars in operation worldwide.
+
+“Implementation of the Tanzania Radar Project with THALES has realized the intended surveillance objective of the Tanzanian airspace through enhanced safety, security and efficiency. The associated automation system has enabled more efficiency in managing revenue collection obtained from aircraft movements data base. Through this successful project TCAA is able to escalate ICAO standards to the highest level.” Hamza Johari, Director General, Tanzania Civil Aviation Authority.
+
+""It is my pleasure to welcome TCAA as the newest member of the Thales TopSky user family. We take pride in working hand in hand with our customers to deliver top-of-the-line turnkey systems that address their specific needs. Together, we are shaping the future of air travel by making it more safe and more efficient for a better and greener tomorrow."" Christophe Salomon, executive vice president land & air systems, Thales.","{'label': 'Neutral', 'score': 0.575398325920105}",neutral,0.575398325920105,0
+Thales unveils the Ground Observer 20 Multi-mission radar – the ultimate in early UAV detection and ground ... - EDR Magazine,"Thu, 07 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5lZHJtYWdhemluZS5ldS90aGFsZXMtdW52ZWlscy10aGUtZ3JvdW5kLW9ic2VydmVyLTIwLW11bHRpLW1pc3Npb24tcmFkYXItdGhlLXVsdGltYXRlLWluLWVhcmx5LXVhdi1kZXRlY3Rpb24tYW5kLWdyb3VuZC1zdXJ2ZWlsbGFuY2UtZm9yLWZvcmNlc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"7 October 2021 – A reference in the field of Ground surveillance radars, Thales, a trusted historical partner to forces worldwide, now unveils its latest innovation: The GO 20 MM radar. Uniquely combining ground and low-level air surveillance in a single surveillance asset, the radar offers exceptional early UAV detection and automatic classification.
+
+Situational awareness in the battlefield is critical to maintaining tactical advantage. Yet the increasing pace of technology is constantly challenging this advantage. The growing number of Unmanned Arial Systems (UAV), in particular micro-drones, is significantly contributing to shifting battlefield supremacy. High proliferation and the constant evolution of UAV capabilities in terms of autonomy, payload & swarm navigation increases the level of this threat day by day.
+
+Providing coverage of the full spectrum of threats in the field, the GO20 MM provides continuous 360° 3D coverage for a multitude of threats. The radar surveys a large volume in 3D, with fast update rates, enabling early detection and automatic classification of long-range drones especially when they are not yet a threat, providing additional crucial seconds for C-UAV measures.
+
+Through a clear, simple HMI Venus interface, operators automatically and easily recognize a threat, gaining precious time to decide if and what counter strategy to adopt. In complex scenarios such as asymmetric conflicts or high-density combat, the ability to classify automatically and quickly to get a fast situation picture provides tactical advantage.
+
+Thanks to its compact size and modular configuration, the GO20 MM is easily transportable and deployable. In 5 minutes, two soldiers can set it up and quickly redeploy for a new mission, whether on a mast or for off-board operations.
+
+With its six-pack battery, the GO20 MM provides Armed and Special Forces with seamless situational awarenessfor hours and high levels of protection. Choosing to opt-out of the generator option, Thales has made sure that the GO20 MM remains quiet and highly transportable ensuring mission success.
+
+“With more than 50 years of experience in radars, and thousands ground surveillance radars around the world, Thales continues to invest and bring tactical advantage to forces in the field. Given the strong track record of all the ground based radars from the Ground Alerter and Ground Observer portfolio, this latest family member adds a new dimension to early drone detection and provides superior support to forces battlefield supremacy” Maja Velimirovic, Director Land and Air Systems, Thales in Germany.
+
+Photo courtesy Thales","{'label': 'Positive', 'score': 0.9999879598617554}",positive,0.9999879598617554,1
+Spirit hones Wi-Fi portal as partners prepare for SES-17 - - Runway Girl Network,"Thu, 21 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjEvMTAvc3Bpcml0LWFpcmxpbmVzLXdpLWZpLWxhdW5jaC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Spirit Airlines is conducting inflight Wi-Fi testing on a limited number of aircraft and, according to its aero ISP partner Thales InFlyt Experience, the portal is presently being honed to optimize the experience for passengers.
+
+During this temporary trial period, guests can access the Ka-band satellite-supported connectivity service — both messaging and streaming packages — on select Airbus A320 family aircraft, according to Thales InFlyt.
+
+“Spirit is eager to get this across the entirety of their fleet,” Thales InFlyt vice president, connectivity solutions Craig Olson said yesterday during a press briefing to discuss the French aerospace manufacturer’s plans for tapping into the forthcoming high-capacity SES-17 satellite for Spirit and other airline clients.
+
+“Part of what we are doing right now is really frankly just working with Spirit on optimizing the human machine interface and passenger experience through the portal, the ease of purchase, and consistency of the service and we are feeling extremely good about where we are right there,” said Olson, stressing that Spirit will lead the messaging around its product.
+
+Spirit in an online update stated: “We’ll announce the Wi-Fi session prices at the end of our testing. During our initial testing period, Wi-Fi will be available for guests at reduced rates.”
+
+Olson confided that Thales InFlyt has made “absolutely tremendous progress” in terms of installing the IFC system across Spirit’s fleet.
+
+In 2017, Thales, SES and Hughes teamed up to deliver an improved inflight connectivity solution under the Thales FlytLIVE brand. The agreement saw SES leasing Ka-band capacity on in-orbit Hughes satellites with the intention of growing that coverage with the addition of SES-17.
+
+Hughes, which provides full network management and ground station services for the partnership, has supported inflight connectivity transmissions aboard Spirit as part of the quiet trial, with data transmitting over the ThinKom Solutions VICTS antenna atop each fuselage (itself an upgrade from Thales’ original FlytLIVE hardware).
+
+“[W]e have a deep relationship with [SES CEO Steve Collar’s] team that dates back to the early stages of 2014 and we are currently operating underneath a network that SES has helped put together for Thales, comprised of SES assets as well as assets from other satellite providers which really goes to show that having the right kinds of partnerships to go together, those networks are critically important as you go forward,” said Olson.
+
+In the case of Spirit, Olson noted, the low-cost airline is “operating underneath that network which is already in operation and SES-17 will just bring that next step of unprecedented capability performance… It is exciting to know that Spirit will effectively be the launch airline for SES-17 and I can speak safely for [Spirit Airlines CEO Ted Christie] and his team that they are super excited for that but also excited to get into operation under the current network.”
+
+The Thales InFlyt executive demurred in providing further specifics about the Spirit program, which is delayed by a few years due in part to technical glitches with the original Thales antenna. He said it’s “very understandable” that Spirit would like to get FlytLIVE across the predominance of its fleet before making a broad announcement.
+
+SES-17 is a very high-throughput satellite in geosynchronous orbit, built to serve North America, South America, the Atlantic Ocean and the Caribbean with Ka-band coverage. Though it will address demands for high-speed and flexible data connectivity across aviation, maritime, enterprise and government segments, Thales InFlyt is its anchor client for the aviation industry, and expects to attract further airline customers for FlytLIVE.
+
+Related Articles:
+
+Images of Spirit Airlines credited to Mary Kirby","{'label': 'Neutral', 'score': 0.9677197337150574}",neutral,0.9677197337150574,0
+"Thales Alenia Space on IAC, new solutions from the company, satellite market trends and challenges - BroadcastProME.com","Sun, 31 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5icm9hZGNhc3Rwcm9tZS5jb20vbmV3cy9zYXRlbGxpdGUvdGhhbGVzLWFsZW5pYS1zcGFjZS1vbi1pYWMtbmV3LXNvbHV0aW9ucy1mcm9tLXRoZS1jb21wYW55LXNhdGVsbGl0ZS1tYXJrZXQtdHJlbmRzLWFuZC1jaGFsbGVuZ2VzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"In an exclusive interview with SatellitePro, Herve Derrey, Executive Vice President of Thales Alenia Space, sheds light on the company's development in digital solutions for telecommunications and space observation as well as the future of satellite.
+
+What solutions did Thales Alenia Space present at the IAC Congress?
+
+At the IAC booth, we highlighted our Earth observations and exploration solutions. In particular, we presented a virtual reality experience in the Lunar Gateway. In parallel, Im personally participating in the ESA sustainability event, sustainability being a strong market growth driver, notably in Europe. Moreover, during IAC, Mohammed Bin Rashid Space Centre (MBRSC) signed a Memorandum of Understanding (MoU) with Thales Alenia Space and ALTEC, the Aerospace Logistics Technology Engineering Company, to identify opportunities to study and develop solutions for space and planetary exploration systems.
+
+Thales Alenia Space is involved in a lot of satellite contracts with key players such as the European Space Agency, NASA etc. What makes it the most preferred company for satellites globally?
+
+Year after year, we have built a strong technological expertise, bringing us to solid reputation and leadership among our customers in all the markets we operate. European institutions, in particular, consider us as a first-in-class and trustful industrial partner. They recently awarded us for instance 50% of Galileo second Generation satellites and five of the six new Copernicus missions, of which the CO2 measurement instrument.
+
+In the exploration field, we are the European key actor to support ESA and NASA for the return to the Moon challenge. Our strong expertise combined with our worldwide leadership position in pressurised modules allowed us to provide three logistic and habitat modules for the Lunar Gateway and two habitat modules for the Axiom commercial space station. Our continuous and fruitful cooperation with national space agencies such as CNES in France or ASI in Italy also allows us to develop new technologies matching the fast-evolving market needs.
+
+What are the challenges faced in the current satellite market?
+
+We need to find the best compromise between, on one side, the new technological challenges driven by the increase of capacity and performance, demand for more flexibility, and, on the other side, competitiveness, and time to delivery. To meet these challenges, we have developed new solutions, as main example our software define satellite Space Inspire. In addition, we are now also facing sustainability challenges as space is seen as a new area to be protected.
+
+There is a growing demand for smaller, compact, and more agile satellites. What makes the big satellites that Thales Alenia Space works on unique and what makes you think there is still a market for bigger satellites. What are the challenges faced on this front and are you losing any market share?
+
+A customer-centric approach is the foundation of Thales Alenia Space Product policy. As a result, our product portfolio has evolved across the years, to anticipate and respond to customer expectations.
+
+Several years ago, we detected the need of flexibility, to adapt the mission to customer demand, in particular for missions dedicated to connectivity and mobility. Thales Alenia Space response to this need in telecommunications has been to introduce the smart and powerful combination of our Spacebus NEO platform with Digital Payloads using the 5th generation of our Digital Transparent Processor.
+
+Our Very High Throughoutput solution, embarking fully processed repeaters allows to modify resource allocation between beams and beam to beam connectivity, so unused or unsold resources should not be experienced anymore. It is a market success, with already 5 satellite orders.
+
+The next generation of Digital Payload is already under development to reach the next level of flexibility both in coverage and type of applications. Our Space Inspire product line will allow seamless telecommunication missions and services reconfiguration, instant in-orbit adjustment to the demand, outstanding flexibility for video broadcasting and broadband connectivity services, while maximizing the efficiency and effective use of the satellite resources. On top of repeater flexibility, fully Software Defined Satellites enable antenna coverage flexibility through active beam forming allowing to change the coverage and the mission during the satellite lifetime. This solution, being less CAPEX demanding is well adapted for regional operators to develop their activities with the possibility to deploy an incremental service with additional satellites.
+
+Concerning Non-Geo Stationary Orbit, the increasing demand in terms of constellations has also made us propose to develop generic building blocks, rather than designing one-shot projects: this approach will benefit our customers.
+
+We can say that the commercial market is shaped by complementary solutions.
+
+The market for Geostationary communication satellites experienced a major crisis in 2017-2018, but has now stabilized, although at a lower level than in the past. However, this trend is offset by contributions from satellite constellations. Even if all these projects are unlikely to come to fruition, the trend towards constellations is positive because it addresses the markets requirements for constant connectivity, global coverage, and low latency. Furthermore, their development is being driven by the emergence of new applications (Internet of Things, space surveillance from space, 5G, Earth observation with high revisit rates, etc.). But constellations cant totally offset previous demand for GEO services, and major operators are increasingly relying on complementary solutions, with GEO satellites providing resilience and carrying high-capacity or flexible missions, while constellations ensure global coverage (example: SES with O3b)
+
+What are the new technologies, innovations, and trends that we are seeing in new satellites and what is Thales Alenia Space role in bringing these to the global market?
+
+Innovation is in Thales Alenia Spaces DNA. As mentioned, the telecom market is driving innovation linked to flexibility and a key illustration is our Digital Transparent Processor of the fifth generation which is already onboard SES17 satellite dedicated to connectivity and launched a few days ago from Kourou for SES.
+
+In the observation domain, we are continuously innovating on our optical and radar solutions to provide high performance for the benefit of more and more precise missions.
+
+To complete the offer, we also develop innovative solutions in the field of the high revisit earth observation constellation. And, to take full advantage of the data value generated by these complementary offers, we are developing digital ground segment solutions.
+
+There is lot of debris in space now with dead satellites that have failed or been left in orbit at the end of their mission. Is Thales Alenia Space bringing any satellites that can self-burn or self-destruct in space after their lifetime?
+
+A trustful partner is also one that is acting responsibly through sustainable products and attentive use of resources.
+
+We have been working for a long time on space debris prevention. In France, our experts have cooperated with CNES Space Agency and other partners on the definition of the French Debris Mitigation Law, which is considered as precursor in the international scene. We are the prime contractor of the SWOT satellite, a joint mission between CNES and NASA, that will be the first one fitted by design with a controlled atmospheric reentry subsystem avoiding any debris generation at end-of-life. Moreover, all the satellites for the upcoming Copernicus mission will be fitted with this control reentry subsystem. We are also developing the Skylark constellation for Northstar which will be part of what we call SSA (Space Situational Awareness) allowing the help to avoid collisions.
+
+We are also working on solutions to anticipate the satellite’s end of life by developing brand new on-orbit servicing vehicles that will carry out a wide range of operations directly in space: station keeping, refuelling, repairing, or upgrading in order to provide life extension with advanced robotic operations.","{'label': 'Positive', 'score': 0.9978808164596558}",positive,0.9978808164596558,1
+France's Thales partners with Google on secure cloud services - ETTelecom,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGVsZWNvbS5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZnJhbmNlcy10aGFsZXMtcGFydG5lcnMtd2l0aC1nb29nbGUtb24tc2VjdXJlLWNsb3VkLXNlcnZpY2VzLzg2ODAyNTg40gF7aHR0cHM6Ly90ZWxlY29tLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvZnJhbmNlcy10aGFsZXMtcGFydG5lcnMtd2l0aC1nb29nbGUtb24tc2VjdXJlLWNsb3VkLXNlcnZpY2VzLzg2ODAyNTg4?oc=5&hl=en-US&gl=US&ceid=US:en,"Advt
+
+Join the community of 2M+ industry professionals Subscribe to our newsletter to get latest insights & analysis. Download ETTelecom App Get Realtime updates
+
+Save your favourite articles Scan to download App
+
+PARIS: Defence company Thales and Google are partnering to offer state-vetted cloud computing services for the storage of some of France's most sensitive data, the companies said on Wednesday.The alliance between Thales , Europe's largest defence electronics supplier, and the Alphabet unit fulfils a May government plan under which France acknowledged U.S. technological superiority in the field.The French government said then that cloud computing services developed by Google and Microsoft could be used to store France's most sensitive state and corporate data, provided the services were licensed to French companies.In their joint statement, Thales and Google Cloud said they will create a France-based company and Thales will be the majority shareholder.That company will provide the whole range of Google Cloud's services but its network and servers would be separate from those used for regular Google clients.""The company is going to run Google software on its infrastructure... with layers of security to ensure cybersecurity and protection of data from extraterritorial rules,"" said Marc Darmon, head of secure communications and information systems at Thales.Google and Microsoft, along with market leader Amazon.com's Amazon Web Services, dominate cloud storage worldwide, fuelling concerns in Europe over the risk of surveillance by the United States in the wake of the adoption of the U.S. CLOUD Act of 2018.The Thales-Google partnership will need the blessing of France's cybersecurity agency ANSSI to get a ""trusted cloud"" label.However, its head, Guillaume Poupard, has already welcomed the project, saying in a statement it fulfilled the criteria needed for the certification.The company should be created in first-half of 2022 and be running by the start of 2023, the two groups said.It would compete against Bleu, a joint company to be set up by IT consulting firm Capgemini and telecoms group Orange and which aims to use Microsoft's cloud technology.","{'label': 'Neutral', 'score': 0.8619227409362793}",neutral,0.8619227409362793,0
+Charlotte Neyret in Charge of EGNOS Service-Provider ESSP as CEO - Inside GNSS,"Fri, 08 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vaW5zaWRlZ25zcy5jb20vY2hhcmxvdHRlLW5leXJldC1pbi1jaGFyZ2Utb2YtZWdub3Mtc2VydmljZS1wcm92aWRlci1lc3NwLWFzLWNlby_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The European satellite service provider (ESSP) placed Charlotte Neyret, former European Development Director for Thales Alenia Space, at its helm as chief executive officer.ESSP manages EGNOS, the European GNSS satellite-based augmentation system.
+
+Neyret brings 24 years of experience in the aerospace sector in different positions, mainly within Thales Alenia Space. She started as an engineer, managing satellites operations and rapidly had various responsibilities in sales, marketing and business development in the space sector for ATM, in navigation and in telecom domains.
+
+She managed space-based navigation programs and then, as new Business Initiatives and European footprint development Director within the Strategy, she established national and international partnerships and has been involved in various innovation projects and in the digital transformation of the company.
+
+“Charlotte has extensive experience and knowledge of the sector and will bring a strong commercial background to ESSP,” said Philippe Chappuis, Chair of ESSP’s Board of Directors. “The Board is confident she has the skills and attributes to ensure ESSP continues to provide a first class service to its customers, and to be a leading player in broadening and expanding EGNOS use.”
+
+She succeeds Thierry Racaud, who led ESSP for 7 years, since it was selected as the EGNOS service provider of the contract with GSA (currently EUSPA) in 2014.
+
+About ESSP-SAS: Founded in 2009 by seven Air Navigation Services Providers (ANSPs) from France (DGAC/DSNA), Germany (DFS), Italy (ENAV)), Portugal (NAV-P), Spain (Aena), Switzerland (Skyguide) and UK (NATS) to act as service Provider for the EGNOS system, the European Geostationary Navigation Overlay Service. ESSP has for mission the provision of the EGNOS Open Service (OS) and Safety of Life (SoL) Service compliant with ICAO SBAS standards and recommended practices throughout the European Civil Aviation Conference (ECAC) Region and is also in charge of the provision of the EDAS Service (EGNOS Data Access Service).","{'label': 'Neutral', 'score': 0.999834418296814}",neutral,0.999834418296814,0
+Thales continues to invest in digital technologies in the South-West with new state-of-the art manufacturing facilities - Thales,"Fri, 08 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1jb250aW51ZXMtaW52ZXN0LWRpZ2l0YWwtdGVjaG5vbG9naWVzLXNvdXRoLXdlc3QtbmV3LXN0YXRlLWFydNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales continues to invest in digital technologies in the South-West with new state-of-the art manufacturing facilities Share this article
+
+
+
+LinkedIn
+
+Ian Booth, CEO SDA
+
+Thales in the UK has opened brand new high-tech manufacturing facilities for developing advanced sonar technologies. The facility was declared open by Ian Booth, CEO of the Submarine Delivery Agency (SDA) for the Ministry of Defence.
+
+The £25 million high-tech build was made possible by working with many specialist SMEs. Maximising the use of digital manufacturing such as robotics and connected digital twins will create a safe, secure controlled working environment that will benefit both employees and customers. It will ensure all equipment and product flow is operating in an optimum, safe condition whilst predictive maintenance will keep the production line running efficiently.
+
+In addition, the new facility provides a better working environment for over 125 highly-skilled manufacturing, engineering and design sector employees through the addition of variable height working and technologies to remove repetitive manual activities.
+
+Defence Minister Jeremy Quin said:
+
+I have seen first-hand the innovative work conducted by Thales at the Templecombe site and I am delighted by this expansion – which provides a modern working environment for over 125 highly skilled employees. Work at the site will help ensure defence continues to stay ahead of our naval adversaries through pioneering sonar technologies and will support skilled employment across the South West for decades to come.
+
+Ian Booth, CEO SDA said:
+
+The expansion of the site at Templecombe is an exciting step forward in the SDA’s continued successful collaboration with Thales. These developments will bring exciting opportunities for innovation in our joint work to develop enhanced sonar technologies to keep Royal Navy submarines at the cutting edge of capability. I look forward to our continued working together as part of the UK submarine programme.
+
+Alex Cresswell CEO and Chairman of Thales in the UK said:
+
+Following significant successes for our underwater systems business and here at Templecombe, Thales has upgraded our site to ensure operational competitiveness and to allow us to continue to deliver world leading products from the South West long into the future. This new facility ensures that we can support our customers’ future ambitions and provide a modern working environment for our growing team of experts.
+
+Image (top) UK MOD © Crown copyright 2021","{'label': 'Positive', 'score': 0.9999977350234985}",positive,0.9999977350234985,1
+"Take a trip into space with the ""Traveling Waves Tubes Space Adventures"" - Thales","Fri, 15 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtbWFya2V0LXNwZWNpZmljLXNvbHV0aW9ucy1taWNyb3dhdmUtaW1hZ2luZy1zdWItc3lzdGVtcy1yYWRpby1mcmVxdWVuY3ktbWljcm93YXZlLTXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Take a trip into space with the ""Traveling Waves Tubes Space Adventures"" Space Spacemission Microwave & Imaging Sub-Systems Share this article
+
+
+
+LinkedIn
+
+Did you know that our wave amplifiers are onboard missions across our galaxy and beyond, and that our travelling wave tubes can transmit information from Mars to Earth in just 20 minutes?
+
+To find out more, launch the space adventure!
+
+To better promote an often little-known but vital aspect of space missions, Thales has launched an website for the solutions provided by its Microwave & Imaging Sub-Systems activities, notably its Travelling Wave Tubes (TWT).
+
+""Thales TWTs Space Adventures"" traces the space missions of yesterday, today and tomorrow where our wave amplifiers have played, are playing or will play a key role.
+
+Find out more by visiting the site, which is available in three languages (English, French and German) and make sure you share it with your contacts on your social media channels!
+
+What you'll find on the website:
+
+The website enables you to visualize the solar system, the different planets and the missions carried out on each of them.
+
+You will also find the details of these missions such as dates, objectives and tubes used.
+
+For more information: visit the Thales TWTs Space Adventure website!","{'label': 'Neutral', 'score': 0.999895453453064}",neutral,0.999895453453064,0
+GO Transit Trial Advances All-Weather Autonomous Ops - RailwayAge Magazine,"Fri, 01 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnJhaWx3YXlhZ2UuY29tL25ld3MvZ28tdHJhbnNpdC10cmlhbC1hZHZhbmNlcy1hbGwtd2VhdGhlci1hdXRvbm9tb3VzLW9wcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Successful completion of an autonomous technology trial at GO Transit could herald the next step in semi-autonomous engineer-assist—or even autonomous—operation in Canada’s typically cold winters.
+
+A consortium of Thales (whose Ground Transportation Systems division is soon to be acquired by Hitachi Rail), Invision AI and Metrolinx has completed an 18-month WinterTech Program trial in Ontario that could result in Canada becoming the first country to introduce advanced engineer-assist and autonomous technologies that can function in all weather conditions. The trial was designed to validate the functionality and reliability of a rail-centric autonomous system that enables situational awareness, safety enhancements and operational benefits in all conditions, with Invision AI emphasizing that the technology can withstand harsh Canadian winters.
+
+Funding for the trial came via the Ontario government through its Autonomous Vehicle Innovation Network (AVIN) WinterTech Development Program.
+
+Shutterstock
+
+Since January 2021, a Metrolinx GO Transit train has been equipped with the system, which successfully operated in shadow mode on several lines emanating from Toronto Union Station, collecting data from various sensors including radars, cameras and LIDAR. This system was powered by cyber-secured 4G/LTE capabilities, and the data was used to train the system to recognize obstacles and other hazards in all weather conditions.
+
+Benefits of introducing the system, consortium noted, include “enhanced safety through the deployment of sensors able to detect and track potential obstacles, rapid installation time due to the minimal equipment footprint, and accurate real-time data collection that is crucial for both maintenance and operations teams. Passengers are expected to benefit through fewer delays, improved safety and enhanced reliability of the rail network. Further upgrades can also be supported through modular design, and the system can also be combined with smart monitoring systems at grade crossings and stations to provide further safety enhancements by enabling beyond-line-of-sight reactions for approaching trains.”
+
+“The team at Invision AI is incredibly excited by the opportunity to develop a high-integrity train situational awareness system together with Thales and Metrolinx,” said Karim Ali, CEO, Invision AI. “We brought together the partners with the software, hardware and operational expertise to build an autonomous rail system capable of withstanding our harsh Canadian winter. We are proud to be setting a strong foundation for rail autonomy and solving global challenges right here in Ontario.”
+
+Thales is proud to have achieved this important milestone towards train autonomy in partnership with Metrolinx and Invision AI, said Chris Pogue, CEO, Thales Canada. “Thales is committed to collaboration across all of our markets in Canada. The WinterTech project demonstrates the tremendous value that partnerships with start-ups and SMBs can deliver for Ontario. By bringing together our unique technological capabilities, together we are offering valuable made-in-Ontario solutions to our customers..”
+
+“This unique partnership between Invision AI, Thales and Metrolinx offers enhanced safety and efficiency for rail systems around the world, particularly those operating in harsh winter climates.” said Vic Fedeli, Ontario Minister of Economic Development, Job Creation and Trade. “Supporting research and development projects like this one, which enable the safe operation of advanced connected and autonomous mobility technologies in winter conditions, is why AVIN’s Winter Tech Development Program was created. It brings together ambitious technology start-ups and industry leaders to pioneer advanced mobility technologies with global potential.”
+
+View a video on this project:
+
+Railway Age Editor-in-Chief William C. Vantuono contributed to this story.","{'label': 'Positive', 'score': 0.9999967813491821}",positive,0.9999967813491821,1
+P&G Paper Tubes: a supply chain success story creating local opportunities - Thales,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9hdXN0cmFsaWEvcmVmZXJlbmNlcy9wZy1wYXBlci10dWJlcy1zdXBwbHktY2hhaW4tc3VjY2Vzcy1zdG9yeS1jcmVhdGluZy1sb2NhbC1vcHBvcnR1bml0aWVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"With competitive prices and a fast turnaround speed, there is no wonder P&G Paper Tubes are popular Australia and New Zealand wide. P&G Paper Tubes are an Australian manufacturer specialising in spiral wound cardboard tubes and cores since 2017.
+
+The offering of speciality items such as water-resistant cores, which they are the sole Australian manufacturer of, has enabled P&G Paper Tubes to stand out from their competitors. The team of eight also recognise their ability to offer excellent customer service as a credit to their success.
+
+After an existing overseas vendor could no long supply cardboard tubes, Thales looked for a manufacturer closer to home and the rest is history. The Laverton, Victoria based business seemed like the ideal choice as P&G Paper Tubes have formed part of the Australian Munitions’ extensive SME Supply Chain program since March 2021.
+
+“To have a partnership with a blue-chip company like Thales which recognises that value can be made locally and in the lives of our newest Australians means a lot to us. We are opening the doors to refugees who have amazing talent. We have a safe and productive factory with a workforce that speaks eight different languages.” Said Arpan Singh, P&G Paper Tubes’ Director of Marketing.
+
+P&G Paper Tubes supply Australian Munitions with Cardboard Inner and Outer Tubes which are used as a protective packing surround to contain the 30mm EOD Cart inside an M2A1 metal Tin. They will be used when ready to deliver, fulfilling the current order from Defence for 30mm EOD Cartridges.
+
+Discussing the product requirements and quality in detail with Australian Munitions, P&G Paper Tubes were able to fulfil the order in a timely manner and successfully met expectations.
+
+“P&G Paper Tubes were flexible in their approach and were able to adapt their processes to our specifications. By producing specialised tooling (mandrels), P&G were able to wind the cardboard to our required tight tolerance dimensions.” Said Glenn Milner, Supplier Technical Assurance Officer at Australian Munitions
+
+The COVID-19 pandemic caused significant disruption across the globe, drawing significant focus on sustaining local manufacturing. The team at P&G Paper Tubes acknowledge that previously it was tempting for bigger companies to work with overseas manufacturers to save economically. However, now there is more recognition of the benefits that Australian manufacturing provide. These benefits include increased flexibility and improved lead times.
+
+The SME Supply Chain program has encouraged the development of Sovereign Capability within Australia. A recent report by Accenture found that Thales Australia spent $657 million with 1841 Australian suppliers, which directly supported 2,051 jobs in 2020. P&G Paper Tubes emphasise that the industry can build Australian products and livelihoods if SMEs and larger companies partner together. “I wish there were more forward-thinking companies like Thales.” Said Mr Singh.
+
+Contact us to find out more or discuss how you can partner with us and contribute to local job creation, and secure Australia’s sovereign defence capabilities.","{'label': 'Positive', 'score': 0.9999881982803345}",positive,0.9999881982803345,1
+Thales Australia to maintain MU90 LightWeight torpedo of Australian Navy - Navy Recognition,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMipAFodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlLzIwMjEvb2N0b2Jlci8xMDgwMi10aGFsZXMtYXVzdHJhbGlhLXRvLW1haW50YWluLW11OTAtbGlnaHR3ZWlnaHQtdG9ycGVkby1vZi1hdXN0cmFsaWFuLW5hdnkuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"According to information released on October 6, 2021, Thales Australia welcomes the announcement by Defence Industry Minister Melissa Price to award a $20m contract to maintain the Royal Australian Navy’s MU90 Light Weight torpedo, demonstrating Thales’s established capability in Australia to sustain guided munitions and weapons systems.
+
+Follow Navy Recognition on Google News at this link
+
+An MU-90 TVE Torpedo is fired from HMAS Warramunga during a weapons training exercise in the Western Australian Exercise Area. (Picture source Australia MoD)
+
+The MU90 has been successfully supported by Thales Australia’s facility in Rockingham, Western Australia since it entered into service with the Navy in 2013.
+
+The renewal of the in-service support contract for 3 years will be delivered utilizing 100% Australian Industry Capability (AIC), and will directly support jobs with Thales in Western Australia, and more in Thales’s local WA supply chain.
+
+Over the past decade, Thales has built a sovereign industrial capability in WA to ensure Australia has the capability to fully support the MU90 torpedo.
+
+The MU90 is an advanced lightweight anti-submarine torpedo of the 3rd generation[3] developed by France and Italy for navies of France, Italy, Germany, Denmark, Australia and Poland. Designed and built with the most advanced technology, the weapon is a fire-and-forget type, conceived to cope with any task any environment capability requirements and meet the ASW (Anti-Submarine Warfare) operational needs of the 21st century.
+
+
+
+The MU90 has been designed to counter any type of nuclear or conventional submarine, acoustically coated, deep and fast-evasive, deploying active or passive anti-torpedo effectors. The torpedo can be deployed by any type of platform such as surface vessels, fixed or rotary-wing aircraft, or missiles. Pre-arrangements to cope with Submarine-Launched Anti-Air Missiles (SLAAM) have been already incorporated into the system.
+
+
+
+The MU90 torpedo is 323.7mm ‘NATO Standard’ calibre, weight 304 kg and has a length of 2850mm long. The torpedo is powered through an Aluminium-Silver Oxide sea water battery using dissolved sodium-dioxide powder as electrolyte and incorporating an advanced closed-loop electrolyte re-circulation system, the torpedo is propelled by an electronically controlled high-RPM brush-less motor driving a skewed multi-blades pumpjet propulsor allowing a continuously variable torpedo speed automatically selected by the tactics of the weapon according to the scenario, the environment and the operational phase.
+
+
+
+The Mu-90 torpedo operates without any speed degradation and any limitation of salinity and temperature in water depths in excess of 1,000 m and as shallow as 25 m, retaining navigation capability up to 3 m. The advanced acoustic seeker features multi pre-formed transmission and reception beams.","{'label': 'Neutral', 'score': 0.9879395961761475}",neutral,0.9879395961761475,0
+Thales looking at providing cyber security solutions for Indian armed forces - The Times of India,"Sun, 10 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS90aGFsZXMtbG9va2luZy1hdC1wcm92aWRpbmctY3liZXItc2VjdXJpdHktc29sdXRpb25zLWZvci1pbmRpYW4tYXJtZWQtZm9yY2VzL2FydGljbGVzaG93Lzg2OTE0MTAwLmNtc9IBkwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS90aGFsZXMtbG9va2luZy1hdC1wcm92aWRpbmctY3liZXItc2VjdXJpdHktc29sdXRpb25zLWZvci1pbmRpYW4tYXJtZWQtZm9yY2VzL2FtcF9hcnRpY2xlc2hvdy84NjkxNDEwMC5jbXM?oc=5&hl=en-US&gl=US&ceid=US:en,"NEW DELHI: Leading French defence major Thales Group is planning to focus significantly on addressing requirements of the Indian armed forces for new-age cyber security solutions, artificial intelligence and advanced capabilities in big data analytics.Chairman and CEO of Thales Group Patrice Caine said the company has been looking at expanding its overall footprint in India, particularly in the areas of emerging technologies that will be crucial for the armed forces.The Indian Army , the Navy and the Indian Air Force have been focusing on acquiring futuristic technologies like nanotechnology, quantum computing, artificial intelligence, swarm drones and robotic technologies to deal with future security challenges.Caine said Thales Group is aiming at expanding its overall footprint in India in a number of segments, including in areas of cyber security, artificial intelligence and digital solutions.""We are also looking at bringing some key pieces of equipment and systems to contribute to raise our level of involvement in sharing defence technologies with India's defence sector in the field of sonar, radars and other platforms,"" he told PTI.However, he refused to share the details. Caine said that India's defence manufacturing sector is moving in the right direction riding on a series of policy initiatives by the government and Thales would like to be a key partner of the country in its quest to become a key producer of military platforms and solutions.""We are totally committed to help India expand its defence production under the 'Make in India Initiative' by producing equipment either on our own or with our partners. India has a good talent pool to develop cyber-security solutions, AI applications and big data analytics,"" he said.India is expected to spend close to USD 300 billion in the next five years in procuring defence equipment and almost all major global defence firms are eyeing a slice of it.The Thales Chairman and CEO also indicated that the company is looking at having joint ventures with a number of Indian companies for a range of prodicts and military solutions but refused to share details.He said India is now considered as a key country for sourcing various raw materials for the company's global production line and it is going to double procurement from the country in the next five years.""India is now a key and reliable country in our global supply chain,"" he said.Thales is part of the French firms that provided key components for the Rafale jets procured by India.As part of Thales' offsets commitments under the Rafale deal, the company helped Bharat Electronics Ltd (BEL) in producing modules for the RBE2 radar.Thales has been providing avionics and other equipment to the state-run aerospace behemoth Hindustan Aeronautics Limited for over four decades and is involved in supplying equipment for various other key military projects.Present in India since 1953, Thales has offices in New Delhi, Gurgaon, Hyderabad, Bengaluru, Chennai and Mumbai, among others. Over 600 employees are working with Thales and its joint ventures in India.Caine also complimented India's reform measures aimed at boosting defence manufacturing.The government has initiated a series of measures in the last couple of years to encourage the domestic defence industry.In August last year, it was announced that India will stop the import of 101 weapons and military platforms like transport aircraft, light combat helicopters, conventional submarines, cruise missiles and sonar systems by 2024.A second negative list, putting import restrictions on 108 military weapons and systems such as next-generation corvettes, airborne early warning systems, tank engines and radars, was issued recently.In May last year, the government announced increasing the FDI limit from 49 per cent to 74 per cent under the automatic route in the defence sector.The government has been focusing on reducing dependence on imported military platforms and has decided to support domestic defence manufacturing.The Defence Ministry has set a goal of a turnover of USD 25 billion (Rs 1.75 lakh crore) in defence manufacturing by 2025 that included an export target of USD 5 billion (Rs 35,000 crore) worth of military hardware.","{'label': 'Neutral', 'score': 0.9997866749763489}",neutral,0.9997866749763489,0
+Portuguese railways awards Thales with signalling modernisation contracts - Global Railway Review,"Tue, 19 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTI4ODMyL3BvcnR1Z2FsLXJhaWx3YXlzLXRoYWxlcy1zaWduYWxsaW5nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Portuguese railways awards Thales with signalling modernisation contracts
+
+6 SHARES
+
+Posted: 19 October 2021 | Thales |
+
+Thales will modernise Portugal’s railway network with new and state-of-the-art electronic signalling systems for the Cascais Line, the West Line and Santa Apolonia Station.
+
+Infraestruturas de Portugal, S.A. (IP) is taking another important step in the continuous modernisation of the Portuguese railways by awarding to Thales with three new contracts for the modernisation of the signalling systems along the Cascais Line, the West Line (between Meleças and Caldas da Rainha stations) and Santa Apolónia Station in the Lisbon region.
+
+Cascais is one of the most important commuter lines in the Lisbon Metropolitan Area, playing an important role on passengers’ mobility, serving a dense urban area and an extremely important touristic zone.
+
+Santa Apolónia is one of the main intercity terminus stations in Lisbon and one of the most iconic and relevant spots of Portuguese railways.
+
+The scope of these three contracts includes the supply of the new electronic interlocking PIPC G3 (Generation 3), ETCS Level 2 on the Cascais Line, new train detection system (track circuits), point machines, level crossings and power supply system, in line with the solutions already being deployed in the Portuguese railway network by Thales. Thales will be responsible for the design, validation, supply, installation, testing and commissioning, safety, civil works and 10 years of maintenance.
+
+Thales is very pleased to further support IP by contributing towards its ambition to facilitate the connection of people and goods, to deliver safe, comfortable seamless travel.
+
+Thales has been a key player in the Portuguese railways infrastructure modernisation programme for many years, starting with Infraestruturas de Portugal (at that time named CP and then REFER) in the early 1990s, with the introduction of new electronic Interlocking systems and state-of-the-art telecommunications and passenger information and comfort systems.
+
+Additionally, Thales was also responsible for the design and implementation of the new Lisbon Operational Control Centre, which today covers 70 per cent of Portuguese rail traffic and played a significant role in transforming Portugal with the introduction of ETCS Level 2 on the Beira Alta Line and in the International South Corridor (Évora-Elvas-Caia), defining thus a new important step within the history of the national railway.
+
+With its long-time expertise and diverse skilled employees, Thales has been able to establish itself as the leading supplier of modern signalling and telecommunications technology for the Portuguese railway network.","{'label': 'Neutral', 'score': 0.9999953508377075}",neutral,0.9999953508377075,0
+Spanish rail infrastructure cartel exposed and fined €127.3m - International Railway Journal,"Thu, 07 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9maW5hbmNpYWwvc3BhbmlzaC1yYWlsLWluZnJhc3RydWN0dXJlLWNhcnRlbC1leHBvc2VkLWFuZC1maW5lZC1lMTI3LTNtL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"SPAIN’s National Commission of Markets and Competition (CNMC) has imposed fines totalling €127.3m on Alstom, Bombardier, CAF Signalling, Cobra, Nokia, Siemens Rail, Siemens SA, and Thales, while 10 of their executives have been fined €483,000, for their participation in a cartel.
+
+Cobra was fined €30m, Nokia €24m, Alstom €22m, Siemens Rail €18.9m, Thales €17.02m, Siemens S.A €10m, Bombardier €3.686m and CAF Signalling €1.73m.
+
+Three directors were fined €60,000, one €54,000, one €53,000, one €50,000, one €43,000, one €41,000, one €34,000 and one €28,000.
+
+Information provided by Siemens Rail and Siemens SA and its director Mr Gonzalo Martinez Delgado, resulted in a 50% reduction in their respective fines, meaning Siemens Rail must pay €9.45m, Siemens SA €5m and Delgado €17,000.
+
+The CNMC says the companies created a cartel that fraudulently distributed at least 82 tenders from the Ministry of Development, the former Railway Infrastructure Manager (GIF) and later, from current infrastructure manager Adif, between 2002 and 2017 for the construction, execution of works, supply, installation, commissioning and maintenance of the security and communications of the Spanish high-speed (AVE) and the conventional networks.
+
+During the 15-year period from 2002 to 2017 the companies won contracts worth €4.142bn. In some cases these last until 2035, 2037, 2038 and 2040. The CNMC says this had an impact on the treasury since the companies increased the price GIF, and later Adif, paid for this type of contract.
+
+CNMC says the dismantling of several cartels in 2019 (surrounding railway electrification and electrochemical equipment) prompted these sanctions. At that point, the CNMC imposed 15 companies with €118m in fines for forming cartels that distributed public tenders for the electrification of the AVE and conventional Spanish networks.
+
+Information collected during that investigation, especially during inspections of some companies, alerted the CNMC to the possibility of anti-competitive practices that would affect tenders called for security, signalling and communications facilities.
+
+CNMC inspected Thales’ headquarters in May 2017, and, following the leniency request presented by Siemens in June 2017, it also inspected the Bombardier and CAF signalling headquarters in December 2017.
+
+CNMC says the cartel arose in 2002 at the initiative of the two main companies in the market at the time, Alcatel (which was bought by Thales in 2007) and Dimetronic (which was included as part of Siemens’ acquisition of Invensys Rail in 2013). The aim was not to compete but divide the tenders through the constitution of a Temporary Union of Companies.
+
+Both companies shared the amounts awarded which, in the initial agreement was set at 50-50% but later adjusted to 55-45%, and also the signalling technology used. In this way they were able to introduce their technological systems in the tenders won by 50% and the maintenance contracts (and subsequent renewals) were also guaranteed. Siemens SA joined the cartel in 2003, NSN (now Nokia) in 2007 and Cobra in 2008.
+
+As new companies entered the market, and with Adif introducing changes in 2011, the evaluation of the economic component of the tenders favoured presentation of offers with more competitive prices. However, CNMC says that instead of maintaining competitive tension, previously competing companies agreed to establish distribution quotas on tenders and joined the cartel. Alstom and Bombardier joined in 2014, and CAF Signalling in 2015.
+
+The CNMC says there is no administrative appeal against this resolution and a contentious administrative appeal may be filed at the National High Court within two months from the day following its notification.
+
+According to Reuters, Siemens said it supported the CNMC probe and took appropriate organisational and personnel measures before the fines were announced. “Siemens has zero tolerance for corruption,” the company said in a statement.
+
+A Nokia spokesperson told Reuters that the company fully cooperated with the CNMC's investigation and believes it acted lawfully.
+
+“We are going to appeal the decision and request suspension of all sanctions pending the appeal,” the spokesperson said.","{'label': 'Neutral', 'score': 0.9994839429855347}",neutral,0.9994839429855347,0
+Thales unveils GO 20 MM Ground Observer 20 Multi-Mission radar for UAV detection and ground surveillance ... - Army Recognition,"Thu, 07 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiwQFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vZGVmZW5zZV9uZXdzX29jdG9iZXJfMjAyMV9nbG9iYWxfc2VjdXJpdHlfYXJteV9pbmR1c3RyeS90aGFsZXNfdW52ZWlsc19nb18yMF9tbV9ncm91bmRfb2JzZXJ2ZXJfMjBfbXVsdGktbWlzc2lvbl9yYWRhcl9mb3JfdWF2X2RldGVjdGlvbl9hbmRfZ3JvdW5kX3N1cnZlaWxsYW5jZS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A reference in the field of Ground surveillance radars, Thales, a trusted historical partner to forces worldwide, now unveils its latest innovation: the GO 20 MM radar. Uniquely combining ground and low-level air surveillance in a single surveillance asset, the radar offers exceptional early UAV detection and automatic classification.
+
+Follow Army Recognition on Google News at this link
+
+
+
+Thales Ground Observer 20 Multi-Mission (GO 20 MM) radar (Picture source: Thales)
+
+Situational awareness on the battlefield is critical to maintaining the tactical advantage. Yet the increasing pace of technology is constantly challenging this advantage. The growing number of Unmanned Arial Systems (UAV), in particular micro-drones, is significantly contributing to shifting battlefield supremacy. High proliferation and the constant evolution of UAV capabilities in terms of autonomy, payload & swarm navigation increases the level of this threat day by day.
+
+Providing coverage of the full spectrum of threats in the field, the GO20 MM provides continuous 360° 3D coverage for a multitude of threats. The radar surveys a large volume in 3D, with fast update rates, enabling early detection and automatic classification of long-range drones especially when they are not yet a threat, providing additional crucial seconds for C-UAV measures.
+
+Through a clear, simple HMI Venus interface, operators automatically and easily recognize a threat, gaining precious time to decide if and what counter-strategy to adopt. In complex scenarios such as asymmetric conflicts or high-density combat, the ability to classify automatically and quickly to get a fast situation picture provides a tactical advantage.
+
+Thanks to its compact size and modular configuration, the GO20 MM is easily transportable and deployable. In 5 minutes, two soldiers can set it up and quickly redeploy for a new mission, whether on a mast or for off-board operations.
+
+With its six-pack battery, the GO20 MM provides Armed and Special Forces with seamless situational awareness for hours and high levels of protection. Choosing to opt-out of the generator option, Thales has made sure that the GO20 MM remains quiet and highly transportable ensuring mission success.
+
+""With more than 50 years of experience in radars and thousands of ground surveillance radars around the world, Thales continues to invest and bring tactical advantage to forces in the field. Given the strong track record of all the ground-based radars from the Ground Alerter and Ground Observer portfolio, this latest family member adds a new dimension to early drone detection and provides superior support to forces battlefield supremacy” Maja Velimirovic, Director Land and Air Systems, Thales in Germany.","{'label': 'Positive', 'score': 0.9999743700027466}",positive,0.9999743700027466,1
+SAMP/T radar upgrade takes its cue from Sea Fire | Shephard - Shephard News,"Mon, 18 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnNoZXBoYXJkbWVkaWEuY29tL25ld3MvZGlnaXRhbC1iYXR0bGVzcGFjZS9zYW1wdC1yYWRhci11cGdyYWRlLXRha2VzLWl0cy1jdWUtZnJvbS1zZWEtZmlyZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The French armed forces are performing an overarching upgrade of the Eurosam Surface-to-Air Missile Platform/Terrain (SAMP/T) ground-based air defence system, under the supervision of defence procurement agency DGA.
+
+SAMP/T fires the MBDA ASTER-30 active radar homing SAM. A full SAMP/T system for the French Air and Space Force comprises up to six launch vehicles and a C2 vehicle. These are accompanied by an Arabel X-band (8.5-10.68GHz) ground-based air surveillance/fire control radar.
+
+Arabel detects air targets and guides the missiles using a radio datalink. In the SAMP/T upgrade, Arabel is being replaced by the Thales X-band Ground Fire system on a one-for-one","{'label': 'Neutral', 'score': 0.9975541234016418}",neutral,0.9975541234016418,0
+Bangladesh modernises its Air Traffic Management Infrastructure - Arabian Aerospace,"Thu, 28 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHA6Ly93d3cudGltZXNhZXJvc3BhY2UuYWVyby9uZXdzL3RlY2hub2xvZ3kvYmFuZ2xhZGVzaC1tb2Rlcm5pc2VzLWl0cy1haXItdHJhZmZpYy1tYW5hZ2VtZW50LWluZnJhc3RydWN0dXJl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The project will involve the modernisation of the en-route, approach and tower system at Dhaka’s HSIA airport, with equipment to be installed also at other regional airports throughout Bangladesh. Thales will provide complete new automated systems including ATC automation, primary and secondary radars (STAR NG and RSM), ADS-B, Wide Aera Multilateration, Airport Multilateration, Datalink and countrywide VSAT communications and terrestrial network as backup to VSAT. This project will provide Bangladesh with the most modern nationwide air surveillance.
+
+An iconic 45 metre high Control Tower and Air Traffic Management Centre will be built at HSIA, equipped with a state-of-the-art security system providing CCTV coverage and access control on an integrated platform. The CAAB’s controllers will work with the latest automation technologies to support the future growth of air traffic in the country. The project is expected to be completed by 2024.
+
+“Thales is pleased to be a trusted partner, playing a key role in establishing a safe and reliable turnkey air traffic solution, leveraging on decades of experience to support CAAB in the design, implementation and operation of the most suitable turnkey ATM solution.” Christian Rivierre, vice-president airspace mobility solutions, Thales
+
+“Capitalising on more than 900 ATC radars installed around the world, Thales is proud to support CAAB in its modernisation offering the best in air surveillance”. Marie Gayrel, Director of civil radars, Thales","{'label': 'Neutral', 'score': 0.9539530277252197}",neutral,0.9539530277252197,0
+Mission Make in India: Thales sources €500 million worth of components locally - BusinessLine,"Mon, 11 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbmV3cy9taXNzaW9uLW1ha2UtaW4taW5kaWEtdGhhbGVzLXNvdXJjZXMtNTAwLW1pbGxpb24td29ydGgtb2YtY29tcG9uZW50cy1sb2NhbGx5L2FydGljbGUzNjkzMjkyMi5lY2XSAY8BaHR0cHM6Ly93d3cudGhlaGluZHVidXNpbmVzc2xpbmUuY29tL25ld3MvbWlzc2lvbi1tYWtlLWluLWluZGlhLXRoYWxlcy1zb3VyY2VzLTUwMC1taWxsaW9uLXdvcnRoLW9mLWNvbXBvbmVudHMtbG9jYWxseS9hcnRpY2xlMzY5MzI5MjIuZWNlL2FtcC8?oc=5&hl=en-US&gl=US&ceid=US:en,"French aerospace and tech giant Thales has completed €500 million worth of local sourcing from India and intends to grow it further to over €1 billion over the next five years, according to Patrice Caine, Chairman and Chief Executive Officer, Thales Group.
+
+“We look at India as a top country; not just as a market but also as an export hub. We have sourced and supplied more and more from India as it has a good ecosystem. We intend to grow it as part of our global supply chain,” Caine told BusinessLine.
+
+JV with Reliance
+
+Thales’ strategy of developing its industrial footprint in India is in line with the Union government’s policy of “Make in India”.
+
+The company has formed various co-operative partnerships with public and private sector industries including Samtel, BEL, L&T Technology Services and Reliance Aerostructure Ltd.
+
+Thales also has a joint venture with Reliance Defence Ltd leveraging the offset commitment as part of Rafale deal between India and France.
+
+“The JV with Reliance is up and running. We have integrated radars and other equipment which now help to serve the Rafale commitment.
+
+“The second step is to develop and increase these competencies in terms of support and maintenance from India,” Caine said.
+
+Thales provides a number of modern equipment and systems aboard the Rafale. They include the RBE2 AESA radar, the Spectra electronic warfare system, optronics, the communication navigation and identification system, the majority of the cockpit display systems, power generation systems, and a logistics support component. “We have doubled our turnover from India in the past three years. I see growth potential in defence and aerospace. We also find excellent competencies in India in terms of talent,” Caine said.
+
+Competence centres
+
+The French company has expanded its presence in India through the development of Group Engineering Competence Centre (ECC) aimed at offering high-level expertise in four key digital technologies: the Internet of Things (IoT)/connectivity, Big Data, Artificial Intelligence and Cybersecurity.
+
+The ECC in Noida is focused on the Digital Identity and Security business of Thales.
+
+The ECC in Bengaluru focuses on hardware, software and systems engineering capabilities for aerospace, transportation and defence sectors, serving global needs.
+
+In India, Thales hired over 300 employees in 2020 and plans to hire 300 more in 2021.
+
+SHARE Copy link
+
+Email
+
+Facebook
+
+Twitter
+
+Telegram
+
+LinkedIn
+
+WhatsApp
+
+Reddit","{'label': 'Positive', 'score': 0.8040249943733215}",positive,0.8040249943733215,1
+Thales looking at providing cyber security solutions for Indian armed forces - ETCIO,"Mon, 11 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMilAFodHRwczovL2Npby5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZGlnaXRhbC1zZWN1cml0eS90aGFsZXMtbG9va2luZy1hdC1wcm92aWRpbmctY3liZXItc2VjdXJpdHktc29sdXRpb25zLWZvci1pbmRpYW4tYXJtZWQtZm9yY2VzLzg2OTI4Mzg40gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Leading French defence major Thales Group is planning to focus significantly on addressing requirements of the Indian armed forces for new-age cyber security solutions, artificial intelligence and advanced capabilities in big data analytics.
+
+
+
+The Indian Army, the Navy and the Indian Air Force have been focusing on acquiring futuristic technologies like nanotechnology, quantum computing, artificial intelligence, swarm drones and robotic technologies to deal with future security challenges.
+
+
+
+Caine said Thales Group is aiming at expanding its overall footprint in India in a number of segments, including in areas of cyber security, artificial intelligence and digital solutions.
+
+
+
+
+
+Advt
+
+Advt
+
+Advt
+
+Advt
+
+Join the community of 2M+ industry professionals Subscribe to our newsletter to get latest insights & analysis. Download ETCIO App Get Realtime updates
+
+Save your favourite articles Scan to download App
+
+""We are also looking at bringing some key pieces of equipment and systems to contribute to raise our level of involvement in sharing defence technologies with India's defence sector in the field of sonar, radars and other platforms,"" he told PTI.However, he refused to share the details. Caine said that India's defence manufacturing sector is moving in the right direction riding on a series of policy initiatives by the government and Thales would like to be a key partner of the country in its quest to become a key producer of military platforms and solutions.""We are totally committed to help India expand its defence production under the 'Make in India Initiative' by producing equipment either on our own or with our partners. India has a good talent pool to develop cyber-security solutions, AI applications and big data analytics,"" he said.India is expected to spend close to USD 300 billion in the next five years in procuring defence equipment and almost all major global defence firms are eyeing a slice of it.The Thales Chairman and CEO also indicated that the company is looking at having joint ventures with a number of Indian companies for a range of products and military solutions but refused to share details.He said India is now considereda key country for sourcing various raw materials for the company's global production line and it is going to double procurement from the country in the next five years.""India is now a key and reliable country in our global supply chain,"" he said.Thales is part of the French firms that provided key components for the Rafale jets procured by India.As part of Thales' offsets commitments under the Rafale deal, the company helped Bharat Electronics Ltd (BEL) in producing modules for the RBE2 radar.Thales has been providing avionics and other equipment to the state-run aerospace behemoth Hindustan Aeronautics Limited for over four decades and is involved in supplying equipment for various other key military projects.Present in India since 1953, Thales has offices in New Delhi, Gurgaon, Hyderabad, Bengaluru, Chennai and Mumbai, among others. Over 600 employees are working with Thales and its joint ventures in India.Caine also complimented India's reform measures aimed at boosting defence manufacturing.The government has initiated a series of measures in the last couple of years to encourage the domestic defence industry.In August last year, it was announced that India will stop the import of 101 weapons and military platforms like transport aircraft, light combat helicopters, conventional submarines, cruise missiles and sonar systems by 2024.A second negative list, putting import restrictions on 108 military weapons and systems such as next-generation corvettes, airborne early warning systems, tank engines and radars, was issued recently.In May last year, the government announced increasing the FDI limit from 49 per cent to 74 per cent under the automatic route in the defence sector.The government has been focusing on reducing dependence on imported military platforms and has decided to support domestic defence manufacturing.The Defence Ministry has set a goal of a turnover of USD 25 billion (Rs 1.75 lakh crore) in defence manufacturing by 2025 that included an export target of USD 5 billion (Rs 35,000 crore) worth of military hardware.","{'label': 'Neutral', 'score': 0.9973934888839722}",neutral,0.9973934888839722,0
+Monaco strengthens cyber security for Prince's Government - Hello Monaco!,"Tue, 26 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5oZWxsb21vbmFjby5jb20vbmV3cy9sYXRlc3QtbmV3cy9tb25hY28tc3RyZW5ndGhlbnMtY3liZXItc2VjdXJpdHktZm9yLXByaW5jZXMtZ292ZXJubWVudC1qb2luaW5nLWZvcmNlcy13aXRoLXRoYWxlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is joining forces with the Monaco Cyber Security Agency to help the Prince’s Government, public services and critical infrastructure operators improve their cyber security. The group is supplying a range of cutting-edge cyber technologies to Monegasque stakeholders.
+
+With cyber risks becoming an ever-increasing threat, the Principality of Monaco took action on the issue in 2016, when legislation aimed at countering high-tech crime was adopted. Today, the Monaco Cyber Security Agency is working with Thales on the implementation and interaction of cutting-edge cyber security technologies to improve the digital security of the Government and various institutions, businesses and critical infrastructure operators in the country. Under this partnership, Thales is supplying a range of its solutions and services, including Citadel Team to secure communications, as well as Cybels Sensor, a trusted probe, and Cyber Threat Intelligence, a cyber attack analysis service, both of which are integrated within Cybels Analytics, an innovative attack detection platform relying on big data. The group will also study the interoperability of these solutions.
+
+In an ever more connected world, the security of networks and information systems must be constantly updated. The institutions, businesses and critical infrastructure operators that are essential to the smooth running of our lives are the most exposed to cyber challenges, which are among the biggest threats of the twenty-first century. Hackers, who are always at the forefront of innovation, are stepping up their tricks and attacks, meaning that data protection solutions are absolutely vital.
+
+In Monaco, the Monaco Cyber Security Agency (AMSN ) is the national authority responsible for the security of information systems. As an information security and cyberattack expertise and response centre, it is the agency’s duty to prevent, detect and deal with cyber-attacks, and to educate public services and critical infrastructure operators about digital security requirements. To ensure ever better protection, the Monaco Cyber Security Agency is drawing on the cyber technologies offered by Thales and is working closely with the group to integrate a range of key tools within a shared platform: the Cyber Threat Intelligence Service (CTI), the Cybels Sensor trusted probe, and the Cybels Analytics technology, based on a Citadel Team secure, sovereign messaging solution.
+
+In a world where information and knowledge are key, Thales has provided the Monaco Cyber Security Agency with its CTI service, which is used to receive, analyse and sort all information relating to a cyberattack. To do this, CTI relies on a platform which is constantly collecting information about threats and the attacker’s modus operandi from a variety of sources (cyber surveillance tools, websites, etc.). In this way, CTI makes it possible to map threats to targeted systems in order to adapt its line of defence as securely as possible.
+
+Thales is also supplying the Monegasque agency with its detection probe, Cybels Sensor, which can incorporate detection rules provided by the CTI service. By analysing large volumes of data in real time and detecting potential threats within that data, the probe can alert the teams responsible for security oversight at the earliest possible stage and maximise protection of the networks under surveillance.
+
+With the advent of artificial intelligence algorithms, Thales has introduced the Cybels Analytics solution, offering the ability to quickly identify the most complex cyber-attacks using the group’s TrUE AI technology. To better identify and respond to these attacks, the platform relies on Thales’ own artificial intelligence algorithms and is also capable of detecting anomalous situations using heterogeneous data from multiple sources. Ultimately, Cybels Analytics offers a more precise analysis of non-targeted attacks and considerable time savings.
+
+Finally, since 2020, the COVID-19 health crisis has given digital transformation a boost with the extensive use of teleworking, which has made data protection more critical than ever. To guarantee data security and improve data storage, Thales is supplying its Citadel Team encrypted messaging service, a trusted hosting platform that guarantees data sovereignty. Able to adapt easily to meet corporate communications needs, the Citadel Team platform offers an unparalleled level of security for professional and personal discussions, without cutting any corners with respect to protecting data (whether sensitive or otherwise) or ergonomics.
+
+These sophisticated technological solutions deliver an extremely high level of protection and security, making it easier to anticipate, detect and react to potential cyberattacks. By adapting its cyber security products and services to the Principality of Monaco’s ecosystem and various business sectors, Thales is helping the Monaco Cyber Security Agency to improve the operational efficiency of its products and services.
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global technology leader, which is investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum technology – to build a future we can all trust, one that is essential for societies to flourish. The group offers solutions, services and products that help its clients – businesses, organisations and states – in the fields of defence, aeronautics, space, transport and digital identity and security, enabling them to fulfil their critical missions by placing people at the heart of decision-making.
+
+Thales has 81,000 employees in 68 countries. In 2020, the group achieved revenue of €17 billion.
+
+About the Monaco Cyber Security Agency
+
+The Monaco Cyber Security Agency is the specialist national body that is responsible for the security of information systems in the Principality. It operates under the direct authority of the Minister of State. Established in December 2015, it is a centre of expertise that responds to digital attacks. Its primary remit includes preventing, detecting and handling cyberattacks.
+
+Source: www.gouv.mc","{'label': 'Positive', 'score': 0.9195051789283752}",positive,0.9195051789283752,1
+Thales Australia wins torpedo deal - APDR - Asia Pacific Defence Reporter,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL3RoYWxlcy1hdXN0cmFsaWEtd2lucy10b3JwZWRvLWRlYWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The maintenance of the Royal Australian Navy’s advanced lightweight anti-submarine torpedo will continue in Western Australia after the government awarded the $20 million contract to Thales Australia.
+
+Minister for Defence Industry Melissa Price said the contract to sustain the MU90 Light Weight Torpedo reflected the Government’s continued support for Australia’s defence industry. “This is yet another demonstration of the Morrison Government’s commitment to building our sovereign defence capability,” Price said. “I am proud that Thales Australia has been awarded this contract to continue with the in-country, in-service support provided at its Rockingham facility in WA. Thales Australia is among many local defence businesses providing robust, secure domestic supply chains and high-tech jobs for working Australians. Thales is to be congratulated for again demonstrating the necessary skills and ability to provide this vital technical support. The Commonwealth assessed high quality, value-for-money sustainment options and found the best solution right here on home soil.”
+
+The Royal Australian Navy has used the MU90 Light Weight Torpedo since 2013, and Thales has held the support contract since that time.
+
+Thales Australia said it welcomed the announcement by Defence Industry Minister Melissa Price to award a $20 million contract to maintain the Royal Australian Navy’s MU90 Light Weight torpedo, demonstrating Thales’s established capability in Australia to sustain guided munitions and weapons systems. The MU90 has been successfully supported by Thales Australia’s facility in Rockingham, Western Australia, since it entered into service with the Navy in 2013. The renewal of the in-service support contract for 3 years will be delivered utilising 100 percent Australian Industry Capability (AIC), and will directly support jobs with Thales in Western Australia, and more in Thales’s local WA supply chain. Over the past decade, Thales has built a sovereign industrial capability in WA to ensure Australia has the capability to fully support the MU90 torpedo. In addition to the 140 people employed directly by Thales in Western Australia, a further 110 people are employed by Thales’s WA suppliers, according to recent analysis by Accenture. In 2020, Thales spent $23 million with 86 West Australian suppliers, almost three-quarters of them SMEs.","{'label': 'Positive', 'score': 0.6932063698768616}",positive,0.6932063698768616,1
+Thales to continue support work on MU90 anti-sub torpedoes - @AuManufacturing,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmF1bWFudWZhY3R1cmluZy5jb20uYXUvdGhhbGVzLXRvLWNvbnRpbnVlLXN1cHBvcnQtd29yay1vbi1tdTkwLWFudGktc3ViLXRvcnBlZG9lc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A $20 million contract will see Thales Australia continue sustainment of anti-submarine torpedoes in Western Australia.
+
+Thales has had the support contract since the adoption of the MU90 Light Weight Torpedoes by the Royal Australian Navy in 2013.
+
+“I am proud that Thales Australia has been awarded this contract to continue with the in-country, in-service support provided at its Rockingham facility in WA,” said defence industry minister Melissa Price in a statement on Tuesday.
+
+“Thales Australia is among many local defence businesses providing robust, secure domestic supply chains and high-tech jobs for working Australians.”
+
+
+
+Picture: RAN
+
+Subscribe to our free @AuManufacturing newsletter here.","{'label': 'Positive', 'score': 0.9999819993972778}",positive,0.9999819993972778,1
+Dubai metro extends maintenance contracts with Thales - International Railway Journal,"Wed, 13 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9pbmZyYXN0cnVjdHVyZS9kdWJhaS1tZXRyby1leHRlbmRzLW1haW50ZW5hbmNlLWNvbnRyYWN0cy13aXRoLXRoYWxlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"KEOLIS-MHI, the consortium that begun operating and maintaining Dubai’s driverless metro network and operating the emirate’s light rail network in September, has signed a contract with Thales to continue to provide corrective and predictive maintenance, on-demand system enhancements, repairs and spares for the Red and Green metro lines and the Route 2020 extension.
+
+Thales has already equipped the driverless trains on the Red and Green lines and Route 2020 extension with its SelTrac signalling, integrated supervision, telecommunications, passenger services, security and automated fare collection systems, which are powered by Thales’s Transcity Up solution and PG600 gates.
+
+Dubai Roads and Transport Authority (RTA) and Thales signed a five-year service level agreement in 2015 to provide maintenance support services for the city’s driverless metro network, followed by a contract to provide systems for the Red Line metro extension and upgrade project.
+
+Singapore automatic fare collection gates
+
+Thales has also been selected by Singapore’s Land Transport Authority to install modernised automatic fare collection (AFC) gates on Mass Rapid Transit (MRT) lines across the country. Under the seven-year contract, Thales will overhaul 1350 AFC gates on the North-South, East-West and Circle Lines as well as install them on the Jurong Region Line ahead of its opening.
+
+The future AFC gates will come with standardised slimmer swing flaps, and are equipped with contactless technologies.
+
+An in-depth interview on the Kelois-MHI consortium with Keolis CEO, Ms Marie-Ange Debon, appeared in the October issue of IRJ.","{'label': 'Neutral', 'score': 0.999935507774353}",neutral,0.999935507774353,0
+East Coast Digital Programme selects Atkins and Thales as key partners for Heritage rail vehicles Pathfinder Project - Network Rail media centre,"Wed, 13 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5uZXR3b3JrcmFpbG1lZGlhY2VudHJlLmNvLnVrL25ld3MvZWFzdC1jb2FzdC1kaWdpdGFsLXByb2dyYW1tZS1zZWxlY3RzLWF0a2lucy1hbmQtdGhhbGVzLWFzLWtleS1wYXJ0bmVycy1mb3ItaGVyaXRhZ2UtcmFpbC12ZWhpY2xlcy1wYXRoZmluZGVyLXByb2plY3TSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"East Coast Digital Programme selects Atkins and Thales as key partners for Heritage rail vehicles Pathfinder Project
+
+Atkins, a member of the SNC-Lavalin Group, and Thales have been appointed by Network Rail to deliver an industry-first pathfinder project for Heritage Rail Projects as part of the East Coast Digital Programme.
+
+The pathfinder will carry out design and trial fitment of the technology to determine if it is a viable technical and commercial option for heritage vehicles.
+
+The option of retro-fitting the technology would enable heritage steam and diesel vehicles to continue operating on mainline infrastructure in radio-based train control. In a world first, the pathfinder project will see European Train Control System (ETCS) in-cab signalling equipment, supplied and installed by Thales, trial fitted on Tornado and designed for a Black 5 steam locomotive, as well as a Class 55 Deltic diesel locomotive which was built over 40 years ago.
+
+These vehicles have been selected because they are best placed to support the project. Tornado is a large modern build with established designs and power, and the Black 5 and Deltic are representative of other vehicle types.
+
+ETCS is the signalling and control component of European Rail Traffic Management System (ERTMS), which will replace traditional lineside signals with in-cab radio-based signalling, initially on the East Coast Main Line.
+
+Having previously undertaken a feasibility study on behalf of Network Rail and the ECDP, Atkins will now complete the on-board design, with Thales conducting the trial installation of ETCS before carrying out intensive testing.
+
+ETCS is a core part of ECDP and will transform the rail network by deploying modern train control technology to improve performance, reduce delays, enhance safety and reduce costs.
+
+Toufic Machnouk, Network Rail’s Director, Industry Partnership Digital, said: “This is an important world first pathfinder project which is also immensely technically challenging. The technology blends steam technology with modern electronics; by trying it out and then taking stock of the results, we will know if it is a technically and commercially viable option for heritage and charter operators.
+
+“Establishing the pathfinder project and the work required to fit the vehicles with the technology is an example of exceptional industry collaboration.”
+
+Phil Paisley, Atkins project manager, said: “This is an exciting project to be part of. Thanks to the skilled and committed Network Rail, Atkins and Thales teams, we’re now able to fit these trains with the equipment needed so that they can continue to be enjoyed by the public.”
+
+Mark Newill, Project Manager at Thales in the UK, added: “Supplying and installing our ETCS equipment onto heritage and charter units for this pathfinder project allows Thales to demonstrate the robustness and versatility of our ETCS equipment. Whilst heritage and charter units each come with their own unique challenges, we are excited to be working in partnership with the East Coast Digital Programme and the vehicle owners to ensure these locomotives can be enjoyed by future generations.’’
+
+ENDS","{'label': 'Neutral', 'score': 0.9989004135131836}",neutral,0.9989004135131836,0
+Production of NZ Army Bushmasters commences | ADBR - ADBR,"Mon, 11 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYWRici5jb20uYXUvcHJvZHVjdGlvbi1vZi1uei1hcm15LWJ1c2htYXN0ZXJzLWNvbW1lbmNlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Concept art of the Bushmaster NZ5.5. (THALES)
+
+Production of the first of 43 Thales Bushmaster NZ5.5 protected military vehicles (PMV) for the New Zealand Army has commenced at Thales Australia’s Bendigo facility in Victoria.
+
+Announced in July 2020 and scheduled to be delivered in late 2022, the Bushmasters will replace the Pinzgauer vehicles in NZ Army service.
+
+The NZ5.5 is a unique configuration for New Zealand, and will come in five variants. “They are not a combat vehicle but will provide our personnel with greater protection while deployed on operations, and they’re used by many of our partners overseas,” NZ Ministry of Defence project team leader Gillian Rodger said in a release, referring to similar vehicles in service with Australia, Fiji, the UK, and the Netherlands.
+
+“The team has worked with Thales Australia to adapt previous Bushmaster vehicle designs, so the Bushmaster NZ5.5 will be unique to New Zealand and best suit our needs. They’ll be able to undertake a range of tasks, from transporting troops, through to acting as mobile communications and command hubs.”
+
+Capability Integration Lead, LTCOL Sara Harrison said, “They’ve been designed to provide high-level protection for our people against a range of threats found in the contemporary environment, including peace and security operations and humanitarian and disaster responses. This will in turn enable our people to better protect others.”
+
+The release says the vehicles will be capable of operating as protected ambulances, and will also introduce networking and communications that have developed in partnership with the Network Enabled Army project team for use between vehicles and other deployed assets.","{'label': 'Neutral', 'score': 0.9977460503578186}",neutral,0.9977460503578186,0
+Deal with France to set up modern radar at HSIA | News - Bangladesh Sangbad Sangstha (BSS),"Thu, 21 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiImh0dHBzOi8vd3d3LmJzc25ld3MubmV0L25ld3MvMjM4ODPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Deal with France to set up modern radar at HSIA
+
+DHAKA, Oct 21, 2021 (BSS) - Civil Aviation Authority, Bangladesh (CAAB) today signed an agreement with France's Thales LAS to set up multi-mode radar with Communication, Navigation and Surveillance Air Traffic Management (CNS-ATM) system at Hazrat Shahjalal International Airport (HSIA) here.
+
+CAAB chairman Air Vice Marshal M Mofidur Rahman and Thales LAS vice chairman Nicholas inked the deal for their respective sides at a city hotel here.
+
+State Minister for civil aviation and tourism M Mahbub Ali, civil aviation and tourism secretary M Mokammel Hossain and French Ambassdorto Bangladesh Jean Marin were present to witness the signing ceremony.
+
+Mahbub said that the country's airspace would be more secure and safe after installation of the modern radar.
+
+Besides, he said, the new modern radar will help Air Traffic Control (ATC) to detect every single aircraft those flying over the country's airspace.
+
+It will help the CAAB to increase its revenue, he said.
+
+The new modern radar is expected to be installed within three years will comply with the international standard.
+
+The project received approval from the cabinet purchase committee on June 8 this year.","{'label': 'Neutral', 'score': 0.9997076392173767}",neutral,0.9997076392173767,0
+Thales scores $20m contract extension - Business News,"Tue, 05 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmJ1c2luZXNzbmV3cy5jb20uYXUvYXJ0aWNsZS9UaGFsZXMtc2NvcmVzLTIwbS1jb250cmFjdC1leHRlbnNpb27SAVBodHRwczovL3d3dy5idXNpbmVzc25ld3MuY29tLmF1L2FydGljbGUvVGhhbGVzLXNjb3Jlcy0yMG0tY29udHJhY3QtZXh0ZW5zaW9uP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sustainment and maintenance of Australia’s anti-submarine torpedoes will remain in WA with receiving a $20 million contract to continue the works in the state.
+
+That announcement comes after the federal government confirmed less than a fortnight ago that full-cycle docking of Australia’s Collins-class submarines would remain in South Australia.
+
+WA had vigorously chased those works, thought to be worth as much as $9 billion, since at least 2017, when the state government created the defence issues portfolio and founded Defence West.
+
+Prime Minister Scott Morrison had reportedly assured Premier Mark McGowan that WA would continue to host an array of naval shipbuilding works despite the state missing out on full-cycle docking.
+
+Today’s announcement appears to make good on that promise, with Defence Industry Minister calling it a demonstration of the federal government’s commitment to building Australia’s sovereign defence capability.
+
+“I am proud that has been awarded this contract to continue with the in-country, in-service support provided at its Rockingham facility in WA,” she said.
+
+“ is among many local defence businesses providing robust, secure domestic supply chains and high-tech jobs for working Australians.
+
+“Thales is to be congratulated for again demonstrating the necessary skills and ability to provide this vital technical support.
+
+“The Commonwealth assessed high quality, value-for-money sustainment options and found the best solution right here on home soil.”","{'label': 'Positive', 'score': 0.666957676410675}",positive,0.666957676410675,1
+"Exclusive: Eco-design an integral part of our developments, says Ashish Saraf, Thales in India - The Financial Express","Fri, 22 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9saWZlL3NjaWVuY2UtZXhjbHVzaXZlLWVjby1kZXNpZ24tYW4taW50ZWdyYWwtcGFydC1vZi1vdXItZGV2ZWxvcG1lbnRzLXNheXMtYXNoaXNoLXNhcmFmLXRoYWxlcy1pbi1pbmRpYS0yMzU0ODMxL9IBlwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9saWZlL3NjaWVuY2UtZXhjbHVzaXZlLWVjby1kZXNpZ24tYW4taW50ZWdyYWwtcGFydC1vZi1vdXItZGV2ZWxvcG1lbnRzLXNheXMtYXNoaXNoLXNhcmFmLXRoYWxlcy1pbi1pbmRpYS0yMzU0ODMxL2xpdGUv?oc=5&hl=en-US&gl=US&ceid=US:en,"The European Union has announced its support to the International Solar Alliance (ISA) earlier this week. This was announced by the visiting European Commission Executive-Vice President for the European Green Deal Frans Timmermans. During the 21st session of the UN Climate Change Conference of the Parties (COP21, in Paris, France, the launch of ISA was announced by Prime Minister Narendra Modi and Mr Francois Hollande, the former president of France, in November, 2015.
+
+While announcing EU’s support Frans Timmermans, said “Now, the EU will work more closely with ISA. This will be for the promotion of solar projects all over the world, and we can jointly scale up technological solutions that can help reach climate neutrality by 2050.”
+
+Thales Group of France, has chalked out a strategy for a low-carbon future which is built on three pillars which are – “reducing direct emissions and those due to our products and equipment; providing our customers with eco-responsible solutions; and supporting a better understanding of climate change, particularly through our involvement in space programmes,” says Ashish Saraf, Vice President and Country Director, Thales in India.
+
+Also Read International day of forests: Collaborative effort to help save our forests Total solar eclipse triggers Big Bang! NASA to launch rockets, CERN to smash protons The Indian cattle breed behind the white revolution in Brazil World Earth Hour Day 2024: Here’s why people around the globe will turn off lights for one hour at THIS time tonight
+
+On the eve of the COP26 in Glasgow, Ashish Saraf, Vice President and Country Director, Thales in India shares with Huma Siddiqui, plans about the company for dealing with climate change.
+
+Following are excerpts:
+
+How eco-friendly are the platforms being made by Thales?
+
+Thales is stepping up its low carbon strategy and has outlined its plan to achieve a 35% reduction in operational CO2 emissions by 2023, a 50% reduction by 2030, and “net zero” by 2040. These targets are consistent with the Paris Agreement’s objective of limiting global warming to 1.5°. The Group will begin the SBTi (Science-Based Target initiative) certification process to substantiate its progress towards these goals. In addition, the Group expects to adopt eco-design principles for 100% of its new products and services by 2023.
+
+Our businesses have been helping to build a world which is safer, more environmentally sound and more inclusive. For us, the priority is to develop systems and products which meet the different safety and reliability requirements of aeronautics, space, defence, transport and security markets. We have been ensuring that the expectations of sustainability are met whilst thriving for responsible economic performance in deference to our different stakeholders. We are highly motivated to develop products and systems that support our environmental responsibility objectives and meet the current and future environmental regulations.
+
+Developing more frugal and more sustainable technologies is a key area of importance for us and given that “green innovation” is a source of creativity and growth which creates real opportunities, we are doing everything to integrate the environment when designing our products. Eco-design is an integral part of all our developments as the markets we serve need products that are as small, lightweight and as resource efficient as possible.
+
+How is the company working with its global suppliers to ensure that less carbon footprint is left in a battlefield?
+
+Our innovations reduce our customers’ emissions and we are delivering carbon dioxide savings by ensuring eco-designing of products. This ranges from defence unmanned systems expertise applied to civil drones, cyber security solutions across defence and civil markets and defence innovations to address challenges in many other industries.
+
+There is no doubt that defence contributes to safe, stable, and prosperous societies and enables protection to a wider society which further contributes towards sustainability and protection of the planet. Our defence solutions enable a more sustainable future in many civil markets. They have a reduced environmental footprint and enhanced performance; and offer advantages such as lower fuel burn, increased performance by reducing size, weight, power, and logistics burden etc. This includes the likes of products such as the thermal imager Sophie Ultima, solutions for autonomous mine warfare, amongst others.
+
+Additionally, Thales is focused on stepping up engagement with its supply chain in order to further aid in addressing environmental challenges. The company has a target of 50% reduction in carbon emission by 2030 and believes that its supply chain partners will play an important role in helping the company achieve this target collaboratively.
+
+How is Thales India working towards playing a role in ensuring that helps in India’s efforts to deal with climate change?
+
+We have been committed towards incorporating practices, complementing our Group-level efforts, which help forward the sustainability efforts in India. For instance, our new Headquarter in Noida is in a LEED (Gold) certified building and more than 2500 plants have been installed in the office. Additionally, we have enabled CNG vehicles for employee transportation to reduce carbon footprint and have undertaken initiatives to minimize use of single use plastic and access control printers to avoid unnecessary printing of papers. The office also has LED warm lights across floors and sensor based lighting in meeting rooms, phone booths and washrooms to save electricity. To ensure that wastage of water is restricted, our offices have sensor based taps and soap dispensers. To ensure a proper reuse and recycling practice at our sites in India, we are undertaking programmes for milk plastic bags and tetra bag recycling along with a proper system for waste segregation (dry, wet and e-waste). We are also working with our supply chain in India to contribute to our global ESG strategy.","{'label': 'Neutral', 'score': 0.9998654127120972}",neutral,0.9998654127120972,0
+"CAAB, Thales sign deal to install new radar at Dhaka Airport - Bangladesh Post","Sat, 23 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYmFuZ2xhZGVzaHBvc3QubmV0L3Bvc3RzL2NhYWItdGhhbGVzLXNpZ24tZGVhbC10by1pbnN0YWxsLW5ldy1yYWRhci1hdC1kaGFrYS1haXJwb3J0LTcxMzAz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Civil Aviation Authority of Bangladesh signed an agreement with French aerospace company Thales on October 21 at InterContinental Hotel in the capital to establish a new radar at Dhaka Airport.
+
+Under the agreement, Dhaka airport will get the new and modern radar with an air traffic control system in the next three years which is aimed at enhancing the safety and security of the country’s airspace.
+
+The radar currently operational at Hazrat Shahjalal International Airport belongs to instrument landing system (ILS) category, while the new one falls under communication, navigation and surveillance/air traffic management (CNS/ATM) category.
+
+The installation of the radar is expected to take roughly three years and will cost BDT 658.4 crore, according to CAAB. The project is expected to be completed by June 2023 with full government funding.
+
+Read more: Chinese RMG industry sees higher profit in Jan-Aug period
+
+The agreement would cover the supply, installation and operation of navigation and surveillance systems, including radar and related air traffic management equipment.
+
+According to the deal, the data collected through the radar must be kept secret by the French company to ensure that airspace security is not compromised.
+
+Reports said, Bangladesh has a long maritime boundary and it is not possible to charge flights that use its airspace at present. The whole area cannot be covered with the existing radar. On top of that, take-off, landing and traffic management are very risky with the current radar.
+
+The existing 37-year-old analogue radar currently installed at the airport cannot detect foreign aircrafts flying over the sea, according to CAAB.
+
+Hence, the government decided to purchase the new radar after considering all these aspects. After the new radar is installed, it will be possible to cover the entire maritime area of Bangladesh, allowing the government to earn more revenues and ensuring airspace safety.
+
+The new radar will increase surveillance over Bangladesh’s territorial waters and airspace. It will also allow Bangladesh to collect fines from trespassing aircrafts, which are required to pay a minimum of USD 500 for a single infringement.
+
+Moreover, the new system will be able to detect aircrafts that are landing or taking off. Such procedures have to be conducted with an element of risk due to the current radar’s inability to detect such activity.
+
+At the agreement signing ceremony, State Minister for Civil Aviation and Tourism Md Mahbub Ali, Secretary Mokammel Hossain, Civil CAAB Chairman M Mafidur Rahman, Jean-Marin SCHUH, Ambassador of France to Bangladesh and Nicolas Bouverot, Vice-President for Thales in South East, among others, were present.","{'label': 'Neutral', 'score': 0.9999575614929199}",neutral,0.9999575614929199,0
+Torpedo maintenance to continue in WA - Australian Defence Magazine,"Wed, 06 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9kZWZlbmNlL3NlYS90b3JwZWRvLW1haW50ZW5hbmNlLXRvLWNvbnRpbnVlLWluLXdh0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Maintenance of the RAN's MU90 Light Weight Torpedos will continue in WA after the government awarded the $20 million contract to Thales Australia.
+
+“I am proud that Thales Australia has been awarded this contract to continue with the in-country, in-service support provided at its Rockingham facility in WA,"" Minister for Defence Industry Melissa Price said.
+
+“Thales is to be congratulated for again demonstrating the necessary skills and ability to provide this vital technical support.
+
+""The Commonwealth assessed high quality, value-for-money sustainment options and found the best solution right here on home soil.""
+
+In a statement, Thales said the three-year contract renewal will use 100 per cent local industry content: ""The renewal of the in-service support contract for 3 years will be delivered utilising 100% Australian Industry Capability (AIC), and will directly support jobs with Thales in Western Australia, and more in Thales’s local WA supply chain.
+
+""Over the past decade, Thales has built a sovereign industrial capability in WA to ensure Australia has the capability to fully support the MU90 torpedo.""
+
+The Royal Australian Navy has used the MU90 Light Weight Torpedo since 2013, and Thales has held the support contract since that time.","{'label': 'Positive', 'score': 0.9994449019432068}",positive,0.9994449019432068,1
+Deal with France to set up modern radar at HSIA - Rtv Online English,"Thu, 21 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJ0dm9ubGluZS5jb20vZW5nbGlzaC9iYW5nbGFkZXNoLzc0MzkvRGVhbC13aXRoLUZyYW5jZS10by1zZXQtdXAtbW9kZXJuLXJhZGFyLWF0LUhTSUHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The nation today celebrated the 104th birth anniversary of Father of the Nation Bangabandhu Sheikh Mujibur Rahman and the National Children's Day in a befitting manner. On this day in 1920, Bangabandhu, the vivacious leader of the Bangalee nation, the architect of independent Bangladesh and the greatest Bangalee of all times, was born in a respected Muslim family at Tungipara village of Gopalganj sub-division, now district. He was the third among four daughters and two sons of his parents - Sheikh Lutfur Rahman and Saira Khatun. Different political, social and cultural organisations and government bodies arranged different programmes, marking the birth anniversary and the Nation Children's Day. The programme included placing wreaths at Bangabandhu's portrait at Dhanmondi-32 in Dhaka and his mazar in Tungipara, Gopalganj, doa and milad mahfil, munajat, prayers, discussions, cultural functions, voluntary blood donations, exhibition of documentaries, drawing competitions and distribution of foods among destitute and so on. The ruling Awami League's programme began with hoisting of national and party flags atop all party offices, including central office at Bangabandhu Avenue here, this morning. President Mohammed Shahabuddin and Prime Minister Sheikh Hasina paid rich tributes to Father of the Nation Bangabandhu Sheikh Mujibur Rahman on his birth anniversary and the National Children's Day. The president and the premier paid homage by placing wreaths at the mazar (mausoleum) of Bangabandhu at Tungipara in Gopalganj at about 10.38 am. President Shahabuddin first laid a wreath at Bangabandhu's mazar followed by Prime Minister Sheikh Hasina. After placing the wreaths, they stood in solemn silence for some time as a mark of profound respect to the memory of the Father of the Nation. A smartly turned out contingent drawn from Bangladesh Army, Navy and Air Forces gave an honour guard on the occasion. Flanked by senior leaders of the ruling Awami League (AL), Sheikh Hasina, also the president of AL, placed another wreath at the grave of Bangabandhu on behalf of her party. Father of the Nation Bangabandhu Sheikh Mujibur Rahman's younger daughter and PM's younger sister Sheikh Rehana and other family members were present. Mohammed Shahabuddin and Sheikh Hasina also offered Fateha and joined a munajat seeking eternal peace of the departed souls of Bangabandhu as well as other martyrs of the August 15 carnage. Cabinet members, PM's advisers, parliament members and AL senior leaders were present. The president and the prime minister signed the visitor's book kept on the mausoleum premises as well. Earlier in the morning, Prime Minister Sheikh Hasina paid rich tributes to Father of the Nation Bangabandhu Sheikh Mujibur Rahman by placing a wreath at the portrait of Bangabandhu in front of Bangabandhu Memorial Museum at Dhanmondi Road-32 in Dhaka. After placing the wreath, she stood in solemn silence for some time as a mark of profound respect to the memory of the country's founding father. Prime Minister's younger sister Sheikh Rehana was present at that time. A smartly turned out contingent drawn from Bangladesh Army, Navy and Air Force gave an honour guard. A munajat was also offered there seeking eternal peace of the departed souls of the martyrs of the August 15 carnage. Later, flanked by senior AL leaders, Sheikh Hasina placed a wreath at the portrait of Bangabandhu on behalf of her party. AL general secretary Obaidul Quader, its presidium members Dr Abdur Razzaque, Shajahan Khan, Jahangir Kabir Nanak, Advocate Quamrul Islam, Dr Mustafa Jalal Mohiuddin and AHM Khairuzzaman Liton, joint general secretaries Dr Hasan Mahmud, Mahbubul Alam Hanif and AFM Bahauddin Nasim, and organising secretaries Ahmed Hossain, BM Mozammel Haque, Mirza Azam, SM Kamal Hossain and Sujit Roy Nandi were, among others, present. Later, Chief Justice Obaidul Hassan paid tributes to Bangabandhu by placing a wreath at his portrait. Afterwards, AL's Dhaka city north and south units, Awami Jubo League, Awami Swechchhasebak League, Bangladesh Krishak League, Mahila Awami League, Jubo Mahila League, Chhatra League, Sramik League, Bangabandhu Sangskritik Jote, Bangabandhu Parishad, different political, social and cultural organisations and professional bodies placed wreaths at Bangabandhu's portrait. President Mohammed Shahabuddin today hosted a special doa and milad mahfil at Durbar Hall of Bangabhaban after Zohr prayers, marking the 104th birth anniversary of Bangabandhu. Marking the birth anniversary, the Islamic Foundation organised programmes at Baitul Mukarram National Mosque in the capital. The programmes included discussion and recitation from the Holy Quran and special prayers. Munajat were offered seeking eternal peace of the departed souls of Bangabandhu and other martyred family members. Special doa and munajat were also arranged at different mosques across the country after Zohr prayers. Besides, special prayers were offered at all religious institutions, including temples, churches and pagodas on the occasion. Christian community members arranged special prayers at Tejgaon Church and Mirpur Baptist Church (3/7-A Senpara Parbata, Mirpur-10), while Buddhist community members held prayers at International Buddhist Monastery at Merul Badda and Hindu community members at Dhakeshwari National Temple. The day was a public holiday. Bangladesh Betar, Bangladesh Television and other private TV channels and radio stations aired special programmes highlighting the significance of the day in the life of Bangalees while national dailies published special supplements. Bangladesh missions abroad also celebrated Bangabandhu's birth anniversary and the National Children's Day by holding different programmes. Source: BSS","{'label': 'Neutral', 'score': 0.9999990463256836}",neutral,0.9999990463256836,0
+Telkom | - Telkom Indonesia,"Thu, 28 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50ZWxrb20uY28uaWQvc2l0ZXMvd2hvbGVzYWxlL2VuX1VTL25ld3MvcmVhbGl6aW5nLXRoZS15b3V0aC1wbGVkZ2Utc3Bpcml0LC10ZWxrb20tZGV2ZWxvcHMtaGlnaC10aHJvdWdocHV0LXNhdGVsbGl0ZS1mb3ItaW5kb25lc2lhJ3MtZGlnaXRhbC1zb3ZlcmVpZ250eS0xNDk30gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Posted on : 2021-10-28 | Tags :
+
+Photo caption: President Director of Telkomsat, Endi Fitri Herlianto (left) and the President & CEO of Thales Alenia Space, Hervé Derrey posed for a photo during the signing of a cooperation agreement betweenTelkomsat & TAS to develop High Throughput Satellite (HTS) on the 113 East Longitude orboital slot, that was held online on Thursday (28/10) from their respective locations.
+
+Jakarta, 28 October 2021 – In a quest for equitable connectivity across Indonesia and realization of digital environment, PT Telkom Indonesia (Persero) Tbk (Telkom) through its subsidiary, PT Telkom Satellite Indonesia (Telkomsat), signed a cooperation agreement with Thales Alenia Space to develop a High Throughput Satellite (HTS) in 113 east longitude orbital slot. The HTS construction will use C-Band/Ku-Band frequencies with a wider range and reliable quality.
+
+President Director of Telkomsat, Endi Fitri Herlianto and the President & CEO of Thales Alenia Space, Hervé Derrey signed the cooperation agreement online from their respective locations on Thursday (28/10). Also present to witness, the commissioners and senior leaders of Telkomsat as well as several representatives from Thales Alenia Space.
+
+This signing coincided with the 93rd commemoration of the annual Youth Pledge on 28 October. Celebrating the same spirit, the HTS 113 East Longitude Satellite is a manifestation of a unified Indonesian archipelago and is connecting more and more Indonesian people, in order to make digital sovereignty a reality.
+
+Telkomsat appointed Thales Alenia Space as the trusted main contractor responsible for the satellite design, construction, testing, and delivery. Moreover, Thales Alenia Space is also responsible for the early orbital positioning phase (LEOP) and in-orbit tests (IOT). Thales Alenia Space will fully support ground control and will train the Telkomsat engineer team during this cooperation agreement. Thales Alenia Space will also provide other supports throughout the satellite lifespan.
+
+Telkom Enterprise & Business Service Director Edi Witjara said “TelkomGroup remains committed to providing digital connectivity, platforms and services for all Indonesians. The HTS 113 East Longitude satellite, which is strategically positioned above the central part of Indonesia, will further strengthen Indonesia’s digital connectivity infrastructure and complement our terrestrial infrastructure and submarine cables.”
+
+President Director of Telkomsat Endi Fitri Herlianto concurred with Edi Witjara, adding, ""The HTS 113 East Longitude satellite will help strengthen the capacity, quality and capability of digital connectivity in Indonesia, especially in areas that are off the grid and has a lack terrestrial networks. Hopefully it can support the realization of Indonesia's digital sovereignty.""
+
+President & CEO of Thales Alenia Space, Hervé Derrey, welcomed the cooperation and expressed his appreciation to Telkomsat for entrusting Thales Alenia Space as the HTS manufacturer.
+
+“We are very proud to be able to support customer business development, in this case Telkom’s, after previously [developing] the Telkom-3S Satellite. The HTS 113 East Longitude satellite deployment will provide a very secure broadband satellite capacity for Telkomsat throughout Indonesia. HTS 113 East Longitude is our fourth telecommunication program for Indonesian satellite operators, which confirms that Thales Alenia Space is able to meet the needs of its customers by offering a wide range of telecommunication satellite products,” Hervé Derrey said.
+
+The HTS 113 East Longitude will be developed on the Spacebus 4000B2 platform and it will have more than 32 Gbps capacity provided throughout Indonesia. The satellite will weigh about 4 tons at launch and have a service life of up to 15 years.
+
+The presence of HTS in the 113 east longitude orbital slot will complement the functions of other satellites that Telkomsat owns to serve domestic communication needs. The satellite will be equipped with a technology that can provide broadband internet services with a much larger capacity than the conventional satellites currently available in Indonesia.
+
+#SpaceforEveryone
+
+#DigitalBisa #UntukIndonesiaLebihBaik","{'label': 'Neutral', 'score': 0.9999984502792358}",neutral,0.9999984502792358,0
+ECML Upgrade: Steam locomotive Tornado to be trial fitted with in-cab signalling - RailAdvent - Railway News,"Sat, 16 Oct 2021 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMS8xMC9lY21sLXVwZ3JhZGUtc3RlYW0tbG9jb21vdGl2ZS10b3JuYWRvLXRvLWJlLXRyaWFsLWZpdHRlZC13aXRoLWluLWNhYi1zaWduYWxsaW5nLmh0bWzSAX1odHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjEvMTAvZWNtbC11cGdyYWRlLXN0ZWFtLWxvY29tb3RpdmUtdG9ybmFkby10by1iZS10cmlhbC1maXR0ZWQtd2l0aC1pbi1jYWItc2lnbmFsbGluZy5odG1sL2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Atkins have been chosen by Network Rail to deliver a new Pathfinder Project for heritage locomotives as part of the East Coast Digital Programme.
+
+The project will see design and trail fitment of the European Train Control System (ETCS).
+
+The system will be supplied and trial fitted on LNER A1 No. 60163 Tornado and designed for a Black 5 steam locomotive and a Class 55 Deltic locomotive.
+
+These locomotives have been selected as they are best placed to help support the project.
+
+ETCS is the new signalling system for the East Coast Main Line and will see lineside signalling replaced with in-cab radio-based signalling.
+
+Toufic Machnouk, Network Rail's Director, Industry Partnership Digital, said: “This is an important world first pathfinder project which is also immensely technically challenging. The technology blends steam technology with modern electronics; by trying it out and then taking stock of the results, we will know if it is a technically and commercially viable option for heritage and charter operators.
+
+“Establishing the pathfinder project and the work required to fit the vehicles with the technology is an example of exceptional industry collaboration.”
+
+Phil Paisley, Atkins project manager, said: “This is an exciting project to be part of. Thanks to the skilled and committed Network Rail, Atkins and Thales teams, we're now able to fit these trains with the equipment needed so that they can continue to be enjoyed by the public.”
+
+Mark Newill, Project Manager at Thales in the UK, added: “Supplying and installing our ETCS equipment onto heritage and charter units for this pathfinder project allows Thales to demonstrate the robustness and versatility of our ETCS equipment. Whilst heritage and charter units each come with their own unique challenges, we are excited to be working in partnership with the East Coast Digital Programme and the vehicle owners to ensure these locomotives can be enjoyed by future generations.''
+
+Where Next?
+
+RAILADVENT NEWS
+
+The latest railway news
+
+RailAdvent Plus
+
+Railway Discounts, 4k Video, pictures and more!
+
+FREE NEWSLETTERS
+
+Signup to our daily and weekly newsletters
+
+RAILADVENT SHOP
+
+Railway Prints, DVD's / Blu-Ray's, books and more
+
+LOCOSTOP COMMUNITY
+
+Come and share your railway pictures
+
+UK STEAM INFO
+
+Upcoming mainline steam tours/loco movements
+
+NETWORK RAIL
+
+Visit their website","{'label': 'Neutral', 'score': 0.9982293248176575}",neutral,0.9982293248176575,0

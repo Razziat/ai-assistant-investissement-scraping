@@ -1,0 +1,138 @@
+Titre,Date de publication,URL,Contenu
+Thales to supply Ampang Line CBTC | News - Railway Gazette,"Tue, 04 Sep 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnJhaWx3YXlnYXpldHRlLmNvbS90aGFsZXMtdG8tc3VwcGx5LWFtcGFuZy1saW5lLWNidGMvMzcyNDcuYXJ0aWNsZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"MALAYSIA: Contractor George Kent (Malaysia) has awarded Thales a contract to provide SelTrac communications-based train control for the Ampang metro line in Kuala Lumpur.
+
+The contract covers the 27 km existing route and 17·7 km extension which is under construction between Sri Petaling and Putra Heights. The signalling work is scheduled to be completed in 2015.
+
+'The selection of Thales' solution will provide seamless integration and significant cost savings as the CBTC system is also currently utilised for the Kelana Jaya LRT line', says GKM. 'Thales played an integral role in the development of the Kelana Jaya LRT line, making them the obvious choice to provide the same SelTrac fully-automated signalling communications platform for the Ampang Line and Ampang Line extension project'."
+ChemCam: under the hood - Optics.org,"Tue, 25 Sep 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vb3B0aWNzLm9yZy9pbmRlcHRoLzMvOS800gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Photonics World
+
+ChemCam: under the hood
+
+25 Sep 2012
+
+Developing a LIBS instrument to operate on Mars presented significant technical challenges.
+
+Having survived its trip to Mars and a final hair-raising landing sequence, the Curiosity rover is now hitting its stride and starting to carry out the scientific research that will occupy it for the next two years.
+
+That program includes use of ChemCam, the mast-mounted instrument comprising a laser-initiated breakdown spectroscopy (LIBS) platform and a high-resolution imager used to visualize the targets. ChemCam represents the first implementation of LIBS in a planetary science application, and has already used its laser to study some selected Martian rocks around the vehicle.
+
+Although the principles of LIBS are straightforward, the development of a practical instrument able to apply the technique in the very specialized environment of the Curiosity rover proved to be challenging.
+
+Optics.org spoke to the suppliers of three of ChemCam's key operational components, to hear about their initial contact a decade ago with co-developers Los Alamos National Laboratory and the French space research institute CNES, and about the novel technology that resulted.
+
+A smaller, lighter laser
+
+""We were first approached by the French national space agency in 2001,"" said program manager Eric Durand of Thales Optronics. ""CNES indicated to us that a Thales product, the Diva diode-laser platform, was exactly what was needed to do LIBS on Mars, since its optical performance closely matched what was required. But CNES was looking for some modifications to be made.""
+
+Those adjustments were not trivial. The normal Diva platform was designed to operate at ambient temperatures, while the Curiosity blueprint needed a source able to operate across a 60 degree temperature range without active cooling. The weight requirements were even more severe: ""The original product weighed about 10 kg,"" said Durand. ""CNES asked us if we could develop a version that weighed only 500 g. And one which could, of course, also withstand the journey to Mars.""
+
+The approach taken was to strip away all temperature-regulating components to reduce volume and mass, and to design a system employing an oscillator followed by two slab amplifiers. This in turn required the replacement of the existing oscillator with a system more conducive to conduction cooling.
+
+""We changed the laser medium from Nd:YAG to a rod of Nd:KGW, or neodymium-doped potassium-gadolinium tungstate, which was longitudinally pumped by a 700 W diode stack,"" Durand explained. ""The wide spectral acceptance of the Nd:KGW rod provides very small absorption variations over broad temperature ranges. This change allows both the diode and the rod to be conductively cooled, and to run under the large temperature ranges expected on Mars.""
+
+The team also modified the platform's existing Q-switch system, having deemed its 4 kV power requirement impractical for use on another planet. Instead, an alternative Q-switch based around a RTP (rubidium titanyl phosphate) Pockels cell was employed, an arrangement that has since been more widely investigated for use in Earth-bound scenarios where low voltage is a constraint. In the case of ChemCam, the revised Q-switch needed only 1 kV to operate over the required temperature range.
+
+By 2003, when ChemCam was officially approved for the Curiosity rover, Thales had an optical configuration that worked very well in the laboratory. The next four years were spent constructing six different models to study the parameters of the system, prior to the delivery of the final flight instruments in 2007.
+
+""In effect, we eventually changed almost everything about the laser,"" commented Durand. ""It was not easy, and at the time I was not fully confident that we could achieve it. But we met the operational requirements: a 1067 nm source delivering energies above 24 mJ in pulses below 8 ns duration, and an optimal operation between -20 and +20 degrees Centigrade.""
+
+A trio of spectrometers
+
+The LIBS analysis carried out by Curiosity employs CCDs and spectrometer electronics contained within the ChemCam body unit, located separately from the mast on the rover itself, and which receives the incoming plasma light generated by the laser via an optical cable.
+
+ChemCam incorporates three spectrometers, supplied by Ocean Optics and originally built around a standard component, although significant modification was involved here too.
+
+""The spectrometers were based on the HR2000 product, but these were customized significantly,"" Rob Morris of Ocean Optics commented. ""In particular, changes were made to the optoelectronics in order to make the system more space-worthy. This was necessary since there was really nothing standard about the implementation involved in this project. Our analogy for the difference between using a spectrometer in the lab and preparing one to travel to Mars was the difference between one lap in your swimming pool and swimming the English Channel.""
+
+A trio of spectrometers allows ChemCam to analyze three wavelengths bands: ultraviolet (UV) covering 240.1 to 342.2 nm; violet (VIO) 382.1 to 469.3 nm; and visible and near infrared (VNIR) 474.0 to 906.5 nm. Modifications to the spectrometer optical bench were again essential. The flight housings were made of beryllium to save weight, and the three spectrometers were stacked without lids between the units, all in the name of reducing mass.
+
+Temperature regulation also required some ingenuity. Titanium, a poor thermal conductor, was employed for the mounting feet, to increase the thermal isolation of the spectrometers. The side of the spectrometers facing the rover wall was covered in black Kapton tape, and another patch of tape was added to the interior wall of the rover to facilitate thermal transfer between the two surfaces, further cooling the spectrometers in the morning hours until the rover wall is warmed directly by the sun.
+
+In the event, and late in the design process, additional thermo-electric cooler units were found to be required and duly installed, to further control the temperature of the spectrometers.
+
+""This project was truly specialized,"" said Morris. ""At least 80 people at Ocean Optics worked on ChemCam alone, which included three or four working almost exclusively on the spectrometer part. That level of resources would be hard to support in most companies.""
+
+ChemCam uses three identical CCD cards, one for each spectrometer, all three of which were supplied by e2v . (The company also supplied a CCD for another of the rover's experiments, the CheMin powder X-ray diffraction instrument.)
+
+The three sensors were based on the company's standard 4210 product, although the surface coatings on each were optimized for their specific spectral ranges. A commercially available enhanced UV coating was used for the CCD scanning the UV wavelengths; an enhanced broadband coating for the VIO sensor; and an entirely customized coating for the VNIR device.
+
+""The third CCD was effectively a new version of 4210 with a graded anti-reflection coating,"" commented project manager Wolfgang Suske. ""This was applied with a different thickness profile over the area of the CCD. In practice this means that the reflections at the different wavelengths depended on the position on the device, and could be tailored for optimum performance over a wavelength range.""
+
+This approach is intended to combat the problem of etaloning, in which the response of a CCD detector varies as a function of wavelength because of constructive and destructive interferences within the detector itself. This problem became particularly significant at wavelengths longer than 450 nm; hence the application of a graded coating on the VNIR sensor, intended to match the wavelength for each column of pixels on the detector.
+
+""The modification was done to deliver good performance from effectively a fixed spectrometer,"" said Suske. ""If you have just a single-thickness AR coating over the device, you won't have optimum performance in terms of transmission or reflection at all wavelengths; it will instead be tailored at one wavelength, probably about mid-band. This graded modification was quite new at the time, but worked well, and we now employ it for other sensors to optimize performance.""
+
+Commercial benefits
+
+Exploitation of the advances made during the extended development cycles of planetary missions, of the kind noted by Suske for e2v coating technology, is something all contractors value.
+
+Ocean Optics has continued to work closely with NASA and other space agencies. Morris indicated that the company contributed to projects including ""monitoring of the plume of reentry rockets used in space flight, monitoring of the surface of the moon, and all sorts of other applications that advance science generally, if not in space exploration specifically.""
+
+The laser source designed by Thales has, as yet, not found a direct follow-up commercial application. ""We tried to adapt this laser to Earth applications, since LIBS is very common and can be useful,"" commented Durand. ""The problem is that the price of this laser is quite high and has proved to be very difficult to reduce. We found some strong internal synergies within Thales for the advances that we had made, but the product itself has remained a specialized space-application laser. Even so, we are of course extremely proud to have successfully contributed to the effort of landing this particular LIBS system on Mars.""
+
+About the Author
+
+Tim Hayes is a contributing editor to Optics.org."
+IN FOCUS: Mobile devices bring a sea change for IFE - Flightglobal,"Wed, 12 Sep 2012 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vaW4tZm9jdXMtbW9iaWxlLWRldmljZXMtYnJpbmctYS1zZWEtY2hhbmdlLWZvci1pZmUvMTA2OTA0LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"What started out as a trickle has developed into a fast-running stream as airlines around the world adopt the Apple iPad, Samsung Galaxy Tab and other consumer devices for in-flight entertainment (IFE).
+
+The appeal is obvious. The devices are capable of supporting hours of video and audio programming, games and more, with a high-resolution screen and superb sound quality; and passengers are increasingly familiar with the technology. But the real appeal for airlines lies in the cost savings.
+
+Consumer devices such as the iPad and Galaxy are ""the logical next step in the IFE&C evolution"" thanks to their reduced weight and thus fuel burn, less invasive infrastructure, lower costs and reduced maintenance burden compared with traditional seatback-installed IFE, says Michael Planey of specialist IFE and interiors consultancy H&M Planey Consultants. iPads could save an airline 800-1,000lb alone in weight per aircraft compared with older IFE systems, which equates to ""a fairly substantial saving in fuel costs alone"", he says.
+
+Maintenance costs are also reduced. ""When a unit doesn't work, you just swap it out,"" says Planey.
+
+These benefits have led AirAsia X, Air Baltic, Air Nigeria, American Airlines, British Airways, EasyJet, Iceland Express, JetAsia Airways, Jetstar, Qantas, Scoot, Thai Airways International, TransAsia, Virgin Australia and WestJet, among others, to join the iPad/Galaxy IFE club.
+
+Many more are set to follow. ""I do believe that there will be more airlines using some form of consumer-level portable device,"" says Planey. ""They will be used in all aspects of IFE and onboard service, including expanding IFE into smaller aircraft which traditionally did not offer personal IFE before, as well as replacing some of the systems in larger aircraft.""
+
+GROWING SHARE
+
+Content providers agree. ""Almost every customer we are engaged with is paying close attention to the use of tablets for IFE and several are involved in trials and tests,"" says content provider IFP, which recently launched an iPad programme with TransAsia Airways, initially offering them to business-class passengers on selected international routes, with plans to expand to all routes.
+
+Fellow IFE content and solutions provider IFE Services is working with three of its airline clients on iPad projects, most recently launching with Air Nigeria in business class. Adrian Lambert, head of marketing, says the company is in advanced negotiations with several more airlines.
+
+But the consumer devices are not every airline's IFE dream, and the technology has its drawbacks - namely logistics, in terms of battery charging, aircraft distribution and storage, says Michael Reilly, chief operating officer of Sydney-based IFE content and services provider Stellar Inflight. And Stellar should know a thing or two about iPad/Galaxy use for IFE, from its work with Jetstar, AirAsia X and Scoot, with ""several more in the pipeline and another launching with iPads very soon"".
+
+Reilly says: ""It's not a wart-free solution and we've never claimed it to be, but it's significantly less expensive in terms of purchase and maintenance cost, as well as operating costs - weight and fuel burn - than traditional IFE systems. The airlines generally view that although the fleas come with the dog, the pros outweigh the cons.""
+
+As more airlines introduce the technology, more of the barriers are being overcome. Security issues, for example, have led to the introduction of various RFID tagging/scanning processes, as well as security on the devices that renders the content useless after a certain period of non-syncing, says Reilly. ""We're glad to say the theft rate is very low,"" he adds.
+
+EARLY ADOPTER
+
+One of the iPad pioneers, Jetstar, took two years to get its programme off the ground. The Australian low-cost carrier first trialled the technology on two aircraft in June 2010, in a project involving Stellar and Bluebox Avionics. Following the trial, the intention was to roll out the devices across the fleet, but that did not happen until November 2011, following the resolution of a raft of issues including security over early window Hollywood content and agreement with Apple. Jetstar became the first carrier in the world to offer tailored technology for the device. Today the devices are available on all Jetstar flights of over 90min duration, at a cost of $10-15 per flight.
+
+The devices are loaded with Hollywood movies, TV series, music videos, games, magazines, albums and e-books, with content updated monthly. On Jetstar, the iPads are in a special case designed by Bluebox, with an RFID tag and an external battery. The devices are stored on board in galley carts and exchanged for passenger ID. Batteries are charged in the ports, with external batteries changed over on board.
+
+Devices such as the Samsung Galaxy Tab are already familiar to many passengers
+
+""The iPads have been warmly received by our customers,"" says the airline.
+
+Rather than sounding the death knell for traditional seatback IFE, however, consumer devices have so far extended the reach of IFE, opening up a new sector, providing airlines with more choice and low-cost carriers with a new potential revenue stream. The airlines that have adopted the consumer devices are largely LCCs, which previously used portable DVD devices if anything, or full-service carriers looking to supplement the installed IFE in premium cabins - just as carriers did in the 1990s with consumer DVD devices. For example, American Airlines was an early user of consumer DVD players in the aircraft cabin and has now done the same with the Galaxy Samsung Tab 10.1, offering the devices in the premium class cabins of selected 767 and 757 flights.
+
+""The competition in the air is becoming more intense as all airlines seek to find a differentiation in passenger services,"" says Planey. ""The LCCs start from a mindset of budget-conscious innovation and that means they are more willing to take a risk on new technology in the cabin.""
+
+Seatback-installed IFE systems for widebody aircraft produced by manufacturers Panasonic and Thales still have a future while the airframers maintain their high entry level - and if recent orders are anything to go by. Etihad, for example, recently signed a 10-year exclusive $1 billion agreement with Panasonic to use its eX2 and eX3 IFEC systems and the Global Communications Suite for 100 new aircraft, while Thales says it has ""big orders"" to announce at the APEX expo, which will take place in Long Beach, California, from 17 to 20 September.
+
+Nor is seatback IFE for the retrofit market by any means dead, based on the orderbooks of the manufacturers of the new breed of seat-centric, smaller, lighter IFEC systems. IMS's RAVE (Reliable Audio Video Entertainment) system, for example, has won orders from 11 airlines, including most recently a commitment from Lufthansa to equip 80-plus widebodies. Clearly, no one size fits all, even in the retrofit market.
+
+The next evolutionary step - wireless streaming of content - is already starting. ""Tablets are definitely a growing form of IFE - particularly for LCCs, premium classes or aircraft with no traditional IFE. However, I think the biggest thing will be wireless streaming to passengers' own devices, which we are launching imminently on three different airlines,"" says Reilly. ""I firmly believe that although the portable stuff is evolutionary, wireless will be revolutionary - and it's imminent.""
+
+UNPLUGGED INNOVATION
+
+Keen not to miss out, Panasonic and Thales have maintained their development of wireless technology ever since the early days of wireless IFE systems for the 787.
+
+Thales has its new AVA wireless streaming media solution, while Panasonic's eXW has recently been selected by Qantas for its 767s. Despite a successful wireless streaming trial - dubbed QStreaming by Qantas - with Lufthansa Systems' BoardConnect since February on a single 767, Qantas has opted for eXW for the fleet, believing it offers more opportunities for further development.
+
+From October, Qantas will provide each passenger on the 767s with an iPad in the seat pocket with over 200 hours of IFE content to be streamed via eXW, free of charge. The 767s were previously fitted with overhead monitors only.
+
+QStreaming is unlikely to stop there. Qantas says it is ""working through options to utilise the QStreaming concept on other aircraft types"".
+
+Meanwhile, Virgin Australia has started rolling out Galaxy tablets pre-loaded with content across its domestic and short-haul international flights, and the airline says it will start adding Lufthansa Systems' BoardConnect wi-fi streaming before the end of this year, allowing content to be streamed to the Galaxy tablets and to passengers' personal electronic devices.
+
+Virgin Australia's IFE on the 737s previously comprised DigEplayer portable DVD players and the Live2Air LiveTV product, but its IFE future on the 737s is focused on the Samsung Galaxy and BoardConnect. The carrier says it tailors its IFE options according to the duration of the flight, and as such there is still a role for installed IFE systems on its long-haul services.
+
+""The potential market for all forms of wireless IFE - to embedded screens, airline-portable screens and passenger personal devices - could reach 30-50% of the retrofit market in five years,"" says Planey. ""Beyond five years it is difficult to say where IFE will be.""
+
+Keep up to date with major airlines' evolving strategies via the Airline Business blog
+
+Source: Flight International"

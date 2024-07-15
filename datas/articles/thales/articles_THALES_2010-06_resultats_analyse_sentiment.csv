@@ -1,0 +1,40 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Thales, IBD Pursue the SHARK Active Protection System - Defense Update","Sat, 12 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTAwNjEyX3NoYXJrX2Fwcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is developing the SHARK (System HARd Kill), an active protection system protecting light and heavy armored vehicles, by using pyrotechnical effectors to defeat incoming threats such as RPG (Rocket Propelled Grenade) and antitank missiles. The SHARK program was launched by the French DGA (Direction Générale pour l’Armement). The program is led by TDA, subsidiary of Thales Group, with the contribution of IBD Deisenroth Engineering, the original developer of this countermeasure system.
+
+The system provides a very light weight alternative solution to passive and reactive armor-plating protection. A combination of radar and optronic sensors detect threats at very short range ensure an effective vehicle protection in urban environment as well as in open field. The pyrotechnical counter-measure is initiated with opto-pyrotechnical device for safe operation. Effective at close range only, the blast created by the pyrotechnical charge reduces dramatically the threat effect, to a level compatible of usual vehicle protection. Destruction of threats at close range from the vehicle also contributes to low risk of collateral effect.
+
+The system covers the vehicle over 360° degrees including higher elevations. The system is designed for very short response rate, protecting against threats launched at very short range (less than 15 m), by focusing riposte energy at their most vulnerable points to significantly reduce collateral effects. This blast effect is initiated by an insensitive munition placed around the vehicle to provide full coverage and overlapping to ensure redundancy and multiple threat engagement capability.
+
+According to Thales, this concept of operation is particularly effective in urban terrain where threats are fired from close range and the risk to non combatant is high. SHARK has been successfully integrated on France’s VAB light armored vehicle. The French administration has validated the SHARK concept through intensive trials.","{'label': 'Neutral', 'score': 0.9274434447288513}",neutral,0.9274434447288513,0
+Bushmasters to be made in Canada? - Australian Defence Magazine,"Fri, 18 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9uZXdzL2J1c2htYXN0ZXJzLXRvLWJlLW1hZGUtaW4tY2FuYWRh0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"This agreement forms a strategic alliance between two Canadian-based companies for the provision of the best solution for the TAPV program that will supply the Canadian Army with up to 600 armoured patrol vehicles.
+
+""The Bushmaster is a combat-proven vehicle serving with distinction with our Allies in Afghanistan today and the vehicle we know the Canadian military needs to meet its mission requirements today and over the next two decades and beyond,"" Paul Kahn, Thales Canada President and CEO, said.
+
+""DEW Engineering and Development is an integral member of the TAPV Bushmaster team and brings unique expertise and a strong Canadian workforce in the armour vehicle field, a workforce that will become integral to the Thales Global Supply Chain for years to come.""
+
+With over 680 Bushmaster vehicles already in service with the forces of Australia, the Netherlands and other NATO Allies, Thales has a fully developed, independently tested and combat-proven vehicle that is ideal for the Canadian TAPV program.
+
+""DEW Engineering and Development is excited about partnering with Thales in offering the Bushmaster vehicle for the TAPV program.
+
+""In all my years in the armoured vehicle business I have never seen a vehicle of this calibre,"" Tim Dear, President of DEW Engineering and Development, said.
+
+The Canadian Military has defined the Tactical Armoured Patrol Vehicle program as a general utility combat vehicle that will need to fulfil a variety of roles on the battlefield, such as reconnaissance and surveillance, command and control, cargo, and infantry section carrier.
+
+The vehicle will replace the Armoured Patrol Vehicle (APV) and the Coyote LAV 2, and will complement the Light Utility Vehicle Wheeled (LUVW).","{'label': 'Positive', 'score': 0.9999819993972778}",positive,0.9999819993972778,1
+Bushmaster training at DECA - carsales.com.au - carsales.com.au,"Sun, 13 Jun 2010 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNhcnNhbGVzLmNvbS5hdS9lZGl0b3JpYWwvZGV0YWlscy9idXNobWFzdGVyLXRyYWluaW5nLWF0LWRlY2EtMTk3MTIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sharp-end training for Thales Australia staff in the wilds of Shepparton
+
+It's a fair assumption to make that contractors supplying equipment to the defence forces will understand the operation of said equipment. That's not always the case though.
+
+Take for instance Thales Australia and the Bushmaster infantry mobility vehicle the company has sold to the Australian Army. The Bendigo-based company builds the Bushmaster for use by the army here and in overseas theatres, where it is already providing Aussie troops protection from improvised explosive devices.
+
+But the blokes who will be training army drivers in the operation of the vehicles offroad and in defensive situations, must first receive that training themselves. Four staff from Thales Australia have received training at the Shepparton driver training complex run by DECA, Driver Education Centres of Australia.
+
+""We are responsible for developing our own training courses and then delivering the training to our customers,"" said Steve Muscolino, Integrated Logistics Support Project Co-ordinator with Thales Australia.
+
+""We found the experience with DECA invaluable in helping us develop and deliver the most appropriate level of vehicle-specific training so that our customers in tum can train their own personnel.""
+
+Muscolino and his three colleagues took part in a four-day course that immersed them in the finer points of operating the Bushmasters offroad and in hostile situations. DECA, a driver-training institution with 35 years' experience behind it, has conducted two Bushmaster courses for Thales so far. In addition to the Shepparton complex, DECA operates other facilities in New South Wales and Tasmania, as well as the Victorian towns and suburbs of Altona North, Carrum Downs, Puckapunyal and Newborough.
+
+Thales Australia developed the Bushmaster for the army with assistance from Timoney Technology, an Irish defence contractor. The Bushmaster is in operation with the Royal Netherlands Army as well as the Australian Army and has acquitted itself with distinction in Iraq.
+
+Read the latest Carsales Network news and reviews on your mobile, iPhone or PDA at www.carsales.mobi","{'label': 'Neutral', 'score': 0.9999887943267822}",neutral,0.9999887943267822,0

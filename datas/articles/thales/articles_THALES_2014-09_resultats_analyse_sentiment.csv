@@ -1,0 +1,551 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Alenia Steps Up Efforts To Sell Earth-observation Satellites Abroad - SpaceNews,"Fri, 19 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vc3BhY2VuZXdzLmNvbS80MTkyMXRoYWxlcy1hbGVuaWEtc3RlcHMtdXAtZWZmb3J0cy10by1zZWxsLWVhcnRoLW9ic2VydmF0aW9uLXNhdGVsbGl0ZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — Space hardware manufacturer Thales Alenia Space, having watched rival and sometime partner Airbus Defence and Space win Earth observation satellite contracts without Thales help, is introducing an all-Thales observation satellite platform and a new, lighter radar reconnaissance product for export markets, Thales Chief Executive Jean-Loic Galle said.
+
+One of the first tests of the optical observation product’s competitiveness is likely to be in Colombia, which is organizing an international competition for a satellite with a better-than-1-meter ground resolution.
+
+In a Sept. 19 briefing here during the World Satellite Business Week conference organized by Euroconsult, Thales Alenia Space officials said the company has cut its costs across all its business lines to win telecommunications awards. Until late 2013, Thales had been largely absent from the winners’ circle in global telecommunications satellite competitions.
+
+Galle said a broad cost-reduction effort succeeded in reducing the company’s satellite cost basis by 12 percent. The result, he said, has been five telecommunications satellite awards so far in 2014, including a two-satellite win for KT Corp. of South Korea.
+
+One of these awards, for the Yamal-601 satellite for Russia’s Gazprom Space Systems, had to overcome a recent U.S. government export-license denial apparently having to do with broader U.S. sanctions against Russia for its incursion into Ukraine.
+
+Galle said the contract is back on track as the U.S. parts were replaced by European components.
+
+The contracts for KT Corp. and for Indonesia’s PT Telkom, for the Telkom 3S satellite, were won by providing an extended version of Thales’s Spacebus B2 satellite platform, with onboard power of as much as 7 kilowatts — up from 5 kilowatts previously.
+
+Similarly, the company’s Spacebus C4 line of larger telecommunications satellites is being upgraded to provide 15 kilowatts of power, up from 11 kilowatts. Galle said the increase in power was key to the company’s contract with Arabsat of Saudi Arabia and Inmarsat of London, for the Inmarsat/HellasSat satellite.
+
+Thales Alenia Space’s telecommunications satellite product line will further evolve as the NEOSat project with the French and European space agencies advances. Thales and Airbus will be using elements of the NEOSat research project, whose goal is to better position European manufacturers against international competitors.
+
+NEOSat versions will be developed for satellites with 9 kilowatts, 16 kilowatts and 20 kilowatts of power, using electric and conventional chemical propulsion.
+
+“These three platforms are all modular, a kind of Lego using the same building blocks, which will enable us to reduce production cycle time,” Galle said. “Our production time now is 25 to 34 months and we want to reduce this drastically.”
+
+The first commercial products coming from the NEOSat government research program should be in the company’s portfolio by mid-2015, Galle said, with a first launch in 2018.
+
+Bertrand Moreau, the company’s senior vice president for telecommunications systems, said Thales has set an internal goal of reducing the cost of its telecommunications satellites by 30 percent.
+
+Thales Alenia Space and Airbus have long worked together on Earth observation satellites for the French government with the Spot civil, Helios military and Pleiades dual-use satellites using Thales imagers and Astrium platforms.
+
+The two companies have also collaborated on the two-satellite Falcon Eye reconnaissance system for the United Arab Emirates, which after delays relating to U.S. export issues is now expected to enter into force by December, Galle said.
+
+But as the global market for submetric Earth observation satellites has grown, and the cost of these systems has come down, Airbus has begun offering its own optical sensors, most recently in a reconnaissance satellite for the government of Peru.
+
+Thales will now do likewise. Galle said the company is bidding for reconnaissance satellite systems in South America and Asia. It is also bidding for a radar satellite contract in Asia, he said.
+
+Thales Alenia Space, which its main production facilities in France and Italy, is prime contractor for Italy’s Cosmo-SkyMed four-satellite radar reconnaissance system.
+
+The radar satellite platform has been viewed as too large — and thus too expensive when including launch — for the current market. Massimo Di Lazzaro, the company’s senior vice president for observation systems, said the new radar platform offers a submetric resolution in a satellite with a launch mass of less than 1,000 kilograms — small enough to be launched on Europe’s Vega rocket.","{'label': 'Neutral', 'score': 0.5789298415184021}",neutral,0.5789298415184021,0
+Turkish-made seat set to debut on 737s with Thales IFE - Runway Girl Network,"Thu, 18 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTQvMDkvdHVya2lzaC1tYWRlLXNlYXQtc2V0LXRvLWRlYnV0LW9uLTczN3Mtd2l0aC10aGFsZXMtaWZlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"ANAHEIM: Lurking within the large Thales booth at the APEX Expo is a little known seat manufacturer named TSI Aviation Seats. The subsidiary of Turkish Airlines is preparing to certify and launch a new economy class seat integrated with Thales IFE.
+
+TSI is targeting January 2016 for certification completion and initial installation on 20 Turkish Airlines Boeing 737-800s. The seats will offer 6-inch recline, a footrest, and will come equipped with the latest generation Thales IFE system. Sales and marketing manager Burcu Dogrusoz was not able to comment on what pitch is planned for the seats.
+
+Turkish Airlines is in the midst of upgrading the passenger experience on its long-haul and short-haul fleets, installing in-seat entertainment throughout, as well as Panasonic Avionics Ku-band inflight connectivity on its long-haul international fleet.","{'label': 'Neutral', 'score': 0.999961256980896}",neutral,0.999961256980896,0
+Ben Olivier named President and CEO of Thales Alenia Space UK - Thales,"Mon, 22 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9iZW4tb2xpdmllci1uYW1lZC1wcmVzaWRlbnQtYW5kLWNlby10aGFsZXMtYWxlbmlhLXNwYWNlLXVr0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ben Olivier named President and CEO of Thales Alenia Space UK Share this article
+
+
+
+LinkedIn
+
+Cannes, September 22nd, 2014 – Ben Olivier, 52, has been named President and CEO of Thales Alenia Space UK, effective today. He replaces Martin Gee, who is retiring.
+
+Martin Gee joined Thales Alenia Space in 2013 to create a new subsidiary in the United Kingdom, and to support the acquisition of SEA's space business. The progress of the acquisition has enabled the baton to be passed to Ben Olivier, previously Director of SEA's Space Division. Martin Gee will continue working for Thales Alenia Space UK moving to a non-executive role, to ensure the successful completion of actions under way to support the company's development and relations with agencies and the local business community.
+
+After completing an Engineering degree at the University of Exeter, Ben Olivier started work with BAe (British Aerospace) as systems engineer and then as design manager on both scientific and earth observation programs. During the early 90’s, Ben Olivier was appointed the marketing manager for the start-up of a joint venture with Dartcom. Ben Olivier then became head of the Guidance, Navigation and Control department for Matra Marconi Space. In 1999, Ben Olivier joined SEA. He started as an engineering manager and undertook roles as technical/ technology director, operations director and, from 2005, as Space Division director.
+
+Over the years Ben Olivier has held a series of strategic positions in the space industry, including as Deputy Chairman of the UK National Space Technology Steering Group, board member of the Centre for Earth Observation Instrumentation, and member of the UK Industrial Space Committee. His long experience makes him a perfect fit to continue the programs already under way, in line with the UK strategy initiated by Martin Gee.
+
+About Thales Alenia Space
+
+Thales Alenia Space, a joint venture between Thales (67%) and Finmeccanica (33%), is a key European player in space telecommunications, navigation, Earth observation, exploration and orbital infrastructures. Thales Alenia Space and Telespazio form the two parent companies' “Space Alliance”, which offers a complete range of services and solutions. Because of its unrivaled expertise in dual (civil/military) missions, constellations, flexible payloads, altimetry, meteorology and high-resolution optical and radar instruments, Thales Alenia Space is the natural partner to countries that want to expand their space program. The company posted consolidated revenues in excess of 2 billion euros in 2013, and has 7,500 employees in six countries. www.thalesaleniaspace.com
+
+Thales Alenia Space Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Tarik Lahlou
+
+Tel: +33 (0)4 92 92 68 45
+
+tarik.lahlou@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999940395355225}",neutral,0.9999940395355225,0
+France taps Thales for radar antenna research project - UPI News,"Tue, 30 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTQvMDkvMzAvVGhhbGVzLXRvLXJlc2VhcmNoLW5leHQtZ2VuLWFjdGl2ZS1yYWRhci1hbnRlbm5hLzcyOTE0MTIwOTQ0ODEv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A French Air Force Rafale B aircraft. (U.S. DoD/Capt. Jason Smith)
+
+PARIS, Sept. 30 (UPI) -- Thales, the French technology company, has been tapped by the country's military procurement agency to research next-generation active radar antenna. The research will demonstrate multi-function panel technology and new scalable architectures for computers. These new antennas are designed to eventually equip the Rafale fighters of the French Air Force and unmanned aerial vehicles. Advertisement
+
+DGA said that after achieving a European ""first"" with the active electronically-scanned antenna radar fitted to production Rafale fighters, France intends to maintain its leadership position in the field of airborne radars.
+
+""These studies will demonstrate the maturity of components and produce multi-function antennas for radar, electronic warfare and communications applications,"" said the Direction Générale de l'Armement, or DGA. ""These new antennas will also offer a significant advantage in terms of range and aircraft detectability, and will maintain the French combat aviation industry at the highest technological level.""
+
+No details on the contract's time frame were given.
+
+DGA said it invests about $926 million every year in preliminary studies on military technology.","{'label': 'Neutral', 'score': 0.9875652194023132}",neutral,0.9875652194023132,0
+Thales Australia F90 assault rifle to enter LRIP for ADF | Shephard - Shephard News,"Fri, 26 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnNoZXBoYXJkbWVkaWEuY29tL25ld3MvbGFuZHdhcmZhcmVpbnRsL3RoYWxlcy1hdXN0cmFsaWEtZjkwLWFzc2F1bHQtcmlmbGUtZW50ZXItbHJpcC1hZGYv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia will begin Low Rate Initial Production of its F90 assault rifle under a contract from the Australian Department of Defence announced on 23 September.
+
+The F90 recently achieved Provisional Design Acceptance for Australia’s LAND 125 programme as part of its Soldier Modernisation Programme, following an extensive testing period that saw over one million rounds fired.
+
+
+
+The F90 rifle is a light, versatile weapon weighing 3.25kg with high reliability and rapid target acquisition time. The bullpup design enables a longer barrel and associated higher muzzle velocity for greater stopping power within a compact overall length.
+
+
+
+The weapon also includes an integrated side loading 40mm grenade launcher that can be attached in just a few seconds by the soldier – a potentially decisive capability advantage facilitating speed and flexibility on operations.
+
+
+
+Kevin Wall, vice president armaments, Thales Australia, said: ‘This is a major milestone in the F90 story. Backed by over a century of military weapons experience, Thales’s Lithgow facility will now begin manufacturing F90 rifles as part of a de-risking exercise designed to smooth the transition in production from the existing in-service weapon to the F90.’","{'label': 'Positive', 'score': 0.9990333318710327}",positive,0.9990333318710327,1
+'Another Scotland is Possible!' Activists Shut Down Factory Behind Israeli Drones - Common Dreams,"Tue, 23 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvbmV3cy8yMDE0LzA5LzIzL2Fub3RoZXItc2NvdGxhbmQtcG9zc2libGUtYWN0aXZpc3RzLXNodXQtZG93bi1mYWN0b3J5LWJlaGluZC1pc3JhZWxpLWRyb25lc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Activists in Scotland were arrested Tuesday for blockading and shutting down Thales UK, renowned Govan, Glasgow-based weapons manufacturer, to protest the company's role in producing drones used by Israel against Palestinian people.
+
+Early Tuesday morning some protesters climbed onto and occupied the factory roof while others obstructed the building's entrances by lying on the ground and attaching to each other by arm tubes. The six blockaders on the ground were arrested first. Then police attempted to starve out the roof occupiers by cutting off their food and water supply, as well as their blankets, for approximately five hours, Blair Poutney, a supporter of the direct action, told Common Dreams by phone.
+
+Nonetheless, before they were all arrested, the direct action participants were able to halt the work of the factory from 6:00 AM to 6:00 PM, effectively preventing the working day from proceeding, said Poutney.
+
+""Drones are a key part of Israel's military arsenal,"" Fiona McDermot, one of the people who occupied the roof of the factory, stated before being arrested. ""By allowing this factory to export drone components and other arms to Israel, the UK government is providing direct support and approval to Israel's massacres.""
+
+The activists hail from Glasgow Palestine Action, described by Poutney as a collective of organizations and networks who oppose the UK's arms trade with Israel.
+
+""Thales UK is working with Elbit Systems to make the next generation of 'Watchkeeper' drones, a contact worth PS1 billion,"" reads a statement released Tuesday by the protesters. ""These drones are based upon the Hermes 450, which was documented killing Palestinian civilians in Gaza in 2008-2009. The drones are marketed as 'field tested' - which means they have proven effective at killing Palestinians.""
+
+""I think it's a disgrace that these weapons are being made on our back door,"" said local resident Sandra Beatie. ""I had no idea this was happening.""
+
+The protest is a response to Israel's recent military assault on the besieged Gaza strip, killing over 2,000 civilians, at least 75 percent of whom were civilians, according to UN estimates.
+
+According to the protesters, culpability in Israel's assault on Gaza extends far beyond Thales UK. ""This is a message to Glasgow City Council who fly the Palestinian flag on our City Chambers while simultaneously arming Israel with the weapons they need to bomb Gaza,"" protester Leena O'Hare said earlier Tuesday. ""The UK government, by allowing Thales to operate with Elbit systems, have blood on their hands. Last year alone the UK government had 381 extant arms licenses to Israel, worth almost PS8 billion.""
+
+O'Hare continued, ""We demand that the Scottish government puts pressure on the UK government to end arms sales to Israel. And also takes active steps towards ending the production of weapons systems in Scotland that are connected to apartheid, colonialism and genocide. Another Scotland is possible!""","{'label': 'Neutral', 'score': 0.9993147850036621}",neutral,0.9993147850036621,0
+Thales nears flight tests for Royal Navy Crowsnest bid - Flightglobal,"Wed, 10 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vdGhhbGVzLW5lYXJzLWZsaWdodC10ZXN0cy1mb3Itcm95YWwtbmF2eS1jcm93c25lc3QtYmlkLzExNDQ0Mi5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales UK is gearing up to begin flight tests of the heavily revamped and updated Cerberus airborne early warning system it is pitching for the UK Royal Navy’s Crowsnest competition.
+
+The up-to-£500 million ($806 million) contest will see a total of eight AgustaWestland AW101 Merlin HM2 helicopters equipped with the mission kits, to replace the navy’s current fleet of aged Westland Sea King 7s, which will begin to be retired from 2016.
+
+Lockheed Martin is prime contractor on the effort, with Thales and Lockheed itself competing to supply the radar and operator equipment. Despite this potential conflict of interest, Thales remains confident in the integrity of the contest, says Matt Avison, the manufacturer’s sales director for intelligence, surveillance and reconnaissance and defence mission systems.
+
+“We have no concerns about Lockheed Martin running the competition,” he says.
+
+Thales is proposing to take its Searchwater 2000 radar – which is utilised on the RN’s current Airborne Surveillance and Control (ASaC) Sea Kings – and adapt it for installation on the Merlin platform, as well as updating the radar, software and mission system “to drive out obsolescence”.
+
+Avison declines to specify the performance enhancements Thales has brought to the radar, but points out that it is “not just about increasing range, but also increasing the utility of the radar”. He says: “The advances in processing since [the introduction of] Searchwater 2000 mean that we can do an awful lot more with the received information. That means we are not just compliant with the competition, but over-delivering in certain areas.”
+
+Installation of the system on a test airframe will begin shortly at AgustaWestland’s Yeovil facility in Somerset, ushering in from the end of September an intensive period of ground evaluations, which will culminate in a first test sortie in mid-November, Avison says.
+
+Thales
+
+Around 30h have been allotted for flight tests, but Avison is confident “we can prove the system in less than that”.
+
+Although the navy requires Crowsnest to enter service from 2018, Avison believes the “proven performance” and low risk of Cerberus enables it to be delivered well in advance of this date. This would allow the service to provide early warning protection to its new flagship, the aircraft carrier HMSQueen Elizabeth, from an early stage.
+
+An updated operator console utilises three touchscreens, the main one of which is one-third larger than that on the current-generation system. Thales believes the revamped interface is more intuitive than its predecessor and quicker and simpler to use.
+
+One issue still to be resolved, however, is whether Thales will persist with the ASaC system’s distinctive inflatable radome – AEW-roled Sea Kings are known informally as ‘baggers’ as a result – or switch to a solid design.
+
+Lockheed, meanwhile, has recently started flight tests of its Vigilance system from the Ministry of Defence’s Boscombe Down site in Wiltshire. It is proposing a pair of Elta Systems-produced active electronically scanned array radars, installed on either side of the Merlin's fuselage. However, Lockheed declines to comment on the progress of its trials.
+
+Bids for Crowsnest are due to be submitted by the end of January 2015, with a decision expected late in the first quarter of next year.
+
+Source: FlightGlobal.com","{'label': 'Neutral', 'score': 0.9996988773345947}",neutral,0.9996988773345947,0
+'Blood on their hands': Glasgow activists shut down drone manufacturer - Mondoweiss,"Thu, 25 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vbW9uZG93ZWlzcy5uZXQvMjAxNC8wOS9nbGFzZ293LWFjdGl2aXN0cy1tYW51ZmFjdHVyZXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Activists from Scotland’s Glasgow Palestine Action scaled their way inside the perimeter fence of a Thales UK factory in Govan, Glasgow in the early hours of the morning Tuesday, blockaded multiple entrances, climbed onto the roof top and shut down the weapons manufacture for the day protesting the companies collaboration with Israeli defense behemoth Elbit Systems, currently producing ‘Watchkeeper’ drones for the Israeli military.
+
+Scotland’s The Herald cites activist Leena O’Hare:
+
+“This is a message to Glasgow City Council who fly the Palestinian flag on our City Chambers while simultaneously arming Israel with the weapons they need to bomb Gaza. “The UK government, by allowing Thales to operate with Elbit systems, have blood on their hands. “We demand that the Scottish government puts pressure on the UK government to end arms sales to Israel. And also takes active steps towards ending the production of weapons systems in Scotland that are connected to apartheid, colonialism and genocide. Another Scotland is possible.”
+
+Live tweeting throughout the event, Glasgow Palestine Activists described the factory shutdown as their “first piece of direct action.”
+
+As Scotland police arrived, began clearing the area and arresting members of the group they documented live:
+
+Police intimidation in top of thales roof. @GlasgowBDS pic.twitter.com/IuvHJgLwBD — Frid Grey (@FreddieGrey) September 23, 2014
+
+Police arrested 10 activists who are now out on bail, their trial date set for March 2015.
+
+In a press release sent to Mondoweiss Glasgow Palestine Action network elaborated on why they targeted Thales UK “The drones are marketed as ‘field tested’ – which means they have proven effective at killing Palestinians.”:
+
+The action is in response to the recent Israeli bombardment of Gaza, and the UK economy’s ever growing military industrial cooperation with governments that flout international law. In just over 7 weeks, Israel, armed with weapons supplied by the UK, killed more than 2000 innocent Palestinians. Thales is being targeted today for their close relationship with Elbit Systems, Israel’s largest military company and the world’s largest drone producer. In a joint venture, Thales UK is working with Elbit Systems to make the next generation of ‘Watchkeeper’ drones, a contact worth £1 billion. These drones are based upon the Hermes 450, which was documented killing Palestinian civilians in Gaza in 2008-2009. The drones are marketed as ‘field tested’ – which means they have proven effective at killing Palestinians. Fifi O’Hara, one of the roof occupiers, explains: ‘Drones are a key part of Israel’s military arsenal. By allowing this factory to export drone components and other arms to Israel, the UK government is providing direct support and approval to Israel’s massacres.’
+
+Awesome action.","{'label': 'Neutral', 'score': 0.9999685287475586}",neutral,0.9999685287475586,0
+British Watchkeeper drones begin combat ISTAR missions over Afghanistan - Defense Update,"Mon, 29 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTQwOTI5X3dhdGNoa2VlcGVyLTMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The UK Ministry of Defence (MOD) today announced the first operational flights in Afghanistan of Thales’ unmanned air system - the Watchkeeper. The new capability is providing force protection for British troops as they prepare to draw down from Afghanistan by the end of this year.
+
+The UK Ministry of Defence (MOD) today announced the first operational flights in Afghanistan of Thales’s unmanned air system, Watchkeeper. This new capability is providing force protection for British troops as they prepare to draw down from Afghanistan by the end of this year.
+
+The news comes as other countries assess Watchkeeper for their tactical unmanned requirements. Thales is the prime contractor for Watchkeeper. Watchkeeper secured the first Statement of Type Design Assurance from the Military Aviation Authority for an unmanned air system, a critical step to ensure the best in class system. Watchkeeper was given a Release To Service (RTS) in March 2014.
+
+Following the handover of Camp Bastion in Afghanistan, the Unmanned Air System will return home to Wiltshire where Royal Artillery troops will continue to train with the system in a restricted airspace over Salisbury Plain. “Watchkeeper carrying out surveillance tasks and gaining situational awareness via its cutting edge cameras and radar capability, a new asset for the UK’s Armed Forces.”
+
+Chief of the Defence Staff, General Sir Nick Houghton said following a visit in Camp Bastion, Afghanistan, where the Watchkeeper was deployed. Among the new capabilities introduced with the system are ultra high resolution, multi-modal radar and automatic take-off and landing.
+
+“It’s been a real privilege to be the first to fly the Army’s new Watchkeeper Remotely Piloted Air System on operations. It’s an amazing capability and has already provided important information to the troops, enhancing the safety of everyone that lives and works at Bastion. The video and images we provide are a bit like what you might have seen during police chases on TV, the main differences are the videos and pictures are a much higher resolution and we fly the aircraft from a control centre on the ground.” Watchkeeper pilot and payload operator, Sgt Alex Buchanan, said.
+
+Thales has also delivered a new comprehensive training capability based at MOD Larkhill and Boscombe Down, and has helped to establish Aberporth, West Wales as a leading UAV Testing Centre in Europe.
+
+The new British drone has a mass of 450 kg and a payload capacity of 150 kg, with a typical endurance of 17 hours. It is based on the Hermes 450 UAV developed by Elbit Systems. The Watchkeeper is built in the UK by a joint venture company, UAV Tactical Systems (U-TacS), set up by the Israeli company Elbit Systems (51% ownership) and French European Thales conglomerate.","{'label': 'Neutral', 'score': 0.9894304275512695}",neutral,0.9894304275512695,0
+Thales Australia F90 assault rifle to enter low rate initial production | September 2014 global defense security news UK ... - Army Recognition,"Wed, 24 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMilwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vc2VwdGVtYmVyXzIwMTRfZ2xvYmFsX2RlZmVuc2Vfc2VjdXJpdHlfbmV3c191ay90aGFsZXNfYXVzdHJhbGlhX2Y5MF9hc3NhdWx0X3JpZmxlX3RvX2VudGVyX2xvd19yYXRlX2luaXRpYWxfcHJvZHVjdGlvbi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has secured a Department of Defence contract to enter Low Rate Initial Production for the company’s innovative F90 assault rifle. “This is a major milestone in the F90 story,” said Kevin Wall, Vice President Armaments at Thales Australia. The engineering and development of Australia’s F90 has created a light, versatile weapon that has met the highest standards of performance and reliability.
+
+“Backed by over a century of military weapons experience, Thales’s Lithgow facility will now begin manufacturing F90 rifles as part of a derisking exercise designed to smooth the transition in production from the existing in-service weapon to the F90.” The F90 recently achieved Provisional Design Acceptance following an extensive testing period that saw over one million rounds fired.
+
+
+
+The F90 is an innovative and lightweight weapon that is a direct product of modern day soldier requirements on today’s battlefields. Building on the company’s extensive Australian expertise in small arms, the F90 is evolved from a battle-proven weapon that has been in service in Australia and 30 other countries for over two decades.
+
+
+
+Features include a rifle variant weight of 3.25kg with high levels of reliability and rapid target acquisition time. The bullpup design enables a longer barrel and associated higher muzzle velocity for greater stopping power within a compact overall length. The weapon’s open architecture incorporates a NATO tri-rail system and optional NATO magazines, while a growth path allows for the fitting of centralised power, as well as data and powered rails. The F90 also includes an integrated side-loading 40mm grenade launcher that can be attached in just a few seconds by the soldier.
+
+
+
+Thales Australia CEO Chris Jenkins said: “The F90 is a weapon ideally suited to the modern battlefield. Light, compact and adaptable, it offers armed forces a cost-effective upgrade with a substantial degree of future-proofing. It is evolved from a tried and tested platform that has been proven again and again on operations, and is backed up by 100 years of weapons engineering, as well as leading design expertise, at our facility in Lithgow, Australia.” The F90 is identical to the EF88-designated weapon currently being developed by the company for Australia’s LAND 125 program, and is based on the F88 platform that has been in service and evolved in Australia since the late 1980s. The weapon is available in five variants: F90; F90(G) (grenade launcher variant); F90M (’Marksman’ variant with a longer barrel); F90M(G) and F90CQB (Close Quarters Battle – a carbine). The Marksman variant is the same length as Australia’s in-service F88SA2, but is over 0.5kg lighter, while the equivalent grenadier variant is over 1.6kg lighter. Thales is in cooperation with Austrian company Steyr Mannlicher to pursue specific opportunities, such as the French DGA FAMAS replacement project, utilising Steyr Mannlicher’s manufacturing experience and facilities.","{'label': 'Positive', 'score': 0.7949874997138977}",positive,0.7949874997138977,1
+Thales and NATS sign a new contract in the UK - ATC Network,"Thu, 18 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmF0Yy1uZXR3b3JrLmNvbS9hdGMtbmV3cy90aGFsZXMvdGhhbGVzLWFuZC1uYXRzLXNpZ24tYS1uZXctY29udHJhY3QtaW4tdGhlLXVr0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Following an international competitive tender, NATS, the UK's main air navigation service provider, have chosen Thales to supply their new Safety Nets Server. The technology will be deployed at Swanwick and Prestwick Air Traffic Control Centres, as well as at NATS’ Corporate Technical Centre and will be integrated into a fully virtualised environment.
+
+
+
+Based on the Thales TopSky–Safety Nets system, this innovative technology guarantees earlier conflict detection and a lower nuisance alert rate than standard safety nets. It is anticipated that TopSky–Safety Nets will help extend NATS’s outstanding safety record.
+
+
+
+This contract underscores Thales’s leading position in the provision of air traffic management systems in Europe.
+
+
+
+Thales is proud to partner with NATS and aspires to their vision for the future of air traffic management in Europe. This contract is evidence of Thales’s edge in delivering components perfectly integrated into the actual ATC system and virtualised ATM solutions.
+
+
+
+NATS joins over 40 Air Navigation Service Providers across the globe that have already chosen TopSky–Safety Nets for their ATC centres.
+
+
+
+Thales is the leading manufacturing industry contributor to SESAR and its TopSky–Safety Nets are used extensively in SESAR validations and are fully compliant with ICAO Aviation System Block Upgrades, Block 0 and 1.
+
+
+
+","{'label': 'Positive', 'score': 0.9813240170478821}",positive,0.9813240170478821,1
+A Day in the Life... Daniel Green - Thales,"Wed, 03 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2RheS1saWZlLWRhbmllbC1ncmVlbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A Day in the Life... Daniel Green Share this article
+
+
+
+LinkedIn
+
+Dan joined Thales as a business graduate in 2012 and joined the Services team earlier this year. He's worked in Glasgow, Crawley and now works in Basingstoke.
+
+""I have recently joined the Services team which works with each of the UK business units to support and develop the growth of Services. It is a busy time and I have been involved with lots of interesting projects.
+
+""As my job involves working with the different business units, I get the chance to attend meetings at different sites, often spending time at Crawley or Weybridge and I have even spent a few days in Paris.
+
+""On a normal day when I’m in Basingstoke, I like to start my day early and focus on multiple projects of which I have responsibility for completing. I try to plan my week in advance although new tasks often come up changing my priorities. It’s important that I therefore manage my time effectively to make sure everything gets done. However there are lots of great people at Thales who are willing to help with any issues I have.
+
+""Alongside my role, I have had the opportunity to work on a couple of projects with the Emerging Talent Team. This has included being on the committee for organising this year’s Annual Graduate Conference (AGC) and being part of the team producing GradMail!
+
+""There are plenty of projects to get involved with outside of the day to day job which are very beneficial in terms of networking and experience. I have met some great people and learnt a lot over the past two years.","{'label': 'Neutral', 'score': 0.9998555183410645}",neutral,0.9998555183410645,0
+Australia OKs low-rate production of new military rifle - UPI News,"Tue, 23 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTQvMDkvMjMvVGhhbGVzLXJlY2VpdmVzLWxvdy1yYXRlLXByb2R1Y3Rpb24tY29udHJhY3QtZm9yLW5ldy1hc3NhdWx0LXJpZmxlLzc1ODE0MTE1MDQ3Mzgv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales F-90 assault rifle. (Thales)
+
+SYDNEY, Sept. 23 (UPI) -- A new assault rifle for the Australian Defense Force is entering low-rate production under a Department of Defense contract. The weapon by Thales Australia is the F90, a lightweight 5.56mm rifle that recently achieved Provisional Design Acceptance following an extensive testing period. Advertisement
+
+The rifle is in a bull-pup design, has an open architecture that incorporates a NATO tri-rail system and an integrated side-loading 40mm grenade launcher that can be rapidly attached.
+
+""This is a major milestone in the F90 story,"" said Kevin Wall, Vice President Armaments at Thales Australia.
+
+""Backed by over a century of military weapons experience, Thales's Lithgow (Australia) facility will now begin manufacturing F90 rifles as part of a de-risking exercise designed to smooth the transition in production from the existing in-service weapon to the F90.""
+
+Thales said the F90 is based on the F88 rifle, a licensed copy of the Austrian Steyr AUG rifle, now used by Australian troops, and will come in five variants, including a marksman model with a longer barrel and a carbine variant for close combat.
+
+Details of the low-rate production contract, such as value and number of units to be made, were not disclosed.
+
+Advertisement","{'label': 'Neutral', 'score': 0.9999643564224243}",neutral,0.9999643564224243,0
+Thales to equip New Zealand's Anzac frigates with SMART-S MK2 radar - Opérationnels SLDS - operationnels.com,"Tue, 23 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vb3BlcmF0aW9ubmVscy5jb20vMjAxNC8wOS8yMy90aGFsZXMtdG8tZXF1aXAtbmV3LXplYWxhbmRzLWFuemFjLWZyaWdhdGVzLXdpdGgtc21hcnQtcy1tazItcmFkYXIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Crédits photos © Thales
+
+These medium-to-long range surveillance radars are to be installed on the two ANZAC class frigates operated by the Royal New Zealand Navy, in the scope of the ANZAC Frigate System Upgrade, performed by Lockheed Martin Canada. The first system is to be delivered early 2016, the second one early in 2017.
+
+SMART-S Mk2 supports the full range of MBDA’s multi-mission missile, the Common Anti-Air Modular Missile as well as it being excellent price/performance value in the market. These elements were a key factor in Lockheed Martin Canada’s decision.
+
+This contract marks yet another success for Thales‘s SMART-S Mk2, the world’s best-selling medium-to-long range naval surveillance radar. This radar has been sold well over 50 times, to navies on all continents. Geert van der Molen, Thales’s vice-president, in charge of Surface Radar activities: “SMART-S Mk2’s proven capability to support Evolved SeaSparrow Missile, Vertical Launch MICA, and now the Common Anti-Air Modular Missile sets the standard for 3D medium range radar market. It‘s no coincidence SMART-S Mk2 is the radar of choice for Navies around the world”.
+
+About SMART-S Mk2
+
+SMART-S Mk2 is a modern naval air and surface surveillance radar that applies the unique multi-beam concept. Its high reliability and stealth target detection, even in cluttered environments, support long missions and operation in littoral environments. The SMART-S Mk2 is very easy to operate by only two fully automatic operational modes. Furthermore the SMART-S Mk2 is easy to install and integrate and easy to maintain.","{'label': 'Positive', 'score': 0.999962568283081}",positive,0.999962568283081,1
+At the heart of UAE's boom in transportation projects - The National,"Tue, 09 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZW5hdGlvbmFsbmV3cy5jb20vYnVzaW5lc3MvYXQtdGhlLWhlYXJ0LW9mLXVhZXMtYm9vbS1pbi10cmFuc3BvcnRhdGlvbi1wcm9qZWN0cy0xLjIzNDkyN9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thibaut Trancart is the country director for the UAE for Thales Group. The Frenchman arrived here three years ago from Thales in Libya where he was also in charge. On the fifth anniversary of the opening of the Dubai Metro, Mr Trancart reflects on the company’s involvement in that project and the continuing boom of transportation projects in the UAE.
+
+Remind us of Thales’s role in the construction of the Dubai Metro.
+
+We worked with Mitsubishi Heavy Industry (MHI), which headed the consortium that built the system, on the design made by the Roads and Transport Authority (RTA) and our job was to enable the train to operate on its own on a fully automatic basis. What does that mean in concrete terms? We did the communications system, the signalling system, the ticketing system (which is basally fare collection) and some of the security equipment.
+
+Five years on, how do you measure the success of the Dubai Metro?
+
+In 2009 it was the longest driverless train system in the world and that is still the case today. In terms of design, it represents quite a lot of innovation and it’s something of which we are definitely proud. Dubai Metro remains a showcase for us all over the world. And the figures speak for themselves. We are reaching 500,000 passengers more or less every day. And if we take the rates of availability and punctuality which are above 99 per cent, it’s one of the most reliable systems we have ever seen in the world.
+
+What projects are you currently focusing on in the UAE?
+
+In transportation, we are pleased to be in an area of the world where the market is booming. Speaking about Dubai first, we’ve got Dubai 2020 – we are going to have a huge amount of extension for the Dubai Metro, and the RTA has massive plans on the Green Line and Red Line extensions. We’ve got the Etihad Rail project. Unfortunately, we were not involved in phase one [from Shah and Habshan to Ruwais] but phases two and three are coming. We are optimistic, but we are waiting for the result of the competition. We’ve got the Abu Dhabi Metro project and also the trams project. We’ve got a lot of other areas of growth in the airport domain with Abu Dhabi midfield terminal, DWC. We delivered Terminal 3 Concourse 2 of Dubai Airport [providing security and communication systems] and the air traffic management and navigation systems for Abu Dhabi’s international airport as well. By 2020 one aircraft in 20 will be flying out of the UAE and that can definitely give us a huge array of growth as well.
+
+How do you see the company developing here over the next few years?
+
+Globally, Thales operates in aerospace, space, defence, security, transportation. And Thales in the UAE is involved in all those areas of business. It’s rewarding to capture more and more business, but more importantly our key strategy right now is driven by localising activities in the country, by setting up key partnerships and alliances with local top-level companies in all of our areas of activity. This will allow us to export business from the UAE.
+
+Does Thales find it difficult to attract qualified staff in the UAE, especially as Emiratis sometimes prefer to work in the public sector?
+
+It is definitely a challenge. In the very early days of our presence in the UAE, we set up a company called the CERT Thales Institute which is a training centre. We trained a lot of people out of this academy which is kind of a vocational training institute. With Thales Université, we set up a lot of MOUs, agreements with some of the local universities – with Khalifa University, for instance, in Abu Dhabi – with the objective to use that to attract some local workforce to our local companies or joint ventures.
+
+What has been your biggest achievement since coming to the UAE?
+
+Of course, winning projects is something rewarding, but most importantly is the way we’ve been driving the company in the country – in the way we’ve been able to localise more and more activities into that while co-developing systems in the country and sharing intellectual property, offering some technology know-how. Of course, we have achievements that we collectively reached in the country which include the delivery of the Concourse 2 of Dubai Airport which was delivered on time and is a key achievement for us as well.
+
+business@thenational.ae
+
+Follow The National's Business section on Twitter","{'label': 'Neutral', 'score': 0.9997158646583557}",neutral,0.9997158646583557,0
+Brazilian Geotechnical Sector: Alphageos Tecnologia Aplicada - Marcopolis,"Thu, 18 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbWFyY29wb2xpcy5uZXQvYnJhemlsaWFuLWdlb3RlY2huaWNhbC1zZWN0b3ItYWxwaGFnZW9zLXRlY25vbG9naWEtYXBsaWNhZGEuaHRt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Interview with Ruy Thales Baillot, Director and Founder of Alphageos Tecnologia Aplicada
+
+Alphageos works in geological investigation. What is your evaluation of the geotechnical sector in Brazil at the moment?
+
+
+
+The geotechnical sector in Brazil now is quite an advanced sector and one that has developed a lot. Today the Brazilian geotechnical sector is well positioned globally. This may be a result of the strong demand over many years that Brazil has had for this sector. I certainly think that this is a very propitious and developed sector here. There are associations like the ABMS (the Brazilian Association for Soil Mechanics and Engineering) and the ABGE (the Brazilian Association of Geological and Environmental Engineering) which have always brought a lot of experience and knowledge from abroad and who today are able to pass on our knowledge and experience to other countries.
+
+
+
+The civil construction sector that we deal in has excellent potential. There is so much to be built in Brazil. We need highways, ports, airports, schools, buildings, etc. Thus, it is a very promising field for those that are willing to make the most of it.
+
+
+
+
+
+Can you tell us a bit about the history of Alphageos?
+
+
+
+Alphageos came about from a dream that I had when I was practically retired. In those years people retired at a relatively young age. When I was 45 or 46, I retired and I founded this company. I built it up from practically nothing but with a lot of experience. Today the company has been active for 28 years, and we have developed incredibly. The market has been favourable and the company´s employees all have excellent experience. I live a very happy life! We haven’t had many low points, we have always had high and medium points.
+
+Your company has been listed as one of the 250 small and medium sized companies showing the greatest growth in Brazil. How do you explain this growth?
+
+
+
+This growth is very much a result of our extensive experience. When the company was founded, we were already quite senior and we differentiated ourselves from what was already present in the market. The two main partners had worked for many years in project development companies and so they really knew a lot about the difficulties that people had in receiving this kind of data. When we presented our company and our service, we tried to supply all of the services that we knew were not available or difficult to find. The market was very receptive and remains so today. We really tried to present a very different service.
+
+In this respect, you have some very innovative technologies…
+
+
+
+Yes, along with our years of experience we really tried to bring to Brazil the most developed technology from around the world. The company has a registered brand. This brand is the only one that is used in some sectors today. We do have some competitors who are trying to follow in our footsteps, which is in fact really good. However, we remain in a position of distinction in the market. We bring state of the art technology to Brazil. Borehole imaging is a revolutionary technology that we brought to Brazil 14 years ago. We also use the CPT (cone penetration test). We are even bringing in and using technology and equipment that does not yet exist in Brazil. Our company stands out in Brazil and even internationally.
+
+You must have many success cases to share with us.
+
+
+
+Yes quite a few indeed. We are working on the tunnel from Guarujá to Santos. This is a magnificent project and we have done all of the geotechnical work for this project. In fact, we are still working on it with the supervision of Brazilian project development companies and with Dutch assistance. This involves a technology that is very interesting and that has not been used much here in Brazil yet. With this project, we have really been able to stand out in the Brazilian geotechnical sector. We are also well experienced in auditing project quality. We have been working for more than 10 years in this sector where we are also quite innovative. We are often contracted by investment companies, investors and private owners so that they can have a guarantee that everything is being done correctly and with quality without having to rework their service. This very interesting sector is also doing very well.
+
+Can you tell us about your international activities?
+
+
+
+We are working in Chile, on an 18km tunnel. We have proposals to work in Africa, for example in Ghana and Angola. We also wish to work in Panama. We are looking forward to the outcome of this in order to internationalise our services a bit more.
+
+How do you approach corporate social responsibility?
+
+
+
+We are an honest company that follows the rules and doesn’t try to avoid income tax or anything like that. We give a domestic service that we think is of good scope particularly for our employees. We help to pay for university courses for all of our employees and we help cultivate the skills of our key employees. We also work to help with some associations, for example,we work with an association that helps with transport for children that are suffering from cancer.
+
+What are the main challenges that your company faces?
+
+
+
+There are always challenges because the technology is constantly evolving. Our challenge is to be up to date with the technology and to stand out not only nationally but also internationally. There are challenges every day.
+
+This sector is relatively new in Brazil but it has attracted a lot of foreign investment. Are you open to any potential partnerships?
+
+
+
+Without a doubt. The civil construction sector that we deal in has excellent potential. There is so much to be built in Brazil. We need highways, ports, airports, schools, buildings, etc. Thus, it is a very promising field for those that are willing to make the most of it. Today, Brazil is undoubtedly a global point of interest. We have a very attractive culture for international investment, perhaps more so than some other potential locations. We are a joyful population.
+
+If a company were interested in some kind of fusion, would you be interested?
+
+
+
+Yes. We have already carried out successions and today we are working in association with a German company to develop some new state of the art technology for a trial that will be specialised to determine the residual extensions in the rocks for when you wish to carry out very deep excavations. This technology has so far only really been dominated in a couple of places in the world. Thus, we are in association with this German company in order to be able to bring this technology to Brazil so that we can also dominate it. This is a very attractive technology because it is extremely specialised and it is a challenging technology that really catches people´s eye. We have a good relationship with this German company; the association is quite developed.
+
+Therefore, in general, are these partnerships mostly in terms of technological partnerships?
+
+
+
+It´s one thing to read about how to do something, but it´s another thing to know how to do it. It´s hard to dominate a particular sector despite having access to much of the literature about that sector if you don’t have experience. Especially in this kind of activity, it is very important that you have used these technologies at least once. You don’t want to have to reinvent the wheel. You have to use existing technology, adopt it and if possible improve it.
+
+Over the last few years, Alphageos has participated in many of the most important developments and constructions in the country. Can you tell us a bit about some of these projects?
+
+
+
+In some way or another, to different extents, we have participated in almost all of the most important projects that have been developed over the last 20 years in Brazil. For example, we participated in the elimination of pollution from the river Tiete with Sabesp in the state of Sao Paulo. We have worked with Petrobras in Macae and are continuing to work with them in that area. We have worked with Petrobras on many projects. We work on many projects with Vale, one of which is the duplication of the Carajas railroad. We have also provided our services on projects for airports such as the Guarulhos airport in Sao Paulo. We have worked on various lines of the Sao Paulo metro; in fact, we have had the pleasure to work on the development of practically all of the metro lines. We also worked on the development of both metro lines in Rio de Janeiro. We are still now working on this project to a lesser extent. We also worked on the transposition of the River Sao Francisco. We have worked on some important port projects from the port of Rio Grande do Sul to the port of Rio Grande for Petrobras. We have worked on the ports of Paranagua, Sao Sebastiao, Santos, Rio de Janeiro and Sepitibe. We worked for four years of the Sudeste Port. Thus, we have participated on a significant level in all of the most important developments and projects in the country in recent years.
+
+Checking the subsoil is important for property development projects. Do you also work in this area?
+
+
+
+We don´t do much work for property development projects in this sense. We work in the field of drilling, exploration, cone testing i.e. working with the foundations. We carry out some technical controls for some building projects; for example, in Santos we have a branch that is very active in this sector.
+
+Do you have any other branches?
+
+
+
+We have a branch in Santos and in Sao Jose dos Campos. We have some well-established offices in Para and in Maranhao but these are not branches as such; they are legal entities. We have such offices in Rio Grande do Sul and in Minas Gerais. They are not yet branches. We only open a branch when a branch is ready to be created. We have projects going on in Para, Maranhao and in Minas Gerais but they have not yet resulted in us opening a branch in these locations. A branch depends on having clients in that area that require such an administrative structure. There needs to be the demand to justify opening a branch. The coastal area of Sao Paulo and the area of Paraiba for example are quite established and developed in this sense and so there is the market and demand for having a branch.
+
+With such growth, how do you see the future of the company in two or three years?
+
+We don´t expect to grow in a huge manner. We simply want to be a specialised company. Being a specialised company demands a very intense technical supervision. Today, we have 250 employees; we should not increase by more than double that and if we do it will be by very little. When a company grows a lot and very rapidly it becomes very difficult to maintain the quality standards and meet client demands.
+
+What advice would you give to a foreign investor considering investing in this sector in Brazil?
+
+I would tell them to come here. It may seem to foreign eyes that we are experiencing a crisis but actually, this is a propitious moment for companies to establish themselves. Because when you come into a country when it is at its peak, there are many more challenges such as expensive raw materials and work force. Today we have a large challenge with work force in all specialisations because there is so much demand but if there was more development going on it would be even harder. That´s why I would say that it is a propitious moment for a foreign company to come to Brazil. People may say that there is not much growth here and that things aren´t doing well, but I would say that we are doing very well. I believe that any company that has a level of specialisation coherent to the demand here will have a brilliant future in Brazil despite the difficulties with bureaucracy and some underdeveloped public sectors. I think this is a phase that every country has to go through to reach the bright side of things.
+
+FAIR USE POLICY
+
+This material (including media content) may not be published, broadcasted, rewritten, or redistributed. However, linking directly to the page (including the source, i.e. Marcopolis.net) is permitted and encouraged.","{'label': 'Positive', 'score': 0.9996652603149414}",positive,0.9996652603149414,1
+EXPOSED: How arms dealer Thales bankrolled Zuma - TimesLIVE,"Sun, 28 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRpbWVzbGl2ZS5jby56YS9wb2xpdGljcy8yMDE0LTA5LTI4LWV4cG9zZWQtaG93LWFybXMtZGVhbGVyLXRoYWxlcy1iYW5rcm9sbGVkLXp1bWEv0gFjaHR0cHM6Ly93d3cudGltZXNsaXZlLmNvLnphL2FtcC9wb2xpdGljcy8yMDE0LTA5LTI4LWV4cG9zZWQtaG93LWFybXMtZGVhbGVyLXRoYWxlcy1iYW5rcm9sbGVkLXp1bWEv?oc=5&hl=en-US&gl=US&ceid=US:en,"President Jacob Zuma and the ANC were deep in the pockets of French arms giant Thales. This is according to explosive documents obtained exclusively by the Sunday Times that reveal how Thales fixer Ajay Sooklal allegedly arranged flights, fancy clothes, legal fees and lavish hotel stays in Europe for Zuma when he faced corruption charges linked to the arms deal.
+
+Thales's South African subsidiary Thint won a R2.6-billion contract in 1997 to fit four new navy frigates with combat suites.
+
+The documents are transcripts of testimony given under oath before retired Judge Phillip Levinsohn at confidential arbitration hearings held earlier this year in a fee dispute between Sooklal and Thales.
+
+The transcripts, totalling 1358 pages, provide a detailed account of Sooklal's work as a lawyer and secret fixer for Thales for six years.
+
+Sooklal claims he is owed R70-million in outstanding fees. Thales has offered him R42-million.
+
+Zuma declined to respond to detailed questions e-mailed to his spokesman Mac Maharaj this week.
+
+""Anyone with information relating to the arms deal should bring it to the attention of the Seriti commission,"" Maharaj said. ""The commission has been established specifically to deal with such allegations and rumours.""
+
+The commission resumes on October 6 with testimony from arms deal activist Terry Crawford-Browne.
+
+The transcripts expose for the first time that:
+
+Zuma used the code words ""Eiffel Tower"" to accept a R500000-a-year bribe from Thales in return for political protection in the arms deal probe and to secure future business;
+
+Thales gave former ANC treasurer Mendi Msimang a cheque for €1-million (about R14-million at today's rates) in April 2006 to be paid from a secret Dubai account into an ""ANC-aligned trust"" shortly before the company was due to stand trial for corruption with Zuma;
+
+Thales was asked to bankroll the ANC conference at Polokwane in 2007, where Zuma was elected party president, but did not do so;
+
+Thales furiously lobbied ANC officials including former president Thabo Mbeki, former justice minister Penuell Maduna, former secretary-general Kgalema Motlanthe and Msimang to be let off the hook, even enlisting the help of French president Jacques Chirac; and
+
+Thales bankrolled Zuma and Sooklal to fly around the world and meet witnesses who could help the ANC president in his forthcoming corruption trial, even when they were unrelated to Thales.
+
+As deputy president and head of government business at the time, Zuma was also expected to promote the French arms and electronic company's future business ventures in South Africa in return for his alleged bribe.
+
+The arms company has since clinched several lucrative state contracts.
+
+These include a R1.87-billion rail signalling contract in the Western Cape in 2013, a R100-million electronic ticketing system for the Gautrain in 2007 and a R95-million air traffic control maintenance contract in 2009 that did not go out to tender.
+
+Despite a decade of court proceedings, Sooklal's is the first sworn testimony that Zuma personally signalled his acceptance of the bribe that led to Shaik's conviction. The code words used, ""Eiffel Tower"", has also never been revealed before.
+
+The documents show Shaik proposed the bribe and code words to Alain Thetard, who headed Thint at the time. On March 11 2000 Shaik brought Thetard to see Zuma at King's House, his official residence in Durban, where he allegedly said: ""I see the Eiffel Tower lights are shining today.""
+
+This was taken to mean Zuma had accepted the bribe offer. At the meeting Thetard jotted down the terms of the bribe agreement on a piece of paper he later gave to his personal assistant, who typed it up and sent it via encrypted fax to Thales's Paris and Mauritius offices. The fax became a crucial item of evidence and helped convict Shaik on corruption charges.
+
+Two courts found that the King's House meeting in 2000 led to the first R250000 tranche of bribe money being released to Shaik.
+
+The transcripts reveal the extent to which Thales had Zuma and the ANC in their pocket.
+
+Sooklal, a politically connected former government official, was hired in 2003 to ""make representations to the highest authorities in the land"" to get corruption charges against Thales withdrawn and arrest warrants for its top executives uplifted soon after then-prosecutions boss Bulelani Ngcuka announced he would charge Shaik - and said there was a ""prima facie"" case of corruption against Zuma.
+
+Sooklal was mandated by Thales to help Zuma beat his corruption charges. Zuma and Thint were only charged in November 2005, after Shaik was convicted of corruption.
+
+Pierre Moynot, who replaced Thetard to head Thales's South African arm, allegedly told Zuma in Sooklal's presence: ""Your clothes and your other outgoings anywhere in the world, I will pay for that.""
+
+Moynot allegedly handed the à1-million cheque to Msimang at his Waterkloof, Pretoria, home in Sooklal's presence. ""Mr Msimang was quite happy with the cheque"" and asked Moynot to thank his boss in Paris, said Sooklal.
+
+Asked to comment on Sooklal's allegations, Moynot said Thales had hired him because he had ""very good relations with the government"" but accused him of ""lying"" in his testimony. ""We realised very soon he was not a proper guy - he would do anything for money,"" Moynot said.
+
+However, he confirmed that Thales had bankrolled Zuma's clothes, trips and legal fees and made a substantial donation to the ANC. ""He had no money at the time. That's why we helped him,"" he said.
+
+Thales wanted Zuma's prosecution ""to be stopped as soon as possible. If he had lost, the company would have a lot of problems in his country and we would have had to leave.""
+
+There was nothing untoward in the ANC donation. ""A lot of companies want to have good relations with the ANC and give them money from time to time."" Asked to confirm the amount of à1-million, he said it was ""something like that"".
+
+ANC spokesman Zizi Kodwa said ""the ANC has got no record of such a donation. It's hearsay.""
+
+Sooklal's job with Thales ended after charges against Zuma and Thint were controversially withdrawn in April 2009 by prosecutions boss Mokotedi Mpshe, citing evidence of political interference contained in the so-called spy tapes.
+
+Thales has declined to make any official comment, saying the arbitration matter was ""sub judice at this stage"". Sooklal said he would comment when the hearings ended. They are scheduled to continue this month.
+
+Thetard and Msimang could not be reached for comment.
+
+investigations@sundaytimes.co.za","{'label': 'Neutral', 'score': 0.9999650716781616}",neutral,0.9999650716781616,0
+Arms dealer had Zuma in its pocket - Namibian,"Mon, 29 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm5hbWliaWFuLmNvbS5uYS9hcm1zLWRlYWxlci1oYWQtenVtYS1pbi1pdHMtcG9ja2V0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"CAPE TOWN – Explosive documents obtained by the Sunday Times have revealed exactly how deep in the pockets of French arms dealer Thales were president Jacob Zuma and the ANC.
+
+The newspaper reports how Thales’ South African attorney and secret fixer, Ajay Sooklal, allegedly arranged flights, fancy clothes and lavish hotel stays in Europe for Zuma when he was facing corruption charges. Zuma also allegedly used the code words “Eiffel Tower”, which when translated meant “bribe”.
+
+The documents handed to the Sunday Times are transcripts of testimony given under oath before retired Judge Phillip Levinsohn at confidential arbitration hearings earlier this year in a fee dispute between Sooklal and Thales.
+
+Sooklal claims he is owed N$70 million by Thales, which is willing to settle for N$42 million.
+
+According to the newspaper, the transcripts claim that Zuma used the code word “Eiffel Tower” to accept a N$500 000-a-year bribe from Thales in return for political protection and to secure future business; that Thales gave the ANC €1m (about N$14 million) shortly before the corruption trial and that Thales bankrolled Zuma and Sooklal to jet around the world to meet with witnesses ahead of the corruption trial.
+
+In addition to this, the transcripts claim that Thales lobbied high-ranking ANC officials including former president Thabo Mbeki and even former French president Jacques Chirac to get the corruption charges dropped. The company has since secured multi-million rand government contracts that include a N$1.8 billion rail signalling contract; a N$100 million electronic ticketing system for the Gautrain and a N$95 million air traffic control maintenance contract that was never put out on tender.
+
+As reported, the arms deal controversy began in 1999 when arms deal whistleblower Patricia de Lille presented a dossier to parliament containing numerous allegations of bribery in a multi-billion rand arms deal.
+
+At the time de Lille was leader of the Independent Democrats.
+
+Events over the years have included former ANC chief whip Tony Yengeni being arrested for failing to declare a discount he received from an arms company on a Mercedes 4X4.
+
+In 2005, Zuma’s former financial adviser Schabir Shaik was convicted of corruption relating to the arms deal. Shortly afterwards Zuma himself was charged.
+
+In September 2006, Judge Herbert Msimang struck Zuma’s case off the roll.
+
+Msimang said he had “no choice” after the prosecution said it was not ready to proceed. He said the State’s case had “limped from one disaster to another”.
+
+In early 2008 the National Prosecuting Authority (NPA) again reinstated charges accusing Zuma of accepting a N$500 000 bribe from French arms company Thint.
+
+In 2009 the NPA, after receiving representations from Zuma’s lawyers, announced that charges against him will be dropped.
+
+– Sunday Times","{'label': 'Neutral', 'score': 0.9997069239616394}",neutral,0.9997069239616394,0
+ALRAY-Palestinian Media Agency-ALRAY - وكالة الرأي الفلسطينية -,"Wed, 24 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vYWxyYXkucHMvZW4vaW5kZXgucGhwP2FjdD1wb3N0JmlkPTU0NTfSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A demonstrator waves the Palestinian flag during a protest near the Israeli embassy in central London on August 1, 2014.(AFP Photo / Leon Neal )
+
+RT - Pro-Palestinian activists in Glasgow have gained access to the factory of a leading multinational defence company with links to an Israeli drone manufacturer.
+
+Thales UK is working with Elbit Systems to make the next generation of Watchkeeper drones, a contract worth £1 billion.
+
+Around 15 activists from the Glasgow Palestine Action Network (GPAN) attended the protest, with around five people climbing on the factory doors, while others blocked the factory doors during the early hours of Tuesday morning.
+
+The roof’s occupiers hung banners from the factory, condemning UK involvement in trading and developing arms with Israel.
+
+“UK Gov. Thales Elbit: Complicit in Genocide” read one banner, while another said “Stop Arming Israel""
+
+
+
+
+
+The protesters said they staged the action because of Thales’ relationship with the Israeli drones’ manufacturer Elbit systems, Israels’ largest military research and development centre.
+
+According to the London Palestine Action Group, who shut down the Elbit Systems factory in August, the Israeli weapons’ manufacturer is one of the world’s leading developers of unmanned aerial drones, which many suspect the Israel Defense Forces (IDF) used in Operation Protective Edge in Gaza.
+
+The operation, which ended in August, killed more than 2,000 civilians, according to the United Nations. Among the casualties were hundreds of women and children.
+
+“Drones are a key part of Israel’s military arsenal,” said Fifi O’Hara, one of the roof’s occupiers.
+
+“By allowing this factory to export drone components and other arms to Israel, the UK government is providing direct support and approval to Israel’s massacres.”
+
+Lattice Royale, another protester, argued that the UK had “blood on its hands” for its continuation of weapons contracts with Israel, and that the Scottish government should set a precedent by ending its role in the global arms trade.
+
+“We demand that the Scottish government puts pressure on the UK government to end arms sales to Israel. And also takes active steps towards ending the production of weapons systems in Scotland that are connected to apartheid, colonialism and genocide,” she said, adding: “Another Scotland is possible!”
+
+Thales UK has come under heavy criticism in the past for its association with the Israeli defence forces, with protesters occupying the London office of the multinational.
+
+
+
+
+
+Police arrived at the scene on Tuesday afternoon, and have been discussing ways to control and disperse the protesters.
+
+""A small number of protesters have made their way inside the perimeter fence and onto the roof of the building,"" a spokesperson from Thales UK said.
+
+""The protest appears at this stage to be peaceful and representatives from the police are on site and are dealing with the situation.""
+
+Watch
+
+
+
+","{'label': 'Neutral', 'score': 0.999638557434082}",neutral,0.999638557434082,0
+Thales Awarded Contract To Produce F90 Rifle for ADF - - The Firearm Blog,"Thu, 25 Sep 2014 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZWZpcmVhcm1ibG9nLmNvbS9ibG9nLzIwMTQvMDkvMjUvdGhhbGVzLWF3YXJkZWQtY29udHJhY3QtcHJvZHVjZWQtZjkwLXJpZmxlLWFkZi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Australian Defense Force have awarded Thales a contract to produce an unspecified number of Thales F90 rifles for them. The F90 is a modernized Steyr AUG. Jane’s reports…
+
+Thales Australia has received a low rate initial production (LRIP) contract from the Australian Department of Defence (DoD) for the company’s F90 5.56 mm assault rifle, developed to replace the Australian Defence Force’s (ADF’s) in-service F88 series. No details were given by Thales of the contract’s value or schedule, but the company is understood to be hoping for a contract for “an appropriate volume” of F90s after second pass approval, which is anticipated in June 2015.
+
+The F90 is now one step closer to officially becoming Australia’s next service rifle.
+
+Thanks to Albi for the tip.","{'label': 'Neutral', 'score': 0.9996095299720764}",neutral,0.9996095299720764,0

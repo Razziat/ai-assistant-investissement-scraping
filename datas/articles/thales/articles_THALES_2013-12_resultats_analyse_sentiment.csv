@@ -1,0 +1,112 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+"Brazil, Thales Alenia Space Ink Satellite and Tech Transfer Contracts - SpaceNews","Thu, 12 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vc3BhY2VuZXdzLmNvbS8zODYzOWJyYXppbC10aGFsZXMtYWxlbmlhLXNwYWNlLWluay1zYXRlbGxpdGUtYW5kLXRlY2gtdHJhbnNmZXItY29udHJhY3RzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — The Brazilian Space Agency, AEB, on Dec. 12 signed a five-year technology-transfer contract with Franco-Italian satellite manufacturer Thales Alenia Space as part of a wider partnership that includes a commercial contract under which Thales Alenia Space will build a civil-military telecommunications satellite.
+
+Both contracts were signed in Brasilia, Brazil, during a French-Brazilian summit.
+
+The satellite contract calls for Thales Alenia Space to build Brazil’s SGDC X- and Ka-band telecommunications satellite in time for a launch, aboard a European Ariane 5 rocket, in late 2016 or early 2017.
+
+The 5,800-kilogram satellite will carry seven X-band transponders and 50 Ka-band transponders with a total throughput of 80 gigabits per second. The Ka-band payload will be used by the Brazilian government to extend Internet access throughout the country.
+
+The manufacturing contract, valued at about 1.3 billion reals, or $558 million including the satellite’s launch and ground infrastructure, was signed with Visiona Space Technology, a new joint-venture company created by Brazil’s Telebras telecommunications provider and aerospace hardware manufacturer Embraer.
+
+A separate contract between Thales Alenia Space and AEB, valued at about $80 million, calls for specific technology-transfer efforts in satellite telecommunications, Earth observation and meteorology for five years, Thales Alenia Space said.
+
+Technology transfer to help Brazil’s industry develop its space manufacturing capability was a key component of the SGDC competition.
+
+“The agreement will provide a solid basis for joint developments as well as a long-term strategic partnership,” Thales Alenia Space said in a statement.","{'label': 'Neutral', 'score': 0.9999691247940063}",neutral,0.9999691247940063,0
+Thales Alenia Space Re-Opens Industrial Site in L’Aquila - Via Satellite,"Tue, 03 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9pbm5vdmF0aW9uLzIwMTMvMTIvMDMvdGhhbGVzLWFsZW5pYS1zcGFjZS1yZS1vcGVucy1pbmR1c3RyaWFsLXNpdGUtaW4tbGFxdWlsYS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"[Via Satellite 12-3-13] After suffering irreparable structural damage from an earthquake in April 2009, Thales Alenia Space has replaced its original establishment with a newly-inaugurated industrial complex in L’Aquila, Italy.
+
+The inauguration ceremony of the new Thales Alenia Space Italia site was held at the industrial center in Pile. The building project was started in December of 2011, and was completed in less than two years using an investment of $57 million. Thales Alenia Space Italia has had its own plant in the Abruzzo region for 30 years.
+
+The new 16,080-square-meter center is specialized in the production of electronic components and antennas. Technological development and product manufacturing activities are carried out at the plant, as well as the complete production of electronic equipment, hybrids, antennas and composite structures for a wide range of space applications, including remote sensing, telecommunications, radar and military applications. The new facility will also support new production lines dedicated in particular to the development of large, lightweight SAR satellite antennas.
+
+The reconstructed building meets the strictest seismic criteria required by the new seismic regulations. Design solutions adopted envisage the widespread use of heat and construction material recovery systems, which – besides meeting general eco-sustainability criteria – minimize heat loss. The transfer of 307 employees from the temporary sites to the new industrial site began in mid-November and will be completed by early 2014 without any interruption to production activities.","{'label': 'Neutral', 'score': 0.9999815225601196}",neutral,0.9999815225601196,0
+Thales EC635 helicopter simulator for Swiss Air Force achieves Level D certification - Vertical Magazine,"Fri, 13 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdmVydGljYWxtYWcuY29tL3ByZXNzLXJlbGVhc2VzL3RoYWxlcy1lYzYzNS1oZWxpY29wdGVyLXNpbXVsYXRvci1mb3Itc3dpc3MtYWlyLWZvcmNlLWFjaGlldi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is pleased to announce that the EC635 helicopter Full Flight Mission Simulator (FFMS) delivered to the Swiss Air Force has achieved JAR FSTD-H Level D certification issued by Switzerland’s Federal Office of Civil Aviation (FOCA).
+
+The Thales simulator, which is in service at Emmen Air Base, Switzerland, has therefore achieved the highest possible level of FSTD certification. Used to train EC635 helicopter aircrews, this latest-generation simulator meets the Swiss Air Force’s specific pilot instruction and training requirements, improves operational effectiveness, raises levels of crew and operator safety and reduces environmental impacts.
+
+The Thales simulator offers an extended range of capabilities, from ab-initio to tactical training, and allows pilots to train for emergency situations and more than 280 different types of equipment failures. It can be used to train aircrews for a broad array of missions including cargo and personnel transport, search and rescue and forest firefighting. Pilots train under highly realistic flight conditions in varied natural settings, including mountain regions. The simulator can reproduce whiteout and brownout situations, terrain-induced turbulence, very low-level flight and complex landing approach profiles.
+
+Night flying conditions with or without night vision goggles can be realistically simulated. The simulator software also incorporates Thales’s computer-generated forces application to simulate a broad range of tactical environments.
+
+The projection system offers a field of view of 240 degrees horizontally and 90 degrees vertically. The Thales View image generation software and associated database enable pilots to train with realistic views of any area in Europe. The whole of Switzerland can be reproduced extremely realistically from a high-resolution aerial imagery database containing details of buildings, roads, power lines and other structures for the entire country.
+
+The EC635 simulator can be coupled to the AS532 Super Puma/Cougar simulator in service with the Swiss Air Force, also developed by Thales, providing pilots with unlimited scope for training exercises involving formation flying and tactical operations.
+
+Thales has delivered more than 110 helicopter simulators to customers in 25 countries around the world.","{'label': 'Positive', 'score': 0.9994051456451416}",positive,0.9994051456451416,1
+HMS Queen Elizabeth Aircraft Carrier Fitted with Thales SMART-L (S1850M) Long Range Radar - Navy Recognition,"Mon, 02 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMihwJodHRwczovL25hdnlyZWNvZ25pdGlvbi5jb20vaW5kZXgucGhwL25hdmFsLW5ld3MvbmF2YWwtbmV3cy1hcmNoaXZlL3llYXItMjAxMy1uZXdzL2RlY2VtYmVyLTIwMTMtbmF2eS1uYXZhbC1mb3JjZXMtbWFyaXRpbWUtaW5kdXN0cnktdGVjaG5vbG9neS1zZWN1cml0eS1nbG9iYWwtbmV3cy8xMzk0LS1obXMtcXVlZW4tZWxpemFiZXRoLWFpcmNyYWZ0LWNhcnJpZXItZml0dGVkLXdpdGgtdGhhbGVzLXNtYXJ0LWwtczE4NTBtLWxvbmctcmFuZ2UtcmFkYXIuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Since then feverish work has been going on around Queen Elizabeth to complete her hull (finished earlier this month [NOV] with the addition of her ski ramp). With the addition of the mast cap and black slab – officially an antenna, despite its size (32m2 or 344ft2) – all of the ship’s main structure blocks are now in place. The radar, which provides a three dimensional, long-range picture not just of the skies around Queen Elizabeth but also the waters, sits 27 metres (88ft) above the flight deck, 50 metres (164ft) above the sea. And that’s still not the highest point on Queen Elizabeth. When the communications pole mast is fitted next year it will be 70 metres (230ft) from tip to keel – which is almost as long as a River-class patrol ship. As for the radar, it can track up to 1,000 contacts up to a range of 400km (250 miles) from the ship.
+
+
+
+The SMART-L is a 3D multibeam radar designed to provide long-range air & surface surveillance and target designation. Operating in L-band, SMART-L provides a very long-range coverage (400 km radius) as well as 70° of elevation. State-of-the-art technology, combined with refined signal processing, SMART-L guarantees excellent performance, especially against stealthy targets in a littoral environment. SMART-L's high sensitivity allows for the early detection and tracking of very small aircraft and missiles.
+
+
+
+SMART-L is operational on the Netherlands' and German air defence frigates, the Korean Landing Platform Dock and is under contract for the Danish Navy's Patrol Ships. Its derivative, S1850M, is fitted on the Royal Navy's Type 45 vessels and the French and Italian Horizon class destroyers.
+
+","{'label': 'Neutral', 'score': 0.9999325275421143}",neutral,0.9999325275421143,0
+Jamaica Defense Forces to acquire 12 Bushmaster armoured personnel carrier Thales Australia 0312138 | December ... - Army Recognition,"Tue, 03 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5hcm15cmVjb2duaXRpb24uY29tL2RlY2VtYmVyXzIwMTNfZGVmZW5zZV9pbmR1c3RyeV9taWxpdGFyeV9uZXdzX3VrL2phbWFpY2FfZGVmZW5zZV9mb3JjZXNfdG9fYWNxdWlyZV8xMl9idXNobWFzdGVyX2FybW91cmVkX3BlcnNvbm5lbF9jYXJyaWVyX3RoYWxlc19hdXN0cmFsaWFfMDMxMjEzOC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"At present, the JDF has a complement of 14 Cadillac Gage V150s, 10 of which were acquired 37 years ago in 1976 and the other four were acquired in 1985, according to the OPM.
+
+
+
+Over the course of their service life within the JDF, the vehicles have been utilized as critical enablers in many high risk situations such as internal security deployments in support of the Jamaica Constabulary Force (JCF) as well as pre and post disaster response and rescue operations.
+
+
+
+Delivery of the armoured vehicles will commence in 2015.
+
+
+
+The Bushmaster is a highly mobile, ballistics, mine and improvised explosive device (IED) blast resistant Protected Mobility Vehicle (PMV) designed and manufactured by Thales Australia.
+
+
+
+Bushmaster has an established family of modular armoured vehicles offering high levels of protected mobility for combat, combat support and combat service support troops across a diverse range of mission profiles including troop movement, command and control, engineer support and ambulance variants. With over 800 Bushmaster variants delivered to the Australian Defence Force and the Netherlands, Bushmaster is operationally combat-proven, highly capable and affordable, offering greatly enhanced protection, mobility, mission performance, reliability, mission flexibility and operational sustainability.","{'label': 'Neutral', 'score': 0.7736395597457886}",neutral,0.7736395597457886,0
+Thales introduces first A400M flat panel flight trainer - ADS Advance,"Mon, 02 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmFkc2FkdmFuY2UuY28udWsvdGhhbGVzLWludHJvZHVjZXMtZmlyc3QtYTQwMG0tZmxhdC1wYW5lbC1mbGlnaHQtdHJhaW5lci5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales introduces first A400M flat panel flight trainer
+
+The first A400M Flat Panel Flight Training Device designed and built by Thales for Airbus Military has been contributing to the training of air crews at the Airbus Military International Training Centre in Seville since October.
+
+The training device allows air crews to familiarise themselves with the A400M cockpit environment and with the aircraft systems’ functionalities and procedures, as well as flight laws. It represents the aircraft cockpit using a combination of simulated or actual aircraft hardware with high-quality interactive graphical panels displayed on LCD touch screens.
+
+Advertisement
+
+The Flat Panel Flight Training Device provides procedural training to flight crews as part of type certification, tactical training and mission rehearsal, during which the trainee is briefed about normal and abnormal procedures under a step-by-step flow, before carrying out the procedure in the real cockpit environment.
+
+The device is particularly useful for instructional use as it provides overthe-shoulder training in a classroom-style environment. Its layout makes it easy for an instructor to physically demonstrate or identify equipment or operator issues. Training can be self-driven by the student and lesson support material can be displayed on dedicated screens.
+
+Thales has also designed and built an A400M Full Flight Simulator (FFS) for Airbus Military which received qualification for training in June 2013. Thales is also manufacturing three further Full Flight Simulators for delivery to France, Germany and the UK MoD and a second FPT for delivery to Germany.
+
+Advertisement
+
+Through a joint venture with Airbus Military, Thales has also been selected by the UK MoD for the provision of its through life support training service, which includes the design, construction and management of the A400M training school, the installation and maintenance of full flight simulators and all synthetic training, equipment, and support to the RAF’s own course design team and training staff.
+
+The training school is being built at RAF Brize Norton in Oxfordshire, with work planned to complete in spring 2014. The school will train a range of aircrew and ground crew in the operation and maintenance of the RAF’s 22 A400M Atlas aircrafts.
+
+Thales has provided training services for more than 30 years and Thales UK employs around 7,500 staff based at 35 locations. In 2012 Thales UK's revenues were around £1.3 billion. Peter Hitchcock, vice president of Avionics for Thales UK, said: ""Thales has an excellent track record and long-standing experience in the provision of military training solutions. The Flat Panel Flight Training Device that we have just delivered for A400M shares the same heritage as the Full Flight Simulator delivered earlier in the year. They are good examples of the tailored solutions we offer to our customers in response to their need for a family of training products at different price and performance points.”
+
+Thales is a long-standing Airbus partner: Thales is also the main supplier of the A400M’s Cockpit Display Systems (CDS). Its technology can also be found throughout the aircraft’s avionics system, covering navigation, flight controls, electrical systems and utilities such as door management systems.
+
+","{'label': 'Neutral', 'score': 0.9994663596153259}",neutral,0.9994663596153259,0
+Charity condemns Israeli role in UK drone project - The Guardian,"Wed, 11 Dec 2013 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9wb2xpdGljcy8yMDEzL2RlYy8xMS9pc3JhZWwtdWstd2F0Y2hrZWVwZXItZHJvbmVzLXdhci1vbi13YW500gFZaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3BvbGl0aWNzLzIwMTMvZGVjLzExL2lzcmFlbC11ay13YXRjaGtlZXBlci1kcm9uZXMtd2FyLW9uLXdhbnQ?oc=5&hl=en-US&gl=US&ceid=US:en,"A campaigning charity has criticised the UK's deal with an Israeli firm to develop a new drone, Watchkeeper, which the charity claims has been ""field tested"" in attacks on Gaza that left many Palestinians dead.
+
+War on Want, an anti-poverty charity that also campaigns for justice for Palestine, called for an embargo by the European Union on arms trade with Israel, a move that would end collaboration between Thales UK and Israel's Elbit Systems, one of the world's leading manufacturers of unmanned aircraft.
+
+The Ministry of Defence has awarded a succession of contracts for the long-delayed Watchkeeper project, now totalling nearly £1bn, to a joint venture between Elbit and Thales UK to build 54 drones. After a series of technical problems, Watchkeeper finally received its ""statement of type design assurance"" in October from the Military Aviation Authority, giving the MoD the green light for airworthiness and safety tests.
+
+The joint venture, UAV Tactical Systems, will oversee the Watchkeeper programme with work subcontracted to a number of other British companies. The design and technology of Watchkeeper is based on Elbit's Hermes 450 model, which Israel has used extensively over Gaza. British forces have used unarmed Hermes drones in Afghanistan.
+
+In a 23-page report (pdf) published on Wednesday, War on Want refers to reports of armed Israeli UAVs killing Palestinians in Gaza. About 800 Palestinians have been reported killed in Israeli raids by drones between 2006 and 2011, the charity claims, citing the Palestinian Centre for Human Rights. However, it is not known whether the strikes were by Elbit drones or by other Israeli unmanned weapons systems or aircraft.
+
+War on Want's senior campaigns officer Rafeef Ziadah said: ""By supporting the arms trade with Israeli companies, the British government is sending a clear message of approval for Israel's aggression against the Palestinian people. The European Union is sending a similar message through its research funding for Israeli arms companies. It is high time both the UK and the EU ended their support for Israel's violations of international law.""
+
+The charity's report also says the previous Labour government rejected Israeli assurances that UK arms would not be deployed against civilians in Palestinian territory, but there were now 381 extant British arms licences to Israel, worth £7.8bn.
+
+A MoD spokesperson told the Guardian: ""Watchkeeper is an unarmed, remotely piloted air system that will provide ground troops with vital surveillance, reconnaissance and intelligence that will help save military and civilian lives. There is no intention to arm Watchkeeper, which like all the UK's unmanned air systems will be operated by highly trained pilots.""
+
+Elbit Systems said it had no comment to make.
+
+This week the Guardian reported that new guidance published by UK Trade and Investment, which promotes British businesses in foreign markets, stated there were ""clear risks"" related to economic and financial activities in West Bank settlements, and it did not encourage or offer support to such activity.
+
+The guidance said: ""Financial transactions, investments, purchases, procurements as well as other economic activities (including in services like tourism) in Israeli settlements or benefiting Israeli settlements, entail legal and economic risks stemming from the fact that the Israeli settlements, according to international law, are built on occupied land and are not recognised as a legitimate part of Israel's territory.""
+
+Ziadah, who is on the national committee of the Palestinian boycott, divestment and sanctions movement, seized on the guidance, saying: ""The UK government has realised that its condemnations of illegal settlements are falling on deaf ears, and has started to address the huge amount of economic support that the illegal settlements receive from UK businesses.""","{'label': 'Neutral', 'score': 0.9946084022521973}",neutral,0.9946084022521973,0

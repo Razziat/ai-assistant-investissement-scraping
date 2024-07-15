@@ -1,0 +1,1350 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Airbus concludes ATTOL with fully autonomous flight tests - Airbus,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1haXJidXMtY29uY2x1ZGVzLWF0dG9sLXdpdGgtZnVsbHktYXV0b25vbW91cy1mbGlnaHQtdGVzdHPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Toulouse, 29 June 2020 – Following an extensive two-year flight test programme, Airbus has successfully concluded its Autonomous Taxi, Take-Off and Landing (ATTOL) project.
+
+In completing this project, Airbus has achieved autonomous taxiing, take-off and landing of a commercial aircraft through fully automatic vision-based flight tests using on-board image recognition technology - a world-first in aviation.
+
+In total, over 500 test flights were conducted. Approximately 450 of those flights were dedicated to gathering raw video data, to support and fine tune algorithms, while a series of six test flights, each one including five take-offs and landings per run, were used to test autonomous flight capabilities.
+
+The ATTOL project was initiated by Airbus to explore how autonomous technologies, including the use of machine learning algorithms and automated tools for data labelling, processing and model generation, could help pilots focus less on aircraft operations and more on strategic decision-making and mission management. Airbus is now able to analyse the potential of these technologies for enhancing future aircraft operations, all the while improving aircraft safety, ensuring today’s unprecedented levels are maintained.
+
+Airbus will continue research into the application of autonomous technologies alongside other innovations in areas such as materials, alternative propulsion systems and connectivity. By leveraging these opportunities, Airbus is opening up possibilities for creating new business models that will transform how aircraft are developed, manufactured, flown, powered and serviced.
+
+The rapid development and demonstration of ATTOL’s capabilities was made possible due to a cross-divisional, cross-functional, global team comprising of Airbus engineering and technology teams, Airbus Defence and Space, Acubed (Project Wayfinder), Airbus China and ONERA under the leadership of Airbus UpNext.
+
+#autonomy #innovation #TheFutureOfFlight
+
+To read more on ATTOL, please click here
+
+For more information on UpNext please click here","{'label': 'Positive', 'score': 0.998956561088562}",positive,0.998956561088562,1
+"Airbus to Cut 15,000 Jobs - The New York Times","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDYvMzAvYnVzaW5lc3MvYWlyYnVzLWpvYnMtY3V0cy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — The coronavirus pandemic continued to wreak havoc on global aviation as the aerospace giant Airbus announced Tuesday that it would cut nearly 15,000 jobs across its global work force, the largest downsizing in the company’s history.
+
+Citing a 40 percent slump in commercial aircraft business activity and an “unprecedented crisis” facing the airline industry, Airbus said it would slash around 10 percent of its jobs worldwide, with layoffs hitting operations in France, Germany, Spain and Britain.
+
+The chief executive, Guillaume Faury, had been preparing employees for hard times in a series of recent memos in which he warned it would be necessary to adapt to a “lasting decline” in the demand for airliners. The company said Tuesday that it didn’t expect air travel to return to pre-virus levels before 2023 and potentially not until 2025.
+
+“Airbus is facing the gravest crisis this industry has ever experienced,” Mr. Faury said in a statement Tuesday. “We must ensure that we can sustain our enterprise and emerge from the crisis as a healthy, global aerospace leader, adjusting to the overwhelming challenges of our customers.”","{'label': 'Negative', 'score': 0.9999198913574219}",negative,0.9999198913574219,-1
+"Airbus is cutting 15,000 jobs because of the pandemic - CNN","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMC8wNi8zMC9idXNpbmVzcy9haXJidXMtam9iLWN1dHMvaW5kZXguaHRtbNIBO2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjAvMDYvMzAvYnVzaW5lc3MvYWlyYnVzLWpvYi1jdXRz?oc=5&hl=en-US&gl=US&ceid=US:en,"London CNN Business —
+
+Airbus will cut about 15,000 jobs, or more than 10% of its workforce, over the next 12 months as it comes to terms with a plunge in demand for new aircraft due to the travel crisis caused by the pandemic.
+
+The company said in a statement on Tuesday that it was responding to a 40% drop in activity in its commercial aircraft business in recent months, and expectations that the recovery will be slow.
+
+It had already placed more than 6,000 workers in the United Kingdom and France on government-funded furlough programs back in April.
+
+“Airbus is grateful for the government support that has enabled the company to limit these necessary adaptation measures,” it said. “However with air traffic not expected to recover to pre-Covid levels before 2023 and potentially as late as 2025, Airbus now needs to take additional measures to reflect the post Covid-19 industry outlook.”
+
+Airbus (EADSF) is at the heart of the European aviation industry. Based in France but with production facilities in Germany, Spain and the United Kingdom, the company has 134,000 employees around the world and competes with Boeing (BA) to supply planes to airlines.
+
+The job losses will fall most heavily in France and Germany, with about 5,000 positions going in each country. The United Kingdom will lose 1,700 jobs, Spain 900 and the remainder will be cut at other sites around the world.
+
+The company said it would try to reduce the number of layoffs through voluntary departures, early retirement and long-term partial employment programs.
+
+“Airbus is facing the gravest crisis this industry has ever experienced,” CEO Guillaume Faury said in the statement. “The measures we have taken so far have enabled us to absorb the initial shock of this global pandemic. Now, we must ensure that we can sustain our enterprise and emerge from the crisis as a healthy, global aerospace leader, adjusting to the overwhelming challenges of our customers.”
+
+The plane maker secured a €15 billion ($16.9 billion) credit facility in March to help bolster its position as the pandemic swept across Europe. The French government, which has pledged $17 billion to support the aviation industry, has brought forward military orders for Airbus refueling tankers and helicopters.
+
+Airbus has so far avoided a government bailout, but it does need to save money. The company burned through €8 billion ($9 billion) in cash in the first quarter, including €3.6 billion ($4 billion) in penalties tied to corruption investigations in Britain, France and the United States. Its net loss was €481 million ($518 million).
+
+Many of the airlines that buy Airbus planes have been hurt badly by the pandemic.
+
+The global airline industry will lose a record $84 billion this year, according to the International Air Transport Association, which does not expect a return to profitability in 2021 even if there is a sharp rebound in global economic activity.
+
+Companies that supply parts to Boeing and Airbus are also being forced to cut costs and slash jobs as demand for their products fades. The same is true of airport operators, and businesses that handle baggage and provide other services to airlines and travelers.
+
+Boeing, which was already reeling from the grounding of the 737 MAX before the pandemic arrived, has so far avoided a US government bailout by raising $25 billion through a bond offering. But the US company is slashing its workforce by 16,000 jobs to cut costs amid the pandemic.","{'label': 'Negative', 'score': 0.923719584941864}",negative,0.923719584941864,-1
+Airbus Helicopters starts using e-delivery process - Vertical Magazine,"Wed, 03 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdmVydGljYWxtYWcuY29tL25ld3MvYWlyYnVzLWhlbGljb3B0ZXJzLXN0YXJ0cy11c2luZy1lLWRlbGl2ZXJ5LXByb2Nlc3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Helicopters has begun following an electronic delivery process for those customers who cannot or do not want to physically accept a rotorcraft, due to health protection measures and travel restrictions in the pandemic.
+
+Trondheim, Norway-based Helitrans has thus become the first customer to use the e-delivery method, accepting two H125s. More H125s and a H130 have been delivered to other customers in the same way, said Christophe Canguilhem, head of Airbus Helicopters’ delivery center in Marignane, France. A customer may choose between physical and electronic delivery.
+
+In the latter, the first step is the transmission of the aircraft’s documents, Canguilhem explained. The logbook, which includes an equipment list, is sent in advance. The customer can thus capture the data into its system.
+
+The second step is the acceptance flight. It is usually performed by a mixed crew, the captain being an Airbus employee. In the e-delivery process, no customer pilot takes part. Instead, a video conference is arranged for the customer to debrief the Airbus crew who performed the latest flight.
+
+Finally, the usual ground inspection is replaced with a live video visit, said Canguilhem. It is highly technical and the tool Airbus uses enables the viewer to request a focus on a given part to check its condition or part number. The inspection includes loose objects such as blade covers and hoist operator harness.
+
+The e-delivery procedure includes the formal transfer of title, thanks to an electronic signature. In Helitrans’ case, the helicopters were transported by road to Norway. Airbus Helicopters retained responsibility until they entered service, Canguilhem emphasizes.
+
+The new method is seen as more suited to light helicopters. The conventional delivery process for a H125 lasts one day, including a 45-minute flight. Meanwhile, the delivery of a Super Puma can take 3-4 days, including a two-hour flight. “Despite the complexity, we could consider e-delivery for a heavy twin,” said Canguilhem.
+
+Thus far, Airbus’ Donauwörth, Germany factory, which manufactures the H135 and H145 types, has yet to start using e-delivery.
+
+“E-delivery is not intended to be used after the crisis,” said Canguilhem. On the contrary, Airbus commercial aircraft in Toulouse plans to keep it as an optional service to the customer.
+
+There is a cultural difference between the two industries, as a helicopter is much more complex.
+
+“Before the acceptance flight, an A320 performs only one flight. For a helicopter, it can be three to five, depending on the type, in addition to engine run-ups, vibration-related settings and system checks,” said Canguilhem.
+
+Customer response, however, may lead Airbus Helicopters to keep e-delivery as an option.","{'label': 'Neutral', 'score': 0.9999953508377075}",neutral,0.9999953508377075,0
+Airbus Concludes ATTOL Project That Featured 'World-First' Automated Takeoffs and Landings - Avionics International,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmF2aWF0aW9udG9kYXkuY29tLzIwMjAvMDYvMjkvYWlyYnVzLWNvbmNsdWRlcy1hdHRvbC1wcm9qZWN0LWZlYXR1cmVkLXdvcmxkLWZpcnN0LWF1dG9tYXRlZC10YWtlb2Zmcy1sYW5kaW5ncy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9980302453041077}",neutral,0.9980302453041077,0
+Airbus: flying high on the wings of corruption - The Conversation Indonesia,"Wed, 17 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9haXJidXMtZmx5aW5nLWhpZ2gtb24tdGhlLXdpbmdzLW9mLWNvcnJ1cHRpb24tMTMxNzEx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"On January 31, 2020, the European aerospace manufacturer Airbus agreed to pay nearly 3.7 billion euros in fines to settle bribery charges stemming from a four-year investigation by French, British, and US authorities. The investigations found that for more than a decade the firm bribed officials in 16 countries through intermediaries to buy its aircraft and satellites. France will receive the largest settlement, 2.1 billion euros, while the UK will receive nearly 1 billion, and the United States more than 500 million.
+
+The case shows that European authorities have finally decided to make credible justice decisions against firms that use bribery and other forms of corruption to maintain and develop their business. It is also a learning opportunity for anyone interested in white-collar crime, and a number of theories developed by criminology researchers allow us to better understand how Airbus was able to operate so long with such impunity.
+
+Globe-spanning corruption
+
+Headquarters in Netherlands, Airbus has key operations in France, Germany, Spain and the United Kingdom. It’s one of the world’s largest manufacturers of commercial aircraft, helicopters and other high-tech products in the defence and space sectors. According to documents from the US Department of Justice, from 2008 to 2015 Airbus used its Strategy and Marketing Organization (SMO) branch to funnel millions of bribes to decision-makers and influencers to obtain business deals. Countries involved included the United Arab Emirates, China, South Korea, Nepal, India, Taiwan, Russia, Saudi Arabia, Vietnam, Japan, Turkey, Mexico, Thailand, Brazil, Kuwait, Colombia, South Korea, Indonesia, Sri Lanka, Malaysia, Taiwan, Ghana and Mexico.
+
+When categorising white-collar crimes, a key factor is the separation between those involving individuals or a few people, and corporate cases. Given the SMO’s role, the Airbus case was clearly one of an organisational crime. SMO was a significant business unit for Airbus, with around 150 employees and an initial annual budget of 300 million US dollars. The branch was created to compile and appraise applications from potential business partners for the purpose of compliance risk assessment. As a corruption machine SMO operated from 2008 to 2015, and long-term fraud implies internal learning systems in the fraudulent firm, with former employees transmitting fraud techniques to new recruits.
+
+Indeed, Donald Sutherland’s theory of differential association shows that certain crimes are not innate at all, but learned through contact with experienced criminals. The individuals involved in white-collar crimes are nominally respectable, or at least respected, making the crimes themselves ones that are committed by elites. That was the case with the Airbus case: the documents involve behaviour by senior executives, government and foreign officials, a board of directors, businessmen, an international-compliance officer and a general counsel.
+
+A particularity of economic crime is its technical difficulty. Criminals in organisations are experts in developing systems to conceal their frauds. The techniques used by SMO could be easily included in a manual for how to pay bribes:
+
+Acquisition of a company belonging to an airlines executive at inflated price.
+
+Acquisition of luxury estate properties for the use of an influential individual.
+
+Purchase by a subsidiary based in a foreign country of shares in an entity belonging to the son of a commercial intermediary through money transferred via another country.
+
+Sponsoring a sport team belonging to an airline executive.
+
+Recruitment of the spouse of a key executive as a business partner using a straw company (despite the fact that the spouse had no relevant expertise).
+
+To cite a specific example, Chinese officials were invited to a business trip to Hawaii in 2013 with a 30-minute daily briefing about business information followed by “more important” activities such as golf, scuba diving, horseback riding, and surfing lessons.
+
+SMO: the corruption machine
+
+In addition, the criminologist Donald Cressey explained the emergence of of organisational crime by the existence of an opportunity. A typical opportunity was further described by Cohen and Felton as the insufficient surveillance system. Thus, SMO produced fake documents and invented stories to fit international compliance requirements. SMO executives developed different techniques to look like following the best due-diligence practices without actually doing them. In a Russian case, SMO instructed an external company to conduct due diligence to evaluate the quality of a potential business partner, which in fact was in charge of paying approximately 9 million euros of bribes. To prepare the audit, the SMO International manager wrote to the commercial intermediary in charge of paying bribes:
+
+“Compliance is buying the story, we now only need to ‘justify’ your past experience”, to which the commercial intermediary replied: “Sir, Yes Sir! […] I am going to try to find something to write for you ;-)”
+
+The external audit raised red flags about the Russian business partner: no registered office, no financial account, no ability to provide the services offered to SMO. Still, a contract was signed and money transferred.
+
+In his “anomie” theory, French sociologist Emile Durkheim explained the importance of punishment in fixing norms of behaviour for a society. The fines Airbus paid are a “stick” that will teach the aircraft manufacturer that compliance must be respected, and they will follow now the best compliance practices.
+
+In a press release, Guillaume Faury, chief executive officer of Airbus, stated:
+
+“The agreements approved… with the French, UK, and US authorities represent a very important milestone for us, allowing Airbus to move forward and further grow in a sustainable and responsible way. The lessons learned enable Airbus to position itself as the trusted and reliable partner we want to be.”
+
+At the same time, Durkheim explained that a penalty is particularly important for all members of a society, who become aware of what is admissible or not. In the case of the competitors of Airbus, they too are aware that engaging in corrupt practices can have extremely painful consequences.","{'label': 'Neutral', 'score': 0.9996868371963501}",neutral,0.9996868371963501,0
+Aviation Maintenance Science Students Earn Rare Opportunity to Train with Airbus - ERAU News,"Wed, 24 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbmV3cy5lcmF1LmVkdS9oZWFkbGluZXMvYXZpYXRpb24tbWFpbnRlbmFuY2Utc2NpZW5jZS1zdHVkZW50cy1lYXJuLXJhcmUtb3Bwb3J0dW5pdHktdG8tdHJhaW4td2l0aC1haXJidXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Four Aviation Maintenance Science (AMS) students from Embry-Riddle Aeronautical University recently traveled to Miami to participate in a course focused on the Airbus A320 — an opportunity generally reserved for working professionals.
+
+Approved by the European Aviation Safety Agency, the course offers an overview of the Airbus A320’s engine, airframe and avionics systems.
+
+“Usually, an individual technician would not be doing the course without employer sponsorship, due to the high cost,” said Christopher Piccone, AMS instructor.
+
+The four students, however, were selected based on their academic performance, as well as their service to the Society of Aerospace Technicians (SAT) and Embry-Riddle’s AMS department. They earned scholarships from the Airbus Training Center.
+
+“This opportunity will be helpful in my career. I’m so grateful I've been given this chance,” said AMS senior Zening Loh, who is from Kuala Lumpur, Malaysia. “Not only is this my first experience on transport category aircraft, but also it's my first time learning anything outside of regular classes and labs.”
+
+The three other recipients are AMS seniors Cameron Pike, of Dunnellon, Florida, and Tristan Anderson, of Oviedo, Florida; and AMS junior Joseph Sonish, of Ibadan, Nigeria.
+
+All of the students are members of SAT. Loh and Anderson are also on Embry-Riddle’s 2020 Aerospace Maintenance Science competition team. SAT will cover the students’ travel and hotel costs.
+
+Learning about the Airbus A320 will be a valuable addition to the students’ skillsets, Piccone added.
+
+“I expect the industry will be favoring more efficient single-aisle aircraft like the A320 family over the next few years,” Piccone said. “I believe Airbus’s intention is to expose the students to the A320 aircraft and that Airbus is looking to the future by giving that exposure to upcoming technicians.”
+
+Airbus Americas Quality Manager Frank Johnson said the course will put the students in line for employment at Airbus or with its business partners.
+
+“Mastery of the theoretical examinations combined with an introduction to Airbus design and safety philosophies will make a student a prime candidate for entry-level maintenance positions at our airline and maintenance, repair and operations customer base,” said Johnson.
+
+Posted In: Aviation","{'label': 'Neutral', 'score': 0.9999929666519165}",neutral,0.9999929666519165,0
+Airbus A400M cleared to drop more paratroopers through its side doors - Defense News,"Wed, 03 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjAvMDYvMDMvYWlyYnVzLWE0MDBtLWNsZWFyZWQtdG8tZHJvcC1tb3JlLXBhcmF0cm9vcGVycy10aHJvdWdoLWl0cy1zaWRlLWRvb3JzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS – The Airbus A400M transport aircraft has been certified over the past few weeks for two capabilities: simultaneously dispatching 116 paratroopers (58 from each of the side doors) and automatic, low-level flight.
+
+But this does not mean the air forces of the six partner nations of the A400M program (Belgium, France Germany, Spain, Turkey and the UK) can immediately use these capabilities in operational conditions. “There is a difference between certification and operational capability,” a press spokesman for the DGA French procurement agency told Defense News. He explained that the French Air Force has declared operational capability for 30 paratroopers to jump from one side door. “That means if the president orders the armed forces to undertake a mission where they would need to have 30 paratroopers jump from the side door, we could do so immediately,” he said.
+
+Paratroopers can already deploy operationally two at a time in free fall from the aircraft’s rear ramp. With the deployment from the side doors, the parachute opens automatically. The French air force expects to be able to use both side doors operationally next year.
+
+RELATED
+
+The certification flight test, completed in May 2020 in coordination with the DGA and supported by the French and Belgian Armed Forces, combined a paratrooping campaign of more than 1,000 jumps along with new methodologies based on recording and 3D modeling of paratrooper jump trajectories.
+
+The A400M has also been certified for a first phase of Automatic Low Level Flight capability after a campaign flown down to 500 ft above the Pyrenees and central France. This phase concerns operations with Visual Flight Rules, in other words with visibility. The second phase will involve flying with no visibility.
+
+Airbus notes in a press statement that this Automatic Low Level Flight (ALLF) capability is unique for a transport aircraft even if it is inherent for fighter aircraft. The company says it makes “the aircraft less detectable in hostile areas and less susceptible to threats when cruising towards key military operations like aerial delivery, air-to-air refueling, logistic or other specific special operations.”
+
+The DGA says the new capability takes into account “the possibility of failures such as problems with the engines or the loss of lateral and/or vertical positioning.” The ALLF can be used either in fully automatic mode or following indications given by the flight director. “It will eventually allow the Air Force to fly very low mission altitudes in no-visibility conditions,” the DGA says.
+
+The first new A400M with these two capabilities will be delivered to the French Air Force in early 2021 but an aircraft already in service will be retrofitted with them before the end of this year.
+
+Christina Mackenzie was the France correspondent for Defense News.","{'label': 'Neutral', 'score': 0.9999039173126221}",neutral,0.9999039173126221,0
+Airbus CEO: EU should adopt 'cash for clunkers' airplane scheme - POLITICO Europe,"Wed, 03 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvYWlyYnVzLWNlby1ldS1zaG91bGQtYWRvcHQtY2xhc2gtZm9yLWNsdW5rZXJzLWFpcnBsYW5lLXNjaGVtZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"""Instead of taking an old Boeing 777 for instance back to service, they could take a brand new [Airbus] 350 or 321 with very, very good economics and CO2. And if you subsidize that, you make a big step forward in terms of CO2 in aviation,"" Faury said.
+
+That view doesn't find much favor with green groups — which are worried about airline greenhouse gas emissions and want a rethink of the world's current reliance on flying. The Commission's recovery plans do not currently include such a scheme.
+
+Most of Europe's big airlines have announced a tentative return to service in an effort to salvage what they can of the holiday season.
+
+Faury also said the coronavirus-induced crisis in the aviation industry compelled his company to ""rebuild our business almost from scratch,"" and that it would take years for airplane demand to climb back to pre-pandemic levels. The aerospace giant cut its production rate by a third to adjust to the collapse in demand — and further changes could follow. Faury warned that redundancies are likely.
+
+While the company is not seeking a bailout and says it has enough cash reserves, Faury said the EU could earmark its green stimulus packages to help keep Airbus and thousands of its suppliers to help focus on airline-fleet renewal. The French government did that in its €7 billion rescue of Air France, saying the bailout could spur future purchases of Airbus aircraft.
+
+""There is a lower level of demand so we need less planes, so let's retire the old planes, the ones which are burning a lot of fuel and raising a lot of CO2 and support the faster transition to new planes by a support scheme — and we think there's a good business case for doing this for Europe,"" Faury said. ""They would help airlines to retire their old planes and take new ones instead of putting the old ones back to service.""","{'label': 'Neutral', 'score': 0.9853964447975159}",neutral,0.9853964447975159,0
+Have The Boeing 787 And Airbus A350 Set Standard For Composites? - Aviation Week,"Thu, 18 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9hZXJvc3BhY2UvbWFudWZhY3R1cmluZy1zdXBwbHktY2hhaW4vaGF2ZS1ib2VpbmctNzg3LWFpcmJ1cy1hMzUwLXNldC1zdGFuZGFyZC1jb21wb3NpdGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ask the Editors: The Aviation Week Network invites our readers to submit questions to our editors and analysts. We’ll answer them, and if we can’t we’ll reach out to our wide network of experts for advice.
+
+Do you feel that composite intensive designs like the Boeing 787 and Airbus A350 have set the bar moving forward?
+
+France Bureau Chief Thierry Dubois responds:
+
+Use of composites in aircraft will continue to grow. These materials, especially carbon-fiber reinforced plastic (CFRP), enable designers to create more efficient aircraft. They are not only light, but also enable external shapes to be more aerodynamic. And they make it possible to manufacture complex components as single pieces, reducing the part count.
+
+In-service experience with CFRP-intensive aircraft, such as the Airbus A350 and Boeing 787, has not revealed any particular problems in operations or maintenance. Airframers have been both innovative and conservative, as they have gradually increased the share of composites in a design. For Airbus, composite usage increased significantly from the A380, at 25% composites by weight, to the A350, at 53%.
+
+The trend is continuing. Compared to the A350-900, the latest A350-1000 has more CFRP parts, such as door surrounds.
+
+Progress in two areas—manufacturability and recyclability—may further boost the use of composites. Thermoplastics, compared to conventional thermosets, are easier to manufacture. While the reinforcing fibers are the same, the resin matrix in a thermoplastic composite melts when heated. When cooled down, it resolidifies without losing any mechanical properties. Curing is more straightforward.
+
+Thermoplastics lend themselves more easily to production automation. They are weldable, repairable and recyclable. Their mechanical properties mean they can be used in smaller quantities, allowing lighter structures. Further weight saving, around 15%, is expected thanks to induction welding of thermoplastic parts, which will cut the number of fasteners needed to assemble fuselage structures.
+
+But the trend is relatively slow. The aerospace sector’s investments in thermoset production tooling are recent, and some have yet to be recouped. Boeing introduced thermoplastics in 2018 in “elementary structural parts” on the 787’s fuselage and wing, replacing metal and thermoset composites. Daher, which is supplying these parts, predicts the industry use of thermoplastics will grow from 300 metric tons in 2019 to 1,000 metric tons in 2029.
+
+In two other segments of civil aviation, helicopters and business jets, large structural parts such as tail components are already made of thermoplastics.
+
+Improvements in recyclability of composites are also expected. Until now, high-performance aerospace carbon fiber has been recycled into lower-value products. New efforts aim at recycling more fiber while retaining its features. Keeping the fiber’s length, rather than chopping it up, is key.
+
+Airframe application requires fibers on the order of several dozen centimeters in length. For high mechanical performance, the fibers must be oriented consistently. Orienting short fibers is impractical, but the recycling processes developed so far involve chopping up the fibers. Tarmac Aerosave, a specialist in aircraft dismantling and recycling, says the technology for producing long fibers from recycled CFRP is now mature. But it has yet to name companies offering such processes.
+
+Another company, Xcrusher, has been developing a technology to recover uncured composite offcuts from a factory. The process can yield kilometers of fiber with constant section length and constant specific weight, according to the company.
+
+ELG Carbon Fiber is developing techniques to use recycled carbon fiber in structural applications. Last December, it unveiled the world’s first train bogie made of such material. Recycled carbon fiber is thus making its way to higher-value applications.
+
+Meanwhile, progress in aluminum alloys, which have long been the most used materials for aircraft construction, should not be overlooked. Metal producers are developing lighter alloys. They are offering more integrated solutions, such as pre-machining. And they arguably lead in recycling.","{'label': 'Neutral', 'score': 0.9821218252182007}",neutral,0.9821218252182007,0
+Why Do Airbus Plane Types Start With The Letter A? - Simple Flying,"Tue, 09 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXJidXMtYS1wbGFuZS1uYW1lcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999809265136719}",neutral,0.9999809265136719,0
+"Airbus to cut 15,000 jobs worldwide, a third of them in France - FRANCE 24 English","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi8yMDIwMDYzMC1haXJidXMtdG8tY3V0LTE1LTAwMC1qb2JzLXdvcmxkd2lkZS1hLXRoaXJkLW9mLXRoZW0taW4tZnJhbmNl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus on Tuesday unveiled plans to shed around 15,000 jobs including 900 already earmarked in Germany, saying its future was at stake after the coronavirus pandemic rocked the air travel industry.
+
+The Airbus logo pictured at the entrance of the company's facility in Bouguenais, near Nantes, on June 30, 2020.
+
+Advertising Read more
+
+Europe's biggest aerospace group said it would cut some 5,000 posts in France, 5,100 in Germany, 900 in Spain, 1,700 in the UK and 1,300 elsewhere for a core total of 14,000.
+
+Additionally, the company has already agreed to cut 900 jobs at its Premium AEROTEC unit in Germany.
+
+The move is subject to talks with unions which immediately renewed pledges to oppose compulsory redundancies. Airbus has refused to rule them out as it seeks voluntary departures, early retirements and long-term partial employment schemes.
+
+Airbus said it wanted a deal on the job cuts by 2021.
+
+""It's going to be a mighty battle to save jobs,"" said Francoise Vallin of the CFE-CGC union.
+
+A french finance ministry official said the government expected Airbus to use instruments it had made available to reduce job cut numbers.
+
+On June 3, Reuters reported that Airbus's reduced production targets pointed on paper to cuts of 14,000 full-time posts.
+
+Earlier on Tuesday, French union sources predicted a headline figure of 15,000 and pledged to fight compulsory cuts.
+
+Airbus has a 135,000-strong workforce, heavily populated by veterans of its original A320 development. About 37% of staff are due to retire this decade.
+
+The hardleft Force Ouvriere union and others said they would oppose any mandatory cuts.
+
+Exceptional secrecy had surrounded the politically sensitive restructuring affecting jobs in Britain, France, Germany and Spain, the company's key backers in a fierce contest with US rival Boeing for orders and industrial clout.
+
+Airbus is expected to juggle its response to the industry's worst crisis with pressure to keep cuts to a minimum after France and Germany announced plans to support aerospace.
+
+Michel Pierre, representing the CFDT union at Airbus, said Airbus had refused direct state intervention in its capital, upholding corporate governance reforms in 2013. Compulsory sackings would therefore be ""totally unacceptable,"" he said.
+
+Industry sources say Airbus is basing the restructuring on a 40% drop in underlying aircraft production for two years.
+
+The company's programmes chief, meanwhile, said it was slowing a push into high-margin services as a result of a slump in air travel but maintaining its diversification strategy.
+
+Some industry sources say Airbus has all but abandoned a goal of more than doubling services revenue to $10 billion this decade and transferred some staff to other roles.
+
+(REUTERS)
+
+Daily newsletterReceive essential international news every morning Subscribe","{'label': 'Neutral', 'score': 0.9870562553405762}",neutral,0.9870562553405762,0
+Airbus Demonstrates Autonomous Flight with ATTOL Project - Aviation International News,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9haXItdHJhbnNwb3J0LzIwMjAtMDYtMjkvYWlyYnVzLWRlbW9uc3RyYXRlcy1hdXRvbm9tb3VzLWZsaWdodC1hdHRvbC1wcm9qZWN00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Demonstrates Autonomous Flight with ATTOL Project
+
+An Airbus A350-1000 widebody airliner achieved fully autonomous taxi, takeoff, and landings in a series of test flights.","{'label': 'Neutral', 'score': 0.5824847221374512}",neutral,0.5824847221374512,0
+Airbus cancels plan to develop its own A320neo nacelle - Flightglobal,"Wed, 24 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZW5naW5lcy9haXJidXMtY2FuY2Vscy1wbGFuLXRvLWRldmVsb3AtaXRzLW93bi1hMzIwbmVvLW5hY2VsbGUvMTM4OTg0LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The coronavirus downturn has led Airbus to scrap its planned development of an A320neo engine nacelle that would have competed with nacelles produced by supplier Collins Aerospace.
+
+The reversal stands to affect Bombardier’s Belfast, Northern Ireland manufacturing site, which Airbus picked to produce the nacelle, and Spirit AeroSystems, which plans to acquire Bombardier’s Belfast site.
+
+Airbus had for several years been moving forward with the effort to develop a competing nacelle for A320neos powered by Pratt & Whitney PW1100G turbofans. The plan did not affect A320neos powered by CFM International Leap-1As. Safran Nacelles makes that variant’s unit.
+
+“Airbus has decided it will stop the marketing, development and manufacturing of its own nacelle to concentrate its efforts on the current existing nacelle,” the European airframer says in a statement. “As such, only the existing Collins nacelle for the A320neo-family aircraft powered by the PW1100G engine will be offered.”
+
+Airbus attributes the change to the coronavirus downturn.
+
+“The unprecedented Covid-19 crisis leaves Airbus with no choice than to revisit all current and future product development activities to protect our cash and reduce as much as possible our expenditures,” it says. “We have concluded that it is in the interest of our customers to concentrate on mature and existing product offerings.”
+
+Collins, a subsidiary of Raytheon Technologies, declines to comment. P&W is also owned by Raytheon.
+
+Airbus’ nacelle ambitions had conformed with an industry trend under which airframers have recently brought more work in-house, competing with suppliers. Boeing also recently took nacelle and propulsions system work back from suppliers.
+
+Collins had expected Airbus would offer a competing nacelle after 2024, when a sole-source contract expired, Raytheon chief executive Gregory Hayes said in 2017. At the time, Hayes was CEO of Raytheon corporate predecessor United Technologies, which performed the nacelle work via its United Technologies Aerospace Systems (UTAS) business. UTAS merged with Rockwell Collins to form Collins Aerospace in 2018.
+
+Also in 2017, Airbus chose Bombardier Aerostructures and Engineering Services as manufacturer of its new nacelles for PW1100G-powered A320neos. That work was to be performed at Bombardier’s Northern Ireland site.
+
+Wichita aerostructures company Spirit, which is beset by issues stemming from the 737 Max grounding, agreed last year to purchase the Belfast site, and facilities in Morocco and Dallas, from Bombardier for $500 million.
+
+Spirit says its acquisition plan remains unchanged. The company had said it intended to close the deal by the first half of 2020.","{'label': 'Neutral', 'score': 0.9998917579650879}",neutral,0.9998917579650879,0
+VivaAerobus takes delivery of its first A321neo - Airbus,"Fri, 26 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi12aXZhYWVyb2J1cy10YWtlcy1kZWxpdmVyeS1vZi1pdHMtZmlyc3QtYTMyMW5lb9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"VivaAerobus, the Mexican ultra-low-cost carrier has taken delivery of its first Airbus A321neo. The fuel-efficient single-aisle aircraft will support the airline to reduce its environmental footprint, enhance passenger experience and to open more routes.
+
+The A321 is the largest member of the A320 Family, seating up to 240 passengers. Incorporating the latest engines, aerodynamic advances and cabin innovations, the A321neo offers a reduction in fuel consumption of 20 percent, along with an additional range of up to 500 nautical miles.
+
+VivaAerobus has based its fleet renewal strategy on the A320neo Family. In 2013 the airline placed an order for 52 A320 Family aircraft, the largest Airbus aircraft order by a single airline in Mexico at the time. In 2017 the airline committed to the A321neo and signed a firm order for 25 additional aircraft. To date, VivaAerobus operates 37 A320 aircraft, including 19 A320neo.
+
+Since the beginning of the COVID-19 pandemic, Airbus and its customers have worked diligently to address the needs of the public during this difficult time. VivaAerobus temporarily configured 10 Airbus A320 passenger aircraft as cargo-exclusive aircraft to support efforts to combat COVID-19 across Mexico and announced a campaign to transport medical professionals free of charge throughout the country.
+
+Airbus employees throughout Latin America have also joined forces to combat COVID-19, by helping produce or procure personal protective equipment in high demand for first responders. In Mexico, the Airbus team produced face shields to donate to volunteer workers of its Armed Forces. In Brazil, Helibras engineers, Airbus’ Brazilian helicopter subsidiary, produced face protection shields using 3D printing technology and donated them to a hospital in Itajuba, where the company is based.
+
+Airbus has sold over 1,050 aircraft, has a backlog of nearly 650 and nearly 700 in operation throughout Latin America and the Caribbean, representing a 59 percent market share of the in-service fleet. Since 1994, Airbus has secured nearly 70 percent of net orders in the region.
+
+#Airbus #A321neo","{'label': 'Neutral', 'score': 0.9590374827384949}",neutral,0.9590374827384949,0
+France's Aerospace Industry to Get $17 Billion in Government Support (Published 2020) - The New York Times,"Tue, 09 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDYvMDkvYnVzaW5lc3MvRnJhbmNlLWFlcm9zcGFjZS1pbmR1c3RyeS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The French government announced an enormous financial support program on Tuesday for its flagship aviation industry as global travel restrictions from the coronavirus pandemic slash passenger flights and orders for new planes, putting tens of thousands of jobs at risk.
+
+The 15 billion euro package (almost $17 billion), which includes some previously announced measures, includes aid for Air France, Airbus and major French parts suppliers through direct government investment, subsidies, loans and loan guarantees. It also includes a special fund jointly financed by the government, Airbus and other big manufacturers to support small suppliers.
+
+In exchange for the support, companies will be required to invest more in low-emission aircraft, powered by electricity, hydrogen and other means, as the government capitalizes on the opportunity to make the French aviation industry the “cleanest in the world.”
+
+“We are declaring a state of emergency to save our aeronautical industry to allow it to be more competitive,” Bruno Le Maire, the finance minister, said at a news briefing with France’s defense and environment ministers. He said the plan would allow France to set new global standards for low-carbon aircraft, with €1.5 billion earmarked over the next three years on research and development to develop a carbon-neutral aircraft by 2035.","{'label': 'Neutral', 'score': 0.998080849647522}",neutral,0.998080849647522,0
+EASA Approves Five-blade Airbus H145 - Aviation International News,"Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9nZW5lcmFsLWF2aWF0aW9uLzIwMjAtMDYtMTkvZWFzYS1hcHByb3Zlcy1maXZlLWJsYWRlLWFpcmJ1cy1oMTQ10gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"EASA Approves Five-blade Airbus H145
+
+Customer deliveries of the new Airbus Helicopters H145 D3 will begin later this summer.","{'label': 'Neutral', 'score': 0.9999631643295288}",neutral,0.9999631643295288,0
+Airbus plans to further adapt to COVID-19 environment - Airbus,"Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1haXJidXMtcGxhbnMtdG8tZnVydGhlci1hZGFwdC10by1jb3ZpZC0xOS1lbnZpcm9ubWVudNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"New measures contribute to safeguarding the Company’s future
+
+Necessary reduction of approximately 15,000 positions across Airbus’ global workforce
+
+Information and consultation process with social partners launched, agreements targeted in 2020
+
+Toulouse, 30 June 2020 – Airbus (stock exchange symbol: AIR) has announced plans to adapt its global workforce and resize its commercial aircraft activity in response to the COVID-19 crisis. This adaptation is expected to result in a reduction of around 15,000 positions no later than summer 2021. The information and consultation process with social partners has begun with a view to reaching agreements for implementation starting in autumn 2020.
+
+
+
+The commercial aircraft business activity has dropped by close to 40% in recent months as the industry faces an unprecedented crisis. Commercial aircraft production rates have been adapted accordingly. Airbus is grateful for the government support that has enabled the Company to limit these necessary adaptation measures. However with air traffic not expected to recover to pre-COVID levels before 2023 and potentially as late as 2025, Airbus now needs to take additional measures to reflect the post COVID-19 industry outlook.
+
+
+
+Following the in-depth analysis of customer demand that has taken place over recent months, Airbus anticipates the need to adapt its global workforce due to COVID-19 by approximately:
+
+
+
+5,000 positions in France
+
+5,100 positions in Germany
+
+900 positions in Spain
+
+1,700 positions in the UK
+
+1,300 positions at Airbus’ other worldwide sites
+
+These figures include the Airbus subsidiaries Stelia in France and Premium AEROTEC in Germany. However, they do not include approximately 900 positions stemming from a pre-COVID-19 identified need to restructure Premium AEROTEC in Germany, which will now be implemented within the frame of this global adaptation plan.
+
+
+
+The details of this COVID-19 adaptation plan need to be finalised with social partners.
+
+
+
+While compulsory actions cannot be ruled out at this stage, Airbus will work with its social partners to limit the impact of this plan by relying on all available social measures, including voluntary departures, early retirement, and long term partial unemployment schemes where appropriate.
+
+
+
+“Airbus is facing the gravest crisis this industry has ever experienced,” said Airbus CEO Guillaume Faury. “The measures we have taken so far have enabled us to absorb the initial shock of this global pandemic. Now, we must ensure that we can sustain our enterprise and emerge from the crisis as a healthy, global aerospace leader, adjusting to the overwhelming challenges of our customers. To confront that reality, we must now adopt more far-reaching measures. Our management team and our Board of Directors are fully committed to limiting the social impact of this adaptation. We thank our governmental partners as they help us preserve our expertise and know-how as much as possible and have played an important role in limiting the social impact of this crisis in our industry. The Airbus teams and their skills and competences will enable us to pursue our ambition to pioneer a sustainable future for aerospace.”","{'label': 'Neutral', 'score': 0.9997517466545105}",neutral,0.9997517466545105,0
+Anand Stanley appointed President Airbus Asia-Pacific - Airbus,"Thu, 04 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1hbmFuZC1zdGFubGV5LWFwcG9pbnRlZC1wcmVzaWRlbnQtYWlyYnVzLWFzaWEtcGFjaWZpY9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Toulouse, 4 June 2020 – Airbus has named Anand Stanley as President Airbus Asia-Pacific, effective 1 July 2020.
+
+
+
+Based in Singapore, Anand Stanley will lead the strategy and future positioning of Airbus and its divisions across the region. In this role he will have responsibility for commercial aircraft sales and customer affairs, group-wide government affairs, industrial and joint venture partnerships, as well as the local operations at Airbus sites across the region.
+
+
+
+Anand Stanley reports to Christian Scherer, Airbus Chief Commercial Officer and Head of International, and will work closely with the Heads of Region for the Airbus Helicopters and Defence and Space divisions who are co-located at the company’s Asia-Pacific headquarters in Singapore.
+
+
+
+Anand Stanley joined Airbus in 2018 as President & Managing Director of Airbus India, where he has overseen the Airbus business development and advanced the company’s position with key stakeholders, including customers, government agencies and industry partners.
+
+
+
+Prior to joining Airbus, Anand Stanley held senior positions in the civil aerospace, defence and helicopter markets, as well as in strategic management and M&A planning, having worked with the Linde Group, UTC, Pratt & Whitney, Lockheed Martin and Sikorsky. Over his career he has worked extensively internationally, with more than two decades of involvement in Asia and the Pacific region.
+
+
+
+“Anand has brought a wealth of experience to Airbus and managed the company’s operations in India with very positive results,” said Christian Scherer. “His proven track record makes him the right choice to lead Airbus in the key Asia-Pacific market. We know that we can count on Anand to focus on supporting our customers in these most challenging times, while developing further our position as the leading partner for the aerospace sector in the region.”
+
+
+
+Anand Stanley has an MBA from the University of Virginia-Darden in the US, a Bachelors of Engineering from Andhra University, as well as a postgraduate degree from IMI-Delhi.
+
+
+
+Anand Stanley succeeds Patrick de Castelbajac, who is leaving Airbus.
+
+
+
+“On behalf of all of us at Airbus, I would like to thank my friend Patrick for his contribution and strong engagement during his years with Airbus and wish him all the very best in his personal and professional future,” added Christian Scherer.","{'label': 'Neutral', 'score': 0.7716819643974304}",neutral,0.7716819643974304,0
+A400M customer profile: Royal Malaysian Air Force - Airbus,"Fri, 05 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LWE0MDBtLWN1c3RvbWVyLXByb2ZpbGUtcm95YWwtbWFsYXlzaWFuLWFpci1mb3JjZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Improving capabilities across the board
+
+Airbus’ A400M is flourishing as a key logistical asset for the Royal Malaysian Air Force, bringing next-generation technology to a broad range of missions since the first delivery in 2015.
+
+The Royal Malaysian Air Force – which ordered four A400Ms – primarily uses the four-engine aircraft to transport passengers and cargo (particularly heavy cargo), while air-to-air refuelling trials have underscored the potential for new mission applications.
+
+The A400M really improved our capabilities – strategic and technical – because the aircraft is bigger, the performance is better and we can carry more and heavier payloads, and fly longer and faster.
+
+– Lt. Col. Baharin Mohamad
+
+The A400M also is a key component of Malaysia’s humanitarian operations, including its support for neighbouring Indonesia after a devastating earthquake and tsunami in 2018. The Royal Malaysian Air Force has invested significant resources to ensure it can assist in the event of a natural disaster anywhere in the region.
+
+“We feel very satisfied because with this aircraft, we were able to perform the (Indonesia) mission successfully and safely,” added Baharin Mohamad.
+
+The Royal Malaysian Air Force has ordered a total of four A400Ms from Airbus.
+
+This testimonial was provided before the COVID-19 pandemic.","{'label': 'Positive', 'score': 0.9999998807907104}",positive,0.9999998807907104,1
+Airbus announces plan to lay off 15000 workers - POLITICO Europe,"Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvYWlyYnVzLWFubm91bmNlcy1wbGFuLXRvLWxheS1vZmYtMTUwMDAtd29ya2Vycy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The manufacturer says it is facing ‘the gravest crisis this industry has ever experienced.’
+
+European aerospace giant Airbus said today it plans to cut 15,000 jobs from its payroll by next year as a result of the coronavirus pandemic.
+
+The manufacturer saw a steep decline in new orders and airlines are negotiating to delay, defer or cancel existing orders on its books as the demand for air travel tanked. Its production rate for new commercial planes has dropped by a third in recent months.
+
+Airbus said it plans to cut 5,100 jobs in Germany, 5,000 in France, 1,700 in the U.K., 900 in Spain and 1,300 jobs elsewhere. The actual number will depend on an agreement between the company and its unions.","{'label': 'Negative', 'score': 0.9999333620071411}",negative,0.9999333620071411,-1
+Why Does Airbus Build Aircraft In The United States? - Simple Flying,"Wed, 24 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXJidXMtdXMtYWlyY3JhZnQtbWFudWZhY3R1cmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999371767044067}",neutral,0.9999371767044067,0
+Boeing Vs. Airbus - Everything You Need To Know - Simple Flying,"Tue, 23 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ib2VpbmctdnMtYWlyYnVzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999703168869019}",neutral,0.9999703168869019,0
+Five-bladed H145 receives type certification by EASA - Airbus,"Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1maXZlLWJsYWRlZC1oMTQ1LXJlY2VpdmVzLXR5cGUtY2VydGlmaWNhdGlvbi1ieS1lYXNh0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ready for customer deliveries later this year
+
+Raising the bar in performance, comfort, simplicity and connectivity
+
+Donauwörth, 19 June 2020 – Airbus Helicopters’ five-bladed H145 has been certified by the European Union Aviation Safety Agency (EASA), clearing the way for customer deliveries towards the end of summer 2020. The certification covers the full range of capabilities, including single-pilot and instrument flight rules (IFR) and single engine operations (Cat.A/VTOL), along with night vision goggles capability.
+
+“Our new five bladed H145 is an excellent example of our quest for continuous improvement and providing incremental innovation that responds to our customers' requirements"", said Bruno Even, Airbus Helicopters CEO. “This helicopter combines value-added features with the robustness and the reliability of a tried-and-tested bestseller, making it very competitive in the light twin-engine market.”
+
+The new version of Airbus’ best-selling H145 light twin-engine helicopter was unveiled at Heli-Expo 2019 in Atlanta, GA, with launch customers announced for almost every market segment. Prior to the successful high-altitude test campaign in South America, where the aircraft set its skids down on the Aconcagua, the highest mountain in the Southern hemisphere, the new H145 performed several test campaigns including in Spain at medium altitudes and Finland for cold weather.
+
+This latest upgrade of the H145 family adds a new, innovative five-bladed rotor to the multi-mission H145, increasing the useful load of the helicopter by 150 kg (330 lb). The simplicity of the new bearingless main rotor design will also ease maintenance operations, further improving the benchmark serviceability and reliability of the H145, while improving ride comfort for both passengers and crew. Certification by the Federal Aviation Administration will follow later this year. The certification for the military version of the five-bladed H145 will be granted in 2021.
+
+Powered by two Safran Arriel 2E engines, the H145 is equipped with full authority digital engine control (FADEC) and the Helionix digital avionics suite. It includes a high performance 4-axis autopilot, increasing safety and reducing pilot workload. Its particularly low acoustic footprint makes the H145 the quietest helicopter in its class.
+
+@EASA @SafranHCEngines #newH145","{'label': 'Positive', 'score': 0.9999997615814209}",positive,0.9999997615814209,1
+Thrustmaster launches Airbus licensed flight sim controls - Peripherals - News - HEXUS,"Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vaGV4dXMubmV0L3RlY2gvbmV3cy9wZXJpcGhlcmFscy8xNDM1OTktdGhydXN0bWFzdGVyLWxhdW5jaGVzLWFpcmJ1cy1saWNlbnNlZC1mbGlnaHQtc2ltLWNvbnRyb2xzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thrustmaster is celebrating 30 years in the PC games controls business by launching a premium TCA (Thrustmaster Civil Aviation) product range, which is officially licensed by Airbus. It says given these controls and suitable flight sim software, gamers will be able to ""experience incredibly lifelike sensations and features, and virtually step into the shoes of an airline captain"".
+
+The new controls range consists of four new officially-licensed SKUs compatible with PC (Windows 10, 8). To design these controls, Thrustmaster says it leveraged its skills, honed over decades in the business, to work with Airbus and create the following:
+
+TCA Sidestick Airbus Edition: £64.99 / $69.99 / €69.99 (releases 25 th June)
+
+June) TCA Quadrant Airbus Edition: £89.99 / $99.99 / €99.99 (releases 24 th Sept)
+
+Sept) TCA Quadrant Add-On Airbus Edition: to be confirmed later this year
+
+TCA Officer Pack Airbus Edition: £149.99 / $159.99 / €159.99 (from 24th Sept)
+
+A recommended purchase along with any of the above controls is the TM Flying Clamp (£54.99 / $69.99 / €59.99) which is a metal constructed adaptable, non-slip system used to mount your flight sim controls, if you haven't built/bought a cockpit.
+
+The TCA Sidestick Airbus Edition is described as an ""ergonomic replica Airbus sidestick is a versatile ally for virtual pilots in all types of flight simulation."" It features 12 remappable action buttons, a modular design (you can swap button modules), and other flight sim friendly features at an affordable price point.
+
+The base of the joystick includes a thrust reverser function, as featured on commercial Airbus plans. A Z-axis controlled rudder provides a winning combination of realism and ease of use. Thrustmaster is keen to point out that the TCA Sidestick Airbus Edition features its proprietary H.E.A.R.T (HallEffect AccuRate Technology) for long service life and precision - offering a 14-bit resolution.
+
+As a companion device for your TCA Sidestick Airbus Edition, Thrustmaster is hoping that the TCA Quadrant Airbus Edition, with its two separate thrust levers, inspired by their real counterparts, appeals. As per the real thing the throttles can be linked. Again a thrust reverser function is built into this control. H.E.A.R.T is used in this device providing up to 16-bit resolution. You can get the TCA Sidestick and Quadrant Airbus Edition together in the slightly cheaper Officer Pack.
+
+For greater control options the new TCA offerings are compatible with Thrustmaster T.Flight Rudder Pedals (TFRP) and Thrustmaster Pendular Rudder (TPR) rudder systems. Thanks to the T.A.R.G.E.T (Thrustmaster Advanced pRogramming Graphical EdiTor) software suite users can config and program a multitude of controls and attach them via a single USB port.
+
+Thrustmaster recommends its controls for full enjoyment of titles like Microsoft Flight Simulator (upcoming); X-Plane 11; Aerofly FS 2 Flight Simulator; DCS: Digital Combat Simulator; Ace Combat 7; Star Citizen; Elite Dangerous; War Thunder… and many more. The joystick may be good for Star Wars: Squadrons pilots too.","{'label': 'Neutral', 'score': 0.9999756813049316}",neutral,0.9999756813049316,0
+Airbus delivers first A330 MRTT to NATO Multinational Multi Role Tanker Transport Fleet - Airbus,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1haXJidXMtZGVsaXZlcnMtZmlyc3QtYTMzMC1tcnR0LXRvLW5hdG8tbXVsdGluYXRpb25hbC1tdWx0aS1yb2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Getafe, 29th June 2020 – Airbus has formally delivered the first of eight Airbus A330 Multi Role Tanker Transport (MRTT) aircraft ordered by the NATO Multinational MRTT Fleet (MMF) after a ceremony held at the Airbus Getafe site in Spain.The official acceptance of this first aircraft marks a decisive milestone towards the entry into service of this multinational unitformed by the Netherlands, Luxembourg, Norway, Germany, Belgium and the Czech Republic.
+
+The aircraft will take off tomorrow towards its Main Operating Base located in Eindhoven, the Netherlands. The MMF fleet will also operate from a second location, the Forward Operating Base in Cologne, Germany.
+
+Dirk Hoke, Chief Executive Officer of Airbus Defence and Space, said: “The NATO MMF programme perfectly represents the future of defence cooperation and shows the true success of the pooling and sharing concept. As a trusted partner for the armed forces, Airbus is extremely proud to see its A330 MRTT at the forefront and ready to secure decisive capabilities and interoperability for NATO partner nations.”
+
+Peter Dohmen, NATO Support and Procurement Agency (NSPA) General Manager, said: “The MMF programme is a prime example of excellent cooperation between nations, the EU and NATO and the strong collaboration between OCCAR and NSPA. This unique state-of-the-art capability will enable our participating nations to perform a wide range of operations in multiple domains. We thank the nations for their continued trust in NSPA as the system manager and wish them success in their future missions.”
+
+Matteo Bisceglia, Director of the Organisation for Joint Armament Cooperation (OCCAR), said: “The delivery of the first MMF aircraft marks a key milestone of the MMF ADS acquisition contract managed by OCCAR. OCCAR is proud to have delivered this aircraft to the customer on time without any shortfalls in performance or over cost. Key points for this success are the MMF Nations’ trust in the ability of NSPA and OCCAR to efficiently manage the Programme, the excellent cooperation with the EU and the willingness to succeed of the experienced MMF team.”
+
+The MMF programme is funded by the six nations which will have the exclusive right to operate the NATO–owned aircraft in a pooling arrangement. The aircraft will be configured for in-flight refuelling, the transport of passengers and cargo, and medical evacuation operations.
+
+The European Defence Agency (EDA) initiated the MMF programme in 2012. OCCAR manages the MMF acquisition phase and the first two years of the Initial In-Service-Support as Contract Executing Agent on behalf of NSPA. Following the acquisition phase, NSPA will be responsible for the complete life-cycle management of the fleet.
+
+The A330 MRTT combines the advanced technology of a new generation tanker with the operational experience recorded during more than 200,000 flight hours in service. The A330 MRTT is interoperable with receivers worldwide and delivers true multi-role capabilities as proven during the recent MEDEVAC and strategic transport missions related to the COVID-19 pandemic.
+
+The above image shows the first A330 MRTT taking off during an industrial flight performed at Getafe, Spain.
+
+To download audiovisual material of the industrial process of the aircraft, click here.
+
+@AirbusDefence @NSPA_NATO #A330MRTT #defencematters","{'label': 'Positive', 'score': 0.9998650550842285}",positive,0.9998650550842285,1
+Airbus: First Alabama-built A220 has made maiden flight - AL.com,"Wed, 03 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFsLmNvbS9uZXdzL21vYmlsZS8yMDIwLzA2L2FpcmJ1cy1maXJzdC1hbGFiYW1hLWJ1aWx0LWEyMjAtaGFzLW1hZGUtbWFpZGVuLWZsaWdodC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The first Alabama-built Airbus A220 has made its maiden flight.
+
+The company announced the flight via social media on Tuesday afternoon, saying that the aircraft took off from the Mobile Aeroplex at Brookley, performed test sequences and landed at 1:44 p.m.
+
+Aviation industry observers provided a little more detail. Simpleflying.com reported that the aircraft flew for about three hours, reaching a maximum altitude of 16,000 feet. Its flight took it southwest to the southeast tip of Louisiana and then a bit further south, where it flew a series of back-and-forth legs over open Gulf of Mexico waters before returning.
+
+The first #Airbus #A220 aircraft produced at the U.S. Manufacturing Facility has flown for the first time! The A220-300,... Posted by Airbus on Tuesday, June 2, 2020
+
+“This is an exciting milestone in the production of any aircraft, but this one is particularly special for the Mobile and Mirabel teams who have worked hard to bring this first U.S.-built A220 to reality,” said Paul Gaskell, President of A220 USA and Head of A220 Program in Mobile.
+
+The airliner, which was built partly in established assembly facilities for the larger A320 family of jets, will be delivered to Delta later this year. Airbus recently announced that it has begun work on the first A220 to be built in a new final assembly hall built specifically for the family. That jet will go to JetBlue.","{'label': 'Neutral', 'score': 0.9999812841415405}",neutral,0.9999812841415405,0
+"Airbus Engineering and Design Services, your new partner to excel in your industry - Airbus Aircraft","Thu, 11 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYWlyY3JhZnQuYWlyYnVzLmNvbS9lbi9uZXdzcm9vbS9uZXdzLzIwMjAtMDYtYWlyYnVzLWVuZ2luZWVyaW5nLWFuZC1kZXNpZ24tc2VydmljZXMteW91ci1uZXctcGFydG5lci10by1leGNlbC1pbi15b3Vy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thanks to more than 50 years of experience in designing, engineering and manufacturing systems in aerospace industry, Airbus is offering their unrivalled expertise to other sectors beyond aerospace.
+
+
+
+After having been working within and outside the aerospace industry for a few years already, Airbus' Engineering Design & Services initiative have now scaled their offering into a brand new portfolio.
+
+The services offered capitalise on Airbus' highly specialised skills, focusing on customers needs where a project requires specialist expertise in one or more of the following five niche fields:
+
+
+
+Harsh environments (low and high temperature, high vibrations…)
+
+(low and high temperature, high vibrations…) High performance (aerodynamics, strong and light materials…)
+
+(aerodynamics, strong and light materials…) High integrity (very robust, safety of life)
+
+(very robust, safety of life) Highly regulated
+
+High complexity (products with millions of parts)
+
+The idea is not to make engineering a commodity but to offer a cutting-edge service to customers within a niche domain.
+
+The scope of Engineering & Design Services is broad, aiming to propose a catalogue of standard off-the-shelf services, as well as the ability to respond to customer needs through a more tailored approach
+
+Amrish Pathack, Head of Consulting Services at Airbus
+
+Engineering & Design Services are particularly suitable in some industrial sectors like:
+
+- Automotive or Nautical industries: using Airbus' knowledge on aerodynamics, composite materials and stress analysis to improve design
+
+- Medical industry: bringing the company’s skills in remote monitoring with via telemetry datalinks to the medical sector for tracking the function of artificial hearts
+
+Discover this offer. Visit the brand new Engineering and Design services portfolio HERE
+
+","{'label': 'Positive', 'score': 0.9999966621398926}",positive,0.9999966621398926,1
+The Interesting Reason Why The Airbus A300 Got Its Name - Simple Flying,"Wed, 17 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXJidXMtYTMwMC1uYW1lL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9563297629356384}",neutral,0.9563297629356384,0
+"Lufthansa Retires Airbus A380 From Frankfurt Schedule, But Munich Flights Possible By 2022 - Forbes","Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JhbXNleXF1YmVpbi8yMDIwLzA2LzE5L2x1ZnRoYW5zYS1yZXRpcmVzLWFpcmJ1cy1hMzgwLWZyb20tZnJhbmtmdXJ0LXNjaGVkdWxlLWJ1dC1tdW5pY2gtZmxpZ2h0cy1wb3NzaWJsZS1ieS0yMDIyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999938011169434}",neutral,0.9999938011169434,0
+"No Airbus A380s Are Flying, But You Can Still Catch A Ride On A 747 This Summer - Forbes","Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWljaGFlbGdvbGRzdGVpbi8yMDIwLzA2LzE5L3lvdS1jYW4tc3RpbGwtZmx5LW9uLWEtZm91ci1lbmdpbmUtanVtYm8tamV0LXRoaXMtc3VtbWVyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9995582699775696}",neutral,0.9995582699775696,0
+Airbus to upgrade training capabilities of German Eurofighter pilots - Airbus,"Mon, 22 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1haXJidXMtdG8tdXBncmFkZS10cmFpbmluZy1jYXBhYmlsaXRpZXMtb2YtZ2VybWFuLWV1cm9maWdodGVy0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Munich, 22 June 2020 – Airbus, acting as the main contractor within the industrial Pilot Synthetic Training System (PSTS) consortium, has been awarded two contracts to extend the Eurofighter PSTS at the Main Operating Base (MOB) in Laage and introduce state-of-the-art simulator cockpits at all Eurofighter MOBs in Germany.
+
+The first contract includes the upgrade of existing Full Mission Simulators (FMS) and Cockpit Trainers (CT) in Laage and the provision of two additional FMS according to the new standard, extending the training capability from two to four simulators. This will enable the German Air Force to perform four-ship training at a single location and multi-ship training at distributed networked locations. Due to the new design of the Visual Display Systems, the building can accommodate the four FMS within the existing simulator halls without major infrastructure adaptions.
+
+The second contract includes the replacement of 10 cockpits in the FMS and CT at all the German Eurofighter bases in Neuburg, Laage, Wittmund, Nörvenich and the Central Integration Facility at Airbus Manching.
+
+With the introduction of modern cockpit replicas within the PSTS, a major sub-system of all Eurofighter simulators will be renewed to guarantee best performance of the pilot’s working place for the next decade. All PSTS cockpits for the German MOBs will be equipped with a full suite of cockpit displays and control panels including a newly developed facsimile head-up-display. It will also comprise a G-seat motion cueing system, an anti-G inflation system as well as a breathing air system, all controlled by a cockpit linkage system developed by Airbus. The entire cockpit will be night vision goggle compatible.
+
+The FMS will be equipped with a state-of-the-art LED projection system, which provides a high-resolution out-the-window view for pilots, regardless of the time, day and weather conditions in which the training takes place. Furthermore, by introducing a common concept for computer racks, power supplies and emergency equipment throughout all devices, a baseline for future upgrades of the remaining German MOBs has been created.
+
+The PSTS consortium is the result of a collaboration agreement between the German and Spanish Ministries of Defence and is composed of three partners: Airbus Defence and Space, Indra and CAE, where Airbus is the main contractor. The development of the PSTS is intrinsically linked to the improvements with which the Eurofighter's capabilities and performance have been reinforced, emphasizing those related to electronic defence systems, state-of-the-art avionics and the new CAPTOR-E radar.
+
+@AirbusDefence @Eurofighter @Team_Luftwaffe","{'label': 'Neutral', 'score': 0.9997681975364685}",neutral,0.9997681975364685,0
+Airbus Hands Over First A330 for NATO Force | AIN - Aviation International News,"Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMjAtMDYtMzAvYWlyYnVzLWhhbmRzLW92ZXItZmlyc3QtYTMzMC1uYXRvLWZvcmNl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus Hands Over First A330 for NATO Force
+
+NATO’s MMF is acquiring the A330 MRTTs for tanker, transport, and medical evacuation duties on behalf of its member nations.","{'label': 'Neutral', 'score': 0.9999269247055054}",neutral,0.9999269247055054,0
+"Airbus shedding 15,000 jobs, mostly in Europe - CNBC","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjAvMDYvMzAvYWlyYnVzLXNoZWRkaW5nLTE1MDAwLWpvYnMtbW9zdGx5LWluLWV1cm9wZS5odG1s0gFUaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjAvMDYvMzAvYWlyYnVzLXNoZWRkaW5nLTE1MDAwLWpvYnMtbW9zdGx5LWluLWV1cm9wZS5odG1s?oc=5&hl=en-US&gl=US&ceid=US:en,"An Airbus technician works in a fuselage segment in the new structural assembly of the Airbus A320 family in Hangar 245 at the Airbus plant in Finkenwerder.
+
+Battered by the coronavirus pandemic, European aircraft manufacturer Airbus said Tuesday that it must eliminate 15,000 jobs, mostly in Europe, to safeguard its future and warned of more thin years ahead.
+
+""With air traffic not expected to recover to pre-COVID levels before 2023 and potentially as late as 2025, Airbus now needs to take additional measures,"" the company said in a statement.
+
+No later than the summer of 2021, Airbus wants to shed 5,000 workers in France, 5,100 in Germany, 1,700 in Britain, 900 in Spain and 1,300 others at facilities elsewhere.
+
+Airbus said it wants to start making the cuts within months, from this autumn. It will aim for voluntary departures and early retirements, but also said that compulsory job losses can't be ruled out. It said it is already consulting with unions.
+
+Airbus said its commercial aircraft business activity has plummeted by close to 40% as the pandemic has shut borders, brought mass tourism to a screeching halt and put airlines on their knees, thumping the European manufacturer and its rival Boeing.
+
+""Airbus is facing the gravest crisis this industry has ever experienced,"" the company's CEO, Guillaume Faury, said in the statement. ""The measures we have taken so far have enabled us to absorb the initial shock of this global pandemic. Now, we must ensure that we can sustain our enterprise and emerge from the crisis as a healthy, global aerospace leader.""
+
+Airbus reported 481 million euros ($515 million) in losses in the first quarter, put thousands of workers on furlough and sought billions in loans to survive the coronavirus crisis.","{'label': 'Neutral', 'score': 0.8653983473777771}",neutral,0.8653983473777771,0
+France announces €15bn plan to shore up Airbus and Air France - The Guardian,"Tue, 09 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDIwL2p1bi8wOS9mcmFuY2UtYW5ub3VuY2VzLTE1Ym4tcGxhbi10by1zaG9yZS11cC1haXJidXMtYW5kLWFpci1mcmFuY2XSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyMC9qdW4vMDkvZnJhbmNlLWFubm91bmNlcy0xNWJuLXBsYW4tdG8tc2hvcmUtdXAtYWlyYnVzLWFuZC1haXItZnJhbmNl?oc=5&hl=en-US&gl=US&ceid=US:en,"France has unveiled a €15bn (£13bn) rescue plan for its aerospace industry, in an attempt to preserve hundreds of thousands of jobs and shore up the manufacturer Airbus and the national carrier, Air France.
+
+Ministers said companies would have to ramp up investment in alternative technologies such as electric and hydrogen planes as part of the bailout.
+
+The plan includes €7bn already announced for Air France, whose fleet was almost entirely grounded during the pandemic, and whose partner KLM is being backed by the Dutch government.
+
+The finance minister, Bruno Le Maire, said the government would do “everything to support this French industry that is so critical for our sovereignty, our jobs and our economy”, as he launched the plan alongside the transport, defence and environment ministers.
+
+Le Maire said the deal would prevent decline and help keep Airbus competing with its US rival Boeing, as well as China’s Comac, which has threatened the global duopoly.
+
+The bailout will help push through Air France orders of new Airbus planes, while it also includes new defence spending by the government on Airbus military products.
+
+Unions in the UK called for a similar bailout to protect up to 1.2 million British jobs. Steve Turner, the Unite assistant general secretary for manufacturing, said: “The French government is absolutely right to act to protect French aerospace and aviation skills and jobs while also delivering on climate change commitments. This is precisely the sort of intervention we quickly need to see from the UK government to preserve jobs.”
+
+Cathay Pacific has become the latest airline to receive a state bailout to survive the coronavirus pandemic, with the Hong Kong government taking a stake in the carrier as part of a HK$40bn (£4bn) rescue plan.
+
+Cathay was one of the first airlines to suffer a collapse in traffic as coronavirus emerged in China, where most of its flights operate. A new government-controlled company will take a 6% stake as part of a share offering, and it will also loan the carrier a further HK$7.8bn.
+
+About 90% of staff at the embattled carrier have taken unpaid leave while 600 head office jobs were cut last month, after Cathay grounded the majority of flights earlier in the year. Its business was already hit by falling passenger numbers in the wake of the pro-democracy protests last year.
+
+Sign up to the daily Business Today email or follow Guardian Business on Twitter at @BusinessDesk
+
+Hong Kong’s financial secretary, Paul Chan, said the government did not intend to be a long-term shareholder in Cathay and would not get involved in the operations and management of the airline.
+
+According to figures released on Tuesday by the global aviation body, Iata, bailouts have contributed to airline debts that have risen by $120bn during the crisis to a total $550bn (£432bn).
+
+Iata warned that airlines were heading for a collective loss of $84.3bn in 2020, the biggest in the sector’s history.","{'label': 'Neutral', 'score': 0.9994658827781677}",neutral,0.9994658827781677,0
+Ensuring Future Air Power Capability - Key to European and National sovereignty - Airbus,"Tue, 09 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LWVuc3VyaW5nLWZ1dHVyZS1haXItcG93ZXItY2FwYWJpbGl0eS1rZXktdG8tZXVyb3BlYW4tYW5kLW5hdGlvbmFs0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Contested environments
+
+Threat levels are rising due to the increasing development and dissemination of Anti Access/Areal Denial means. European air forces and navies need to prepare themselves for potential large scale high tempo operations in contested environments. To maintain air superiority and minimize attrition levels, Europe’s Future Combat Air System (FCAS) will be a system of systems leveraging manned and unmanned collaborative combat, bringing the next level of Air Power.
+
+Decisive tactical edge
+
+FCAS will ultimately require a New Generation Fighter in 2040, which will be more sophisticated with very low observability, cutting edge passive and active sensors, on board smart applications and human machine collaboration. Such a New Generation Fighter will be a battle management platform capable of operating deep within enemy space. When teaming with unmanned modular platforms, named Remote Carriers, New Generation Fighters will have the needed scalable and flexible force multipliers to open new fields of tactics based on deception and numeric superiority.
+
+Accelerated operational tempo
+
+European air forces and navies will need to accelerate the operational tempo to complete OODA (Observe Orient Decide Act) loops faster than the adversary and take control of the situation. The interoperable Air Combat Cloud will provide common situational awareness by instantaneously capturing, sharing, merging and processing massive amounts of data from all connected manned and unmanned platforms. The Air Combat Cloud’s warfare analytics and real-time coordination will provide better situational awareness, tactical options, decisions and collaborative effects to speed-up the OODA loop.
+
+Better effects paths
+
+Operating as a system of systems orchestrated by an Air Combat Cloud, FCAS will allow the OODA loop to be distributed across platforms allowing the dynamic combination of sensing, shooting and battle management capabilities. With a distributed OODA loop, FCAS will provide European air forces and navies with better, faster and more resilient effects paths under human supervision.
+
+Incremental journey
+
+FCAS will be an incremental journey. In a world with increasing threats, Airbus and its industrial partners need to start providing from 2025 the first capabilities to maintain European and National sovereignty. FCAS will lead to a doctrinal and technological change. Using such new capabilities will be a huge challenge for European air forces and navies, which cannot be instantaneously achieved. New doctrines, processes and skills need to be gradually developed in alignment with the planned arrival of FCAS capabilities and meeting the related technological challenges. FCAS will require a step by step approach to be jointly tackled by European air forces, navies and industry.
+
+A trip down memory lane: Airbus’ Future Air Power video
+
+The referenced media source is missing and needs to be re-embedded.
+
+More on FCAS here","{'label': 'Positive', 'score': 0.9990379810333252}",positive,0.9990379810333252,1
+Airbus to lay off 26 more employees at engineering center - AL.com,"Mon, 15 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFsLmNvbS9idXNpbmVzcy8yMDIwLzA2L2FpcmJ1cy10by1sYXktb2ZmLTI2LW1vcmUtZW1wbG95ZWVzLWF0LW1vYmlsZS1lbmdpbmVlcmluZy1jZW50ZXIuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus is laying off an additional 26 subcontractors and temporary staff at its engineering center in Mobile, a company spokeswoman confirmed Monday.
+
+The layoffs follow an initial 14 subcontractors who were let go in early May. The layoffs will be effective “in the coming weeks,” and are a result of the industry’s woes in grappling with the ongoing financial devastation to the global aerospace industry during the COVID-19 pandemic, according to Airbus spokeswoman Kristi Tucker.
+
+“As a result of the financial impact to our customers as a result of the COVID-19 pandemic, Airbus has had to assess the impact to the engineering services and support that will be required going forward,” Tucker said.
+
+“In many places around our global engineering network, we are stopping the placement of engineering work to external suppliers, and reducing the size of our internal subcontracted staff,” she added.
+
+The latest round of layoffs do not affect the approximately 1,100 employees who work as the Airbus assembly plants, where the construction of airplanes continues despite the pandemic’s impact on the airline industry in which strict travel restrictions has devastated commercial flight.
+
+After the layoffs, a staff of 160 engineers and support staff will remain at the Mobile Engineering Center.
+
+“These very difficult steps are being taken to protect our existing active workforce,” Tucker said, referring to the 40 total layoffs that have occurred at the engineering facility that celebrated its 10-year anniversary in 2017. “These company does not take these steps lightly – these actions reflect the seriousness of the situation facing the industry and our company.”
+
+European-based Airbus has furloughed approximately 10,000 workers since the COVID-19 pandemic began in early March, with 4,700 furloughed in the United Kingdom and around 3,000 in France. Last month, the company announced an additional 3,100 employees will be furloughed in Spain.
+
+The action comes after Airbus CEO Guillaume Faury, in late April, gave a chilling assessment when he said the sharp downfall in industry represented its “gravest crisis.” Airbus, according to reports, burned through $4.78 billion in cash during the first quarter of the year, and the company announced it was slashing production rates by a third.
+
+The adjustment means that the global output of the A320 aircraft – the same airplane made in Mobile – would go down from a peak of 60 per month in 2019 to 40 per month.
+
+Airbus CEO Guillaume Faury talks to reporters after Airbus annual press conference in Toulouse, southwestern France, Thursday, Feb.13, 2020. (AP Photo/Frederic Scheiber)AP
+
+Further rate adjustments could be coming as the company weighs the continued impact of the pandemic. The airline industry has seen a bit of a bounce back in recent weeks, as the number of passengers in the U.S. have double since early May as states started to reopen following closures during strict stay-at-home orders.
+
+“We are a part of Airbus’ global rate reduction in the A320 family-single aisle (planes) announced in April, but we are not detailing at what rate we are working in each of the facilities,” said Tucker.
+
+She said the production rate goal for the A220 aircraft – also produced in Mobile – is unchanged at four airplanes per month by the middle of the decade.
+
+Globally, Airbus has a large backlog of more than 7,000 orders as of May 31, with 6,199 being part of the A320-family. Even if a substantial portion of those orders were canceled, years of work remain and Mobile is considered a part of the company’s “strategic” global production network.
+
+“We expect relative stability in our global production planning,” she said. “We believe that most of the rate adaption effort required to match the new levels of customer demand has been done – further adjustments should be minor.”
+
+Despite industry turmoil, the Mobile Airbus plant welcomed a milestone project last month with the official unveiling of a 270,000-square-foot hangar for the construction of the A220 aircraft, following an 18-month construction project.
+
+The Flight Works Alabama project is also continuing to move along. Exhibits are being installed, Tucker said, and construction is being finalized. The facility, also located at Brookley, was supposed to open in June. Once it’s built, the $6.5 million facility will house a workforce initiative for high school students and teachers as well as an Airbus gift shop and an interactive exhibit area.
+
+“(Flight Works Alabama) continues to watch the situation around COVID-19 to determine an official opening date,” said Tucker.
+
+Airbus is in ‘gravest crisis,’ but coronavirus won’t kill operations in Mobile
+
+Airbus: First Alabama-built A220 has made maiden flight
+
+Airbus teams with USA to produce protective face masks
+
+‘People died’: Mobile Mardi Gras group’s signage generates outrage; Airbus reacts","{'label': 'Neutral', 'score': 0.8025408983230591}",neutral,0.8025408983230591,0
+Dispatch from the field: H145M's latest operations fulfill expectations - Airbus,"Fri, 05 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LWRpc3BhdGNoLWZyb20tdGhlLWZpZWxkLWgxNDVtcy1sYXRlc3Qtb3BlcmF0aW9ucy1mdWxmaWxsLWV4cGVjdGF0aW9uc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Media: Airbus Helicopters; Bundeswehr
+
+With Hungary recently receiving three additional H145Ms in May 2020, this light-attack, four-tonne helicopter seems poised for action this year. Here’s a look at how customers like Luxembourg, Serbia, the Thai Navy, the German Bundeswehr and the Hungarian Defence Forces are introducing their first units into operation.
+
+H145M: Creating a top-performer
+
+When Airbus Helicopters wanted to fill the market need for a capable, cost-efficient answer to new global security threats, it looked to its H145 programme. Successful in various segments, best-in-class for law enforcement, with an availability rate of more than 90%, the H145 was the obvious platform to start with.
+
+They created a top-performer. The H145M, the military version of the compact twin-engine combines agility, performance and ruggedness. It soon will come in the five-bladed version being developed for its civil counterpart, with benefits in maximum takeoff weight and handling. Advanced technology gives it the quietest sound footprint in its class.
+
+Beyond these enhancements, the manufacturer went further, achieving a truly versatile battlefield performer. The modular HForce weapons system enhances its mission capability, with a multi-purpose mission computer and a range of weapons. Moreover, its ability to be deployed rapidly via strategic airlift assets is a strength. It fits into the A400M and the C17 – from which it can engage in everything from SAR to battlefield utility, reconnaissance, and assault fire support and attack missions. All this, while integrating with current data links for communication and coordination, making it a multi-role asset.
+
+Demand from all quarters
+
+Since its launch, with 15 H145Ms to the German Armed Forces (Bundeswehr) from 2015 onwards, the helicopter’s customer base has grown to include Luxembourg with two aircraft, Serbia with nine, the Thai Navy with five and Hungary with 20 aircraft.
+
+First deliveries followed in quick succession. At the Partner Defence Exhibition in June 2019, Serbia received its first H145M, to be operated by the Air Force and the Ministry of Interior. In November, the first of two aircraft for defence and security missions were delivered to the Government of the Grand-Duchy of Luxembourg. Later in the month, two H145Ms were delivered to the Hungarian Defence Forces, while in December the German Bundeswehr received the first out of seven H145s in Light Utility Helicopter Search and Rescue configuration (LUH SAR), which carries high-performance cameras, searchlights, emergency beacon locator systems, a full suite of medical equipment, rescue winches and load hooks.
+
+Operating an H145M is much easier than operating the models having been in service in Hungary so far, because it is fully digital, and computer-controlled.
+
+- Lieutenant-colonel Zsolt Simon, Chief of Flight Training Department and acting deputy commander of the HDF 86th Szolnok Helicopter Base (Hungary)
+
+An expanding portfolio of missions
+
+Following this spate of deliveries, the H145M is coming into its own in 2020, generating positive reviews. Hungarian Defence Forces pilots have flown some 200 hours of conversion training in the new aircraft, whose digital, computer-managed cockpit creates a modern and efficient environment. “Operating an H145M is much easier than operating the models having been in service in Hungary so far, because it is fully digital, and computer-controlled,” said Lieutenant-colonel Zsolt Simon, Chief of Flight Training Department and acting deputy commander of the HDF 86th Szolnok Helicopter Base.
+
+They also noted a different, more digital approach to the H145M’s maintenance, commenting on a time savings when inspecting the aircraft and prepping it for flights. “It is much easier and more modern to operate these helicopters than the old ones. Even the physical job takes much shorter time when, for example, the helicopters need to be prepared, detected for defaults or when following an error process,” said Maj. Tamás Bagi, commander of the H145M maintenance squadron.
+
+The helicopter’s mission capabilities have also suggested possibilities for armament, as in Serbia, where domestically-produced weapons are being integrated on the country’s H145Ms, together with the Airbus HForce targeting and mission management system. Field trials of unguided S8 80mm rockets were reported in December in northern Serbia, ahead of the completion of the fleet’s armament, and the air force’s H145Ms were slated to be equipped with a 12.7mm podded machine gun.
+
+Further, the German Bundeswehr’s training of Nigerian special forces soldiers in the Sahel region of the Sahara, which has taken place since 2020, marked the first time the Bundeswehr used the new H145M LUH SOF (Special Operations Forces) version to train Nigerian paratroopers, a demonstration of its rapidly expanding portfolio of missions.
+
+Sterling qualities
+
+To explain the growing interest, the helicopter’s pedigree offers a clue. The H145 is a cost-efficient, mature programme with experience in delivering orders with just a year and a half lead time. A performance-based support set-up contributes to a high level of availability; the H145Ms of the Bundeswehr have seen the fleet at 99% mission readiness. The programme’s maturity also means spare parts and maintenance are well in hand.
+
+Above all, the H145M is versatile. Mission systems, designed to be plugged in without fuss, mean the helicopter can be used for armed reconnaissance, ISTAR (Intelligence, Surveillance, Target Acquisition, Reconnaissance), command & control, ground fire support, attack, anti-tank warfare, escort, tactical transport, medevac and casevac.
+
+The H145M has shown its qualities in some of the most challenging missions. The deliveries to our newest customers are a confirmation that we are making a helicopter that exceeds expectations and delivers what they want in a military aircraft.
+
+- Axel Humpert, Head of the H145 programme at Airbus Helicopters
+
+See the H145M product page.","{'label': 'Positive', 'score': 0.9998728036880493}",positive,0.9998728036880493,1
+Airbus Planning Fuel-Thrifty Ecureuil Successor - Aviation Week,"Tue, 23 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9zcGVjaWFsLXRvcGljcy92ZXJ0aWNhbC1saWZ0L2FpcmJ1cy1wbGFubmluZy1mdWVsLXRocmlmdHktZWN1cmV1aWwtc3VjY2Vzc29y0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"A series of research programs, to be partly funded through France’s aerospace stimulus package, will develop the building blocks for a successor to Airbus Helicopters’ best-selling H125 single-engine light helicopter.
+
+Although the new rotorcraft is still at least a decade away, the PlanAero package—developed to help the French aerospace industry through the novel coronavirus pandemic—confirms industry hints that the manufacturer is still looking to address the conventional light-helicopter market at a time when urban air mobility systems are grabbing the investment and limelight.
+
+PlanAero is funding the Helybrid hybridization research project
+
+Airbus working on a light-helicopter tech demonstrator for 2029
+
+The H125, known by its French product name Ecureuil (Squirrel) and marketed as the AStar in the U.S., was originally developed by predecessor company Aerospatiale during the 1970s. Some 5,000 H125s have been produced during its 45-year production run, with the type in use with commercial, military and parapublic agencies. The most recent version, the AS350B3e, was rebranded as the H125 in 2015, when the company was renamed from Eurocopter to Airbus Helicopters.
+
+The H125 is currently built at Airbus’ plant in Marignane, France, near Marseille, but kits are also sent to Helibras in Brazil and Airbus Helicopters in Columbus, Mississippi, for final assembly for the Latin American and U.S. markets, respectively. Airbus has been looking at the development of an Ecureuil replacement for more than a decade and had considered opening part of the design effort to the company’s Brazilian affiliate Helibras in part because of the heavy demand for the platform in Latin America.
+
+Any future platform is likely to remain a conventional helicopter because the wide range of missions it is expected to perform—everything from training to law enforcement to firefighting and aerial lifting—are unlikely to disappear.
+
+Efforts will be focused on improved aerodynamics, weight reduction and higher turbine output, with the aim of initially reducing fuel consumption by 40%, Tomasz Krysinski, Airbus Helicopters head of research and innovation, tells Aviation Week. “These three components should get us to 40%,” Krysinski says, while the addition of electric hybridization of the aircraft could add another 10% reduction.
+
+An Airbus research and development program called Helybrid will receive funding from a €300 million ($338 million) aviation decarbonization investment. Helybrid will demonstrate hybridization of lightweight-helicopter propulsion.
+
+Projects called Compaq and Eproptech, the PlanAero documents state, will work on electrical network technologies to allow megawatts of electrical power to be used on an aircraft.
+
+“The ultimate step is to go to another sort of energy, which could be hydrogen or fuel cells,” Krysinkski says.
+
+The plans are part of Airbus Helicopters’ long-term innovation road map to develop autonomy, electrification, hybridization and alternative technologies, so-called techno-bricks, which will contribute to reducing the carbon footprint of their future models. Airbus is planning to fly a demonstrator for the future light helicopter around 2029 to prove the technologies for 40% fuel-burn reduction, and if the hydrogen technologies are mature enough, they could fly, too.
+
+Krysinski notes significant advances in hydrogen-fuel-cell technology, notably in the fixed-wing arena, but says the power requirements for a helicopter remain a significant hurdle.
+
+Currently, the company is gearing up to tackle the hybridization challenge. In 2011, it successfully flight-tested an Ecureuil with an electric motor to drive the dynamic system of the main rotor. Designed as a safety device, the motor would kick in when the aircraft’s systems detected main rotor speed drop, usually the result of an engine failure, giving the pilot more time to achieve a smooth and safer autorotation with a reduced rate of descent.
+
+Airbus is to begin modifying a single-engine H130 helicopter with a 120-kW motor, which will act as an electric backup system (EBS) to provide power for a safe rotation, whereas later tests will see two 120-kW motors connected in parallel to the dynamic system, which would allow the aircraft to make 2 min. of electric-powered flight in a low-power setting. Modification of the test helicopter should begin during September. It will fly in early 2021.
+
+“Motors have made very big progress . . . and compared to 2011, you can get twice the energy from 1 kg [2.2 lb.] of batteries than before,” Krysinski explains.
+
+“This is a good steppingstone toward the hybrid rotorcraft,” he says. “It opens the chapter, a revolution in rotary-wing performance.”
+
+Hybridization can also introduce new functions to lower the noise levels, Krysinski notes. “With an electric system, we can get the torque very quickly, and this gives us an extra degree of freedom,” he says. “We can reduce the rotational speed of the turbine, and this provides lower noise emissions.”
+
+Airbus has not said who it is partnering with on the EBS project, but the company will work with Safran Helicopter Engines in the long term on a hybrid-electric propulsion system. The two companies announced commitments at last year’s Paris Air Show on hybridization for the European Union’s Clean Sky 3, now the Clean Aviation research and development program.","{'label': 'Neutral', 'score': 0.998507559299469}",neutral,0.998507559299469,0
+Airbus signs contract for integration of 115 new Eurofighter ESCAN radars - Airbus,"Fri, 26 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1haXJidXMtc2lnbnMtY29udHJhY3QtZm9yLWludGVncmF0aW9uLW9mLTExNS1uZXctZXVyb2ZpZ2h0ZXItZXNjYW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Taufkirchen, 26 June 2020 – Airbus has been awarded a contract for the development, supply and integration of 115 Eurofighter ESCAN Radars for the German and Spanish Eurofighter fleet. It marks the so far largest order for the world’s most modern electronically scanned array radar, Captor-E. The contract signature followed the approval by both governments in recent weeks.
+
+The contract foresees the delivery and integration of 110 Captor-E radars for Germany and an initial batch of 5 radars for Spain to be delivered by 2023. The new sensor will equip Tranche 2 and Tranche 3 Eurofighters as well as new aircraft. Whereas the Airbus sites in Manching, Germany and Getafe, Spain will act as overall integration Hub, the development and building of the radar will be subcontracted to a consortium under the leadership of Hensoldt and Indra and by participation of further Eurofighter partner companies.
+
+“The contract for the Captor-E radar is a main achievement to equip Eurofighter with sensors that ensure todays dominance of the aircraft also in the threat scenarios of tomorrow”, said Dirk Hoke, CEO of Airbus Defence and Space. “With Eurofighter, Germany and Spain are investing in a strong backbone of European air defence and in the leading project of the European defence industry.”
+
+Eurofighter Captor-E is the world’s most advanced electronically scanned array radar for fighter aircraft. The design of the front fuselage airframe allows Eurofighter to deliver the largest electronically scanned array for increased detection and tracking ranges, advanced Air-to-Surface capability and enhanced electronic protection measures. The large antenna surface also allows a wider field of regard than any other platform pushing the aircraft’s performance and guaranteeing its role as a valuable asset within the Future Combat Aircraft System environment.
+
+The signed contract will also give an additional push to the export tenders Eurofighter is currently bidding for.
+
+@AirbusDefence #Eurofighter #ESCAN #DefenceMatters","{'label': 'Positive', 'score': 0.9472282528877258}",positive,0.9472282528877258,1
+First aircraft of NATO's future multi-role tanker transport fleet lands at Eindhoven airbase - NATO HQ,"Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdG8uaW50L2Nwcy9lbi9uYXRvaHEvbmV3c18xNzY5OTIuaHRt0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"NATO’s future fleet of multi-role aircraft (MMF) is marking an important milestone on Tuesday (30 June 2020), as the first of the eight aircraft in the fleet landed at the main operating base in Eindhoven, the Netherlands. The aircraft, an Airbus A-330, arrived from the production facility in Getafe (Spain).
+
+The Multinational Multi-Role Tanker Transport (MRTT) fleet will provide strategic transport of people and cargo, will enhance substantially European air-to-air refuelling capabilities, and will be available for medical evacuation, if needed. Six NATO Allies have pooled resources to make this initiative possible - Belgium, the Czech Republic, Germany, Luxembourg, the Netherlands and Norway. This effort has been supported by NATO and the European Union, and is an example of effective cooperation between the two organisations when delivering critical capabilities for their members.
+
+“The MRTT fleet’s versatility in providing several critical capabilities simultaneously is nothing short of impressive. The aircraft can help respond to crises such as the COVID-19 emergency, by moving medical supplies and conducting medical evacuations. However, the fleet will probably have the most profound impact within the air-to-air refueling mission, an area where historically many European Allies have lacked capacity. Therefore, the MRTT fleet will help contribute to a fairer transatlantic burden-sharing at NATO. It is also a successful pilot multilateral cooperation project, bringing together a number of Allies and multiple NATO and EU institutions and agencies in support of the delivery of a major capability,” said Camille Grand, NATO Assistant Secretary General for Defence Investment.
+
+“This is a prime example of European defence cooperation done in close coordination with NATO, which shows that once a capability shortfall has been jointly identified, European nations can pull together, work on a common project aimed at filling the gap, and eventually deliver – as they do with today’s delivery of the first aircraft. It’s Pooling & Sharing at its best,” said Jiří Šedivý, Chief Executive of the European Defence Agency.
+
+The second aircraft is scheduled for delivery by the end of July 2020, and the rest of the fleet will follow until the end of 2024. The full fleet will consist of eight Multi-role tanker transport aircraft, with an option to extend the contract up to 11 aircraft in the future. The aircraft are owned by NATO and managed by the NATO Support and Procurement Agency with the support of the Organization for Joint Armament Cooperation.
+
+The aircraft will be operated by a multinational unit, comprising of military personnel of the participating countries. The unit is based in a Main Operating Base in Eindhoven, which will host five aircraft, and a Forward Operating Base in Cologne-Wahn (Germany), where the rest of the fleet will be stationed.","{'label': 'Neutral', 'score': 0.7315810918807983}",neutral,0.7315810918807983,0
+"Airbus slashes 15,000 jobs as sector reels from collapse in travel - Financial Times","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzBiYjY0NTg3LTlhYzYtNGRlMy1hNTgyLTgzNzI0MWNhMDYyMtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Try unlimited access Only 1 € for 4 weeks
+
+Then 69 € per month.
+
+Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.","{'label': 'Neutral', 'score': 0.9999912977218628}",neutral,0.9999912977218628,0
+Future Combat Air System: Owning the sky with the Next Generation Weapons System - Airbus,"Wed, 17 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LWZ1dHVyZS1jb21iYXQtYWlyLXN5c3RlbS1vd25pbmctdGhlLXNreS13aXRoLXRoZS1uZXh0LWdlbmVyYXRpb24td2VhcG9uc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"When facing today’s uncertainties, air superiority, which was underpinning western military operations for over 40 years, is no longer a given thing. The playing field is levelled by opponents’ constant investment in integrated air defence systems, hypersonic weapon technologies and low observability technologies. Western air forces need to regain their ability to counter threats by accessing highly contested environments in a scalable, flexible and dynamic way rather than a local and static one.
+
+By intelligently teaming sixth generation manned fighters with unmanned platforms, the Next Generation Weapon System or NGWS will provide European air forces & navies with capabilities well beyond existing fighters. With no agreed definition of a sixth-generation fighter, Airbus’ understanding is that such a New Generation Fighter or NGF will be a more sophisticated and connected platform than what currently exists.
+
+The NGF will set the next level of survivability in terms of passive stealth (signature reduction and electromagnetic emission control) and active stealth (electronic counter measures).
+
+The heart of the NGF will be provided by its extremely capable avionics and sensor suite. The increase in processing power, storage and connectivity will grant the pilot with greatly heightened situational awareness and the ability to rely not only on its own sensors and effectors, but also on other platforms’ ones. Combined with the introduction of artificial intelligence and the ability to team with unmanned platforms, the NGF will become a battlefield management platform capable of operating deep within the enemy airspace.
+
+Powerful engines equipped with thrust-vectoring nozzles combined with high-performance flight control system will ensure the NGF’s manoeuvrability, speed, and range. Innovative effectors will provide the fighter with unprecedented firepower, ranging from stand-off kinetic loads (including hypersonic ones) to directed energy weapons (lasers and microwaves) to electronic warfare capabilities (including cyberattack).
+
+However, more sophistication also means higher development costs leading to a declining number of platforms and/or effectors. Eventually such dangerously low levels result in critical availability levels. This is problematic, as operational studies indicate that penetrating contested environments will require an adequate number of manned platforms. Hence, it is important to set the right level of capabilities for the NGF by taking a holistic approach when right sizing its stealth, velocity, manoeuvrability, range, sensing and effects generation’s capabilities.
+
+The NGF alone will not suffice for the most demanding missions in highly contested environments. To counter such threats, the NGF will team with unmanned platforms called Remote Carriers or RCs acting as force multipliers. Adding capabilities in a scalable and flexible manner will enhance the overall mission effectiveness, efficiency and survivability of the NGWS.
+
+RCs will be a family of unmanned platforms ranging from 200 kilograms for disposable RCs, to under 2 tons for recoverable ones and even several tons in the case of loyal wingmen. Airbus is currently studying and optimising with users their design. The RCs will provide various non-kinetic effects (Target Acquisition and Reconnaissance, Airborne Electronic Warfare) as well as kinetic ones (A2G SEAD/DEAD and Strike).
+
+With “packs” of RCs teaming with NGFs, the NGWS will clearly establish a new operational dimension. An augmented level of effectiveness will be achieved by opening new fields of tactics based on collaborative combat, the use of deception and numeric superiority. Efficiency will improve by ensuring the required mix of capabilities for a given mission is deployed. The NGF will stay at a safe stand-off distance whilst closer RCs deal with the threats, thus keeping the pilots out of harm’s way and increasing the manned platform’s survivability.
+
+Within the NGWS, the Air Combat Cloud or ACC will connect the manned and unmanned platform and provide the teaming intelligence for faster collaborative combat. The ACC will deliver common situational awareness by instantaneously capturing, sharing, merging and processing massive amounts of data from all connected NGFs and RCs. The ACC’s warfare analytics and real-time coordination will provide better situational awareness, tactical options, decisions and collaborative effects
+
+Airbus has a leading role within the Next Generation Weapon System programme programme which will be the core of FCAS. Airbus is Dassault’s main partner for the NGF and the lead for the RCs and the ACC with MBDA and Thales as its respective main partners. This will benefit Airbus’ sites in securing work and maintaining technological excellence for decades to come.
+
+More on FCAS.
+
+The referenced media source is missing and needs to be re-embedded.","{'label': 'Neutral', 'score': 0.98896324634552}",neutral,0.98896324634552,0
+"Airbus Announces Layoffs Of Around 15,000 Employees - Simple Flying","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXJidXMtbGF5b2Zmcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9943617582321167}",neutral,0.9943617582321167,0
+Interjet Expects Some Airbus Aircraft To Be Returned By Lessors - Simple Flying,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9pbnRlcmpldC1haXJidXMtYWlyY3JhZnQtcmV0dXJuL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999582767486572}",neutral,0.9999582767486572,0
+Qatar Airways CEO calls on Boeing and Airbus to defer deliveries - Al Jazeera English,"Tue, 02 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZWNvbm9teS8yMDIwLzYvMi9xYXRhci1haXJ3YXlzLWNlby1jYWxscy1vbi1ib2VpbmctYW5kLWFpcmJ1cy10by1kZWZlci1kZWxpdmVyaWVz0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvZWNvbm9teS8yMDIwLzYvMi9xYXRhci1haXJ3YXlzLWNlby1jYWxscy1vbi1ib2VpbmctYW5kLWFpcmJ1cy10by1kZWZlci1kZWxpdmVyaWVz?oc=5&hl=en-US&gl=US&ceid=US:en,"The head of Qatar Airways called on the world’s two major planemakers to ease demands that ailing carriers accept delivery of new aircraft, saying their future relationship was at stake.
+
+Airbus SE and Boeing Co. should accept delivery deferrals until at least 2022, Qatar Airways Chief Executive Officer Akbar Al Baker said in an interview Tuesday with Bloomberg TV.
+
+“What is important is for Boeing and Airbus to show their customers that they are not only there with them in good times, but also in bad times,” Al Baker said. “If they don’t oblige, they will permanently lose us as a customer.”
+
+Al Baker’s comments highlight the intense financial pressure on airlines, especially Gulf-based carriers like Qatar Airways whose business shuttling travelers across the globe has been shriveled by the coronavirus. The CEO said he didn’t know when passengers would begin flying again in significant numbers. He said it would take several years for traffic to return to normal.
+
+Tense Turn
+
+With the airline industry on life-support, the historically chummy relations between planemakers and customers who in normal times commit tens of billions of dollars at a time has taken a sudden and tension-filled turn.
+
+Airlines, short of cash, are demanding to cancel, or postpone deliveries, while the manufacturers – who have the added burden of keeping suppliers healthy – are trying to keep handovers and the associated payments flowing.
+
+Qatar Airways’ has about $50 billion of orders for Boeing and Airbus aircraft, based on list prices.
+
+An Airbus spokesman said the company is in contact with customers but declined to discuss specifics, citing confidentiality. A Boeing spokeswoman declined to comment.
+
+Bets Off
+
+Gulf rival Emirates Airline, the world’s largest long-distance carrier, said Monday that it’s unable to commit to outstanding orders. Bloomberg reported last month that Dubai-based Emirates was seeking to cancel its final five Airbus A380 orders.
+
+“All bets are off,” Tim Clark, the Dubai-based carrier’s president, said in an online forum on Monday. “We are nowhere near confident enough that the economics, the cash flows, the bottom line will put us in a good position to be able to guess if we’ll buy a hundred of this or a hundred of that.”
+
+Airbus, based in Toulouse, France, and Chicago-based Boeing have both cut back on production to contend with the unprecedented downturn. The European planemaker’s top executives will meet this week to reassess output, people familiar with the matter said this week.
+
+Equity Injection
+
+Al Baker also said that Qatar Airways has so far kept going with its own resources. He said if the crisis continued and if it did need a bailout, the carrier would likely seek an equity injection from its owner, the Qatar government.
+
+Deutsche Lufthansa AG, Europe’s biggest airline and a big customer to both Boeing and Airbus, has pulled almost all of its more than 700 aircraft out of service, and is working on a 9 billion-euro ($10 billion) bailout from Germany.
+
+–With assistance from Layan Odeh, Charlotte Ryan and Siddharth Philip.","{'label': 'Neutral', 'score': 0.9992959499359131}",neutral,0.9992959499359131,0
+"Airbus Delivers First A330 MRTT, As Company Looks to Autonomous Refueling - Avionics International","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmF2aWF0aW9udG9kYXkuY29tLzIwMjAvMDYvMzAvYWlyYnVzLWRlbGl2ZXJzLWZpcnN0LWEzMzAtbXJ0dC1hcy1jb21wYW55LWxvb2tzLXRvLWF1dG9ub21vdXMtcmVmdWVsaW5nL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999923706054688}",neutral,0.9999923706054688,0
+Airbus slows services push amid coronavirus crisis - Reuters,"Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvaWRVU0tCTjI0MTE3TC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Negative', 'score': 0.9995104074478149}",negative,0.9995104074478149,-1
+What Happened To Airbus' BLADE Laminar Flow Test A340? - Simple Flying,"Fri, 26 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXJidXMtYmxhZGUtdGVzdC1hMzQwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9917486906051636}",neutral,0.9917486906051636,0
+"Airbus blames COVID-19 as it cuts 15,000 jobs - Yahoo Finance UK","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy1haXJidXMtam9iLWN1dHMtZnJvbS1nbG9iYWwtd29ya2ZvcmNlLWF2aWF0aW9uLTE3NDkzOTUyMi5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus employees at the entrance of the company's Saint-Nazaire plant in France. (AP Photo/David Vincent)
+
+Airbus (AIR.PA) on Tuesday announced plans to cut 15,000 jobs from its global workforce, citing the impact of the coronavirus pandemic on the aviation industry.
+
+The French plane maker said the job cuts, which affect around 11% of staff, were “necessary” for “safeguarding the company’s future” in light of the COVID-19 pandemic.
+
+Some 1,700 jobs will be lost in the UK. Airbus employs 13,500 people primarily at its Broughton and Filton sites.
+
+“Airbus is facing the gravest crisis this industry has ever experienced,” chief executive Guillaume Faury said in a video statement.
+
+“The measures we have taken, so far, have enabled us to absorb the initial shock of this global pandemic. Now, we must ensure that we can sustain our enterprise and emerge from the crisis as a healthy, global aerospace leader, adjusting to the overwhelming challenges of our customers.”
+
+ADVERTISEMENT
+
+The deepest cuts will fall in France, where 5,000 jobs will be cut, and Germany, where 5,100 roles are set to be lost. Airbus currently employs 135,000 globally.
+
+Airbus said it would work with unions to cut headcount as much as possible using voluntary departures, early retirement, and long term partial unemployment schemes. However, it said it could not rule out redundancies.
+
+The aviation industry is confronting an unprecedented crisis in coronavirus, as airlines and manufacturers face a collapse in demand from travellers. Airbus said in Tuesday’s statement that commercial aircraft activity has dropped by 40% so far this year and is not expected to recover until 2023.
+
+The job cuts come despite a €15bn (£13.6bn, $16.8bn) bailout package announced by the French government for Airbus and Air France earlier this month.
+
+“We thank our governmental partners as they help us preserve our expertise and know-how as much as possible and have played an important role in limiting the social impact of this crisis in our industry,” Faury said.
+
+“The Airbus teams and their skills and competences will enable us to pursue our ambition to pioneer a sustainable future for aerospace.”
+
+Story continues
+
+READ MORE: Coronavirus: Airbus expects 40% drop in production over next two years
+
+The International Air Transport Association (IATA) said in its financial outlook report earlier this month that the global airline industry would lose $84bn (£66bn) this year. Revenue is expected to slump by 50% to $419bn.
+
+“Financially, 2020 will go down as the worst year in the history of aviation,” Alexandre de Juniac, IATA’s director general said.
+
+A separate report from think tank the New Economic Forum warned that as many as 70,000 jobs linked to the aviation industry were at “immediate” risk due to the coronavirus pandemic.
+
+The report compared the expected collapse in aviation employment to the rapid decline of the UK coal industry in the early 1980s, which left lasting economic scars on many communities.
+
+READ MORE: Coronavirus: Airbus CEO warns cost cuts needed as it's 'bleeding cash'
+
+Airbus said in April that it was cutting production at its Broughton facility in Wales, where it assembles wings for use in aircraft production in Spain, France and Germany. In a memo, the company said it was “bleeding cash” and needs to rapidly cut costs. Some 6,000 people are employed at the site.","{'label': 'Neutral', 'score': 0.8958056569099426}",neutral,0.8958056569099426,0
+Thrustmaster unveils official Airbus gear ahead of 'Flight Simulator' release - Engadget,"Thu, 18 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS90aHJ1c3RtYXN0ZXItYWlyYnVzLXRjYS1nZWFyLTE2MTM0MTA1NC5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"In anticipation of Microsoft’s new Flight Simulator, Thrustmaster has unveiled “licensed by Airbus” gear that’s perfect for proper plane geeks. The new brand, TCA or Thrustmaster Civil Aviation, includes a modular sidestick, dual thrust lever throttle with add-on modules, an Officer bundle pack and new metal desk clamp. It’s meant to provide an even more life-like experience for civil aviation simulators like X-Plane 11 and Flight Simulator.
+
+The flagship product is the TCA Sidestick Airbus Edition, a PC joystick and ergonomic replica of the Airbus sidestick (A320/A320neo type, 1:1 scale). The modular design includes 12 remappable buttons. The built-in throttle axis includes a thrust reverser function, a unique feature of real aircraft, and users can rotate the handle to control the rudder. The sidestick will cost $69.99 (£64.99 / €69.99) and be available beginning June 25th.
+
+Thrustmaster is also releasing the TCA Quadrant Airbus Edition which replicates Airbus throttle controls (A320neo type). That will arrive in September and cost $99.99 ((£89.99 / €99.99). Users who want both the TCA Sidestick and TCA Quadrant can opt for the TCA Officer Pack Airbus Edition bundle, available in September for $159.99 (£149.99 / €159.99). And if you’re going all out, you might as well throw in the TM Flying Clamp (£54.99 / $69.99 / €59.99). Also arriving in September, the metal clamp will make your setup that more lifelike and ensure proper ergonomics.
+
+All of the gear is available for pre-order now.","{'label': 'Neutral', 'score': 0.9999951124191284}",neutral,0.9999951124191284,0
+Constellium signs multi-year contract with Airbus to supply aerospace aluminum products and solutions - Green Car Congress,"Mon, 08 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmdyZWVuY2FyY29uZ3Jlc3MuY29tLzIwMjAvMDYvMjAyMDA2MDgtY29uc3RlbGxpdW0uaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.999560534954071}",neutral,0.999560534954071,0
+Will The Airbus A380 Ever Make A Comeback? - Simple Flying,"Fri, 05 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXJidXMtYTM4MC1jb21lYmFjay_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Negative', 'score': 0.7505649924278259}",negative,0.7505649924278259,-1
+Airbus Foundation supports Kenya during heavy flooding - Airbus,"Thu, 04 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LWFpcmJ1cy1mb3VuZGF0aW9uLXN1cHBvcnRzLWtlbnlhLWR1cmluZy1oZWF2eS1mbG9vZGluZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Heavy rains from March to May 2020 resulted in floods and landslides across many parts of Kenya, leaving thousands of households marooned. The Airbus Foundation, Airbus Helicopters and Airbus Defence and Space have offered vital support to help the Kenya Red Cross Society (KRCS) assess the situation from an aerial perspective and to deliver emergency aid.
+
+In Kenya, the months of April to late May are known as the “heavy” rain season. This year, torrential rain in the western part of the country has gone above and beyond the yearly average, causing significant flooding and landslides.
+
+To date, approximately 170,000 people have been displaced across 43 counties. Most of the affected communities—from West Kenya, Coast, North and South Rift, and Central Region—live in remote areas, limiting KRCS’ access and making delivery of aid difficult. In fact, certain isolated areas have been significantly affected—including the counties of Garissa, Tana and Kajiado—due to the overspill of the Masinga Dam and the Ewaso Ngiro River. The rains have also caused infrastructure damage that has interfered with transportation and communications in all three counties, severely limiting humanitarian ground support.
+
+To identify the affected areas in need of aid, the KRCS team required access to satellite imagery and helicopter transport. The Airbus Foundation—in collaboration with Airbus Helicopters and Airbus Defence and Space—offered support to KRCS to enable the humanitarian organisation to strengthen the on-the-ground response and aid delivery.
+
+Satellite imagery for disaster aid delivery
+
+Through a partnership organised by the Airbus Foundation, Airbus Defence and Space conducted a spatial assessment of the affected areas, using imagery from ESA Sentinel-1 and 2 satellites and Airbus Pléiades satellites. The resulting satellite images offered a detailed assessment of the full impact of the flooding in isolated areas.
+
+The relief aid provided by Airbus Helicopters and Airbus Defence and Space met the immediate need for survival. This collaboration effectively demonstrates how a unified approach can deliver humanitarian aid efficiently and effectively while addressing all the complex challenges involved in disaster relief.
+
+- Laurie Ceccan, Airbus Foundation
+
+As a result, KRCS was able to consider access routes and priority areas, develop immediate steps in planning the response, and determine the disaster level.
+
+“Determining the disaster level in isolated areas is a very complex and risky activity without the right information,” explains Dr. Asha Mohammed, Secretary General, Kenya Red Cross Society “The satellite imagery provided by Airbus Defence and Space enabled us to have a clearer picture of the overall need, so we were able to take action quickly.”
+
+A unified approach to humanitarian aid & disaster relief
+
+Two missions carried out by Airbus Helicopters also provided additional support to KRCS. A H125 from Tropic Air Kenya, transporting KRCS personnel, conducted an aerial assessment mission in Garissa and Tana River County to strengthen the response and provide aid delivery. By taking into account all the obstacles and the disaster level, the mission helped to determine that the damage was far beyond what had been predicted and reported earlier.
+
+During a second mission, approximately two tons of shelter and non-food items were delivered to the community of Pakase in Kajiado County. There, over 200 households had been left stranded for almost two weeks.
+
+“The relief aid provided by Airbus Helicopters and Airbus Defence and Space met the immediate need for survival,” explains Laurie Ceccan, Airbus Foundation. “This collaboration effectively demonstrates how a unified approach can deliver humanitarian aid efficiently and effectively while addressing all the complex challenges involved in disaster relief.”","{'label': 'Neutral', 'score': 0.9794714450836182}",neutral,0.9794714450836182,0
+Will Boeing 737 MAX Customers Jump To Airbus A320neos? - Aviation Week,"Fri, 05 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9haXItdHJhbnNwb3J0L2FpcmNyYWZ0LXByb3B1bHNpb24vd2lsbC1ib2VpbmctNzM3LW1heC1jdXN0b21lcnMtanVtcC1haXJidXMtYTMyMG5lb3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ask the Editors: The Aviation Week Network invites our readers to submit questions to our editors and analysts. We’ll answer them, and if we can’t we’ll reach out to our wide network of experts for advice.
+
+Will the COVID-19 cancellations and slowdown in orders enable frustrated Boeing 737 MAX customers to jump to buying Airbus A320neos?
+
+Aviation Week Executive Editor, Commercial Aviation, Jens Flottau responds:
+
+The longer the MAX’s reentry into service is delayed, the greater the opportunity for customers to dump orders, particularly as they pass the one-year delay mark. The COVID-19 pandemic is causing massive delivery deferrals. Deferrals in theory free up aircraft production slots and may generate an opportunity for customers to jump to another manufacturer.
+
+However, in reality that is rare in normal times, let alone in crises. Switching to a new aircraft manufacturer comes with huge costs for training, spare parts, ground infrastructure and sheer workload for planning the transition. That is an exercise few airlines would want to go through at the moment. And with few carriers wanting to take delivery of aircraft already on order, it is hard to see a meaningful number of airlines wanting to sign new commitments in the coming months, even if huge discounts are offered.","{'label': 'Negative', 'score': 0.886356770992279}",negative,0.886356770992279,-1
+“Our sole objective is to make a difference” - Airbus,"Thu, 04 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LW91ci1zb2xlLW9iamVjdGl2ZS1pcy10by1tYWtlLWEtZGlmZmVyZW5jZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Images: HALO Aviation
+
+South Africa went into lockdown on 26 March, which effectively shut down the country with the exclusion of essential services. HALO Aviation, a HEMS operator based in South Africa, was the only operator in the country to have several aerial platforms configured to accommodate a complete patient isolation module.
+
+Providing vital medical services in South Africa
+
+HALO Aviation is the only HEMS (helicopter emergency medical services) operator in South Africa that operates a doctor-based service, providing medical services to all South Africans through various government health departments with their six bases across the country and their fleet of four BK117s, a helicopter in the H145 family.
+
+“Our daily missions comprise a mix of landing on the scene of a motor vehicle crash to airlift a critically injured patient, to transporting patients from rural clinics to higher level of care facilities,” explains Ryan Horsman, Chief Executive Officer of HALO Aviation. “The mission scope is extremely varied and covers the whole spectrum, from neonatal cases requiring incubators and ventilators to a full ECMO (extracorporeal membrane oxygenation) transfer. It is easily possible that our practitioners are exposed to the highest level of trauma patients anywhere in the world.”
+
+Ensuring protection against COVID-19 during patient transfer
+
+After more than 10 years of operations and over 5,000 EMS missions for the helicopter operator, the pandemic arrived in the country and changed daily life. But while many operators decided the risk was too high to transport possible COVID-19 patients onboard, HALO adapted their procedures, equipment and behaviour to ensure their teams’ protection while ensuring the same high quality of EMS service to the public.
+
+First of all, HALO incorporated a ‘COVID-19 screening procedure and checklist’ used on every flight, that facilitated a detailed investigation should it raise a flag for a possible COVID-19 patient. A barrier curtain in the aircraft systematically protected the pilots from the cabin, and all crew members started to wear personal protective equipment just in case they had to fly a possible COVID-19 patient. Also, the aircraft and all equipment were sterilised after each and every mission.
+
+“Since the beginning of the lockdown and until today, we have performed 60 missions, which is a marked decrease from our normal cases,” clarifies Horsman. When asked about the reason for this decrease in the number of EMS interventions, Horsman is categorical: “The restriction of sales on any alcohol has had a positive impact, limiting the number of cases we attend to where driving under the influence of alcohol is a factor! And the limited number of people and vehicles on the roads has had a significant impact on emergency services.”
+
+Initially, a number of hospitals were reluctant or not permitted to refer COVID-19 cases. However, the fact that HALO was using the IsoArk Isolation Chamber, (equipped with its own negative pressure filtration system), provided them with a greater level of comfort. The IsoArk Isolation chamber, that has a filter performance of 99.9995% and provides seven access openings, is currently been used around the globe in the H145 family, the H155, and the Super Puma family.
+
+But beyond the intensity of the missions during this pandemic period, Ryan Horsman acknowledges that, like many other helicopter operators, these months have made things look differently for both him and his team: “The COVID-19 crisis has necessitated that the entire world population review the way we do things. With each individual having to apply themselves completely to the mission, the COVID-19 crisis brings with it a whole host of issues that include financial concerns, employment continuity and personal hardships. So, more than ever, whilst we acknowledge the importance of social distancing, team cohesion is also key! I have a firm belief and can proudly state that the HALO team is made up of absolute superheroes who give their all in ensuring a positive outcome for their patient. From the administrative personnel, to the dispatchers, pilots, paramedics and doctors – the sole objective is to make a difference.”
+
+Team cohesion for a positive outcome
+
+But beyond the intensity of the missions during this pandemic period, Ryan Horsman acknowledges that, like many other helicopter operators, these months have made things look differently for both him and his team: “The COVID-19 crisis has necessitated that the entire world population review the way we do things. With each individual having to apply themselves completely to the mission, the COVID-19 crisis brings with it a whole host of issues that include financial concerns, employment continuity and personal hardships. So, more than ever, whilst we acknowledge the importance of social distancing, team cohesion is also key! I have a firm belief and can proudly state that the HALO team is made up of absolute superheroes who give their all in ensuring a positive outcome for their patient. From the administrative personnel, to the dispatchers, pilots, paramedics and doctors – the sole objective is to make a difference.”
+
+Fortunately, we have great support from Airbus and are well assured of the prompt supply and delivery of components and expedient service. This provides us all with peace of mind knowing that they are just a phone call away and almost literally up the road!
+
+- Ryan Horsman, Chief Executive Officer of HALO Aviation
+
+Review the H145 page","{'label': 'Neutral', 'score': 0.9997532963752747}",neutral,0.9997532963752747,0
+Coronavirus: Airbus expects 40% drop in production over next two years - Yahoo Finance,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jb3JvbmF2aXJ1cy1haXJidXMtZXhwZWN0cy00MC1kcm9wLWluLXByb2R1Y3Rpb24tb3Zlci1uZXh0LXR3by15ZWFycy0wODEzMzM2NjAuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Guillaume Faury, Airbus chief executive officer. Photo: Pascal Pavan/AFP via Getty
+
+Guillaume Faury, the chief executive of Airbus (AIR.PA), expects production at the European aircraft manufacturer to be down 40% this year and next year due to the impact of the coronavirus pandemic.
+
+In an interview with Die Welt newspaper published on Monday, Faury said that airlines’ struggles at the moment have a knock-on effect on Airbus.
+
+“For the next two years, ie 2020/2021, we assume that production and deliveries will be 40% lower than originally planned,” Faury told Die Welt. “We are trying to coordinate the production with the handover of the aircraft to the customers.”
+
+Airbus had announced previously that it would cut production by one-third on average. In April, Faury told employees in a memo seen by media outlets including Reuters and Bloomberg that the company is “bleeding cash” and needs to rapidly cut costs in order to survive the impact from the coronavirus pandemic.
+
+READ MORE: Coronavirus: Airbus CEO warns cost cuts needed as it's 'bleeding cash'
+
+The Toulouse-based company made a loss of €481m (£439m, $541m) in the first quarter of this year as the coronavirus pandemic devastated the aviation industry.
+
+“In April/May we were up to 80 % below our plan. Only 14 instead of 75 aircraft were delivered in April,” Faury told Die Welt. “On the one hand, due to the travel restrictions, airline crews could not take delivery of their aircraft, on the other hand, there was no financial security at the airlines, but gradually it is getting better.”
+
+German flag carrier Lufthansa (LHA.DE) secured its survival last week, after shareholders voted to accept the terms of the €9bn (£8bn, $10bn) German government bailout. The government now has a 20% stake in Lufthansa.
+
+Likewise, in France and the Netherlands, the governments of both countries have agreed to multi-billion-euro bailouts for Air France-KLM (AF.PA).
+
+READ MORE: German and Dutch governments put up billions to save airlines
+
+The Airbus chief executive said that the 40% drop in production may make job cuts unavoidable.
+
+“The crisis in the industry is huge — we have to react to it and adapt,” he said. We employ around 90,000 people in our commercial aircraft division. As we already said several times, we will announce what the personnel adjustments will look like before the end of July.”","{'label': 'Neutral', 'score': 0.7703185677528381}",neutral,0.7703185677528381,0
+Airbus completes fully autonomous take off and landing flight tests - Aerospace Testing International,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5hZXJvc3BhY2V0ZXN0aW5naW50ZXJuYXRpb25hbC5jb20vbmV3cy9hdmlvbmljcy9haXJidXMtY29tcGxldGVzLWZ1bGx5LWF1dG9ub21vdXMtdGFrZS1vZmYtYW5kLWxhbmRpbmctZmxpZ2h0LXRlc3RzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airbus has successfully concluded a two-year project to develop a system for the autonomous taxiing, take-off and landing of commercial aircraft.
+
+The Autonomous Taxi, Take-Off and Landing (ATTOL) project has used automatic vision-based flight tests and on-board image recognition technology to achieve this for what Airbus claims is the first time in the world.
+
+ATTOL has seen over 500 test flights conducted with around 450 of those flights dedicated to gathering raw video data to support and fine tune algorithms. The project has recently concluded with a series of six test flights, each one including five take-offs and landings per run to test autonomous flight capabilities.
+
+The first fully automatic vision-based take-off with a test aircraft was conducted at Toulouse-Blagnac airport in France during December last year.
+
+The aim of the ATTOL project was to explore how autonomous technologies, including the use of machine learning algorithms and automated tools for data labelling, processing and model generation, could help pilots focus less on aircraft operations and more on strategic decision-making and mission management.
+
+Airbus said it will use the data from ATTOL to analyze the potential of autonomous technologies for enhancing future aircraft operations and to improve aircraft safety.
+
+The two-year ATTOL project involved various Airbus engineering and technology teams from around the world and different divisions, including Airbus Defence and Space, Acubed, Airbus China and French research agency ONERA.
+
+The project was headed up by the “Airbus UpNext” initiative, which has also run the fello’fly v-shaped formation flight R&D program, the MAVERIC (Model Aircraft for Validation and Experimentation of Robust Innovative Controls) project and the E-Fan X hybrid-electric propulsion project, before it was cancelled.","{'label': 'Positive', 'score': 0.9873015880584717}",positive,0.9873015880584717,1
+Will Other Airlines Follow Emirates And Unground The Airbus A380? - Simple Flying,"Wed, 24 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS93aWxsLWFpcmxpbmVzLXVuZ3JvdW5kLXRoZS1haXJidXMtYTM4MC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999480247497559}",neutral,0.9999480247497559,0
+Au Revoir A380: Air France Bids Farewell To Airbus' Giant - Simple Flying,"Fri, 26 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9hdS1yZXZvaXItYWlyLWZyYW5jZS1haXJidXMtYTM4MC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9992026686668396}",neutral,0.9992026686668396,0
+Japan's National Police Agency orders five new helicopters - Airbus,"Wed, 24 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1qYXBhbnMtbmF0aW9uYWwtcG9saWNlLWFnZW5jeS1vcmRlcnMtZml2ZS1uZXctaGVsaWNvcHRlcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Tokyo, 24 June 2020 – Japan’s National Police Agency (NPA) has ordered one new H225 and four H135 helicopters as part of its fleet modernisation programme.
+
+Currently operating 12 H135, four H155 and six AS365 helicopters, with one H215 and two H225 already on order, NPA deploys its growing fleet for missions including law enforcement, personnel and VIP transport, goods transportation, disaster relief, as well as wide area support. The five new helicopters will complement the agency’s law enforcement capabilities. The new order will take NPA’s Airbus fleet to 30.
+
+“Airbus Helicopters treasures the opportunity to support Japan’s wide-ranging law enforcement missions for more than 30 years with our light twin, medium and heavy-lift helicopters. We thank NPA for its continued trust built over the years, and welcome the agency as a new customer for our Super Puma helicopters. With an enlarged fleet not just in numbers, but also in range and capacity, we are fully confident that the new helicopters will be a timely addition, reinforcing the agency’s operations,” said Guillaume Leprince, Managing Director of Airbus Helicopters Japan.
+
+The H135 is an outstanding market leader in the light twin-engine helicopter segment, known for its compact build, agility, reliability and versatility. Its high availability is a strong trait for law enforcement missions. In Japan, H135 operators benefit from the training support offered by Airbus Helicopters’ Kobe-based H135 full flight simulator centre. There are currently 94 H135 helicopters operating in Japan today. Globally, Airbus has delivered more than 1,375 H135s to about 300 customers, clocking in over 5.4 million flight hours.
+
+Offering the industry’s best range, speed, payload and reliability in an 11-ton-category twin-turbine rotorcraft, the H225 is the latest member of Airbus Helicopters’ Super Puma family that has accumulated more than 5.7 million flight hours in all-weather conditions around the world. H225 offers outstanding endurance and fast cruise speed, and can be fitted with various equipment to suit a variety of roles. In Japan alone, a total of 28 helicopters from the Super Puma family are currently flown by civil, parapublic operators, and Japan’s Ministry of Defense for various search and rescue missions, VIP, fire-fighting, and heavy-lifting.","{'label': 'Positive', 'score': 0.7187371850013733}",positive,0.7187371850013733,1
+Urban Air Mobility (UAM) by MVRDV and Airbus - DesignWanted - DesignWanted,"Mon, 22 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZGVzaWdud2FudGVkLmNvbS9tdnJkdi1haXJidXMtY29sbGFib3JhdGlvbi11cmJhbi1haXItbW9iaWxpdHkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Share
+
+Dutch architecture practice, MVRDV has been working in collaboration with Airbus, Bauhaus Luftfahrt, ETH Zurich, and Systra on the investigation into how architects can plan for the future of Urban Air Mobility (UAM).
+
+Urban Air Mobility is about developing a plan for the future of flying vehicles in metropolitan areas and address the issues surrounding their impact
+
+Envisioning our future urban landscape with flying vehicles is something that highlights many questions surrounding the integration into current architecture and transport routes. MVRDV architects have been looking into comprehensive mobility concepts that can begin to slowly be introduced into contemporary architectural designs.
+
+Airbus Urban Mobility infrastructure concept for the San Francisco airport
+
+The minds behind Urban Air Mobility – MVRDV and Airbus
+
+In 1993 MVRDV was formed using the first initial of the surnames of its founders; Winy Maas, Jacob van Rijs and Nathalie de Vries. The studio is based in the Netherlands but works across the world on contemporary architectural designs and specializing in urban issues.
+
+They work in a highly collaborative manner with in-depth research at the forefront of every project to inform exemplary and outspoken results that develop cities towards a better future. MVRDV has exhibited across the globe and has received a large number of international awards, they also have official in-house BREEAM and LEED assessors.
+
+Airbus is an international aerospace company that designs, manufactures, and delivers industry-leading commercial aircraft, helicopters, military transports, secure communications, urban mobility on a global scale. They strive for a better-connected, safer, and more prosperous world utilizing cutting-edge technologies and digital and scientific research.
+
+[ Read also Brand Story – MVRDV ]
+
+Airbus Urban Mobility infrastructure concept: San Francisco R&D hub
+
+
+
+Research & Development – Vertiports and urban development
+
+The advancements in computing, materials, and electric propulsion technology is propelling the possibility of flying vehicles, which may become a reality in the near future. Urban Airbus Mobility alongside MVRDV have envisioned a comprehensive mobility concept that involves Vertiports – landing hubs that integrate the aerial network with the existing and future ground transport system.
+
+Over the last few years, MVRDV has supported Airbus in the exploration of strategic urban development scenarios with the aim to leverage UAM as an opportunity to grow cities into the futuristic cityscapes that have been long present in the public consciousness.
+
+The research and development carried out leverages UAM as an opportunity to grow cities into thriving urban regions across the world.
+
+The research aimed to address many questions that arise surrounding the future possibility of flying vehicles, and work to avoid any detrimental impacts that could be caused by the introduction of revolutionary transportation.
+
+The team studied how careful planning in modern architecture can prepare for both short-term and long-term scenarios when air mobility is introduced. Flying vehicles could cause vast disruption to the existing architecture and transport methods when it’s introduced, so the research is taking place to ensure a smoother transition when the technology is introduced.
+
+Airbus Urban Mobility infrastructure concept for the Half Moon Bay waterfront
+
+Rethinking urban mobility – Three-dimensional city
+
+The key to unlocking the smooth integration of modern and existing transportation and architecture is the introduction of vertiports. The design envisaged for vertiports come in various sizes and styles, just like traditional stations, stops, and terminals.
+
+However, unlike traditional transport, vertiports do not require tracks, tunnels, or roads linking them, resulting in saving energy, natural resources, and land. This allows versatility in the design of vertiports for use in different locations to enhance existing urban scenarios.
+
+Vertiports are not looked at as just stations, but also as intelligent hubs of renewable energy, data, and public amenities. They have been designed as catalysts for urban improvement while addressing the questions surrounding the seamless integration of air mobility in our current cityscapes.
+
+Airbus Urban Mobility infrastructure concept for Shenzhen
+
+The research carried out by MVRDV, Airbus, Bauhaus Luftfahrt, ETH Zurich, and Systra also looked into how “the last mile” issues could be solved. This is where locations that are underdeveloped may have difficulty to be integrated with the transport links in the larger cities.
+
+The team considered the principles of transit-orientated development by not only bringing airborne transportation links but also integrating with other transport options to continue the connection into undeveloped areas.
+
+In remote areas that aren’t as developed as main towns and cities, vertiports can be designed as opportunity hubs with educational and healthcare facilities. These spaces can also be created as business incubators, for example, vertiports can serve as a bridge that connects various neighborhoods in areas that are fractured by roads or railway tracks.
+
+Urban Air Mobility and vertiports don’t seek to replace the existing infrastructure of existing transportation but to enhance connections using new technology
+
+Although flying vehicles and vertiports are something of the future, they are not designed to remove or replace the existing transport facilities or infrastructure that has been part of our landscapes for centuries.
+
+Instead, the technology is designed to enhance the transport facilities and it could serve as an interesting contributor to a discrete and distributed contribution to the mobility system.
+
+Airbus Urban Mobility infrastructure concept for downtown Los Angeles
+
+Design memento – “Mobility is at my balcony” Winy Maas, MVRDV
+
+MVRDV and Airbus created a series of scenarios based on existing cities around the world, to display how vertiports could be integrated into the existing cityscapes. A collaboration between MVRDV, Airbus and Squint/Opera showcases what the future can look like in the form of an exhibition titled “The City and the Sky Above” – which is currently on display at the Bi-City Biennale or Urbanism/Architecture.
+
+“As cities become denser and technologies improve, it becomes increasingly clear that the truly three-dimensional city – one that includes flying vehicles – is surely one of the city models of the future… a city where mobility is at my balcony!” – Winy Maas, founding partner of MVRDV.
+
+To reach this stage there will be many small steps that need to take place and it’s a credit to Airbus that they are trying to foresee these issues and prepare for them in advance.
+
+Airbus Urban Mobility infrastructure concept for the San Francisco Harbour
+
+Seeing how MVRDV and Airbus created three-dimensional models of how design and architecture can shape the future of mobility is inspiring. They are thinking far in advance to try and reduce the negative impact that such revolutionary technology could have on existing architecture.
+
+I think this is admirable that they are essentially trying to future-proof architecture in preparation for the future of Urban Air Mobility.
+
+[ Read also 2050: What is the ‘New Deal’ for highways? Carlo Ratti is on it ]","{'label': 'Neutral', 'score': 0.9871119856834412}",neutral,0.9871119856834412,0
+Has COVID Killed The Airbus A340? - Simple Flying,"Thu, 18 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9oYXMtY292aWQta2lsbGVkLXRoZS1haXJidXMtYTM0MC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Negative', 'score': 0.8367042541503906}",negative,0.8367042541503906,-1
+Building A Giant: How Is The Airbus A380 Built? - Simple Flying,"Thu, 18 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctaXMtYW4tYWlyYnVzLWEzODAtYnVpbHQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999494552612305}",neutral,0.9999494552612305,0
+Solar Orbiter is ready for its close-up with the Sun - Airbus,"Mon, 08 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vc3Rvcmllcy8yMDIwLTA2LXNvbGFyLW9yYml0ZXItaXMtcmVhZHktZm9yLWl0cy1jbG9zZS11cC13aXRoLXRoZS1zdW7SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Currently travelling at some 105 million kilometres from Earth, the Airbus-built Solar Orbiter (SolO) is en route for an encounter to uncover the secrets of our closest star.
+
+While humankind has been studying the Sun for hundreds of years, the research is limited because data was always collected from distances more or less equal to the star’s separation from Earth, according to Ian Walters, Airbus’ SolO Project Manager.
+
+“Solar wind takes about two to four days to get from the Sun to Earth, and in that time, it transforms completely,” he explained. “We can better correlate what is seen with what is felt from the Sun if we can get up close. That’s the point of the Solar Orbiter mission…and it’s never been achieved before.”
+
+Solar Orbiter was launched in February in a joint mission of the European Space Agency and the U.S. National Aeronautics and Space Administration. Travelling closer to the Sun than its nearest planet – Mercury – SolO will make comprehensive measurements of the nascent solar wind.
+
+Beating the heat
+
+For the spacecraft and its 10 instruments to survive extreme temperatures of up to 600 deg. Centigrade, Airbus designed a protective heat shield with openings for SolO’s five telescopes to peek through during the trek.
+
+According to Walters, the most critical heat protection technology is the Stand-off Radiator Assembly (SORA) – a set of radiators sitting on the spacecraft’s side that is always in shadow, enabling them to quickly transfer heat from the instruments into space. SORA’s thermal straps are made from pyrolytic graphite, which is five times more conductive than copper wire but flexible like paper.
+
+To avoid any molecular contamination that could compromise imagery from the telescopes, Airbus also built Solar Orbiter to levels of cleanliness far exceeding any other spacecraft built in the UK to date. Every item on SolO has been heated to over 120 degrees to make sure no gases are emitted in the vacuum of space.
+
+Solar Orbiter in the clean room
+
+Predicting solar events
+
+Data from Solar Orbiter can help make significant improvements to everyday life, particularly when it comes to predicting solar flares and coronal mass ejections (CME) – the expulsions of plasma and its accompanying magnetic field from the sun, which can have a major impact on Earth.
+
+“In 1859, one such episode took down the world’s telegraph network,” Walters said. “A similar event today would severely disrupt our power grids, mobile phone towers, navigation systems and many other critical technologies.”
+
+He added: “If we could predict the CME was coming our way, we’d have about two days’ notice for emergency government committees to be activated and react, instead of the few minutes’ notice we receive today.”","{'label': 'Neutral', 'score': 0.9998966455459595}",neutral,0.9998966455459595,0
+First US-Made Airbus A220 Completes Maiden Flight - Simple Flying,"Tue, 02 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9maXJzdC11cy1hMjIwLWZsaWdodC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999558925628662}",neutral,0.9999558925628662,0
+The Story Behind ANA's Colorful Airbus A380 Liveries - Simple Flying,"Mon, 15 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9hbmEtYTM4MC1saXZlcnkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Positive', 'score': 0.9873358607292175}",positive,0.9873358607292175,1
+"Airbus to slash workforce by 15,000 - Puget Sound Business Journal - The Business Journals","Tue, 30 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9zZWF0dGxlL25ld3MvMjAyMC8wNi8zMC9haXJidXMtY3V0cy10aG91c2FuZHMtbW9yZS1qb2JzLWFjcm9zcy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999581575393677}",neutral,0.9999581575393677,0
+France Plans To Make Airbus A320 Successor By 2030 - Simple Flying,"Tue, 09 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9mcmFuY2UtYWlyYnVzLWEzMjAtc3VjY2Vzc29yL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999985694885254}",neutral,0.9999985694885254,0
+Airbus A400M completes full Paratrooper Simultaneous Dispatch certification - Airbus,"Tue, 02 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmFpcmJ1cy5jb20vZW4vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMvMjAyMC0wNi1haXJidXMtYTQwMG0tY29tcGxldGVzLWZ1bGwtcGFyYXRyb29wZXItc2ltdWx0YW5lb3VzLWRpc3BhdGNo0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Getafe, 2 June 2020 – The Airbus A400M new generation airlifter has successfully achieved certification of the simultaneous paratrooper dispatch capability and completed the full industrial development of the type’s paratrooping deployment capacity, with a maximum dispatch of 116 paratroopers using both side doors (58 + 58).
+
+The certification fight test, completed in May 2020 in coordination with the French Armament General Directorate (DGA) and supported by the French and Belgian Armed Forces, combined an extensive paratrooping campaign of more than 1,000 jumps along with the implementation of new capability development methodologies based on recording and 3D modelling of paratrooper jump trajectories.
+
+“This certification completes a challenging journey to achieve this next generation capability. The achievement reinforces the strategic value the A400M already offers to air force operators and society, as demonstrated during Covid-19 times,” said Dirk Hoke, Chief Executive Officer of Airbus Defence and Space.
+
+With the completion of this key milestone, the A400M excels in its paratrooping role, being able to carry 116 paratroopers who can jump two at a time from the ramp in freefall, or through the paratroop side doors with automatic parachute opening, a state-of-the-art capability that greatly increments its operational possibilities.
+
+The picture above shows the successful dispatch of paratroopers during the flight test campaign over Ger Azet drop zone in southern France in September 2019.
+
+@AirbusDefence #A400M #defencematters","{'label': 'Positive', 'score': 0.9993997812271118}",positive,0.9993997812271118,1
+Five-blade Airbus H145 gains EASA approval - Helicopter Investor,"Mon, 22 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmhlbGljb3B0ZXJpbnZlc3Rvci5jb20vbmV3cy85NjYyNC9maXZlLWJsYWRlLWFpcmJ1cy1oMTQ1LWdhaW5zLWVhc2EtYXBwcm92YWwtMTIzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Five-blade Airbus H145 gains EASA approval
+
+news by Yves Le Marquand 22 June 2020 Print this page
+
+The new Airbus’ five-bladed H145 has been certified by the European Aviation Safety Agency (EASA). The foldable bladed helicopter is due for its first deliveries in late summer, while FAA approval is expected by year-end.
+
+The certification covers the full range of capabilities, including single-pilot operations and Instrument Flight Rules (IFR) and single engine operations (Cat.A/VTOL), along with night vision goggles capability. Certification for the military version of the five-bladed H145 will be granted in 2021.
+
+The new version of Airbus’ best-selling H145 light twin-engine helicopter was unveiled at Heli-Expo 2019 in Atlanta. Prior to successful high-altitude testing in South America, where the aircraft set its skids down on the Aconcagua, the highest mountain in the Southern hemisphere, the new H145 performed several trials including Spain, for medium altitudes, and Finland, for cold weather.
+
+“Our new five-bladed H145 is an excellent example of our quest for continuous improvement and providing incremental innovation that responds to our customers’ requirements”, said Bruno Even, Airbus Helicopters CEO. “This helicopter combines value-added features with the robustness and the reliability of a tried-and-tested bestseller, making it very competitive in the light twin-engine market.”
+
+This latest upgrade of the H145 family, which has over 1,350 aircraft in operation globally, adds a five-bladed rotor to the aircraft, increasing the useful load of the aircraft by 150kg (330 lb). Also, Airbus claims the simplicity of the new bearingless main rotor design will also ease maintenance operations, further improving the benchmark serviceability and reliability of the H145, while improving ride comfort for both passengers and crew.
+
+Two Safran Arriel 2E engines power the H145 and the chopper is equipped with full authority digital engine control (FADEC) and the Helionix digital avionics suite. It includes a -four-axis autopilot increasing safety and its particularly low acoustic footprint makes the H145 the quietest helicopter in its class.
+
+At a glance: Five-bladed H145","{'label': 'Positive', 'score': 0.9999995231628418}",positive,0.9999995231628418,1
+Airbus veterans called up to rescue aviation supply chain - Financial Times,"Wed, 03 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzNiZWM5ZjViLTA4NmYtNDc1Ny04MDIyLTY0MmI3MzhkZDBiN9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Try unlimited access Only 1 € for 4 weeks
+
+Then 69 € per month.
+
+Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.","{'label': 'Neutral', 'score': 0.9999912977218628}",neutral,0.9999912977218628,0
+Two Airbus A320s Suffer Light Collision In Russia - Simple Flying,"Mon, 15 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS90d28tYWlyYnVzLWEzMjBzLXN1ZmZlci1saWdodC1jb2xsaXNpb24taW4tcnVzc2lhL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9882223010063171}",neutral,0.9882223010063171,0
+Qantas To Send Airbus A380s To California's Mojave Desert - Simple Flying,"Thu, 25 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9xYW50YXMtYTM4MC1kZXNlcnQtMi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999866485595703}",neutral,0.9999866485595703,0
+Finnair’s inside story of transforming Airbus A330 into a cargo freighter - STAT Times,"Tue, 02 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnN0YXR0aW1lcy5jb20vbmV3cy9maW5uYWlycy1pbnNpZGUtc3Rvcnktb2YtdHJhbnNmb3JtaW5nLWFpcmJ1cy1hMzMwLWludG8tYS1jYXJnby1mcmVpZ2h0ZXItYWlyLWNhcmdvL9IBdmh0dHBzOi8vd3d3LnN0YXR0aW1lcy5jb20vYW1wL25ld3MvZmlubmFpcnMtaW5zaWRlLXN0b3J5LW9mLXRyYW5zZm9ybWluZy1haXJidXMtYTMzMC1pbnRvLWEtY2FyZ28tZnJlaWdodGVyLWFpci1jYXJnby8?oc=5&hl=en-US&gl=US&ceid=US:en,"This spring has been unusual for Finnair Cargo with Covid-19 impacting all sides of business. As the passenger traffic nearly stopped for a few months, it initiated a challenge for us at the cargo side: how can we keep our business going?
+
+In early April, we started flying cargo-only flights with the A350 aircraft to several destinations in Asia, Europe and America, belly filled with cargo. From the first flight, we have increased dramatically to carry close to 60 long-haul cargo flights per week. While working with limited capacity in the cargo compartment, the passenger side of the plane was empty. Anyone with common sense would start to think if it was possible to also utilise the cabin space – normally reserved for passengers – for carrying cargo.
+
+As aviation is filled with standards and regulations to ensure safety, we started to investigate different options of how to transform an Airbus A330 aircraft into a cargo freighter. After a few weeks of planning and removing the obstacles, Finnair was able to announce that two of its A330 aircraft were modified to transport double the amount of cargo on one flight. What actually happened in the operations? Mika Kilpinen, development lead for operations, quality and compliance at Finnair reveals what happened inside the aircraft during the transformation.
+
+1. How long did it take to transform a passenger plane into a cargo freighter? How big was the transformation crew?
+
+It took about two weeks altogether, but the physical transformation took five working days from start to finish. We had an operation crew of about 10 team members working in 10-hour shifts during that week to make it happen from the operational side. Not to mention the countless hours of planning how to accomplish this!
+
+2. What were the technical changes you made?
+
+To use the cabin space for cargo, we removed Economy Class seats which took about two working days. During the transformation, we also removed other passenger-traffic-related equipment, such as the entertainment system, trollies and the crew resting module. We created 22 cargo areas that are secured by security nets. Each of those areas can carry 250 kg per square meter, between 600–1,400 kg and in volume 4–9 cubic meters. We utilised the same rail the passenger seats are fastened to secure the nets to hold the cargo load in place.
+
+3. What else did you need to consider from operational point of view?
+
+I guess the actual modification was relatively easy, once there was a plan on how to do it. When carrying cargo, the weight distributes differently compared to an aircraft with passengers: therefore, weight and balance calculations needed to be done and documented as well as testing and training. As this work is carried out in shifts, all manuals needed to be updated and all staff members trained to proceed with operations safely.
+
+Airline operation is teamwork with many stakeholders in different sides of the organisation. This impacted changes for example in the load control processes, ground handling procedures and implementation, load master procedures and implementation, inflight supervision procedures and manuals and flight operation procedures and manuals. In this case, it was over 100 pages of manually written documentation and instructions!
+
+4. Where is cargo now being carried in the A330 aircraft?
+
+In addition to the normal belly cargo compartments, we can now carry cargo in the main deck in sections B and C, cabin storage compartments. The maximum load for these is 226 cubic meters, given the reality that cargo is always a particular shape. If cargo was, for example, water, the volume could be about 10 percent higher.
+
+5. What kind of cargo can be loaded onto the A330 freighter planes?
+
+We received permission from the authorities to use the passenger compartments to transport Covid-19-related supplies and cargo items that are vital for the functioning sensitive supply chains.
+
+6. How does it differ to fly cargo with a passenger plane vs. cargo freighter?
+
+On a real cargo freighter, the cabin structures, doors and loading systems are designed for loading and transporting cargo. On a passenger aircraft, we must use the passenger doors and the loading process is manual. More resources are needed for loading, and the size of the packages to be loaded is limited due to the manual process. We must be wary of the cabin upholstery and keep the plane tidy, as it will be converted back into a passenger aircraft later.
+
+During the flight, there is always two cabin crew members and one load master to supervise the safety aspects during the flight. Depending on the route, flight times and schedules, there are up to six pilots on board to ensure safe flight operations. In case we depart immediately after loading in one of our long-haul destinations, we need three pilots to fly one way, so six in total.
+
+7. What was the most challenging about this project?
+
+Nothing like this has ever been done before at Finnair, so everything had to start from scratch. When aircraft changes like this are done for the first time, it has its own technical and operational challenges, and it is very time consuming. On the other hand, it was a challenge for us all which we took with passion and determination.
+
+8. What was best about this project?
+
+The project team was brilliant, committed and we could really sense that everyone was putting their 150% of effort into this. It was a real pleasure to work with so many Finnair colleagues in different departments and get to succeed together. We are very proud to see that everything is working perfectly, and we now have daily flights to Shanghai and Guangzhou with the new modified A330 aircraft.
+
+(This piece was originally published in Finnair.com)","{'label': 'Negative', 'score': 0.5318393111228943}",negative,0.5318393111228943,-1
+In Photos: Last Airbus A380 Fuselage Travels Through French Villages - Simple Flying,"Thu, 18 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9sYXN0LWFpcmJ1cy1hMzgwLWZ1c2VsYWdlLXRyYXZlbHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999873638153076}",neutral,0.9999873638153076,0
+Relocated MAC To Produce Airbus Interiors In Estonia - Aviation Week,"Mon, 29 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9tcm8vcmVsb2NhdGVkLW1hYy1wcm9kdWNlLWFpcmJ1cy1pbnRlcmlvcnMtZXN0b25pYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Following its relocation from the UK to Estonia at the start of 2020 to remain within the European Union (EU), MAC Aero Interiors has received approval from Airbus to start producing interior elements for Airbus aircraft in their production facility located in Tallinn.
+
+The company was acquired by Magnetic MRO in 2016 and has since become its commercial aircraft cabin interiors arm. Its previously carried out the same work at its former site in Redhill, Surrey, located about 20 miles south of London, but completed its move to eastern Europe with its new facility opening in March.
+
+At the time, MAC Aero Interiors managing director Marko Männiste cited the “increased level of indecisiveness in the UK market,” related to the country’s impending departure from the EU as a factor behind the move.
+
+Relocating to Estonia ended more than 50 years of UK production, with the company specializing in the retrofitting and refurbishment of lavatories, galleys, seating, partitions, stowage lockers, monuments and VIP interiors for a several commercial aircraft
+
+Initially, the Tallinn facility has received the approval the airframe manufacturer for future production of literature pockets for A380 aircraft. Around the same time as its move to Estonia, MAC bolstered its design organization approval services while streamlining its production processes.
+
+Previously, it had also expanded into the Asia-Pacific market by forming a China-based joint venture with Benniao Aviation. Operating as MAC Sichuan, the company provides cabin total technical care support for aircraft for operators in China.","{'label': 'Neutral', 'score': 0.9983282685279846}",neutral,0.9983282685279846,0
+American Airlines New Airbus A321XLR Fleet - What We Know So Far - Simple Flying,"Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9hbWVyaWNhbi1haXJsaW5lcy1uZXctYWlyYnVzLWEzMjF4bHItZmxlZXQtd2hhdC13ZS1rbm93LXNvLWZhci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.999992847442627}",neutral,0.999992847442627,0
+France pledges $17 billion to keep Europe in the aerospace race - WRAL News,"Tue, 09 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LndyYWwuY29tL2ZyYW5jZS1wbGVkZ2VzLTE3LWJpbGxpb24tdG8ta2VlcC1ldXJvcGUtaW4tdGhlLWFlcm9zcGFjZS1yYWNlLzE5MTM2NTc5Lz92ZXJzaW9uPWFtcNIBZ2h0dHBzOi8vd3d3LndyYWwuY29tL2FtcC9zdG9yeS9mcmFuY2UtcGxlZGdlcy0xNy1iaWxsaW9uLXRvLWtlZXAtZXVyb3BlLWluLXRoZS1hZXJvc3BhY2UtcmFjZS8xOTEzNjU3OS8?oc=5&hl=en-US&gl=US&ceid=US:en,"CNN — France has pledged nearly $17 billion to support Airbus, Air France and its wider aviation industry, saying Europe cannot fall behind China and the United States in the global aerospace race as a result of the pandemic.
+
+The package will secure 100,000 jobs over the next six months, French Economy Minister Bruno Le Maire said Tuesday. It will also help French companies keep pace with aircraft manufacturers such as America's Boeing and China's COMAC.
+
+""We will not let the global aeronautical market be divided between China and the United States. France and Europe will be there too,"" said Le Maire.
+
+The €15 billion ($16.9 billion) package includes €7 billion ($7.9 billion) in support for Air France that the government had previously announced. Le Maire said that aviation companies would be allowed to delay loan payments for up to a year, helping to save jobs at aircraft manufacturers Airbus and Dassault as well as aerospace component suppliers Safran and Thalès.
+
+Some €1.5 billion ($1.7 billion) will be allocated for research and development with the goal of producing a carbon neutral aircraft in 2035. ""France can be the European country where the planes of tomorrow will be designed and produced,"" Le Maire added.
+
+The coronavirus crisis has gutted global airlines and is now spreading to companies that make the parts and systems powering their planes. Consumer demand for flights was suppressed during the pandemic by travel bans and shutdowns, and it is not expected to fully recover for several years after lockdowns are lifted.
+
+Across Europe, governments are stepping in to support aviation companies. Air France was granted its bailout in April, while Lufthansa finalized the terms of a €9 billion ($9.8 billion) bailout rescue package from the German government in May. The companies are being pushed to make their operations more environmentally friendly.
+
+US airlines have also benefited from government bailouts worth about $50 billion.
+
+Global competition
+
+Airbus is at the heart of the European aviation industry. Based in France but with production facilities in Germany, Spain and the United Kingdom, it competes with Boeing to supply planes to airlines around the world.
+
+The company secured a €15 billion ($16.9 billion) credit facility in March to help bolster its position as the pandemic swept across Europe. The French government said Tuesday that it would bring forward pending military orders for Airbus refueling tankers and helicopters.
+
+Airbus also stands to benefit from aid provided to Air France, one of its biggest customers.
+
+Boeing, which was already reeling from the grounding of the 737 MAX before the pandemic arrived, has so far avoided a US government bailout by raising $25 billion through a bond offering.
+
+China's COMAC is trying to break up the duopoly enjoyed by Airbus and Boeing, but its C919 single-aisle plane has fallen badly behind schedule and it could be years before the company produces an aircraft capable of challenging its rivals.
+
+— Hanna Ziady contributed reporting.","{'label': 'Neutral', 'score': 0.5237587094306946}",neutral,0.5237587094306946,0
+Airbus A220 VIP cabin concept revealed | News | Flight Global - Flightglobal,"Fri, 19 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vYnVzaW5lc3MtYXZpYXRpb24vYWlyYnVzLWEyMjAtdmlwLWNhYmluLWNvbmNlcHQtcmV2ZWFsZWQvMTM4OTE1LmFydGljbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"An Airbus A220-300 VIP cabin concept has been unveiled by two North American business aviation services companies in a bid to showcase the regional airliner as a viable alternative to traditional large-cabin, long-range business jets and established VIP narrowbodies.
+
+Camber Aviation Management and Kestrel Aviation Management have partnered with French design house Pierrejean Vision and engineering companies F/List and Flying Colours to create an interior for the aircraft formerly known as Bombardier CSeries. The jet “is remarkably different from what is currently seen on large-cabin corporate aircraft”. It has an “innovative, comfortable and well-designed cabin with state-of-the-art systems, features and materials”.
+
+The design, which took over 18 months to create, centres on a seven-zone modular cabin comprised of three fixed and four variable zones. The forward, mid and aft areas are fitted with common entry and galley, lavatory and closet, and master suite with a washroom featuring a steam shower, respectively.
+
+“The cabin is designed to allow each buyer to select different configurations for the multiple, flexible zones,” the team says. A lounge for example, can convert to a dining room with a “unique convertible table design, a cosy forward cabin to relax, a bespoke media lounge with a 75in-screen and tuned Dolby surround sound, along with an expansive private office or children’s bedroom”.
+
+The modular concept was developed to simplify cabin design, reduce completion build times and lower production and “non-recurring costs” over a number of aircraft. “Together, these design goals significantly reduce manufacturing and certification costs ‐ essential in achieving the right price-point in the market while providing a bespoke and highly capable aircraft”.
+
+This A220 interior concept also features VIP cabin lining and different lighting styles for each zone. Passengers can use a tablet to control lighting, entertainment and window shades, and to call flight attendants.
+
+The companies are offering the A220 with global Ku- or Ka- band voice and data satellite communications, audio and video on-demand entertainment, wireless streaming to monitors and personal devices, and an optional on-board cinema. It would also have a “well-equipped” galley (steam and induction ovens, espresso makers and wine chiller are options) and a master bedroom suite with a queen-size bed and washroom with lavatory and steam shower.
+
+While cabin floorspace and volume are equivalent to ACJ319neos and Boeing BBJ Max 7s, says the team, the A220 “service-ready purchase price” and operating costs are around 20% cheaper. The VIP-configured airliner is a “great alternative” to single-aisle airliners ”characterised by [their] high acquisition costs… and to ultra-long-range business jets with limited cabin space”, says the team.
+
+“The future of airliner-based corporate aircraft depends on the adoption of a cabin design philosophy that is affordable, reduces risk and exceeds customer expectations on customisation, usability, aesthetics and maintainability, “says Kestrel Aviation chief executive Stephen Vella. “Our cabin concept more than meets these criteria.”
+
+Airbus has not formally launched an ACJ220. The airframer, which completed the purchase of CSeries from Bombardier earlier this year, says it “focusing” on the commercial version of the airliner and on the ACJ320neo family. ”There are on-going studies but it is common in our industry that studies won’t necessarily lead to concrete projects,” it says.","{'label': 'Neutral', 'score': 0.9995017051696777}",neutral,0.9995017051696777,0
+Fear of Landing – Hard Landing Within Limits - Fear of Landing,"Fri, 05 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmVhcm9mbGFuZGluZy5jb20vYWNjaWRlbnRzL2FjY2lkZW50LXJlcG9ydHMvaGFyZC1sYW5kaW5nLXdpdGhpbi1saW1pdHMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"In this simple incident, we can see how a trivial failure and a simple-but-wrong assumption has knock-on effects that could have easily led to the structural failure of an aircraft.
+
+On the 1st of December 2017, a night charter flight departed Basel Mulhouse Airport in Switzerland at 20:55 local time for a flight to Pristina International Airport (PRN) in Kosovo. The aircraft was an A320-232 (registration SX-ORG) and there were six crew members and 178 passengers on the flight. The operator was a Greek charter airline with four A320s configured for economy passenger flights (180 seats).
+
+That night, the captain was the pilot flying and the first officer was pilot monitoring. Note: the Kosovo AAIIC (Aeronautical Accident and Incident Investigation Commission) also uses the terms pilot and copilot as well as CM1 and CM2 for these roles in the report. I will stick to the terms we are used to.
+
+The procedure at the airline was that landings at Pristina Airport were to be flown by the captain. The captain had over 10,000 flight hours with 688 on the Airbus A320. The first officer had 7,350 hours with 406 on the Airbus A320.
+
+During the flight, the left sliding window started fogging up, blocking the captain’s peripheral view. The heating in that window was not working, which had been noted through the Aircraft Technical Logbook. This was on the minimum equipment list (MEL) which lists items which are not required to be operating for the flight to proceed. The name is confusing. Effectively, instruments and equipment which are not essential to the safety of the flight can be listed on the MEL and the captain can thus take the decision to continue the flight without the listed equipment. The equipment in question should be repaired as soon as possible but the aircraft does not have to be grounded, for example, because a fire extinguisher in a lavatory has failed; it is sufficient to lock the lavatory door and stop it from being used.
+
+You can see in the image above that there were two MEL entries in the Aircraft Technical Logbook: NO PRINTER PAPER in the Data Management Unit (DMU) and LEFT SLIDING WINDOW HEATING. The pilots checked the logbook before the flight and were aware of both items.
+
+This is all standard. No one wants to cancel a flight because a printer is out of paper or a window heater isn’t working; that’s the point of the MEL.
+
+The flight was uneventful and the captain, as pilot flying, prepared for a full-flap landing on runway 35 at Pristina. He disengaged the autopilot at 2,000 feet above the ground and flew manually with the auto thrust engaged. The flight crew spotted the runway at three miles out and at 1,000 feet the pilot monitoring called out the stable approach parameters.
+
+It was snowing with temperatures above freezing; the runway was reported as wet and slushy. The flight crew agreed to conduct a positive landing, that is, a firm landing at a higher vertical speed, to avoid hydroplaning on the wet runway surface. This allows for the tyres to make good ground contract , as opposed to a softer landing (“greasing it”) can may lead to the aircraft skimming across the water. One symptom of a positive landing is that it can be a hard landing, because you are descending at the high end of normal as you touch down.
+
+Runway 35 at Pristina has a light right turn on final approach, where the aircraft is about 500 feet above the ground. Shortly after this point, as the Airbus reached three hundred feet above the ground, there were a number of side stick inputs on the captain’s side, where the pitch angle varied between -2.5° (nose down) and +4.5° (nose up). The speed also varied, between 138 and 141 knots. The vertical descent rate varied between 2,400ft/min and 600ft/min and the vertical load factor was between 0.9G and 1.1G. The pitch deflections continued until the flare at 20 feet above the runway, ranging from +2° to +6° (nose up), with the rate of descent varying between 880ft/min and 200ft/min. Then, the captain applied full back stick, increasing the pitch angle from +2° to +3.5°. The rate of descent decreased and the airspeed dropped to 135 knots.
+
+The aircraft touched down at a 3.5° pitch angle with a ground speed of 135 knots and the right wing slightly down (2.5°). Braking action was good.
+
+The flight crew discussed the landing between themselves. This is important because the flight crew is expected to note any/all high load events in the log book, which brings it to the attention of the maintenance personnel who can then carry out the appropriate maintenance tasks.
+
+The most common high load events are:
+
+vertical turbulence
+
+lateral turbulence
+
+hard overweight landing
+
+hard landing
+
+The flight crew agreed that the the landing was “not unusual” and that everything seemed normal. Both later reported that neither the Electronic Centralized Aircraft Monitor (ECAM) nor the Flight Management Guidance System (FMGS) showed any errors.
+
+In order to support the flight crew, the A320 has sensors which react to high load events. If such an event is recorded, a report is generated. The LOAD<15> report (“high load event printed report”) is configured by the operator to be produced either immediately after a high load event or delayed so that it does not print until until after landing.
+
+The pilot’s report is considered primary with the LOAD<15> report there to support the post-flight analysis. When the flight crew report a high load event such as a hard landing, the maintenance personnel analyse the LOAD<15> report to determine the necessary maintenance tasks.
+
+This report and accompanying data can be easily transferred from the aircraft to diagnostic ground support tools which are used to analyse the data and provide a list of maintenance tasks which are focused on the areas of the aircraft most likely affected.
+
+After the landing at Pristina, no LOAD<15> report was generated. This supported the captain’s view that the landing was not unusual. The captain spoke to the cabin crew and told them that although the landing was a little bit hard, it was within limits. He took no further action.
+
+The aircraft remained in service for flights between Basel Mulhouse and Pristina. Two days later, after the aircraft had flown a further eight legs, the first officer mentioned the incident with the airline’s Training Manager because he still felt a little bit dubious about that landing.
+
+As a result of his statement, the Data Management Unit was inspected and loaded with paper. It immediately printed out the LOAD<15> report which had been generated after the hard landing.
+
+This report showed that the vertical acceleration at the point of landing was 3.04 G. To put this into context, a 1G landing means that the impact on touchdown is equivalent to the weight of the aircraft. The higher the G value, the harder the landing.
+
+For the Airbus A320, a landing with a vertical G of over 1.5G, it is considered a low severity event. At 1.6G it is a medium severity event and at 1.75G it is a high severity event. The Airbus A320 vertical G hard landing threshold is 2.6G. Any landing over 2.6G is considered to be over the aircraft’s structural limits.
+
+At 3.04G, the landing is classified as severe or “red status”. In the case of a severe high load event, airline maintenance personnel are told to contact Airbus for assistance.
+
+The pilot’s report is the primary means for detecting a high load event; the LOAD<15> report is only to support the maintenance crew in their analysis of the event and what areas, specifically, require general or detailed inspection. Although the LOAD<15> report is automatically printed if specific parameters are exceeded which could point to a heavy landing, it is specifically watching for high vertical acceleration. A high load event could still take place without it being triggered. As a supporting document, if a pilot is not sure about a landing, he or she can request a print of LOAD<15> for further details.
+
+However, it seems that the flight crew used the lack of the report to convince themselves that the landing couldn’t have been so bad. Worse, the report wasn’t missing because the parameters hadn’t been exceeded. The LOAD<15> report had been triggered based on three separate parameters: the radio altimeter descent rate, the rate of descent at touch down and the high vertical acceleration.
+
+Although the pilots knew that the Data Management Unit was out of paper, it did not seem to sink in that there may be a LOAD<15> report waiting to be printed. As such, they didn’t do anything to see that the report was transferred to maintenance or even just let maintenance know that there was an incident. Aircraft Communication Addressing and Reporting System (ACARS) is a digital link system for the transmission of messages between aircraft and ground. The airline did not have an integrated system which would make the report transferred automatically; it was completely up to the flight crew to report.
+
+The first mention of the lack of paper in the Data Management Unit was on the 24th of November 2017, a week before the flight. The paper was added on the 5th of December, which led to the immediate printing of the “missing” LOAD<15> report.
+
+As soon as maintenance saw the LOAD<15> report, the aircraft was grounded.
+
+The shock absorber assembly on the right side main landing gear was considered unserviceable and had to be scrapped by “component mutilation”. The operator also changed all main wheels and the rear shock absorber.
+
+A proper conclusion for an incident report like this is difficult, as obviously a printer out of paper did not cause the hard landing. Kosovo AAIIC determined that contributing factors included the captain making multiple nose-up and nose-down inputs at low level before belatedly pulling back on the stick. They also list the snow and wet runway and, separately, the crew’s decision to come in with a high rate of descent for a “positive landing”. And finally, the fogged up left-side window which reduced the peripheral view of the captain.
+
+However, the hard landing and its causal factors aren’t actually the problem here and the report makes that clear. The fact that the aircraft continued to fly without any inspection was a serious risk which compromised the safety of those passengers on board for the next eight flights.
+
+The safety actions reflect the real issue; the report wastes no time discussing how to avoid hard landings. The AAIIC recommends that the operator either implements an ACARS system so that the reports are automatically transferred or ensures that there will be paper in the Data Management Unit. Either is acceptable, simply losing a report is not. Further, they recommend immediate safety training for all flight crew regarding reporting a hard or overweight landing. Any captain who feels the need to reassure the cabin crew that the landing may have seemed “a little bit hard” should really be proactive about getting the aircraft looked at.
+
+In researching this piece, I found a related accident report, this one by the British AAIB: Airbus A321-231, G-MARA 28 July 2008. In this case, the pilots reported the hard landing but the engineer did not quite understand the process in the Aircraft Maintenance Manual. I didn’t have the space to cover it this week but I think
+
+you may enjoy it as an interesting related case for reading over the weekend.","{'label': 'Neutral', 'score': 0.9979360103607178}",neutral,0.9979360103607178,0
+An Airbus A220 Private Jet Concept Is Pretty Darn Impressive - Avgeekery,"Sat, 27 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYXZnZWVrZXJ5LmNvbS9hbi1haXJidXMtYTIyMC1wcml2YXRlLWpldC1jb25jZXB0LWlzLXByZXR0eS1kYXJuLWltcHJlc3NpdmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Positive', 'score': 0.9999996423721313}",positive,0.9999996423721313,1
+Turkish Airlines In Talks To Delay Airbus A350 Deliveries - Simple Flying,"Tue, 02 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS90dXJraXNoLWFpcmxpbmVzLWFpcmJ1cy1hMzUwLTIv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Negative', 'score': 0.9999340772628784}",negative,0.9999340772628784,-1
+United Airlines New Airbus A321XLR Fleet - What We Know So Far - Simple Flying,"Tue, 16 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91bml0ZWQtbmV3LWFpcmJ1cy1hMzIxeGxyLWZsZWV0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999954700469971}",neutral,0.9999954700469971,0
+Air France To Operate One Final Airbus A380 Flight On Friday - Simple Flying,"Wed, 24 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXItZnJhbmNlLWxhc3QtYWlyYnVzLWEzODAtZmxpZ2h0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,,"{'label': 'Neutral', 'score': 0.9999874830245972}",neutral,0.9999874830245972,0
+Air France bids adieu to flagship A380 with farewell flight - Runway Girl Network,"Fri, 26 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjAvMDYvYWlyLWZyYW5jZS1iaWRzLWFkaWV1LXRvLWZsYWdzaGlwLWEzODAtd2l0aC1mYXJld2VsbC1mbGlnaHQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Air France today is making its final Airbus A380 flight, bidding farewell to a young fleet which only entered service for the carrier in 2009.
+
+The roundtrip flight of F-HPJH from Paris Charles de Gaulle Airport, exclusively reserved for Air France staffers who worked on the A380, comes at a precarious time for the superjumbo.
+
+While Emirates has said it will resume flying A380s on 15 July, the overall future of the type is generally bleak. The aviation industry should expect an “A380 bloodbath”, Teal Group vice president, analysis Richard Aboulafia recently warned, as the COVID-19 crisis accelerates retirements. Used serviceable material will be plentiful given the volume of early retirements, he noted.
+
+Air France configured its fleet of 10 A380s with nine seats in La Première first class, 80 seats in business class, 38 in premium economy, and 389 in economy class.
+
+As highlighted by Runway Girl Network in the past, the carrier made some passenger experience errors with its A380s, best exemplified in its uncomfortable angled lie-flat business class seats that were almost a decade old in style when they were installed in 2007.
+
+Air France never updated its A380s, though the carrier in 2017 admitted it was studying an 11-abreast configuration for the type, which most agree would have seen the passenger experience devolve in economy class. The airline opted against a refit, a decision that ultimately proved to be wise.
+
+Air France served 16 destinations with its A380s: New York JFK, Johannesburg, Los Angeles, San Francisco, Washington, Mexico City, Shanghai, Abidjan, Hong Kong, Miami, Tokyo, Montreal, Singapore, Atlanta, Dubai, and Abu Dhabi.
+
+JFK was the top destination, notes the carrier.
+
+The last commercial flight of an Air France A380 was on 23 March, flight AF995 between Johannesburg and Paris CDG. In all, Air France operated nearly 40 000 flights with its A380s, and carried almost 18 millions passengers.
+
+As today’s farewell flight took to the skies, passengers bid adieu to the venerable aircraft, and expressed positive sentiment about Emirates’ decision to ensure that the big bird flies again.
+
+All images credited to Air France
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9999371767044067}",neutral,0.9999371767044067,0
+Thrustmaster teams with Airbus on new hardware for Flight Simulator - TweakTown,"Thu, 18 Jun 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnR3ZWFrdG93bi5jb20vbmV3cy83MzMwMi90aHJ1c3RtYXN0ZXItdGVhbXMtd2l0aC1haXJidXMtb24tbmV3LWhhcmR3YXJlLWZvci1mbGlnaHQtc2ltdWxhdG9yL2luZGV4Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"If you're patiently waiting for Microsoft's new Flight Simulator to release, then Thrustmaster has your back to drain your wallet ahead of its release.
+
+Thrustmaster has just announced its new brand: Thrustmaster Civil Aviation (TCA) which has a slew of new hardware to ogle over. This includes a modular sidestick, dual thrust lever throttle with add-on modules, an Officer bundle, and a new metal desk clamp.
+
+The company teamed with Airbus on the new Thrustmaster Civil Aviation range of products, where it is about as close as we've ever been to the look and feel of the Airbus A320 sidestick. The TCA Sidestick Airbus Edition mimics the look and feel of the Airbus A320's real sidestick.
+
+3
+
+VIEW GALLERY - 3 IMAGES
+
+TCA Sidestick Airbus Edition: $69.99 (June 25)
+
+TCA Quadrant Airbus Edition: $99.99 (September)
+
+TCA Officer Pack Airbus Edition: $159.99 (September)
+
+TM Flying Clamp: $69.99 (September)
+
+All of the new Thrustmaster hardware is available for pre-order right now, and you can do that here.
+
+More reading on Microsoft Flight Simulator
+
+3
+
+What you need to run it: You will need at least 150GB of storage space to install Flight Simulator, with a 5Mbps internet connection as a bare minimum to take off. The ""ideal spec"" advised by Microsoft requires a 50Mbps internet connection and a much higher-end CPU and GPU to run it. Check the PC requirements for Flight Simulator here.
+
+Adaptive Streaming: This is some of the cloud-based magic Microsoft is using on Flight Simulator, which teh company is doing special with the game. You can read more about that here.
+
+Flight Simulator uses Bing Maps: Microsoft is tapping its in-house Bing Maps to provide Flight Simulator with real-world locations that don't just look out-of-this-world, but they are our world. More on that here.
+
+Real-time weather, including lightning cracking inside of clouds: Yeah, I'm not kidding around -- Microsoft is injecting a gigantic 600km draw distance into Flight Simulator, so under the right weather conditions -- and granted you have the PC hardware to handle it, you're going to see storms hundreds of miles away. Not just that, but there will be lightning cracking inside of the clouds... yeah, I know.
+
+Feature Discovery Series on Microsoft Flight Simulator
+
+Microsoft has an awesome 'Feature Discovery Series' that goes into detail about Flight Simulator, from aerodynamics and the soundscape of the game, right through to the cockpits and the multiplayer. Check them out below:","{'label': 'Neutral', 'score': 0.9999935626983643}",neutral,0.9999935626983643,0

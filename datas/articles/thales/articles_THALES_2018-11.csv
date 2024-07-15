@@ -1,0 +1,808 @@
+Titre,Date de publication,URL,Contenu
+"Different IFE focuses pursued by rivals Panasonic, Thales, Zodiac - Runway Girl Network","Fri, 30 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMTgvMTEvZGlmZmVyZW50LWlmZS1mb2N1c2VzLXB1cnN1ZWQtYnktcml2YWxzLXBhbmFzb25pYy10aGFsZXMtem9kaWFjL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The three major players in embedded inflight entertainment are taking notably different tacks to appeal to airlines and their passengers.
+
+During the APEX EXPO this fall, Panasonic Avionics as the market leader concentrated on explaining the backbone of its forthcoming NEXT IFE and connectivity platform, its cloud services plans and its wellness agenda. Thales, long seen as the challenger in the embedded space, focused on showing the flexibility of its system around both user interface and backend management. And the increasingly successful Zodiac Inflight Innovations (Zii) said it will concentrate on delivering its orders and keeping existing customers happy.
+
+Let’s start with Zii, whose core RAVE system has been growing in popularity among airlines and flyers. The company brought its new RAVE Ultra system out from behind the scenes at the APEX EXPO, after having demonstrated it to Runway Girl Network at the Aircraft Interiors Expo in Hamburg in the springtime.
+
+Much as the last form factor of a mobile phone suddenly feels clunky and sluggish after using the latest model, the tablet-like RAVE Ultra user interface creates a new benchmark for Zii. But, much like updating to the latest version of a phone operating system, Zii was also clear that most existing RAVE systems can also be updated to take advantage of new developments, with a renewed focus on backwards compatibility.
+
+Zii’s attention now is on delivery, not least because the company has won a large portion of the Airbus A350 backlog this year. And as first reported by RGN, RAVE Ultra will roll out on Recaro 3710 longhaul economy class seats for a linefit 777X customer. Significantly, given Zii’s prior challenges in gaining linefit offerability on the 787, RAVE Ultra will also be made available to 787 linefit customers at the same time as the 777X.
+
+With parent company Zodiac Aerospace’s other cabin products not covering the corporation in glory around producing on time and to spec, it will be up to the IFE subsidiary to demonstrate that it can deliver on its promises.
+
+Thales InFlyt Experience, meanwhile, is focused on helping airlines make frequently customizable changes to what passengers see on the screens of its three-pillar inflight entertainment product portfolio.
+
+Priti Arora, Thales’ solution product line manager, told RGN: “We have a new product called Select, which is primarily configuration based, especially for airlines that want to be faster to market. It’s available within a month for the airline. It can be changed on a daily basis, weekly basis or monthly. It can be loaded wirelessly via content. There’s no software update required.”
+
+The system was impressive in its demonstration mode, largely around flexibility and the range of options to display that seemed remarkably easy to update. Arora demonstrated a news application that can be dropped in via an SDK, for example, as well as opportunities to target (and even micro-target) screen options, promote partners in particular circumstances, and bring screens up to date simply and easily.
+
+Even video thumbnails are an option, and these were eye-catching in the demonstration, although something that airlines will hopefully use with discretion.
+
+But the key is that not only does a rotating, active UI modernize the way people interact with the system – as well as the general look-and-feel – it also drives ancillary revenue. And it can be especially useful for returning customers. Think about how many different ways YouTube, Amazon and Netflix display what-to-watch or what-to-buy information, for example.
+
+Over at Panasonic Avionics, the focus was threefold: partly explaining the backbone of the NEXT system that will replace the eX family of inflight entertainment and connectivity products, partly on its partnerships (including its new partnership to sell Inmarsat GX Ka-band connectivity), and finally around innovation, including wellness.
+
+Panasonic’s NEXT Cloud offers much promise, although your writer found himself in want of deeper detail. Speaking to RGN, chief technology officer David Bartlett elaborated: “While we are focused on continuing to create world-class IFE systems and new digital services, we’re trying to create a common platform to collect the data that can drive deeper insights and constantly analyze what we’re seeing. To do that, you need a cloud infrastructure and a data repository, which we’re calling a data lake.”
+
+This will, it seems, run on Amazon S3, and Panasonic is also planning to tap the company for AI and machine learning expertise, which will also assist in Panasonic’s push to be one of the Integrators of Things.
+
+Yet, the on-aircraft environment is important too.
+
+“What we clearly need to do is not only have analytics that are done off the plane, but analytics that are done on the plane for real-time performance optimization, for preventative work, for understanding the passenger’s journey,” Bartlett said.
+
+“The cloud is going through this whole movement now where the cloud is a very centralized focus. We’re implementing it in an edge construct, where there’s a portion of the cloud that runs on the plane, called the edge, and the cloud is on the ground. We can do analytics without the latency of having to go back.”
+
+Overall, though, Panasonic was relatively quiet in news terms at the show, perhaps because of recent high-level personnel changes, the concomitant need to introduce them to the industry, and for them to review the company’s strategy. All eyes will be on the Aircraft Interiors Expo in April for the next set of big reveals.
+
+Related Articles:"
+Cygnus en route for ISS! - Thales,"Sat, 17 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9jeWdudXMtcm91dGUtaXNz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The latest Cygnus cargo vessel has been successfully launched from NASA’s Flight Facility on Wallops Island, Virginia, using an Antares rocket. This was the 10th Cygnus operational mission, ferrying supplies to the astronauts on the International Space Station.
+
+The Cygnus spacecraft comprises two main parts: the service module from Northrop Grumman, and the enhanced pressurized cargo module (PCM) developed and built by Thales Alenia Space. The PCM has a total volume of 27 cubic meters and will deliver 3,350 kg of cargo.
+
+This Cygnus was named in honor of American astronaut John Young, who died earlier this year. He was one of only 12 men who have walked on the surface of the Moon. [Read the Press Release]
+
+Cygnus: ferrying supplies to astronauts since 2013
+
+The Cygnus resupply vessel is of vital importance to the astronauts on the International Space Station, since it carries all kinds of goods, including food, water, clothes, spare parts and scientific experiments.
+
+The pressurized cargo module (PCM) was built by Thales Alenia Space in Turin for prime contractor Northrop Grumman. Thales Alenia Space designed this module by calling on its experience with previous productions, such as the Multipurpose Logistics Modules (MPLM), built for NASA under contract to the Italian space agency ASI. In fact, several MPLMs were carried aloft by the U.S. Space Shuttle, which is no longer in service.
+
+Cygnus, a mobile lab
+
+When you see the experiments performed by astronauts in these cramped labs on social media, you may easily forget that they were brought to the ISS by Cygnus, or other resupply vessels.
+
+Once again, the crew will be doing fascinating science. For example, a study on the complex process of cement solidification, and how lower gravity on the Moon or Mars could possibly affect the curing process. There’s also a research project to support the development of a mathematical model that will help us understand how an astronaut’s perception of motion, body position and distance to objects changes in space.
+
+Another focus is 3D printing (additive manufacturing) in orbit. The cargo module is carrying an experiment that will enable astronauts to test the first integrated 3D printer, as well as a recycler to convert waste plastic into high-quality 3D printer filament to create tools and materials for long-duration space missions beyond Earth orbit.
+
+Based on the flight rate, Cygnus spacecraft will continue to carry exciting new experiments for the unique “Zero G” environment of space. These experiments couldn’t be carried out in environments with normal gravity.
+
+Half of the ISS’s pressurized volume built by Thales Alenia Space
+
+The ISS holds a special place in the hearts of Thales Alenia Space engineers based in Turin, Italy. Thales Alenia Space has in fact supplied fully half of the pressurized volume on the ISS, including Nodes 2 and 3, the Multipurpose Module, Multipurpose Logistics Modules (MPLM), Cupola, Columbus lab structure or the structure for the Bishop commercial airlock from NanoRacks.
+
+Thales Alenia Space also built pressurized cargo modules (PCM) for the ATV resupply vessels, on behalf of Airbus Defence and Space. Looking beyond the ISS, Thales Alenia Space is gearing up for lunar missions, in particular with the LOP-G (Lunar Orbital Platform Gateway), and is carrying out design studies for NASA (as part of NextSTEP 2) and ESA.
+
+Following the success of the IXV atmospheric reentry demonstrator, Thales Alenia Space is developing Space Rider, Europe’s new-generation, low-orbit, reusable space transport system.
+
+Copyrights:
+
+Cygnus: © Northrop Grumman
+
+Cupola: © NASA/ESA
+
+ISS artistic view: © Thales Alenia Space/Master Image Programmes
+
+NextSTP-2: © NASA
+
+Space Rider: © ESA
+
+About Northrop Grumman
+
+Northrop Grumman is a leading global security company providing innovative systems, products and solutions in autonomous systems, cyber, C4ISR, space, strike, and logistics and modernization to customers worldwide. Please visit news.northropgrumman.com and follow us on Twitter, @NGCNews, for more information.
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of 2.6 billion euros in 2017 and has 7,980 employees in nine countries. www.thalesaleniaspace.com"
+Thales Alenia Space Hands Over Bandabandhu-1 Control to Bangladesh - Via Satellite,"Fri, 09 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5zYXRlbGxpdGV0b2RheS5jb20vZ292ZXJubWVudC1taWxpdGFyeS8yMDE4LzExLzA5L3RoYWxlcy1hbGVuaWEtc3BhY2UtaGFuZHMtb3Zlci1iYW5kYWJhbmRodS0xLWNvbnRyb2wtdG8tYmFuZ2xhZGVzaC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space handed over transmission and operation management of Bangabandhu-1 to Bangladesh, and the country will start the commercial activities of the satellite. Bangabandhu-1 is Bangladesh’s first Geostationary Orbit (GEO) communications satellite.
+
+A delegation of Thales Alenia Space handed over relevant documents to acting chairman of Bangladesh Telecommunication Regulatory Commission (BTRC) Jahurul Haque. Two ground stations —one in Betbunia in Rangamati and the other at Joydevpur in Gazipur — have been set up to control the satellite.
+
+Thales Alenia Space designed and built the satellite launched into the orbit on May 11. The satellite was launched using the latest version of SpaceX‘s upgraded Falcon 9 Block 5 rocket, from the Kennedy Space Center in Cape Canaveral."
+Navy contracts Thales for airborne dipping sonar repairs - UPI News,"Fri, 23 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVwaS5jb20vRGVmZW5zZS1OZXdzLzIwMTgvMTEvMjMvTmF2eS1jb250cmFjdHMtVGhhbGVzLWZvci1haXJib3JuZS1kaXBwaW5nLXNvbmFyLXJlcGFpcnMvNjg2MTU0Mjk4NDY2MC_SAXdodHRwczovL3d3dy51cGkuY29tL2FtcC9EZWZlbnNlLU5ld3MvMjAxOC8xMS8yMy9OYXZ5LWNvbnRyYWN0cy1UaGFsZXMtZm9yLWFpcmJvcm5lLWRpcHBpbmctc29uYXItcmVwYWlycy82ODYxNTQyOTg0NjYwLw?oc=5&hl=en-US&gl=US&ceid=US:en,"A MH-60R Seahawk helicopter deploys a AN/AQS-22 dipping sonar off a Nimitz-class aircraft carrier. Photo courtesy Raytheon
+
+Nov. 23 (UPI) -- Thales Defense and Security was awarded a not-to-exceed $13.99 million delivery order under a previous contract for repair work on AN/AQS-22 Airborne Low Frequency Sonar systems. Work will be split between locations in Clarksburg, Md., and Brest, France, and is expected to run through November 2020. The Navy will obligate $10.5 million in working capital funds with the award. Advertisement
+
+The AN/AQS-22 Airborne Low Frequency Sonar is the primary dipping sonar used by the H-60 series of naval helicopters for anti-submarine operations. It is designed to be fully integrated with the MH-60R Seahawk ASW helicopter and the MK 54 anti-submarine torpedo.
+
+Raytheon says the ALFS is the only multi-frequency dipping sonar in operation today, allowing the sonar to cover a larger area in order to detect, track and engage enemy submarines. The ALFS uses both passive sonar to detect and analyze underwater background and environmental conditions and a active sonar for target detection and acquisition.
+
+The MH-60R Seahawk is a naval derivative of the UH-60 Blackhawk medium-lift transport helicopter used by the Army and allied nations, operating from flight decks on aircraft carriers, surface combatants and logistics ships. It is designed primarily for anti-submarine and surface warfare operations.
+
+Advertisement
+
+The MK 54 lightweight torpedo can be deployed from surface ships, helicopter and fixed-wing aircraft like the P-8 Poseidon to engage underwater targets. It uses algorithms to analyze and ignore false targets or countermeasures and help stay locked on its primary target. The MK 54 is a derivative of the older ML 50 and MK 48 ADCAP torpedoes while using the 100-pound warhead from the MK 46."
+in Profile: Philippe Carette - APEX - APEX Media,"Mon, 12 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYXBleC5hZXJvL2FydGljbGVzL2FwZXgtcHJvZmlsZS1waGlsaXBwZS1jYXJldHRlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"What excites you most about your new role? Thales InFlyt Experience operates in a highly competitive industry where the cabin environment is constantly evolving. We have the ability to leverage all of Thales’ capabilities and create innovative technological advancements that provide the best user experience, grow loyalty and bring value to the airline. We’re continually transforming our business to not only adapt to these conditions, but to anticipate the future for our airline customers and their customers. It’s inspiring to know that I’m a part of creating the in-flight travel experience of the future.
+
+What’s something that never ceases to amaze you about the industry?
+
+I’m always amazed at how rapidly our industry changes. For example, in the last five years, the number of connected commercial aircraft rose from 3,300 in 2013 to 7,400 in 2017, according to Euroconsult. By 2027, it estimates that the total number will be more than 23,000 aircraft.
+
+This exponential growth requires trusted providers to bring new and innovative business models to the industry and to become close partners with airlines, developing solutions that support their brand and the expectations of their customers. Passengers expect an in-flight connectivity experience similar to that available in their homes or offices – with streaming, social media, shopping and the ability to connect via messaging and apps. Thales brings all of these to the market and will continue to enable airlines to provide a truly engaging and personalized experience in the air."
+Thales scores a pair of China Southern wins at Zhuhai Air Show - PaxEx.Aero,"Fri, 09 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vcGF4ZXguYWVyby90aGFsZXMtY2hpbmEtc291dGhlcm4td2lucy16aHVoYWktYWlyLXNob3cv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"This year’s Zhuhai Air Show in China delivered little significant commercial aircraft news. Standing out in the event the partnership between Thales and China Southern offered up a pair of new deals. The two companies have a strong relationship dating back nearly 20 years and this week’s moves further those ties.
+
+New IFE on new planes
+
+China Southern selected Thales’s AVANT IFE kit for its newest 777 deliveries, expected starting in 2019. Passengers will enjoy world class inflight entertainment with a wide selection of applications including interactive 3D maps, games and flight connection information shown on high definition displays. The IFE relationship dates back to 2012 when China Southern first selected the Thales kit for its 777 fleet. China Southern was the launch customer for AVANT and extends that partnership today.
+
+China Southern and Thales have shared a long-term relationship over the years. As the launch customers of AVANT, the airline was the first in the market to benefit from the technological advancement of the android based IFE. China Southern has trusted Thales as the inflight entertainment partner across their new B777 fleet. This award further demonstrates Thales commitment to support the airlines ambitions of providing their passengers the best inflight experience. – Philippe Carette, CEO, Thales InFlyt Experience
+
+China Southern currently holds orders for eight new 777s with deliveries expected in 2019-2020.
+
+Single Aisle Avionics
+
+In the less sexy but more important category, China Southern will take Thales avionics packages on its upcoming A320neo and 737 MAX deliveries.
+
+The airline has selected a package of avionics components on its newest 37 A320NEO, to include Thales FMS, the most advanced Flight Management System on the market. The fleet will also be equipped with the Thales Head Up Display (HUD) system. On Boeing 737MAX fleet, the airline remains loyal to Thales Terrain Collision Avoidance System, first selected by China Southern in 2001. It will equip its newest 38 B737MAX plus 5 B737NG, supporting pilots in their critical decisions thanks to reliable surveillance information. The Thales TopFlight Satcom system, based on Inmarsat‘s L-band I4 constellation and low-range radio altimeters (LRRA) will complement the avionics equipment of this new fleet.
+
+This new selection showcases the strength of our relationships with China Southern, one of the most important Thales’ strategic partners in the world. Not only do we have a long history of collaboration with China Southern, we also were selected because of the performance and competitiveness of our products which are underpinned by the support service excellence we provide to increase airlines efficiency. – Eric Huber, Vice President for Avionics Services Worldwide, Thales for Global
+
+Financial terms on the deals were not disclosed.
+
+A favor to ask while you're here... Did you enjoy the content? Or learn something useful? Or generally just think this is the type of story you'd like to see more of? Consider supporting the site through a donation (any amount helps). It helps keep me independent and avoiding the credit card schlock."
+"Man accused of killing ex-girlfriend, man in Miami Lakes - WPLG Local 10","Sat, 10 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmxvY2FsMTAuY29tL25ld3MvMjAxOC8xMS8xMC9tYW4tYWNjdXNlZC1vZi1raWxsaW5nLWV4LWdpcmxmcmllbmQtbWFuLWluLW1pYW1pLWxha2VzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"MIAMI LAKES, Fla. – A South Florida man has been arrested in connection with the killing of his ex-girlfriend and another man, whose bodies were found Thursday morning inside an apartment in Miami Lakes, authorities said.
+
+Thales Ferreira, 27, faces two counts of first-degree murder.
+
+According to an arrest report, Miami-Dade police were called to the Main Street Shops apartments on New Barn Road and Main Street shortly before 8:30 a.m. regarding a man who was found dead near the front door of his apartment.
+
+He was identified Friday as 26-year-old Michael Tarulli.
+
+According to an arrest report, officers went further into the apartment and discovered the body of Jenny Koonoolai-Jagdeo, 32, of Deerfield Beach.
+
+Both victims had been shot multiple times, authorities said.
+
+According to the arrest report, a neighbor had left his home around 7:30 a.m. Thursday and saw a man seated on the steps, just outside Tarulli's apartment.
+
+The neighbor told police he heard about 10 gunshots in the area about 10 minutes later but didn't call 911.
+
+Around 8:05 a.m., the man left his home again and saw that the victim's front door was open.
+
+He looked inside and found Tarulli lying unresponsive on the floor.
+
+Police said the neighbor then called 911.
+
+Both victims were pronounced dead at the scene.
+
+According to police, authorities were called to the same apartment around 11:30 p.m. Wednesday regarding a suspicious person banging on the front door.
+
+Police said Koonoolai-Jagdeo told officers that her ex-boyfriend, Ferreira, had been stalking her and provided them with his information, which was documented in an incident report.
+
+According to the arrest report, surveillance video shows a small black SUV arriving in the area shortly before the shooting on Thursday.
+
+The gunman is then seen walking toward the victim's apartment and then back to the SUV shortly after 7:30 a.m.
+
+Police said a witness later contacted the Broward Sheriff's Office and told detectives that his gun had been stolen and used in a homicide.
+
+According to the witness, Ferreira went to his home Wednesday night and stole his .40-caliber Smith & Wesson, which the witness had stored in his bedroom.
+
+He said Ferreira returned to his home around 9:30 a.m. Thursday and told him that he had taken his gun and ""did something bad.""
+
+The witness said he asked Ferreira if he killed someone and Ferreira said, ""Yes.""
+
+Police said Ferreira was arrested Thursday night while trying to board a flight to Brazil from Miami International Airport.
+
+Authorities said he invoked his right not to speak with detectives.
+
+
+
+"
+Thales to Showcase Naval Expertise with Digital Focus at MAST Indo-Asia 2018 - Asian Military Review,"Fri, 30 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMTgvMTEvdGhhbGVzLXRvLXNob3djYXNlLW5hdmFsLWV4cGVydGlzZS13aXRoLWRpZ2l0YWwtZm9jdXMtYXQtbWFzdC1pbmRvLWFzaWEtMjAxOC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales is all set to participate in the upcoming edition of Maritime/Air Systems & Technologies (MAST) Indo-Asia 2018, global conference and exhibition on maritime security technologies taking place in Greater Noida, Uttar Pradesh from 28-30 November 2018.
+
+At its stand, Thales will provide visitors with a digital experience of its naval technologies and products that are crucial for safeguarding maritime space. With a focus on the Indian Navy’s modernisation needs, the company will showcase its latest capabilities in anti-submarine warfare, mine warfare, radars, optronics, communication and electronic warfare equipment on board ships, submarines and fighter jets.
+
+To support the future of naval operations, Thales would also bring its Digital Innovation for the first time in India at MAST.
+
+Sharing of know-how and expertise is at the heart of Thales. This will be evident at the Conference hosted during the event where Thales experts from world over will make technical presentations on specialised subjects such as ‘naval collective training’, ‘application of advanced processing and data manipulation techniques on submarine visual sensors’, ‘seamless management for maritime radar onboard helicopters’, ‘transition towards Unmanned Mine Warfare’, ‘submarine sonar for high performance in challenging environments’, among others.
+
+“As a reliable partner to the Indian Navy, Thales has been actively supporting its modernisation and indigenisation efforts. At MAST Indo-Asia 2018, happening for the first time in India, we would bring forth our technical expertise and innovations designed to help the navy better prepare for tomorrow,” Emmanuel de Roquefeuil, VP and Country Director, Thales in India said."
+Thales expertise for the Spanish Army's Experimental Brigade - Thales,"Wed, 14 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtZGVmZW5jZS9yYWRpb2NvbS9uZXdzL3RoYWxlcy1leHBlcnRpc2Utc3BhbmlzaC1hcm15cy1leHBlcmltZW50YWwtYnJpZ2FkZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A delegation of senior Spanish Army officials led by Army Chief of Staff Gen. Francisco J. Varela Salas visited the Thales headquarters in Getafe, near Madrid, on 22 October to find out more about the company's defence, aerospace and security activities.
+
+Welcoming the delegation* to the Getafe high-tech test and experimentation centre, Thales Country Director Jesús Sánchez Bargos explained how the company's expertise can support the goals of Experimental Brigade 2035 — an Army brigade designated to test the new concepts that could play a key role in military manoeuvres in 2035. He also spoke more broadly about the Spanish Army's digital transformation and the operational potential of technologies such as artificial intelligence, IoT, Big Data and cybersecurity.
+
+The visit included a series of demonstrations of Thales's new software-defined radio, SYNAPS, which is an evolution of the PR4G radio currently being adapted to accommodate the Supermux waveform and also incorporates the new European coalition waveform ESSOR.
+
+Thales also had an opportunity to present its command-and-control systems expertise, with a focus on the BMS and Simacet systems, Horus X, which controls multiple sensors from a single centre to provide a smart surveillance capability, and the Eclipse signals jammer.
+
+The company's technological leadership is bringing all these capabilities together today to make collaborative combat a reality tomorrow.
+
+After the demonstrations, the delegation toured the Getafe production and maintenance centre for a chance to see some of the defence and aeronautical products and solutions being developed for the Spanish armed forces.
+
+Thales in Getafe
+
+Thales's Getafe site near Madrid employs more than 130 people, mainly engineers and technical specialists. Located in the La Carpetania industrial complex, the 3,700 sq.m. facility specialises in command-and-control systems, military radiocommunication systems, smart surveillance systems (UAS, radars, optronic sensors, etc.), navigational aids and avionics. The site also houses a large-scale production and maintenance centre and dedicated testing and experimentation facilities for civil and military command-and-control systems. In addition, Getafe is the global competence centre for all Thales countries of operation working on smart surveillance projects.
+
+The production and maintenance centre is fully kitted out for high-tech assembly, repairs and testing of equipment modules and end products. Its calibration lab is equipped to certify the calibration of practically all the instruments used by the company.
+
+Last but not least, its Smart Lab experimentation centre has the capacity to interconnect all types of C8ISR* and telecommunications systems, enabling the armed forces to experiment with new concepts and systems in the most realistic conditions possible.
+
+*The delegation included Gen. Francisco J. Varela Salas, Chief of Staff of the Spanish Army; Lt. Gen. Ramón Pardo de Santayana y Gómez-Olea, Chief of the Army's Logistical Support Command; Gen. José Ramón Pérez Pérez, Deputy Director of Weapon Systems; Gen. Juan Francisco Arrazola Martínez, Head of the Cabinet of the Chief of Staff; Col. José Manuel Núñez Rastrollo from the Sensors, Electronic Warfare, CIS Systems and Simulators Section; and Lt. Col Ismael Fernández de la Carrera from the Cabinet of the Chief of Staff.
+
+*Command, Control, Communications, Computers, Cloud, Cyber, Collaborative Combat and Intelligence."
+Thales Alenia Space Practicing Prudent Optimism for GEO - Via Satellite,"Thu, 29 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9sYXVuY2gvMjAxOC8xMS8yOS90aGFsZXMtYWxlbmlhLXNwYWNlLXByYWN0aWNpbmctcHJ1ZGVudC1vcHRpbWlzbS1mb3ItZ2VvL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"According to the star-gazing horoscope aficionados, Leo is action-oriented, loves to be in the limelight and has a distinct strength, able to earn “king of the jungle” status. Applied to Low Earth Orbit (LEO) satellites, there are some similarities. There certainly is a lot of activity in LEO, and with it being such a buzz word, it’s hard to not hear people within the industry talking about LEO. But is it destined to be the king of the stars? It seems we’ll soon be finding out but for now, it certainly has some of the industry’s big hitters getting involved.
+
+One example is Thales Alenia Space and SSL, owned by Maxar Technologies, which joined forces to form a consortium that snagged a contract from Canadian satellite operator Telesat for a system design and risk management phase for the planned LEO communications satellite constellation. Getting involved with LEO shouldn’t be too surprising, said Thales Alenia’s Executive Vice President (EVP) Martin Van Schaik. But this is not because of waning Geostationary Earth Orbit (GEO) orders.
+
+“It’s because Thales Alenia Space has always said that there was a place in the market for constellations alongside GEO satellites, because the two are highly complementary,” said Van Schaik, adding that others have also gone in a similar dual-orbit way.
+
+“This is especially the case with SES, for example, which is continuing to invest in GEO satellites while also operating the complementary O3b system, built by Thales Alenia Space.”
+
+In addition to O3b’s Medium Earth Orbit (MEO) satellite system, the company also developed Iridium Next, a LEO constellation, which is soon to be fully deployed with a final launch scheduled for the end of this year. At the same time, Thales Alenia Space has conducted a feasibility study for LeoSat and is the industrial partner for this constellation. The company is using the expertise gained from these “conventional but complex and high-performance” constellations in order to support the Telesat project, explained Van Schaik.
+
+“But we are also well positioned to address demand for lower cost constellations and for all types of applications including the Internet of Things (IOT), Earth observation with high revisit rates, and space situational awareness. Our new line of space components has been conceived for both GEO systems and LEO constellations. We offer unrivaled expertise ourselves, but we’re also used to working in industrial partnerships to come up with the best solutions for our customers,” he said.
+
+GEO Orders and a Changing Market
+
+While Thales Alenia Space has long seen LEO as complementary, there is a dearth of GEO satellite orders. So far this year, only seven GEO satellites have been booked. The company estimates that 2018 will end with around 10 contracts, and that operators will continue to be cautious while the market slowly increases. As the situation gradually improves — yet returning nowhere near to the record levels of 30 to 35 satellites per year — the change in customer requirements will become even more apparent. A more realistic forecast in GEO satellite manufacturing demand is between 15 and 20 satellites a year, noted Van Schaik.
+
+“Operators needs change, and major players such as SES and Eutelsat have been buying large satellites, as we have seen with SES 17 and Konnect Very High Throughput Satellite (VHTS), because they offer the advantage of low cost per gigabit. However, large satellites also have drawbacks such as longer lead time and higher investment. Today, we feel that requirements also tend towards intermediate solutions, with smaller, lower capacity satellites — 100 or 200 Gbit — that are totally flexible, digital, and programmable before and after the launch. These standardized software-defined satellites will allow us to cover applications from TV to connectivity services, and can evolve from broadcast to High Throughput Satellites (HTS),” explained Van Schaik.
+
+Some of the changes that customers want include more flexibility, in-flight reconfiguration, complementary solutions, innovation, and end-to-end system performance.
+
+“Since it’s very difficult to specify technically, the customers are changing the way they work, following a most systematically applied co-engineering phase. This leads to a gradual disappearance of conventional requests for proposals with a formal detailed specifications process,” noted Van Schaik.
+
+The market continues to change and demand is diverse with calls for large VHTS constellations, and specific regional requirements, as is in the case with Stratobus, the stratospheric airship that combines the best of being a drone and a satellite. The company also sees new applications which will generate new opportunities such as in in-orbit services, space surveillance, connectivity, geolocation, and IOT.
+
+“The market is increasingly competitive, but not only in terms of prices. It’s important for us to be able to offer tomorrow’s technologies today, and customers have transitioned from demanding ‘flight-proven’ to accepting technologies that have yet to fly. The industry has to master perfectly its operations, maintain a high level of Research and Development (R&D) and innovation, upgrade processes and procedures, automate, and digitize.”
+
+Getting all this right, companies will secure their survival in this competitive and ever-evolving landscape."
+A Showcase of Collaboration Between Business and Academia - Thales,"Thu, 29 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3Nob3djYXNlLWNvbGxhYm9yYXRpb24tYmV0d2Vlbi1idXNpbmVzcy1hbmQtYWNhZGVtaWHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"A Showcase of Collaboration Between Business and Academia Share this article
+
+
+
+LinkedIn
+
+Thales and its university partners have given a rare glimpse into the future of technology with its first academic showcase at Reading, displaying new concepts in space propulsion, cyber security, autonomous vehicles, applications of machine learning techniques and advanced materials for new generations of submarine sonar systems.
+
+As a global technology giant, Thales Group invests in long term academic research partnerships with universities across the world to ensure its expertise and customer-focussed technologies remain cutting edge.
+
+Partners from 22 leading UK universities attended, along with the 43 PhD doctoral students Thales is currently sponsoring. The event was the first time Thales has celebrated its academic partnerships since Prime Minister Theresa May opened its state-of-the-art headquarters and innovation centre at Green Park earlier this year.
+
+Thales UK is involved with a total of more than £160M of Engineering and Physical Sciences Research Council-funded research and doctoral training. The Council is the main funding body for engineering and physical sciences research in the UK and provides the vital underpinning funding for industry sponsored research in universities such as was on display at the event.
+
+Green Park promotes Thales’s emphasis on fostering innovation, being one of the company’s five global centres specifically designed to focus on research and technology –spending around £70m annually in the UK in this area.
+
+Thales UK’s Chief Scientist Matt Ball said: “We partner with a wide range of academic institutions, research institutes and catapults on many different areas of research that are crucial to the future growth and profitability of our business.”
+
+“We held this event to bring together our sponsored PhD scientists and engineers to celebrate the fantastic range of deep research topics that we are engaged in – covering topics as diverse as Advanced Materials, Cyber Security and Satellite Propulsion.”
+
+“The day provided a great opportunity for the students and supervisors to get to know Thales better and network with our technical community and for Thales to gain a wider insight into the portfolio of over 40 PhD projects we are sponsoring.
+
+“We brought everyone together at our new Research, Technology and Innovation Centre as part of a refreshed approach to engaging with our PhD cohort - these projects are essential for us to maintain access to a crucial network of not only highly talented researchers but the full academic capability that supports their research.
+
+“It is access to this world class talent that enables us to maintain a leading position in our future product and service offering to our customers.”
+
+The universities included Birmingham, Bristol, Cambridge, Cranfield, Edinburgh, Exeter, Glasgow, Imperial College, Leeds, London School of Economics, Manchester, Newcastle, Nottingham, Queen’s University Belfast, Reading, Sheffield, Southampton, Strathclyde, Surrey, Ulster, Uni of South Wales and Warwick."
+One Giant Thrust for Space Propulsion - Thales,"Thu, 01 Nov 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL29uZS1naWFudC10aHJ1c3Qtc3BhY2UtcHJvcHVsc2lvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Belfast has become a key manufacturing hub for UK space technology after the announcement that a radically new, all-electric propulsion system for Europe’s latest communications satellite is being built in the city.
+
+Thales UK announced that manufacturing of the Xenon Propulsion System (XPS), at its new £6 million space propulsion centre has achieved a major production milestone with the completion of the first engine module ready for delivery.
+
+The engine modules produced in Belfast will propel the Spacebus Neo satellite, built by Thales Alenia Space in France. The Spacebus Neo platform has been developed under the European Space Agency’s Neosat satellite programme. This protoflight Spacebus NEO platform will be launched in 2019 as the Konnect communications satellite, operated by Eutelsat to deliver high speed internet to sparsely populated and isolated regions.
+
+Victor Chavez, CEO of Thales UK, said: “Thales is proud to be at the forefront of next generation space technology. Our investment in Belfast to support the growth of Thales Alenia Space in the UK is a testament to our commitment to the UK space sector. The support of the UK government and Invest Northern Ireland alongside the unique skill sets of our people were instrumental in our decision to manufacture this technology in Northern Ireland.”
+
+Thales has a long relationship with Northern Ireland, attracted by the region’s engineering reputation. Iconic aircraft manufacturers Short Brothers became Thales Air Defence in 2001 and Belfast beat international competition to build XPS because of the availability of existing high precision engineering skills from the defence market.
+
+The space propulsion centre, joint funded by the regional development agency, Invest Northern Ireland, represent a major investment in the area and was opened by astronaut Tim Peake in 2016.
+
+Thales currently employs 200 people in space-related jobs at sites across the UK and the total is estimated to grow to 350 by 2020. Thales and Thales Alenia Space intend to build a strong, regional footprint in the UK, developing a highly-skilled workforce and investing in research and development.
+
+XPS: A new technology
+
+The UK’s first electric propulsion system for geostationary satellites represents a new generation in propulsion and will have a significant impact on future spacecraft performance.
+
+Chemical propellants are traditionally used to propel communications satellites. However, XPS uses electrical energy generated by the spacecraft’s solar panels to ionise and accelerate Xenon gas from a Hall Effect Thruster, generating thrust.
+
+The ionised Xenon is propelled from the thruster at speeds of more than 19km/s or 42,000 mph which means that very little Xenon gas is required to achieve the necessary thrust compared with a chemical propellant. As the Xenon takes less volume and weight to store, so XPS allows satellites to carry larger payloads, driving down operating costs.
+
+Once released from its rocket, XPS manoeuvres the satellite into its correct geostationary orbit and keeps it there for the remainder of its lifetime, travelling at 3km/s or 6,700mph at an altitude of nearly 36,000km or 22,000 miles, above the Equator.
+
+An international effort
+
+Specialist teams from Belfast, Harwell and Cannes sites designed the XPS module and its manufacturing process. Engineers at the Belfast site are engaged in assembling the propulsion module, including its fuel tanks, steering mechanisms, fuel lines and electric thrusters, before it is shipped to Thales Alenia Space in Cannes for integration with the Spacebus Neo satellite and testing.
+
+Ben Oliver, CEO of Thales Alenia Space in the UK, said: “The all-electric propulsion module, designed and built by specialist teams in Harwell and Belfast, represents the strong commitment of Thales Alenia Space to create, sustain and grow world class innovation, design and advanced space engineering skills in the UK, producing important contributions to future space programmes. This event is an important delivery milestone not only for Eutelsat, Thales Alenia Space and Thales but also for our stakeholders in Invest Northern Ireland, the UK Space Agency and the European Space Agency. This important step is a reflection of the UK’s dynamic and growing space sector. The UK space industry is a key pillar in the Government’s Industrial Strategy for economic growth in the UK and the delivery of this module is a tangible example of the progress of that strategy and represents a significant investment in the UK by Thales Alenia Space”
+
+Thales Alenia Space is a leading designer and manufacturer of geostationary satellite solutions. The company is prime contractor for the 2020 ExoMars mission and was involved in the construction of the International Space Station in which Tim Peake spent six months in 2015.
+
+"
+Thales's Digital Radiography Technology: enhancing X-ray imaging quality - Thales,"Mon, 05 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXQtc3BlY2lmaWMvbWljcm93YXZlLWltYWdpbmctc3ViLXN5c3RlbXMvbWFnYXppbmUvdGhhbGVzcy1kaWdpdGFsLXJhZGlvZ3JhcGh5LXRlY2hub2xvZ3nSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Healthcare professionals are under immense pressure to deliver high quality care, often in difficult circumstances. To meet these demands, our customers are in need of the best technologies that generate optimised image quality whilst operating at a lower dose. New and ever-developing technology in the radiography industry has has quickly advanced improving the accuracy of the diagnosis while generating debates among the major contributors.
+
+One recent debate concerns pixel pitch and the vital role it plays in purchasing decisions. What exactly is it, why is it important, and does an ""optimum"" level actually exist?
+
+Pixel pitch is the distance between the centers of two consecutive photon-detecting pixels. It is measured in micrometers (µm) and generally ranges between 75 and 200µm. To better understand the importance of pixel pitch, it is necessary to distinguish between detectivity and resolution.
+
+The most important characteristic of performance is detectivity, allowing the detection of a tumour or fracture. Detectivity is an expression of the SNR (Signal/Noise Ratio), which is the ratio of the signal (average amount of X-rays which arrive at the detector) to the noise (the visual variations in this average). One of the ways to improve the SNR is to improve the signal by increasing the pixel pitch (or size of the pixel). This will decrease the number of pixels, and therefore increase the number of X-ray photons detected by the pixel.
+
+Another very important parameter linked to detectivity is the DQE (Detective Quantum Efficiency), which is the ratio of SNR² (number of photons visible on the detector) to the dose. It measures the proportion of information carried by the X-rays that is visible on the screen. As the dose decreases, the number of photons visible on the screen (SNR²) decreases proportionally, meaning that the DQE is not affected. While there may seem to be more noise, there is no loss of information visible in the image.
+
+The second major characteristic influencing performance is the MTF (Modular Transfer Function), which is the resolution of the image at a given spatial frequency. The resolution is ultimately the maximum number of line pairs per millimeter (lp/mm) visible. With a low MTF, the shape would be blurred but with a high MTF it would be clearly defined and easily visible. Detectivity is a matter of the signal/noise ratio, whereas resolution is a matter of the pixel size of the detector.
+
+The graphic below compares one image (left) with a high resolution (MTF) but low detectivity (DQE) and a second image (right) with high DQE but low MTF. On the left, the shape is well defined thanks to the high resolution but with more noise. On the right, the stars are bright and clearly visible, but it would be impossible to measure their shape or diameter as the resolution is not high enough. A high-resolution image is not, in many cases, very useful to radiologists, as their priority is first to localise the potential pathology (tumour or fracture), and not to measure the exact shape of very small pathologies. As detectivity comes before resolution, the pixel size of the detector can be larger without losing any information.
+
+Is there an ""optimum"" pixel pitch?
+
+A larger pixel pitch means a higher SNR, higher detectivity, and an image which is easier to read. As pointed out earlier, it is detectivity which is of main concern to radiologists and this is therefore a key argument for large pixel pitch.
+
+That being said, resolution is still important and so there is a certain level that is set by radiologists as a minimum requirement, as is shown in the diagram above. Three independent French radiologists recently carried out a study in arthritis detection, where very tiny bone structures were detected and counted. These structures are much smaller than 100µm, so one would expect that having a pixel pitch lower than 100µm would help. The exercise was performed, with 50 and 150µm pitch detectors, on a large set of radiographies. The result of the study showed that the same number of structures were systematically counted whatever the pixel pitch. Small pixels didn’t help to see more structures, resolution did not help, and detectivity was the most important feature.
+
+Responding to the needs of healthcare professionals
+
+In response to the debate and questions posed, the combination of Thales’s experience and Trixell’s state-of-the-art technology proposes the Pixium Portable 3543 DR, with an optimum pixel pitch of 160µm achieving a maximised DQE & MTF for the range of 1-2 lp/mm, in the diagnostic area. The Pixium® Portable 3543 DR facilitates the daily work of medical professionals, improving the quality of images and increasing the pace and accuracy of patient diagnosis.
+
+Click here to find out more about our range of Radiology technologies!"
+Putting the LGBT+ in Diversity - Thales,"Thu, 15 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3B1dHRpbmctbGdidC1kaXZlcnNpdHnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Putting the LGBT+ in Diversity Share this article
+
+
+
+LinkedIn
+
+We believe that diversity and inclusion make for a stronger workforce. Without inclusion, there is no diversity. Callum Simpson-Fryer is a Systems Engineer at Thales and one of the founding members of the new UK LGBT+ group at Thales.
+
+Callum, tell us a little bit about your experience at Thales so far…
+
+Personally, I’ve had a great experience joining Thales as an intern and a member of the LGBT+ community. I was open from the very start and when my team found out that I have a male partner, they were all very friendly and interested to know more. Although there may still be some changes to make, my experience has been positive and by setting up the LGBT+ group, I want to ensure that others have the same positive experience at Thales as well.
+
+What purpose does the group serve?
+
+The group is set up predominantly for networking and making friends across our UK businesses, but the committee that oversees the group’s activities is designed to instigate broader, positive change throughout Thales in the UK.
+
+We have just launched the group at a recent employee fair at our Crawley site. Currently, we are recruiting members to get involved in social events and also running focus groups to collate the thoughts and experiences of Thales LGBT+ and Ally employees.
+
+How did you work with your colleagues to set up the LGBT+ group at Thales in the UK?
+
+Setting up the LGBT+ group began last year after I went to one of the Thales avionics business’ yearly reviews. The VP of the business was discussing diversity and inclusion and I felt that there was an opportunity for a greater focus on inclusion. I spoke to my manager to find out if there was an LGBT+ group at Thales in the UK and my investigation revealed that we didn’t have one.
+
+We started researching how to go about setting up a group and attended some external LGBT+ events, including one at the Royal Academy of Engineering. We collected data and statements from similar companies in order to make an initial business case for setting up a funded LGBT+ group, focussing on the benefits both to employees (productivity, inclusion, wellbeing, etc.) and the business (improved customer relationships, improved recruitment and retention, etc.). We subsequently presented this to the UK VP of Human Resources to showcase the need for this group and to get approval for its launch.
+
+After a short break from work to finish my degree, I returned to Thales as a graduate and discovered that other employees had also been looking to establish an LGBT+ group, so we started working together on setting it up.
+
+As we began to establish the group, we were supported by Craig Stevenson, Director of Communications and Government Relations at Thales in the UK, who is also LGBT+ and was looking to get involved, consequently becoming our official sponsor and chair.
+
+If Thales is to attract and develop the best people, we need to include those with different perspectives, lifestyles, experiences, opinions and expectations. I am delighted to act as sponsor for the recently established LGBT+ group at Thales in the UK, which will act as both a social network and a data source to help raise awareness and understanding.
+
+Craig Stevenson, Director of Communications and Government Relations, Thales in the UK
+
+Speaking of positive change, what aspirations do you have for the group?
+
+Our goals are to raise awareness of what inclusivity means for the workplace, to host informal social events and also work with HR to ensure that policies are inclusive to LGBT+ employees. We also want to create a support network for our employees.
+
+Read more about diversity and inclusion at Thales in the UK here
+
+"
+Canadian post-secondary students use AI to help tackle the challenge of misinformation in online news - Thales,"Wed, 07 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY2FuYWRhL3ByZXNzLXJlbGVhc2UvY2FuYWRpYW4tcG9zdC1zZWNvbmRhcnktc3R1ZGVudHMtdXNlLWFpLWhlbHAtdGFja2xlLWNoYWxsZW5nZS1taXNpbmZvcm1hdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Canadian post-secondary students use AI to help tackle the challenge of misinformation in online news Share this article
+
+
+
+LinkedIn
+
+Special guests Mr. Alexandre Boulerice, MP ( Rosemont–La Petite-Patrie), Mr. Jean-Marc Rousseau, Director of Technology Transfer, IVADO, Mr. David Lametti, Parliamentary Secretary to the Minister of Innovation, Science and Economic Development and MP for LaSalle—Émard—Verdun, Mr. Siegfried Usal, Managing Director of cortAIx and Thales Canada’s Vice President, Strategy, Research and Technology, Thales Canada and Mr. Phillipe Molaret, Chief Technology Officer, Thales Canada, celebrate with the three winning teams of Thales’ 2018 Student Innovation Championship.
+
+Canada’s brightest post-secondary students put their minds together to identify new ways to tackle one of today’s most popular topics – misinformation in online news. Students were challenged to identify new solutions, using artificial intelligence, to classify opinion clusters on a particular topic on the internet, and qualify their supporting evidence using their knowledge in AI, software design, engineering and IoT.
+
+Fifty-two (52) student teams from across Canada prepared to pitch their novel solutions to a panel of industry experts in the hope of winning the $20,000 grand prize. Second and third place winners were awarded $10,000 and $5,000 respectively. Thales congratulates the winners of the 2018 Student Innovation Championship.
+
+“Thales Canada’s Student Innovation Championship was created to offer students a glimpse into the business world while supporting new ways of solving problems. It has developed into an effective way to share the expertise of industry with the creative solutions prepared by the student teams,” said Siegfried Usal, Thales Canada’s Managing Director of cortAIx and Vice President of Strategy, Research and Technology.
+
+Grand Prize: Team NeuroSci, Western University (London, Ontario)
+
+Kartik Pradeepan, Megha Verma, Qingfan Liu
+
+Second Prize: Team RU-ML, Ryerson University (Toronto, Ontario)
+
+Alex Dela-Cruz, Cory Austin, Kayvan Tirdad
+
+Third Prize: Team Rococo Basilisk, University of Windsor (Windsor, Ontario)
+
+Kaival Patel, Ruturaj Raval, Zarreen Naowal Reza
+
+""IVADO is very pleased to support the 2018 Thales Student Innovation Competition as a main sponsor. This competition promotes two of our objectives: the training of a new generation of talent in data science and the development of innovative solutions powered by data. I would like to thank and congratulate all of the participating and winning teams and encourage participants to continue the development of their creative potential"", said Gilles Savard, Chief Executive Officer of IVADO.
+
+“By experimenting with artificial intelligence to solve problems, Canadian students are provided with the hands-on learning experience and skills needed to successfully transition from the classroom to the workforce. Investing in today’s talent is the best way to spur innovation and compete in tomorrow’s economy, said Mr. David Lametti, Parliamentary Secretary to the Minister of Innovation, Science and Economic Development and MP for LaSalle—Émard—Verdun.
+
+Eight finalist teams presented to a panel of judges comprised of industry experts at Thales’ Centre of Research and Technology for AI eXpertise (cortAIx) and the home of Thales’ North American Digital Factory in the heart of Montreal’s AI hub. The teams also participated in workshops featuring speakers from Thales, event sponsor IVADO, and Microsoft.
+
+Background on winning projects:
+
+Grand Prize – Western University
+
+The Grand Prize project, titled Opinion Galaxies: A Machine Learning Network Approach to Big Data in Medical Research focused on a specific use case: helping doctors and researchers filter opinions on medical research. This team presented an exceptionally innovative solution that would evaluate research papers based on the hypothesis they presented and their solution could then measure these hypotheses against others for similarity, influence and their connection to other research papers.
+
+Second Place – Ryerson University
+
+The project, titled Opinion and Evidence Analysis, proposed to take information from a source and, through a series of steps, transform these sources into a single opinion that could be labeled then be labelled valid or invalid compared to the norm defined.
+
+Third Place – University of Windsor
+
+This project, called Spdybot, presented an end-to-end learning model without any human participation. The team’s proposed solution is capable of mining all opinions available on the web on a certain topic along with relevant evidences so that users can decide the authenticity of each opinion before taking them into account. The user is presented with visual statistics of a list of opinions with supporting and contradicting evidence and a credibility score that they can use to decide if an opinion deserves sufficient authenticity.
+
+Thales Canada’s annual Student Innovation Championship was launched in 2017 with the objective of challenging post-secondary students to tackle new problems faced by companies every day, giving them valuable business insights and real-world experience."
+Malaysian Armed Forces Boosts Air Defence Capabilities with Thales - Thales,"Wed, 14 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9wcmVzcy1yZWxlYXNlL21hbGF5c2lhbi1hcm1lZC1mb3JjZXMtYm9vc3RzLWFpci1kZWZlbmNlLWNhcGFiaWxpdGllcy10aGFsZXPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Malaysian Armed Forces Boosts Air Defence Capabilities with Thales Share this article
+
+
+
+LinkedIn
+
+Together with its Malaysian partner, Global Komited, a member of the Weststar Group, Thales announces that the ForceSHIELD Ground-Based Air Defence system project has reached its final milestone with Full System Acceptance (FSA) occurring on October 2018.
+
+ForceSHIELD Ground Based Air Defence (GBAD) system project for the Malaysian Armed Forces (MAF) reaches final milestone with Full System Acceptance (FSA).
+
+The next generation of Short Range Air Defence (SHORAD) capability to the Malaysian Army, Air Force and Navy will now enter service with MAF.
+
+This achievement represents the culmination of a successful tri-party team working together, including programme management, operational and technical staff from the Malaysian Armed Forces (MAF), Global Komited and Thales, since September 2015 when the ForceSHIELD contract was signed at the DSEI exhibition in London.
+
+In addition to bringing the next generation of SHORAD technology to Malaysia, Thales is a core partner to the Malaysian Armed Forces for over 40 years, supplying and maintaining tactical radios as well as OICS systems for armed vehicles to the Army. Thales also provides Air Surveillance and ISR systems to the Air Force as well as Combat Management Systems, Electronic Warfare and Satcom solutions to the Navy.
+
+Aligned with its growth strategy to boost its local presence through strategic partnership with local players, Thales has successfully delivered innovative and high-value offset programmes in collaboration with government agencies that include the Technology Depository Agency, Cyber Security Malaysia and the Malaysian Industry-Government Group for High Technology (MIGHT).
+
+Thales is proud of the strong collaboration we have with the Malaysian Armed Forces and Global Komited that have enabled us to reach this successful milestone that supports the safety and security of Malaysian skies. Through this project, Thales contributed significant offsets in Malaysia including training, tactical simulators and investments in building the future of defence technology with an MSc degree in collaboration with UPNM. We remain focused on building sustainable, long-term partnerships with Malaysia and we look forward to growing our collaboration with the Malaysian Armed Forces as they build capabilities for the future.
+
+Thomas Pistre, Country Director, Thales in Malaysia
+
+About Thales in Malaysia
+
+The people who make the world go round – they rely on Thales. Our customers come to us with big ambitions: to make life better, to keep us safer. Combining a unique diversity of expertise, talents and cultures, our architects design and deliver extraordinary high technology solutions. Solutions that make tomorrow possible, today. From the bottom of the oceans to the depths of space and cyberspace, we help our customers think smarter and act faster, mastering ever greater complexity at every decisive moment along the way. Thanks to its 65,000 employees in 56 countries, Thales recorded sales of €15.8 billion in 2017.
+
+Present in Malaysia for 40 years, Thales has over 200 employees, including personnel from its joint venture, Sapura Thales Electronics, who have been building and maintaining long-term, strategic partnerships with key local partners across all business areas: defence, transportation, security, and aerospace.
+
+"
+Electric thrusters promise space revolution - Royal Aeronautical Society,"Tue, 27 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFlcm9zb2NpZXR5LmNvbS9uZXdzL2VsZWN0cmljLXRocnVzdGVycy1wcm9taXNlLXNwYWNlLXJldm9sdXRpb24v0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"As Thales Alenia Space gets ready to deliver the first UK-built electric commercial satellite propulsion module from its new facility in Belfast, Northern Ireland, TIM ROBINSON looks at the electric revolution in orbit.
+
+Electric cars, hybrid-electric aircraft and eVTOL ‘air taxis’ may be making terrestrial headlines, but there is another power revolution going on in orbit – that of electrical propulsion for satellites. In early November, the first UK-built electric satellite propulsion module was completed by Thales Alenia Space from its new facility in Belfast. With this, the UK joins Airbus in Germany, and Boeing in the US as a new manufacturer of all-electric propulsion technology for commercial satellites.
+
+This engine module, the Spacebus NEO Xenon Propulsion (XPS) is set to be delivered to Thales Alenia Space’s satellite factory in Cannes, France, where it will be integrated into the Spacebus NEO bus for Eutelsat’s KONNECT communications satellite ready for launch at the end of 2019.
+
+Thales Belfast
+
+Installation of the XPS module central tube at Thales Belfast. (Thales Alenia Space)
+
+While Thales Alenia Space, (a joint venture between Thales and Leonardo), is a well-established name in global space industry, it is a newcomer to the UK’s fast-emerging space sector, only starting up in 2013. Since then, it has invested significantly in design facilities at Harwell, Oxford, and at its new factory in Thales Belfast which was only opened in October 2016. Says its CEO Ben Olivier: “Thales Alenia Space is relatively new in the UK. It started up in 2013 and there has been a big investment in the UK. One of the key platforms of that investment has been the development of the electric propulsion modules for the Thales Alenia Space geostationary communications satellites product line we call Spacebus NEO. It's the next generation of geostationary communication satellites.”
+
+With a history that dates back to Shorts and then Thales producing missile systems (such as Starstreak SAM), its Belfast facility is highly experienced in manufacturing and testing ‘energetic’ products. Thales Belfast, says Olivier has: “Excellent skills in manufacturing. The right facilities and real aerospace mechanical engineering and understanding of quality. Space is something, again, in terms of the quality and product assurance requirements. The fundamental understanding is there, of working in a very controlled way, in a very precise way, to build things that are mission-critical.” The facility which currently employs around 20-30 people (of a total of 50 from Thales Alenia Space working on XPS in the UK), features a 800sq m clean-room and X-ray facilities for checking titanium welds.
+
+This XPS propulsion module, manufactured in Belfast, for the Spacebus NEO is not some tiny thruster, but a 1.8tonne module fully fuelled, that stands 1.8m high and 3.6m wide and features Xenon propellant tanks with the gas compressed to 125bar. “it's not a trivial piece of equipment” says Olivier, “You're talking about fluidic titanium piping, pressure regulation and pressure management and systems, valves, etc. And two axis mechanisms to vector the thrust and all the flexible piping to transmit the xenon efficiently. All of that has got to work in the extreme environment of space, and survive launch.“
+
+With the Eutelsat KONNECT being the first all-electric Spacebus NEO satellite from Thales Alenia Space, it also has three more follow-on orders in the pipeline, with the next one a XPS module for the French military Syracuse satellite, then commercial operator SES and another satellite for Eutelsat. “We expect more to be sold” says Olivier.
+
+As well as all-electric satellite propulsion, Thales Alenia Space in the UK is also active in a number of other space science programmes, such as building the MicroCarb probe – a joint Anglo-French mission to measure carbon dioxide in the atmosphere. The company is also set to sign a contract with ESA for the Earth Explorer - Fluorescence Explorer (FLEX) satellite, to be launched in 2022, which will measure vegetation fluorescence. It is also contributing to ESA’s big Plato planet-hunting science mission, where it will build the satellite service module and is hoping to provide the propulsion sub-module. Plato is scheduled to launched in 2026.
+
+
+
+Why electric?
+
+All-electric satellites offer lower cost flights to the prime region of GEO (Thales Alenia Space).
+
+Electric propulsion for satellites, is of course, not new and ion engines, plasma thrusters have been used for long-duration space exploration probes, as well as station keeping and altitude control. (Indeed, ESA’s BepiColombo Mercury probe, which launched in October, uses Solar Electric Propulsion System (SEPS) ion engines from UK’s QinetiQ.)
+
+However, in recent years, it has begun to transform the commercial satellite market – thanks to its ultra-high efficiency in raising geo-telecommunication satellites into geostationary orbits of 36,000km.
+
+Explains Olivier: “To do the same amount of velocity increase on the satellite, we use a fraction of the propellant because it's five to ten times more efficient.” This means that less fuel is needed, and thus the satellite can be lighter, and that means a smaller rocket to lift you into orbit. The downside of using an electric thruster producing a few Newtons of thrust, instead of say a 400Newton chemical rocket thruster, is that an all-electric satellite takes longer, (two or three months, rather hours or days) to get onto station, as it must slowly ‘spiral’ outwards from Earth’s gravity well. But this efficiency, translates into big savings, says Olivier: “What difference does it make commercially? It probably takes 20% out of the cost of the programme because you can use a smaller launch vehicle to put you into your injection orbit, and then do more of the work with your own propulsion sub-system.”
+
+While all-electric propulsion for satellites in geostationary orbits (35,800km) brings advantages such as lower cost and extended life, Olivier foresees electric thrust becoming more dominant in lower and lower orbits too: “We are in the process of looking at all-electric propulsion for all of our satellites, because it gives you many more options in terms of optimising the overall cost to the customer in terms of launch. We see all-electric, or substantially electric, as being something for major missions, going from NEO to what I call medium Earth orbits, or geostationary Earth orbits.”
+
+Olivier also hints that any UK satellite navigation replacement for Galileo is also likely to incorporate electric propulsion: “If you look at what's planned in the US and in Europe for the coming generation of GNSS, they're all powered by electric propulsion. That would certainly be something that the UK could do for itself.”
+
+Skimsats – how low can you go?
+
+Skimsats, flying ultra low (160-200km) orbits could provide low-cost, rapid -response surveillance or science missions. (Thales Alenia Space)
+
+As well as extending the life of existing satellites and lowering the cost of launch by reducing the mass – electric propulsion could also open up a whole new niche in satellites – Skimsats, according to Olivier. “We have a programme at the moment which is looking at flying even lower – as low as 160 or 200km, rather than traditional LEO satellites at 400-500km. Because it's more efficient, if you use the chemical propulsion system to fly low, you'd need an enormous amount of propellant. Whereas because electric is five to ten times more efficient, you can fly nearer the Earth.”
+
+These satellites, orbiting lower than other satellites in LEO, would keep position by using electric thrusters as they skim the upper atmosphere, which otherwise would soon drag any spacecraft back to Earth within one or two months. “If you fly very low you would re-enter in weeks or months. But electric propulsion's efficient enough and you don't have so much aero drag at 200km that a thruster with a few tens of millinewtons can overcome that” says Olivier.
+
+An early demonstrator of this kind of satellite was ESA’s GOCE (Gravity Field and Steady-State Ocean Circulation Explorer) which used a low orbit (268km) to study the Earth’s gravity field. Powered by a xenon electric thruster and launched in 2009, Thales Alenia Space was the prime contractor on GOCE.
+
+The benefits of these very low Earth orbits (VLEO) are that orbiting this low allows for a step -change reduction in the size, mass and cost of imaging payloads – giving 1m high-resolution imagery from small, cheap satellites under 75kg. Says Olivier: “You even get advantages in communications because you can more directly point your beam on the ground.” Smaller instruments and apertures on Skimsats, thus mean that what might just be experimental science missions or payloads, could become operational.
+
+This level of imagery, fast revisit times and the limited lifespan (24-36 months) means that low-cost- Skimsats real competition may not be other larger imaging satellites, but the emerging sector of HAPS (high altitude pseudo satellites) UAVs – which aim to provide satellite-like services at a lower cost. Notes Olivier: “What we're doing is building satellites that might last two or three years, fly at 200 kilometres, have very high resolution but very low cost. And the idea is you launch a number of them together, because they can be a lot smaller if you're flying close to target, and you bring them down when you need them. It's a sort of an operational response, which is different from global UAVs.”
+
+The limited lifespan (two years) is also beneficial for these micro Skimsats, launched quickly, perhaps in response to disasters or geopolitical crises, in that it aligns almost perfectly with the 18month consumer technology cycle – allowing better, smaller and lighter sensors to be upgraded on each subsequent launch.
+
+Finally, VLEO Skimsats also come with an in-built advantage in that flying this low at the edge of the atmosphere they will automatically de-orbit quickly due to air resistance and drag, once out of fuel, leaving no space debris after them. With growing concerns about space junk and ‘mega-constellations’ of tiny satellites, de-orbiting techniques are becoming more and more important.
+
+Electric thrusters, or even air-breathing ion thrusters, such as the one tested by ESA earlier this year, could have a major role in unlocking this promising niche of low-cost, low-flying satellites.
+
+Summary
+
+Earlier this year saw ESA test a revolutionary air-breathing electric ion thruster - opening up the possibility of VLEO satellites with extended endurance. (ESA)
+
+While much attention has focused on UK spaceports and launch vehicles as being the ‘final pieces’ of Britain’s dynamic space industry jigsaw – that now spans Mars rovers to neutral buoyancy training, Thales Alenia Space’s investment in all-electric technology adds an additional significant part to this sector. Says Olivier: “In the UK we had some pieces of the jigsaw but now we have the full puzzle for electric propulsion"". This not only has applications in lowering the cost of existing satellites markets, but also potentially opens up brand new ones – such as VLEO Skimsats – that could have both commercial and defence applications, for low-cost, responsive satellites. “It's strategically important for the UK in space to be a leader in this area,” stresses Olivier.
+
+Tim Robinson
+
+"
+"Dr Paul Gosling, VP Engineering UK, recognised for contribution to development of sonar - Thales","Wed, 14 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2RyLXBhdWwtZ29zbGluZy12cC1lbmdpbmVlcmluZy11ay1yZWNvZ25pc2VkLWNvbnRyaWJ1dGlvbi1kZXZlbG9wbWVudC1zb25hctIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Dr Paul Gosling, VP Engineering UK, recognised for contribution to development of sonar Share this article
+
+
+
+LinkedIn
+
+Thales UK’s most senior engineer has been recognised for his exceptional contribution to the development of sonar with a prestigious award by one of the world’s largest engineering institutions.
+
+Dr Paul Gosling, Vice-President Engineering UK, was presented with an Institute of Engineering and Technology (IET) Achievement Medal at a ceremony in London on November 14.
+
+IET Achievement Medals honour individuals who have made an outstanding contribution to the advancement of science, engineering and technology in any sector or activity within the scope of the institute.
+
+Dr Gosling collected his prize amongst other esteemed engineers and technicians at the IET Awards ceremony hosted by Dr Emily Grossman.
+
+He was recognised for his major contribution to the development of state-of-the-art sonar systems for Royal Navy ships and submarines.
+
+Paul’s experience in engineering spans over 30 years after initially studying physics at Warwick and Oxford. In his current role, he is responsible for around 2500 engineers and scientists working on a variety of R&D projects spanning Aerospace, Space, Security, Transportation and Defence sectors.
+
+During his career with Thales, he personally led the technical development of the Royal Navy's two principal sonar systems in operation today which play a critical role in protecting UK and international assets.
+
+Sonar engineering
+
+Sonar 2076 is the world’s most advanced submarine-based sonar and equips the Astute Class submarine, the Royal Navy’s most advanced class of boat.
+
+Paul was also heavily-involved in the development of Sonar 2087, a powerful anti-submarine warfare system fitted to Type 23 frigates and the future Type 26 ship.
+
+Sonar 2087 is a sophisticated towed array system, which enables warships to hunt submarines at considerable distances and detect them beyond the range from which they can launch an attack.
+
+The Royal Navy currently operates its frigates with Merlin helicopters fitted with Thales FLASH-dipping sonar which can be used to pinpoint the submarine from the air. The Navy has described the combination of 2087 and FLASH as ‘world beating’.
+
+Speaking of the medal, Paul said:
+
+I am honoured to receive this award from the IET. Thales has a deserved reputation as being global leaders in sonar technology and maritime sensors and it has been incredibly exciting as an engineer to play a part in that ongoing story. I am honoured to receive this award from the IET. Thales has a deserved reputation as being global leaders in sonar technology and maritime sensors and it has been incredibly exciting as an engineer to play a part in that ongoing story. People don’t often get to see it, but engineering plays an integral part in our everyday modern lives. There are not many jobs where you get do so many diverse and fascinating roles, such as working with the navy to improve submarine sonar defence systems.
+
+Professor Bernard Weiss, Chair of the IET Awards and Prizes Committee, said: “The Achievement Awards allow us to recognise the huge impact that engineers have on all our lives. The winners here today are extremely talented and have achieved great things in their careers, whether they are a young professional demonstrating outstanding ability at the start of their journey or an engineer at the pinnacle of their career.
+
+The winners, who were nominated by their peers, and selected by a panel of IET judges, are leading engineers and technologists across the globe.
+
+The IET
+
+The IET is one of the world’s largest engineering institutions with over 167,000 members in 150 countries. It is also the most interdisciplinary – to reflect the increasingly diverse nature of engineering in the 21st century, including the disciplines of energy, transport, manufacturing, information and communications, and the built environment.
+
+The Institute wants to build the profile and change outdated perceptions about engineering in order to tackle the skills gap. This includes encouraging more women to become engineers and growing the number of apprentices.
+
+Find out more about our UK maritime capability here."
+"Thales Introduces NS50, First 4d Aesa Radar for Naval Market - Force Magazine","Fri, 09 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZm9yY2VpbmRpYS5uZXQvdGhhbGVzLWludHJvZHVjZXMtbnM1MC1maXJzdC00ZC1hZXNhLXJhZGFyLXNtYWxsLXBsYXRmb3JtLW5hdmFsLW1hcmtldC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"On October 23, during blue and brown water deployments, navies must be able to rely on digital technologies to guarantee the full performance of sensors onboard real time and at all times. To provide naval forces with the high solution they need, Thales launched a 4D AESA (Active Electronically Scanned Array) air and surface surveillance radar, the NS50.
+
+Threats for naval vessels are becoming increasingly more complex thus driving requirements for a broadening spectrum of missions and tasks. With NS50, Thales aims to bring the benefits of a 4D AESA radar to naval vessels where 2D radars are the standard.
+
+Thanks to the innovative architecture the new Thales AESA radar family brings to bear 4D, not only providing bearing, range and elevation (3D), but also providing in-depth analysis of the target’s Doppler and other characteristics during that extended time-on-target (the 4th dimension), every single scan. The result proved the NS50 was vastly superior in air and surface detection, tracking & classification performance when compared to 3D (and certainly 2D) radars.
+
+
+
+
+
+
+
+
+
+“By applying our latest digital technologies to the NS50 and other NS-radars, we enable navies to detect, track and identify any threat and make the right decisions at every decisive moment. In addition, by going to a digital software-defined, future-proof radar architecture, with inherent scalability and upgradability, navies will be ready for whatever the future may bring,” said senior vice president for surface radar activities, Thales, Serge Adrian.
+
+The NS50 radar is a 4D AESA dual-axis multi-beam radar conceived with a range up to 180 kilometres on a price point to meet the budget consideration of all naval services. Scalable and easily upgradable, software-defined (future-proof) 4D AESA compact radar technology is deployable across all ship classes, combining surveillance and weapon support into one. This X-band radar can integrate with the latest ship defence weapons, such as new gun-ammunition and active short-to-medium range missiles. The system’s weapon support functionality will provide military-grade 4D track data, either to the ship’s gun systems or active missile systems for ‘First Time Right’ anti-surface or anti-air engagements.
+
+Within Thales’ NS family, the NS50 is positioned as in class, 4D radar in terms of size and range (short to medium range) and affordable for smaller platforms."
+Electric satellite propulsion system a 'major manufacturing milestone' for UK - Professional Engineering,"Thu, 01 Nov 2018 07:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmltZWNoZS5vcmcvbmV3cy9uZXdzLWFydGljbGUvZWxlY3RyaWMtc2F0ZWxsaXRlLXByb3B1bHNpb24tc3lzdGVtLWEtJ21ham9yLW1hbnVmYWN0dXJpbmctbWlsZXN0b25lJy1mb3ItdWvSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Engineering news
+
+Thales Alenia Space has claimed a “major new manufacturing milestone” for the UK space sector after unveiling the first all-electric satellite propulsion module designed and built in the country.
+
+The xenon propulsion system (XPS), which will use energy collected from solar panels to accelerate xenon gas from an electric thruster, was designed in the industry hub of Harwell in Oxfordshire and assembled in Belfast.
+
+Electric propulsion using xenon is five- to 10-times more efficient than traditional bipropellant systems, Thales Alenia CEO Ben Olivier told Professional Engineering. The XPS produces “much lower” thrust levels, therefore taking longer to complete similar journeys, but its improved efficiency means less fuel is required.
+
+“Progressively, we’re seeing electric propulsion become the new normal of propulsion in space,” said Olivier. “What it allows is much more freedom and much more mass for the payload on the satellite.”
+
+The lower fuel requirement also means cheaper launchers are suitable, helping to reduce average mission costs by an estimated 20%.
+
+Pressurised at 100-120 bar – roughly equivalent to 100-120 atmospheric pressures – the xenon nonetheless causes some challenges due to the resultant 1.8 tonne total weight. “There’s quite a lot of complexity in managing the propellant, supporting all that during launch and maintaining the integrity of that system,” said Olivier.
+
+The 1.6m by 3.6m XPS will lift a Eutelsat telecoms satellite from the orbit provided by its launch vehicle to its geostationary orbit at roughly 36,000km above the equator, before maintaining its orbit for at least 15 years.
+
+Pioneering innovation
+
+The Franco-Italian firm Thales Alenia Space and official organisations hailed the propulsion system’s significance for the UK’s growing ‘New Space’ sector.
+
+“Pioneering innovations like this all electric propulsion module will improve access to space, but also deliver new jobs and growth on the ground,” said UK Space Agency chief executive Dr Graham Turnock. “We’re working with industry to grow our share of the global space market to 10% by 2030, and the Thales Alenia Space facility in Belfast is an excellent example of UK capability.”
+
+“The UK space industry is a key pillar in the Government’s industrial strategy for economic growth in the UK and the delivery of this module is a tangible example of the progress of that strategy,” added Olivier.
+
+The first XPS module will travel from Belfast to Thales Alenia’s French operation in Cannes for integration into Eutelsat’s Konnect satellite before testing and launch.
+
+Content published by Professional Engineering does not necessarily represent the views of the Institution of Mechanical Engineers."
+Kate Ford: keeping millions of Londoners on the move - Thales,"Thu, 15 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2thdGUtZm9yZC1rZWVwaW5nLW1pbGxpb25zLWxvbmRvbmVycy1tb3Zl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kate Ford: keeping millions of Londoners on the move Share this article
+
+
+
+LinkedIn
+
+The Four Lines Modernisation project (4LM), is the world’s largest signalling upgrade, across four of London Underground’s most important railway lines: Circle, District, Hammersmith & City and Metropolitan. Between them, these lines account for 40% of the London Underground’s traffic, keeping millions of Londoners on the move each day.
+
+One of the people making this possible is Kate Ford, a Field Operations & Test Manager. Kate is responsible for the site teams that carry out the testing work, ensuring their results are reviewed in time and that all the evidence is captured. She plans the works out for them, keeping an eye on the long term deliverables, the budget and overall time frame.
+
+Having recently returned from maternity leave Kate enjoys the variety of her days, and moving forward in her career she hopes to manage bigger teams and budgets, and be on the delivery side of major Thales project.
+
+Every day is extremely different and while I’m not necessarily involved in all the detail on site, the strategic problem-solving – in terms of coordinating activities and engineering solutions, and trying to get to the best result overall – is what I really enjoy doing.
+
+Kate Ford, Field Operations & Test Manager, Thales in the UK
+
+And it is certainly a complex project she is working on. Unique features include five complex rail junctions, 113 stations and 191 trains, interfacing the system with four depots, six sidings (two of them major), and the integration of existing CCTV and PA systems with a new central control centre.
+
+Most of the engineering and testing work can only take place during a set three-hour window every day, between 0130 and 0430, during which time around 400 engineers are deployed on site. This adds to the complexity of coordinating teams.
+
+Kate relies on 10 years of experience working for Thales, where she started as a site manager, and before that, four years as a Technical Leader in the Army. She also had her dad, another engineer, as a role model.
+
+“My father was an engineer and I always wanted to be like him,” she recalls. “He was very supportive with me from the beginning and helped with finding work placements.”
+
+Kate has a daughter and two boys, who could be taking the family legacy forward. She explains how important it is to engage with future engineers at a young age: “They need to understand that it’s ok to want to be an engineer. By having those conversations early on, explaining what an engineer does and engaging them as early as primary school so that they have that dream at the back of their head.”
+
+She believes this will help in recruiting the great minds of the future, and ensuring that transport and engineering remain important in driving London forward.
+
+Kate is also a strong advocate for women in engineering. And she is seeing the changes - for the first time in her 10 years at Thales she has two female engineers working with her in what has historically been an all-male team. She says: “There is still a small proportion of women compared to men in industries such as rail, mainly because of perceptions around the culture. As you get more senior women this encourages more to step-up, as they lead by example.”
+
+Kate and Thales are keeping London safe, secure and on the move. Find out more here."
+Final round of signal testing to shut down all LRT service on Saturday - CBC.ca,"Thu, 08 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9lZG1vbnRvbi1tZXRyby1saW5lLXRoYWxlcy0xLjQ4ODkxODXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNDg4OTE4NQ?oc=5&hl=en-US&gl=US&ceid=US:en,"All Edmonton LRT service will be suspended Saturday to allow for testing of the Thales signal system.
+
+Replacement buses will run every 15 minutes on the Metro Line between NAIT and Churchill.
+
+On the Capital Line, replacement buses will run every five minutes until 7 p.m. After that, they will run every seven or eight minutes until the end of service.
+
+Locations of the replacement bus stops can be found here.
+
+Trains will be operating on the tracks for testing purposes but transit users will not be permitted to board.
+
+Craig McKeown, director of engineering and maintenance of Edmonton Transit Service, said the LRT is not available to riders beginning Saturday at 5 a.m through to the following day.
+
+Thales will test Metro Line trains every 10 minutes and Capital Line trains from Century Park to Clareview every five minutes on Saturday afternoon.
+
+""These steps are an important step in the completion of the signal system,"" McKeown said.
+
+""This closure if the last one planned by Thales as a part of their testing process, which is needed to complete their signalling system on the Metro Line by Dec. 4, 2018.""
+
+McKeown said the full-scale service outage had been planned months ago.
+
+Its timing means that people attending special events, such as Saturday's Fleetwood Mac concert at Rogers Place, will not have LRT as a transportation option.
+
+""We did our best to accommodate the request while keeping in mind attendance at certain events, so we did the best we could to schedule it around them, but not everything could be avoided.""
+
+After Dec. 4, the expectation is that the Metro Line will run every five minutes, as per the original contract with the city.
+
+It has been operating at a reduced rate since it opened in Sept. 2015.
+
+The city will continue to evaluate the system after Dec. 4. Those tests, McKeown said, will last for several months.
+
+The city warns drivers and pedestrians that there may be increased wait times at LRT crossings during testing."
+French firm Thales to invest over S$31 million in digital factory in S'pore - TODAY,"Thu, 29 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRvZGF5b25saW5lLmNvbS9zaW5nYXBvcmUvZnJlbmNoLWZpcm0tdGhhbGVzLWludmVzdC1vdmVyLXMzMS1taWxsaW9uLWRpZ2l0YWwtZmFjdG9yeS1zdGFydC1zcG9yZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"SINGAPORE — Over the next five years, French defence electronics firm Thales will be investing more than 20 million euros (S$31.2 million) in its inaugural digital factory in Singapore — the first in Asia outside of its two such facilities in France and Canada.
+
+The factory will drive innovation and digital solutions for the company and its customers in the aerospace, space, ground transportation, defence and security domains.
+
+One of the tools that will be developed by the team of experts here is a cloud-based web application that will allow maintenance teams in industries such as transportation and aviation — including those from its client, rail operator SMRT — to troubleshoot problems easily, and more quickly.
+
+Mr Olivier Flous, Thales’ Head of Digital Transformation and Digital Factory, said that the application, called Teach-r, will allow these maintenance teams to interact and get instructions from experts who are not on the ground.
+
+'(The app) will help with the maintenance of the signalling systems for the (SMRT's) North-South and East-West lines through digital tools,"" said Mr Flous at the launch of the digital factory at 8 Cross Street on Thursday (Nov 29).
+
+Thales provides signalling technologies for North-South and East-West train lines, as well as the revenue collection systems for the North-East and Circle lines.
+
+At the company's digital factories, teams of eight to 10 people work with end users to deliver “minimum viable products”, which are new solutions developed at a fast rate — typically in a few months — to quickly test its operational and business value.
+
+For instance, 15 minimum viable products have been created by the 220 people in Thales' digital factory in Paris since it was launched in June last year, with each product taking four months to develop.
+
+In addition to Teach-r, the Singapore digital factory is working on three minimum viable products, Mr Flous said.
+
+Up to 30 experts specialising in fields such as cybersecurity, artificial intelligence, big data and Internet of Things, will be based in the Singapore digital factory by the end of 2019.
+
+These roles include data scientists, software engineers and security experts, who will be recruited locally and abroad. The team could double in size in the next three to five years, said the company.
+
+Thales will also add another 1,300 staff to its workforce here — bringing the total headcount to over 2,000 — when it completes its acquisition of digital security group Gemalto, which is expected to take place in the first quarter of next year.
+
+Trade and Industry Minister Chan Chun Sing, who officiated the opening of the digital factory, said it will boost Singapore's overall digital capabilities, which is important for the country's next lap of growth.
+
+""With this lap, we are now part of a worldwide ecosystem of rapid prototyping, rapid innovation and rapid solution-delivering,” Mr Chan said.
+
+“This adds to the overall capacity of the Singapore economy, not just to serve the local business, but regional businesses too.""
+
+He added that Thales’ factory will allow Singaporeans to work with digital talents worldwide.
+
+Agreeing, Mr Flous said: ""Beyond capitalising on the strong innovation landscape, we also hope to develop and deepen the talent pool of digital specialists in Singapore."""
+75th birthday for Thales' Australian Munitions business - Defence Connect,"Mon, 05 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmRlZmVuY2Vjb25uZWN0LmNvbS5hdS9qb2ludC1jYXBhYmlsaXRpZXMvMzEwNC03NXRoLWJpcnRoZGF5LWZvci10aGFsZXMtYXVzdHJhbGlhbi1tdW5pdGlvbnMtYnVzaW5lc3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales’ munitions factory at Mulwala is celebrating 75 years of delivering a key sovereign industrial munitions capability to support the Australian Defence Force.
+
+You need Javascript for CAPTCHA verification to submit this form.
+
+Need help signing up? Visit the Help Centre.
+
+By becoming a member, I agree to receive information and promotional messages from Defence Connect. I can opt out of these communications at any time. For more information, please visit our Privacy Statement.
+
+You need Javascript for CAPTCHA verification to submit this form.
+
+Keep me signed in on this device.
+
+To continue reading the rest of this article, please log in.
+
+The Mulwala facility, originally commissioned during World War II and now operated by Thales Australia trading as Australian Munitions, continues to be a vital support facility for the ADF, manufacturing propellant and explosives for Army, Navy and Air Force.
+
+Australian Munitions managing director Dion Habner said, ""The major investment by the Australian government in the facility over the past decade has created the world’s most modern propellant manufacturing plant, able to serve the ADF’s needs for decades to come.""
+
+============== ==============
+
+The new long-term strategic agreement on munitions manufacturing announced in February 2018 will underpin further investment and safeguard nearly 700 jobs across the Benalla and Mulwala facilities.
+
+Further investment in research and innovation by Thales has created world-class capabilities at Mulwala in the development of a propellant that is now rated as the world’s best for its ballistic performance
+
+1
+
+""In addition to the investment by the Commonwealth, Thales is investing in R&D, manufacturing equipment and export promotion that is driving innovation in this business. The new long-term strategic agreement on munitions manufacturing that is currently in negotiation will underpin further investment and safeguard the nearly 700 jobs across the Mulwala and Benalla facilities,"" Habner said.
+
+Australian Munitions is a business of Thales Australia and is the largest supplier of explosive ordnance to the ADF, with a successful record delivering ammunition, propellants, explosives and related services. Australian Munitions is also a principal supplier of small arms ammunition to the New Zealand Defence Force. Australian Munitions also produces high quality propellant and ammunition for military and civilian domestic and international customers.
+
+""Mulwala and the sister facility in Benalla truly are the home of munitions manufacturing in Australia and together constitute the sovereign industrial capability in munitions for all the services,"" Habner said.
+
+Australian Munitions can trace its ammunition heritage back to the late 19th century, through the establishment of the Colonial Ammunition Company in Victoria and played a key role restructuring the Australian munitions manufacturing industry landscape over the final decade of the 20th century.
+
+Manufacturing is based at two main regional sites – Benalla in Victoria and Mulwala in NSW. The Benalla site produces ammunition, explosive ordnance and other munitions, while the Mulwala site focuses on high quality propellants and explosives.
+
+Australian Munitions is a manufacturer of military grade propellants, high explosives, pyrotechnics, small arms ammunition, medium/large calibre munitions, aerial delivered ordnance, grenades and explosive charges."
+French aerospace firm Thales expands Singapore operations with new digital lab - The Straits Times,"Thu, 29 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnN0cmFpdHN0aW1lcy5jb20vYnVzaW5lc3MvZnJlbmNoLWFlcm9zcGFjZS1maXJtLXRoYWxlcy1leHBhbmRzLXNpbmdhcG9yZS1vcGVyYXRpb25zLXdpdGgtbmV3LWRpZ2l0YWwtbGFi0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"SINGAPORE - French aerospace company Thales has added a new 'digital factory' to its stable of research labs in Singapore, with the aim of producing high tech data-based solutions for the region using local expertise.
+
+The research lab, which opened on Thursday (Nov 29), will next year house around 30 experts drawn from a mix of nationalities, including Singaporeans.
+
+The Parisian company entered Singapore in 1973 and has around 700 employees here but aims to grow this figure to around 2,000 after it completes its acquisition of digital security firm Gemalto in the first quarter of next year.
+
+The new lab at 8 Cross Street is the start of a 20 million euro (S$31 million) investment over the next five years, and staff numbers there are expected to increase in that time.
+
+The group hopes to draw from a talent pool of data scientists, software engineers, designers and cyber security experts from the region.
+
+These specialists will produce digital solutions, using technologies such as big data, artificial intelligence and cloud computing to solve problems faced by Singaporean firms and test them to see if they can be deployed worldwide.
+
+Thales' vice-president of digital transformation Olivier Flous said: ""What we want to do is to work with our Singapore customers to test these original products, and then to implement them worldwide to serve a global market.""
+
+The company's customers include Singapore Airlines, SMRT, Changi Airport and the Singapore Armed Forces.
+
+Singapore was not a surprising choice for the group to place its third digital factory due to its heavy presence here and its proximity to its Asian customers, according to its senior executive vice-president of international development Pascale Sourisse. Thales' other digital factories are in France and Canada.
+
+Minister for Trade and Industry Chan Chun Sing said the new Thales factory adds to the country's digital capabilities and is a microcosm of what he hopes Singapore will embark in future.
+
+""We see exactly the model that we will be embarking on,"" he said on the sidelines of a tour of the factory. ""In this factory, we see Singaporeans working with talented people from overseas and around the world as part of a wider network. There are a lot of opportunities for Singaporeans to participate in such learning and the finding of solutions."""
+Thales wants charges quashed in Zuma corruption case - POWER 98.7 - POWER 98.7,"Thu, 15 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcG93ZXI5ODcuY28uemEvbmV3cy90aGFsZXMtd2FudHMtY2hhcmdlcy1xdWFzaGVkLWluLXp1bWEtY29ycnVwdGlvbi1jYXNlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"French arms company Thales, which has been charged along with former president Jacob Zuma in his corruption case, is seeking a permanent stay of prosecution so the charges against it can be reviewed and set aside.
+
+Thales lodged the application with the KwaZulu-Natal High Court in Durban.
+
+“Thales submits that a permanent stay of prosecution against it constitutes just and equitable constitutional relief in the circumstances,” according to court papers. “In this application Thales’ cause of action is the violation of its right to a fair trial on the basis of both its right to have any trial against it begun and concluded without unreasonable delay and its right to adduce and challenge evidence,” reads the application.
+
+This comes after lawyers for both the company and Zuma told the KwaZulu-Natal High Court in Pietermaritzburg in July that they were preparing applications for a permanent stay of prosecution.
+
+According to Thales they are challenging the validity of the prosecution and the unreasonable delay in the prosecution.
+
+‘Charges withdrawn in 2009’
+
+The company argues that the prosecution has not followed its own protocols.
+
+In a statement on Thursday, Thales spokesperson Cédric Leurquin says that while the arms company was charged with serious criminal offences, it had a right to a fair trial.
+
+“One of the principal reasons for Thales’ contentions as to why the ‘reinstitution’ of charges holds no validity is that criminal charges against the company were withdrawn in 2009 and this action was not challenged or set aside by any court”.
+
+He says Thales argued that since the charges were validly withdrawn, the prosecution has not followed its own protocols.
+
+“In relation to the renewal of prosecution, Thales cites that the prosecution is required to act procedurally and substantively in a rational and fair manner, the company says that this has not been done.”
+
+Leurquin says Thales had no knowledge of any transgressions committed by any of its employees in relation to the awarding of the contract for the 1999 arms deal.
+
+NPA believes ‘successful prosecution’ reasonably likely
+
+“Thales respects the law, has a zero-tolerance policy on corruption and has cooperated fully with the local authorities at all times, and will continue to do so.”
+
+The case involves 783 questionable payments Zuma allegedly received from the company in connection with the arms deal.
+
+In 1997, Thales won a R2.6bn stake in South Africa’s R60bn arms acquisition programme to supply combat systems for four frigates procured by the navy.
+
+It was reported earlier that Thales said that it did not believe it had a chance of a fair trial in South Africa.
+
+The National Prosecuting Authority (NPA) previously turned down representations by the arms company to withdraw charges against it.
+
+“We believe there are reasonable prospects of [a] successful prosecution,” NPA spokesperson Luvuyo Mfaku told said at the time.
+
+News24
+
+Form here"
+Jacob Zuma back in court on Friday - SABC News,"Thu, 29 Nov 2018 08:00:00 GMT",https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnNhYmNuZXdzLmNvbS9zYWJjbmV3cy9qYWNvYi16dW1hLWJhY2staW4tY291cnQtb24tZnJpZGF5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Reading Time: 2 minutes
+
+Former President Jacob Zuma’s appearance before the Pietermaritzburg High Court on Friday is expected to be brief. The National Prosecuting Authority is likely to request an adjournment to allow it time to respond to both Zuma and his co-accused Thales’s application for a permanent stay of prosecution.
+
+The former President and Thales want charges against them squashed – citing a delay in prosecution that has dragged on for 14 years.
+
+In his affidavit, Zuma says he faced public and media prosecution that he says was engineered by the NPA.
+
+Zuma is facing multiple charges including fraud, corruption, racketeering and money laundering. These relate to the more than 780 questionable payments to Zuma by his former financial advisor Schabir Shaik that the state alleges were bribes solicited to influence the multi-billion rand arms procurement.
+
+Having introduced a new legal team at his last appearance, Zuma’s defence, now led by Advocate Mike Hellens has filed their application for a permanent stay of prosecution.
+
+In his application for charges against him to be dropped, Zuma says the circumstances of his prosecution reveal political manipulation, interference, undue delay and prosecutorial bias. The former President concludes his affidavit by stating that the delays in his trial have been extremely long.
+
+Thales’s representative Christine Guerrier in her affidavit, has cited unreasonable delays in their prosecution. The company says it has been 14 years since they were originally charged.
+
+Thales further says the decision by the NPA to reinstate charges was in respect of Zuma and not the company. This was after the Supreme Court’s ruling in 2017, that set aside the decision to withdraw charges against Zuma.
+
+Meanwhile, outside court, Zuma supporters are expected to once again gather. A night vigil is expected to take place on Thursday evening."

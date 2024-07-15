@@ -1,0 +1,924 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales Group to restructure space business as order gap drives losses - SpaceNews,"Wed, 04 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc3BhY2VuZXdzLmNvbS90aGFsZXMtZ3JvdXAtdG8tcmVzdHJ1Y3R1cmUtc3BhY2UtYnVzaW5lc3MtYXMtb3JkZXItZ2FwLWRyaXZlcy1sb3NzZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Thales Alenia Space will restructure over the next few months as part of an effort to revamp its telecom satellite manufacturing business, which is projecting a 10% drop in sales for the year, its majority shareholder said Aug. 4.
+
+Thales Group, which owns 67 percent of Franco-Italian manufacturer Thales Alenia Space, said the global slowdown in geostationary satellite orders is dragging on longer than it expected, causing space revenues to contract.
+
+Satellite operators are furthermore demanding more advanced “flexible” spacecraft that can change the size, shape, power and location of their beams as their business plans become less dependent on television broadcasting and more on constantly shifting demand for internet connectivity, Thales said.
+
+Thales Alenia Space builds a wide variety of spacecraft, including science missions for European space agencies, weather satellites for the European Union, and pressurized cargo modules for Northrop Grumman’s Cygnus supply vessels. But the recent reluctance of geostationary operators to buy new satellites is weighing down on the company’s financial performance.
+
+“The driver behind this evolution is commercial satellite sales,” Pascal Bouchiat, Thales Group chief financial officer, said during an earnings call.
+
+Thales Group reported 1.76 billion euros ($1.94 billion) in Aerospace revenue for the first six months of 2019, down 14 percent from the same time last year. Aircraft avionics, which Thales Group includes in its Aerospace division, grew by an unstated amount, but was not enough to offset commercial satellite losses, the company said.
+
+Bouchiat said Thales Group projects 40-50 million euros in restructuring costs during the second half of this year to “adjust our overall headcount in our space business.”
+
+Thales Alenia Space has won three of 10 comsat orders this year — one from Indonesian operator PSN for a broadband satellite called Satria, and Hisdesat’s two SpainSat NG satellites it will co-build with Airbus Defence and Space. But revenue from new satellite orders doesn’t peak until two years after booking, meaning their effect won’t be felt in the near term, according to Thales Alenia Space CEO Jean-Loïc Galle.
+
+Galle said Thales Alenia Space is committed to doubling down on research and development, accepting that spending will hurt earnings for the next two years.
+
+“Based on our discussion with many operators, we have decided to complement the [very-high-throughput] satellites with a new fully digital satellite product line that will deliver the total mission flexibility that satellite operators now require,” Galle said. “The investment to develop this new satellite, this new solution, will temporarily weigh on our profitability in 2020 and 2021.”
+
+Most if not all of the world’s top satellite manufacturers are investing in digitizing satellite payloads so operators can more easily adapt their services to changing market conditions. Galle said Thales Alenia Space has invested 300 million euros in telecom research and development since 2013, helping the company win orders like the half-terabit Konnect VHTS satellite Eutelsat ordered last year.
+
+Konnect VHTS, Galle said, will have “the most powerful onboard digital processor ever put in orbit” when it launches in 2021.
+
+Galle said Thales Alenia Space’s projections don’t include any “jumbo” broadband megaconstellation orders, which could be a massive source of business.
+
+Thales Alenia Space partnered with Maxar Technologies in a competition with Airbus Defence and Space to build a megaconstellation for Canadian operator Telesat, which wants 300 low Earth orbit satellites. The company is also a frontrunner to build LeoSat’s constellation of 84 to 108 broadband satellites. Galle mentioned neither during his presentation, however.
+
+“Although constellations attract a lot of attention, very few are operational,” Galle said. “Geostationary satellites remain the dominant way to provide telecommunications from space.”
+
+Galle said he anticipates a low- to mid-single digit margin in gross earnings in 2021, with a return to high single-digit growth by 2023.
+
+Outside of commercial telecom, other parts of the space market show growth potential. Galle said the European Space Agency is expected to approve a significant budget increase at its ministerial council in November. The French military is also expected to increase space spending, he said.
+
+Thales Alenia Space is building the ground segment for the French military’s Syracuse 4 satellite program, and received an order in July to build the defense-focused Ital-GovSatCom satellite under contract from the Italian Space Agency.
+
+Half of Thales Alenia Space’s revenue comes from civil space projects, according to a company presentation. Another 20% comes from military customers, with commercial counting for the remaining 30%.
+
+Bouchiat said Thales Alenia Space has also benefited from the struggles of another prominent satellite manufacturer.
+
+“Maxar, who used to be the market leader, has clearly dropped in terms of market share,” he said. “That trend obviously had a positive impact on us.”
+
+Maxar was close to selling off its geostationary comsat business last year, but decided in February to restructure Space Systems Loral instead, with a focus on smaller satellites and government projects.
+
+Thales Group was able to offset declines in it space business thanks to its 4.8 billion euro acquisition of Gemalto, a digital identity and cybersecurity company, in April. Patrice Caine, CEO of Thales Group, said Thales Group’s 7 billion euros in revenue and 8.2 billion in sales for 2019’s first six months were both up roughly 10 percent thanks largely to the integration of Gemalto.","{'label': 'Negative', 'score': 0.9959239959716797}",negative,0.9959239959716797,-1
+"ExoMars passes critical milestone, bringing us closer to the Red Planet! - Thales","Thu, 05 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9leG9tYXJzLXBhc3Nlcy1jcml0aWNhbC1taWxlc3RvbmUtYnJpbmdpbmctdXMtY2xvc2VyLXJlZC1wbGFuZXTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Descent and Carrier modules for the ExoMars 2020 mission have been integrated in Turin. The spacecraft in launch configuration will now be shipped to Cannes for environmental tests, before the launch to Mars to search for traces of life.
+
+The ExoMars 2020 mission is now at an advanced stage. Thales Alenia Space’s Turin plant has completed integration of the Lavochkin landing platform, dubbed Kazachok. It already includes the Rover thermostructural model, protected by the ""rear jacket"" of the Descent module.
+
+Before leaving Cannes, the Rover flight model, named Rosalind Franklin, will be installed on the Kazachok landing platform together with the Carrier module (from OHB). The spacecraft will then transit via Turin,before being shipped to the Baikonur Cosmodrome in Kazakhstan for a 2020 launch to… Mars!
+
+© Thales Alenia Space
+
+We are very proud to have reached this critical milestone for the landmark ExoMars mission"" said Walter Cugno, Vice President for Exploration and Science at Thales Alenia Space. “This achievement reflects our proven experience in space exploration and the dedicated work of our experts who teamed up to meet the ultimate goal of this great European Space Agency mission, the search for life on Mars. ""Thales Alenia Space’s teams have made a considerable effort to successfully complete the integration, working closely with our European and Russian partners. Conducted by Thales Alenia Space as prime contractor, ExoMars is a sterling example of international collaboration
+
+About the ExoMars 2020 spacecraft
+
+© Thales Alenia Space
+
+It comprises a carrier module, a descent module and the landing platform with the Rover. It will reach Mars in 2021, covering some 500 million kilometers (about 310 million miles) along the way. Once the spacecraft completes this incredible journey and the Rover’s wheels touch Martian soil, it will receive commands from the Rover Operations Control Center, via the Trace Gas Orbiter (TGO), already in Martian orbit, and ESA’s European Space Operations Centre (ESOC) in Darmstadt, Germany.
+
+“Is there Life on Mars?”
+
+The cornerstone of the overall program, ExoMars 2020 is a collaborative effort between ESA and the Russian space agency Roscosmos. The TGO was sent into orbit to detect any traces of gas in the Martian atmosphere, especially methane of biological origin. ESA’s Rover is a special case.
+
+Fitted with a drill produced by Leonardo, it will be able to pierce the Martian soil up to two meters deep in an effort to find any bacteria – a major world first! Furthermore, the Rover is equipped with the Analytical Laboratory Drawer (ALD), a sort of mini-laboratory integrated at our Turin plant. Featuring a wide array of sophisticated scientific instruments, this lab will have the daunting task of analyzing the Martian soil samples for any signs of past or present life. The Trace Gas Orbiter, launched on the ExoMars 2016 mission and also under Thales Alenia Space’s responsibility, will be used to relay all communications to and from the Rover.
+
+Venus, Mars, Mercury, Saturn, the Moon, asteroids, comets… Thales Alenia Space has always been a pivotal partner in the incredible European and international missions across the Solar System. Let’s hope that this second ExoMars mission will be a major European and global success for the greater benefit of science and to help us better understand the Universe.
+
+* ExoMars is a joint exploration program between the European Space Agency (ESA) and the Russian Space Agency, Roscosmos, with NASA contributions, that aims to study the Martian environment, atmosphere and soil. It will lead to an enviable data harvest that will feed scientists' research for many years to come. Thales Alenia Space is prime contractor on the ExoMars missions (2016 & 2020), leading an industrial consortium. Within the consortium, Leonardo provides the soil sample drill, OHB the carrier module and various rover instruments, with the rover itself supplied by Airbus. NPO Lavochkin is responsible of the landing platform.
+
+Photos Copyrights: © Thales Alenia Space & © Thales Alenia Space/Master Image Programmes","{'label': 'Neutral', 'score': 0.9999945163726807}",neutral,0.9999945163726807,0
+Ottawa Confederation Line Opens with Thales SelTrac™ CBTC - RailwayAge Magazine,"Tue, 17 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJhaWx3YXlhZ2UuY29tL25ld3Mvb3R0YXdhLWNvbmZlZGVyYXRpb24tbGluZS1vcGVucy13aXRoLXRoYWxlcy1zZWx0cmFjLWNidGMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The latest North American rail transit system to utilize CBTC (Communications Based Train Control), Ottawa’s 13-station O-Train Confederation Line, is now in revenue service, operating with Thales SelTrac™ technology.
+
+SeTrac, a CBTC technology originally developed in the 1970s*, uses wayside-to-onboard telecommunications “for effective traffic management,” Thales noted. “This allows trains positioning to be demonstrated more accurately to signaling operators (dispatchers) compared to other traditional systems, resulting in a more efficient and safe way to manage light rail traffic It will also provide major energy savings while carrying up to 10,700 passengers per hour in each direction, with the potential to grow up to 24,000 passengers per hour in each direction in the years to come.”
+
+Thales wayside signaling equipment, part of the SelTrac™ system, as seen from the train during the Inaugural Ride on the O-Train Confederation Line.
+
+“Providing the city of Ottawa with our state-of-the-art Thales’ urban rail signaling technology solidifies our position as a leader in the provision of complex signaling systems for light rail applications in Canada and internationally,” said Vice President and Managing Director Urban Rail Signaling Dominique Gaiardo. “Thales successfully delivers innovative, fast and reliable transportation solutions around the world, and we are committed to the continued service of cities and their transit users in Ottawa and across the country. [This] continues the advancement of a strong year of growth for Thales in Ottawa and throughout Ontario, following contract awards for signaling solutions on the O-Train Confederation Line’s extension project as well as the Toronto-based Finch West LRT.”
+
+Left to right, at the O-Train Confederation Line Opening Ceremony, from Thales Canada: CEO Mark Halinaty , Dominique Gaiardo, VP & Managing Director, Urban Rail Signaling, and Alain Cruz, Director of Canadian Projects, Urban Rail Signaling.
+
+* SelTrac was originally developed in the 1970s by Standard Elektrik Lorenz of Germany for the Krauss-Maffei Transurban, an automated guideway transit system proposed for the GO-Urban network in the Greater Toronto Area in Canada. Although the GO-Urban project was never built, the Transurban technology was acquired by an Ontario consortium led by the Urban Transportation Development Corporation (UTDC), and adapted to become its Intermediate Capacity Transit System (ICTS). This technology was first used on the SkyTrain network in Vancouver, B.C. and the Scarborough RT in Toronto. SelTrac was primarily supplied and developed by Alcatel, through a Toronto-based subsidiary. SelTrac is now supplied by Thales Canada, after it purchased many of Alcatel’s non-telecommunications assets. New versions have been developed for different markets, and today SelTrac is used for train control systems around the world. The original SelTrac system was based on inductive loops that provided a communications channel as well as positioning information. In newer version, the control signal is transmitted inside the running rails at radio frequency using IEEE 802.11 (WiFi) access points.","{'label': 'Positive', 'score': 0.9828055500984192}",positive,0.9828055500984192,1
+"Iridium, Thales Deliver Aircraft Connectivity Services - Via Satellite","Tue, 03 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9tb2JpbGl0eS8yMDE5LzA5LzAzL2lyaWRpdW0tdGhhbGVzLWRlbGl2ZXItYWlyY3JhZnQtY29ubmVjdGl2aXR5LXNlcnZpY2VzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Iridium Communications revealed that Thales is the newest Iridium Certus aviation service provider. While already developing the Iridium Certus-based FlytLINK terminal and antenna, Thales will now be able to offer both Iridium Certus terminals and Iridium Certus connectivity services to business jets, commercial aircraft, rotorcraft, general aviation, and Unmanned Aerial Vehicles (UAVs).
+
+Iridium Certus joins the company’s existing suite of aircraft safety services, including providing Iridium Future Air Navigation System (FANS) applications such as standard and enhanced ADS-C, controller-pilot data link communications and ATS Safety Voice, once certifications are complete. Beyond safety services, Iridium Certus aims to deliver flight deck and business cabin-friendly internet capabilities such as electronic flight bag services, graphical weather, blackbox streaming, email, credit card processing, VPN access, and social media posting and monitoring.","{'label': 'Neutral', 'score': 0.9297729730606079}",neutral,0.9297729730606079,0
+DSEI 2019: Thales discloses Mi-Map AI-assisted mine warfare solution - Naval News,"Wed, 11 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vZXZlbnQtbmV3cy9kc2VpLTIwMTkvMjAxOS8wOS9kc2VpLTIwMTktdGhhbGVzLWRpc2Nsb3Nlcy1taS1tYXAtYWktYXNzaXN0ZWQtbWluZS13YXJmYXJlLXNvbHV0aW9uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"DSEI 2019: Thales discloses Mi-Map AI-assisted mine warfare solution At DSEI 2019, Thales is launching the Mine Intelligence Mapping system (Mi-Map), a new AI-assisted solution developed for mine warfare analysis. The Mi-Map console is designed to offer the customer the best solution in term of mine detection and classification, Thales said to Naval News.
+
+Mi-Map is a digital assistant powered by AI for sonar data analysis including a fully integrated design for quick deployment and a continuous machine learning capability. This platform can reduce operator workload, improve Man-Machine performance, and speed up post mission and real time operator analysis whilst being able to self-adapt to new environments or threats.
+
+« We compared the efficiency of current procedures to the ones offered by Mi-Map. It took dozens of minutes for the operator to detect and classify potential threats, when the Mi-Map did the job in around 20 seconds. And the human missed two decisive elements, »
+
+
+
+Thales representative.
+
+Thales’ Mi-Map console has been offered the Janus prize, a label awarded by the French Design Institute to projects being made to be easier for the user to handle.
+
+Thales is just finishing the development and will be able to propose its new Mi-Map console for the Naval market.","{'label': 'Positive', 'score': 0.9686638712882996}",positive,0.9686638712882996,1
+"Thales provides flight simulator to Uzbekistan, marks first Air Force academy in the country - Vertical Magazine","Thu, 19 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy90aGFsZXMtcHJvdmlkZXMtZmxpZ2h0LXNpbXVsYXRvci10by11emJla2lzdGFuLW1hcmtzLWZpcnN0LWFpci1mb3JjZS1hY2FkZW15LWluLXRoZS1jb3VudHJ5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales signed a contract with Uzbekistan for the supply of a flight simulator for Airbus AS350/H125 helicopters. This flight simulator will provide initial training for pilots of the Uzbek Air Force and emergency procedures training. The simulator was delivered in record time last August to Karshi Air Force Base in Uzbekistan. The installation was carried out in an entirely new building intended to become the first academy in the country.
+
+In early September, the academy was inaugurated in the presence of senior officials from the Ministry of Defence. This academy will provide training for Uzbek pilots and engineers, with a capacity of 300 students.
+
+This operation, which perfectly meets the customer’s requirements, is in line with the helicopter pilot training projects undertaken by Thales over many years.
+
+As a pioneer in the deployment of helicopter simulators in the civil and military sectors, Thales is particularly proud to be able to provide an Airbus simulator in Uzbekistan.","{'label': 'Neutral', 'score': 0.9984939098358154}",neutral,0.9984939098358154,0
+Thales and Steller Systems unveil TX Ship - EDR Magazine,"Sat, 14 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy1hbmQtc3RlbGxlci1zeXN0ZW1zLXVudmVpbC10eC1zaGlw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Paolo Valpolini
+
+Innovative in shape and concept, this might be the definition for the TX Ship, unveiled by Thales and Steller Systems at the Maritime Capability Conference that preceded the opening of DSEI 2019. In terms of shape the TX Ship has an inverted bow and a trimaran configuration that allows increasing lateral stability as well as space available, as it provides an ample flight deck amidship, with a large mission bay at the lower level.
+
+Based in Nailsworth, Gloucestershire, Steller Systems is an independent consultancy company specialised in naval architecture and marine engineering. The study that led to the TX Ship was commissioned by Thales UK, which is acting as integrator, providing all command and control and sensors.
+
+A 70 meters long ship, with a 25 meters beam and a 600 tonne displacement, the TX has a reduced crew, maximum 15 complement; however in the aim is to make it a fully unmanned ship, hence the “T” for transition, as it aims at increasing navies confidence in large unmanned ship. The crew will be hosted in a dedicated self-contained module fitted with all needed systems; when operated as an autonomous vessel, it will host specialist teams, i.e. Special Forces or other.
+
+The TX Ship flight deck is equipped with elevators connecting it to the mission bay, which is designed to host standard ISO containers; these can be fitted in different roles, from accommodation to host crew members or mission related personnel such as Special Forces detachments, or mission systems, such as VTOL UAVs, UUVs, weapon systems, etc. The container-based system allows for a rapid rerolling. Astern, the ship is fitted with a well deck allowing launching manned or unmanned boats. According to the two design companies the TX Ship can be used for different roles, such as mine countermeasures operations, ASW picket ship or unmanned decoy, anti-surface warfare operations, electronic warfare, Role One casualty medical facility, ISTAR, covert forces insertion/extraction, emergency or transit Helicopter Landing Site, amphibious support/littoral strike using land weapon systems such as MLRS from its deck.
+
+In the helicopter support role the TX Ship can support up to the Royal Navy Merlin; this can either use the TX as a refuelling platform or bring aboard supplies to extend the ship mission, or new modules to switch it to new roles not planned when it sailed from harbour. When used as mother ship, the space between the external hulls of the trimaran and the main hull, both at port and starboard, are fitted with automated launch and recovery systems allowing operations with RIBs or other types of surface or undersea systems, manned or autonomous.
+
+Not much was said about the propulsion system, top speed being 30 knots, with cruise speed of 18 knots; maximum range speed is 12 knots, which ensure the TX Ship to sail for over 600 Nautical Miles. Endurance is of 20 days when operated manned, which doubles if the TX Ship is used in the full autonomous mode. A semi-autonomous mode is also envisaged, man in-the-loop and man on-the-loop modes being considered, the former controlling the ship remotely while the second exploiting autonomous functions while monitoring.
+
+Thales will exploit its participation in Project MAPLE (Maritime Autonomous Platform Exploitation) to cope with unmanned functions, its M-Cube mine counter measure management system being used for MCM operations. The company will also be responsible for the sensor suite, which will not be limited to usual sensors but will also include elements to allow fully autonomous onboard operations by unmanned air assets, in the form of optical and inductive systems to programme and recharge UAS on the flight deck.
+
+Coming to the way ahead, Thales intends to build a prototype in order to start testing systems and concepts of operation, thus starting the lessons learned process that will bring in the end to an operational vessel.
+
+Graphics courtesy of Thales and Steller Systems","{'label': 'Neutral', 'score': 0.999992847442627}",neutral,0.999992847442627,0
+JetBlue selects Thales AVANT for A220 IFE - PaxEx.Aero,"Tue, 10 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vcGF4ZXguYWVyby9qZXRibHVlLXNlbGVjdHMtdGhhbGVzLWF2YW50LWEyMjAtaWZlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"JetBlue‘s A220-300 fleet will bring a new passenger experience to the airline. But it will do so with familiar partners. The carrier announced today that the planes will fly with the Thales AVANT inflight entertainment (IFE) solution on board. Delivery for the first of seventy A220s to the carrier is due in 2020.
+
+In 2000, JetBlue set out to disrupt the industry as the first airline to offer live TV on every seatback, on every plane. We’re extremely proud to continue this long-standing relationship with our partners at Thales, and look forward to introducing a brand-new, custom-for-JetBlue generation of in-flight entertainment on our A220 aircraft. – Mariya Stoyanova, director of product development, JetBlue
+
+The planes will feature 10″ HD screens at every seat, offering an audio/video on demand entertainment suite. Picture-in-picture and personal device pairing are also part of the AVANT solution for JetBlue. Passengers will also have USB and AC power available at their seats to keep devices charged throughout their flights. PaxEx.Aero previously revealed that the JetBlue A220 cabin would seat 140 passengers on board.
+
+A rendering of the new JetBlue A220-300 seating plan
+
+Thales (via its acquisition of former JetBlue subsidiary LiveTV) has been part of the JetBlue experience since the carrier’s first flight. The systems matured over the years, moving from just live television on board to a more full-featured AVOD IFE solution. The latest “Phase 2” A320 retrofit planes also include the AVANT solution, Thales’s top-end IFE offering.
+
+JetBlue has relied on Thales to be their inflight entertainment business partner for almost 20 years, and we are proud to continue building on this partnership with the airline’s first A220 fleet. This award further demonstrates Thales’s commitment in supporting JetBlue’s ambitions to provide their passengers a superior air travel experience. – Philippe Carette, Chief Executive Officer, Thales InFlyt Experience
+
+JetBlue joins Delta Air Lines and Air Canada in putting IFE screens at every seat on board its A220 planes. The 10″ screen size is comparable to that of those carriers’ configurations. All three carriers will also have comparable inflight wifi services available on board. Delta and Air Canada chose 2Ku while JetBlue previously announced that the inflight wifi for the A220 fleet would be provided by Viasat. In all cases the new, smaller planes are flying with a configuration very similar to their larger brethren in the fleets, delivering a more consistent passenger experience on board.
+
+More from the 2019 APEX EXPO
+
+A favor to ask while you're here... Did you enjoy the content? Or learn something useful? Or generally just think this is the type of story you'd like to see more of? Consider supporting the site through a donation (any amount helps). It helps keep me independent and avoiding the credit card schlock.","{'label': 'Positive', 'score': 0.9933115243911743}",positive,0.9933115243911743,1
+Thales Alenia Space releases fully digital satellite to address fast moving market needs - Thales,"Tue, 10 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLXJlbGVhc2VzLWZ1bGx5LWRpZ2l0YWwtc2F0ZWxsaXRlLWFkZHJlc3MtZmFzdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space releases fully digital satellite to address fast moving market needs Thales Alenia Space Telecommunications satellites Telecommunications Innovation Share this article
+
+
+
+LinkedIn
+
+This new satellite product line, called Space Inspire, offers flexible coverage
+
+& full in-orbit reconfiguration capabilities
+
+Paris, September 10, 2019 – Thales Alenia Space, joint venture between Thales (67 %) and Leonardo (33 %), is proud to launch its new Space Inspire satellite product line (INstant SPace In-orbit REconfiguration) which allows seamless mission and services reconfiguration, instant in-orbit adjustment to the demand, transition from video broadcasting to broadband connectivity services while maximizing the efficiency & effective use of the satellite resources.
+
+“Space Inspire is a game changer in the rapidly changing space markets, creating profound mutations in telecommunications. Our customers increasingly face the need to develop advanced services and seize new business opportunities, as they appear, while enhancing their business efficiency. Through Thales Alenia Space new product line, total mission digitalization and full flexibility enable satellite operators to allocate capacity anywhere, at any time, whatever the waveform”, said Jean-Loïc Galle, CEO of Thales Alenia Space.
+
+Over the past several years, Thales Alenia Space has invested in digitization of its offer, leading to new skills, new products and strategic partnerships to anticipate this transformation. These efforts, supported by CNES (French space agency) and ESA (European Space Agency), are bearing fruits for communication satellites and in particular allowed Thales Alenia Space to match the connectivity needs by leading the VHTS (Very High Throughput)* market and to be the first worldwide company to offer a fully digital payload processing up to a terabit class.
+
+Transforming a Direct to Home TV satellite into a High Throughput connectivity satellite and changing its coverage in quasi real time was unconceivable a few years ago. Thales Alenia Space has designed its newest Space Inspire Satellite product line in order to meet this challenge at unprecedented price point. This new, software defined, smaller mid- sized satellite solution, joins SpacebusTM NEO satellite line to enrich the Thales Alenia Space’ portfolio.
+
+Extremely high capacity, unique agility, in-orbit reconfiguration, flexible coverage, proven serial production, is becoming a reality thanks to Thales Alenia Space innovative solutions.
+
+* KONNECT VHTS, SES-17, PSN Satria contracts
+
+Photo copyright ©Thales Alenia Space/Master Image Programmes
+
+About Thales Alenia Space
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of about 2.5 billion euros in 2018 and has around 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+Thales Alenia Space – Press Contacts:
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Chrystelle Dugimont
+
+Tel: +33 (0)4 92 92 74 06
+
+chrystelle.dugimont@thalesaleniaspace.com","{'label': 'Positive', 'score': 0.6956078410148621}",positive,0.6956078410148621,1
+DSEI 2019: Steller Systems & Thales Unveil TX Ship Concept - Naval News,"Tue, 10 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vZXZlbnQtbmV3cy9kc2VpLTIwMTkvMjAxOS8wOS9kc2VpLTIwMTktc3RlbGxlci1zeXN0ZW1zLXRoYWxlcy11bnZlaWwtdHgtc2hpcC1jb25jZXB0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"DSEI 2019: Steller Systems & Thales Unveil TX Ship Concept Steller Systems and Thales have launched their design for TX Ship, a ground-breaking vessel that will help navies transition to unmanned operations.
+
+The design, which was officially unveiled at the Maritime Capability Conference at DSEI 2019 on Monday, is designed to operate unmanned, but with the intention of operating as a lean-manned vessel with 15 crew in the first instance. Successful and continued operation of TX Ship will give forward thinking navies a clear route to gain confidence in, and to move towards, fully unmanned autonomous naval operations in a cost-effective manner.
+
+TX Ship is a fully sensorised multi-role trimaran, capable of operating at reach, alone or as part of a task group. The ship possesses an unusual high capacity, fully-automated mission bay capable of hosting and deploying a large number, and multiple types, of manned or unmanned mission packages. The stern access and moon pool features enable flexible and covert deployment of a wide range of current and future unmanned aerial, surface and subsurface vessels. At a length of 70m and 600 tonne displacement, TX Ship has a top speed of 30 knots, a design cruise speed of 18 knots, a range of 6000nm and an endurance of 20 days (manned) or 40 days (unmanned).
+
+The vessel has been designed to be a multi-role platform, including Mine Countermeasures (MCM), Intelligence, Surveillance & Reconnaissance (ISR), strategic Anti-Submarine Warfare (ASW) and patrol.
+
+TX Ship capabilities:","{'label': 'Positive', 'score': 0.9988129138946533}",positive,0.9988129138946533,1
+What's the latest news on the MTG-I weather satellite? - Thales,"Fri, 27 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy93aGF0cy1sYXRlc3QtbmV3cy1tdGctaS13ZWF0aGVyLXNhdGVsbGl0ZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"What’s the latest news on the MTG-I weather satellite? Thales Alenia Space Meteorology Share this article
+
+
+
+LinkedIn
+
+With a launch scheduled in 2021, ESA's MTG-I mission is making great progress. It has now passed tests showing that it will be able to stand up to the stress of liftoff.
+
+As prime contractor for Meteosat Third Generation (MTG), Thales Alenia Space was heavily involved in preparing and carrying out these tests, which saw the MTG-I Satellite Structural model shaken, shocked, subjected to intense noise, and weighed and measured to within a millimeter of its life !
+
+© Thales Alenia Space /Esa
+
+“Now that the satellite model has been thoroughly tested we can move forward with confidence in the satellite assembly, integration and testing process,” said Antoine Rérolle, MTG-I Program Manager. “We can be very proud of the work done by all the engineers and technicians who made this success possible.”
+
+Direct benefits down on Earth
+
+Satellites play a critical role in understanding our planet, since they offer unrivaled capabilities. Weather forecasting is undoubtedly the best-known application, but the use of this data extends far beyond just the convenience of knowing whether it’s going to rain tomorrow! Accurate weather forecasts harbor tremendous economic and social benefits, including more efficient farming, transportation and energy usage, as well as enhanced personal safety. At Thales Alenia Space, our advanced satellite technologies, especially for Earth observation, help improve our understanding of how the planet functions.
+
+The world leader in geostationary meteorology
+
+Thales Alenia Space is a global center of excellence in meteorology, having built all European meteorological satellites in geostationary orbit (36,000 km). Our expertise reaches back to 1977. We built seven first-generation Meteosat satellites, four second-generation models (MSG) and, along with partners OHB and Leonardo, we will supply six new third-generation satellites: four imaging satellites, and two atmospheric sounders. Moreover, the company plays a key role on the MTG ground segment, together with Telespazio.
+
+In addition to its role as MTG prime contractor, leading the industrial consortium building the MTG family, Thales Alenia Space is responsible for the MTG-I imaging satellite, including the primary payload, the Flexible Combined Imager (FCI). The satellites will also offer a brand-new infrared sounding capability (MTG-S) and imaging of global lightning (MTG-I), to provide early warning of severe storms.
+
+What’s next?
+
+The MTG-I program now enters a two-year assembly, integration and testing (AIT) phase. The flight platform was delivered by our partner OHB in early summer 2019. The instruments and payload electronics will now be integrated and tested as they are delivered to Thales Alenia Space. The major next milestone will be the delivery of the Flexible Combined Imager, a state-of-the-art telescope, by autumn 2020, kicking off the final stage of satellite testing. This will include environmental testing, where we simulate the orbital vacuum and extreme temperatures.
+
+”The successful completion of this process will mark a major step forward in the construction of these state-of-the-art satellites, with a launch of the first MTG Imager satellite now scheduled for late 2021. This will allow the continuity of the operational Meteosat service for the 20 years to come, thanks to a staged deployment strategy of the satellites involving in-orbit and on-ground spares. The following launch will be that of the MTG Sounder satellite by 2023, ensuring a new sounding mission which we hope will eventually become part of the operational service,” said Jean-Michel Reix, Thales Alenia Space MTG Program Director.
+
+© Thales Alenia Space /Esa
+
+Paul Blythe, ESA’s Meteosat Program Manager, added: “Successful completion of the MTG-I Satellite Structural model campaign is another major step towards realizing this complex mission, and is another demonstration of the excellent work being undertaken by the MTG Core Team (Thales Alenia Space and OHB) with a bit of help from ESA! Slowly but surely the first flight MTG satellites are taking shape, there are still many challenges, but with the continued cooperation from all parties a launch of the first (MTG-I) satellite in 2021 still remains possible. Thanks to all in industry for your continued commitment and effort to the Project.”
+
+Copyrights: Thales Alenia Space/ESA","{'label': 'Positive', 'score': 0.9998589754104614}",positive,0.9998589754104614,1
+Production begins on the military radio of the future - Thales,"Tue, 24 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUtZGVmZW5jZS9yYWRpby1jb21tdW5pY2F0aW9ucy9uZXdzL3Byb2R1Y3Rpb24tYmVnaW5zLW1pbGl0YXJ5LXJhZGlvLWZ1dHVyZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"On September 17 in Cholet, Thales inaugurated a state of the art CONTACT radio production facility In the presence of Patrice Caine, Marc Darmon, EVP Thales, Bernard Barrera, Lieutenant General of the French army, and Joël Barre, Chief Executive of the DGA (French defence procurement agency). The inauguration of this production line is the culmination of six years of development following the award of the tactical radio contract by the DGA in 2012.
+
+The CONTACT programme includes the development, production and support of secure military radio communications systems for the French armed forces. Over the duration of the contract it will include the fabrication of 25,000 radio posts and 10 years of support.
+
+With CONTACT, Thales is taking a decisive technological step for connected collaborative combat. This programme, unique in Europe, brings a real system dimension with the networking of combat platforms, sensors and effectors.
+
+The tactical aspect of the programme plays a key role in the SCORPION collaborative combat system, thanks to real-time and high-speed communications between sensors and effectors integrated in the vetronic systems and information systems in the Griffon multi-role armoured vehicle and and Jaguar Armored Reconnaissance and Combat Vehicle. The aerial component provides aero connectivity, particularly in the context of the Rafale F4 and more generally in the Future Air Combat System.
+
+A dedicated production facility for next generation radio
+
+To meet the demands of this large-scale high-tech programme as well as future export needs, Thales has invested in the development of a Factory 4.0 facility in Cholet.
+
+The facility will produce 100 radios each month, at roughly a rate of one piece of equipment every two hours. Production for the aeronautical aspects of the programme will be assured at a later date on the Group’s site in Brive. The programme implicates today around 1000 people across the SIX GBU, and is a generator of employment. The Group is currently recruiting around 100 new collaborators to work on the programme.
+
+A ceremony to mark the start of production
+
+On September 17, the Group’s senior management and representatives from the programme procurement agency and the end client, were joined at the ceremony to mark the start of production of this new facility by Jean-Pascal Laporte, Director of the Industrial Competence Centre in Cholet, Laurent Morin, Director of the CONTACT Programme at Thales, and Hervé Derrey, SVP COO SIX.
+
+Following the introductory presentations and traditional ribbon cutting ceremony, the invited guests and journalists were given a tour of the new facility where they also had the opportunity to meet some of the people working on the production of the CONTACT radio systems.
+
+""Opening a military radio production line only happens every 20 years.""
+
+Patrice Caine
+
+The CONTACT programme and future tactical radio
+
+The CONTACT programme involves the design and production of 'revolutionary' new radio sets, equipment and systems. This equipment will allow the immediate transmission of information in all its forms (voice, video, chat, broadband data ...) to all soldiers in a theater of operations, cutting drastically the time needed to plan missions and take decisions.
+
+Find out more about the CONTACT programme on the Group's YouTube channel.
+
+Beyond CONTACT in France itself, the challenge of this unique programme is to renew the Group's product portfolio in the field of collaborative tactical, aeronautical and naval software radio. This new solution is marketed worldwide as SYNAPS.","{'label': 'Neutral', 'score': 0.9999969005584717}",neutral,0.9999969005584717,0
+Thales and Oman's Public Authority for Privatisation and Partnership to create Advanced Cybersecurity Academy - Thales,"Tue, 24 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXQtc3BlY2lmaWMvY3JpdGljYWwtaW5mb3JtYXRpb24tc3lzdGVtcy1hbmQtY3liZXJzZWN1cml0eS9uZXdzL3RoYWxlcy1hbmQtb21hbnMtcHVibGlj0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Oman already ranks third in the world, next only to USA and Canada, in cyber-attack readiness according to the Global Cybersecurity Index. Armed with a high-level cybersecurity strategy, and a comprehensive roadmap, Oman is well placed with the best organizational practices to tackle threats. The country also ranked second in the Middle East, as per the latest International Telecommunications Union Global Cybersecurity Index, for protecting its national infrastructure.
+
+The new partnership, signed by Dr. Dhafir bin Awadh Al Shanfari, PAPP CEO and Mr. Pierre JEANNE, Vice President of Thales Group for Cybersecurity Technologies and Solutions, will help further strengthen the cyber- preparedness of the nation. The new partnership builds on the long-term presence of Thales in Oman and its commitment to promoting localization and human capital development in line with the Oman 2040 vision.
+
+As part of its offset (Tawazun Oman) obligations in the country, Thales will provide Cyber Range Platforms (sophisticated cybersecurity training and testing facility) developed and powered by its partner DIATEAM to the Advanced Cybersecurity Academy in addition to a complete cyber training program – from basic to expert level – led by Thales cyber experts who will be based in Oman for two years, and train 16 Omani trainers at the Academy.
+
+The Advanced Cybersecurity Academy aims to train and qualify national cadres with high professional skills in accordance with the recognized professional standards at the level of the global training institutions and the cybersecurity organizations, as well as providing support to various governmental departments and the private sector, with specialized skills and expertise to deal with any cyber-attacks or electronic piracy to reduce the risks of electronic threats.
+
+Moreover, the Academy is equipped with the most advanced means and techniques.
+
+Thales will provide Cyber Range Platforms, developed and powered by its partner DIATEAM, which will include their advanced training tools for the Academy. Trainees will learn how to protect and defend their networks against cyber-attacks with the Cyber Range Platforms, virtualizing all possible scenarios and solutions. The program will be implemented with the support of Thales experts whose mission is to enable the Academy’s trainers to deliver the courses autonomously.
+
+Sitting on the signing table from left to right:
+
+Dr Dahfir Al Shanfari, PAPP CEO and Pierre Jeanne, VP Cybersecurity Technologies & Solutions
+
+Standing from left to right:
+
+H.E French Ambassador in Oman Renaud Salins
+
+H.E Sheikh. Abdullah Nasser Al Bakri, Minister of Manpower (next to Eric)
+
+H.E Dr. Ali bin Masoud Al-Sunaidy, Minister of Commerce and Industry, and Chairman of the Board of Directors of the Authority.
+
+Eric Delannoy, Country Director of Thales in Oman
+
+Dr. Ahmed Hammad Al Kalbani, Advanced Cybersecurity Academy Dean","{'label': 'Neutral', 'score': 0.960247814655304}",neutral,0.960247814655304,0
+TX Ship: A new concept in autonomous naval vessels - Thales,"Mon, 09 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3R4LXNoaXAtbmV3LWNvbmNlcHQtYXV0b25vbW91cy1uYXZhbC12ZXNzZWxz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Steller Systems have launched a new concept in warship design at DSEI, offering an evolutionary link from manned warships, through lean-manning, to a fully autonomous platform.
+
+The Transition Ship (TX Ship) concept was developed by Thales in partnership with Naval Architects Stellar Systems to deliver mass and lethality for naval forces at an affordable financial and manpower cost, while distancing sailors from dangerous, dirty or simply dull tasking.
+
+“This is a thought leadership concept design for navies to talk about and understand,” said Matt Hunt, Mine Warfare Product Line Manager and lead for maritime autonomy for Thales in the UK.
+
+There’s a requirement from countries for a Large Unmanned Surface Vessel to give navies both mass and lethality that larger, more expensive but isolated platforms can’t give you.
+
+“However, it’s not just a pretty-looking boat; it’s got credible engineering and rigour behind it from our partners Stellar Systems who have a reputation as disruptive thought leaders.”
+
+The 70m trimaran platform would have a range up to 6000 miles, heavy-lift flight deck and extensive payload mission bay. It could be lean manned, with a crew of 15, or operate in autonomous or remotely controlled modes.
+
+Modularisation and a capacity for ISO containers, including self-contained crew accommodation, puts the emphasis on versatility. TX Ship’s trimaran hull gives it the stability to accept heavy lift helicopters, such as the Royal Navy’s Merlin, on its flight deck and a large mission bay as well as port and starboard launch and recovery systems under each wing.
+
+The mission bay could accommodate specialist equipment for tasks including:
+
+Mine countermeasures operations
+
+ASW picket ship or unmanned decoy
+
+Role One casualty medical facility
+
+ISTAR
+
+Covert forces insertion/extraction
+
+Emergency or transit Helicopter Landing Site
+
+Amphibious support/littoral strike using land weapon systems such as MLRS from its deck
+
+TX Ship’s versatility extends to its concept of operations, from close support to extended reach, operating independently or as part of a task group, its activity would be integrated through Thales’s M-Cube and MAPLE mission control systems.
+
+Payloads would also include unmanned vehicles so TX Ship could also act as a mothership in its own right, alongside manned ships in hybrid operations.
+
+Autonomy brings engineering challenges. However, Thales is looking to collaborate with likeminded partners to provide solutions.
+
+TX Ship’s digital launch is the start of a journey; Thales aspires to put a prototype on the water at the earliest opportunity, so that they, and potential customers, can begin to learn and understand the many levels of complexity surrounding a concept of operations for such a revolutionary ship.
+
+Images courtesy of Steller Systems","{'label': 'Neutral', 'score': 0.9999594688415527}",neutral,0.9999594688415527,0
+How to explore dark energy and penetrate the mystery of dark matter? - Thales,"Thu, 19 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9ob3ctZXhwbG9yZS1kYXJrLWVuZXJneS1hbmQtcGVuZXRyYXRlLW15c3RlcnktZGFyay1tYXR0ZXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"How to explore dark energy and penetrate the mystery of dark matter? Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+ESA Euclid mission on track in Thales Alenia Space’ clean room
+
+Euclid is an ESA (European Space Agency) astronomy and astrophysics mission designed to help us better understand the nature of dark energy and dark matter. Thales Alenia Space, Joint Venture between Thales (67 %) and Leonardo (33 %) is the prime contractor for the satellite and leads a European industrial consortium with scientific contributions. Euclid will map the general structure of the Universe over 10 billion light years to show its expansion and growth during the last three-quarters of its history. Slated for launch in 2022, Euclid satellite will use a Soyuz rocket from the Guiana Space Center, Europe’s Spaceport in French Guiana, for a six-year mission orbiting around the L2 Lagrange point.
+
+© Thales Alenia Space
+
+All about Euclid mission
+
+Euclid satellite will study dark energy and dark matter, essential but unknown ingredients in today’s “standard model” of physical cosmology. In this model, only about 4% of the mass-energy of the universe is made of ordinary matter (protons, neutrons etc.). The rest is invisible (dark matter) and the universe seems to be expanding at an accelerated pace under the impetus of the so-far unknown “dark energy”.
+
+Euclid on the tracks
+
+Mid-2018, ESA approved the detailed design of the satellite and all subsystems at the Critical Design Review (CDR). The structural and thermal model (STM) recently completed its thermal qualification tests at Thales Alenia Space’s plant in Cannes, and will undergo mechanical qualification tests in the coming weeks. At the same time, the flight telescope and service module have already started the integration and testing process at the Airbus plant in Toulouse and the Thales Alenia Space plant in Turin, respectively. The two modules will be mated in 2021, and the complete satellite will undergo acceptance tests prior to launch, scheduled for 2022.
+
+“After the integration and testing of the Euclid service and payload modules , the structural and thermal model of the satellite have now completed its thermal qualification tests in Cannes,” said Paolo Musi, Director of Science Programs at Thales Alenia Space in Italy. “The satellite is in flight like configuration, ready to start mechanical qualification tests. The Euclid program reflects Thales Alenia Space’s expertise, with outstanding contributions by our teams in Italy, Spain, Belgium and France. This extraordinary mission highlights Europe’s ability to undertake complex, cutting-edge science programs and confirms our role as a key partner in Europe’s leading science and exploration programs.”
+
+About Thales Alenia Space and the Euclid Consortium (EC)
+
+In July 2013, ESA signed a contract making Thales Alenia Space in Italy the prime contractor for the Euclid satellite. Airbus Defense & Space in Toulouse, France is one of the main subcontractors; it is responsible for the Payload Module, including the telescope and optical bench housing the VIS and NISP instruments from the Euclid Consortium (EC).
+
+Thales Alenia Space leads a team of over 120 European companies to produce the satellite. More specifically, Thales Alenia Space units in Spain, Belgium and Italy are in charge of making the communication subsystem (TT&C), RF amplifiers (TWTA), high gain antenna (HGA), transponder (DST) and coarse rate sensors (CRS).
+
+The EC, in charge of the scientific aspect, has conceived, designed and proposed the Euclid mission for ESA’s Cosmic Vision program, as well as new partners for the production phase. Fourteen European countries now contribute to the consortium (Austria, Belgium, Denmark, Finland, France, Germany, Italy, the Netherlands, Norway, Portugal, Romania, Spain, Switzerland and the United Kingdom), along with Canada and the United States, via NASA and a few US laboratories.
+
+Leonardo’s contributions to this mission include the cold-gas thruster system to control the spacecraft’s attitude, the fine guidance sensor and the photovoltaic assemblies (PVA), which power the satellite’s systems.
+
+The main design drivers for Euclid include the quality and stability of the integrated optical system, the speed and completeness of sky surveying, accurate and stable pointing, and the ability to reliably transmit to the ground the huge volumes of scientific data. The design proposed by Thales Alenia Space is based on the experience gained with the Herschel/Planck platform, which demonstrated excellent performance in orbit, integrated with an innovative, agile and precise pointing system and state- of-the-art telecommunications.
+
+Photos copyrights: ©Thales Alenia Space, Esa/ATG Medialab, Euclid Consortium (image); NASA/ESA, Hubble, CANDELS, Koekemoer et al. 2011, Grogin et al. 2011 (data)","{'label': 'Neutral', 'score': 0.9999970197677612}",neutral,0.9999970197677612,0
+Thales Expands Advanced Access Management Capabilities for Authentication Customers to Take on Evolving Threat ... - Business Wire,"Wed, 18 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDE5MDkxODAwNTM5My9lbi9UaGFsZXMtRXhwYW5kcy1BZHZhbmNlZC1BY2Nlc3MtTWFuYWdlbWVudC1DYXBhYmlsaXRpZXMtZm9yLUF1dGhlbnRpY2F0aW9uLUN1c3RvbWVycy10by1UYWtlLW9uLUV2b2x2aW5nLVRocmVhdC1MYW5kc2NhcGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS LA DÉFENSE--(BUSINESS WIRE)--From today, new adaptive authentication, single sign on and application visibility capabilities are available for Thales’ SafeNet Authentication Service customers with an automatic migration to SafeNet Trusted Access. With the enhanced access management capabilities of SafeNet Trusted Access, organizations have better control and visibility over their cloud estate with greater security, ease of use, and automated security capabilities to reduce the threats of identity-based attacks.
+
+According to the 2019 Thales Access Management Index, the majority (97%) of IT leaders believe that cloud access management is necessary to continue their cloud adoption, and almost all (94%) have changed their security policies around access management due to a rise in security breaches in the last 12 months. With adaptive authentication and flexible access management controls, CISOs and risk officers can secure all access points and gain ongoing insights into cloud and application access events. This enables their organizations to ensure trusted access, safe adoption of initiatives like BYOD adoption, comply with regulations and expand their use of secure cloud services.
+
+SafeNet Trusted Access is a cloud-based access management solution that combines the convenience of single sign-on with granular access security, allowing organizations to simplify and protect access to web and cloud-based applications. Each time a user logs in to a cloud application, SafeNet Trusted Access validates the user’s identity, assesses which access policy should be applied, and then applies the appropriate level of authentication with Smart Single Sign-On. With better control and visibility into their cloud ecosystem, SafeNet Trusted Access helps organizations prevent data breaches, migrate to the cloud securely and simplify regulatory compliance.
+
+“ With its powerful adaptive authentication and single sign-on capabilities, SafeNet Trusted Access enable us to provide access to all of our cloud and web apps, complete with integrated cloud single-sign-on and multi-factor authentication capabilities. This removes the need for any extra administration like re-deployment or re-enrolment, and enables the easy implementation of a secure, conditional access and step-up authentication with a single integrated access management,” said Coralie Fontaine, technical leader for IT infrastructure and security at SCOTT Sports.
+
+“ Digital transformation is taking hold across organizations in every sector, but as more turn towards the cloud it is important to remember that not all cloud-based applications will have the same access protocols needed to secure these environments. As such, we have enabled SafeNet Trusted Access customers with cloud-based authentication, to build and run their business activities in a multi-cloud world while providing the out-of-the-box security, scalability and reliability to meet the evolving threat landscape,” said Francois Lasnier, Vice President for Access Management solutions at Thales.
+
+About Thales Thales (Euronext Paris: HO) is a global technology leader shaping the world of tomorrow today. The Group provides solutions, services and products to customers in the aeronautics, space, transport, digital identity and security, and defence markets. With 80,000 employees in 68 countries, Thales generated sales of €19 billion in 2018 (on a pro forma basis including Gemalto). Thales is investing in particular in digital innovations — connectivity, Big Data, artificial intelligence and cybersecurity — technologies that support businesses, organisations and governments in their decisive moments.
+
+PLEASE VISIT
+
+Thales Group
+
+Digital Security","{'label': 'Positive', 'score': 0.9999352693557739}",positive,0.9999352693557739,1
+SEA FIRE Next Gen Radar System Begins Testing at Shore Integration Facility - Naval News,"Mon, 30 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDE5LzA5L3NlYS1maXJlLW5leHQtZ2VuLXJhZGFyLXN5c3RlbS1iZWdpbnMtdGVzdGluZy1hdC1zaG9yZS1pbnRlZ3JhdGlvbi1mYWNpbGl0eS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"SEA FIRE Next Gen Radar System Begins Testing at Shore Integration Facility Combined teams of DGA, the French Navy (Marine Nationale), Thales and Naval Group started putting the new SEA FIRE radar through its pace at the Shore Integration Facility (SIF) located in Southern France, near Toulon.
+
+The SEA FIRE is the next generation radar developed by Thales that will be fitted aboard the FDI (Frégate de Defense et d’Intervention – Intervention and Defense Frigates), the future class of frigate on order for the French Navy. Steel cut for the first ship of class is expected to take place in late October 2019.
+
+The SIF has been testing French Navy’s surface combatants combat systems since 1969.
+
+The combined team started testing a single array at the SIF in early September. A second array will be installed in 2020. The arrays are fitted on a full size mockup representative of the integrated mast (PSIM Panoramic Sensors and Intelligence Module ) of the future frigate. This mast was built at Naval Group’s Lorient shipyard and installed at the SIF in May this year. The first array was fitted on the mast in June.
+
+Artist impression of the latest (final?) design of the FDI
+
+The entire combat system of the FDI will eventually be tested at this facility, with an actual CIC of the future frigate and many actual sensors (such as electro optic ones) tracking actual ships, aircraft and other threats. Other sensors can be simulated, such as sonar data, in order to stress the combat management system which will be an evolution of Naval Group’s SETIS, the CMS already present aboard the FREMM frigates.
+
+According to Pierrick Etiemble, deputy director of mission and combat systems at Naval Group, testing actual equipment (sensors, computers, software) similar to those that will be fitted on the future ships at this land based facility allows to:
+
+De-risk and streamline the combat system integration
+
+Check and validate the performance of the various equipment and of the combat system in a safe/controlled environment
+
+The SEA FIRE is a multi function radar consisting in four non-rotating arrays (similar to the Lockheed Martin SPY-1 family of radars) and benefiting from the latest gallium nitride (GaN) high-power amplifier technology (similar to Raytheon SPY-6 family).
+
+The SEA FIRE provides early warning of potential attacks from conventional and emerging air and surface threats using long-range 3D surveillance, horizon search, and surface surveillance. Its 360-degree coverage can track 800 objects simultaneously without saturation at a range of up to 500 kilometers in the air and 80 kilometers on the surface.
+
+Inside the integrated mast: Thales’ Rémi Mongabure (surface radar bid director) showed us the internals of a SEA FIRE array: Each array is fitted with 8×12 TR (transmit/receive) modules.
+
+SEA FIRE features fully digital, software-controlled processing which is a game-changer for radar technology: It gives smaller vessels the performance of much larger ones and can be upgraded to meet client needs and new threats. Benefiting from Thales’ big data and cybersecurity expertise, SEA FIRE can automatically adapts to an incoming object’s characteristics.
+
+The SEA FIRE is put through its pace against actual targets such as vessels from the nearby Toulon naval base or aircraft from nearby air bases.
+
+SEA FIRE can provide fire control and uplink for ASTER familly of surface to air missiles, the datalink being integrated to the AESA antenna. Thales says its range and accuracy can support the full performance of current and future ASTER missiles. Plus, the high refresh rate allows the SEA FIRE to hold its grounds against emerging threats such as highly maneuvering and hyper-velocity projectiles or existing ones (such as ballistic missiles and UAVs).","{'label': 'Neutral', 'score': 0.9999961853027344}",neutral,0.9999961853027344,0
+UK Ministry of Defence chooses Leonardo/Thales protection system for RAF Shadow ISTAR fleet - Thales,"Thu, 12 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9wcmVzc19yZWxlYXNlL3VrLW1pbmlzdHJ5LWRlZmVuY2UtY2hvb3Nlcy1sZW9uYXJkb3RoYWxlcy1wcm90ZWN0aW9uLXN5c3RlbS1yYWbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"UK Ministry of Defence chooses Leonardo/Thales protection system for RAF Shadow ISTAR fleet Intelligence Surveillance Target Acquisition and Reconnaissance (ISTAR) Share this article
+
+
+
+LinkedIn
+
+The UK Ministry of Defence has chosen Leonardo and Thales, under a single source procurement, to deliver an integrated UK Defensive Aids System (DAS) to meet an Urgent Capability Requirement.
+
+The procurement will equip the RAF’s fleet of eight Shadow R1 intelligence-gathering aircraft, providing an advanced DAS which will protect the aircraft against latest-generation of Infra-Red (heat seeking) missiles.
+
+Designed, developed and manufactured in the UK, the system provides a sovereign capability which will be able to evolve in anticipation of changing threats to air platforms.
+
+The UCR will be delivered by a combined MOD/Leonardo/Thales team under a Leonardo prime systems integration contract, with the equipment being integrated onto the platform by Raytheon UK. Initial Operating Capability is targeted for early 2021. The system consists of the following subsystems:
+
+Thales “Elix-IR” Threat Warner
+
+Leonardo DAS Controller
+
+Leonardo “Miysis” Directed Infra-Red Counter Measure (DIRCM)
+
+Thales “Vicon” Countermeasures Dispensing System
+
+The single source selection by the MOD follows the recent SALT III international trials hosted by the Swedish Defence Materiel Administration in Sweden. There, the integrated Miysis/Elix-IR system, using a jamming waveform developed by the UK MOD’s Defence Science and Technology Laboratory, proved its ability to defeat Infra-Red missiles in live fire exercises.
+
+How the system works
+
+The integrated DAS brings together world-class capabilities in threat warning, self-protection co-ordination, countermeasures dispensing and in DIRCM. At the heart of the system, the DAS Controller is able to assess multiple threats to the aircraft and prioritise the appropriate response using the Countermeasure Dispensing System (CMDS) and Miysis DIRCM. Elix-IR is constantly on the lookout for missile and gunfire threats, providing long range, rapid and accurately-located alerts when they occur.
+
+The dual-head fit of the Miysis DIRCM provides 360 degree protection and the ability to defeat multiple threats simultaneously by accurately directing a jamming laser onto the missile’s seeker, confusing its guidance system and steering the missile away from the aircraft. The integrated and optimised threat-warning/threat-defeat chain ensures that sequential incoming missiles are thwarted quickly and effectively.
+
+Shadow
+
+The RAF’s fleet of Shadow aircraft, which are based on the King Air 350CER, are operated by 14 Squadron out of RAF Waddington. Because of the ISR role of the aircraft, it may be required to fly through hostile airspace, necessitating protection from enemy forces. A particularly deadly and prevalent threat are heat-seeking, Man-Portable Air-Defence Systems (MANPADS), which are widely employed around the world. The Shadow’s new defensive aids suite will effectively counter this threat, being able to rapidly defeat incoming missiles.
+
+About Leonardo
+
+Leonardo is among the top ten global players in Aerospace, Defence and Security and Italy’s main industrial company. Organised into seven business divisions (Helicopters; Aircraft; Aero-structures; Airborne & Space Systems; Land & Naval Defence Electronics; Defence Systems; Security & Information Systems), Leonardo operates in the most competitive international markets by leveraging its areas of technology and product leadership. Listed on the Milan Stock Exchange (LDO), in 2017 Leonardo recorded consolidated restated revenues of 11.7 billion Euros and has a significant industrial presence in Italy, the UK, the U.S. and Poland.
+
+For the RAF Shadow, Leonardo will draw on its experience providing protective systems for the UK’s Eurofighter Typhoon and AW159 Wildcat, AW101 Merlin, Puma and Chinook helicopter fleets. The Company was also contracted in April to provide a UK sovereign defensive aids suite for the British Army’s new fleet of Apache AH-64E helicopters.
+
+While being smaller, lighter and drawing less power than other DIRCM systems on the market, the Miysis DIRCM still offers the full spherical coverage required to counter advanced threats. Its Laser Pointer Tracker offers sophisticated tracking to counter long range threats and exceptional response speed to counter short range threats. A multi-band IRCM can defeat even advanced threats. Miysis has been selected by customers in Canada and the Middle East.
+
+Contact: Leonardo Press Office
+
+pressoffice@leonardocompany.com
+
++39 0632473313
+
+About Thales
+
+Thales is a global technology leader for the Aerospace, Transport, Defence and Security markets. With 62,000 employees in 56 countries, Thales reported sales of €14 billion in 2016. With over 22,000 engineers and researchers, Thales has a unique capability to design and deploy equipment, systems and services to meet the most complex security requirements. Its exceptional international footprint allows it to work closely with its customers all over the world. https://www.thalesgroup.com
+
+Elix-IRTM is a passive multi-function Threat Warning System that uses single wide spectrum colour Infra-Red sensing technology to deliver simultaneous and unimpeded Missile Approach Warning, Hostile Fire Indication and Situational Awareness from a single sensor system to increase overall platform survivability and help to mitigate the ‘Risk to Life’. Elix-IRTM is an ITAR free UK sovereign capability, developed in collaboration with the UK MOD that ensures Freedom of Action that assures a rapid and timely response to countering evolving threats and supporting new theatres of operation. Designed from the outset to provide the capabilities required to support a DIRCM and output data in support of off-board countermeasures, such as Smart Stores, it enables greater exploitation and utilisation of platform capabilities that support broader operational employment and increased mission success rates.
+
+Contact: Thales Media Relations
+
+Maria Mellouli – Defence Aerospace
+
+maria.mellouli@thalesgroup.com
+
++33 6 89 73 25 47
+
+","{'label': 'Neutral', 'score': 0.9993166923522949}",neutral,0.9993166923522949,0
+Thales supports Finnish Defence Forces for Leopard tank crew training - EDR Magazine,"Mon, 09 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy1zdXBwb3J0cy1maW5uaXNoLWRlZmVuY2UtZm9yY2VzLWZvci1sZW9wYXJkLXRhbmstY3Jldy10cmFpbmluZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"On 28th June, Thales signed a contract with the Finnish Defence Forces to upgrade their Leopard 2A6FIN main battle tank simulators. This is Thales’s first training & simulation contract for Finland’s land forces.
+
+With the upgraded systems, the Finnish Army will have a state-of-the-art training solution incorporating the latest virtual and multilevel simulation technologies to provide both technical instruction for crewmembers and tactical training at platoon level. The instructor station is designed to supervise up to four exercises at the same time, with up to four vehicles taking part in each exercise. The simulation includes a high-fidelity turret with gunner and commander stations, a co-located driver position and a simulated ammunition loader function.
+
+This contract is a success for Thales’s new AFV Core range of armoured fighting vehicle simulation solutions. AFV Core simulators feature an open, high-reliability, scalable architecture and synthetic environment compliant with the latest international standards.
+
+Thales has solid expertise in simulation for land forces, having provided simulators for France’s Armoured Cavalry Arm and infantry fighting vehicles (Leclerc main battle tank, VBCIs, etc.), the British Army’s Scout armoured reconnaissance vehicle, and the Royal Netherlands Army’s largest military training platform (TACTIS).
+
+This latest success is a further endorsement of Thales’s expertise and strengthens its position as a global player in digitised training solutions for land forces.
+
+Photo courtesy Thales","{'label': 'Neutral', 'score': 0.705268383026123}",neutral,0.705268383026123,0
+Arms companies are hiding behind governments – it’s time we held them accountable - Amnesty International,"Mon, 09 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFtbmVzdHkub3JnL2VuL2xhdGVzdC9uZXdzLzIwMTkvMDkvYXJtcy1jb21wYW5pZXMtbXVzdC1iZS1oZWxkLWFjY291bnRhYmxlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Patrick Wilcken, Researcher on Arms Control at Amnesty International
+
+This week one of the world’s biggest arms fairs gets underway in London. Around 1,000 arms companies will set up shop at DSEI (Defence and Security Equipment International), selling everything from killer drones to tanks and tear gas. Among the official guests are representatives from Saudi Arabia, UAE, Israel and Egypt.
+
+Over the past few years pressure has been building on governments to rethink reckless arms deals. Several countries have partly or totally suspended arms sales to Saudi Arabia and the UAE over human rights violations in Yemen, and the UK is being pursued in the courts for its continued exports to these countries.
+
+It's often possible to trace weapons used in attacks on civilians to specific companies
+
+But so far, arms companies have not been subject to the same level of scrutiny, even though it’s often possible to trace weapons used in attacks on civilians to specific companies. For example, the French company Renault Trucks (now Arquus) exported more than 200 armoured vehicles to Egyptian security forces throughout the bloodiest period of the country’s recent upheavals. Masses of video and photo evidence analyzed by Amnesty shows these vehicles being used by security forces to violently disperse protests and crush dissent.
+
+In Yemen, Amnesty researchers analyzed weapon remnants from the scene of a 2017 airstrike by Saudi Arabia/UAE-led coalition forces in Sana’a in which 16 civilians were killed, and found they had been manufactured by US defence giant Raytheon. Another Amnesty investigation found that US company Lockheed Martin made the bomb used in an airstrike which killed three members of one family in their home in Ta’iz governorate in Yemen in January 2018.
+
+These companies didn't decide to drop those bombs. But that doesn’t mean they can wash their hands of responsibility
+
+Of course, these companies did not make the decision to drop those bombs or deploy those tanks. But that doesn’t mean they can wash their hands of responsibility. Like all companies, corporates operating in the defence sector have a responsibility to respect human rights wherever they operate, independently of state regulatory frameworks. This means undertaking due diligence to assess and address human rights risks and abuses related to their business – including how clients like national armies and police forces use their weaponry.
+
+Amnesty International recently contacted 22 arms companies and asked them how they manage the human rights risks associated with the misuse of their products. Not one of those companies was able to adequately explain how they meet their responsibilities under international standards like the UN Guiding Principles on Business and Human Rights (UNGPs). Most did not even seem to recognize that they had responsibilities in relation to human rights and seemed to think complying with state export and licensing laws was enough.
+
+For example, the French company Thales stated that “once delivered to a customer, our company has no control at all over the use – or misuse – that could be made of our technologies.”
+
+In response to questions about arms sales to Saudi Arabia, UK-based BAE Systems replied, “Our activities in Saudi Arabia are subject to UK government approval and oversight.”
+
+When we asked Raytheon what steps it had taken to investigate and respond to the incident in Sana’a, the company said: “Due to legal constraints, customer relations issues… Raytheon does not provide information on our products, customers or operational issues.” It went on to say that military and security equipment is subject to a government review which includes “consideration of international human rights and international law.”
+
+Other companies – Rolls-Royce, Lockheed Martin, Saab and Airbus, all of whom trade with the Saudi Arabia/UAE-led coalition – simply stressed that they are bound by government licensing decisions which take account of human rights risks.
+
+This lack of corporate responsibility and accountability has gone on for too long
+
+Fourteen companies did not reply to Amnesty’s requests for information, including Russian arms exporter Rosoboronexport, which has supplied military equipment to the Syrian armed forces, who stand accused of war crimes and crimes against humanity.
+
+This lack of corporate responsibility and accountability has gone on for too long. Whatever the role of the state, companies make decisions at the highest level of the organisation to tender for these high-risk contracts, and must take responsibility for those decisions and their implications.
+
+Failure to conduct proper due diligence could potentially expose arms companies to prosecution for complicity in war crimes
+
+“corporate complicity” in international crimes continue to evolve and could in future apply to arms companies that continue supplying weapons in the knowledge that they may be used in violations of international law. This means that failure to conduct proper due diligence could potentially expose arms companies to prosecution for complicity in war crimes.
+
+Every time DSEI comes to London, hundreds of protesters line the streets outside, outraged that the UK government is still rolling out the red carpet for states which use arms for serious human rights violations. This kind of activism is becoming more widespread; in May, for example, port workers across Europe blocked Saudi arms shipments from being loaded onto boats. As awareness grows of the role of the arms trade in serious human rights violations so does the public and legal backlash. Arms companies will not be able to hide in the shadows forever.","{'label': 'Neutral', 'score': 0.9988572597503662}",neutral,0.9988572597503662,0
+Thales to provide digital EW to the Netherlands and Portuguese navies - EDR Magazine,"Wed, 11 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy10by1wcm92aWRlLWRpZ2l0YWwtZXctdG8tdGhlLW5ldGhlcmxhbmRzLWFuZC1wb3J0dWd1ZXNlLW5hdmllc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Luca Peruzzi
+
+The Netherlands Defence Materiel Organisation (DMO) has selected Thales’s Vigile D digital wideband Radar Electronic Support Measures (RESM) as part of an equipment upgrade for three Royal Netherlands Navy’s warships and two Portuguese Navy’s frigates undergoing retrofit in the Netherlands.
+
+The Netherlands’ State Secretary for Defence, Barbara Visser, signed the contract for the Thales EW equipment on the first day of DSEI 2019 exhibition. Developed by Thales UK for the Royal Navy main frontline vessels represented by Type 45 Daring-class destroyers, the digital wideband RESM Vigile D has been developed to enables much greater and more accurate threat detection in an increasingly congested electromagnetic environment, thus increasing the probability of operational success.
+
+With the rapidly changing RF spectrum and the explosion of civilian communications such as 3G and 4G mobile communications, Wi-Max, and the introduction of complex emitters including wideband SATCOM, multi-function radars and low-probability of intercept radars, Thales has developed the RESM Vigile D which uses a patented wideband digital receiver technology that overcomes the limitations of previous analogue receiver-based systems and is capable of monitoring multiple-overlapping signals maintaining 100% probability of intercept (POI) against all signals, regardless of type and power. This means that signals of interest such as threat emitters are not masked by high-power signals.
+
+Capable of simultaneous continuous wave and pulse signal detection, which high-power signals are not able to mask lower power, requiring no RF interface management filters, the Vigile D covers a 2-18 GHz frequency band with extended capabilities to 0.5-40 GHz, and a system sensitivity of -65 dBmi or higher sensitivity models on request.
+
+Thanks to a software-defined and easily upgradable architecture, the Vigile D can maintain a capability to remain current for a longer life-span, dramatically reducing the trough-life cost of ownership.
+
+“Thales is pleased that DMO has recognized the benefits of the digital technology in Vigile D. As the Netherlands is an advanced user of electronic warfare technology, they are also very much a landmark customer for Thales. The adoption of the Vigile D technology by two other NATO navies in addition to the UK Royal Navy, offers enhanced data exchange between allied warships. Other NATO navies are now actively exploring the integration of Vigile D into their fleets, which will broaden the Vigile-D family and generate synergies and benefits across a wide community, for years to come”, said Victor Chavez, Thales CEO in the UK.
+
+As anticipated, the Vigile D will equip the two Karel Doorman-class or ‘M-frigate’ in service with the Portuguese Navy, which are receiving a mid-life upgrade at RNLN shipyard in Den Helder, as well as three Dutch Navy’s vessels which hasn’t been identified by Thales press statement.
+
+Photo courtesy Thales","{'label': 'Neutral', 'score': 0.8538548946380615}",neutral,0.8538548946380615,0
+StandardAero and Thales partner on wearable heads-up display - Skies Magazine,"Thu, 26 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vc2tpZXNtYWcuY29tL3ByZXNzLXJlbGVhc2VzL3N0YW5kYXJkYWVyby1hbmQtdGhhbGVzLXBhcnRuZXItb24td2VhcmFibGUtaGVhZC11cC1kaXNwbGF5L9IBZGh0dHBzOi8vc2tpZXNtYWcuY29tL3ByZXNzLXJlbGVhc2VzL3N0YW5kYXJkYWVyby1hbmQtdGhhbGVzLXBhcnRuZXItb24td2VhcmFibGUtaGVhZC11cC1kaXNwbGF5Lz9hbXA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Press Release | September 26, 2019
+
+Estimated reading time 2 minutes, 28 seconds.
+
+StandardAero and Thales recently signed a long-term partnership agreement for the certification and distribution of the Thales TopMax wearable heads-up display (HUD) for use in business aviation aircraft.
+
+TopMax is an industry first, resulting from Thales’ decades-long experience in military helmet mounted display systems (HMDS) and civilian HUD. It is the only wearable HUD system whose ergonomics and functionalities are specifically adapted to the needs of civil pilots, whose missions are longer and therefore need a light weight wearable HUD. At a glance, pilots with TopMax have instant and intuitive access to critical flight information for navigation and safety. TopMax is unique in the industry as its synthetic vision system (SVS) provides a full color, unlimited 360-degree field-of-regard. The SVS system also allows for off-axis symbology including cross wind, synthetic runway, extended navigational centerline and 3D traffic display for advanced situational awareness and safety.
+
+Utilizing its in-house organizational delegation authorization (ODA), StandardAero anticipates the approval of several supplemental type certificates (STCs) for TopMax systems in multiple business aviation aircraft. Once certified, Thales and StandardAero will collaborate in delivering this new technology to market that is easily installed for minimal aircraft downtime.
+
+“Thanks to this partnership, business jet operators now have access to a worldwide network and a one-stop shop to have Thales TopMax installed on their aircraft” said Marc Drobny, president of StandardAero Business Aviation.
+
+“Thales TopMax will revolutionize how pilots fly business aircraft,” said Michel Grenier head of Avionics in North America for Thales. “The system will offer identical operational benefits for both take-off and landing as current head-up displays, along with numerous other operational capabilities.”
+
+Top Max offers an ideal combination of operational, technical and life-cycle cost benefits for aircraft owners and operators. For pilots, the lightweight design and simplicity of use make it an ideal system for advanced avionics interfacing.","{'label': 'Positive', 'score': 0.9883460402488708}",positive,0.9883460402488708,1
+"The Faces of Thales - Dan Keighran, VC - Thales","Wed, 04 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvbmV3cy9mYWNlcy10aGFsZXMtZGFuLWtlaWdocmFuLXZj0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Faces of Thales - Dan Keighran, VC Faces of Thales Share this article
+
+
+
+LinkedIn
+
+If the name sounds familiar it’s no surprise. Our newest Close Combat Advisor has been the lead story of every major news channel and newspaper in the country. Dan has been in the media spotlight since late 2012 when he was awarded the highest honour achievable from the Australian Defence Force – the Victoria Cross. Get to know him here.
+
+Daniel Alan Keighran was born in Nambour, on Queensland’s Sunshine Coast. He stayed there with his mother and older sister until he was 5, then moved not too far away to a suburb called Maleny.
+
+“It was good being on the coast as a kid,” he says. “My mum’s parents were there and I really looked up to my Grandfather. He was definitely a father figure for me growing up.”
+
+By the time Dan was 11, his parents had rekindled their relationship and moved the family to a small town 100km north of Bundaberg called Lowmead.
+
+“That was tough,” Dan says as he recounts the move. “We had nothing there, sleeping on dirt floors, no power or anything like that until they established the farm. I had to run 6km to school and back each day until I went to high school at Rosedale which is about a 35 minute bus ride.”
+
+Dan’s parents began breeding horses and cattle on the farm, and as he recalls it, working there before and after school was tough.
+
+“It was a rough upbringing for a kid for sure,” he says. “It may sound like fun because I learned to shoot, ride, I’d take some of the dogs with me and stay out overnight on the property, but it was a hard living. I was lean and seriously fit and no stranger to hard work from a young age.”
+
+Towards the end of his schooling, Dan began searching for work opportunities.
+
+“Let’s be honest here, employment opportunities up there in rural Queensland are just non-existent,” he notes. “There was no way I was staying on the farm, I knew that much, but I didn’t know what else to do.”
+
+The Army
+
+“I was really lucky to have someone I looked up to, and that was my Grandfather. He was an Artillery Sergeant in the Second World War and after speaking with him about it, he motivated me to join the Defence Force. So, I applied, did all the testing and had been approved part way through Year 12. As you can imagine, my final results suffered because of it. Instead of studying I was working to save up cash before I hopped on the bus and left for basic training at Kapooka that December.”
+
+Dan’s Grandfather had advised him to join the Infantry as a Rifleman, so after Kapooka he went straight to Singleton in New South Wales to the School of Infantry.
+
+“I did my Initial Employment Training as a Rifleman, then got posted to 6th Royal Australian Regiment [6RAR] in Brisbane, and I was still only 17. I was the youngest guy there. I think maybe because of my upbringing I was used to early mornings, late nights and hard work, so I managed to fit in really quickly.
+
+“I got some great advice before I joined – be the grey man. That really worked for me. You never wanted to stand out,” he laughs. “I followed that advice and it worked for me for years.”
+
+Dan would go on to deploy to Rifle Company Butterworth in Malaysia in 2001 and again in 2004, East Timor in 2003-2004, Iraq in 2006, and Afghanistan in 2007 and 2010.
+
+“I was lucky enough to be one of the first people to get qualified as a Bushmaster Driver,” he says with a smile. “So, in Iraq I was driving a Bushmaster around, and same thing in Afghanistan in 2007 as part of the Special Operations Task Group. By then I was a Commander, so I really specialised in the PMVs.
+
+“In 2010 I deployed again to Afghanistan with the vehicles, but half way through the trip I went dismounted, so doing normal infantry stuff again and also working as a mentor for the Afghan National Army. That’s when the action that I was awarded the VC happened.”
+
+The Day it All Changed
+
+On August 24 2010 Dan’s time as the “grey man” would come to an abrupt end after a joint Australian and Afghan patrol in a village called Derapet in the Uruzgan province.
+
+“We were doing a village clearance, a Key Leader Engagement job and we got bumped by a whole lot of guys,” he says casually. Dan has had to retell this story countless times, so he is quite understated about the whole thing. “The Army deemed that because of my actions that day that none of our guys were killed, and I didn’t get killed somehow and I was awarded the Victoria Cross for it.”
+
+Although Dan has condensed the story into something akin to taking a Sunday stroll, in fact, what he did was anything but ordinary. In a nutshell, Dan repeatedly exposed himself to sustained machine gun and small arms fire to help direct the return fire from his soldiers, and to keep the bullets away from his mates while they treated a fellow soldier who had been wounded. His VC citation reads:
+
+“For the most conspicuous acts of gallantry and extreme devotion to duty in action in circumstances of great peril at Derapet, Uruzgan province, Afghanistan, as part of the Mentoring Task Force One on Operation SLIPPER.”
+
+After reading the details of his actions in the full citation, it is incredible that Dan is here to tell the tale.
+
+“I should be dead,” he says matter-of-factly. “I say that all the time, and I mean it. For what I did that day I absolutely should be dead. I was just lucky I guess. I could see the bullets strike the ground in front of me and behind me, and I could hear them fly past my head. I’m just really lucky that I somehow managed to make it through.”
+
+When asked if he relives that day, Dan shrugs and shakes his head.
+
+“No, not at all,” he says. “I mean I’m still doing talks on the circuit, so I’ll go into various organisations and talk to them about leadership, teamwork, making decisions in high pressure environments, the importance of personal ethos and core values and things like that. So I talk about it a lot, but I don’t think about it apart from that.”
+
+The Spotlight
+
+In 2011 Dan discharged from the Army and began working in the mines at Kalgoorlie, in Western Australia.
+
+“I was still a Reservist, but I was doing some underground blasting in the mines and I got this phone call from the Chief saying he was about to board his jet and was on his way out to see me at Kalgoorlie,” he smiles. “He didn’t tell me why or anything like that, so as you can imagine my mind was racing trying to figure out what I’d done. Anyway, it turned out to be about the VC. Then, on the 1st of November 2012 I was officially presented with the Victoria Cross. That was a full on day.”
+
+Gone were Dan’s days of blending in as he was thrust into the spotlight, on every TV news channel, print and digital newspaper and social media.
+
+“I can’t really describe what that’s like,” he laughs. “You go from staying away from the media to that! It took a long time for me to adjust to life like that. I’m ok now, but for the first few years after it I was a bit lost on how to deal with it.”
+
+Shortly after the investiture Dan left the mines and started his own consultancy company.
+
+“I was consulting back to the defence industry,” he says. “I did some work for Australian Defence Apparel (ADA) in their R&D department and then I became an Ambassador for them for around four years. I was also on the speaking circuit and I’m on the Board for the Australian War Memorial, so I kept busy.”
+
+To top it all off, Dan is currently doing his Executive Masters in Business Administration and is set to finish at the end of the year.
+
+“Because of that and a few other projects I need to close down I’m doing two days per week with Thales at the moment, but I’ll be full time in January next year,” he says. “I have a two and a half year old son and I really wanted some stability in my life for him. Sure my role will mean travel, but nothing like what I have been doing. Thales provides stability for us and it also provides flexibility, and that’s really important for any business.
+
+“With my experience with PMVs and the land battle space, Thales was an easy and natural fit.”
+
+Dan’s Life Tips","{'label': 'Neutral', 'score': 0.9998852014541626}",neutral,0.9998852014541626,0
+Thales and Vodafone conduct driverless trial using 5G - International Railway Journal,"Wed, 18 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9zaWduYWxsaW5nL3RoYWxlcy1hbmQtdm9kYWZvbmUtY29uZHVjdC1kcml2ZXJsZXNzLXRyaWFsLXVzaW5nLTVnL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The driverless trials are being carried out at the Smart Rail Connectivity Campus in Erzgebirge, Germany, using Thales’ Lucy laboratory train, while Vodafone has installed one of the first 5G base stations in the Erzgebirge region of Saxony, Germany.
+
+To enable Lucy to be controlled remotely, Vodafone uses the 5G technology Network Slicing, which helps different virtual networks share a physical network structure, but provides a separate 5G network for railway trials. This means that remote-controlled mobile radio capacities are always available to control the train remotely, even if numerous users in the immediate vicinity also surf the internet. In addition, the data is processed directly on-site in a small data centre in the immediate vicinity of the mobile base station via a Mobile Edge Cloud (MEC). Because the data does not have to travel long distances, it can be processed without delay. The 5G technology enables bandwidths greater than 500MB/second on the test track and reduces the latency, or data delay, to less than 10 milliseconds.
+
+Thales has provided the control and safety systems for the 5G project in the Erzgebirge. This includes the installation of the test environment and sensors, along with a remote control system for the train in cooperation with the German Aerospace Centre (DLR) and Railergy.
+
+“We’re putting 5G on the tracks for the first time,” says Mr Alexander Saul, managing director corporate customers with Vodafone Germany. “Together with our industrial partners, we are examining which new applications will be possible with 5G.”
+
+“5G opens up a whole world of new possibilities,” says Mr Yves Joannic, managing director of Thales Germany and responsible for the company’s Transportation division. “Up to and including 4G, consumers were the first to benefit from every new generation of wireless technologies. By contrast, 5G’s main interest lies in B2B markets. This next generation of mobile technology will be the foundation for the digital transformation of B2B and, in the broadest sense, will be the backbone of industrial operations, which will benefit the rail sector in particular.”
+
+Support
+
+The project is being supported by the Federal Ministry of Education and Research’s Change Through Innovation programme.
+
+The Smart Rail Connectivity Campus is a joint project of more than 100 partners from industry and research, led by the Technical University of Chemnitz, the city of Annaberg-Buchholz, with the participation of Erzgebirge Railway, the Fraunhofer Institute, ENAS and IWU.","{'label': 'Neutral', 'score': 0.9432501792907715}",neutral,0.9432501792907715,0
+Operation Relentless – the UK's longest operational mission - Thales,"Thu, 26 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL29wZXJhdGlvbi1yZWxlbnRsZXNzLXVrcy1sb25nZXN0LW9wZXJhdGlvbmFsLW1pc3Npb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Operation Relentless – the UK’s longest operational mission Share this article
+
+
+
+LinkedIn
+
+In April 1969 the Royal Navy started what has grown to become the longest sustained military operation ever undertaken by the UK. Known as “Operation Relentless”, the Navy took over from the Royal Air Force the role of providing the UK’s Strategic Deterrent and over the past 50 years, a Royal Navy ballistic missile submarine has patrolled every single day, without interruption, providing the nation’s deterrent and helping keep the UK safe.
+
+Operation Relentless has very much been a national endeavour due to its sheer scale and complexity and for all of those 50 years Thales and its historical constituent businesses have been right at the very heart of activities.
+
+Captain Iain Breckenridge OBE, receives artist’s rendering from Steve Lockley
+
+The role of a submarine is to remain undetected whilst carrying out its mission. To do that it must have an acute awareness of its own environment and the ability to detect potential threats way before the submarine itself runs the risk of being detected. For that you need the most advanced sonar, electronic warfare and visual sensors that technology can provide and that is where Thales, through its former businesses such as Racal Defence Electronics, MEL, Ferranti-Thomson Sonar, Plessey Underwater Systems and Barr & Stroud, have all played a crucial supporting role.
+
+In the early days of Operation Relentless the strategic role was carried out by the four Resolution Class ballistic missile submarine (HMS Resolution, HMS Renown, HMS Repulse and HMS Revenge). In recent years the Vanguard Class (HMS Vanguard, HMS Victorious, HMS Vengeance, HMS Vigilant) have continued operations. Consistent throughout however have been the efforts of the men and women of the Royal Navy and its supporting agencies at the Clyde Naval Base at Faslane, all supported by the efforts of our own people at Thales sites across the UK.
+
+With that in mind, Thales recognised their efforts by hosting a dinner at the Thales Glasgow site on the evening of 19th September 2019 where Steve Lockley, General Manager of Optronics and Missile Electronics, presented Captain Iain Breckenridge OBE, representing the Royal Navy, with an artist’s rendering of the very first periscope delivered to the Royal Navy in 1917 from Barr & Stroud, as a symbol of our enduring support and friendship.
+
+You can find out more about our work with the Royal Navy and our periscope technology here.","{'label': 'Neutral', 'score': 0.9981278777122498}",neutral,0.9981278777122498,0
+Babcock Team 31 selected as preferred bidder for UK Type 31 frigate programme - Naval News,"Thu, 12 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL2V2ZW50LW5ld3MvZHNlaS0yMDE5LzIwMTkvMDkvYmFiY29jay10ZWFtLTMxLXNlbGVjdGVkLWFzLXByZWZlcnJlZC1iaWRkZXItZm9yLXVrLXR5cGUtMzEtZnJpZ2F0ZS1wcm9ncmFtbWUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Babcock Team 31 selected as preferred bidder for UK Type 31 frigate programme Babcock Team 31 has been selected by the UK Ministry of Defence (MOD) as the preferred bidder to deliver its new warships. Led by Babcock, the Aerospace and Defence company, and in partnership with the Thales Group, the T31 general purpose frigate programme will provide the UK Government with a fleet of five ships, at an average production cost of £250 million per ship.
+
+Following a comprehensive competitive process, Arrowhead 140, a capable, adaptable and technology-enabled global frigate will be the UK Royal Navy’s newest class of warships, with the first ship scheduled for launch in 2023.
+
+At its height the programme will maximise a workforce of around 1250 highly- skilled roles in multiple locations throughout the UK, with around 150 new technical apprenticeships likely to be developed. The work is expected to support an additional 1250 roles within the wider UK supply chain.
+
+With Babcock’s Rosyth facility as the central integration site, the solution provides value for money and squarely supports the principles of the National Shipbuilding Strategy. It builds on the knowledge and expertise developed during the Queen Elizabeth aircraft carrier modular build programme.
+
+The announcement follows a competitive design phase where Babcock Team 31 was chosen alongside two other consortia to respond to the UK MOD’s requirements.
+
+Work on the fleet of five ships will begin immediately following formal contract award later this financial year, with detailed design work to start now and manufacture commencing in 2021 and concluding in 2027.
+
+“It has been a tough competition and we are absolutely delighted that Arrowhead 140 has been recognised as offering the best design, build and delivery solution for the UK’s Royal Navy Type 31 frigates.
+
+“Driven by innovation and backed by experience and heritage, Arrowhead 140 is a modern warship that will meet the maritime threats of today and tomorrow, with British ingenuity and engineering at its core. It provides a flexible, adaptable platform that delivers value for money and supports the UK’s National Shipbuilding Strategy.”
+
+Archie Bethel, CEO Babcock
+
+Arrowhead 140 will offer the Royal Navy a new class of ship with a proven ability to deliver a range of peacekeeping, humanitarian and warfighting capabilities whilst offering communities and supply chains throughout the UK a wide range of economic and employment opportunities.
+
+A key element of the Type31 programme is to supply a design with the potential to secure a range of export orders thereby supporting the UK economy and UK jobs. Arrowhead 140 will offer export customers an unrivalled blend of price, capability and flexibility backed by the Royal Navy’s world-class experience and Babcock looks forward to working closely with DIT and MOD in this regard.
+
+Arrowhead 140 is a multi-role frigate equipping today’s mariner with real-time data to support immediate and complex decision-making.
+
+The frigate is engineered to minimise through-life costs whilst delivering a truly leading-edge ship, featuring an established, proven and exportable combat management system provided by Thales.
+
+“Thales is delighted to be part of the successful Team 31 working with Babcock and has been at the forefront of innovation with the Royal Navy for over 100 years.
+
+“With the announcement today that Arrowhead 140 has been selected as the preferred bidder for the new Type 31e frigate, the Royal Navy will join the global community of 26 navies utilising the Thales Tacticos combat management system. Thales already provides the eyes and ears of the Royal Navy and will now provide the digital heart of the UK’s next generation frigates.”
+
+Victor Chavez, Chief Executive of Thales in the UK
+
+Babcock will now enter a period of detailed discussions with the MOD and supply chain prior to formal contract award expected later this year.","{'label': 'Neutral', 'score': 0.9998846054077148}",neutral,0.9998846054077148,0
+Netherlands Navy Selects Thales' Digital Electronic Warfare for its Ships - Force Magazine,"Thu, 12 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZm9yY2VpbmRpYS5uZXQvbmV0aGVybGFuZHMtbmF2eS1zZWxlY3RzLXRoYWxlcy1kaWdpdGFsLWVsZWN0cm9uaWMtd2FyZmFyZS1zaGlwcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Vigile D (Radar Electronic Support Measures) solution from Thales is selected for the upgrade of three Royal Netherlands Navy vessels, and two Portuguese Navy frigates
+
+The Netherlands Defence Materiel Organisation (DMO), has selected Thales’s innovative digital wideband Radar Electronic Support Measures product Vigile D, as part of an equipment upgrade for three Royal Netherlands Navy warships, and two Portuguese Navy frigates undergoing retrofit in the Netherlands, the company said in a statement on September 10.
+
+“Vigile D illustrates Thales Electronic Warfare digitalisation. With modern electronic warfare (EW) systems required to cope with the unprecedented growth in electromagnetic transmissions across the electromagnetic spectrum (EMS), traditional systems are now suffering from unparalleled saturation, which reduces the probability of accurate threat detection. The need to protect against complex and diverse threats that exploit the EMS is more critical than ever. Applying our transformative expertise and advanced digital technology, only Vigile D will detect multiple signals simultaneously across a wide frequency range with 100% multi-signal probability detection,” Thales statement said.
+
+
+
+
+
+
+
+
+
+Our digital technology provides the earliest possible warning of radar guided weapons, targeting systems or covertly operating forces, with greater reliability and accuracy than conventional systems even where the electromagnetic spectrum is congested.
+
+“In addition to this, because of Thales’s continuous commitment to progress, the company is making EW more versatile and transferable as a military capability; the equipment delivered to DMO uses easily upgradeable software and wideband digital receiver technology, making use of more affordable off-the-shelf technology,” the statement added.
+
+CEO Thales in the UK, Victor Chavez, said, “Thales is pleased that DMO has recognised the benefits of the digital technology in Vigile D. As the Netherlands is an advanced user of electronic warfare technology, they are also very much a landmark customer for Thales. The adoption of the Vigile D technology by two other NATO navies in addition to the UK Royal Navy, offers enhanced data exchange between allied warships. Other NATO navies are now actively exploring the integration of Vigile-D onto their fleets, which will broaden the Vigile-D family and generate synergies and benefits across a wide community, for years to come.”","{'label': 'Positive', 'score': 0.9993652701377869}",positive,0.9993652701377869,1
+New Defensive Suites for RAF Shadows - Defense Update,"Wed, 11 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTkwOTExX3NoYWRvd19kYXMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The UK Ministry of Defence has chosen Leonardo/Thales protection system to protect the RAF Shadow ISTAR fleet. This single-source selection by the MOD follows the recent SALT III international trials hosted by the Swedish Defence Materiel Administration in Sweden. There, the integrated Miysis/Elix-IR system, using a jamming waveform developed by the UK MOD’s Defence Science and Technology Laboratory, proved its ability to defeat Infra-Red missiles in live-fire exercises.
+
+The UK Ministry of Defence has chosen Leonardo and Thales, under a single-source procurement, to deliver an integrated Defensive Aids System (DAS) under an Urgent Capability Requirement, equipping the eight RAF King Air 350CER Shadow R1 aircraft. The new system will enhance the protection of those intelligence, surveillance, and reconnaissance (ISR) aircraft that have been exposed to advanced, latest generation heat-seeking man-portable air defense systems (MANPADS) and another surface to air threats. The UCR will be delivered by a combined MOD/Leonardo/Thales team under a Leonardo prime systems integration contract, with the equipment being integrated with the platform by Raytheon UK. Initial Operating Capability is targeted for early 2021.
+
+The suite consists of a combination of four elements – a threat warning and defensive aids system, comprising a DIRCM and countermeasures dispenser. Thales’ Elix-IR threat warning system was selected, with the Miysis Directed Infra-Red Countermeasure (DIRCM) from Leonardo and the Vicon countermeasure dispensing system, also from Thales.
+
+Elix-IR is constantly on the lookout for missile and gunfire threats, providing long-range, rapid and accurately-located alerts when they occur.
+
+The DAS Controller is able to assess multiple threats to the aircraft and prioritize the appropriate response using the Countermeasure Dispensing System (CMDS) and Miysis DIRCM.
+
+The dual-head fit of the Miysis DIRCM provides 360-degree protection and the ability to defeat multiple threats simultaneously by accurately directing a jamming laser onto the missile’s seeker, confusing its guidance system and steering the missile away from the aircraft. The integrated and optimized threat-warning/threat-defeat chain ensures that sequential incoming missiles are thwarted quickly and effectively.","{'label': 'Neutral', 'score': 0.9907742142677307}",neutral,0.9907742142677307,0
+France's Thales wins Swiss air surveillance contract - SWI swissinfo.ch - SWI swissinfo.ch in English,"Thu, 19 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN3aXNzaW5mby5jaC9lbmcvc29jaWV0eS9mcmFuY2Utcy10aGFsZXMtd2lucy1zd2lzcy1haXItc3VydmVpbGxhbmNlLWNvbnRyYWN0LzQ1MjQxNzEw0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"France’s Thales wins Swiss air surveillance contract
+
+The order will replace the current Florako system that has been monitoring Swiss air space round-the-clock since 2005. Keystone / Str
+
+Switzerland has chosen Thales with Skyview as its new airspace surveillance and flight operations system.
+
+2 minutes
+
+According to the announcement by armasuisse, (Federal office for defence procurement) on Thursday, Thales’ command and control system was chosen for its value for money and the Skyview system was the one that best met the Swiss military’s requirement.
+
+It beat out two other competitors – American Raytheon and Swedish Saab – to clinch the deal after 12 months of testing in Switzerland. The request to acquire the new system will be made to the parliament.
+
+Currently Switzerland uses the Florako airspace surveillance and control system that has been monitoring Swiss air space round-the-clock since 2005. It comprises a Ralus radar system (that collects the data and provides the image of the air situation) and a Lunas communications system (that reproduces all the data on the screen to enable the planning of military maneuvers).
+
+Florako is intended to identify civilian and military aircraft (planes, helicopters and drones) and to conduct Air Force operations, including ground-to-air defence.
+
+Air 2030
+
+The new air surveillance system “C2Air project” is part of the army’s Air 2030 procurement programme that includes contracts for the purchase of around 40 new fighter jets, a ground-based air defence system and radar.
+
+The total budget for Air 2030 is CHF8 billion (a little over $8 billion) with the fighter jets alone accounting for CHF6 billion.
+
+In contention for the Swiss fighter jet contract are the French Rafale (Dassault), German Eurofighter (Airbus), and from the American side, the successor to the FA-18, the Boeing Super Hornet and the F-35A from Lockheed-Martin (Swedish Saab recently pulled their Gripen out of the competition). The contract for the air-defence system will be decided between Eurosam SAMP/T (France), Rafael David’s Sling (Israel) and Raytheon Patriot (US).
+
+More
+
+More Which fighter jets would you buy? This content was published on The Federal Council wants to spend CHF8 billion on new fighter jets. These five models are high on the shopping list. Read more: Which fighter jets would you buy?
+
+In compliance with the JTI standards More: SWI swissinfo.ch certified by the Journalism Trust Initiative","{'label': 'Neutral', 'score': 0.9999097585678101}",neutral,0.9999097585678101,0
+First appearance at DSEI for FNSS - EDR Magazine,"Wed, 18 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L2ZpcnN0LWFwcGVhcmFuY2UtYXQtZHNlaS1mb3ItZm5zc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Paolo Valpolini
+
+DSEI 2019 showcased the leading edge military vehicle portfolio of FNSS of Turkey. Exhibiting for the first at DSEI, FNSS, a joint venture between the Nurol Group and BAE Systems, displayed its operationally proven PARS III 8×8 Armour Fighting Vehicle (AFV) along with other vehicles in series production and in development. DSEI 2019 aimed at expanding it’s the export horizons of FNSS and increasing exposure to potential customers.
+
+“Our decision to take part in the London exhibition stems from a series of considerations,” Mr. Nail Kurt, FNSS CEO tells EDR On-Line. “The first one is that we aim to expand our markets,” he adds, “which also reflects FNSS growing as a company.”
+
+The company already has a well-established portfolio of export customers, and DSEI is an international showcase, which allows FNSS to expand its contact with potential customers as well as meeting existing ones. The portfolio consists of a number of different systems that are already in active operational service with existing customers; including tracks and wheels, ranging from light tanks to wheeled infantry fighting vehicles. Asia and the Middle East being currently the most important export areas for the Ankara based company.
+
+FNSS is also active and well established in the floating bridges market, the company’s highly capability and state of the art Otter vehicle delivers a rapidly deployable amphibious wet wide gap crossing capability. Otter is the latest development of the original Armoured Amphibious Assault Bridge in service with the Turkish Land Forces. “Currently the Otter bridging system is of interest to the UK for the upcoming Project TRITON, and FNSS is definitely focusing on this opportunity,” Mr. Kurt confirms while underlining that Project “TRITON”, aiming at delivering future wide wet gap crossing capability to the British Army and potentially other NATO countries, is in its early stages. “Some two years ago we were approached by Thales regarding project TRITON, we have decided a strategic partnership with Thales is the best fit for FNSS for this opportunity” he explains, making it clear that Thales will remain the prime contractor should the team be selected. Although in the early stages of project TRITON, contact is active, and indeed in next door meeting room at DSEI FNSS and Thales were meeting the British ArmyMoD and representatives of the UK and German MoDs. “British Army candidate requirements are a good match for our current product capabilities, however, we are already developing potential updates and upgrades to the Otter system to meet the changes needs of the modern warfighter, this will happen as the project nears it critical phases, hopefully in the not too distant future” the FNSS CEO states.
+
+DSEI 2019 provided a very successful backdrop for FNSS to meet current and potential customers. “We hosted in our stand the Minister of Defence Affairs of Oman, Badr bin Saud bin Harib Al Busaidi, who had the chance to see one of the Oman Pars III vehicles on FNSS stand. This is important to FNSS as we further opportunities in Oman in the future” Mr. Kurt says. In 2015 Oman signed a contract for 172 PARS vehicles, 145 8×8 in eight configurations and 27 6×6 in five different configurations. These are being produced on the company’s assembly line in Gölbaşı, near Ankara, while the company is establishing local Oman based support infrastructure which will include Omani companies.","{'label': 'Neutral', 'score': 0.7909189462661743}",neutral,0.7909189462661743,0
+Thales and Outreach 3 Way partner to build inclusive playground in Crawley - Thales,"Thu, 26 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1hbmQtb3V0cmVhY2gtMy13YXktcGFydG5lci1idWlsZC1pbmNsdXNpdmUtcGxheWdyb3VuZC1jcmF3bGV50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Outreach 3 Way partner to build inclusive playground in Crawley Share this article
+
+
+
+LinkedIn
+
+Thales and Sussex based Outreach 3 Way, part of Dimensions, the national not-for-profit support provider, have worked together to build an inclusive recreational area for people with learning disabilities and autism.
+
+A safe, fun and stimulating area
+
+The Willow Tree recreation area was opened on the 23rd of September and is a welcome addition to the Crawley area. It has been designed to provide a safe, fun and stimulating area for the people that Outreach 3 Way supports, as well as local schools and other visitors.
+
+The project first began as a shared idea between two Outreach 3 Way colleagues when they realised that the local area didn’t provide a suitable playground for the people who the charity supports. The logistics and cost to travel to a suitable playground would make such a trip expensive and challenging, so the charity was looking for a solution and some help to bring it to life.
+
+After some initial fundraising success, Outreach 3 Way got in touch with Thales and it was decided that this would be an excellent project for Thales’s Leadership Development Programme (LDP) team to address.
+
+A key part of the Leadership Development Programme is looking at how Thales employees can support the communities that they work in and are a part of. Outreach 3 Way, and the fantastic role they fulfil, has been the perfect partner to work with to make a difference to people with learning difficulties and autism in the area. The development of the park also provided an opportunity to include STEM-related equipment, in order to create fun learning experiences.
+
+When commenting on the experience of working with Thales, Bob Leeves, O3W Project Manager, said “It has been a real pleasure and experience working with Thales to plan and deliver the Willow Tree recreation area. Usually within the Social Care sector we don’t have the opportunity to work with business’s and look at different ways of operating.” He also added that “Working with Thales has proved that there are companies and organisations that want to support their local communities and not be afraid to make a commitment and make projects and ideas work.”
+
+At Thales we are passionate about supporting our local community and working with Outreach 3 Way has allowed us to develop a really positive partnership within the Crawley area. To be part of an innovate project that will develop a much needed outside space for Crawley is a great opportunity for this year’s leadership cohort
+
+Eve Maywood, Head of STEM Education and Partnerships, Thales in the UK
+
+The Willow Tree recreation area provides bespoke apparatus for its visitors that are designed to create a safe, fun space. Local Member of Parliament, Henry Smith, said “My sincere thanks to Manor Royal based Thales’s staff who so actively partnered with Outreach 3 Way to raise funds and help manage the new inclusive playground project for local adults with learning disabilities.”","{'label': 'Neutral', 'score': 0.9114876985549927}",neutral,0.9114876985549927,0
+Air 2030 - The new airspace surveillance and flight operations monitoring system was chosen - EDR Magazine,"Thu, 19 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L2Fpci0yMDMwLXRoZS1uZXctYWlyc3BhY2Utc3VydmVpbGxhbmNlLWFuZC1mbGlnaHQtb3BlcmF0aW9ucy1tb25pdG9yaW5nLXN5c3RlbS13YXMtY2hvc2Vu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"(Press Release from the Federal Department of Defence, Civil Protection and Sport, unofficial translation by EDR On-Line)
+
+Bern, 19.09.2019 – The evaluation of the three candidates for the new airspace and air operations surveillance system for the Swiss Army has been finalised with the choice of the system. The management of the Air2030 programme has followed the recommendation of the team of experts in favor of the French candidate Thales with the Skyview system. The acquisition will be the subject of a request to Parliament in the 2020 armaments programme.
+
+The “C2Air” project involves the replacement of the Ralus / Lunas subsystems of the Swiss Air Force’s current airspace surveillance and flight operations system. Over the last twelve months, specialists from armasuisse and the Swiss Army have tested three replacement systems from three different countries in Switzerland, evaluated the offers received and made a recommendation to the Air2030 programme management in an evaluation report. The General Director of Armaments has now followed this recommendation and awarded the contract to the French candidate Thales with the Skyview system. Thales was chosen because of its best value for money. In addition, Skyview is the system that proves to best meet the requirements. It is expected that the Federal Council will submit the acquisition of this system to Parliament in the message on Army 2020. The other candidates were Saab (Sweden) and Raytheon (United States). The manufacturer and the system selected do not cause any harm to the other PAC and Bodluv projects of the Air2030 programme.
+
+Airspace Surveillance and Flight Operations System Florako
+
+The Ralus (Radar-Luftlage-System) collects the radar data and establishes the air picture. The Lunas (Luftlage-Nachrichtensystem) reproduces all the data on the screen to support the conduct of the engagement.
+
+These two subsystems are part of the Florako Airspace Surveillance and Flight Operations System. The latter is intended to identify civil and military aerial objects (i.e. airplanes, helicopters and drones) and to conduct Air Force engagements, including ground-to-air defense. Since 2005, the Swiss airspace has been monitored 24 hours a day by the Florako system.
+
+Link with the Air2030 programme
+
+The C2Air project (for Command and Control) is part of the Air2030 programme, as are the next combat aircraft (PAC), long-range surface-defense (Bodluv) and Radar projects. The C2Air and Radar projects are older in time and will be the subject of a request to Parliament in separate armaments programmes.
+
+Pictorial courtesy Thales","{'label': 'Neutral', 'score': 0.9999977350234985}",neutral,0.9999977350234985,0
+Thales soothes biometric passport jitters - Bangkok Post,"Fri, 20 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9idXNpbmVzcy9nZW5lcmFsLzE3NTQwODQvdGhhbGVzLXNvb3RoZXMtYmlvbWV0cmljLXBhc3Nwb3J0LWppdHRlcnPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Mr Yeo says Thai citizens will benefit from the highest level of performance of the secure embedded software for fast border crossing.
+
+French tech solutions provider Thales is providing assurances that data security protections are reliable for the new biometric passports that it will start delivering to the Foreign Ministry from April next year.
+
+In July, the ministry awarded the DGM Consortium, which includes Gemalto, a member of the Thales Group, a contract to supply 15 million e-passports to Thailand over the next seven years.
+
+""The DGM Consortium will implement a highly secure end-to-end electronic passport system that will strictly comply with the Personal Data Protection Act of Thailand,"" said Winston Yeo, senior vice-president for identity and biometric solutions at Thales.
+
+Mr Yeo said the company's core ethos is to provide services protecting people and improve the efficiency and effectiveness of business operations.
+
+""Please do not worry about personal data and security features because we are using solutions operated by the consortium,"" he said.
+
+The contract requires delivery of passports nine months after signing.
+
+The contract is one of the largest passport programmes for the Thales Group, Mr Yeo said.
+
+He said Thales has been in Thailand for over 30 years, opening the first representative office in Bangkok in 2005. The company cooperates with Thai partners in five main areas: aviation, space, defence, security and transport.
+
+Thales group completed the acquisition of Gemalto in April 2019. Gemalto is a world leader in identity and biometrics, artificial intelligence, big data, IoT, connectivity and payment services.
+
+According to the group, Thai citizens can look forward to a newly-designed 64-page biometric travel document that includes an e-Cover with a thin, flexible datapage made of polycarbonate as well as a window containing a second image of the citizen and a true colour UV photo.
+
+Mr Yeo said Thai citizens will benefit from the highest level of performance of the secure embedded software for fast border crossing.
+
+Massimo Marinzi, country director of Thales Thailand, said the group has developed some of the world's most sophisticated e-passports that support governments' efforts in the use of biometrics to ensure quick and secure cross-border movement.
+
+In July, the foreign ministry indicated iris data would be required for applicants of new passports in addition to finger prints and facial images. This data would be part of the identity verification process in the future, the ministry said.
+
+The Thailand Information Security Association (Tisa) later complained about the government's move to store citizens ""biometric data"", such as eye and facial images, saying this stored data is at risk of being leaked and stolen.
+
+The theft of biometric data would be precarious for individuals because a person cannot change his or her bio-identity, Tisa said.
+
+Mr Marinzi said Thales in a consortium with River Engineering entered into a contract with the State Railway of Thailand (SRT) last month for designing, delivering and upgrading the SRT's signalling system to European Train Control System Level 1 to improve protections across 48 train stations around Bangkok.","{'label': 'Positive', 'score': 0.9840582013130188}",positive,0.9840582013130188,1
+Delegation of a technological leader Thales Group company arrived to Armenia - iTel.am,"Thu, 05 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiHmh0dHA6Ly9tLml0ZWwuYW0vZW4vbmV3cy8xMTEwN9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"A delegation of French technological leader Thales Group has arrived to Armenia at the invitation of President Armen Sarkissian.
+
+In the framework of the visit the Vice President of Thales for Strategy and Partnerships Philippe Valery, Vice President for Solution Sales and Marketing Jerome Sion, International Business Development Manager Alexander Godlewski, and Vice President, Regional Director Paul Remi have arrived to Armenia.
+
+
+
+The base of cooperation with this French and European technological leader was formed back in September 2018 when President Sarkissian in the framework of his visit to France held meetings with the leadership of the Thales Group. In November of the same year he visited the digital production unit of the company and familiarized with the activities and ongoing programs, discussed opportunities of cooperation with Armenian companies. As a result of the agreements reached by the President, last June the representatives of the Thales participated at the Armenian Summit of Minds in Dilijan.
+
+In June 2019 President Sarkissian visited the pavilion of the Thales Group at the Air show in Bourget and met with the President of the company Patrice Caine. The agreement was reached to organize a visit of the company representatives to Armenia and create working groups to examine the already existing document on cooperation in concrete areas. Cooperation in the area of artificial intelligence, management of digital data and implementation of joint programs in a number of other areas were viewed as especially promising.
+
+In the framework of their visit to Armenia, the representatives of the Thales Group will hold meetings with the Minister of High technology industry Hakop Arshakian, Minister of Science, Education, Culture, and Sports Arayik Harutyunian, visit leading technological companies, particularly Synopsis Armenia, TUMO creative technological center, meet with representatives of Armenian startup companies, examine Armenia’s experience in the area of high technologies and their accomplishments.
+
+The Thales Group is working in different countries of the world on design and construction of electrical systems, provides services in the aviation, space defense areas, as well as on the transportation and security markets.","{'label': 'Neutral', 'score': 0.9999940395355225}",neutral,0.9999940395355225,0
+Babcock wins £1.25bn Type 31 frigate contract - The Engineer,"Thu, 12 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWVuZ2luZWVyLmNvLnVrL2NvbnRlbnQvbmV3cy9iYWJjb2NrLXdpbnMtMTI1Ym4tdHlwZS0zMS1mcmlnYXRlLWNvbnRyYWN0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The new vessels will be capable of war fighting and humanitarian missions. Image: Babcock
+
+The next generation of Royal Navy warships will be built by Babcock, with the Ministry of Defence awarding preferred bidder status to a consortium led by the company and also including Thales. The Type 31 frigate will be built to a design known as Arrowhead 140, with each ship costing some £250m – a quarter of the cost per ship of the larger Type 26 frigates currently being built by BAE Systems in Glasgow.
+
+Arrowhead 140 is derived from a design originally developed for the Danish Navy, and is described by Babcock as “a capable, adaptable and technology enabled global frigate”. Designed to be suitable for exports, the ships will be built using the modular construction method pioneered during the building of the Queen Elizabeth class aircraft carriers (in which Babcock was a consortium partner) with Rosyth serving as the central integration site. Detailed design work is scheduled to begin as soon as formal contracts have been signed, with construction starting in 2021 and the first ship in class to be launched in 2023. Babcock expects the program to run until 2027.
+
+The contract is expected to secure some 1250 direct jobs at multiple locations around the UK at the height of the project, as well as a similar number in the supply chain. Babcock expects to develop around 150 new technical apprenticeships to serve the project.
+
+The Babcock/Thales consortium beat rival bids from BAE Systems and Cammell Laird and a consortium led by Atlas Electronik UK. The winning consortium also includes Odense Maritime Technology (OMT), the Danish firm which originally designed the hull form of the Iver Huitfeldt-class frigates on which Arrowhead 140 is based; Harland and Wolff of Belfast, Ferguson Marine of Port Glasgow and BMT Defence Services, a centre of excellence for naval design and through-life support.
+
+The completed ships will have a maximum overall length of 138.7m, maximum beam of 19.8m, and design draft of 4.8m. The crew complement will be 100 to 160 sailors, and each ship will be able to accommodate an AW–10 Merlin or MH-60 Seahawk helicopter in an on-board hanger which will also be able to house light aircraft and UAVs. Boat bays on either side of the frigate will be able to deploy rigid hulled inflatable boats and autonomous underwater or surface vessels. Reconfigurable spaces on board will be able to store containers for humanitarian aid and disaster relief operations, and can also be used as accommodation for people associated with such operations. Armaments on board will include 40mm to 127mm deck mounted guns, canister-launched surface-to-surface guided weapons, vertical launch missiles, and surface-to-air, land strike and anti-submarine missiles.
+
+The vessel will be powered by a combined diesel and diesel (CODAD) propulsion system incorporating four diesel engines, two propellers and two variable shaft lines, producing a maximum power of 32.8MW. This will give it a cruising speed of 18kt and a maximum speed of 28kt.
+
+Babcock chief executive Archie Bethel said: “It has been a tough competition and we are absolutely delighted that Arrowhead 140 has been recognised as offering the best design, build and delivery solution for the UK’s Royal Navy Type 31 frigates.
+
+“Driven by innovation and backed by experience and heritage, Arrowhead 140 is a modern warship that will meet the maritime threats of today and tomorrow, with British ingenuity and engineering at its core. It provides a flexible, adaptable platform that delivers value for money and supports the UK’s National Shipbuilding Strategy.”
+
+For Thales, UK chief executive Victor Chavez added “With the announcement today that Arrowhead 140 has been selected as the preferred bidder for the new Type 31e frigate, the Royal Navy will join the global community of 26 navies utilising the Thales Tacticos combat management system. Thales already provides the eyes and ears of the Royal Navy and will now provide the digital heart of the UK’s next generation frigates.”
+
+Paul Everitt, chief executive of defence industry organisation ADS, commented that the announcement was welcome news for the UK defence and shipbuilding industry. “This contract will protect and create high-value UK jobs, contribute to national prosperity, protect our national security and provide potential for export orders with our international allies and partners. The long-term programme of naval shipbuilding at UK shipyards, including both the Type 31 and Type 26, provides a solid foundation for the defence maritime sector to grow its exports, securing the future of this technologically advanced and innovative industry in the UK for the years ahead.”","{'label': 'Neutral', 'score': 0.9999991655349731}",neutral,0.9999991655349731,0
+Ocius’ Bob and Bruce come to Canberra - Australian Defence Magazine,"Thu, 19 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmF1c3RyYWxpYW5kZWZlbmNlLmNvbS5hdS9kZWZlbmNlL3NlYS9vY2l1cy1ib2ItYW5kLWJydWNlLWNvbWUtdG8tY2FuYmVycmHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"How do you get bluebottles in Canberra’s Lake Burley Griffin? When Ocius Technologies bring them to town for a demo.
+
+Both Bob and Bruce, Ocius’ Bluebottle class of unmanned surface vessels (USVs), were on deck in the nation’s capital in the wake of their recent successful trial off the coast of Ulladulla in NSW. The trial saw the pair of USVs complete six weeks of endurance and intelligent networking trials in a designated Australian Maritime Safety Authority (AMSA) approved ‘box’ off the NSW coast.
+
+“The ability to monitor large swathes of ocean for a disruptively low cost is what we do,” Ocius founder and CEO Robert Dane said at the demonstration, saying that the data and learnings of the trial are being reflected on now.
+
+The ability to monitor large swathes of ocean for a disruptively low cost is what we do
+
+The pair of Bluebottle class USVs have evolved significantly over the past few years, having begun life in 2015 as a Capability Technology Demonstrator program. This proved a significant contract and Ocius with partner Thales Australia developed the 18' prototype 'Bruce' for anti-submarine warfare (ASW), which was demonstrated to Navy in August 2017.
+
+In September 2018, Ocius was awarded its second defence contract under the Defence Innovation Hub to build an intelligent “Command and Control (C2) network” of persistent unmanned surface vessels.
+
+In November 2019 Bruce participated in the Autonomous Warrior War games in Jervis Bay. Due to extreme weather Bruce was often the only USV operating. Ocius' intelligent C2 system was used to control another Navy WAMV catamaran and two DSTG UUVs.
+
+The rainy and sometimes snowy Canberra conditions this week were no trouble for the pair of solar powered vessels, with Bruce still managing to charge at 90 watts despite the weather conditions.
+
+“We have an EO camera, weather, water, depth, temperature, speed and Thales’ thin line array in the water today,” Ocius’ chief Engineer Lloyd Breckenridge explained to ADM at the demonstration.
+
+Thales Australia, building on their 30-year pedigree of underwater sensors and related IP in Australia, has been working with Ocius on both passive and active sonar technologies on the Bluebottles. The thin line array is mounted on the rear of the keel, with a winch now integrated onto the vessel.
+
+We need to take the Australian public with us on this journey
+
+“We’re looking at complimentary technology where Thales has been working for some time,” Gary Dawson, Thales Australia’s Vice President said, as the company is part of the Trusted Autonomous Systems CRC.
+
+Commander Paul Hornsby, Navy’s lead for autonomous warfare systems was also enthusiastic about the system that had performed so well at Exercise Autonomous Warrior last year. He cited the fact that the demonstration was an opportunity to show people what Navy can do in this space.
+
+“We need to take the Australian public with us on this journey,” he said. “We can do it and we’re good at it. Unmanned technologies are core to a balanced and comprehensive Navy and are part of the national shipbuilding effort.”
+
+Commander Hornsby also confirmed to ADM that the next itineration of Exercise Autonomous Warrior is being worked by Navy right now. He is hoping to see more air, sea and ground elements involved in the next event in the series to demonstrate the networked and manned/unmanned teaming sides of the technology space.","{'label': 'Neutral', 'score': 0.9995656609535217}",neutral,0.9995656609535217,0
+LATÉCOÈRE Opens New Plant In Belagavi - AllAboutBelgaum,"Wed, 11 Sep 2019 07:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYWxsYWJvdXRiZWxnYXVtLmNvbS9uZXdzL2xhdGVjb2VyZS1vcGVucy1uZXctcGxhbnQtaW4tYmVsYWdhdmkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Latécoère Inaugurates Its New Site In India In The Presence Of Its Two Customers Dassault Aviation And Thales at the Aequs Special Economic Zone.
+
+” Latécoère continues to transform itself, in line with the Transformation 2020 plan, and is pursuing its transformation dynamically, which aims to optimize its industrial tool and ensure operational excellence and quality for its customers. “
+
+– Yannick Aswad, CEO of Latécoère
+
+Latécoère inaugurated its new plant in Belagavi in ​​India in the state of Karnataka. This new site completes the Latécoère group harness production system and is expected to reach 300 in 2022.
+
+With a total surface area of ​​4,400 m2, this new site is dedicated to the manufacture of the main navigation harness of the Falcon 2000 and, eventually, the main octopus of the same aircraft as well as the Thales avionics cabling contract for planes such as the Boeing B777, B737 and Airbus A320 and many airlines (Emirates, British Airways or Qatar).
+
+The first delivery took place in August 2019 to the Latécoère site of Liposthey in France for the finalization of the manufacture of the Falcon 2000 radio navigation electrical harness.
+
+This inauguration opens a new chapter in the history of Latécoère in India, alongside two prestigious names in international aeronautics, Dassault Aviation and Thales.
+
+” Dassault Aviation welcomes the installation of Latécoère in India. This new location illustrates the strong commitment of French companies to contribute to the “Make in India” policy by feeding a sustainable ecosystem that will benefit the entire Indian aviation industry. Following the creation of Dassault Reliance Aerospace Limited’s (DRAL) production facility in Mihan, Nagpur, this new step opens the way for India’s positioning as a leading international supplier meeting the best standards in the market sector. Global Aeronautics. “
+
+– Benedict Berger, CEO of Dassault Aviation purchases
+
+” Latécoère is a historic partner of Thales and India plays a key role in the Group’s strategy. The fact that Latécoère has chosen to join us here is therefore a key step, in this country where we continue to support the government’s policy to promote “Make in India” through the Foreign Direct Investment of Thales and our partners, and through a transfer of skills and technology to local businesses. India is essential to our global supply chain and we plan to continue to invest in this vital market for us. “
+
+– Gil Michielin, EVP Avionics Thales","{'label': 'Positive', 'score': 0.9844872355461121}",positive,0.9844872355461121,1

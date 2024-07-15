@@ -1,0 +1,59 @@
+2024-04-18 11:16:15,540: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-18 11:16:17,406: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-18 11:16:17,406: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 11:16:17,406: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-18 11:16:17,406: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 11:16:17,406: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 11:16:17[0m
+2024-04-18 11:16:18,056: asyncio: ERROR: [MLTrader] invalid timeframe: day
+2024-04-18 11:16:18,059: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 72, in on_trading_iteration
+    data = self.fetch_data()
+           ^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 47, in fetch_data
+    barset = self.api.get_bars(self.symbol, timeframe, start=start_date.isoformat(), end=end_date.isoformat())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 735, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 718, in get_bars_iter
+    for bar in bars:
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 594, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 274, in data_get
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 222, in _request
+    return self._one_request(method, url, opts, retry)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 248, in _one_request
+    raise_api_error(resp, http_error)
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\alpaca_trade_api\rest.py", line 83, in raise_api_error
+    raise APIError(error, http_error) from None
+alpaca_trade_api.rest.APIError: invalid timeframe: day
+
+2024-04-18 11:16:18,059: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-18 11:16:18,073: root: INFO: Backtesting finished
+2024-04-18 11:16:19,056: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-18 11:16:19,206: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-18 11:16:19,206: backtest_stats: INFO: Backtest took 0:00:03.666032 for a speed of 0.000

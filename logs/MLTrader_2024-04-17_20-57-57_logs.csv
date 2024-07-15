@@ -1,0 +1,43 @@
+2024-04-17 20:57:57,645: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-17 20:58:00,525: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-17 20:58:00,525: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-17 20:58:00,525: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-17 20:58:00,525: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-17 20:58:00,541: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-17 20:58:00[0m
+2024-04-17 20:58:00,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:58:05,104: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-17 20:58:05,104: asyncio: ERROR: [MLTrader] 'MLTrader' object has no attribute 'get_asset_data'
+2024-04-17 20:58:05,104: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 43, in on_trading_iteration
+    indicators = self.get_technical_indicators()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 36, in get_technical_indicators
+    data = self.get_asset_data(self.symbol, timeframe='1D', limit=20)
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MLTrader' object has no attribute 'get_asset_data'
+
+2024-04-17 20:58:05,119: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-17 20:58:05,119: root: INFO: Backtesting finished
+2024-04-17 20:58:06,599: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-17 20:58:06,755: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-17 20:58:06,755: backtest_stats: INFO: Backtest took 0:00:09.110107 for a speed of 0.000

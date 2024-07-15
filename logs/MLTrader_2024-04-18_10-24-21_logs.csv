@@ -1,0 +1,43 @@
+2024-04-18 10:24:21,665: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-04-18 10:24:23,406: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-04-18 10:24:23,414: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-04-18 10:24:23,414: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-04-18 10:24:23,414: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-04-18 10:24:23,414: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-04-18 10:24:23[0m
+2024-04-18 10:24:23,414: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 10:24:24,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-18 10:24:25,433: asyncio: ERROR: [MLTrader] 'AnalysisIndicators' object has no attribute 'volume_oscillator'
+2024-04-18 10:24:25,449: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\crew\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 74, in on_trading_iteration
+    indicators = self.get_technical_indicators()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\investissement\scrapping-assistant-investissement\src\mltrader\tradingbotv2.py", line 69, in get_technical_indicators
+    data.ta.volume_oscillator(append=True)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnalysisIndicators' object has no attribute 'volume_oscillator'
+
+2024-04-18 10:24:25,449: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-04-18 10:24:25,465: root: INFO: Backtesting finished
+2024-04-18 10:24:25,905: asyncio: WARNING: [MLTrader] Cannot plot returns because the strategy returns are missing
+2024-04-18 10:24:27,011: asyncio: WARNING: [MLTrader] Cannot create a tearsheet because the strategy returns are missing
+2024-04-18 10:24:27,011: backtest_stats: INFO: Backtest took 0:00:05.362198 for a speed of 0.000

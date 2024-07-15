@@ -1,0 +1,769 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Dassault and Thales Awarded Archange Contract - Aviation International News,"Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMjAtMDEtMTQvZGFzc2F1bHQtYW5kLXRoYWxlcy1hd2FyZGVkLWFyY2hhbmdlLWNvbnRyYWN00gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Dassault and Thales Awarded Archange Contract
+
+The French government has ordered the first two Falcon-based platforms to replace aging Transall Gabriels in the Sigint-gathering role.","{'label': 'Neutral', 'score': 0.9854869842529297}",neutral,0.9854869842529297,0
+Hispasat buys GEO satellite from Thales Alenia Space - SpaceNews,"Fri, 10 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9oaXNwYXNhdC1idXlzLWdlby1zYXRlbGxpdGUtZnJvbS10aGFsZXMtYWxlbmlhLXNwYWNlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"WASHINGTON — Hispasat purchased a satellite from Thales Alenia Space Jan. 10, marking the operator’s first satellite order since being acquired by Spanish power company Red Eléctrica last year.
+
+Thales Alenia Space will build a new satellite called Amazonas Nexus, designed with Ku-band coverage over both American continents, plus Greenland and North Atlantic transportation routes. Hispasat and Thales Alenia Space signed the manufacturing contract in Madrid.
+
+Amazonas Nexus will replace Hispasat’s Amazonas-2, an 11-year-old satellite located at 61-degrees west that provides C- and Ku-band coverage of Pan-America.
+
+Satellite operators have increasingly pushed manufacturers to not build satellites with frozen coverage patterns, but with flexibility to change the location, power and even shape of their communications beams. Hispasat is no exception.
+
+Thales Alenia Space said Amazonas Nexus will feature a new digital transparent processor that will allow Hispasat to reassign the satellite’s capacity as markets change.
+
+Hispasat Chief Executive Miguel Ángel Panduro said Amazonas Nexus will be “the most dynamic and advanced satellite in our fleet” after it launches in the second half of 2022. A launch provider has not been announced.
+
+Amazonas Nexus will have Ka-band feeder links for telemetry and control, a feature Hispasat said will optimize communications with gateway ground stations and free up more onboard capacity for commercial applications.
+
+Amazonas Nexus has a projected mass of 4,500 kilograms, 20 kilowatts of onboard power, all-electric propulsion, and a design life of 15 years. Commercial customers have signed long-term leases for close to 30% of the satellite’s capacity prior to launch, Hispasat said, providing anchor customers to validate the operator’s business plan for the satellite.
+
+Though based in Spain, more than 65% of Hispasat’s revenue comes from the Americas, mainly Latin America. Hispasat, citing research firm Euroconsult, said demand for geostationary data capacity is expected to grow fivefold in “the American continent” over the next 10 years. Amazonas Nexus is designed to capitalize on that projected growth, particularly for broadband to aircraft, ships and government end users.
+
+Hispasat and Thales Alenia Space said they will make extensive use of Spanish suppliers in building the Amazonas Nexus satellite. Hispasat regularly involves Spanish subcontractors to build equipment for its satellites, such as Sener, GMV, and Indra. The operator has its own policy of geographic industrial return that it says has resulted in more than 1 billion euros ($1.1 billion) of investment by international satellite manufacturers into Spain.","{'label': 'Neutral', 'score': 0.999991774559021}",neutral,0.999991774559021,0
+Thales seeks to future-proof PureFlyt FMS for connected future - Runway Girl Network,"Sun, 05 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjAvMDEvdGhhbGVzLXNlZWtzLXRvLWZ1dHVyZS1wcm9vZi1wdXJlZmx5dC1mbXMtZm9yLWNvbm5lY3RlZC1mdXR1cmUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales grabbed headlines in late 2019 when it unveiled an “entirely connected” next-generation flight management system (FMS) that introduces open-world data to the cockpit, and can calculate alternative trajectories in real time to propose or react quickly to changes of plan.
+
+The PureFlyt-branded FMS is billed as enabling pilots “to make better decisions using more sources of information” and bringing improved performance and reactivity to the aircraft during complex phases of flight. It accommodates the implementation of concepts such as 4D [latitude, longitude, altitude and time] trajectory management as contemplated by SESAR to enable significant improvements in airspace capacity, and can even factor in a fifth dimension – the calculation of aircraft weight – to enable fuel burn optimization in-flight.
+
+Thales has designed PureFlyt with today’s two-pilot airline operations in mind. The FMS incorporates the use of connected pilot electronic flight bags (EFBs) which can exploit approved cockpit connectivity pipes such as Inmarsat’s new SwiftBroadband-Safety satcom service. When asked by a journalist at its media briefing in Paris whether the FMS would mean less head-down time for pilots, Thales VP, head of commercial avionics Peter Hitchcock said the system should enable more effectiveness during “the demanding phases” of flight – departure and approach.
+
+Said Hitchcock:
+
+One of the things that, if you talk to one of our [test] pilots, is the pilots will spend as much time as they can [head up] except when something unexpected interrupts [them]. And then the natural intent, and the danger is that you have two pilots, and both can be head down even though one should be managing and the other resolving. So, what you want is a system to be as proactive as possible so they can get back to head up. And that’s one of the permanent trajectory benefits [of PureFlyt] – that you don’t need to think and then recompute and then wait for a new plan. The aircraft will say ‘this is what will happen to get back on route; this is how much energy, the fuel burn,’ you don’t have to think about that stuff. The FMS is doing it for you. So, it should allow them to feel much more confident and then get back to eyes out during critical phases.
+
+Given that PureFlyt will be available for entry-into-service in 2024 for both aircraft linefits and retrofits, and is expected to fly well into the 2050s, will there be new message sets for pilots? “I’m sure there will,” said Hitchcock. “I’m convinced there will be new connectivity, new message sets, new standards, because as the ability to exchange data is there, people will be saying, ‘well I want to share it more globally, rather than just with my airline operations center, so how will I do that?’”
+
+This is the type of ultra-connected and digitalized ecosystem that will be required if commercial aviation ever moves to a single-pilot or fully autonomous future.
+
+But in the near-term, under the current paradigm, is Thales satisfied with what it’s seeing from Inmarsat’s L-band satellite-based SB-S cockpit connectivity service to power “entirely connected” flight?
+
+“I think at the beginning it will be enough,” Hitchcock told Runway Girl Network. “But I suspect that the capabilities will resolve. And again, it comes also back down to updates. How often do people need to see the trajectory? And perhaps this is one area where if you want to project to more single-pilot operations, if and when that comes true, you can expect the volume of transmission data to increase dramatically to replace the dialogue between two people.”
+
+Such a scenario would require new rules around what constitutes safety- and non-safety services. Major pilot union ALPA has warned that single-pilot operations will be less safe. But while it’s difficult to predict the future, Hitchcock said: “At some point, there will be further message sets and further rules. There’s a change in the ATM systems under SESAR [in the EU] and under NextGen [in the US]. So, these things are moving together slowly, but they are moving. The issue for us is not to try to solve all of those problems simultaneously. It’s to make sure we’ve got the aircraft [FMS development] moving at the speed that allows us to adapt to them when they are there.”
+
+He added:
+
+And as I said, I think the next jump in bandwidth will be when people are looking at trying to go down towards single pilot in some phase of the flight, not saying one pilot on the plane, but I’m saying at some phase of the flight and to replace the communication between the two of them. I presume there will be communication off board the aircraft and therefore the comms demand will be higher, but we’re not there to design that today.
+
+Thales’ design principles will, however, help to future-proof PureFlyt, said Hitchcock. Rather than try to bake all the software in and update it infrequently, the company is able to make changes much more rapidly and regularly, he said. Its budget for development is in the “three-digit millions”.
+
+“When you’re playing with this level of complexity and certification, it’s not an easy thing to do,” he added.
+
+Importantly, Thales did not tie PureFlyt to a specific aircraft development program. It wanted to unveil the new FMS before the development of new aircraft, management said.
+
+Related Articles:","{'label': 'Neutral', 'score': 0.8821122646331787}",neutral,0.8821122646331787,0
+Ticagrelor Hits Mark in Large Stroke Study: THALES Top-line Results - TCTMD,"Mon, 27 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRjdG1kLmNvbS9uZXdzL3RpY2FncmVsb3ItaGl0cy1tYXJrLWxhcmdlLXN0cm9rZS1zdHVkeS10aGFsZXMtdG9wLWxpbmUtcmVzdWx0c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Tested in 11,000 patients with minor acute ischemic stroke or TIA, ticagrelor reduced the risk of death or stroke at 30 days.
+
+The addition of ticagrelor (Brilinta; AstraZeneca) to aspirin significantly reduces the risk of death and stroke at 30 days compared with aspirin alone in patients who’ve had a minor acute ischemic stroke or transient attack (TIA) in the 24 hours prior to starting therapy, according to the top-line results of the THALES trial.
+
+The study met its primary efficacy endpoint, said the sponsor, but patients treated with the direct-acting P2Y12 receptor antagonist and aspirin did experience more severe bleeding events than those treated with aspirin alone.
+
+The THALES study, led by S. Claiborne “Clay” Johnston, MD, PhD (University of Texas at Austin), included more than 11,000 patients with minor acute ischemic stroke/TIA randomized to treatment within 24 hours of symptom onset and followed for 30 days. The active treatment arm included ticagrelor 180 mg on day 1 followed by ticagrelor 90-mg twice daily. All patients received 300-325 mg of aspirin on day 1 followed by aspirin 75-100 mg. The primary efficacy endpoint was the time to the composite endpoint of death and stroke at 30 days.
+
+In a statement, Johnston said the increase in bleeding was expected, but also that ticagrelor reduced the risk of “potentially devastating events” in the critical 30-day window following a minor acute ischemic stroke or high-risk TIA.
+
+The full study results are scheduled to be presented at an upcoming medical meeting, according to AstraZeneca. Ticagrelor is not approved in the setting of stroke but is approved for secondary prevention in patients with acute coronary syndrome or prior MI.","{'label': 'Neutral', 'score': 0.9990109205245972}",neutral,0.9990109205245972,0
+French military taps Thales to study ISR sensor options for 'Stratobus' airship - C4ISRNET,"Fri, 10 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZ2xvYmFsL2V1cm9wZS8yMDIwLzAxLzEwL2ZyZW5jaC1taWxpdGFyeS10YXBzLXRoYWxlcy10by1zdHVkeS1pc3Itc2Vuc29yLW9wdGlvbnMtZm9yLXN0cmF0b2J1cy1haXJzaGlwL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — Thales Alenia Space and Thales signed a contract this week with the DGA, France’s defense procurement agency, to study if intelligence, surveillance and reconnaissance sensors could work from an airship.
+
+The aim of the project is to see if stratospheric platforms of this type, operating from an altitude of 20 kilometers (65,600 feet), where the winds are moderate and the air density sufficient to carry them, could be useful to the French armed forces.
+
+The companies have been asked to design an operational concept study for an ISR mission, including exercises simulating its use in theaters of operation. The contract, whose value was not disclosed, also calls for a full-scale demonstrator to be built capable of flying in the stratosphere to demonstrate how an ISR mission of this type would perform.
+
+Thales Alenia Space (held 67 percent by Thales and 33 percent by Leonardo) launched development of the 100 meters (328 feet) long “Stratobus” airship in April 2016. Powered only by solar energy and measuring 33 meters (108 feet) across, the balloon would rise on its own to its final altitude, with no need for a launcher. To maintain its position and to withstand winds of up to 90 kph (56 mph), Stratobus would have four electric motors operating 24/7, which are controlled by GPS to keep the vehicle permanently in line with a reference point at ground level.
+
+The energy would be broken down into dihydrogen and gaseous oxygen stored separately in tanks placed in the nacelle. At night, the two gases would be recombined, providing water and electricity to power the balloon.
+
+The Stratobus would significantly increase the area monitored by a single platform, as the high altitude puts the horizon at 500 kilometers (310 miles). Considered a hybrid between a drone and a satellite, it would be able to linger for up to a year over a given area after which time it would have to be grounded for maintenance. During these maintenance periods a second airship would ensure mission continuity.
+
+It is expected that each Stratobus would last five years.
+
+Christina Mackenzie was the France correspondent for Defense News.","{'label': 'Neutral', 'score': 0.9999966621398926}",neutral,0.9999966621398926,0
+"Damen, Blohm + Voss and Thales are awarded the contract to build the MKS 180 - Naval News","Wed, 15 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIwLzAxL2RhbWVuLWJsb2htLXZvc3MtYW5kLXRoYWxlcy1hcmUtYXdhcmRlZC10aGUtY29udHJhY3QtdG8tYnVpbGQtdGhlLW1rcy0xODAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Damen, Blohm + Voss and Thales are awarded the contract to build the MKS 180 As the general contractor, Damen as well as its partners Blohm+Voss and Thales are pleased with the intention announced today, to instruct the partners to supply the German Navy with at least four frigates of type “Multi-purpose battle ship MKS 180”.
+
+Thales press release
+
+Damen welcomes the opportunity to prove itself as a powerful and competent partner of the Federal Ministry of Defense and the Federal Office for Equipment, Information Technology and Use of the Bundeswehr (German Armed Forces).
+
+ogether with its partners, Damen will handle the order in a way that about 80% of the total net investments will remain in Germany as local value added. Blohm+Voss in Hamburg manages the construction that is solely realised in Germany, involving other shipyards of the Northern German Lürssen Group.
+
+The electronic mission systems commissioned at Thales Nederland also show the dominance of German value creation and know-how development: About 70% of the services are performed by the German Thales country organisation with its sites in Kiel and Wilhelmshaven and by German subcontractors.
+
+The same high German value-added share is planned in the fields of maintenance and service. Therefore, Germany as a high-technology location also benefits from this commissioning.
+
+The following applies to the whole project: The proven German value-added and supply chains are needed and will be fully integrated. The project implementation will involve a large number of small to medium size companies from maritime industry and machinery and plant engineering throughout Germany. In addition to the German coastal regions, almost all federal states will benefit from this contracting with Damen, Blohm+Voss and Thales, directly or via supplies.
+
+The Northern German shipyard group Lürssen, being the parent company of Blohm+Voss, and the Damen Shipyards Group are two family-owned companies with a long-term focus entering into partnership. The families Damen and Lürßen own 100% of the respective company and have been acting in the shipbuilding industry for more than 140 years.
+
+We will make every effort to successfully complete this highly demanding project and to supply the German Navy with innovative and powerful multi-purpose battle ships. This German-Dutch collaborative project opens up new perspectives to both countries regarding further European cooperation. The partnership between Damen, Blohm+Voss and Thales perfectly combines European collaboration with value creation and system expertise in Germany.","{'label': 'Positive', 'score': 0.999017596244812}",positive,0.999017596244812,1
+"Stratobus Autonomous Stratospheric Airship, France - Airforce Technology","Thu, 23 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL3Byb2plY3RzL3N0cmF0b2J1cy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Stratobus is an autonomous, stratospheric airship intended for both civil and military applications. Image courtesy of Thales Group. The airship will have a length of 100m and diameter of 33m. Image courtesy of Thales Group. The HAPS will be able to operate at an altitude of 20km above airspace. Image courtesy of Thales Group. The airship will have the capability to conduct autonomous missions for up to one year. Image courtesy of Thales Group.
+
+Stratobus is an autonomous, stratospheric airship providing permanent monitoring and surveillance for both civil and military applications.
+
+The multi-mission Stratobus platform is a lighter-than-air high altitude pseudo satellite (HAPS) that supports a range of government missions. The airship concept was displayed at the Paris Air Show in June 2019. It will act as a missing link between satellites and drones and will also meet the market demand for a combined satellite, aerial mission, drone and HAPS services.
+
+The airship is being developed by Thales Alenia Space in collaboration with CNIM Air Space (formerly Airstar Aerospace), Solution F and Tronico-Alcen.
+
+The project partners expect to conduct a flight demonstration of the prototype flight model by the end of 2023. The demonstration flight will lead to the commercialisation of the aerostat.
+
+Thales and Direction générale de l’armement (DGA) signed a concept study contract for studying continuous stratospheric platform benefits to enhance the defence capabilities of France, in January 2020.
+
+The concept study will evaluate the potential use of Stratobus type platforms in intelligence, surveillance and reconnaissance (ISR) applications to meet the operational requirements of the French Army.
+
+Stratobus airship development
+
+The research and development on the aerostat project officially began in April 2016. The programme partners completed the system readiness review in December 2016. The French Ministry of Industry and Digital Technology selected the Stratobus project under the New Industrial France programme which is intended to drive the modernisation of the French industry.
+
+Thales Alenia Space is the lead contractor in the programme and is responsible for the systems integration, solar arrays, avionics and certification.
+
+Solutions F will provide the electric propulsion system that will allow the airship to operate in a stationary position. CNIM Air Space will develop the fully-dressed envelope for the airship and Tronico-Alcen will contribute towards the development of the energy conditioning system.
+
+“Thales Alenia Space is the lead contractor in the programme and is responsible for the systems integration, solar arrays, avionics and certification.”
+
+Thales Alenia Space signed a memorandum of understanding (MOU) with MINES ParisTech engineering school and MASDAR institute for studying the possible applications of Stratobus for environmental protection.
+
+Thales Alenia Space signed a memorandum of understanding (MOU) with Southwest Research Institute (SwRI) for the development of Stratobus, in July 2018. SwRI will use its experience in lighter-than-air technologies to provide technical advice and assistance for the airship.
+
+Stratobus design and features
+
+Stratobus will have a length of more than 100m, a diameter of 33m and a weight of 5t. It will be able to fly at an altitude of 20km in the lower reaches of the stratosphere above airspace dedicated to air traffic and jet streams.
+
+The airship will host 250-450kg payloads under ideal conditions to perform a range of operations.
+
+Stratobus will be fitted with a ring around the balloon, allowing it to rotate in order to face the sun during all seasons. It will have the capacity to hold up to 60,000m3 of carrier gas.
+
+The total life span of the airship in the stratosphere will be five years, while it can fly autonomous missions which can last up to one year.
+
+The aerostat is designed to be launched without the need for a launcher. It can reach the orbit in approximately four hours.
+
+Stratobus HAPS missions
+
+Stratobus HAPS can perform a range of missions in support of surveillance, navigation, observation, and telecommunications. The aerostat concept envisages deployment to provide information to soldiers in theatres of operation.
+
+The airship can also provide permanent regional coverage. It will have the capability to provide surveillance in several areas including maritime, terrestrial, environmental and scientific. The platform can also assist regional navies in patrolling duties.
+
+The Stratobus airship will also support telecommunications and will also offer permanent surveillance of borders, critical assets such as off-shore platforms, and monitoring of forest fires, pollution and beach erosion.
+
+Propulsion and power
+
+The airship is designed to be powered by a combination of solar energy and eco-friendly green technologies to ensure a low carbon footprint. A solar concentrator, which was initially planned to be placed inside the balloon, will be positioned on top of the airship. A solar array to be installed on the aircraft will power a reversible fuel cell which will provide onboard energy.
+
+The fuel cell will have the ability to store energy during the night to ensure the platform to function during the night without power issues. Two electric motors will be fitted on either side of the airship. The motors will be powered by solar panels during the day and will draw energy from batteries during the night.
+
+The airship will be fitted with the Gondola mobility system, allowing it to rotate around its longitudinal axis to ensure the solar panels track the sun for greater utilisation of the solar energy.
+
+Funding
+
+The General Commission for Investment (CGI) and investment bank Bpifrance reached an agreement to provide €16.6m ($18.67m) funding for the Stratobus project’s development phase, in June 2016.
+
+Contractors involved in Stratobus development
+
+CNIM is responsible to design the rotation system and Gondola mobility system of the airship. The company was also contracted to provide rigid structures including four motor mountings, nacelle, and mechanical ballast.
+
+Norwegian firm Cmr-Prototec was contracted to supply the energy storage system for the airship.
+
+MMIST, a Canada-based provider of aerial delivery products and services, is supplying the parachutes.","{'label': 'Neutral', 'score': 0.9931008815765381}",neutral,0.9931008815765381,0
+"Dassault, Thales to provide France with SIGINT Falcon 8X - Flightglobal","Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZml4ZWQtd2luZy9kYXNzYXVsdC10aGFsZXMtdG8tcHJvdmlkZS1mcmFuY2Utd2l0aC1zaWdpbnQtZmFsY29uLTh4LzEzNjE0Mi5hcnRpY2xl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Paris has tapped Dassault and Thales to provide three signals intelligence (SIGINT) aircraft based on the Falcon 8X business jet under its ARCHANGE requirement.
+
+The project will see the Thales CUGE system installed on two aircraft initially, with a third to follow, say the two companies.
+
+The French Armament General Directorate (DGA) awarded the contract 30 December, with the company statements following on 14 January.
+
+An image issued by Dassault shows the CUGE system housed in a canoe fairing under the jet’s forward fuselage.
+
+“The contract covers the first two aircraft on the programme,” says Thales. “CUGE will ultimately be deployed by three Falcon X aircraft, built by Dassault Aviation, to replace the two Transall C-160 Gabriel aircraft in service with the French Air Force from 2025.”
+
+It notes that the future battlefield will be ever more complex, requiring surveillance systems that allow decisions to be made quickly. It adds that CUGE allows the simultaneous detection and analysis of radio and radar signals, using the company’s “multi-polarisation” antennas supported by artificial intelligence.
+
+A ground-based training platform is included with the programme.
+
+“The special mission Falcons provide the perfect illustration of the dual competences of Dassault Aviation: our civil aircraft benefit from the cutting-edge technologies developed for our combat aircraft, which in return benefit from the industrial processes deployed for the highly competitive production of the Falcon aircraft,” says Eric Trappier, chairman and chief executive of Dassault Aviation.","{'label': 'Neutral', 'score': 0.7096372246742249}",neutral,0.7096372246742249,0
+Thales' new helicopter avionics selected by Russia's VR-Technologies - www.rusaviainsider.com,"Fri, 31 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJ1c2F2aWFpbnNpZGVyLmNvbS90aGFsZXMtbmV3LWFkdmFuY2VkLWhlbGljb3B0ZXItYXZpb25pY3Mtc3VpdGUtc2VsZWN0ZWQtYnktcnVzc2lhcy12ci10ZWNobm9sb2dpZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"FlytX, Thales’ new connected avionics suite, has been selected by Rostec subsidiary VR-Technologies for its nascent VRT500 helicopter project, in a rare move for a Russian company to rely on Western technology nowadays.
+
+A single-screen version of the FlytX avionics suite is to be installed on the VRT500, the future, light, single-engine coaxial civil helicopter, which is designed to operate in eight different alternative configurations, including passenger, cargo, medical evacuation and public safety.
+
+The FlytX user-interface provides an efficient flying experience says Thales. Its large, integrated 15-inch touchscreen display is designed for smooth interaction between pilot and onboard systems, with intuitive access to information simplifying the decision-making process. Customisable and designed to accommodate future system evolutions and functions, this new flight deck meets the specific requirements of any crew flying any type of mission.
+
+Employing open-world applications, the fully connected FlytX suite can be interfaced in flight and on the ground. With end-to-end cyber security assurance, pilots can therefore use any mission-specific application whilst keeping the helicopter in touch with the outside world at all times.
+
+“We have recently launched VRT500 – our new single-engine coaxial helicopter programme. Collaboration with Thales on the state-of-the-art helicopter avionics anticipates new market needs and provides VRT500 with unique solutions based on intuitive, task-oriented, touch interfaces and safety,” insists Alexander Okhonko, managing director of VR-Technologies.
+
+Contrary to other Russian aircraft programmes that are maximising the use of locally-produced equipment, the VRT500 relies instead on western technology. Typically, the new rotorcraft will be powered by a Pratt & Whitney PW207V engine, and Liebherr will provide the environmental control system etc.
+
+The VRT500’s first flight is planned for this year, with type certification due for 2022.","{'label': 'Neutral', 'score': 0.7096630930900574}",neutral,0.7096630930900574,0
+Thales Alenia Space and Thales sign concept study contract with French defense procurement agency for a Stratobus ... - Thales,"Wed, 08 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS90aGFsZXMtYWxlbmlhLXNwYWNlLWFuZC10aGFsZXMtc2lnbi1jb25jZXB0LXN0dWR5LWNvbnRyYWN0LWZyZW5jaNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space and Thales sign concept study contract with French defense procurement agency for a Stratobus type platform Thales Alenia Space Stratobus Share this article
+
+
+
+LinkedIn
+
+Cannes, January 8, 2020 – Thales Alenia Space (the joint venture between Thales, 67% and Leonardo, 33%) and Thales have signed a contract with The French defense procurement agency DGA (Direction générale de l’armement) to carry out a concept study concerning intelligence, surveillance and reconnaissance (ISR) applications using a StratobusTM type platform to meet French army operational needs.
+
+The aim of the contract is to study the benefits of continuous stratospheric platforms to improve and expand France’s defense capabilities. More specifically, the contract includes studies of:
+
+An operational concept study for an ISR mission including exercises simulating its use in theaters of operation.
+
+A full-scale demonstrator concept, capable of flying in the stratosphere to demonstrate the in-flight performance of an ISR mission of this type.
+
+StratobusTM type stratospheric solutions offer two main advantages:
+
+• It significantly increases the area monitored by a single platform, especially by eliminating terrain masking
+
+• It offers an ability to linger over an area, thus improving resilience in relation to current naval, airborne, ground and space solutions.
+
+“The aim of this contract is to assess the relevance of StratobusTM type continuous stratospheric solutions to meet defense needs, and also marks a major step forward in the definition of a possible operational solution in conjunction with users” said Jean-Philippe Chessel, Director of the StratobusTM product line. “It will enable us to prepare the foundations for the development of a complete solution, including high-reliability autonomous avionics, as well as all control aspects. We are aiming to carry out a flight demonstration by the end of 2023. The StratobusTM project has been supported by the French government from the outset within the scope of the Investment in the Future plan and a European regional development fund (FEDER) for the French Riviera region.”
+
+About StratobusTM
+
+Thales Alenia Space’s StratobusTM is an autonomous stratospheric airship in the HAPS [High Altitude Platform System] category, operating from an altitude of 20 kilometers. Offering continuous regional coverage, it’s a perfect fit with satellite solutions. StratobusTM can carry payloads for the surveillance of borders and high-value sites on the ground or at sea (such as video-surveillance of offshore platforms), as well as security (the fight against terrorism, drug-trafficking, etc.), environmental monitoring (forest fires, beach erosion, pollution, etc.) and communications (internet, 5G).
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of 2.5 billion euros in 2018 and has 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 06 41512685
+
+marija.kovac-somministrato@thalesaleniaspace.com
+
+Tarik Lahlou
+
+Tel : +33 (0)5 34 35 35 67
+
+tarik.lahlou@thalesaleniaspace.com
+
+ABOUT THALES
+
+Thales (Euronext Paris: HO) is a global technology leader shaping the world of tomorrow today. The Group provides solutions, services and products to customers in the aeronautics, space, transport, digital identity and security, and defence markets. With 80,000 employees in 68 countries, Thales generated sales of €19 billion in 2018 (on a pro forma basis including Gemalto). Thales is investing in particular in digital innovations — connectivity, Big Data, artificial intelligence and cybersecurity — technologies that support businesses, organisations and governments in their decisive moments.
+
+THALES - PRESS CONTACTS
+
+Maria Mellouli
+
+Tel: +33 (0)6 89 73 25 47
+
+maria.mellouli@thalesgroup.com","{'label': 'Positive', 'score': 0.9982411861419678}",positive,0.9982411861419678,1
+Iridium eyes more Certus partners as new transceiver work progresses - Runway Girl Network,"Fri, 17 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMia2h0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjAvMDEvaXJpZGl1bS1leWVzLW1vcmUtY2VydHVzLXBhcnRuZXJzLWFzLW5ldy10cmFuc2NlaXZlci13b3JrLXByb2dyZXNzZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"With Certus-supported aviation terminals “on the cusp” of being ready for primetime, and the next wave of next-generation transceiver development well underway, Iridium Communications has expressed an interest in welcoming new partners to its network.
+
+Current players
+
+Collins Aerospace (formerly Rockwell Collins), L3 Communications and Thales were among the first Certus value added manufacturers (VAMs) selected by Iridium in aero. Cobham was also invited to bid when Iridium launched RFPs for aviation products, and in fact was selected in 2015 as one of the initial four. But in 2017, Cobham explained its reasons to RGN for initially focusing on a maritime terminal for Certus before diving into aviation. It shipped its first certified “Sailor” branded units for maritime a year later.
+
+In 2018, Iridium added Gogo and Satcom Direct to its aero VAM roster; they are also Certus service providers in business aviation.
+
+Historically, Iridium has produced transceivers for its VAM partners to integrate into their final configurations for each specific market. And indeed, the company developed and made available a functional ‘broadband’ transceiver to its cadre of Certus VAMs in aviation. Iridium and Thales have said they expect commercial airlines to adopt the Certus 700 service (speeds of up to 704 Kbps) and associated hardware which will transmit via the Thales Alenia Space-built Iridium NEXT constellation.
+
+After years of working with chosen Certus VAMs, Iridium in August 2019 announced the first 10 approved “beta partners” developing small-form factor ‘midband’ devices for maritime, aviation, land-mobile, IoT and government applications based on the new Certus 9770 transceiver, which will deliver speeds ranging from 22 Kbps to 88 Kbps. With this program, Iridium aims to expand the reach of Certus to new markets, including to unmanned and autonomous drones and remotely deployed IoT devices. The company has advised investors that it expects to see Certus 9770 applications emerge starting later in 2020 and ramping into 2021.
+
+Among the 10 beta partners working with the new transceiver are a couple of immediately recognizable names in aero, including Cobham, which is a power player in UAV satcom; and Blue Sky Network, which counts a FAA-approved autonomous distress tracking device for Boeing 737 aircraft in its portfolio of Iridium tracking products. Upon completion of beta testing, the Iridium Certus 9770 transceiver is expected to be made available to additional Iridium licensed technology and distribution partners in the first quarter of this year.
+
+Casting the net
+
+As Iridium develops new second and third generation Certus transceivers, however, it wants to open up development to “a wider type of net if you will”, company director & general manager – aviation Michael Hooper told RGN. “So we will invite more partners in to work with us for next generation transceiver technology. So, we’re not so restrictive or intrusive, but it does take a bit of engineering effort to build these. [W]e are opening the door for Iridium Certus platforms.” This transceiver work will likely lead to development of a small Certus-powered Go portable WiFi hotspot solution to support aircraft crew activities including real-time credit card transactions, as reported by RGN.
+
+But in the near-term, Thales’ FlytLINK terminal for Certus is expected to be the first available product in aviation. The hybrid solution combines Certus capabilities with Iridium’s traditional services, including cockpit safety services, which will be available with its initial release.
+
+The French multi-national corporation, which is also a Certus service provider for aero, “has been very aggressive, showing their product at NBAA and other events for a while. [There’s] no question about their aggressiveness, and as it stands right now, they are the ones shaking up the market,” said Hooper.
+
+Development of FlytLINK for the Boeing 777X program, specifically – branded by Honeywell for its Aspire product line for the cockpit – is “moving along very well. There certainly have been some challenges like you would expect with a new product like this. But with the current schedule with the 777X, we are certainly not the pacing item on that,” said Thales Inflyt Entertainment & Connectivity vice president connectivity solutions Craig Olson. The pacing item to which he is referring is, of course, the well-reported engine issue affecting the 777X’s schedule.
+
+Thales is working closely with Honeywell on the 777X satcom project, but it is also providing FlytLINK “to other customers, both internal to Thales with our avionics business and in some cases we go direct as well”, noted Olson. Incidentally, Thales will exploit Certus, as well as SwiftBroadband-Safety (SB-S), when it rolls out next generation avionics with its PureFlyt flight management system. PureFlyt will support 4D trajectory management, and even a fifth dimension, aircraft weight, to enable fuel burn optimization. But it is not tied to a specific aircraft development program. Thales wanted to come out with the new FMS before new aircraft are designed and developed, management said. Thales is therefore positioned to package PureFlyt with FlytLINK as well as satcom hardware to support SB-S, should it so choose.
+
+Three swim lanes
+
+Certus-powered FlytLINK is going to serve military, commercial, helicopter, business jet and commercial air transport, and as such, the product line also “is spread out in terms of having multiple options in terms of cockpit-only, cabin-only, and a combined version that is cockpit and cabin”, explained Olson.
+
+But for the 777X specifically, Thales is focusing on the cockpit-only piece because of Boeing’s “strong interest in that piece”, he said.
+
+Broadly, the Thales executive predicted the demand for FlytLINK “is going to be huge in the coming years and particularly as the safety services comes through … in the next couple of years”.
+
+A move to the right
+
+In prior public statements, Iridium was optimistic that Certus aviation solutions would be ready in 2019. “We anticipate that the first aviation products will be available prior to the Iridium NEXT satellite constellation being completely deployed,” said CEO Matt Desch in a 2017 interview with RGN.
+
+“For Iridium Certus aviation applications, commercial service introduction is expected in 2019, after completion of inflight trials,” stated Iridium when it announced Satcom Direct as a VAM in 2018.
+
+During Iridium’s third quarter 2018 earnings conference call, Desch said some aviation products would be introduced “in the middle of 2019” but that this growth leg wouldn’t pick up until late in 2019.
+
+But during Iridium’s third quarter earnings conference call on 29 October 2019, Desch provided a further update, saying, “Testing of Iridium Certus aviation terminals is currently underway and we expect the first ones should be ready by mid-2020 with certified cockpit safety products to follow later in the year.”
+
+He highlighted the complexity involved in aviation, including around the certification requirements associated with equipping aircraft. “We always expected that would be around mid-2020 to have those really starting to ramp into the market and that seems to be what they are,” said Desch. “So we really haven’t changed our forecast much due to aviation because it really wasn’t hitting in a big way until 2021 and it was not nearly as large as the maritime opportunity, at least in the near term. So that hasn’t really changed much. So I wouldn’t say we’re taking a more conservative view. We still feel very, very good— in fact aviation has always been one of the most, I don’t know, pure advantages where Iridium has over almost any other network because of our ability to cover the poles and because of the size of our antennas and because the cost of them, etc.”
+
+Noting that Iridium didn’t complete its network until 2019, Hooper later told RGN:
+
+…now we’ve launched products in maritime and land; aviation is on the cusp of the products going out. And the market is seeing that Iridium has delivered what they said they’d deliver, so now [for] everyone it’s like real. Certus is real and everybody wants to have that choice of a better L-band solution and we’re working towards it.
+
+While acknowledging that Thales is expected to be first out of the gate, Hooper added, intriguingly. “But there are other players, Collins and Cobham are coming along as well, but the way it looks now is Thales is still going to be the first product [in aviation]…”
+
+Cobham on the march?
+
+Given Hooper’s statement, it certainly sounds as if Cobham is ramping up its Certus VAM work in aviation. The company in 2017 told RGN that, despite its decision to initially focus on maritime products for Certus, it hoped to secure a supplier position in the 2020 timeframe on the 777X for a dual satcom solution, with radios for Iridium and Inmarsat SwiftBroadband (Thales also announced its FlytLINK “Duo” work with Iridium and Inmarsat for the 777X in the same year). And in a 2018 press release announcing Gogo as a new Certus VAM, Iridium referred to Cobham as a “current” Iridium Certus VAM for aviation.
+
+Hooper said only that we can expect “some surprises” regarding the companies that follow Thales’ rollout, and time-to-market, adding that he is excited about what 2020 will bring “for a new choice for operators out there”.
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9998155236244202}",neutral,0.9998155236244202,0
+Thales and GE sign collaboration agreement to provide broad cybersecurity portfolio for the power generation sector - Thales,"Mon, 27 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXQtc3BlY2lmaWMvY3JpdGljYWwtaW5mb3JtYXRpb24tc3lzdGVtcy1hbmQtY3liZXJzZWN1cml0eS9uZXdzL3RoYWxlcy1hbmQtZ2Utc2lnbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and GE sign collaboration agreement to provide broad cybersecurity portfolio for the power generation sector Cybersecurity Cyberthreat Energy OT Share this article
+
+
+
+LinkedIn
+
+A few months after the release of Thales’ Cyberthreat Handbook, detailing the major groups of hackers and identifying the power generation industry as one of the most at risk, Thales and GE Steam Power are establishing a collaboration to deliver a suite of cybersecurity solutions to power plant operators. This agreement, signed today at the International Cybersecurity Forum (France), brings together Thales’ cyber knowledge and GE’s expertise in the power generation industry to help protect customers from cyber risks by providing threat intelligence, joint training and a combined portfolio of cyber solutions.
+
+Offering complementary experience sets and market knowledge, Thales and GE have published a joint cyber threat intelligence report that provides unprecedented analysis about threats in the energy sector. The landscape of cyber threats to the power generation industry follows the evolution of cyber threats in the broadest sense. It evolves, becomes more complex and requires permanent and specialized monitoring. According to the report:
+
+Up to 10% of cyber attacks on operations like power plants are led by highly effective threat actors, whether state-sponsored or cyber criminals. The growing intertwining of companies’ information technology (IT) and operations technology (OT) systems allows attackers to create bridges between any machine and the core infrastructure. While vulnerabilities in IT environments are mostly understood and managed, OT vulnerabilities still lack attention.
+
+Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition Systems (SCADA) are more and more targeted by cyber attacks, especially from state-sponsored groups who know how to exploit the possibility of harshly targeting these systems in the event of international conflicts.
+
+It has become vital for power generation operators to get specific and regular training to understand what they are fighting and how to better protect their systems. Through this partnership, Thales and GE are joining forces to perform joint training for customers that operate individual or fleets of power plants.
+
+As part of the agreement, GE has already installed equipment at the National Digital Exploitation Centre (NDEC), created by Thales and the Welsh government for cyber and digital development and education, in order to carry out demonstrations of cyber-attacks and response scenarios using Thales’s Cyber Range and GE hardware.
+
+>> GE Press release
+
+From left to right, Olivier Jamart Executive - General Manager GE Steam Power and Laurent Maury, VP BL Critical Information Systems & Cybersecurity
+
+About GE Steam Power
+
+GE Steam Power is helping customers achieve their cleaner power generation objectives with a broad portfolio of technologies that can be applied to new-built plants and the installed base across a range of fuel sources including nuclear, coal, oil, biomass, solar and municipal waste. As today’s #1 steam power franchise with more than 30% of the world’s steam turbine installed capacity, 50% of the world's steam turbines operating in nuclear power plants and 30% of the world’s boilers, GE Steam Power technology is delivering solutions that optimize the reliability, affordability, flexibility and environmental impact of steam power plants all over the world.","{'label': 'Neutral', 'score': 0.5993547439575195}",neutral,0.5993547439575195,0
+Thales Reality H simulator ready for landing in the new USA Helisim simulation center - Thales,"Wed, 29 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vbWFya2V0LXNwZWNpZmljL3RyYWluaW5nLXNpbXVsYXRpb24vcHJlc3NfcmVsZWFzZS90aGFsZXMtcmVhbGl0eS1oLXNpbXVsYXRvci1yZWFkeS1sYW5kaW5nLW5ldy11c2HSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The new Helisim state-of-the-art training center is on track at Airbus Helicopters Inc.’s North American headquarters in the heart of the Dallas-Fort Worth metroplex.
+
+Crews have completed construction on the new Helisim Simulation Center building and are now working to finish the interior of the facility. With an initial investment of $40 million, the center will provide introductory and recurrent training to thousands of pilots and technicians each year.
+
+In addition, the first ever Level D Full Flight Simulator in North America for the H145, a high-tech civil helicopter that is growing in popularity in the Americas and worldwide, has just made its way across the Atlantic to arrive in Texas. It will now be reassembled and undergo extensive testing before its final qualification by the Federal Aviation Administration planned mid-2020.
+
+“With the launch of this new Helisim Simulation Center and thanks to the new Thales Level D H145 full flight simulator, Airbus is poised to offer our customers unrivaled training solutions throughout North America,” said Anthony Baker, vice president of Customer Support at Airbus Helicopters North America. “We believe education and training are key to ensuring the safety and strength of the rotorcraft industry for decades to come, and this center will play a major role in doing so.”
+
+Developed by Thales, the Level D H145 full flight simulator fitted with an OEM Airbus Simpack is the most advanced simulator on the market and the second H145 FFS for Airbus globally. This new FFS satisfies the most demanding training needs and gives to pilots a better subjective experience”, explains Jean-Christophe Lejeune, head of bids at Training & Simulation business of Thales. “It combines highest-fidelity simulation of the aircraft with real avionic equipment and Airbus Helicopters rehosted software, operationally-consistent scenarios based on civil security in Texas, and also a strong immersive effect thanks to a larger field of view and 4K projection technology associated with the unique Thales full electric Hexaline motion.”
+
+The new simulation center will house an H160 simulator, once that helicopter model is certified and production is underway. It already incorporates and has been operating since January 2019the AS350 full-flight simulator and EC135/EC145 Flight Training Device.
+
+Helisim is a joint venture of Airbus Helicopters and Thales and DCI. The new Grand Prairie, Texas, center represents a major international expansion for Helisim, which brings two decades of experience in simulation training for Airbus Helicopters aircraft.","{'label': 'Positive', 'score': 0.9330275654792786}",positive,0.9330275654792786,1
+"EUTELSAT KONNECT satellite, built by Thales Alenia Space, now in orbit - Thales","Fri, 17 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9ldXRlbHNhdC1rb25uZWN0LXNhdGVsbGl0ZS1idWlsdC10aGFsZXMtYWxlbmlhLXNwYWNlLW5vdy1vcmJpdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Cannes, January 17, 2020 – The all-electric EUTELSAT KONNECT telecommunications satellite has been successfully launched by Arianespace from the Guiana Space Center, Europe’s Spaceport in French Guiana (South America). EUTELSAT KONNECT was built by Thales Alenia Space, the joint company between Thales (67%) and Leonardo (33%), acting as prime contractor for Eutelsat Communications (Euronext Paris: ETL). From geostationary orbit, this satellite will provide large-scale coverage of high-speed Internet markets across Africa and Europe.
+
+Operational this autumn, EUTELSAT KONNECT will offer a throughput capacity of 75 Gbps, and provide high-speed Internet access up to 100 Mbps for both companies and individuals. In Africa, it will also be used in conjunction with public Wi-Fi terminals so that several users can share Internet access, which will be marketed as coupons that can be paid using a mobile phone.
+
+Key to Eutelsat’s growth strategy based on connectivity, EUTELSAT KONNECT will take a lead role in bridging the digital divide within Africa and Europe. The program will shift into a higher gear in 2022 with the presence of the EUTELSAT KONNECT VHTS (very high throughput satellite), currently under construction by Thales Alenia Space.
+
+Featuring all-electric propulsion and operating in Ka-band, EUTELSAT KONNECT is the first satellite to use Thales Alenia Space’s all-electric Spacebus NEO platform, developed within the scope of the Neosat project partnership set up by the European Space Agency (ESA) and its French counterpart CNES. The satellite weighed 3.6 metric tons at launch. It offers a design life exceeding 15 years.
+
+“As the ambassador for our Spacebus NEO product line, EUTELSAT KONNECT draws on a long in-orbit heritage and innovative solutions to offer a fully modular platform featuring a smart payload for Ka-band broadband services that combine flexibility and maximum throughput,” said Jean-Loïc Galle, President and Chief Executive Officer of Thales Alenia Space. “Along with our customer Eutelsat, we share a joint vision in terms of reducing the digital divide worldwide, to offer connectivity to all. I want to thank Eutelsat for entrusting us with this satellite, as well as all those who contributed to this success, including Arianespace, ESA, CNES and Thales Alenia Space teams. Today’s launch is a technological success, but it’s also the result of the ongoing support for Neosat development by the European and French space agencies, plus the French government’s Investment in the Future Plan, in the very high throughput segment.”
+
+Artistic view ©Thales Alenia Space - Photo ©Thales Alenia Space/Imag[IN]
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of 2.5 billion euros in 2018 and has 8,000 employees in nine countries. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 06 41512685
+
+marija.kovac-somministrato@thalesaleniaspace.com
+
+Tarik Lahlou
+
+Tel : +33 (0)5 34 35 35 67
+
+tarik.lahlou@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9975643157958984}",neutral,0.9975643157958984,0
+Happy Birthday Iridium NEXT - Thales,"Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9oYXBweS1iaXJ0aGRheS1pcmlkaXVtLW5leHTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Three years ago, on January 14 2017, under the sunny skies of California, the first ten Iridium® NEXT campaign satellites were successfully launched from the Vandenberg Air Force Base launch complex. We didn’t appreciate it at the time, but this launch would mark a major milestone in the history of constellations. In effect, it heralded the replacement of the entire existing Iridium constellation. A total of 75 Iridium NEXT campaign satellites were launched at a steady pace, on eight different missions over two years – a remarkable achievement. The constellation was fully operational on February 5, 2019 as it officially entered service.
+
+“Over the last three years, the upgraded Iridium satellite constellation has proven to be robust and reliable, with every satellite operating at high performance” said Matt Desch, CEO of Iridium. “I want to thank Thales Alenia Space, industrial prime contractor for the program, for the excellent job done on this incredibly complex and important program.”
+
+Look back to launch one
+
+Iridium NEXT: the most sophisticated telecommunications system in orbit
+
+​
+
+For those of you who are not yet familiar with this program, the Iridium NEXT campaign launched a constellation of telecommunications satellites in low Earth orbit, comprising 66 operational satellites in six orbital planes at an altitude of 780 km, each plane including 11 interconnected satellites. The constellation also includes nine in-orbit spares and six more on the ground. To give you an idea of their size, each satellite weighed 850 kg on launch, about the weight of a small car.
+
+A global network supplying unrivaled mobile communications capability (for people, land vehicles, aircraft and ships), Iridium NEXT satellites are purpose-designed to offer truly global coverage, including oceans and poles. This complex system, recognized for its robustness and sophistication, is the only one of its kind to operate above oceans and seas, which of course cover some 70% of our planet.
+
+It functions independently from local ground infrastructures, thanks to its inter-satellite links, to guarantee secure communications, protected against intrusion and piracy. Furthermore, in the case of natural disasters such as typhoons, hurricanes and tsunamis, the constellation can play a vital role by maintaining communications services.
+
+Artistic views & video ©Thales Alenia Space/Master Image Programmes - Photos ©Thales Alenia Space Imag[IN]","{'label': 'Positive', 'score': 0.9984802603721619}",positive,0.9984802603721619,1
+How a search and rescue technology saves hundreds of lives each year - Thales,"Tue, 21 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9tYWdhemluZS9ob3ctc2VhcmNoLWFuZC1yZXNjdWUtdGVjaG5vbG9neS1zYXZlcy1odW5kcmVkcy1saXZlcy1lYWNoLXllYXLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"How can a breakthrough technology in satellite search and rescue contribute to saving hundreds of lives a year?
+
+Here’s one reason.
+
+On July 2nd, 2017, at 6:30 am, a 12-metre sailboat 70 kilometres off the Sardinian coast broke its rudder and suffered engine failure in heavy seas and a 40-knot wind.
+
+The three people aboard realised that they were too far for their VHF radio to reach a receiver. So, they triggered a distress call on their beacon from the global search and rescue service Cospas-Sarsat, an international organisation made up of 43 countries worldwide.
+
+A helicopter airlifted the crew to safety within a few hours, saving all three lives, thanks to accurate information on the boat’s position and the ability to dectect a distress signal in under a minute, even from hundreds of kilometres away.
+
+Cospas-Sarsat infrastructure has evolved over recent years, with a large number of Medium Orbit satellites, in addition to former low-altitude or geostationary satellite-based services. Galileo satellites represent more than 90% of the operational space segment. This new infrastructure called MEOSAR provides instantaneous global coverage, immediate location from the first distress burst and unprecedented accuracy, including for moving beacons such as an aircraft in distress. To leverage this increased constellation coverage, the ground infrastructure needs to be able to track as many satellites as possible. That’s where the Meolut NEXT solution, developed by Thales Alenia Space, comes in, thanks to its phased-array antenna.
+
+With this technology applied to the MEOSAR system, the coverage, availability, accuracy and latency are improving for all Cospas-Sarsat beacon users worldwide, paving the way for new system capabilities. In the case of the boat, we can definitely say that this technology helped save lives.
+
+“Our system based in France has, for exemple, been able to detect and localise distress signals from a test beacon in Miami, over 5,000 kilometres away!” says Thibaud Calmettes, Meolut NEXT Design Authority.
+
+Hardware and software breakthroughs
+
+These improvements are the result of the leading hardware and software capabilities integrated into the latest generation of ground stations. They process the signals from satellites that have picked up distress signals. They then calculate the position of the beacon and send it to Mission Control Centre to determine the best rescue resources to be mobilised.
+
+The hardware innovation from Thales Alenia Space consists in miniaturising compact phased-array antennas. These are fitted with a high-performance radio frequency unit for upstream digitising of the signal.
+
+The software boost comes from the highly-innovative algorithmic beamforming processing method that streamlines the functioning of the ground station.
+
+Before the arrival of Thales Alenia Space’s Meolut NEXT systems, conventional solutions, each fitted with six large parabolic antennas in an area about the size of a football field, were capable of receiving signals from six satellites, or one per antenna.
+
+“Thanks to Meolut NEXT technology, instead of having a field of up to 30 dish antennas, you get the same tracking performance with a 4-square-metre flat array antenna,“ says Thibaud Calmettes. “Since there are no mechanical components in these antennas, hardware maintenance costs are the lowest on the market.”
+
+Unprecedented performance to save more lives
+
+Thales Alenia Space is now supplying turnkey ground stations to numerous countries (France, Canada, USA, Togo, La Réunion) aiming to boost their search and rescue capabilities
+
+Leveraging the Meolut NEXT and MEOSAR Galileo systems, Thales Alenia Space is preparing the future, together with the GSA, the ESA and the European Commission , to offer new capabilities to improve the global system. Thales Alenia Space engineers are leading the development of in-flight triggered beacons on board commercial airplanes and general aviation, and is supporting the introduction of Galileo features, notably remote beacon activation.
+
+Thibaud Calmettes adds: “When you know that the number of distress beacons worn by individuals alone has risen 100 per cent in a decade, you understand the contribution being made to saving lives.”","{'label': 'Positive', 'score': 0.6219354271888733}",positive,0.6219354271888733,1
+How digital is transforming today's trains - Thales,"Thu, 30 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9tYWdhemluZS9ob3ctZGlnaXRhbC10cmFuc2Zvcm1pbmctdG9kYXlzLXRyYWluc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"An old school train chugs through the scenic landscape of the Ore Mountains in central Europe. But instead of transporting children to classes, it’s being used to develop and educate a whole new generation of train operators. The objective: transforming the current generation of trains with today’s technologies for improved passenger journeys and more efficient and profitable rail systems.
+
+Dubbed “Lucy”, the train is a rolling laboratory that Thales uses to test and validate technology in co-development with customers. Operating on a dedicated 22-kilometre test track outside Annaberg-Buchholz, close to Chemnitz, Germany, the prototype is designed to prove that the latest innovations in rail technology extend the life cycle of today’s trains and optimise their operations.
+
+“Lucy allows us to demonstrate to operators that their rolling stock can be upgraded with new technologies to stay in use,” says Kai Taylor, Thales Marketing & Communications Director, Main Line Rail Signalling. These innovations include leading edge sensors for position detection and train integrity, as well as video analytics. At first they will be used to support drivers, but eventually they will lead to real train autonomy, which will benefit both drivers and travellers.
+
+Whilst automated, driverless metros are already operating in urban areas, taking train autonomy to the next level means applying it to mainline freight and passenger traffic. Automation means, for example, that the next generation of trains will be able to locate themselves in their environment and interact with other train traffic without human assistance. They will have the ability to detect and manage, on their own, all elements of their environment, orchestrated by a connected traffic management system.
+
+Boosting train performance and autonomy with digital
+
+“The transition toward train autonomy is accelerating,” says Kai Taylor, Thales Marketing & Communications Director, Main Line Rail Signalling. ""And the reason for that can be summed up in one word: digitalisation.”
+
+In the meantime, remote control and more autonomy will make life easier for today’s train drivers, allowing them to take more breaks, for instance, whilst automation keeps the system running. Users will benefit from fewer delays and safer, smoother travels.
+
+Lucy has already been used in a remote test drive in Schlettau, Germany. Thales provided control and safety systems for a 5G project with Vodafone, including installation of the test environment and sensors, along with a remote control system for the train in cooperation with the German Aerospace Centre (DLR) and train positioning and control specialist Railergy.
+
+© Thales
+
+Lucy incorporates technologies that are key within the Thales group, and which represent ways to achieve real train autonomy, such as artificial intelligence, big data, connectivity, the internet of things – linking trains to intelligent railway switches – and built-in cybersecurity. These also include sensors for obstacle detection from the defence domain, as well as safe and precise satellite positioning that derives from the fields of space and avionics.
+
+All these technologies form the basis of Thales’s ground and air transportation expertise, which enables it to provide efficient, safe and reliable travel. Taken together, they will provide trains with true autonomy for safe and efficient operations — to the benefit of both passengers, freight transporters and rail operators.","{'label': 'Positive', 'score': 0.9681478142738342}",positive,0.9681478142738342,1
+Dassault and Thales to build the next French electronic spy plane - AeroTime,"Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvMjQ0NDktZGFzc2F1bHQtYW5kLXRoYWxlcy10by1idWlsZC10aGUtbmV4dC1mcmVuY2gtZWxlY3Ryb25pYy1zcHktcGxhbmXSAW5odHRwczovL3d3dy5hZXJvdGltZS5hZXJvL2FydGljbGVzLzI0NDQ5LWRhc3NhdWx0LWFuZC10aGFsZXMtdG8tYnVpbGQtdGhlLW5leHQtZnJlbmNoLWVsZWN0cm9uaWMtc3B5LXBsYW5lL2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"The French procurement and technology agency, Direction générale de l’armement (DGA) has awarded the Archange airborne strategic intelligence program to Dassault Aviation and Thales. This program will see three Dassault Falcon 8X being fitted with Thales electronic intelligence technologies.
+
+The contract was awarded on December 30, 2019, the DGA announced on January 14, 2020. Thales and Dassault Aviation are now tasked with equipping the future French Army strategic intelligence aircraft with “Universal Warfare Capacities” (CUGE).
+
+The initial order covers the first two Dassault Falcon 8X aircraft. With the first plane expected for 2025, they should eventually replace the two Transall C-160G Gabriel aircraft currently operating in the French Air Force.
+
+The tri-jet Falcon 8X is a business jet that can carry 8 passengers and 3 crew members over a distance of 12,000 km (6,450 nm). According to the manufacturer, its digital flight controls stem directly from Dassault Aviation’s experience acquired with its two latest fighter jets, the Mirage 2000 and the Rafale.
+
+Thales developed its new CUGE sensor specifically for the French military, allowing simultaneously the interception of radio and radar emissions. Multi-polarization antennas will be integrated into the airframe, as well as artificial intelligence technologies that allow for improved data processing. The program also provides a ground training platform. The total value of the contract is unknown.
+
+As an electronic “spy plane”, the role of the Falcon Archange (formerly known as Epicure) is to detect electromagnetic signals emitted on the battlefield, allowing the French army to evaluate the number and type of enemy forces in order to use the appropriate countermeasures. “The ability to anticipate developments is key to national security, and reliable intelligence is therefore a critical requirement to understand the risks and inform operational decisions,” explains Nadim Traboulsi, Archange program director for Thales.","{'label': 'Neutral', 'score': 0.994702160358429}",neutral,0.994702160358429,0
+Thales helps Singapore's aviation industry take flight - Thales,"Fri, 17 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9zaW5nYXBvcmUvbWFnYXppbmUvdGhhbGVzLWhlbHBzLXNpbmdhcG9yZXMtYXZpYXRpb24taW5kdXN0cnktdGFrZS1mbGlnaHTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Air traffic growth in the Asia-Pacific region is set to take off in a big way, soaring through the next decade and beyond. From now till 2035, the region will see the fastest spurt in air traffic demand, at a growth rate of 4.7% or an additional 1.8 billion passengers annually, according to estimates from International Air Transport Association (IATA). Four of the five fastest growing passenger-volume markets are projected to come out of Asia, namely, China, India, Indonesia and Vietnam.
+
+Strategically located at the heart of this region, Singapore stands within this nexus of growth. The city state’s renowned efficiency, supported by its world-class airport facilities and aviation management systems are not only well-placed to benefit from the region’s aviation growth, but will help power the region’s potential.
+
+As a leading solutions provider in aerospace, defence, ground transportation, and digital identity and security, Thales has been helping to drive Singapore’s ambitions across various sectors, notably within aviation, since 1973.
+
+Over the nearly five decades here, Thales has played a key role in enhancing Changi Airport’s air traffic management (ATM) system. Together with our customer, Thales will tap on new innovations and digital technologies to support the development of next-generation ATM solutions that address challenges unique to Singapore and the region.
+
+Additionally, Thales has built strong industrial capabilities in avionics production and Maintenance, Repair and Overhaul (MRO) to support the aerospace industry and regional airlines from Singapore. We have developed in-flight entertainment systems on-board major carriers such as Singapore Airlines, and enabled round-the-clock apron surveillance at Changi, among others.
+
+As air traffic continues to grow amid the digital age, Thales is continuing its Singapore journey through user-centric innovations to help Changi Airport keep its status as one of Asia’s leading aviation hubs.
+
+The Thales Digital Factory in Singapore, its third location after Paris and Montreal, has nearly 30 experts conducting deep research and technology to sharpen the technological offerings as well as nurture the next wave of engineers. Thales has also entered into strategic partnerships to help build leading-edge capabilities for various sectors.
+
+Come join us at the Singapore Airshow 2020 to witness how Thales is helping Singapore’s aviation industry take flight - from providing seamless air travel experience for passengers, to safeguarding the skies of Singapore through our ATM and integrated airspace protection-systems.
+
+As the region’s prospects continue to grow, Thales will be the wind that fans the region’s ambition to take off for the future, at the same time enabling Singapore to retain its leading edge.","{'label': 'Positive', 'score': 0.9999984502792358}",positive,0.9999984502792358,1
+Germany: Thales and Rheinmetall to offer 70mm rocket system for Tiger MK3 upgrade - Defense Brief,"Wed, 08 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMicWh0dHBzOi8vZGVmYnJpZWYuY29tLzIwMjAvMDEvMDgvZ2VybWFueS10aGFsZXMtYW5kLXJoZWlubWV0YWxsLXRvLW9mZmVyLTcwbW0tcm9ja2V0LXN5c3RlbS1mb3ItdGlnZXItbWszLXVwZ3JhZGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"German defense contractor Rheinmetall has teamed up with Thales to jointly offer the latter’s 70 mm guided rocket systems for the Tiger MK3 upgrade program in Germany.
+
+The Tiger MK3 upgrade is an international undertaking that will see Germany, France, Australia, and Spain work together on upgrading the helicopters from 2023.
+
+Rheinmetall and Thales said they would propose important complementary capabilities with a guided rocket in “lock-on-before-launch” mode, additional communication between the rocket system and the platform, identification, and remote control.
+
+The two sides would also explore the potential to offer the systems for other platforms in the German Armed Forces.
+
+The Thales 70mm rocket systems are currently used on the Spanish and German versions of the Tiger helicopters and under certification on Airbus Helicopters H145M.
+
+“This strengthening of the collaboration in Germany between Thales and Rheinmetall is good news for both groups. We will provide our expertise with the 70mm (2.75”) rocket systems, which equip already many platforms in the world, and Rheinmetall the knowledge of the German customer,” Stéphane Bianchi, director of the Airborne Armament business segment, Thales.
+
+“This is a true win-win, at a time when Airbus Helicopters is developing its Tiger MK3 version.”","{'label': 'Neutral', 'score': 0.9912254214286804}",neutral,0.9912254214286804,0
+Thales and Dassault Aviation win contract for France's new strategic airborne intelligence programme - EDR Magazine,"Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy1hbmQtZGFzc2F1bHQtYXZpYXRpb24td2luLWNvbnRyYWN0LWZvci1mcmFuY2VzLW5ldy1zdHJhdGVnaWMtYWlyYm9ybmUtaW50ZWxsaWdlbmNlLXByb2dyYW1tZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The French Armament General Directorate (DGA) has awarded Thales and Dassault Aviation the ARCHANGE [1] programme to strengthen France’s signals intelligence (SIGINT) capabilities.
+
+Thales will work with Dassault Aviation on behalf of the DGA and the armed forces to integrate the CUGE [2] electronic warfare system on board Dassault’s Falcon 8X aircraft.
+
+The ARCHANGE programme will be conducted in accordance with a new government directive on defence programmes (Ministerial Instruction 1618), which places added emphasis on agile, collaborative working methods.
+
+On 30 December 2019, the French Armament General Directorate (DGA) awarded Thales and Dassault Aviation the contract to equip the French Army’s future strategic intelligence aircraft with the CUGE universal electronic warfare capability. The contract covers the first two aircraft on the programme. CUGE will ultimately be deployed by three Falcon X aircraft, built by Dassault Aviation, to replace the two Transall C-160 Gabriel aircraft in service with the French Air Force from 2025.
+
+With the ongoing development of digital technologies for the battlefield of the future, the armed forces are in the process of enhancing their intelligence capabilities. In the theatre of operations, they need to manage ever more complex tactical situations in real time, deploying surveillance systems that enable the intelligence services to make the best decisions in a timely fashion.
+
+Thales, in partnership with Dassault Aviation, the DGA and the armed forces, has developed a new generation of signals intelligence (SIGINT) technologies under several advanced study programmes. Thales will produce all the sensors for the SIGINT payload and integrate the overall system on board Dassault Aviation’s Falcon 8X aircraft.
+
+These new technologies will enable the system to detect and analyse radar and radar signals simultaneously for the first time, in particular thanks to Thales’s multi-polarisation antennas and the use of its artificial intelligence technologies to automate data processing.
+
+The information collected by the systems will then be analysed by monitoring and intelligence specialists and fed into armed forces databases. The programme also includes a ground-based training platform. Through this new programme, the French armed forces will once again rely on Thales expertise to significantly enhance their SIGINT capabilities, and will gain a crucial advantage through a better understanding of the strategic environment.
+
+“The ability to anticipate developments is key to national security, and reliable intelligence is therefore a critical requirement to understand the risks and inform operational decisions. Thales, in partnership with Dassault Aviation, is proud to support the French armed forces on this strategic programme, which will bring the country new intelligence capabilities by developing the successor to the Transall Gabriel as part of Europe’s defences.” Nadim Traboulsi, ARCHANGE programme director for Thales.
+
+[1] Avion de Renseignement à CHArge utile de Nouvelle Genération / Intelligence aircraft with new-generation payload
+
+[2] Capacité universelle de guerre électronique / Universal electronic warfare capability
+
+Pictorial courtesy Thales","{'label': 'Positive', 'score': 0.6856392025947571}",positive,0.6856392025947571,1
+Thales systems tested on Mexican vessel | Shephard - Shephard News,"Fri, 10 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNoZXBoYXJkbWVkaWEuY29tL25ld3MvbmF2YWwtd2FyZmFyZS90aGFsZXMtc3lzdGVtcy10ZXN0ZWQtbWV4aWNhbi12ZXNzZWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales equipment has been put through its paces during Sea Acceptance Trials of the Mexican Navy’s first Pola class vessel.
+
+The trials were carried out in November and December 2019 off the Mexican west coast.
+
+During the trials ARM Reformador faced various surface and air threats, with the vessel’s Thales SMART-S Mk2 radar demonstrating its capabilities in a series of scenarios including sea skimming and supersonic flight.
+
+Following the successful trials, the project’s next milestone is the commissioning of the ship into active service with the Mexican Navy, which is expected in February 2020.
+
+Thales equipment on board ARM Reformador includes the Tacticos combat management system, the SMART-S Mk2 Air and Surface Surveillance Radar, the STIR 1.2 EO Mk2 radar and EO tracking system, the Gatekeeper EO ship security system, and the CAPTAS-2 passive variable depth sonar.
+
+Furthermore the C-Guard Decoy launcher and RIGEL Radar-Electronic Support Measures and Radar-Electronic Counter Measures systems have been supplied and integrated into Tacticos.
+
+Thales also delivered and integrated a full armament suite including RAM surface to air missile launcher, Harpoon surface to surface missile launcher, 57mm gun, 12.7mm machine guns, and Mk38 25mm machine gun with dedicated console.","{'label': 'Neutral', 'score': 0.7896298170089722}",neutral,0.7896298170089722,0
+"Thales unveils Cybels Analytics, its new AI-based platform to detect the most complex cyberattacks - EDR Magazine","Thu, 23 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVkcm1hZ2F6aW5lLmV1L3RoYWxlcy11bnZlaWxzLWN5YmVscy1hbmFseXRpY3MtaXRzLW5ldy1haS1iYXNlZC1wbGF0Zm9ybS10by1kZXRlY3QtdGhlLW1vc3QtY29tcGxleC1jeWJlcmF0dGFja3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"23 January 2020 – At the 2020 edition of the International Cybersecurity Forum (FIC), Thales is unveiling Cybels Analytics, an innovative cybersecurity platform relying on advanced artificial intelligence and Big Data analytics technologies. The platform provides faster, sharper, more exhaustive detection of the most complex attacks in real time or proactively in differed time (hunting). It meets the needs of the most demanding customers, operating as a single, simple platform that even allows individual users to adapt the AI algorithms to the specific operational context of each sector.
+
+The cyberattack techniques that have emerged in recent years are increasingly complex and hard to detect. Despite growing awareness on the part of organisations, and frequent deployments of rules-based detection systems designed around well-known attack patterns, cybersecurity analysts also need to detect previously unknown threats, detect attacks more quickly and save time in conducting investigation analysis once a system has been compromised.
+
+Thales has developed Cybels Analytics, a comprehensive and advanced attack detection solution, to meet these needs. The innovative platform combines real-time threat detection based on analysis of existing threats (Cyber Threat Intelligence) and proactive search for advanced and unprecedented cyberattacks (“cold” investigation or Hunting), thanks to artificial intelligence and graphic visualization modules. These capabilities significantly reduce the time taken to detect advanced persistent threats from three months in average to just a few days, according to test results.
+
+Cybels Analytics uses machine learning algorithms developed by Thales to detect abnormal situations based on huge volumes of heterogeneous data from multiple sources (network data, end point analysis, OT logging, etc.), helping to identify attack patterns and discover previously unknown threats. These algorithms, based on the principles of Thales TrUE AI, can be tailored to the specific needs of each business sector of activity by customers themselves via an easy-to-use graphical interface.
+
+Cybels Analytics can be integrated with an on-premise Security Operations Centre (SOC) or provided as a service in the cloud, enabling all the user’s detection systems (SIEM, EDR, NIDS, etc.) to work together and complement one another. The platform is an important addition to Thales’s cybersecurity offering, rounding out the range of managed services provided through its SOC network and supporting the Cybels Sensor trusted probe, which is accredited by France’s National Agency for Information System Security (ANSSI). Cybels Analytics is also connected to the Thales Cyber Threat Intelligence service. By cross-referencing information about existing cyberthreats with an organisation’s system logs, Cybels Analytics ensures more acute, more exhaustive detection of untargeted attacks, revealing three times more indicators of compromise detection than conventional attack detection products.
+
+With the entire threat detection ecosystem integrated on the same platform, Cybels Analytics improves the customer’s detection capabilities while simplifying the process for users. In addition, to tailor the platform to the specific environment of each sector of activity, powerful data visualisation modules enable users to run their own searches easily, identify any anomalies at a glance and save precious time at the investigation analysis stage. While it often takes weeks to build a complete picture of an organisation’s information system using standard investigation products, Cybels Analytics shortens this process to just a few hours.
+
+Thales’s Cybels Analytics platform is a powerful log analytics solution that automatically learns from experience, allowing enterprise and government customers to detect more anomalies faster and better, and continuously improving the operational efficiency of their efforts to detect new threats and tailor their cyber defences to their specific operating environments.
+
+“We developed Cybels Analytics to help cybersecurity analysts overcome the challenges they face on a daily basis: growing data volumes, long detection times and investigation procedures, and the difficult task of qualifying previously unknown situations. Cybels Analytics is a trusted solution that delivers more efficient results, more simply and in a significantly shorter timeframe so that users can focus on value-added tasks in an area where talent is scarce and needs are constantly rising.”
+
+– Laurent Maury, Vice President, Cybersecurity and Critical Information Systems, Thales
+
+[1] Trustable, Understandable and Ethical: the Thales TrUE AI approach is based on transparent AI, where users can see the data used to reach a conclusion; understandable AI that can explain and justify the results; and ethical AI that follows objective protocols and laws, and protects human rights.
+
+Photo courtesy Thales","{'label': 'Neutral', 'score': 0.9538661241531372}",neutral,0.9538661241531372,0
+Airborne intelligence program to utilize CUGE EW capability - Military Embedded Systems,"Fri, 17 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbWlsaXRhcnllbWJlZGRlZC5jb20vcmFkYXItZXcvc2lnaW50L2FpcmJvcm5lLWludGVsbGlnZW5jZS1wcm9ncmFtLXRvLXV0aWxpemUtY3VnZS1ldy1jYXBhYmlsaXR50gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Airborne intelligence program to utilize CUGE EW capability
+
+News
+
+Emma Helfrich Technology Editor Military Embedded Systems
+
+FRANCE. The French Armament General Directorate (DGA) awarded Thales and Dassault Aviation a contract to equip the French Army's future strategic intelligence aircraft with the CUGE universal electronic warfare capability. The contract covers the first two aircraft on the program.
+
+CUGE will ultimately be deployed by three Falcon X aircraft, built by Dassault Aviation, to replace the two Transall C-160 Gabriel aircraft in service with the French Air Force from 2025.
+
+Thales, in partnership with Dassault Aviation, the DGA, and the armed forces, has developed a new generation of signals intelligence (SIGINT) technologies under several study programs. Thales will produce all the sensors for the SIGINT payload and integrate the overall system on board Dassault Aviation's Falcon 8X aircraft.
+
+These new technologies will enable the system to detect and analyze radio and radar signals simultaneously using Thales' multi-polarization antennas and the use of its artificial intelligence technologies to automate data processing. The program also includes a ground-based training platform.","{'label': 'Neutral', 'score': 0.9972284436225891}",neutral,0.9972284436225891,0
+France hires two firms to soup up jets with an electronic warfare capability - C4ISRNET,"Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vYmF0dGxlZmllbGQtdGVjaC9jMi1jb21tcy8yMDIwLzAxLzE0L2ZyYW5jZS1oaXJlcy10d28tZmlybXMtdG8tc291cC11cC1qZXRzLXdpdGgtYW4tZWxlY3Ryb25pYy13YXJmYXJlLWNhcGFiaWxpdHkv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — France has awarded a contract for Archange, its strategic airborne intelligence program aimed at strengthening the country’s signals intelligence capabilities, to Thales and Dassault Aviation.
+
+The procurement agency DGA awarded the contract on Dec. 30, but it wasn’t announced until Tuesday. The program was launched Nov. 18 by Armed Forces Minister Florence Parly.
+
+The companies would not specify how much the contract was worth.
+
+Thales is expected to install a universal electronic warfare capability on three Dassault-manufactured Falcon 8X aircraft, although the announced deal is only for two aircraft. Another contract is expected to cover a third aircraft at a later date. The first two aircraft should, by 2025, replace the two Transall C-160 Gabriel aircraft that provide the French Air Force which signals intelligence.
+
+The electronic warfare system, known by its French acronym CUGE (capacité universelle de guerre électronique), will make use of sigint technologies developed by Thales over the past decade to enable the system to simultaneously detect and analyze radio and radar signals. Thales said in a statement that this is possible thanks to multipolarization antennas and the use of artificial intelligence for automated data processing.
+
+The tri-jet Falcon 8X is Dassault’s flagship business jet. It has a range of 7,500 miles, but a spokesman for Dassault told Defense News that this did not necessarily mean the sigint version, called Archange (avion de renseignement à charge utile de nouvel génération), would have the same range.
+
+The contract also includes the supply of a ground-based training platform, which will be based at Evreux, south of Paris.
+
+Christina Mackenzie was the France correspondent for Defense News.","{'label': 'Neutral', 'score': 0.9998420476913452}",neutral,0.9998420476913452,0
+Tiger MK3 Helicopter ~ Rheinmetall and Thales To Team - Joint Forces,"Wed, 08 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmpvaW50LWZvcmNlcy5jb20vZGVmZW5jZS1lcXVpcG1lbnQtbmV3cy8yODcxMy10aWdlci1tazMtaGVsaWNvcHRlci1yaGVpbm1ldGFsbC1hbmQtdGhhbGVzLXRvLXRlYW3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Rheinmetall and Thales are teaming in Germany within the field of unguided and guided rockets to propose complementary capabilities for the Tiger MK3 programme.
+
+~
+
+Press Release, Düsseldorf, 08 January 2020: Rheinmetall and Thales have signed an agreement to support together the future developments, qualification and production of the 70mm (2.75”) guided and unguided rockets solutions for helicopters as well as potentially other new platforms in Germany.
+
+This agreement aims to support together the future developments, qualification and production of the 70mm (2.75”) rocket systems for the German market
+
+Rheinmetall Waffe Munition GmbH will lead the team towards the German customers
+
+Together, the two international groups will propose complementary capabilities for the Tiger MK3 programme.
+
+Thales 70mm launcher on Rheinmetall Mission Master module during DSEI 19 build-up [©Bob Morrison]
+
+The Thales 70mm (2.75”) rocket systems are currently operated on UHT Tiger and under certification on Airbus Helicopters H145M. As part of the agreement, Rheinmetall Waffe Munition GmbH will lead the team towards the German customers and use its wide experience as main supplier to the Bundeswehr to ensure the future requirements are met. The agreement deepens the existing relationship between Thales and Rheinmetall in this field as other members of Rheinmetall Group are working in collaborative integration programs with Thales like on Rheinmetall Canada’s Mission Master UGV.Together, Rheinmetall and Thales propose important complementary capabilities, especially in the frame of the Tiger MK3 programme (guided rocket in ‘Lock-On-Before-Launch’ mode, additional communication between the rocket system and the platform, identification, remote control…)
+
+Torsten Böhm, Senior Vice President ‘Business Development and Sales’, Rheinmetall Waffe Munition: “The multi-decade experience and quality of the Thales 70mm rockets fit perfectly to Rheinmetall’s activities to provide the users in Germany with the best products. The Thales portfolio in this domain is complementary to the current Rheinmetall technical portfolio. This gives the opportunity to combine forces, but more important gives the user direct access to products, meeting the highest requirements on effectiveness, accuracy and safety. And that is our mission.”
+
+Stéphane Bianchi, director of the Airborne Armament business segment, Thales: “This strengthening of the collaboration in Germany between Thales and Rheinmetall is good news for both groups. We will provide our expertise with the 70mm (2.75”) rocket systems, which equip already many platforms in the world, and Rheinmetall the knowledge of the German customer. This is a true win-win, at a time when Airbus Helicopters is developing its Tiger MK3 version.”
+
+French Tigre (Tiger) helicopter [©Bob Morrison]","{'label': 'Neutral', 'score': 0.9968101382255554}",neutral,0.9968101382255554,0
+Scanning for Trouble - Asian Military Review,"Tue, 28 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMjAvMDEvc2Nhbm5pbmctZm9yLXRyb3VibGUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Ground Surveillance Radars (GSRs) help safeguard border lines, military and civilian installations and infrastructure. With local security challenges in mind, several GSR vendors are looking closely at the Asia-Pacific.
+
+In Asia-Pacific, as elsewhere, ground threats to national borders pose a serious problem, particularly at times when insurgency is high. To combat this, Ground Surveillance Radars (GSRs) play an instrumental role in helping to protect sensitive areas. Increasingly, these radars are also called upon to help detect Unmanned Aerial Vehicles (UAVs). Although not a replacement for optronics, radar is attractive as a tool to support ground surveillance. It may not be adversely affected by low visibility, fog or haze in the same way as optronics. Secondly, it is immune to camouflage; a person will still show up on a radar regardless of how good their camouflage is.
+
+Design of GSRs
+
+Mark Radford, co-founder and chief executive officer of Blighter Surveillance Systems says that a number of considerations must be factored into the design of GSRs intended for the Asia-Pacific: “For GSRs to be effective in this region, they need to be robust and low maintenance to cope with the environmental extremes of -30 degrees Celsius (-22 degrees Fahrenheit) in winter and a humid +40ºC (104ºF) in summer.” A written statement from Collins Aerospace, which builds the PSR-500 GSR (see below), emphasised the drivers for the GSR market in the Asia-Pacific including “the growing need for the protection of secure sites, critical infrastructure, military bases, camps and assets against current and emerging threats.”
+
+Radford adds that “political instability in many parts of this region serves to intensify the need for an effective surveillance solution.” For Steen Trier, Terma’s director of sales for the company’s surveillance and mission systems, demand for GSRs in the defence domain still outstrips that of the civilian domain, although demand in the latter is increasing: “The needs (of the) defence sector usually outnumbers the rest, due to the need for military perimeter and border protection. We also see an increasing interest from end-users involved in ensuring security in the energy, transportation and communications sectors.”
+
+Counter UAV
+
+Traditionally, GSRs are used to detect people and vehicles. They are increasingly being employed to detect low-flying UAVs and drones. Such targets may fly relatively close to the ground, typically at altitudes of up to 500 feet (152 metres). This can place such flying objects squarely within the elevation FOV of some GSRs. Moreover, a UAV or drone’s size can make its detection by conventional ground-based air surveillance radars difficult.
+
+These aircraft can present a threat as they can be used to gather reconnaissance and, in nefarious cases, carry explosives. This March is was reported that the YPG/PKK Kurdish separatist group had made up to twelve attempts to target Turkish military bases in the southeast of the country with explosive-laden drones. The attacks are believed to have originated from Kurdish-controlled areas in Syria. Fortunately on this occasion the attacks were foiled.
+
+X-band GSRs
+
+Thales has taken these threats into account with the realisation of the company’s Squire Mk.2 GSR. The Squire Mk.2, like its predecessors, is an X-band (8.5 gigahertz/GHz to 10.68GHz) GSR with an instrumented range of up to 45 kilometres/km (28 miles). X-band is an attractive waveband for GSRs. The short wavelengths of X-band transmissions lets such radars detect targets in fine detail. This is an important consideration when it is necessary to depict targets such as people crawling and moving vehicles, and to discriminate them from animals.
+
+X-band radars achieve such a performance using comparatively small-sized antennas, allowing them to be moved with relative ease; a Squire radar can be carried by two people in backpacks. The trade-off is that X-band radars have a comparatively short range compared to lower frequency radars transmitting in S-band (2.3GHz to 2.5GHz/2.7GHz to 3.7GHz) and L-band (1.215GHz to 1.4GHz). Nevertheless, this is an acceptable compromise.
+
+A GSR will typically be required to look several kilometres out from a base to provide early warning of approaching potentially hostile troops or vehicles. Such ranges may also be sufficient to protect a border from people attempting to cross it illegally. All radars are, to an extent, restricted to a line-of-sight range. Therefore one may as well use a radar providing a detailed depiction of targets within its line-of-sight.
+
+Thales’ Squire Mk.2
+
+Thales’ Squire Mk.2 includes a new processor and an embedded, uncooled infrared camera. Its detection range for a person has been increased to 13km (eight miles), compared to the 10km (six miles) of the previous version. Regarding counter-drone performance, Thales officials told the author that the radar can detect a drone at 2.7 nautical miles/nm (five kilometres) and classify that drone at 2.2nm (4km) range. The radar can also measure the altitude of such targets.
+
+Thales added that existing Squire radars can be upgraded to the Squire Mk.2 specification. This is already being done for the Koninklijke Landmacht (Royal Dutch Army) which is upgrading 70 of its radars to Squire Mk.2 status. The first upgraded radars will be delivered to the force by the final quarter of 2019. The Canadian Army has, meanwhile, received new Squire Mk.2 radars.
+
+PSR-500
+
+Collins Aerospace has been energetically promoting its PSR-500 C-band Frequency Modulated/Continuous Wave (FMCW) perimeter protection radar. The company states that this product “combines all functionalities for ground intrusion detection, such as the efficient detection of moving targets, night and day whatever the weather conditions.”
+
+Its statement goes on to say that the PSR-500 “is a low power, lightweight and easily-deployable system, well adapted for the surveillance of various types of sites.” The radar can detect a person at a range of 500m (1,640ft) and a vehicle at 900m (2,952ft). Many radars employ Pulse Doppler techniques to determine the speed of a target relative to the radar.
+
+Pulse Doppler radars
+
+The radar transmits a pulse of Radio Frequency (RF) energy which travels at the speed of light, 161,825 knots-per-second (299,700 kilometres-per-hour). By halving the time it takes for the radar to transmit a pulse, and then receive that pulse’s echo as it is reflected by the target, one can ascertain the target’s distance from the radar. Exploiting the Doppler Effect enables the measurement of the target’s velocity.
+
+An oft quoted example of the Doppler Effect is the seemingly rising tone of a police car’s siren when approaching a stationary observer, and the seemingly declining tone that it makes as it drives away. This is because the sound waves take a progressively shorter time to reach the observer as the police car approaches and progressively longer as it drives away. Pulse Doppler radars exploit this change in frequency of the echoes to determine a target’s speed.
+
+FMCW radar
+
+FMCW work in a different way. Whereas Pulse Doppler radars transmit a pulse of RF energy an FMCW radar transmits a continuous signal. The signal’s frequency will change over a set time pattern as the signal is swept across a set bandwidth. The radar will record which frequency was transmitted at which particular time, and record the frequency of the echo when the signal hits a target. These two signals (original signal and the echoed signal) will be mixed together thus creating a new signal. It is this latter signal that will be processed to determine the target’s distance and velocity.
+
+FMCW are less complex to construct than their pulse Doppler counterparts, and hence can be less expensive. Such radars can also have a small physical size making them easy to transport and install, and use comparatively less power making them not only less expensive to operate, but potentially harder to detect by electronic support measures. FMCW radar is particularly attractive for applications where the user may need to procure several GSRs, such as to position along a border, or to protect the perimeter of a base.
+
+Blighter’s GSRs
+
+Blighter’s GSRs employ a mix of FMCW and Doppler processing. The company has enjoyed success with its B-400 series Ku-band (13.4GHz to 14GHz/15.7GHz to 17.7GHz) systems which have an instrumented range of up to 25km (15.5 miles) for a large vehicle, and 4.6km (2.9 miles) for a crawling person. They can detect a target moving as slow as 0.37 kilometres-per-hour (0.23 miles-per-hour).
+
+The FOV of the B-400 series is dependent on the number of antennas used therein. The baseline B-402 has a 90 degree horizontal FOV using a single antenna. This can be increased to 360 degrees for the B-442 which employs four antennas. As Radford notes these azimuths allow “hills, mountains, plains, riverine territories and marshes to be scanned simultaneously, without the need to tilt the radar.” Meanwhile, the 20 degree elevation beam width “provides detection of low flying manned aircraft, UAVs and drones, which is a growing concern in most border or coastal security applications.”
+
+In 2010 Blighter began supplying B-400 series radars to equip the DMZ (Demilitarised Zone); the de facto border between the Republic of Korea and the Democratic People’s Republic of Korea. The firm supplied 120 examples of these radars to this end, Radford notes. Procurements of the B-400 have also been made by India. These radars equip the Indian government’s Comprehensive Integrated Border Management System (CIBMS). The CIBMS introduces several technologies, including radar, to improve the surveillance of India’s borders with Bangladesh and Pakistan.
+
+SCANTER-1002
+
+The Danish radar specialists are looking closely at the Asia-Pacific as a market for its SCANTER-1002 ground surveillance radar. Transmitting in Ku-band, this radar has an instrumented range of up to twelve kilometres (7.4 miles), detecting a person at 3.7km (2.2 miles) and performing continuous scanning across a 360 degree radius.
+
+Trier says that this radar is currently “deployed and operational in a number of Critical Infrastructure Protection systems in the Middle East and in the USA where it is used to provide enhanced situational awareness to protect sensitive sites and strategic assets.”
+
+He says that the “Asia-Pacific market holds a large number of interesting opportunities.” Trier continues that the company has “identified several projects within the military, paramilitary and civilian areas (in the Asia-Pacific) for which high resolution area surveillance is very important.”
+
+The Asia-Pacific Market
+
+Collins Aerospace expects the need for GSRs to grow in the Asia-Pacific: “Demand for the protection of secure sites and critical infrastructure will increase. Leveraging current and future technologies such as drones and artificial intelligence to detect, identify and contain threats will increase the need for GSR in the Asia-Pacific,” the firm’s statement argues.
+
+Radford agrees saying that the potential threat emanating from drones and UAVs is driving the market: “The ability to simultaneously detect drones and ground targets is key to enhancing security when drones are commonly used for surveillance as a precursor to the physical (action) by the transgressors themselves.”
+
+The drive to protect key sites and military deployments against drones has been noted by Terma with Trier stating that “the detection and tracking of drones represent a real threat since their incursion not only disrupts civilian infrastructure (such as airports) but (can also) be a threat to lives and valuable assets.”
+
+Radford expects a plethora of security challenges to continue driving the demand for GSRs in the Asia-Pacific: “We are receiving increased enquiries for our ground and coastline security radars to help secure borders and coastlines against a multitude of threats including smuggling, terrorism, people-trafficking and illegal immigration.”
+
+Security challenges show no signs of abating in the Asia-Pacific. Fortunately, ground surveillance radars can play an important role in helping to keep such challenges in check.
+
+by Dr. Thomas Withington","{'label': 'Neutral', 'score': 0.9477667808532715}",neutral,0.9477667808532715,0
+Heathrow Airport Gets Thales Anti-Drone System to Detect Threats - BNN Bloomberg,"Tue, 14 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJubmJsb29tYmVyZy5jYS9oZWF0aHJvdy1haXJwb3J0LWdldHMtdGhhbGVzLWFudGktZHJvbmUtc3lzdGVtLXRvLWRldGVjdC10aHJlYXRzLTEuMTM3MzQ3NtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"(Bloomberg) -- Want the lowdown on European markets? In your inbox before the open, every day. Sign up here.
+
+London’s Heathrow airport has deployed a system designed to block drones entering its airspace following a string of recent attempts that threatened Europe’s busiest travel hub.
+
+The airport, classified as a flight restriction zone by authorities, is now using a product manufactured by France’s Thales SA to detect and identify drones. The French company declined Tuesday to detail the contract’s value or the precise specification being used at Heathrow.
+
+Illegal drones are a growing problem for airports, utilities and factories. While their use is often meant to be disruptive -- when used for example by activists -- or for surveillance, they have recently been used in destructive attacks in Saudi Arabia. Companies like Thales have sought to increase their use beyond military solutions to seize market opportunities.
+
+Heathrow chose a holographic radar system developed by Aveillant Ltd., a Cambridge, England company acquired by Thales in 2017. Its technology is now part of the French defense contractor’s anti-drone solution, EagleShield.
+
+The radar system is also used at Paris’s Charles de Gaulle airport. It can detect drones as far as 5 kilometers (3.1 miles) away in all directions, according to Aveillant’s website. Appropriate countermeasures can then be deployed.
+
+Representatives for Thales wouldn’t say what Heathrow planned to use as a countermeasure, but said drone-disabling technology was not part of its contract with the airport. A spokesman for Heathrow declined to comment.
+
+Away from transit hubs, common solutions include the use of radio waves to jam the signal used by a pilot to control a drone, or take over control of the unit. Other methods include dispatching eagles or giant nets to pull craft out of the sky.
+
+In September, police in London arrested two people outside the perimeter of Heathrow after climate protesters attempted to close it with illegal drone flights. Campaigners said at least one craft was successfully launched, though departures and arrivals did continue. In Dec. 2018, flights at Gatwick airport were halted for more than a 24 hours during pre-Christmas high season following reports of drone sightings close to its runway.
+
+Read More: Drone Industry Fears Political Attack After Gatwick Shutdown
+
+To contact the reporter on this story: Helene Fouquet in Paris at hfouquet1@bloomberg.net
+
+To contact the editors responsible for this story: Giles Turner at gturner35@bloomberg.net, Nate Lanxon, Amy Thomson
+
+©2020 Bloomberg L.P.","{'label': 'Neutral', 'score': 0.9970952272415161}",neutral,0.9970952272415161,0
+Polish workers reveal poor conditions of Blue Brexit passports factory - Daily Mail,"Sat, 11 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtNzg3NzM5NS9Qb2xpc2gtd29ya2Vycy1yZXZlYWwtcG9vci1jb25kaXRpb25zLUJsdWUtQnJleGl0LXBhc3Nwb3J0cy1mYWN0b3J5Lmh0bWzSAX1odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTc4NzczOTUvYW1wL1BvbGlzaC13b3JrZXJzLXJldmVhbC1wb29yLWNvbmRpdGlvbnMtQmx1ZS1CcmV4aXQtcGFzc3BvcnRzLWZhY3RvcnkuaHRtbA?oc=5&hl=en-US&gl=US&ceid=US:en,"Britain's post-Brexit blue passports are being made by factory workers taking home as little as £400 a month.
+
+While French multinational Thales is being paid £260 million for the contract with the UK Government, staff at its factory in Poland are quitting to earn more money as fishmongers or waitresses.
+
+The Mail on Sunday has spoken to current and former employees who have complained of being underpaid and they claim the working conditions are so poor that the factory can ‘feel like prison’.
+
+Britain's post-Brexit blue passports are being made by factory workers taking home as little as £400 a month. Pictured: Our mock-up of Boris Johnson proudly brandishing a blue passport
+
+The replacement of the burgundy EU passports introduced in 1988 by the new blue version this year has been gleefully anticipated in Britain.
+
+The words ‘European Union’ have already stopped appearing on new UK passports, though Britons will be able to use EU lanes at airports during the 11-month transition period from January 31.
+
+But the epochal landmark of Brexit is far removed from the working lives of the 500 employees at the factory on the fringes of the small northern Polish town of Tczew, until now noted only as the place where the Second World War began.
+
+Outwardly, there is little to distinguish the imposing building but this is where the world’s most secure credit cards and passports are made using cutting-edge technology. One current worker, who spoke on condition of anonymity, said staff were expected to use two or three different machines at once, which he claimed was unsafe.
+
+In 2018, when the new contract was awarded to Franco-Dutch firm Gemalto, the Home Office controversially claimed the deal would save the taxpayer £140 million on the previous contract with British company De La Rue. Pictured: Gemalto passport factory in Tczew, Poland
+
+He said: ‘We work 12-hour shifts anyway but the company strongly encourages overtime, which can be exhausting. Working there can feel like prison sometimes.’
+
+Some workers say they have been forced to claim paid sick leave so they can make more money from a second job. One ex-employee said she used to earn just over £400 a month after tax helping to produce Polish ID cards at the factory but she now earns more as a waitress in the town.
+
+According to official government figures, the average wage in the Polish manufacturing industry is £745 a month, while the net minimum wage is about £330.
+
+The average cost of rent in Poland is just under £300 a month – three-quarters of what Thales employees earn in Tczew.
+
+The words ‘European Union’ have already stopped appearing on new UK passports. Pictured: How the burgundy EU passports - introduced in 1988 - looked versus how the new passports are set to look
+
+‘After a month at the Thales factory, I realised I could easily make more money working as a fishmonger,’ one ex-worker said.
+
+When The Mail on Sunday visited the factory last week, tight-lipped staff refused to even acknowledge that the new British passport is being produced there.
+
+‘We make a number of secure documents,’ one said.
+
+At the factory gates, a middle-aged Pole dressed in a white lab coat presented himself as the plant manager and reeled off a list of rules for anyone entering the ‘production zone’. The taking of notes and photographs were prohibited, and he insisted that a protective suit, cap and apron had to be worn at all times. Gaining further access to the building required going through a series of key-card-secured doors.
+
+The Mail on Sunday has spoken to current and former employees who have complained of being underpaid and they claim the working conditions are so poor that the factory (pictured) can ‘feel like prison’
+
+But with clients including MasterCard as well as the British Government, the security and secrecy are hardly surprising.
+
+In 2018, when the new contract was awarded to Franco-Dutch firm Gemalto, the Home Office controversially claimed the deal would save the taxpayer £140 million on the previous contract with British company De La Rue. De La Rue chief executive Martin Sutherland said he was ‘surprised and disappointed’ by the decision amid concerns that Gemalto was cutting costs to keep its bid down.
+
+There was widespread anger that the deal was ‘unpatriotic’ and ironic that, post-Brexit, such a totemic document as a national passport should be manufactured in a foreign country. Several months after the deal went through, Gemalto was bought by French conglomerate Thales. The £4 billion deal went through in April last year despite worries that the buy-up gave Thales too much power in the passport and credit card industry.
+
+Thales said: ‘Thales has always been compliant with the labour laws applied in the 68 countries where the company is present. We are a very dynamic employer in Poland, fully respecting health and safety regulations. The wellbeing of our 80,000 employees worldwide is paramount and we consider their workplace wellness a priority.’
+
+Britons will be able to use EU lanes at airports during the 11-month transition period from January 31. Pictured: Boris Johnson on January 8","{'label': 'Neutral', 'score': 0.9994951486587524}",neutral,0.9994951486587524,0
+Doha Metro enhances urban mobility with Thales - The Peninsula,"Wed, 29 Jan 2020 08:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdGhlcGVuaW5zdWxhcWF0YXIuY29tL2FydGljbGUvMjkvMDEvMjAyMC9Eb2hhLU1ldHJvLWVuaGFuY2VzLXVyYmFuLW1vYmlsaXR5LXdpdGgtVGhhbGVz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"File picture used for representation
+
+The Peninsula
+
+Doha: Thales Group has successfully delivered a full suite of solutions on the fully operational Doha Metro that will span across Hamad International Airport, Lusail City, Al Wakra, Education City and the old district.
+
+The initial Preview Service of the first section of Phase 1 of the Doha Metro Project was successfully launched by Qatar Railways Company on 8 May 2019. The second successful preview service was the Gold Line, covering 11 stations, including Ras Bu Abboud, National Museum, Sport City and interchange station, Msheireb. On the 10th December 2019, the Green Line, which runs from Al Mansoura to Al Riffa, entered into revenue service.
+
+Thales is supplying advanced Communications Based Train Control (CBTC) signalling, communications & security, passenger services, a fully integrated operational control centre as well as automatic fare collection systems including ticket vending machines, access gates and transaction management systems for the Doha Metro. Thales is part of a consortium with Mitsubishi Heavy Industries, Ltd.; Mitsubishi Corporation; Hitachi, Ltd.; and Kinki Sharyo Co., Ltd., that is responsible for delivering the systems package for the Doha Metro.
+
+Thales brings its cutting-edge technology solutions for the Doha Metro project, which will significantly enhance urban mobility and uphold the highest standards of environmental sustainability.
+
+“An efficient metro is essential for the commercial success and growth of any great city. Being part of this consortium, at the heart of one of the most ambitious infrastructure development programmes in the world, is a significant achievement for Thales’ operations in the country. Qatar Rail and our partners in the consortium are truly transforming urban mobility in the country. The programme fulfils the goals of Qatar National Vision 2030 and Thales is committed to continue supporting the State of Qatar in its future goals for smart mobility and urban transportation,” said Frederic Sallet, Thales Country Director in Qatar
+
+","{'label': 'Positive', 'score': 0.9785299897193909}",positive,0.9785299897193909,1

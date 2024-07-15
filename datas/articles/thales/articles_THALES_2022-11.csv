@@ -1,0 +1,1377 @@
+Titre,Date de publication,URL,Contenu
+"After hack, Thales defense and security project data yet to appear on dark web - Breaking Defense","Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzExL2FmdGVyLWhhY2stdGhhbGVzLWRlZmVuc2UtYW5kLXNlY3VyaXR5LXByb2plY3QtZGF0YS15ZXQtdG8tYXBwZWFyLW9uLWRhcmstd2ViL9IBeGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzExL2FmdGVyLWhhY2stdGhhbGVzLWRlZmVuc2UtYW5kLXNlY3VyaXR5LXByb2plY3QtZGF0YS15ZXQtdG8tYXBwZWFyLW9uLWRhcmstd2ViLz9hbXA9MQ?oc=5&hl=en-US&gl=US&ceid=US:en,"BEIRUT — French defense and aerospace firm Thales was attacked by hackers last week, with company data having been published on the dark net. However, sources close to the matter tell Breaking Defense that the published data is not linked to any of the company’s major defense or national security programs.
+
+The sources, speaking under condition of anonymity, expressed confidence that military and security projects were not affected by the breach, but admitted that it’s possible information was stolen that has yet to be discovered or made public. Even with that caveat, that sensitive defense information has yet to become public is a good sign for the firm.
+
+Among the key projects that appear to have been protected from the intrusion are the Rafale and Eurofighter Typhoon subsystems, radars, military satellites, counter drones and counter-mine systems, airport security and cybersecurity systems.
+
+On Nov. 11, Thales revealed that an extortion and ransomware group known as LockBit 3.0 had released on its publication platform data stolen from the company. In its statement, Thales said that there has been no intrusion of its IT systems, that it had opened an internal investigation and that it has informed France’s ANSSI national cyber security agency.
+
+“Thales security experts have identified one of the two likely sources of the theft, which has been confirmed through the user account of a partner on a dedicated collaboration portal. This has led to the disclosure of a limited amount of information, and Thales continues to investigate the other source of theft,” the firm said in its statement.
+
+Thales is a provider of defense, aeronautics, space, transport and digital security technologies for different countries around the world.
+
+According to Reuters, the firm’s shares dropped as much as 8.5% on the news. But in its statement, Thales insisted that the drop in its share price is not linked to Lockbit.
+
+“Thales reiterates that, as of now, there is no impact on the Group’s operations. The firm is working closely with its partner and is providing all of the necessary technical support and resources to minimize any potential impact to concerned customers and stakeholders,” the statement said. The company remains vigilant towards any data theft, systematically mobilizing its teams of security experts, “as data security of any of our stakeholders is our utmost priority.”
+
+LockBit 3.0, also known as LockBit Black, is a ransomware family that was announced in July 2022. The capabilities can encrypt and exfiltrate all the files on an infected device, apparently allowing the attacker to hold the victim’s data hostage until the requested ransom is paid. This ransomware is now active in the wild, and is causing a lot of concern.
+
+“Lockbit is a hacking group and has arguably become the dominant and most prevalent RaaS (Ransom as a service) provider,” cyber security expert and CEO of Dreamlab cybersecurity firm, Nicholas Mayencourt told Breaking Defense.
+
+He added that this new generation of the system has improved its evasion of analysis and tracking techniques. The group even went so far to go through a paid for public bug bounty program to eliminate any vulnerabilities in their crimeware.
+
+Mayencourt also sees a silver lining to this attack, noting that “Thales as a company offers cyber security services and products as well. After an initial compromise and frustration, this case could be a good case for Thales to demonstrate its capabilities. It is already not a good sign that this [hack occured], yet Thales has now all the possibilities to show and make the difference and re-establish trust.”
+
+Anytime a Western defense company is hacked, questions quickly arise as to whether Russia or China are behind it, as opposed to just normal criminals looking to score some money via ransomware. Mayencourt couldn’t say what the reason for this particular attack is, but did note that there is a history between Lockbit and an older group, known as Conti, which has been tied to Russia in the past.
+
+“As Conti has been a Ukrainian and Russian “joint venture” the group quickly imploded after the war started,” he noted, with Lockbit taking up a lot of the room that Conti had been acting in."
+NASA's Artemis I successfully launched - Thales,"Wed, 16 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9uYXNhcy1hcnRlbWlzLWktc3VjY2Vzc2Z1bGx5LWxhdW5jaGVk0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The first mission of the Artemis program, named Artemis 1, has successfully been launched today aboard NASA's new mega rocket. Extremely visible in the media, the Net and social networks, this launch was extremely awaited and for good reason... 50 years after the last mission of the Apollo program, the Moon is back, more flamboyant and attractive than ever.
+
+Why is the Moon suddenly back in sight, when the last crewed mission to the lunar surface was Apollo 17 in 1972? Well, since then a host of scientific discoveries have made this celestial body as rare as it is precious. First, as we suspected – but it was only confirmed in 2008 – there’s water on the Moon. We’ve also found oxygen and hydrogen atoms. And these could also be extracted from the lunar ice to make rocket fuel, for example. Other resources include Helium-3, an energy-producing isotope, which could power future rockets for the next step in the space race: sending people to Mars and deep space. The Moon could serve as a staging post for even more ambitious missions to the Red Planet. What used to be the stuff of science fiction is now becoming reality.
+
+The unmanned mission launched today will serve to validate the proper functioning of the spacecraft. As astronauts, dummies have been placed on board the spacecraft, equipped with multiple sensors and instruments that will allow us to experience this unusual expedition in near real time, from the ground. This mission prefigures Artemis 2, scheduled for launch in 2024, with real astronauts on board. Artemis 2 will orbit the moon but will not land. It will be necessary to wait until 2025, with Artemis 3, so that the Humanity can again walk on the Moon.
+
+Orion © ESA
+
+
+
+NASA's ambitious Artemis program has three major objectives: to build a cislunar space station, Lunar Gateway, to establish a physical and sustainable presence on the Moon’s surface, and to anticipate manned exploration missions to Deep Space.
+
+Thales Alenia Space: Sustaining Life on Humanity’s Return to the Moon
+
+Human space exploration is rapidly evolving toward long journeys and enabling life in deep-space has become the cutting-edge technology challenge. NASA's Artemis program is its brand new chapter: lunar exploration that will send humans farther into space than ever before.
+
+© Lunar Gateway ©Thales Alenia Space/Briot
+
+We are going back to Moon to stay in a sustainable way, a challenge tackled by Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), that is designing the entire lunar ecosystem, working on vehicles, orbital human infrastructures and surface solutions to enable to reach the Moon, living and exploiting resources to foster the new lunar economy.
+
+Through its unique expertise in space infrastructures and its “Space for life” aspiration, Thales Alenia Space gives rise to all these elements, whose synergy becomes a crucial part of the “Forward to the Moon” strategy.
+
+
+
+European Service Module - the backbone of Orion that enables human life inside the capsule
+
+Many key technologies for Orion, the spacecraft that will bring the astronauts to the Moon’s orbit within the Artemis mission, are provided by Thales Alenia Space through the European Service Module (ESM), developed under a European Space Agency (ESA) contract. Thales Alenia Space provides the subsystems that are an essential part of the module, ensuring vital and safe conditions for the crew during the entire mission.
+
+Thales Alenia Space provides critical subsystems for all 6 modules to Airbus Defence and Space, Orion's ESM prime contractor, including the structure, thermal control and main life support capabilities. The state-of-the-art technology used for the primary structure enables the ESM to be light enough to fly farther and longer, while being strong enough to perform its mission.
+
+A few months ago, Thales Alenia Space delivered the backbone of Orion’s ESM4. The module is now in Airbus Defence and Space’s clean rooms in Bremen, Germany, where it will complete the integration and undergo final tests, supported by Thales Alenia Space engineers on-site. In addition to ESM4, as for previous modules 1, 2 and 3, the forthcoming ESM5 is currently being developed in Thales Alenia Space facilities in Turin.
+
+Leonardo is also partnering the program, supplying the photovoltaic panels (PVA) and Power Control and Distribution Units (PCDU) for ESM modules 1 to 6.
+
+
+
+Humanity’s first deep space living quarters: safety, comfort and breathtaking view
+
+© Thales Alenia Space
+
+Thales Alenia Space key role in Artemis mission continues: the Company, partnering with Northop Grumman, is contributing to HALO, NASA’s habitation and logistic module that enables the “initial” life environment on Lunar Gateway, and acts as a prime contractor for the International Habitation Module (I-HAB), the European home in Lunar Orbit and the breathtaking new windowed module ESPRIT, (European System Providing Refueling, Infrastructure and Telecommunications) ensuring enhanced communications, refueling capability and additional pressurized environment making history for the new industrial solutions to get to the Moon and beyond.
+
+Thanks to its unprecedented expertise, drawing on the experience gained with five Automated Transfer Vehicles (ATV) and development of a large part of the elements for the International Space Station (ATV Integrated Cargo Carriers, Nodes 2 & 3, Cupola, Columbus, MPLM, PMM, Cygnus PCM, Bishop Airlock), Thales Alenia Space is not only leading the race for pressurized modules, but contributing to the development of the “new Apollo” – and to human exploration of space beyond low-Earth orbit."
+"Thales: Lockbit releases stolen data, company denies any intrusion into its IT systems - Le Monde","Sat, 12 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL3BpeGVscy9hcnRpY2xlLzIwMjIvMTEvMTIvdGhhbGVzLWxvY2tiaXQtcmVsZWFzZXMtc3RvbGVuLWRhdGEtY29tcGFueS1kZW5pZXMtYW55LWludHJ1c2lvbi1pbnRvLWl0cy1pdC1zeXN0ZW1zXzYwMDM5MjFfMTMuaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Thales Group, which specializes in cybersecurity among other sectors, has been targeted by a cyberattack. Data belonging to the group was released on the web. AFP/PASCAL PAVANI
+
+An archive of 9.5 gigabytes ""of data related to [the French company] Thales"" was published overnight on the website of the cybercrime gang Lockbit. The archive contains data related to Thales contracts and partnerships in Italy and Malaysia.
+
+Contacted by Le Monde, Thales confirmed that the data had been posted on the hackers' site, but said that there had been ""no intrusion"" into the company's IT system. ""Thales' security experts have identified one of the two likely sources of the information theft. It was a partner's account on a dedicated exchange portal that led to the disclosure of a limited amount of information,"" said a company spokesperson, adding that its teams are working to identify the second source. Thales also said that the data leak has no impact on its business.
+
+The documents posted by Lockbit on its site mention, among other things, a project by Thales and Malaysia-based Novatis Resources to implement aerial surveillance tools for Malaysia's Kota Kinabalu airport, a program that was announced in 2018. The documents, which are dated 2021, mention the project and the monitoring done by the company. Other files refer to contracts awarded by Thales in Italy, particularly in Florence, to support an automated ticket sales system for public transport services. The archive does not appear to contain any personal data belonging to the company's employees.
+
+Lockbit had announced earlier this month that it was in possession of data stolen from Thales and threatened to post it on its website. The cybercriminal group then set up a countdown to a November 7 release. On that day, the site posted a message indicating that the data had been published, but did not give access to it, making observers doubt the reality of the attack. Then the stolen files finally appeared on the site during the night of November 10 to 11.
+
+This is not the first time Lockbit has claimed an attack against Thales: In January, the group announced that it had stolen data from the group. The data released at that time contained mainly code repositories from an external server of the company, data considered ""not very sensitive"" by the French company.
+
+One member of the group arrested in Canada
+
+On Thursday, US authorities announced the arrest of a person based in Canada accused of working for the Lockbit group. This citizen, who has dual Russian and Canadian citizenship, is currently in custody awaiting extradition to the United States.
+
+According to the documents published by the US justice system, a search conducted in August by law enforcement agencies resulted in the seizure of the suspect's computer, which revealed traces of logins to the control panel of the ransomware developed by Lockbit, as well as messages exchanged with LockBitSupp, an account used by the cybercriminal group to provide support for its software. Also according to the US Attorney's Office, a file containing a list of past and future targets of the Lockbit group was identified on the suspect's computer. During a second search, investigators also traced a cryptocurrency wallet held by the suspect containing 0.8 bitcoin (€13,482 according to the price of bitcoin at the time of publishing this article). The source of this bitcoin corresponds to a ransom payment by one of the Lockbit group's victims. The suspect faces up to five years in prison.
+
+Lockbit is one of the most active cybercrime groups. It boasts of numerous victims on its website, though in some cases its success has been mixed. For example, Lockbit announced the hacking of data belonging to the French Ministry of Justice, before actually publishing data from a law firm in Caen. The group had already made numerous false claims in the past. However, it has made serious damage in France, including at the hospital in Corbeil-Essonnes (Paris region) in August. The hospital's systems were paralyzed for several days following the attack, and stolen data was released by the group in early September.
+
+Read more Cybercrime: Hackers still go for targets as sensitive as French hospitals"
+LockBit Releases Thales Group Documents - BankInfoSecurity.com,"Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmJhbmtpbmZvc2VjdXJpdHkuY29tL2xvY2tiaXQtcmVsZWFzZXMtdGhhbGVzLWdyb3VwLWRvY3VtZW50cy1hLTIwNDU30gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Fraud Management & Cybercrime , Ransomware
+
+LockBit Releases Thales Group Documents
+
+Thales Says Data Originated From Partner Collaboration Portal
+
+Thales Group corporate headquarters in the La Défense business district of Paris (Image: Shutterstock)
+
+French defense multinational Thales confirmed Friday that ransomware group LockBit published internal documents, emphasizing in a public statement that its operations were unaffected by the hack.
+
+See Also: The Gorilla Guide to Modern Data Protection
+
+The digital extortion gang added Thales to its list of hacking victims in late October, giving the 1.6 billion-euro electronics, avionics and troop transport maker until Nov. 7 to pay a ransom. Among the 9.5 gigabytes worth of records listed by hackers are Thales' account files, details regarding software applications and other data that LockBit describes as ""high-risk and confidential.""
+
+Thales says the source of the leak is likely the compromised user account of an online partner collaboration site.
+
+""Thales reiterates that, as of now, there is no impact on the Group's operations,"" the company says.
+
+LockBit is a prolific ransomware group. It has been active since late 2019 and is often considered the winner of the contest to succeed Conti as the world's most recognized digital extortion gang. In June, it released version 3.0 of its ransomware with a call to ""Make Ransomware Great Again!"" (see: Keys to LockBit's Success: Self-Promotion, Technical Acumen).
+
+Canadian law enforcement recently arrested suspected LockBit affiliate Mikhail Vasiliev, 33, in Ontario in an international sting conducted with the involvement of the FBI and the French National Gendarmerie. U.S. authorities are seeking his extradition to New Jersey, where he faces federal charges of conspiracy to commit computer intrusion."
+ASCEND: Thales Alenia Space to lead European feasibility study for data centers in space - Space Ref,"Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vc3BhY2VyZWYuY29tL3VuY2F0ZWdvcml6ZWQvYXNjZW5kLXRoYWxlcy1hbGVuaWEtc3BhY2UtdG8tbGVhZC1ldXJvcGVhbi1mZWFzaWJpbGl0eS1zdHVkeS1mb3ItZGF0YS1jZW50ZXJzLWluLXNwYWNlL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Station Data Center V2 Thales Alenia Space
+
+Thales Alenia Space, the joint company between Thales (67%) and Leonardo (33%), has been chosen by the European Commission to lead the ASCEND (Advanced Space Cloud for European Net zero emission and Data sovereignty) feasibility study for data centers in orbit, as part of Europe’s vast Horizon Europe research program.
+
+Thales Alenia Space, the joint company between Thales (67%) and Leonardo (33%), has been chosen by the European Commission to lead the ASCEND (Advanced Space Cloud for European Net zero emission and Data sovereignty) feasibility study for data centers in orbit, as part of Europe’s vast Horizon Europe research program.
+
+Digital technology’s expanding environmental footprint is becoming a major challenge: the burgeoning need for digitalization means that data centers in Europe and around the world are growing at an exponential pace, which in turn has a critical energy and environmental impact.
+
+A consortium led by Thales Alenia Space has been set up to find an ambitious solution for Europe, namely to install data center stations in orbit, powered by solar power plants generating several hundred megawatts. This project could help meet Europe’s Green Deal goal of achieving carbon neutrality by 2050 and would also be an unprecedented development in the European space and digital ecosystem.
+
+This concept makes direct use of the energy produced in space outside of the earth atmosphere: the only link with the ground would be high-throughput Internet connections based on optical communications, a technique for which Europe has mastered the underlying technologies.
+
+For the ASCEND feasibility study, Thales Alenia Space is leading a consortium of companies with complementary areas of expertise spanning the environment (Carbone 4, VITO), cloud computing (Orange, CloudFerro, Hewlett Packard Enterprise Belgium), launch vehicles (ArianeGroup) and orbital systems (German aerospace center DLR, Airbus Defence and Space and Thales Alenia Space).
+
+The first objective of this study will be to assess if the carbon emissions from the production and launch of these space infrastructures will be significantly lower than the emissions generated by ground-based data centers, therefore contributing to the achievement of global carbon neutrality. The second objective will be to prove that it is possible to develop the required launch solution and to ensure the deployment and operability of these spaceborne data centers using robotic assistance technologies currently being developed in Europe, such as the EROSS IOD demonstrator.
+
+This project is expected to demonstrate to which extent space-based data centers would limit the energy and environmental impact of their ground counterparts, thus allowing major investments within the scope of Europe’s Green Deal, possibly justifying the development of a
+
+more climate-friendly, reusable heavy launch vehicle. Europe could thus regain its leadership in space transport and space logistics, as well as the assembly and operations of large infrastructures in orbit.
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost- effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 2.15 billion euros in 2021 and has around 8,000 employees in 10 countries with 17 sites in Europe and a plant in the US."
+France's Thales says hackers claim to have stolen data - RFI English,"Tue, 01 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJmaS5mci9lbi9zY2llbmNlLWFuZC10ZWNobm9sb2d5LzIwMjIxMTAxLWZyYW5jZS1zLXRoYWxlcy1zYXlzLWhhY2tlcnMtY2xhaW0tdG8taGF2ZS1zdG9sZW4tZGF0YdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Cyberwarfare
+
+French defence and technology group Thales said on Tuesday that the hacker group LockBit 3.0 claims to have stolen some of its data and is threatening to publish it.
+
+Thales, the defence and electrical systems firm, confirmed that a hacker group claims to have stolen some of its data and is threatening to publish it.
+
+Advertising Read more
+
+Thales said the extortion and ransomware group has announced plans to release the data on 7 November. It added that so far it had not received any direct ransom notification.
+
+Thales has launched an internal investigation and has informed the ANSSI national cyber security agency, but so far has not filed a complaint with the police, a company official said.
+
+The hackers have not provided proof they have obtained any Thales data, the official added.
+
+Lockdowns
+
+Earlier this year, Thales itself warned that companies in general face increased vulnerability for cyber attacks as a result of people working from home on their private devices.
+
+Thales quotes a 2021 FBI Internet Crime Report, which notes that cyber crime is on the rise as a direct result of company employees working from home – a rising trend since the lockdowns generated by the Covid-19 pandemic - using private computers and mobile devices that are often not equipped with company-level security.
+
+""People are tricked into downloading apps loaded with malware,"" according to the report.
+
+""In 2021, the percentage of organisations that experienced the installation of malware on a remote device doubled from 3 percent to 6 percent.
+
+The report also pointed out that ""phising"" – luring people into clicking links that may allow malware to enter their computers – is ubiquitous, with five out of six organisations confirming that they had experienced an email-based phishing attack that tricked users into risky action, such as clicking a bad link, downloading malware, providing credentials or executing a wire transfer.
+
+Earlier this year, a hospital in south-eastern Paris was crippled by an cyberattack claimed by LockBit as well.
+
+That attack drastically reduced the number of patients who could be admitted and forced a temporary return to pre-digital workflows.
+
+(With agencies)
+
+Daily newsletterReceive essential international news every morning Subscribe"
+Thales Alenia Space to Lead European Study on Data Centers in Space - Via Satellite,"Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNhdGVsbGl0ZXRvZGF5LmNvbS9zcGFjZS1lY29ub215LzIwMjIvMTEvMTQvdGhhbGVzLWFsZW5pYS1zcGFjZS10by1sZWFkLWV1cm9wZWFuLXN0dWR5LW9uLWRhdGEtY2VudGVycy1pbi1zcGFjZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Alenia Space has won a new contract from the European Commission to lead a new feasibility study for data centers in orbit, as part of the Horizon Europe research program. The company announced, Nov. 14 that it would take the lead in the ASCEND (Advanced Space Cloud for European Net zero emission and Data sovereignty) feasibility study.
+
+A consortium led by Thales Alenia Space has been set up to install data center stations in orbit, powered by solar power plants generating several hundred megawatts. This project could help meet Europe’s Green Deal goal of achieving carbon neutrality by 2050 and Thales said it could be an “unprecedented development” in the European space and digital ecosystem.
+
+For the ASCEND feasibility study, Thales Alenia Space is leading a consortium of companies with expertise on the environment (Carbone 4, VITO), cloud computing (Orange, CloudFerro, Hewlett Packard Enterprise Belgium), launch vehicles (ArianeGroup) and orbital systems (German aerospace center DLR, Airbus Defence and Space and Thales Alenia Space).
+
+The first objective of this study will be to assess if the carbon emissions from the production and launch of these space infrastructures will be significantly lower than the emissions generated by ground-based data centers."
+British Army awards contract to Thales for more NLAWs - defence-blog.com,"Sat, 05 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9icml0aXNoLWFybXktYXdhcmRzLWNvbnRyYWN0LXRvLXRoYWxlcy1mb3ItbW9yZS1ubGF3cy_SAVNodHRwczovL2RlZmVuY2UtYmxvZy5jb20vYnJpdGlzaC1hcm15LWF3YXJkcy1jb250cmFjdC10by10aGFsZXMtZm9yLW1vcmUtbmxhd3MvP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales U.K., a business unit of France-based Thales technology company, was awarded a contract from the British Army for additional NLAW single-shot infantry anti-tank systems.
+
+According to U.K. Defense Secretary Ben Wallace, the Ministry of Defense had signed a deal to start replenishing missile stocks run down by the supply of weapons to Ukraine.
+
+Within the contract, British Army will receive 500 NLAW anti-tank weapons in 2023.
+
+- ADVERTISEMENT - CONTINUE READING BELOW -
+
+Wallace also said a further deal for thousands of weapons for Britain and other customers will be signed next year.
+
+The NLAW is a single-shot infantry anti-tank system consisting of a disposable launcher preloaded with a single guided missile. NLAW utilizes predicted line-of-sight guidance and has overflown top and direct attack modes. It is easy to use, making it a valuable tank destroyer for light forces that operate dismounted in all environments, including built-up areas.
+
+It also has night vision capability and is designed for all climate conditions and environments.
+
+The British-supplied NLAW became one of the symbols of the Ukrainian Soldiers’ resilience in the war against the Russian occupiers, which began on February 24th. Official London handed over many anti-tank systems that helped stop the rapid invasion of Russian troops."
+LockBit repeats 'PR stunt' as Thales ransomware investigation reveals no breach - ITPro,"Thu, 03 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lml0cHJvLmNvbS9zZWN1cml0eS9yYW5zb213YXJlLzM2OTQ0OS9sb2NrYml0LXJlcGVhdHMtcHItc3R1bnQtYXMtdGhhbGVzLXJhbnNvbXdhcmUtaW52ZXN0aWdhdGlvbi1yZXZlYWxzLW5vLWJyZWFjaNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"An investigation by Thales has found no evidence that the LockBit ransomware organistion successfully attacked its systems, following threats by the group to post stolen company data on hacker forums.
+
+On Tuesday, the French multinational publicly stated that it had seen posts on the dark web by ransomware group LockBit 3.0, claiming to have stolen data from Thales and threatening to post it online on 7 November. The company quickly informed the Agence nationale de la sécurité des systèmes d'information (ANSII), and began an internal investigation.
+
+However, the investigation has found no evidence of exfiltrated data, nor even any trace of intrusion into company systems. At the time of writing, the group has not posted further threats nor provided the company with evidence of the attack.
+
+“On Monday, October 31, 2022, the LockBit 3.0 extortion and ransomware group has announced plans to release data on 7 November 2022 at 06:29 UTC,” a Thales spokesperson told IT Pro.
+
+“As of today, Thales has not identified any trace of impact on - nor intrusion into - its information systems.
+
+“Besides, we have not received any direct ransom notification. A dedicated team of security experts systematically investigates this type of situation. We carefully monitor every allegation related to data theft as security of data remains our key priority.”
+
+Thales has an active role in providing solutions to more than 30,000 enterprise customers including those in the defence sector, and is the primary contractor for NATO advanced missile and air defence systems.
+
+Get the ITPro. daily newsletter Receive our latest news, industry updates, featured resources and more. Sign up today to receive our FREE report on AI cyber crime & security - newly updated for 2024. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+Its partners include a number of governments, telecoms firms and financial institutions, to whom it provides services such as biometrics programmes, financial services, and data encryption.
+
+LockBit's historical stunts
+
+This isn’t the first time that the LockBit group has posted that it has made claims about having attacked a company, only for it to be discovered that no such attack was made.
+
+In June 2022, the group claimed that it had breached the network of cyber security giant Mandiant and posted a notice on its website claiming that the release of more than 350,000 stolen company files was imminent.
+
+However, Mandiant never found evidence that such an attack had taken place, and the countdown to the leak on LockBit’s website came and went without the data ever being published.
+
+RELATED RESOURCE Cost of a data breach report 2022 Discover the factors to help mitigate breach costs FREE DOWNLOAD
+
+A McAfee blog post covered a similar claim by LockBit, in which it claimed to have stolen data from an unnamed company. However, in an investigation both McAfee and intelligent security firm Northwave were unable to establish any evidence that the compromised systems experienced private data exfiltration.
+
+Available through the ransomware as a service (RaaS) model, and in use by a number of other threat actors such as sanctioned Russian group ‘Evil Corp’, it is hard to categorically link the use of LockBit ransomware strains with the group.
+
+LockBit continues to be the most widely-used strain in attacks, and in August vowed to be 'more aggressive' after being hit by a large distributed denial of service (DDoS) attack.
+
+It accounted for 35.1% of all ransomware activity in Q3 2022, even as ransomware activity declined slightly. Its meteoric rise has been linked, in part, with the demise of rival group Conti, which ceased all activity in June following a public attack on the Costa Rican government and subsequent threat to overthrow it if the $20 million ransom was not paid in full.
+
+This article has been updated to clarify the nature of the investigation undertaken by Northwave and McAfee."
+INTERVIEW: Thales exec on Middle East expansion through localization - Breaking Defense,"Tue, 15 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzExL2ludGVydmlldy10aGFsZXMtZXhlYy1vbi1taWRkbGUtZWFzdC1leHBhbnNpb24tdGhyb3VnaC1sb2NhbGl6YXRpb24v0gFuaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjIvMTEvaW50ZXJ2aWV3LXRoYWxlcy1leGVjLW9uLW1pZGRsZS1lYXN0LWV4cGFuc2lvbi10aHJvdWdoLWxvY2FsaXphdGlvbi8_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en,"PARIS — As Middle Eastern nations, especially Gulf kingdoms, race to modernize their technology and defense sectors while still boosting local production, Thales finds itself among the major defense players that sees an avenue to growth through subsidiary companies, an executive for the French firm told Breaking Defense in a recent interview.
+
+The company’s vice president for the Middle East, Emmanuel de Roquefeuil, said the French firm currently has some 1,500 people in the region and is aiming to double that figure within five years. To do that, and in light of local restrictions on foreign firms operating independently, Roquefeuil said Thales will expand its use of subsidiaries and partnerships with local firms, universities and government entities.
+
+The demand for Thales products, from mine countermeasures to counter-UAV tech, has only increased, he said. The industry’s future will all be about localization.
+
+“The Middle East is a strategic region for Thales, and it has started its journey towards industrial and digital autonomy to localize defense industrial spending,” he said. “Thales wants to contribute to the development of a local digital ecosystem in line with the policies in the region, accelerating transfer of knowledge and technology, as well as creation of high-value data-scientists jobs.”
+
+Breaking Defense spoke to Roquefeuil during the Euronaval conference in Paris in October, where several of the firm’s systems were on display. The following transcript has been edited for length and clarity.
+
+BREAKING DEFENSE: What is Thales’s strategy in the Middle East and what are its main interests in the region?
+
+ROQUEFEUIL: Thales strategy in the Middle East is based on three major pillars: our customers, stakeholders and people. We have a definite strategy for each of them.
+
+The customers: We are increasing our engagement in industrialization and localization to facilitate increasing our industrial footprint in Middle East countries, through a certain number of activities. We mainly capitalize on the systems, which have been produced and delivered, to our customers in the region. To serve them and maintain the delivered equipment, we are increasing our level of industrial proximity.
+
+Stakeholders: We constantly innovate, research, develop and implement new technologies to ensure continuity of critical operations and functions for our stakeholders across all business units. We invest 1 billion euros ($1 billion USD) a year in self-funded research and development, and around 30,000 Thales employees are involved in research and technology. This can support our stakeholders in the Middle East to achieve their industrialization goals, through innovating some products for our local customers and exporting from the Middle East.
+
+People: With our main concern for education and local employment, at Thales, we are employing more nationals from the Middle East, taking into consideration each country’s policies. Thales seeks to deepen its presence in the region by contributing to the national vision development plans. One of our main targets is Emiratization, which has the highest level of requirements for companies like us, followed by Omanization, and Bahrainization. Therefore, we are answering the needs of each of those countries, as well as giving priority to education and training through institutions and universities with which we have links and channels. We are aiming to train and empower local youth and communities to support innovation in Middle East.
+
+With localization efforts, it is harder for foreign companies to increase exports to the Middle East. How is Thales dealing with this?
+
+In the Middle East we are 1,500 people and we have been in the region for 50 years. We are generating a significant portion of revenues, and 60 percent of this revenue is defense-related with the development of sovereign technologies. In this context, the best way to innovate is to do it locally with our customers. We are thus clearly developing local companies like Thales Emarat Technologies in the UAE. There is a strategic relationship between France and the UAE in the domain of sovereign technologies. Based on Thales products line that is put at the disposal of Gulf countries, we can generate new IPs and products with the Middle Eastern countries.
+
+Thales has developed its local footprint in UAE, through localization strategy. Thales Emarat Technologies is the best example of this. It is embedded in the UAE ecosystem and is fully aligned with the UAE’s national strategy and the visions of its leadership to develop a nation that is at the forefront of innovation, has strong human capital and is self-reliant. Thales Emarat Technologies was created to develop centers of excellence in critical systems such as radars, digital communications and a variety of defense aerospace technologies.
+
+Related to innovation, the Competence Centers that we have developed are key in maintaining a privileged link with local entities and in developing innovative solutions. Moreover, Thales is never acting alone in an environment like the Middle East. Thales is embedded in the local industrial ecosystem and rely as much as possible on the local supply chain.
+
+What is Thales pitching the Middle East countries? And what particular Thales systems are of interest to this region?
+
+Warfare is intensifying, so collaborative combat and resilience are clearly a priority to the region as we have recently witnessed attacks by drones in the Middle East. In this regard, Thales is supporting [confronting] certain scenarios, like attacks by drones, including UAVS at low-speed, low altitudes and unmanned surface vessels. Clearly counter-UAV is a capability, which mainly governments are looking for today, whether aerial or naval. As a result, we are aiming to develop the market of counter UAV systems in the region.
+
+Another emerging threat and technology is anti-mine warfare, and protecting the shores, especially in the ME and the Gulf. Different countries around the world, not only in the ME, have shown interest in Thales Mine Counter Measure (MCM) systems. ME countries are looking for radars (and mainly the new version of digital radars such as Thales SeaFire) to be integrated on frigates, or other types of ships. As threats are increasing, I am confident that we will see this type of technologies in the ME.
+
+In the space sector, how is Thales supporting the ME countries develop their defense capabilities?
+
+Today we are part of UAE’s FalconEye satellite system with Airbus, and the system is operational and delivering excellent services to the country. Thales is also part of the telecommunication satellite in the UAE, and in the space sector, we are in discussion with Gulf Cooperation Council countries that are really looking for acquiring space capabilities for observation or military communication.
+
+What is your next five-year plan in the region?
+
+Today Thales has 1500 employees in the ME, five years from now we expect to double this number.
+
+The Middle East is a strategic region for Thales, and it has started its journey towards industrial and digital autonomy to localize defense industrial spending. This is in line with the ambitious national vision to reduce reliance on foreign import, attract and develop the intellectual capital needed to allow them to compete on the global stage. Thales wants to contribute to the development of a local digital ecosystem in line with the policies in the region, accelerating transfer of knowledge and technology, as well as creation of high-value data-scientists jobs.
+
+Hence, the main target is to bring security, safety and growth, whilst preserving state sovereignty, providing sustainable economic development, and fostering local talent."
+Thales deploys an energy usage and efficiency plan - Thales,"Tue, 29 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9ncm91cC9yZXNwb25zYWJpbGl0eS9uZXdzL3RoYWxlcy1kZXBsb3lzLWVuZXJneS11c2FnZS1hbmQtZWZmaWNpZW5jeS1wbGFu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales deploys an energy usage and efficiency plan Share this article
+
+
+
+LinkedIn
+
+As part of its strategy for a low-carbon future launched in 2019, Thales is strengthening its approach to energy usage and efficiency. The Group is aiming for a 10% reduction in electricity and gas consumption in France by 2024 compared to 2019.
+
+Thales is a low-energy intensive company compared to other industrial players. Indeed, the core of its energy consumption comes from laboratories and the Group is already committed to using energy responsibility for the long term.
+
+The focus of the Group’s actions has been on electricity, which accounts for the majority of its energy mix (86% in 2021). In 2022, Thales achieved an important milestone with 100% of its electricity supply in France now coming from renewable sources (32% Worldwide).
+
+In the current context of a global energy crisis, amplified in Europe by the war in Ukraine, Thales is elevating its ambition by deploying a new energy usage and efficiency plan.
+
+In line with Thales’s technology-driven DNA, the plan includes four prongs:
+
+Standardisation of good practices and raising awareness of eco-actions among employees; Self-production and energy efficiency; Real estate footprint optimisation; Strengthening of sustainable mobility initiatives.
+
+© Thales
+
+This plan is part of the Thales strategy for a low-carbon future, which aims to reduce operational CO₂ emissions by 35%* in absolute value between 2018 and 2023, 50% by 2030, and net-zero in 2040.
+
+Outside of France, the Group will develop energy efficiency plans for its operations in ten other countries that account, with France, for more than 90% of its energy consumption: Australia, Belgium, Canada, Germany, Italy, Netherlands, Poland, Singapore, the United Kingdom and the United States.
+
+Our energy saving initiatives are neither short-term nor temporary. They are part of our commitment to the protection of the environment, which is one of the three structuring axes of Thales's CSR policy. This is a long-term approach, with a gradual deployment throughout the Group.
+
+Sophie Le Pennec, Vice President, Thales Group Health, Safety and Environment
+
+THE PLAN FOR FRANCE IN DETAIL Standardisation of best practices across the Group and raising awareness among employees Adoption of four best practices across the Group Regulation of temperatures of tertiary activity buildings between 19°C (heating) and 26°C (air conditioning)
+
+Regulation of temperatures of data centres and data rooms
+
+Switching off lighting and neon signs, equipment and ventilation at night and outside working days, as well as in unoccupied areas, in strict compliance with on-site Safety and Security rules.
+
+These best practices will be deployed across the Group and in compliance with local regulations where the Group is present. Actions to raise awareness among employees: Publication of a guide on good practices to adopt
+
+A communication and education plan to reduce energy consumption in the workplace Self-production and energy efficiency
+
+No fewer than 100 self-production and energy efficiency projects are being rolled out in France. Installation of parks of photovoltaic panels on suitable sites Projects already rolled out in Toulouse and Cannes.
+
+Projects planned for La Ciotat, Brest, Etrelles, Ymare and Gemenos in 2023.
+
+Additional projects under study could eventually make Thales's photovoltaic panel installations one of the largest industrial parks relying on such technology in France by 2026. Heat recovery, especially in data centres Projects already in place in Toulouse, Blagnac.
+
+In Elancourt, heat recovery from data centres will allow us to heat all the buildings on the site and drastically reduce – and eventually end -- local gas consumption. Local initiatives on all sites: optimisation of data centres, replacement of energy-consuming equipment, replacement of lighting with LEDs, installation of new types of equipment (biomass, heat recovery, heat pumps, etc.) Real estate optimisation : the Connect project
+
+The Connect project is an investment plan covering four expansion and transformation projects in the Paris region. It concerns the optimisation of the real estate footprint of 12 sites, representing 20% of employees in France. Underway since 2021 and with an end date scheduled for 2027, it aims, among other things, to improve the carbon footprint and energy management of the sites concerned. Sustainable mobility Initiatives
+
+Between 2023 and 2026, the entire Thales global vehicle fleet will switch to electric and/or hybrid engines**.
+
+*Scope 1&2 and Scope 3 business travel
+
+**On an exception basis, fuel-powered vehicles could be included in the policy based on each country’s energy mix."
+led NS2F rail signalling consortium enters contract discussions with French agency for ecological transition (Ademe) - Thales,"Tue, 08 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvdHJhbnNwb3J0L3ByZXNzX3JlbGVhc2UvdGhhbGVzLWxlZC1uczJmLXJhaWwtc2lnbmFsbGluZy1jb25zb3J0aXVtLWVudGVycy1jb250cmFjdNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales-led NS2F rail signalling consortium enters contract discussions with French agency for ecological transition (Ademe) Share this article
+
+
+
+LinkedIn
+
+Thales has teamed up with GeoSAT, Setec Ferroviaire, CLEARSY and the Nouvelle-Aquitaine regional council to form Nouvelle Signalisation Ferroviaire Frugale (NS2F), a consortium that aims to develop an innovative digital rail signalling and network operation system that will set new standards for simplicity and energy efficiency.
+
+The technology will revitalise services on small local lines serving rural communities as well as improving safety, especially at level crossings.
+
+The new system will be fully interoperable with the core network and promises to reduce investment and operating costs by more than 30%.
+
+The France 2030 Committee, which is tasked with implementing the French government’s investment plan, has awarded €7,163,753 in funding to the NS2F project.
+
+
+
+
+
+The NS2F consortium is already working with France's national rail operator SNCF on Innovative Light Train, a project that aims to reshape the mobility landscape throughout France and revitalise 12,000 km of low density rail lines which, because of their advanced state of obsolescence, are neither economically viable to operate nor appealing to passengers.
+
+The consortium aims to complete the project in three years, drawing on nine innovative systems and technologies:
+
+Thales : Platform-agnostic, autonomous train positioning and odometry without trackside infrastructure
+
+Thales : Cyber-secured data transmission via public telecommunications networks
+
+GeoSAT : High-density digital terrain mapping
+
+CLEARSY & Thales : Formal methods of safety data generation
+
+Setec Ferroviaire & Thales : Tablet-based supervision and operation interface for driver
+
+Thales & Nouvelle-Aquitaine regional council : Integrated surveillance of level crossings
+
+GeoSAT, Nouvelle-Aquitaine regional council & Thales : Network surveillance using rolling stock-mounted sensors
+
+Thales: Efficient signalling systems and centralised line supervision"
+Dutch Railways renews Thales contract for maintenance andsupport of ticketing systems at all train stations in the ... - Thales,"Tue, 22 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtZXVyb3BlL25ldGhlcmxhbmRzL3ByZXNzX3JlbGVhc2UvZHV0Y2gtcmFpbHdheXMtcmVuZXdzLXRoYWxlcy1jb250cmFjdC1tYWludGVuYW5jZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Dutch Railways renews Thales contract for maintenance andsupport of ticketing systems at all train stations in the Netherlands Share this article
+
+
+
+LinkedIn
+
+Dutch Railways (NS) has awarded Thales an eight-year contract valued at 120 million euros for maintenance and support of 1,700 gates, 1,600 validators and 750 ticket vending machines at 400 train stations in the Netherlands.
+
+NS is the main passenger railway operator in the Netherlands, serving 1.3 million passengers on working days.
+
+NS Ticketing System©Thales
+
+Thales is an established supplier of gates and validators for public transport operators around the world. In 2022, the company upgraded the ticketing system to enable OVPay, which in the near future will enable travellers to pass through access gates or check in using their bank card or phone.
+
+A Thales team of 50 field service engineers and a 24/7 help and service desk work for public transport customers every day to maintain the ticketing equipment in the Netherlands.
+
+“We will deliver the 24/7 support NS needs to speed up and secure the acceptance by the user of OVpay, a major shift for the Dutch public transportation systems. This 8 years contract with NS is a testimonial of our long-term commitment to a green and digital mobility” Jean-Marc Reynaud, Vice-President, Revenue Collection Systems, Thales
+
+“We are very proud to enable the smooth and reliable check in and check out at NS stations for 1.3 million passengers every working day. It is great to renew this partnership with NS and ensure the high availability of the ticketing system. – Jean-Philippe de Rek, Managing Director Ground Transportation Systems in the Netherlands, Thales"
+Thales and HAITE Start a New Chapter in MRO Cooperation - Thales,"Wed, 09 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9jaGluYS9wcmVzc19yZWxlYXNlL3RoYWxlcy1hbmQtaGFpdGUtc3RhcnQtbmV3LWNoYXB0ZXItbXJvLWNvb3BlcmF0aW9u0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and HAITE Start a New Chapter in MRO Cooperation China Share this article
+
+
+
+LinkedIn
+
+HAITE and Thales signed an agreement for avionics repair and maintenance services. Through this agreement, Thales will collaborate with HAITE on the various aspect of repairs, including workload sharing, technical manuals, test software and equipment provision.
+
+This agreement marks the beginning of a new chapter in both parties' cooperation, strengthening mutual communication and collaboration between HAITE as an MRO service provider and Thales as an OEM. The expanded Thales authorized MRO network will enable better service to customers with innovative products, solutions and seamless quality services, thus contributing to the development of China's aviation MRO market.
+
+© Thales in China
+
+At the 14th Airshow China in Zhuhai, Sichuan Haite High-tech Co., Ltd. (HAITE) and Thales signed an industrial collaboration agreement for avionics repair and maintenance services on November 9th, 2022. Through this agreement, Thales will collaborate with HAITE on workload sharing, technical manuals, test software and equipment provision. This milestone marks the new chapter for both parties’ cooperation on MRO business, demonstrating Thales’ engagement in the local authorized MRO network expansion to enable better service for Chinese aviation customers.
+
+At the signing ceremony, Mr. Li Biao, Chairman of HAITE Group commented, ""As the first listed company in domestic civil aviation MRO market, HAITE has always valued the communication with OEMs. The signing of this agreement reflects both parties' confidence in our future cooperation prospect, which will also benefit HAITE's business development. We look forward to collaborating with Thales to provide our customers with higher-quality and more efficient aircraft component repair services.""
+
+“Deeply rooted in China for more than 40 years, Thales has become a trusted partner for the Chinese aerospace industry.” Mr. Thierry Weulersse, CEO of Thales in China, said at the ceremony, ""This agreement demonstrates HAITE’s trust in Thales and our long-term commitment to the Chinese market. We look forward to supporting the growth of local industry players with our expertise, and jointly boosting the high-quality development of China's civil aviation market.""
+
+“Through this new partnership with HAITE, Thales further expands its authorized MRO network in China to give local companies a leading edge. It enables us to better support our Chinese customers and in serving the aviation MRO market, by leveraging our inherent advantages as an OEM.” added Eric Huber, Vice President of Thales Aviation Global Services.
+
+About HAITE
+
+Sichuan Haite High-tech Co., Ltd. (HAITE Hi-Tech) is China’s first company that is engaged in the R&D and technical services of civil aviation equipment, is to date the only one of its kind that is cerified to provide engineering technical services to cargo planes and business jets, and in the meantime obtained the certification of CAAC, EASA and FAA for maintenance. HAITE Hi-Tech is the largest private MRO in the civil plan overhaul, P2F conversion, component repair.
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global leader in advanced technologies, investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum computing – to build a confident future crucial for the development of our societies. The Group provides its customers – businesses, organisations and governments – in the defense, aeronautics, space, transport, and digital identity and security domains with solutions, services and products that help them fulfil their critical role, consideration for the individual being the driving force behind all decisions.
+
+Thales has 81,000 employees in 68 countries. In 2021 the Group generated sales of €16.2 billion.
+
+About Thales in China
+
+Thales provides innovative solutions for the infrastructure that forms the backbone of China’s growth. The Group has been present in China for more than 40 years and is the trusted partner for the Chinese aviation and urban rail transportation industries. In the meanwhile, from secure software to biometrics and encryption, Thales has successfully applied its advanced technology to mobile communication, banking, IoT and software monetization, etc. Thales has 3 JVs and employs 2,100 people with offices located in 7 cities in China. Thales established R&D centers and Innovation Hubs in Beijing, Dalian and Hong Kong to provide innovative solutions for both China and international market.
+
+
+
+Further more"
+Thales and Knorr-Bremse to cooperate on freight train automation - Thales,"Wed, 02 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvdHJhbnNwb3J0L3ByZXNzX3JlbGVhc2UvdGhhbGVzLWFuZC1rbm9yci1icmVtc2UtY29vcGVyYXRlLWZyZWlnaHQtdHJhaW4tYXV0b21hdGlvbtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Knorr-Bremse to cooperate on freight train automation Share this article
+
+
+
+LinkedIn
+
+By bringing together their expertise in the area of Automatic Train Operation (ATO), Thales and Knorr-Bremse are looking to develop automated features for the Digital Freight Train (DFT)
+
+Automatic Train Operation will greatly assist train drivers in their daily work and thus help to counter the sector’s looming staff shortages, as well as improve rail freight’s efficiency, punctuality and competitiveness
+
+Knorr-Bremse, the global market leader for braking systems and other mission-critical systems for rail and commercial vehicles, and Thales, a global leader in advanced technologies have signed a Memorandum of Understanding to cooperate on the development of Automatic Train Operation (ATO) solutions for locomotive-hauled freight and passenger trains.
+
+“In our industry, Automatic Train Operation is a key lever for making rail freight more efficient and more available, increasing transportation capacity, and further optimizing lifecycle costs for operators”, explains Dr. Nicolas Lange, Chairman of the Management Board of Knorr-Bremse Rail Vehicle Systems. “Our partnership agreement with Thales has enormous potential for bringing about the innovations required to enable safe and smooth Automatic Train Operation and thus improve, for example, energy efficiency and punctuality.”
+
+“Full autonomy is still a work in progress, although the necessary technologies are maturing rapidly. ATO is one of them, as a necessary step toward achieving fully autonomous driving. Thales has a clear vision for autonomy and is pleased to partner with Knorr-Bremse, a leading company in braking systems and other mission-critical train systems, with the aim of accelerating the development of automated train functions in the freight market”, adds Dr. Yves Joannic, Vice President Main Line Signalling and Managing Director Ground Transportation Systems at Thales Germany.
+
+Automatic Train Operation (ATO) will deliver multiple benefits for the rail freight sector. These include anticipated gains in efficiency and capacity, energy savings, performance enhancements and better punctuality. Train punctuality in particular (Estimated Time of Arrival) depends on smooth, consistent train driving based on factors such as track characteristics, topography and surrounding traffic, as well as train-specific parameters such as load, which influences traction and braking performance.
+
+Intelligent interaction to drive ATO for existing rail fleets
+
+While many of these criteria are still monitored manually, digital and automated functions will significantly improve how they are tracked and utilized. By using sensor-based, real-time data, for example, new features will be able to deliver intelligent insights to train drivers and devise optimal driving strategies. Therefore, the smart interaction of the expertise of the two companies will be crucial. Especially in existing fleets, Automatic Train Operation will support drivers in their daily work. Among other advantages, this will help to counter looming staff shortages in the rail freight business.
+
+With respect to 2030 climate targets, i.e. reducing transportation emissions by at least 18% (European Commission, 2020), upgrading the rail freight sector is imperative for shifting large amounts of freight from trucks and airplanes to green, rail-based transportation. Rail consumes 12 times less energy and emits up to 11 times less CO2 per passenger / ton kilometer compared with cars and trucks (IEA 2021)."
+Thales and SMRT Trains to enhance reliability and sustainability of Singapore metro lines - Thales,"Wed, 02 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvdHJhbnNwb3J0L3ByZXNzX3JlbGVhc2UvdGhhbGVzLWFuZC1zbXJ0LXRyYWlucy1lbmhhbmNlLXJlbGlhYmlsaXR5LWFuZC1zdXN0YWluYWJpbGl0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and SMRT Trains to enhance reliability and sustainability of Singapore metro lines Share this article
+
+
+
+LinkedIn
+
+SMRT Trains is partnering with Thales to establish a local signalling facility within Bishan Depot to repair critical electronic cards for the signalling systems used on the North-South and East-West Lines.
+
+The collaboration will boost local competencies within SMRT Trains’ Integrated Electronic Workshop to diagnose and repair these critical components, enhancing the long-term reliability and sustainability of the signalling systems running on the nation’s legacy MRT lines.
+
+On the digital front, SMRT Trains and Thales will jointly develop an intelligent rail analytics platform, leveraging condition-monitoring devices, data analytics and cloud computing. This enables smart monitoring of rail signalling systems and supports condition-based maintenance that reinforces reliability of the signalling system at an optimal cost.
+
+
+
+SMRT Trains & Thales to enhance reliability and sustainability of Singapore metro lines © SMRT Trains
+
+SMRT Trains, Singapore’s pioneer and dominant rail operator, and Thales have signed a repair collaboration agreement to establish a local repair facility on the rail operator’s premises at Bishan Depot to reduce repair turnaround time and improve cost efficiencies.
+
+Thales’s renowned SelTracTM Communication-Based-Train-Control (CBTC) signalling system is used on the North-South and East-West lines (NSEWL) of Singapore’s rail network, both of which are operated by SMRT Trains. Currently, critical electronic cards for the signalling equipment are produced and repaired by Thales at its dedicated facilities in Canada and France.
+
+With this agreement, Thales’s rail experts will work closely with SMRT Trains’ Integrated Electronic Workshop to set up the repair facility. This includes training and transfer of expertise and technical know-how to enable technicians from SMRT Trains to diagnose and repair faulty components.
+
+On the digital front, SMRT Trains and Thales have signed an agreement to jointly develop an intelligent rail analytics platform for the smart monitoring of rail signalling systems. Under this agreement, SMRT Trains’ engineers and Thales experts will organise a series of Design Thinking workshops to define specific use cases and identify key maintenance priorities.
+
+Built upon Thales’s Urban Rail Signalling – Rail Analytics Platform, the tailored digital platform will leverage condition-monitoring devices, data analytics and cloud computing to automate the analysis of signalling system health and performance, and to identify and address potential maintenance issues before they occur. This will help to better manage engineering resources and improve systems reliability and performance.
+
+“SMRT Trains is continuously looking at ways to enhance the safety, reliability and productivity of our rail maintenance regimes. We are excited to collaborate with Thales to strengthen our maintenance capability and resilience, as well as bolster our staff’s expertise. With the establishment of the repair workshop at Bishan Depot, we aim to cut down repair turnaround time and cost. The use of digital technologies to preempt maintenance issues is also a key strategy for SMRT Trains as we strive to provide smooth journeys for commuters.” Lam Sheau Kai, President, SMRT Trains
+
+“Thales truly appreciates the continued trust that SMRT Trains has placed in us. With these agreements, we will tap into Thales’s renowned expertise in managing complex, global rail projects to deepen local expertise and capabilities in Singapore’s rail ecosystem. We look forward to co-innovating on cutting-edge digital solutions in intelligent rail analytics. This will help ensure safer and more reliable rides for commuters.” ​ Emily Tan, Country Director & Chief Executive, Thales in Singapore
+
+The two agreements signed between SMRT Trains and Thales follow the recent announcement of a joint initiative by the partners called “The Next-Generation Green CBTC Project”, which aims to reduce electricity consumption and further improve traction energy efficiency of the NSEWL."
+Worried about your datacenter carbon footprint? Why not put it in orbit? - The Register,"Wed, 16 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzExLzE2L2RhdGFjZW50ZXJfb3JiaXQv0gE8aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIyLzExLzE2L2RhdGFjZW50ZXJfb3JiaXQv?oc=5&hl=en-US&gl=US&ceid=US:en,"The European Commission is to carry out a feasibility study on putting datacenters into orbit as part of its wide-ranging Horizon Europe research program, and has now announced companies taking part in the project.
+
+Thales Alenia Space, a joint venture between European aerospace and defence companies Thales and Leonardo, announced that it has been selected by the European Commission to lead the ASCEND feasibility study, which stands for Advanced Space Cloud for European Net zero emission and Data sovereignty.
+
+The impetus behind this project is apparently environmental, according to Thales Alenia Space. The ever-expanding market for IT services means that datacenters in Europe and across the globe are growing at a rapid pace, which in turn has an impact on energy consumption and can harm the environment.
+
+It isn't perhaps an obvious solution, but Thales Alenia Space will lead a consortium of companies examining whether datacenters can be put into orbit, powered by solar energy and use optical communications to provide a data link with facilities on the ground.
+
+The company said the project could help meet Europe's Green Deal goal of achieving carbon neutrality by 2050, and would also be an ""unprecedented development in the European space and digital ecosystem.""
+
+According to Thales Alenia Space, the energy to power such orbital datacenters could come from solar power plants capable of generating several hundred megawatts, while the link with the ground would use high-bandwidth internet connections based on optical communications, ""for which Europe has mastered the underlying technologies.""
+
+The first objective of the study will be to assess if the CO 2 emissions from the building and launching of the space infrastructure would be significantly lower than the emissions generated by simply building more ground-based datacenters.
+
+A second objective will be to prove that it is possible to develop the required launch solution – ie, that it is actually feasible to stick a datacenter on a rocket and put it into orbit in a working state – and to ensure the operability of the space-borne datacenters.
+
+According to Thales Alenia Space, the latter could be accomplished using robotic assistance technologies currently being developed in Europe, such as the EROSS IOD demonstrator.
+
+EROSS IOD (European Robotic Orbital Support Services In Orbit Demonstrator) is a project to develop technology for in-orbit servicing of satellites in order to extend their usable life, and is also led by Thales Alenia Space.
+
+The idea may sound wacky, but at least the European Commission is stumping up the cash to investigate how achievable it is. It seems likely that an orbital datacenter would be constrained by what fits atop the largest launch vehicle, and thus would be much smaller and have far less capacity than ground-based datacenters, unless they can perhaps be linked together in orbit.
+
+Other concerns would be that it would be very difficult to send out an engineer to fix a failed storage array, and the lifecycle of servers means that the infrastructure would be out of date after about five years or so.
+
+ASCEND was detailed in a factsheet published in October by the European Commission and stems from the 2021 Horizon Europe calls for space-based proposals. It states that ASCEND will receive a grant of over €2 million ($2.08 million).
+
+The consortium includes numerous companies with relevant areas of expertise, including the environment (Carbone 4, VITO), cloud computing (Orange, CloudFerro, HPE Belgium), launch vehicles (ArianeGroup) and orbital systems (German aerospace center (DLR), Airbus Defence and Space and Thales Alenia Space). ®"
+Thales Alenia Space wins EU feasibility study for 'Ascend' space data centers - DatacenterDynamics,"Tue, 15 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmRhdGFjZW50ZXJkeW5hbWljcy5jb20vZW4vbmV3cy90aGFsZXMtYWxlbmlhLXNwYWNlLXdpbnMtZXUtZmVhc2liaWxpdHktc3R1ZHktZm9yLWFzY2VuZC1zcGFjZS1kYXRhLWNlbnRlcnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"'Advanced Space Cloud for European Net zero emission and Data sovereignty' is part of the EU's Horizon Europe research program, and aims to see if data centers in space would lead to fewer emissions than those on Earth.
+
+The European Commission has contracted Thales Alenia Space to lead the ASCEND feasibility study for data centers in orbit.
+
+The data centers would rely on solar power plants generating several hundred megawatts, which would also be in space.
+
+They would then link to the Earth via high-throughput optical communications.
+
+The military contractor is teaming up with several others for the study - climate companies (Carbone 4, VITO), cloud computing and IT businesses (Orange, CloudFerro, Hewlett Packard Enterprise Belgium), launch vehicle developers (ArianeGroup), and orbital systems makers (German aerospace center DLR, Airbus Defence and Space, and Thales Alenia Space).
+
+The first stage of the study sets out to answer a critical question - whether the emissions created by producing and launching the space data centers would be less than that generated by ground based ones.
+
+Then it will study whether it is possible to develop the necessary launch solution and to ensure the deployment and operability of these spaceborne data centers using robotic assistance technologies, with a particular focus on those developed in Europe, such as the EROSS IOD demonstrator (also made by Thales Alenia Space).
+
+Thales Alenia Space notes that if the project is successful, it could justify the development of a more climate-friendly, reusable heavy launch vehicle.
+
+The company, jointly held by Thales (67 percent) and Leonardo (33 percent), was last year contracted by NASA to study a data center on the Moon.
+
+That facility, which we profiled in 2021, would be built for lunar operations, reducing latency for astronauts and machines - rather than being used by terrestrial humans.
+
+NTT and SKY Perfect JSAT also plan to build a number of compute- and storage-focused satellites that would together form a single data center via optical communications."
+"Kongsberg, Thales Ink New Protector Weapon Systems Agreement - The Defense Post","Mon, 28 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzExLzI4L3VrLXByb3RlY3Rvci1rb25nc2JlcmctdGhhbGVzL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kongsberg Defence & Aerospace has partnered with Thales UK to support the British armed forces’ Protector Remote Weapon Systems (RWS) program.
+
+Under the agreement, the companies will work on various capabilities for the maturation of the weapon system in the UK military and foreign markets.
+
+The memorandum builds on an existing collaboration signed in 2007.
+
+Kongsberg and Thales have promoted the Protector RWS globally, integrating approximately 1,000 of the weapon systems into the British defense.
+
+“I am delighted to be re-signing this memorandum of agreement that consolidates our existing partnership over 20 years,” Thales UK Managing Director Stephen McCann explained.
+
+“A partnership that has secured a major role within the UK Army’s Boxer Strategic Pipeline and has grown from strength to strength.”
+
+“I look forward to extending the reach and scope of a partnership in the UK and throughout Europe and supporting Kongsberg in the United States of America.”
+
+Expanding Collaboration
+
+According to Kongsberg, the UK Ministry of Defence selected the Protector RWS for its high accuracy, sensor performance, system modularity, and flexibility.
+
+The Protector family includes light machine guns, light cannons, and medium-caliber cannons that can be mounted on land vehicles and stationed platforms.
+
+In the past 20 years, over 20,000 Protector RWS have been delivered to 28 nations.
+
+“PROTECTOR Programmes, projects and capability areas KONGSBERG and Thales UK aspire to collaborate in have steadily grown since we signed the last agreement in 2017,” Kongsberg Executive Vice President of Land Systems Eirik Tord Jensen said.
+
+“Both companies have expressed a high level of ambition to expand our relationship over the coming 5 years.”
+
+Latest Protector Contracts
+
+Kongsberg’s most recent Protector RWS milestone was a $1.5 billion contract to extend its supply to the US Army.
+
+Another achievement was a Mechanized Infantry Vehicle agreement for the British Army’s Protector RS4 variant Boxer armored multirole vehicle."
+Thales to Work on New K50 KRAKEN Maritime Gunship - Naval News,"Wed, 09 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzExL3RoYWxlcy10by13b3JrLW9uLW5ldy1rNTAta3Jha2VuLW1hcml0aW1lLWd1bnNoaXAv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales to Work on New K50 KRAKEN Maritime Gunship Thales has partnered with Kraken Group to integrate a suite of on-board sensors and weapon systems, as well as scalable command and control, communications and networking systems into Kraken's K50 Gunship.
+
+Thales press release
+
+Thales has a long history of partnering with experts in their own field to help deliver the next generation of maritime technology capability. But few projects can be as potentially fast, formidable and game-changing as the K50 KRAKEN gunship.
+
+Capable of 65 knots (nearly 75mph) fully laden, the KRAKEN is a built-for-purpose, ultra-high performance offensive platform, designed for solo operations or swarmed force projection to protect assets at sea.
+
+Heavily-armed with missiles, Miniguns, 30mm canon, torpedoes and designed for rapid precision engagement, it is not a sight any would-be adversary would want to see coming over the horizon.
+
+Designed by British-based Kraken Technology Group (KTG), the KRAKEN will be built at a new advanced engineering and technology centre in the UK.
+
+Rendering of the miniguns mounted on K50 vessel (Kraken image)
+
+The development of the platform has also taken another step forward with the recent announcement that the company has signed a Memorandum of Understanding with Thales for the development and provision of bespoke systems.
+
+Thales in the UK will provide the ability to integrate a range of sensor and weapons equipment on board with scalable command and control, communication and networking systems.
+
+The memorandum has also identified the world-leading Thales Lightweight Multi-role Missile (LMM) as a candidate for integration onto the platform.
+
+Martlet / LMM / FASGW(L). Thales picture.
+
+Ivor Humphrey, Business Development Executive at Thales who has been working with KTG, said: “LMM has a proven capability in air defence and surface attack and is able to defend against a number of threats, including fast inshore attack craft, unmanned aerial vehicles and fast jets.
+
+“The system also complements perfectly Kraken’s key design principles of multi-role thinking, high performance and modular adaptability.”
+
+“When combined with Thales’s suite of sensors, communications and decision support systems, it becomes a formidable and potent capability.”
+
+Ivor Humphrey, Business Development Executive at Thales
+
+This integration is in conjunction with Thales’s other partners MSI-DSL, who are developing a new lightweight launcher matched to LMM, as well as remote weapon stations for several other gun systems on board.
+
+Kraken K50 gunship rendering (Kraken image)
+
+Mal Crease, Founder and CEO of Kraken Technology Group, said: “We are exceptionally pleased to be teaming with one of the most well-respected names in the defence and security industry.
+
+“The K50 platform is a game-changer for a number of reasons. We have designed it as the spiritual successor of the renowned allied Motor Torpedo Boats and PT Boats of World War Two. These boats were small, but armed with unmatched speed and firepower to hunt in packs both in offensive and defensive capacities.
+
+“K50 KRAKEN is about performance. The top speed of 65 knots is based on a fully laden condition, designed and engineered from the keel up to operate as a fully integrated weapons platform, which far exceeds anything currently available. It will push boundaries in every respect. It can operate solo, but is also designed to collaborate in swarms both offensively and in deterrent modes. The Motor Torpedo Boats were revered as the ‘Spitfires of the Seas’, and we see the KRAKEN in much the same way in today’s context, as the maritime ‘Apache of the Seas’ – a formidable, fast threat and a visual deterrent to hostile actions
+
+Mal Crease, Founder and CEO of Kraken Technology Group
+
+Kraken Technology Group has a strong pedigree in high performance technology, but also draws on the experience and expertise of former UK and US special forces military personnel in its team.
+
+Mal added: “The input of the ex-operators is crucial. The KRAKEN is not an adapted patrol or insertion boat rebadged as a gunship. It is a dedicated design, tailored for high-speed precision-engagement, with end-user insights of the fast-paced reality of littoral operations and the need for integration and modularity being key.
+
+“It is designed for a fully laden top speed of 65 knots which is a real market differentiator. It has a cruise speed of 50 knots and a range of 400 nautical miles which can be significantly enhanced through the use of extended-range fuel tanks.
+
+“We know that the threats in the maritime environment are ever changing and believe that the KRAKEN will directly address the interdiction, interception and fast patrol needs of navies, border patrol and law enforcement agencies around the world.”"
+sponsored engineer makes Great Britain bobsleigh squad - Thales,"Mon, 21 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtZXVyb3BlL3VuaXRlZC1raW5nZG9tL3ByZXNzX3JlbGVhc2UvdGhhbGVzLXNwb25zb3JlZC1lbmdpbmVlci1tYWtlcy1ncmVhdC1icml0YWlu0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales-sponsored engineer makes Great Britain bobsleigh squad United Kingdom Share this article
+
+
+
+LinkedIn
+
+Maddison Illsley
+
+Thales in the UK is proud to be sponsoring one of its engineers who has achieved a remarkable sporting achievement after being selected for the ultra-competitive Great Britain Women’s Bobsleigh squad in her first year of trying the sport.
+
+Our Thales Engineering team in the UK were very supportive of Maddison and her sporting ambitions, and with help from the business, they made the sponsorship possible.
+
+Maddison Illsley, who works at the Thales Crawley site in West Sussex, has now left the UK to start her winter training in Norway, before the team competes in the Europa Cup and events across Europe.
+
+Former degree apprentice, and now a systems engineer with Thales, Maddison’s selection for this season’s GB team is all the more amazing in that – although she is an experienced track and power athlete – she was only selected for bobsleigh training earlier this year.
+
+Thales in the UK has also implemented a hybrid working scheme that allows her to balance her engineering career with the unique demands of her sport; Maddison is able to commit to a high level of athletic training, while still developing her engineering career.
+
+She said: “When I told my line management about being selected for the GB team, they were incredibly supportive. The sponsorship from Thales is going to make a huge difference. The chance to represent your country is an absolute honour and to have your company behind you is just amazing”.
+
+Speaking from her winter training camp in Norway, Maddison reflected on her experiences growing up that have led her to this remarkable position.
+
+She said: “As a kid, I wanted to be a pilot and engineering has always been there as a passion for me. My Dad was a huge inspiration for my brother and I; he is an engineer and scientist so it was just a family thing. Taking things apart, putting them back together was just a part of my childhood.
+
+“When I got to sixth form and my friends were thinking about university, I wasn’t sure if it was for me. My dad was once again the inspiration – he had done an apprenticeship which also led to getting his Masters, so I started researching the largest UK engineering companies that could offer apprenticeships while studying for a degree.
+
+Maddison’s experience with Thales so far has included time at Crawley and Glasgow, working on programmes such as the Royal Navy’s next generation Type 31 warship and optronics technology for the highly-advanced Astute submarine.
+
+She said: “Engineers have a shared enthusiasm for understanding how things work and I’ve loved the fact I’ve been exposed to these sort of high-profile programmes already. It was definitely the right choice for me.
+
+“Also, being an engineer has helped me understand the sport of bobsleigh that little bit better. The mechanics, the technical and weather challenges, how the sled moves on ice – that understanding of how things happen.
+
+“It is a choice to do both and it takes commitment from both sides to make this work. But Thales have been amazing”.
+
+Mike Seabrook, Company Secretary for Thales in the UK, said:
+
+We are incredibly proud of Maddison’s achievements and wish her and the squad the very best as they head into the winter season. For us, it is incredibly important we provide the right level of support in such a demanding schedule.
+
+You can find more information about careers at Thales in the UK here.
+
+About Thales
+
+Thales is a global technology leader in the Aerospace, Transportation and Defence & Security markets. In 2019, the company generated revenues of €18.4 billion with 80,000 employees in 68 countries. With its 30,000 engineers and researchers, Thales has a unique capability to design, develop and deploy equipment, systems and services that meet the most complex security requirements. Thales has an exceptional international footprint, working with customers and local partners around the world.
+
+Thales in the UK is a team of over 7,000 experts, including 4,500 highly skilled engineers, located across 9 key UK sites.
+
+Each year Thales invests over £575 million into its UK supply chain, working with over 2,000 companies. They are dedicated to research and technology, working with partners to invest over £130m+ in R&D in the UK annually.
+
+With a heritage of over 130 years, Thales in the UK understands the importance of developing skills for the future. They currently have 112 graduates and 238 apprentices, and are forecasting an additional 56 graduates and 104 apprentices for their 2023 intake in the UK. Thales is committed to supporting its people, and continuously developing talent, and highly skilled experts.
+
+Thales helps its customers think faster and act smarter. Whatever it takes."
+Sharing Skies Above Heathrow: Operating Crewed and Uncrewed Aircraft Safely and Efficiently - Thales,"Wed, 16 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtZXVyb3BlL3VuaXRlZC1raW5nZG9tL25ld3Mvc2hhcmluZy1za2llcy1hYm92ZS1oZWF0aHJvdy1vcGVyYXRpbmctY3Jld2VkLWFuZC11bmNyZXdlZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sharing Skies Above Heathrow: Operating Crewed and Uncrewed Aircraft Safely and Efficiently Share this article
+
+
+
+LinkedIn
+
+How do you operate crewed and uncrewed aircraft in some of the world’s most congested airspace, safely and efficiently? ‘This is the big question that a Consortium led by Operational Solutions Limited, in which Thales UK is a key player, is looking to answer at one of the world’s busiest international airports.’ HADO® is an ambitious two-year project to deploy and operate a highly-automated 24/7 BVLOS (beyond visual line of sight) drone operation at London’s Heathrow Airport (LHR).
+
+Thales’s involvement in this ground-breaking project will include supporting the development of automated technologies, skills, operating procedures, use cases, and safety-case approvals required to deploy the TopSky UAS Airspace Manager. In particular, to support Project HADO’s four-month 24/7 live BVLOS drone operations in the high-intensity environment of LHR. Use cases will demonstrate operational, economic, and societal benefits in areas such as infrastructure inspections, logistics support and security operations.
+
+For Thales, the key challenge Project HADO aims to address is coordinating uncrewed traffic management (UTM) with well-established air traffic management (ATM) operations in a defined volume of airspace. Our contribution to the project will build on the successful UTM trials currently being conducted across several European airports, as well planning for state-wide operations in the US.
+
+Bringing it all together
+
+As well as supporting the HADO consortium to define use cases, Thales will work with OSL to build a UTM interface with a command and control (C2) node able to bring together data from numerous sensors across Heathrow to create a single, composite situational awareness picture. It’s this rich data source that we’ll use to support traffic management.
+
+The future of airport operations
+
+Attractive use cases for drones across LHR’s 12 km2 estate and proximate airspace are numerous and diverse. Security monitoring, perimeter surveillance, small-scale logistics, airport maintenance, and drone traffic (including non-authorised flights) monitoring are all areas where drones could significantly enhance operations, while also reducing costs and environmental footprint. What’s more, part of the BVLOS UAS evaluation will include missions that move in and out of the Heathrow perimeter.
+
+Another area of huge potential benefit is sustainability. Using drones instead of standard vehicles to carry out many routine airport activities could reduce the carbon footprint of airport operations and engineering teams, while supporting Thales’s own journey to carbon neutrality.
+
+“If you can deploy drones in a safe and efficient manner, without adversely impacting existing airport operations, endless possibilities exist to monitor, manage, or measure all manner of important airport activities. We envisage that costs, time, and carbon savings will be demonstrably significant as use cases and operating concepts are refined in coordination with the authorities and other stakeholders at Heathrow. Project HADO will be a major first step to achieving all of these things.” Neil Watson, Market Development Manager (AMS), Thales in the UK
+
+“Enabling autonomous beyond visual line of sight drone operations in intensely busy areas is key to unlocking drone-enabled economies and a future of smart airports and smart cities. We believe that HADO is a unique project with potential to unlock significant commercial opportunities in the UK.” Mark Legh-Smith, CEO, Operational Solutions Limited (OSL)
+
+“There are lots of challenges that need to be overcome for us to safely integrate autonomous drones into our existing airspace. The information project HADO gathers during its ambitious four-month trial, in the challenging environment of Heathrow, will be vital in helping the industry understand how we can resolve issues before we scale up further.” Gary Cutts, Future Flight Challenge Director, UKRI
+
+Taking UTM to new heights
+
+HADO has two clear aims. First, to demonstrate that commercially beneficial Autonomous BVLOS operations are possible using uncrewed aerial systems (initially, in the under 25 kg category) in high-intensity, controlled airspace environments. And second, to inform and help shape future autonomous BVLOS regulations by providing evidence-based recommendations to Regulators about the technology and operating procedures needed to achieve safe and cost-effective BVLOS operations in mixed-traffic environments.
+
+Ultimately, HADO aims to create a world-leading and world-first capability that will revolutionise the use of automated UAS in complex air traffic environments, and put the UK at the forefront of global thinking in this sector. And in doing so, create a model for commercial autonomous UAS operations that can be quickly scaled and rolled-out across hundreds of sites in the UK and globally.
+
+Find out more about Thales in the UK’s future of aviation solutions"
+"STMicroelectronics, in collaboration with Thales, powers secure, contactless convenience in Google Pixel 7 - GlobeNewswire","Wed, 09 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMi8xMS8wOS8yNTUyMTA1LzAvZW4vc3RtaWNyb2VsZWN0cm9uaWNzLWluLWNvbGxhYm9yYXRpb24td2l0aC10aGFsZXMtcG93ZXJzLXNlY3VyZS1jb250YWN0bGVzcy1jb252ZW5pZW5jZS1pbi1nb29nbGUtcGl4ZWwtNy5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"STMicroelectronics, in collaboration with Thales, powers secure, contactless convenience in Google Pixel 7
+
+ST54K single-chip NFC controller and secure element combines with Thales secure OS for superior performance in embedded SIM, transit ticketing, and digital car-key applications
+
+Geneva, November 9, 2022 – STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has revealed that its ST54K IC is handling control and security for contactless NFC communication in the newly launched Google Pixel 7 smartphone.
+
+Chosen by Google’s designers, ST’s device combines NFC control and a certified Secure Element in a single chip that saves space and simplifies handset design. Containing proprietary technologies that enhance NFC contactless sensitivity, the ST54K was selected to ensure the most reliable connectivity, deliver excellent contactless user experiences, and ensure the highest contactless transaction security.
+
+For Google’s Pixel 7, ST has combined the ST54K with the mobile secure operating system (OS) by Thales. The OS meets the highest security industry standards and supports convergence of the embedded SIM (eSIM) with other secure NFC applications into the same ST54K secure element.
+
+Marie-France Li-Saï Florentin, Microcontrollers & Digital ICs Group Vice President, Secure Microcontroller Division General Manager, STMicroelectronics, commented, “Google chose the ST54K for its excellent performance, low power, and robust security that meets the highest CC EAL5+ assurance. As a result, it ensures the best possible user experience and protection for contactless transactions.”
+
+Emmanuel Unguran, SVP Mobile Connectivity Solutions, Thales, added, “The combination of ST’s ST54K with our secure OS and personalization capabilities provides a certified and evolutive solution for smartphones to support diverse digital services. These include embedded SIM for instant connectivity, and digital wallet services, such as transit ticketing and digital car keys. It is also the first in the Android ecosystem to support the eSIM Multiple Enabled Profiles.”
+
+Google Pixel 7 arrived in the marketplace on October 7. ST’s ST54K single-chip NFC controller and secure element, combined with Thales’ secure OS, now represents a proven solution for reliable and high-performing contactless functionality in Android handsets and is available to all OEMs without restriction.
+
+Technical Notes to Editors:
+
+The solution jointly developed by ST and Thales lets the Google Pixel 7 support the Car Connectivity Consortium (CCC) Digital Car Key Phase 3 specification. The handset thus provides the functionality needed for users to safely digitalize their car key into the phone, protected by the ST54K Secure Element. In addition, ticketing standards such as FeliCa™ allow Pixel 7 users to access public transport with their phone.
+
+Support for the eSIM Multiple Enabled Profiles allows convenient dual-network connectivity, relieving reliance on cumbersome physical SIMs. With this, users can simplify managing two mobile network operator subscriptions to separate billing for personal and work calls on the same handset, for example, or ease access to services while traveling.
+
+Meeting the Android Ready SE (secure element) requirements, the combination of ST54K and Thales secure OS will also provide to Android phone designers a StrongBox-ready solution available from early 2023.
+
+The ST54K meets all NFC standards, including ISO/IEC 18092 active and passive peer-to-peer mode, Reader/Writer mode in accordance with NFC Forum™ tag specifications and ISO/IEC 15693, and ISO/IEC 14443 Type A & Type B card emulation mode. For more information, please contact your local ST sales office.
+
+For more information on thalesgroup.com, please go to:
+
+eSE secure end-to-end solutions
+
+SIM, eSIM and Secure Elements 2022 Portfolio
+
+About STMicroelectronics
+
+At ST, we are 48,000 creators and makers of semiconductor technologies mastering the semiconductor supply chain with state-of-the-art manufacturing facilities. An integrated device manufacturer, we work with more than 200,000 customers and thousands of partners to design and build products, solutions, and ecosystems that address their challenges and opportunities, and the need to support a more sustainable world. Our technologies enable smarter mobility, more efficient power and energy management, and the wide-scale deployment of the Internet of Things and connectivity. ST is committed to becoming carbon neutral by 2027. Further information can be found at www.st.com.
+
+For Press Information Contact:
+
+
+
+STMicroelectronics
+
+Michael Markowitz
+
+Director Technical Media Relations
+
+Tel: +1 781 591 0354
+
+Email: michael.markowitz@st.com
+
+Attachments"
+French defence giant Thales says it may have been hacked - Techzine Europe,"Wed, 02 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlY2h6aW5lLmV1L25ld3Mvc2VjdXJpdHkvOTMxODEvZnJlbmNoLWRlZmVuY2UtZ2lhbnQtdGhhbGVzLXNheXMtaXQtbWF5LWhhdmUtYmVlbi1oYWNrZWQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales, a major French defence and technology group, announced that criminal group LockBit 3.0 claims to have stolen some of its data and threatens to publish it.
+
+Thales noted it had not received a formal ransom demand at the time of its announcement. The company said LockBit 3.0 announced plans to release the data on the dark web on November 7.
+
+Thales provides electronics, software, devices and services to major organizations in the aerospace, defence, transportation and security sectors.
+
+Informal warnings and pending police report
+
+A Thales official said that the organization has opened an internal investigation and informed France’s national cybersecurity agency. A police report had not been filed at the time. The official added that the hackers had not provided proof of any Thales data being compromised.
+
+Thales made news earlier this year when the group announced that it had reached an agreement with Sonae Investment Management to buy cybersecurity firms S21sec and Excellium for €120 million."
+The challenges of decarbonising in the defence sector - Thales,"Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtZXVyb3BlL3VuaXRlZC1raW5nZG9tL25ld3MvY2hhbGxlbmdlcy1kZWNhcmJvbmlzaW5nLWRlZmVuY2Utc2VjdG9yLTDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The challenges of decarbonising in the defence sector Share this article
+
+
+
+LinkedIn
+
+What is the UK defence sector doing to respond to the challenges and evolving security risks associated with the climate emergency? Should the defence sector even be considering emissions when the risks they deal with are immediate and life threatening?
+
+And what role should the industry play in moving the planet to net zero?
+
+Steve Murray, VP of Strategy and Marketing from Thales, explains why defence and tackling the climate emergency are critically linked.
+
+What does Climate Change and sustainability mean to Thales and to the defence industry?
+
+Thales sees tackling climate change as core to our purpose and inextricably linked to defence. In order to be able to decarbonise, you first need a foundation of national stability and security.
+
+The war in Ukraine demonstrates this most starkly. Clearly any thoughts about decarbonisation in Ukraine are very much second order to preserving the nation state and the lives of its citizens at the moment.
+
+Dramatic changes to the climate increase the chance of hostilities over access to environmental resources, like water and crops, but as extreme weather events become more common, defence will also have a greater role to play in providing humanitarian assistance.
+
+Translating that into activity that Thales undertakes as a business – we’ve committed to becoming a net zero organisation, for activities that we directly control, by 2030. This includes such things as how we heat our buildings and buying 100 per cent renewable electricity.
+
+The most complicated piece for industries more generally – not just the defence sector – is when we buy goods and services from our supply chains. Working with our key suppliers, we’re establishing carbon action plans that will see a 35 per cent reduction in our indirect carbon footprint – also by 2030.
+
+Products and services within the defence industry also have a role to play, such as through the incorporation of eco-design principles into our products and finding environmental applications for existing products. For example, an unmanned surface vessel – currently part of an autonomous counter mine programme, has already been trialled using military-grade surveillance cameras to inspect wind turbine blades as they rotate – giving them more time to spend generating clean energy.
+
+Where do you see the most potential to exploit existing technologies to make big strides forward and pick up the pace of change?
+
+There are clear areas where we can establish some quick wins and pick up the pace. The process of digitisation, for example, can develop, test and optimise systems with a much smaller environmental footprint than traditional approaches of live testing and evaluations.
+
+We’ve also seen a huge benefits in the use of Thales’ advanced flight simulators. In the UK, aviation accounts for two thirds of all defence emissions – with defence, in turn, accounting for half of all government emissions. However, by training air crew in simulators, we’re able to dramatically reduce the need for live flying by 90 per cent – which is hugely impactful in saving emissions.
+
+There are also green energy and renewable solutions that have applications first in the civil market that can then be applied to defence. For example, electric vehicles, energy generation, and storage batteries, are going to be developed first for the larger civil markets. The defence customer can then take the best from this technology and adapt and integrate it to their own needs. Thales has an opportunity to play a significant role in encouraging these cross-sector developments, as our footprint in the civil markets is as large as it is in our defence business.
+
+Finally, we expect our customers to start considering the total life-span of products – ensuring that the products are recyclable, and we’re able to recapture increasingly valuable raw materials.
+
+High-G Training Simulator
+
+Are there any new technologies coming through the pipeline now which are going to have a significant impact on energy consumption, or that will need to change?
+
+From 2025 onwards, we’re looking at the military using technologies including AI, autonomy, quantum computing, quantum sensing and so forth. These will dramatically increase the demand for processing power and, ultimately, electrical energy. So, while technologies are emerging to improving energy efficiencies, the demand for energy will continue as present and could rise.
+
+The defence industry is looking at other technologies to offset this effect, such as edge computing, where the processing is done in the deployed vehicles or on the soldier, rather than transmitting large amounts of data back to a central hub, which is by its nature inefficient. We’re also looking at making so-called “frugal AI” systems, which require less data and are much less energy consuming.
+
+The evolution away from fossil fuels will inevitably lead to more electric propulsion. However, this is only a positive step if the power generation is also sustainable, and could potentially lead to deployable renewable or nuclear power solutions.
+
+Lastly – with some elements of climate change here to stay, we are going to see frontline soldiers and their equipment operating in increasingly hostile and unpredictable weather conditions. This means equipment will have to undergo much more rigorous testing to ensure it is able to operate in all extremes.
+
+What role do you see for legislation and government support in driving decarbonisation in defence?
+
+For organisations working in the UK with the Ministry of Defence (MoD) and for His Majesty’s Government, you are working within a framework that is driving towards net zero in less than 30 years.
+
+The recently released Defence Capability Framework for the first time, gave the defence industry a very clear indication on future capability acquisition plans from the MoD – there is an opportunity to go further and link up the capabilities required to their Climate Change & Sustainability Strategy.
+
+If you can work with your customers to agree clear roadmaps, aligned both to domestic needs and export opportunities, then you build up a virtuous circle which allows businesses to invest with greater confidence, making them more resilient and able to sustain and expand their skill-base. Which, ultimately, makes the UK more secure, and gives it a basis from which to decarbonise."
+Thales and SMRT Trains collaborate to enhance local repair and digital rail capabilities in Singapore - Thales,"Wed, 02 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWFzaWEvc2luZ2Fwb3JlL3ByZXNzX3JlbGVhc2UvdGhhbGVzLWFuZC1zbXJ0LXRyYWlucy1jb2xsYWJvcmF0ZS1lbmhhbmNlLWxvY2FsLXJlcGFpci1hbmTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and SMRT Trains collaborate to enhance local repair and digital rail capabilities in Singapore Smarter Signalling Ground Transportation Data analytics Share this article
+
+
+
+LinkedIn
+
+SMRT Trains is partnering with Thales to establish a local signalling facility within Bishan Depot to repair critical electronic cards for North-South and East-West Lines’ signalling systems.
+
+The collaboration will boost local competencies within SMRT Trains’ Integrated Electronic Workshop to diagnose and repair these critical components, enhancing the long-term reliability and sustainability of the signalling systems running on the nation’s legacy MRT lines.
+
+On the digital front, SMRT Trains and Thales will jointly develop an intelligent rail analytics platform, leveraging Condition-Monitoring Devices, Data Analytics and Cloud Computing. This enables smart monitoring of rail signalling systems and support condition-based maintenance that reinforces reliability of the signalling system at an optimal cost.
+
+© SMRT Trains
+
+SMRT Trains and Thales share a goal to provide safe, reliable and comfortable journeys in Singapore. They have inked two agreements – for the joint establishment of a local rail signalling repair facility and also the joint development of an intelligent rail analytics platform – to reinforce the reliability of the nation’s oldest MRT lines operated by SMRT Trains.
+
+SMRT Trains, Singapore’s pioneer and dominant rail operator, and Thales have signed a Repair Collaboration Agreement to establish a local repair facility at the rail operator’s premise in Bishan Depot to reduce repair turnaround time and improve cost efficiencies.
+
+Thales’ renowned SelTracTM Communication-Based-Train-Control (CBTC) signalling system drives the North-South and East-West lines (NSEWL) of Singapore’s rail network, which are operated by SMRT Trains. Currently, critical electronic cards of the signalling equipment are produced and repaired overseas by the original equipment manufacturer, Thales, at its dedicated facilities such as in Canada and France.
+
+With this agreement, Thales’ rail experts will work closely with SMRT Trains’ Integrated Electronic Workshop to set up the repair facility. This includes the training and transfer of expertise and technical know-how for SMRT Trains’ technicians to diagnose and repair the faulty components.
+
+On the digital front, SMRT Trains and Thales have signed an agreement to jointly develop an intelligent rail analytics platform for the smart monitoring of rail signalling systems. Under this agreement, SMRT Trains’ engineers and Thales’ experts will come together to define specific use-cases and identify key maintenance priorities over a series of design-thinking workshops.
+
+Built upon Thales’ Urban Rail Signalling – Rail Analytics Platform, the tailored digital platform will leverage Condition-Monitoring Devices, Data Analytics and Cloud Computing to automate the analysis of signalling systems’ performance and health state, and to identify and address potential maintenance issues before they occur. This will help to better manage engineering resources and improve the systems’ reliability and performance.
+
+SMRT Trains is continuously looking at ways to enhance the safety, reliability and productivity of our rail maintenance regimes. We are excited to collaborate with Thales to strengthen our maintenance capability and resilience, as well as bolster our staff’s expertise. With the establishment of the repair workshop at Bishan Depot, we aim to cut down repair turnaround time and cost. The use of digital technologies to preempt maintenance issues is also a key strategy for SMRT Trains as we strive to provide smooth journeys for commuters. Lam Sheau Kai, President, SMRT Trains
+
+Thales truly appreciates the continued trust that SMRT Trains has placed in us. With these agreements, we will tap on Thales’ renowned expertise in managing complex, global rail projects to deepen local expertise and capabilities in Singapore’s rail ecosystem. We look forward to co-innovating on cutting-edge digital solutions in intelligent rail analytics. This will help ensure safer and more reliable rides for commuters. Emily Tan, Country Director & Chief Executive, Thales in Singapore
+
+The two agreements signed between SMRT Trains and Thales follow the recent announcement of both parties’ joint initiative called “The Next-Generation Green CBTC Project”, which aims to reduce electricity consumption and further improve traction energy efficiency of the NSEWL.
+
+"
+French Army receives 5 Thales SpyRanger intelligence mini-drones (SMDR) from DGA | Defense News November ... - Army Recognition,"Fri, 18 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiqAFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vZGVmZW5zZV9uZXdzX25vdmVtYmVyXzIwMjJfZ2xvYmFsX3NlY3VyaXR5X2FybXlfaW5kdXN0cnkvZnJlbmNoX2FybXlfcmVjZWl2ZXNfNV90aGFsZXNfc3B5cmFuZ2VyX2ludGVsbGlnZW5jZV9taW5pLWRyb25lc19zbWRyX2Zyb21fZGdhLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"On November 10, the DGA announced that it had delivered to the Ground Force (Armée de Terre), on October 25, five new intelligence mini-drone systems (SMDR) pursuant to a contract notified at the end of 2016 to the company Thales. The SMDR is a medium-range surveillance drone system designed to collect real-time, day and night, environmental and target acquisition information.
+
+Follow Army Recognition on Google News at this link
+
+
+
+The French Army received 23 Thales SpyRangers as of today and will have a fleet of 35 systems by 2023 (Picture source: Thales)
+
+This system of mini-drones allows the Army to strengthen its intelligence capability as close as possible and beyond the contact zone. Each system consists of three identical Spy'Ranger drones and a ground station. Equipped with a high-definition optronic ball operating day and night, these aerial vectors offer increased detection, recognition and identification performance compared to that of their predecessor (the DRAC, contact intelligence drone). With a wingspan of almost 4 m and a weight of 15 kg, the drones have an autonomy of around 2h30.
+
+The system is deployed in 12 minutes by a team of two soldiers: installation of the launch pad, assembly of the drone, initialization of the ground station and performance of the tests before takeoff. Thanks to its data link, the drone can reliably and securely transmit high-definition video streams in real-time up to 30 km from the ground station.
+
+The SMDRs have been deployed in overseas operations as part of Operation Barkhane since the end of 2020. The Army received 23 systems as of today and will have a fleet of 35 systems by 2023. The contract, worth 120 million euros, provides support in terms of training, logistics and maintenance for 10 years.
+
+The range of Spy'Ranger mini-drone systems developed by Thales provides units deployed on the front line with autonomous intelligence gathering and offensive reconnaissance capabilities, allowing them greater versatility, better protection and seamless connection.
+
+
+
+Spy'Ranger was designed from the outset as a family of systems intended to perform a wide range of missions with an optimized logistics footprint. This range currently includes two models: Spy'Ranger 330 and Spy'Ranger 550. Although the cells are adapted according to the mission profile, both systems use the same high-definition day/night payload, secure data links and a power chain. The ground control station and user interface are identical to allow operators to easily switch between systems.
+
+
+
+Thanks to its data link, the drone can reliably and securely transmit high-definition video streams in real-time up to 30 km from the ground station (Picture source: DGA)"
+"Saudi Arabia, Thales, and RAPIDFire CIWS - Tactical Report","Wed, 30 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRhY3RpY2FscmVwb3J0LmNvbS9kYWlseS82MTAwOS1zYXVkaS1hcmFiaWEtdGhhbGVzLWFuZC1yYXBpZGZpcmUtY2l3c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"The Saudi Ministry of Defense is keen on enhancing the country’s network of ground-based air defense (GBAD) systems.
+
+In this regard, the Ministry reportedly seeks to reactivate the deal of the Thales RAPIDFire Close-In Weapon System (CIWS) anti-aircraft gun system that was previously unconcluded."
+Thales and Knorr-Bremse sign freight train automation MoU - Global Railway Review,"Fri, 04 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTM5MTIxL3RoYWxlcy1hbmQta25vcnItYnJlbXNlLXNpZ24tZnJlaWdodC10cmFpbi1hdXRvbWF0aW9uLW1vdS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Knorr-Bremse sign freight train automation MoU
+
+0 SHARES
+
+Thales and Knorr-Bremse are cooperating to develop automated features for the Digital Freight Train.
+
+Representatives from Knorr-Bremse and Thales signed the partnership agreement. Credit: Thales
+
+Knorr-Bremse and Thales have signed a Memorandum of Understanding (MoU) to cooperate on the development of Automatic Train Operation (ATO) solutions for locomotive-hauled freight and passenger trains.
+
+ATO will greatly assist train drivers in their daily work and thus help to counter the sector’s looming staff shortages, as well as improve rail freight’s efficiency, punctuality, and competitiveness.
+
+ATO: making rail freight more efficient
+
+“In our industry, Automatic Train Operation is a key lever for making rail freight more efficient and more available, increasing transportation capacity, and further optimising lifecycle costs for operators”, Dr. Nicolas Lange, Chairman of the Management Board of Knorr-Bremse Rail Vehicle Systems, said. “Our partnership agreement with Thales has enormous potential for bringing about the innovations required to enable safe and smooth Automatic Train Operation and thus improve, for example, energy efficiency and punctuality.”
+
+“Full autonomy is still a work in progress, although the necessary technologies are maturing rapidly. ATO is one of them, as a necessary step toward achieving fully autonomous driving,” Dr. Yves Joannic, Vice President Main Line Signalling and Managing Director Ground Transportation Systems at Thales Germany, said. “Thales has a clear vision for autonomy and is pleased to partner with Knorr-Bremse, a leading company in braking systems and other mission-critical train systems, with the aim of accelerating the development of automated train functions in the freight market.”
+
+ATO: delivering multiple benefits for the freight sector
+
+ATO will deliver multiple benefits for the rail freight sector. These include anticipated gains in efficiency and capacity, energy savings, performance enhancements and better punctuality. Train punctuality in particular (Estimated Time of Arrival) depends on smooth, consistent train driving based on factors such as track characteristics, topography, and surrounding traffic, as well as train-specific parameters such as load, which influences traction and braking performance.
+
+While many of these criteria are still monitored manually, digital and automated functions will significantly improve how they are tracked and utilised. By using sensor-based, real-time data, for example, new features will be able to deliver intelligent insights to train drivers and devise optimal driving strategies. Therefore, the smart interaction of the expertise of the two companies will be crucial. Especially in existing fleets, ATO will support drivers in their daily work. Among other advantages, this will help to counter looming staff shortages in the rail freight business.
+
+In respect to 2030 climate targets such as reducing transportation emissions by at least 18 per cent (European Commission, 2020), upgrading the rail freight sector is imperative for shifting large amounts of freight from trucks and airplanes to green, rail-based transportation. Rail consumes 12 times less energy and emits up to 11 times less CO2 per passenger/tonne kilometre compared with cars and trucks."
+Thales engineering role models inspire a new generation of primary school STEM pioneers - Thales,"Mon, 21 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vY291bnRyaWVzLWV1cm9wZS91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1lbmdpbmVlcmluZy1yb2xlLW1vZGVscy1pbnNwaXJlLW5ldy1nZW5lcmF0aW9uLXByaW1hcnnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales engineering role models inspire a new generation of primary school STEM pioneers Share this article
+
+
+
+LinkedIn
+
+Who we work with
+
+Thales has been working in partnership through the summer of 2022 with STEMettes, a national social enterprise that inspires and supports young women and schoolgirls to explore STEM careers.
+
+As part of the STEMillions programme, three female engineers from Thales provided inspirational “meal plans” that describe their career journeys, for students aged between seven and 11, in 10 participating state schools.
+
+Inspiring role models from Thales have been introducing primary school children, many in deprived parts of the UK, to the possibility of a career in science and engineering.
+
+Through the summer of 2022, Thales worked with national social enterprise STEMettes to provide classroom teachers with a STEM box, full of exciting classroom activities, in 10 state primary schools across England and Northern Ireland.
+
+STEMettes was founded in 2013 to encourage more girls and young women to take an interest in STEM subjects (Science Technology, Engineering and Maths). The organisation runs panel events, hackathons, a mentoring programme and a platform for girls interested in STEM careers.
+
+As part of its 10-week STEMillions programme which ran from February to July, Thales and STEMette resources supported teachers providing young students, aged from 7 and 11, to deliver a range of STEM-based challenges and after-school activities, which can earn teams national certificates and prizes.
+
+Thales spokesperson Kirsti Godson said: “Partnering with STEMettes, our engineers helped to inform and inspire more young people across the country to take an interest in STEM subjects and to explore future job opportunities in the field.
+
+“The activities showcased the great diversity of the role models we have in Thales, which didn’t go unnoticed by the students, and we look forward to working together again with STEMettes in the future.”
+
+The majority of the ten schools were located in the lowest 50% most deprived areas in the country, based on ONS figures, with 74% of participants eligible for free school meals.
+
+A report of the programme, which ended in July, highlighted some impressive results. 40% of teachers saw a high level of engagement, including among girls, and an improvement in mental health. It also revealed that the students taking part benefitted in a number of other ways:
+
+Opportunities to develop problem solving skills
+
+Raising interest and career aspirations in sciences, especially among girls
+
+Revealing opportunities for girls in STEM careers
+
+Introduce new topics and encouraging “outside the box” thinking
+
+The participants shared what they had learned from the scheme’s activities, with female pupils responding strongly to the Thales role models. Feedback showed they were more confident not only in themselves but also in their ability to excel in STEM subjects.
+
+Less confident students were also able to realise that they could enjoy science, with teachers reporting a buzz created across their entire school.
+
+Each activity box provided teachers with 10 hours’ worth of “meal plans” by inspirational female scientists and engineers full of advice, useful links and activity ideas, and all the equipment and instructions needed for a range of classroom activities.
+
+Activities included projects involving coding and are designed to increase children’s perception of STEM careers, while building confidence in skills, developing leadership and widening their knowledge of STEM subjects."
+Eutelsat satellite to get last ride from SpaceX's oldest active Falcon 9 booster – Spaceflight Now - Spaceflight Now,"Mon, 21 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMidmh0dHBzOi8vc3BhY2VmbGlnaHRub3cuY29tLzIwMjIvMTEvMjEvZXV0ZWxzYXQtc2F0ZWxsaXRlLXRvLWdldC1sYXN0LXJpZGUtZnJvbS1zcGFjZXhzLW9sZGVzdC1hY3RpdmUtZmFsY29uLTktYm9vc3Rlci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"EDITOR’S NOTE: Updated at 9 p.m. EST on Nov. 20 with 24-hour launch delay.
+
+A 12,000-pound European broadband communications satellite designed to beam internet signals to airplanes and ships is ready to rocket into a high-altitude orbit from Cape Canaveral Tuesday night, marking the 11th and final flight for SpaceX’s oldest active Falcon 9 booster. The rocket will devote all of its lift capability to deploying the Eutelsat 10B satellite into as high of an orbit as possible.
+
+The Eutelsat 10B satellite is buttoned up for launch inside the nose cone of the 229-foot-tall (70-meter) Falcon 9 rocket. Liftoff from pad 40 at Cape Canaveral Space Force Station is set for 9:57 p.m. EST Tuesday (0257 GMT Wednesday), but there’s just a 20% probability of favorable weather for launch, according to the official outlook from the U.S. Space Force’s 45th Weather Squadron.
+
+A launch attempt Monday night was scrubbed a couple of hours before liftoff to “allow time for additional pre-flight checkouts,” SpaceX said.
+
+A few miles north of pad 40, SpaceX is readying a different Falcon 9 rocket for launch Tuesday from Kennedy Space Center on a resupply mission to the International Space Station. The weather forecast for that launch, set for 3:54 p.m. EST (2054 GMT) Tuesday, is also iffy with a 30% chance of acceptable conditions for liftoff.
+
+Eutelsat 10B will deploy from the Falcon 9 rocket’s upper stage about 35 minutes after launch. The rocket will aim to release the spacecraft into a “super synchronous” transfer orbit with an apogee, or farthest point from Earth, well above Eutelsat 10B’s final operating altitude of 22,000 miles (nearly 36,000 kilometers). The target apogee for the Eutelsat 10B mission at spacecraft deployment will be above 37,000 miles, or about 60,000 kilometers, according to Pascal Homsy, Eutelsat’s chief technical officer.
+
+Instead of reserving some of its propellant for landing on a drone ship, the Falcon 9’s first stage booster will burn its nine main engines a few seconds longer than usual, giving an extra burst of speed to the rocket’s upper stage. That will allow the Falcon 9’s second stage engine to place the Eutelsat 10B satellite into a higher orbit than would have otherwise been possible.
+
+SpaceX still plans to retrieve the two halves of the Falcon 9 rocket’s payload fairing for refurbishment and reuse.
+
+A spokesperson for Thales Alenia Space, the manufacturer of Eutelsat 10B, said the deployment of the satellite into a super synchronous transfer orbit will shorten the time needed for it to reach its final operational geostationary orbit by about 10 days. Based on Thales’ Spacebus Neo satellite platform, Eutelsat 10B will use plasma thrusters for the orbit adjustments needed to circularize its orbit at geostationary altitude 22,000 miles over the equator, where it will circle Earth in lock-step with the planet’s rotation.
+
+Eutelsat 10B’s total launch mass is about 5.5 metric tons, or roughly 12,000 pounds, a Thales spokesperson told Spaceflight Now on Monday.
+
+The expendable Falcon 9 mission will be the third time this month that SpaceX has disposed of a Falcon rocket booster, following the intentional disposals of a core stage on a Falcon Heavy rocket Nov. 1 and a Falcon 9 booster on a mission Nov. 12. The Nov. 12 mission lofted two communications satellites for Intelsat, which said it paid a premium for the extra performance from the Falcon 9, resulting in the booster’s disposal in the Atlantic Ocean.
+
+“The reason why Eutelsat choose an expendable booster for this mission is because of the mass of the satellite, which requires the full capacity of fuel and extra performance of the Falcon 9 rocket and a proper orbit injection,” Homsy told Spaceflight Now in response to written questions.
+
+Homsy declined to say how much, if anything, Eutelsat paid SpaceX for the additional performance from the Falcon 9 on the Eutelsat 10B mission.
+
+Once in geostationary orbit next year, Eutelsat 10B will steer itself to an operating position along the equator at 10 degrees east longitude. The satellite will add capacity for internet connectivity services for airplanes and ships across the highly-trafficked North Atlantic corridor between Europe and North America. Eutelsat 10B will also provide similar services over Europe, the Mediterranean basin, and the Middle East, according to Eutelsat, the satellites Paris-based owner and operator.
+
+Eutelsat 10B carries two multi-beam high-throughout Ku-band payloads for aviation and maritime internet services. These two payloads have 116 spot beams capable of processing more than 50 GHz of bandwidth, and offering a throughout of approximately 35 gigabits per second, Eutelsat said.
+
+The satellite also hosts two wide beam C-band and Ku-band payloads to extend services currently provided by the aging Eutelsat 10A satellite, which launched in 2009.
+
+Eutelsat 10B is scheduled to enter service in the summer of 2023, Homsy said.
+
+The launch of Eutelsat 10B marks the fourth large Eutelsat communications satellite to launch in the last two-and-a-half months, beginning with the Eutelsat Konnect VHTS satellite which launched in September on an Ariane 5 rocket. Two Hotbird TV broadcasting satellites joined Eutelsat’s fleet after launches from Florida on Falcon 9 rockets in October and earlier this month.
+
+“Quite a challenge for the Eutelsat engineering teams, who have been up to the challenge,” Homsy said.
+
+Email the author.
+
+Follow Stephen Clark on Twitter: @StephenClark1."
+Atlas Elektronik to provide ASW technology to German F126 frigates - Naval News,"Fri, 04 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzExL2F0bGFzLWVsZWt0cm9uaWstdG8tcHJvdmlkZS1hc3ctdGVjaG5vbG9neS10by1nZXJtYW4tZjEyNi1mcmlnYXRlcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Atlas Elektronik to provide ASW technology to German F126 frigates ATLAS ELEKTRONIK GmbH has been commissioned by Thales Netherlands to equip the frigate 126 with anti-submarine warfare mission modules (F126 MM ASW).
+
+Atlas Elektronik press release
+
+The scope of the supply contract includes the delivery of two shipboard ASW mission modules as well as the provision of a corresponding shore facility for the initial and support training of the German Navy. The mission modules enablethe F126-class frigates to conduct long-range ASW operations and to build up an extensive subsurface picture. The modular system approach chosen for the F126 class allows for mission-specific equipment of the frigates and at the same time non-ship-specific deployment of the ASW modules.
+
+To provide the German Navy with the best possible support in fulfilling its missions, the latest active and passive sonar technology from ATLAS ELEKTRONIK will be used for the mission modules.
+
+“With the F126 MM ASW, we are launching a new, very powerful ASW system to meet both the current and the future challenges of our customers.”
+
+Michael Ozegowski, CEO of ATLAS ELEKTRONIK GmbH
+
+The contract already formally entered into force on 1 September 2022. The frigate F126 (originally known as the MKS 180 multi-role combat ship) is being built in cooperation between the Dutch Damen Shipyards Group, the Thales Group and Blohm+Voss with the involvement of German Naval Yards.
+
+– End –
+
+About the F126 project
+
+Official rendering of the F126 frigate formerly known as MKS 180. It will be designed and built by Damen. German MoD image.
+
+In June 2020, the German Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) and Damen signed the contract for the design and construction of four MKS 180 multi-purpose combat ships for the German Navy. In December, the ship type was renamed Frigate Class 126 (“F126”).
+
+Damen is fulfilling the order as the main contractor together with its partners Blohm+Voss and Thales, and many German suppliers. The ship design is to be provided by Damen in the Netherlands, Thales is responsible for the weapon control and command system, and the four initial ships will be built at Blohm+Voss in Hamburg as well as in Wolgast and Kiel. The first ship is scheduled to be handed over to the German Navy in 2028."
+Astronautics Corporation of America announces new President - AirMed and Rescue Magazine,"Tue, 29 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFpcm1lZGFuZHJlc2N1ZS5jb20vbGF0ZXN0L25ld3MvYXN0cm9uYXV0aWNzLWNvcnBvcmF0aW9uLWFtZXJpY2EtYW5ub3VuY2VzLW5ldy1wcmVzaWRlbnTSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Astronautics Corporation of America announced the appointment of Robert Atac as its president on 28 November, with the role starting immediately.
+
+He will be responsible for the company’s strategic growth, product and technology development, and overall management.
+
+Atac will report to the Chairman and Chief Executive Officer Dr Ronald Zelazo, who said: “We are delighted to have Bob on board as the company’s new president. His extensive domestic and international experience in military and commercial avionics and product development make him an ideal leader for Astronautics during our next phase of growth.”
+
+Before joining Astronautics, Atac had a 10-year career with Thales Defense & Security, the US defense business for the Thales Group. Here, he held multiple roles including Chief Technology Officer, Vice President / General Manager of the Visionix Helmet Mounted Display (HMD) division, and Vice President of Engineering Technology. Prior to Thales, Atac co-founded and built the Visionix HMD division of Gentex, which was sold to Thales.
+
+“I have always admired Astronautics’ innovative spirit as an avionics developer and integrator. I look forward to working with this team to expand their product portfolio and addressable market,” said Atac. “The Astronautics team has the creativity, capability, and experience needed to produce reliable, high-performance avionics.”
+
+Earlier this year, Astronautics sold its legacy electromechanical product line to Extant Aerospace."
+"Data breaches are happening in every organization, no matter the size, says VP encryption, Thales - IT World Canada","Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5pdHdvcmxkY2FuYWRhLmNvbS9hcnRpY2xlL2RhdGEtYnJlYWNoZXMtYXJlLWhhcHBlbmluZy1pbi1ldmVyeS1vcmdhbml6YXRpb24tbm8tbWF0dGVyLXRoZS1zaXplLXNheXMtdnAtZW5jcnlwdGlvbi10aGFsZXMvNTEzMTY30gGRAWh0dHBzOi8vd3d3Lml0d29ybGRjYW5hZGEuY29tL2FydGljbGUvZGF0YS1icmVhY2hlcy1hcmUtaGFwcGVuaW5nLWluLWV2ZXJ5LW9yZ2FuaXphdGlvbi1uby1tYXR0ZXItdGhlLXNpemUtc2F5cy12cC1lbmNyeXB0aW9uLXRoYWxlcy81MTMxNjc_YW1wPTE?oc=5&hl=en-US&gl=US&ceid=US:en,"For Todd Moore, vice president (VP) of Encryption Solutions at Paris-based deep-tech solutions provider Thales, no industry or organization is immune to data breaches, and small to medium-sized businesses (SMBs) are particularly vulnerable.
+
+Moore was joined by Carsten Maple, Professor of Cyber Systems Engineering at the University of Warwick, England, in a Linkedin Live event following the release of Thales’ 2022 Digital Trust Index that focuses on the current cyber threat landscape and building customers’ trust in today’s digital world.
+
+Breaching lots of smaller organizations rather than one of the big organizations can be much more profitable for organized gangs, as it allows them to keep the awareness level down and stay out of the press, explained Moore. The media often does not deem it very newsworthy to cover the data breaches happening in smaller organizations.
+
+Thales’ Digital Trust Index report showed that 20 per cent of customers are likely to leave a company after a major data breach. This represents a significant loss for smaller businesses that are dependent on a smaller customer base.
+
+But our reliance as consumers on big organizations does not help smaller businesses either. The report showed that despite trusting big organizations the least, more than 80 per cent of consumers still want to use a big company after a data breach.
+
+Interestingly, the report showed that only a fraction of consumers (31 per cent) want heavy fines levied against the big organizations for failing to protect customer data. Most wanted the company to immediately disclose that there had been a breach. SMBs can capitalize on that and seek to offer better communication and transparency to their customers, affirmed Moore.
+
+SMBs can differentiate themselves by showing they care about their customers’ data, and are willing to go the extra mile to protect customer data and apply the appropriate security controls, said Moore.
+
+“An SMB that puts security first will attract more new customers and retain them after a breach occurs. For an SMB, being able to show that they were well-prepared (from a data security perspective) before a breach will help stem the loss of customers after the breach.” said Moore.
+
+He added that while SMBs can be particularly vulnerable, they are dealing with less complexity than bigger organizations, and can therefore contain “data sprawl” and communicate the immediate security measures they have put in place.
+
+Moore recommends that all organizations, including SMBs, apply a straightforward security strategy: Discover, Protect and Control. This entails knowing where your critical data is situated, where it is moving (data flows and visibility), protect the data through encryption, tokenization and access controls, and finally, control the data via centralized key management and consistent security policies.
+
+“SMBs may have the most to lose from a data breach. These smaller companies should be even more prepared to protect their company’s and their customers’ data. If SMBs don’t prepare themselves properly, consumer trust is difficult to gain, but very easy to lose.” said Moore."
+Lockbit Ransomware Gang Leaks Stolen Thales Data - The Cyber Express,"Tue, 15 Nov 2022 11:55:38 GMT",https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlY3liZXJleHByZXNzLmNvbS9sb2NrYml0LXJhbnNvbXdhcmUtZ2FuZy1sZWFrcy1zdG9sZW4tdGhhbGVzLWRhdGEv0gFNaHR0cHM6Ly90aGVjeWJlcmV4cHJlc3MuY29tL2xvY2tiaXQtcmFuc29td2FyZS1nYW5nLWxlYWtzLXN0b2xlbi10aGFsZXMtZGF0YS8?oc=5&hl=en-US&gl=US&ceid=US:en,"LockBit ransomware gang continues leaking data stolen from Thales, days after the French multinational company acknowledged a data theft but claimed that there had been no intrusion of its IT systems.
+
+Thales designs, develops and manufactures electrical systems, devices, and equipment for the aerospace, defense, transportation, and security sectors globally. The company also offers cybersecurity services.
+
+Lockbit 3.0 Ransomware Begins Leaking Thales Information
+
+
+
+Lockbit ransomware on November 2 claimed to have stolen data from the company. The threat group launched the attack on October 31 and threatened the organization they’ll start releasing the data by November 7, 2022.
+
+The data comprised private information about the employees, including their names and email addresses. With the addition of Lockbit 3.0 ransomware to the gang arsenal, the threat group has started releasing the company’s data.
+
+Thales acknowledged on November 11 that the ransomware group has started releasing the company data on its leak site. According to the company, the data leak might have happened through the user account of a partner.
+
+​
+
+​”At this stage, Thales is able to confirm that there has been no intrusion of its IT systems,” said the announcement, reiterating that there is no impact on the group’s operations and the company is providing the necessary technical support and resources to minimize any potential impact on customers and stakeholders.
+
+​
+
+As the gang has already started releasing some of the data packets, it could mean that the company might have refused to pay the ransom.
+
+Thales and the recent cyberattacks
+
+Thales has been the target of hackers for the last few months. This is the second LockBit attack on the company this year. The threat group initiated the first attack in January 2022 and followed the same method used in the recent attack. The company refused to pay the ransom in January.
+
+Lockbit, then operating their 2.0 leak site, claimed responsibility for a cyberattack against the company on January 3. The company refused to pay the ransom, after which the ransomware gang exposed several hundred Zip files that contained internal tools, including computer code, for developers of Space Ops solutions from Thales Alenia Space, the space-exploration joint venture with Italian defense business Leonardo.
+
+The Thales group then conceded that the data was exfiltration, most of which was copied from a code repository server “external to the group’s main information systems."
+"Kongsberg, Thales UK sign new MoA for Protector RWS programme - Army Technology","Fri, 25 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmFybXktdGVjaG5vbG9neS5jb20vbmV3cy9rb25nc2JlcmctdGhhbGVzLXVrLXByb3RlY3Rvci1yd3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Officials of Thales UK and Kongsberg sign the memorandum of agreement for the Protector RWS programme. Credit: Anita Nyheim/© Kongsberg Defence & Aerospace.
+
+Kongsberg Defence and Aerospace has signed a memorandum of agreement (MoA) with Thales UK to collaborate on the Protector Remote Weapon Systems (RWS) programme.
+
+Through this joint initiative, the two companies aim to work in close cooperation to promote the Protector RWS to a larger number of military platforms in the UK Armed Forces, as well as in other countries’ forces.
+
+Kongsberg Land Systems executive vice-president Eirik Tord Jensen said: “Protector programmes, projects, and capability areas Kongsberg and Thales UK aspire to collaborate in have steadily grown since we signed the last agreement in 2017.
+
+“Both companies have expressed a high level of ambition to expand our relationship over the coming five years.”
+
+The new MoA builds on the existing partnership between the two companies.
+
+The first teaming agreement between Kongsberg and Thales UK was signed in 2007 and, over the years, the companies have partnered to promote the Protector programme.
+
+How well do you really know your competitors? Access the most comprehensive Company Profiles on the market, powered by GlobalData. Save hours of research. Gain competitive edge. View profiles in store Company Profile – free sample Thank you! Your download email will arrive shortly Not ready to buy yet? Download a free sample We are confident about the unique quality of our Company Profiles. However, we want you to make the most beneficial decision for your business, so we offer a free sample that you can download by submitting the below form By GlobalData Submit Country * UK USA Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos Islands Colombia Comoros Congo Democratic Republic of the Congo Cook Islands Costa Rica Côte d""Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati North Korea South Korea Kuwait Kyrgyzstan Lao Latvia Lebanon Lesotho Liberia Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao Macedonia, The Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and The Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and The South Sandwich Islands Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates US Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela Vietnam British Virgin Islands US Virgin Islands Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Kosovo Industry * Academia & Education Aerospace, Defense & Security Agriculture Asset Management Automotive Banking & Payments Chemicals Construction Consumer Foodservice Government, trade bodies and NGOs Health & Fitness Hospitals & Healthcare HR, Staffing & Recruitment Insurance Investment Banking Legal Services Management Consulting Marketing & Advertising Media & Publishing Medical Devices Mining Oil & Gas Packaging Pharmaceuticals Power & Utilities Private Equity Real Estate Retail Sport Technology Telecom Transportation & Logistics Travel, Tourism & Hospitality Venture Capital Tick here to opt out of curated industry news, reports, and event updates from Army Technology. Submit and download Visit our Privacy Policy for more information about our services, how we may use, process and share your personal data, including information of your rights in respect of your personal data and how you can unsubscribe from future marketing communications. Our services are intended for corporate subscribers and you warrant that the email address submitted is your corporate email address.
+
+Approximately 1,000 RWS systems have recently been selected for service within the UK Armed Forces.
+
+Thales UK OME managing director Stephen McCann said: “I am delighted to be re-signing this MoA that consolidates our existing partnership over 20 years.
+
+“A partnership that has secured a major role within the UK Army’s Boxer Strategic Pipeline and has grown from strength to strength.
+
+“I look forward to extending the reach and scope of a partnership in the UK and throughout Europe, and supporting Kongsberg in the US.”
+
+The Protector RWS programme was initially selected by the UK Ministry of Defence through a competitive process, based on the systems’ performance, modularity/flexibility, and firing accuracy.
+
+Kongsberg recently signed a contract to deliver the Protector RS4 RWS for the British Army mechanised infantry vehicle programme."
+"Forget The Ocean Or Even Planet Earth, EU Wants To Build A Data Center In Space - Hot Hardware","Thu, 17 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vaG90aGFyZHdhcmUuY29tL25ld3MvZm9yZ2V0LXRoZS1vY2Vhbi1vci1lYXJ0aC1ldS13YW50cy10by1idWlsZC1kYXRhLWNlbnRlci1pbi1zcGFjZdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"
+
+
+
+Artist rendering of data center in space from Thales Alenia Space
+
+
+
+The European Union is looking to send data centers into space in an effort to fight climate change. Thales Alenia Space is spearheading a study called ASCEND, which is part of the EU's ""Horizon Europe"" initiative.The need for digitalization means that data centers around the world are growing at a never before seen pace. In turn, it is having a tremendous impact on both energy and the environment. This has led the European Union to seek out alternatives for future data centers, in an effort to reduce global warming . ASCEND, or Advanced Space Cloud for European Net zero emission and Data sovereignty is a feasibility study for data centers to be placed in orbit.Thales Alenia Space, a joint company between Thales and Leonardo, was chosen to lead the ASCEND study. Its purpose is to determine the viability of installing data center stations in low-Earth orbit, powered by solar power plants generating several hundred megawatts. ASCEND is just one of many projects currently being looked at to help meet Europe's Green Deal goal of achieving carbon neutrality by 2050.According to Thales, the first objective of the study will be to determine if the carbon emissions from the production and launch of these infrastructures will be substantially lower than the emissions generated by ground-based data centers, or even Microsoft's ocean-based Project Natick . The second objective will be to prove that it is possible to create the required launch solution and to establish the deployment and operability of these spaceborne data centers using robotic assistance technologies currently in development in Europe.As of right now, the ASCEND study has been funded with a $2 million Euro budget. It is important to note that this is simply an exploratory study, and may end up finding that creating a space-based data center is not feasible for a number of reasons. Factors such as the cost of launching such an endeavor, maintaining it, and overall efficiency will all come into play along with determining just how eco-friendly a project of this magnitude would actually be.Top Image Credit: European Commission: Defence Ministry and Space"
+Thales confirms hackers released its data - Security - iTnews,"Mon, 14 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lml0bmV3cy5jb20uYXUvbmV3cy90aGFsZXMtY29uZmlybXMtaGFja2Vycy1yZWxlYXNlZC1pdHMtZGF0YS01ODc3MTHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"French defence and technology group Thales said data relating to the group has been released on the ""publication platform"" of the hacker group LockBit 3.0.
+
+The data was released on November 10, Thales, which provides advanced technologies in defence, aeronautics, space, transport and digital security, said.
+
+""At this stage, Thales is able to confirm that there has been no intrusion of its IT systems,"" it added.
+
+It said there is currently no impact on its operations.
+
+The group’s experts have identified one of two likely sources of the data theft and continue to investigate the second, it said. It is also working to minimise the potential impact.
+
+The firm said last week that it had opened an internal investigation and informed the ANSSI national cyber security agency.
+
+Thales said this week that the Russian-speaking extortion and ransomware group had claimed to have stolen some of its data, with plans to publish it on November 7."
+"L&T Technology Services Inaugurates Engineering R&D Center in Toronto, Canada - Business Wire","Wed, 02 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMTAzMTAwNTkzMy9lbi9MVC1UZWNobm9sb2d5LVNlcnZpY2VzLUluYXVndXJhdGVzLUVuZ2luZWVyaW5nLVJELUNlbnRlci1pbi1Ub3JvbnRvLUNhbmFkYdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"TORONTO--(BUSINESS WIRE)--L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced today the unveiling of its Engineering Research & Development (ER&D) Center in Toronto, Ontario (Canada), marking its third nearshore global design center in two quarters.
+
+The ER&D Center in Toronto will initially focus on developing digital solutions for the transportation sector including railway engineering, for a global aerospace & rail major. The area of specialization would cover rail track defect detection, advanced mobility solutions, digital asset management, digital flyboard, sensors and communications systems.
+
+The center will cater to LTTS’ Canada-based clients for developing cutting-edge solutions in Digital Products and also act as a nearshore site for North America-based customers to enable transformative, new-age initiatives in digital engineering.
+
+With plans to hire over 100 engineers in the next 18-24 months, the ER&D center is expected to become a focal point to hire local talent and further bolster the region’s reputation as a hub for engineering and innovation.
+
+The center was inaugurated by Mr. Amit Chadha, CEO and Managing Director of L&T Technology Services in the presence of Mr. Chris Pogue, CEO, Thales Canada, Mr. Ziad Rizk, COO of Ground Transportation Systems (GTS), Canada, Ms. Apoorva Srivastava, Consul General of India, The Hon. Victor Fedeli, Provincial Minister of Economic Development, Job Creation and Trade of Ontario, and Mr. Alind Saxena, Chief Sales Officer of LTTS.
+
+Speaking on the occasion, Amit Chadha, Chief Executive Officer & Managing Director, L&T Technology Services said, “LTTS is recognized for being the engineering partner of choice for global leaders and developing new-age and sustainable technologies. Through this new ER&D center, our customers in Canada and North America can leverage our cutting-edge technologies and digital products. LTTS is committed to building exciting opportunities in the Canadian business ecosystem, while strategically expanding its North American footprint.”
+
+Ziad Rizk, Chief Operating Officer, Ground Transportation Systems (GTS), Canada said, “With the vision to invest in new-age digital technologies in the railway engineering sector, we are delighted to partner with an ER&D leader like LTTS in Canada. We have over a decade-long partnership with LTTS which is further strengthened with the inauguration of this ER&D Center. Through this partnership, we are confident of continued innovation and providing effective, safe and modern railway capabilities for our customers.”
+
+The Hon. Victor Fedeli, Ontarios’ Minister of Economic Development, Job Creation and Trade, said, “The City of Toronto is known to be the fastest growing city in North America due to its thriving technology ecosystem. We are delighted to welcome an industry leader like LTTS into our community and envision technological advancements and development of local talent through their ER&D centre. We look forward to LTTS’ participation in helping build economic value in the region, while supporting clients globally.”
+
+His Excellency Mr. Manish, Acting High Commissioner of India to Canada, said, “The inauguration of this ER&D center is a big step towards further strengthening the relations between the two countries and promoting the Canada-India economic corridor. With the dedication to deliver innovative solutions and services to the North American clientele with the use of local resources, LTTS is establishing a strong technological footprint here in the region that is expected to benefit local communities and businesses.”
+
+Earlier this year, LTTS inaugurated an Engineering Design Centre in Toulouse (France) and an ER&D Centre in Krakow (Poland), as part of its strategic global business expansion plans.
+
+About L&T Technology Services Ltd
+
+L&T Technology Services Limited (LTTS) is a listed subsidiary of Larsen & Toubro Limited focused on Engineering and R&D (ER&D) services. We offer consultancy, design, development and testing services across the product and process development life cycle. Our customer base includes 69 Fortune 500 companies and 57 of the world’s top ER&D companies, across industrial products, medical devices, transportation, telecom & hi-tech, and the process industries. Headquartered in India, we have over 21,400 employees spread across 20 global design centers, 28 global sales offices and 90 innovation labs as of September 30, 2022. For more information, please visit https://www.LTTS.com/"
+France confirms Crotale NG air defense system delivery to Ukraine - defence-blog.com,"Mon, 21 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9mcmFuY2UtY29uZmlybXMtY3JvdGFsZS1uZy1haXItZGVmZW5zZS1zeXN0ZW0tZGVsaXZlcnktdG8tdWtyYWluZS_SAV9odHRwczovL2RlZmVuY2UtYmxvZy5jb20vZnJhbmNlLWNvbmZpcm1zLWNyb3RhbGUtbmctYWlyLWRlZmVuc2Utc3lzdGVtLWRlbGl2ZXJ5LXRvLXVrcmFpbmUvP2FtcA?oc=5&hl=en-US&gl=US&ceid=US:en,"France’s Minister of Defense Sebastien Lecornu has confirmed the country supplied two batteries of Crotale NG air defense missile system to Ukraine.
+
+France supplies the anti-air Crotale weapon to Ukraine to support the fight against Russia, according to Sebastien Lecornu.
+
+In an interview with Journal du Dimanche, Lecornu said that two batteries of Crotale NG air defense missile systems have been delivered to Ukraine out of the twelve owned by the French Air Force.
+
+- ADVERTISEMENT - CONTINUE READING BELOW -
+
+The Crotale NG is an all-weather short-range and multi-sensor air defense system developed by Thales Air Defense.
+
+The various subsystems of Crotale NG are integrated into a single platform, which makes Crotale a stable and compact platform. The air defense system houses both radars and infrared sensors to provide the best view of the airborne targets.
+
+The latest upgrade of the Crotale NG features an advanced thermal camera for reliable real-time imaging during day and night.
+
+The warhead carrying capacity of the system is 13kg. The weapon system can launch the warhead at a maximum speed of Mach 3.5 to hit targets 11km away.
+
+The Crotale NG system provides air situation and threat assessment, extended detection range, identification friend or foe (IFF), multi-target detection plus automated acquisition, tracking and engagement and all-weather operation. The data exchange capability provides integration of the Crotale NG into a global air defense scheme."
+SMRT reinforces alliance with industry - International Railway Journal,"Tue, 15 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJhaWxqb3VybmFsLmNvbS9wYXNzZW5nZXIvbWV0cm9zL3NtcnQtcmVpbmZvcmNlcy1hbGxpYW5jZS13aXRoLWluZHVzdHJ5L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"SINGAPOREAN public transport group SMRT and its subsidiary Strides International signed several notable memorandums of understanding (MoU) with technology and transport equipment suppliers at the Fourth LTA-UITP Singapore International Transport Congress and Exhibition (SITCE) held in Singapore.
+
+SMRT Trains and Thales signed two agreements. The first is for the joint establishment of a local railway signalling repair facility at the operator’s depot in Bishan to support the Thales SelTrac CBTC system used on the North-South and East-West lines (NSEWL) of the Singapore metro network, which are operated by SMRT.
+
+Circuit boards used by the signalling system are produced and supplied from Thales’ facilities in France and Canada. SMRT Trains president, Mr Lam Sheau Kai, says relocating this to Singapore will reduce turnaround times and costs. “SMRT Trains is continuously looking at ways to enhance the safety, reliability and productivity of our rail maintenance regimes,” he says.
+
+Secondly, SMRT will collaborate with Thales to jointly develop an intelligent rail analytics platform for the smart monitoring of signalling systems, which the partners say will improve the reliability of Singapore’s oldest metro lines.
+
+Built on Thales’ Urban Rail Signalling-Rail Analytics platform, the tailored platform will leverage condition monitoring devices, data analytics and cloud computing to automate the analysis of the signalling system’s performance and condition, and to identify and address potential maintenance issues before they occur, helping to better manage engineering resources while improving overall reliability and performance. SMRT and Thales will work to define specific use cases and identify key maintenance priorities during a series of design workshops.
+
+“The use of digital technologies to pre-empt maintenance issues is also a key strategy for SMRT Trains as we strive to provide smooth journeys for commuters,” Lam says.
+
+The two announcements follow confirmation of the Green CBTC project at InnoTrans in September. Under this initiative the two parties are working to reduce electricity consumption and the traction energy efficiency of the NSEWL.
+
+Alstom
+
+SMRT and Alston signed an agreement committing the partners to explore the use of technology, including 3D printing of replacement components, autonomous robots, and vision computing for predictive maintenance automation, and recovering energy from braking.
+
+The partners say the agreement will harness SMRT’s extensive local knowledge of rail network operations and Alstom’s global research and development resources. This will see teams from Alstom’s Innovation Station located in Singapore and SMRT leveraging the latest technologies in additive manufacturing, data analytics, artificial intelligence and cybersecurity as well as existing infrastructure such as CBTC simulation facilities to optimise the efficiency and security of rail operations and maintenance.
+
+“With SMRT’s experience in operating and maintaining train networks and Alstom’s R&D expertise, we are confident that this collaboration will enhance productivity, cybersecurity and sustainability,” Lam says.
+
+Egis Rail
+
+Strengthening collaboration on cybersecurity is also at the heart of an MoU signed by Strides International and Egis Rail. The partners plan to enhance their cooperation to support consultancy on cybersecurity for rail operators around the world. “This partnership with Egis will assist our customers to fast-track the adoption of industry standards and to become even more cybersecure,” says Mr Lee Ling Wee, president of Strides International.
+
+A*STAR
+
+SMRT also confirmed the signing of a Master Research Collaboration Agreement with Singapore’s Agency for Science, Technology and Research (A*Star) on research and co-innovation projects that will include work on AI, intelligent automation, and data analytics. The agreement runs until 2025.
+
+Areas for exploration include productivity enhancements for the reliability, availability, maintainability and safety (Rams) of transport systems, safety enhancements to benefit staff and human factors management, and sustainability improvements that will benefit operations and maintenance.
+
+One potential project highlighted by the partners is the development of a condition-based monitoring system to improve diagnostic inspections of the waveguide used for SMRT signalling. Inspection and maintenance of the waveguide is a labour-intensive process that can only be undertaken at night. A condition-monitoring system could reduce the estimated 380 nights and 6800 man-hours required to monitor the entire Singapore metro network.
+
+Another project under consideration seeks to use technologies to enhance station operation, including more effective monitoring of intrusion, unusual behaviour, potential hazards and suspicious objects.
+
+“A*Star has deep research strengths that are useful for a public transport operator like SMRT,” says Mr Tan Pengenna Kuan, president of SMRT Engineering. “Our collaboration with A*Star will help us to continue building capabilities for the reliability, safety and productivity of our operations and maintenance.”
+
+Finally, SMRT Trains and East Japan Railway (JR East) signed an MoU promising to exchange best practices on rail operation, customer service, safety, and maintenance to leverage each other’s strengths within Singapore and Japan, respectively. Both companies will collaborate on future technological developments and cross-border business opportunities."
+"India has a fantastic pipeline of talent: Clement de Villepin, SEVP Human Resources, Thales - The Economic Times","Thu, 03 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiqwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9jb21wYW55L2NvcnBvcmF0ZS10cmVuZHMvaW5kaWEtaGFzLWEtZmFudGFzdGljLXBpcGVsaW5lLW9mLXRhbGVudC1jbGVtZW50LWRlLXZpbGxlcGluLXNldnAtaHVtYW4tcmVzb3VyY2VzLXRoYWxlcy9hcnRpY2xlc2hvdy85NTI3OTU2Mi5jbXPSAa8BaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvY29tcGFueS9jb3Jwb3JhdGUtdHJlbmRzL2luZGlhLWhhcy1hLWZhbnRhc3RpYy1waXBlbGluZS1vZi10YWxlbnQtY2xlbWVudC1kZS12aWxsZXBpbi1zZXZwLWh1bWFuLXJlc291cmNlcy10aGFsZXMvYW1wX2FydGljbGVzaG93Lzk1Mjc5NTYyLmNtcw?oc=5&hl=en-US&gl=US&ceid=US:en,"Empower Your Corporate Journey with Strategic Skill Courses Offering College Course Website IIM Lucknow IIML Chief Operations Officer Programme Visit University of Western Australia UWA Global MBA Visit IIM Kozhikode IIMK Chief Product Officer Programme Visit
+
+
+
+
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+India has a fantastic pipeline of talent that is integral to developing the company’s global business, says Clement de Villepin , senior executive vice-president, human resources at French multinational high-technology company Thales . Villepin, who was recently in the country with his global HR leadership team, spoke to ET about India hiring plans, their focus on innovation and what the company is doing to attract the best talent. Edited excerptsWe want to develop business prospects in India as it is a key country for us. It has a fantastic pipeline of talent that Thales needs to strengthen and develop not just the Indian, but also the global business. Indian talent is extremely integral for our overall growth.Thales today has around 1800 employees in India. We are planning to double this headcount in the next three to five years. We have set up two engineering competence centres (ECCs) in India, both critical to our global growth and we are strengthening our presence in India by recruiting hundreds of new employees. In Bengaluru, the engineering centre is focused on defence and aerospace business while the Noida one is focused on digital technologies and businessThales is primarily seeking hardware engineers, software engineers systems engineers and experts in digital technologies especially cybersecurity – for its engineering centres in Noida and Bangalore. Given its highly skilled workforce, India is a strong pillar of engineering for Thales.Hiring continued for us even during COVID. We use both the campus and lateral hiring routes while recruiting talent though our focus is more on campus hiring currentlyAt Thales, we are trying to master technology for the good of everyone. It’s an integral part of our purpose and hence we are looking to build a safer, greener and more inclusive world.We are in a business where we are investing in the long term, so balance is important to develop collective intelligence. Work-life balance is very important to us, as is diversity.Programmes such as Fly High – to support young women leaders, mentorship programmes for continuous skill development, CSR programmes engaging and involving the employees and supporting their all-round development are all part of Thales.We try and ensure that we provide a long-term career. On the long-term journey, we offer different types of mobility for our employees, where they can move from one domain to another, learn different kind of skills and move geographically – within the country or internationally.We have put in place smart working in the spirit of hybrid working. This provides flexibility to our teams to determine where we work from (office or remote) and how we work together to get the best from ourselves and team, and ultimately significantly increase our competitiveness and collective performance while taking into account work-life balance."
+Astronautics names new president - Vertical Mag - Vertical Magazine,"Tue, 29 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdmVydGljYWxtYWcuY29tL3ByZXNzLXJlbGVhc2VzL2FzdHJvbmF1dGljcy1uYW1lcy1uZXctcHJlc2lkZW50L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Astronautics Corporation of America is pleased to announce that Robert Atac has joined the company as its president. Reporting directly to Astronautics chairman and chief executive officer Dr. Ronald Zelazo, Atac will be responsible for the company’s strategic growth, product and technology development, and overall management.
+
+Robert Atac. Astronautics Photo
+
+“We are delighted to have Bob on board as the company’s new president. His extensive domestic and international experience in military and commercial avionics and product development make him an ideal leader for Astronautics during our next phase of growth,” said Zelazo. “Astronautics was founded with an entrepreneurial spirit, with the goal of pushing the boundaries of technology. We believe Bob will embrace and promote that value while growing Astronautics’ product lines and expanding our market reach.”
+
+“I have always admired Astronautics’ innovative spirit as an avionics developer and integrator. I look forward to working with this team to expand their product portfolio and addressable market,” said Atac. “The Astronautics team has the creativity, capability, and experience needed to produce reliable, high-performance avionics.”
+
+Before joining Astronautics, Atac had a ten-year career with Thales Defense and Security, Inc., the U.S. defense business for the Thales Group. He held numerous roles at Thales, including chief technology officer, vice president/general manager of the Visionix Helmet Mounted Display (HMD) division, and vice president of engineering technology.
+
+Prior to Thales, Atac co-founded and built the Visionix HMD division of Gentex, which was sold to Thales. There he oversaw the development of Scorpion, the first HMD with color symbols, and used the product to break into the military HMD market.
+
+During his seven-year career with Gentex, he was also vice president and director of engineering and technology, and director of integrated systems.
+
+Before Gentex, he was vice president of military aviation for CMC Electronics. Here he integrated Flight Visions—his own startup avionics company—into CMC. Prior to CMC, he was the president and co-founder of Flight Visions, Inc. Atac began his career as a project manager for the advanced computer program of Fermilab.
+
+Atac holds a master of science degree in electrical engineering and a bachelor of science degree in computer engineering, both from the University of Illinois. He also holds a certificate in mid-management from Loyola University, and is currently completing a chief technology officer program at the Wharton School of Business. In addition, Atac holds numerous patents and is a licensed pilot.
+
+This press release was prepared and distributed by Astronautics Corporation of America."
+Sheffield students disrupt careers fair to protest the university's ties to arms companies - The Tab,"Fri, 25 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiigFodHRwczovL3RoZXRhYi5jb20vdWsvc2hlZmZpZWxkLzIwMjIvMTEvMjUvc2hlZmZpZWxkLXN0dWRlbnRzLWRpc3J1cHQtY2FyZWVycy1mYWlyLXRvLXByb3Rlc3QtdGhlLXVuaXZlcnNpdHlzLXRpZXMtdG8tYXJtcy1jb21wYW5pZXMtNTA3NTnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Sheffield Action Group said it will target all careers fairs until all ties are cut
+
+1 year ago
+
+Students from Sheffield Action Group disrupted University of Sheffield’s careers event this morning to protest the university’s ties to arms companies.
+
+The group held banners up at the front of the fair that said “get military out”, blocking students in attendance from seeing a presentation.
+
+The protest is specifically in relation to the university’s ties with Boeing, Rolls Royce and Thales. Sheffield Action Group (SHAG) claim that the university has received over £72 million from arms companies since 2012 and a further £1.1 million from Thales alone. The protestors claim that Thales allegedly supplies Russia with arms.
+
+🚨 CAREERS FAIR DISRUPTED! UoS has received £1.1M from Thales, an arms company which supplies Russia. 🎯 We will target all careers fairs until ties are cut with arms companies. ‼️No complicity with imperialist agression‼️#ArmsOffCampus pic.twitter.com/X2z8nX8Xga — Sheffield Action Group (@sheffaction) November 25, 2022
+
+SHAG say they will target all careers fairs on campus until the university meets their demands and cuts all ties with companies that deal with arms.
+
+This disruption of the careers fair comes after the group occupied a corridor in The Hicks Building last night in solidarity with striking lecturers.
+
+This is not the first time SHAG has occupied a university building. Earlier this year, the group occupied The Diamond Building on University of Sheffield’s campus, again calling for the university to cut ties with arms dealers.
+
+A spokesperson from the University of Sheffield, said: “The university has a wide range of research, development and learning partnerships that work to further innovation, provide opportunities for students and find solutions to some of the world’s most pressing challenges.
+
+“Our connections with industrial partners mean we can help to influence positive change and accelerate more sustainable manufacturing practices – making things faster, cheaper and greener to support our regional and national economy. For example, our work in high-performance lightweight materials has led to the production of lighter, more fuel-efficient cars and planes.
+
+“We have a code of ethics for all of our research and innovation, which ensures there is rigorous governance in place.
+
+“We are also committed to providing our students with information about a wide range of organisations offering placements and graduate jobs at our careers fairs, so they can make personal informed decisions about their future careers.”
+
+A spokesperson for Rolls Royce said: “Rolls-Royce acts with integrity and strictly abides by all export control regulations that apply to our business and will continue to follow UK Government guidelines.”
+
+The Tab Sheffield contacted Boeing and Thales for comment.
+
+Related aritcles recommended by this author:
+
+• Sheffield students are occupying The Diamond to protest the uni working with arms companies
+
+• Police looking for pair dressed as Batman and Joker after three men attacked in city centre
+
+• Randomly, Sheffield Hallam University is opening a new campus in London
+
+Featured image via @sheffaction on Twitter."
+Indonesian corvettes to get further upgrades - Asian Military Review,"Fri, 11 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmFzaWFubWlsaXRhcnlyZXZpZXcuY29tLzIwMjIvMTEvaW5kb25lc2lhbi1jb3J2ZXR0ZXMtdG8tZ2V0LWZ1cnRoZXItdXBncmFkZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales has entered into an agreement with state-owned defence electronics specialist PT Len Industri to provide a range of C4ISR enhancements to the Indonesian Navy’s (TNI-AL’s) four Diponegoro-class guided missile corvettes, among other work announced on 4 November.
+
+The company said it will refurbish the ships with “an Integrated Missions System including the TACTICOS Combat Management System, as well as the latest in software-driven radar technology able to combat the highest level of threats”.
+
+It added that modernization work will be carried out over the next five years with post-sales support provided by trained teams at Thales’ Naval Service Centre in Surabaya. This latest upgrade follows a similar programme undertaken for the service’s Bung Tomo-class corvette KRI Usman-Harun l in 2020.
+
+“As a leading partner to the Indonesian Navy for the last forty years and the appointed supplier of combat systems for most Indonesian warships currently in service, Thales is bringing its best capabilities to help extend the lifecycle of the Navy’s fleet and ensure that the ships remain equipped for optimal performance,” the company said in a statement.
+
+The TNI-AL’s four Diponegoro-class corvettes were commissioned between 2007 and 2009.
+
+Earlier in October 2021, Terma was awarded a contract to upgrade the existing C-Guard decoy launching system on board the Diponegoro-class corvettes with anti-submarine warfare (ASW) capabilities.
+
+The vessels are presently equipped with two six-tubed DL-6T decoy launchers from Terma as part of its C-Guard ship self-protection suite. The launchers can fire both mortar and rocket-propelled decoys to defeat precision-guided munitions.
+
+The corvettes could also benefit further from a planned mid-life upgrade (MLU) should foreign loan funding sought by the Ministry of National Development Planning (BAPPENAS) be approved by the Ministry of Finance.
+
+by Jr Ng"
+USyd Chancellor has ties to Thales Garden Island union busting tactics - Honi Soit,"Wed, 02 Nov 2022 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vaG9uaXNvaXQuY29tLzIwMjIvMTEvdXN5ZC1jaGFuY2VsbG9yLWhhcy10aWVzLXRvLXRoYWxlcy1nYXJkZW4taXNsYW5kLXVuaW9uLWJ1c3RpbmctdGFjdGljcy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"University of Sydney Chancellor Belinda Hutchinson’s ties to union-busting efforts at the Thales Garden Island Dry Dock are no surprise. USyd management is increasingly using anti-union tactics to pursue an agenda of corporate austerity that harms staff, students, and quality education.
+
+Hutchinson is Chairman of the Australian arm of Thales, a French weapons manufacturing company and the eighth largest arms manufacturer globally, who are allegedly complicit in war crimes in Yemen and have been the subject of corruption and bribery charges.
+
+Thales operates the largest dry-dock in the Southern Hemisphere at Garden Island in Sydney. The facility docks and repairs ships of the Royal Australian Navy and allied navies.
+
+Seemingly not content with its sales revenue expected to reach over 17 billion euros for 2022, Thales is now waging a vicious campaign against its unionised workforce at Garden Island in response to their push for industry standard pay.
+
+On 14 October, the Maritime Union of Australia (MUA) held a protest at the Garden Island Dry Dock following the sacking of union delegate Scott Parkinson.
+
+MUA organiser Shane Reside said Parkinson was sacked as a reprisal for the MUA attempting to negotiate better pay.
+
+Reside, who is party to Garden Island’s current negotiations, said that: “A conservative estimate would be that [crane operators at Garden Island] are earning 30 per cent below industry standards.”
+
+Thales made Parkinson’s position redundant and has refused to acknowledge the MUA’s right to represent workers at Garden Island.
+
+Reside describes Parkinson’s sacking as “a dirty industrial tactic that is available to well-resourced companies like Thales.” He says that the MUA has launched a legal challenge against Thales’ refusal to allow the MUA to represent workers, but it “will take months to resolve”.
+
+“In that time, they’re going to put a lot of pressure on the workforce to sign an inferior agreement.”
+
+“To even know that that was a tactic available to them, they would need to have some very well-paid anti-union lawyers to identify that option to them.
+
+“They have made it clear that they would by far prefer to spend a lot of money on these kinds of grubby legal tactics than to just negotiate openly and honestly with their own workforce.”
+
+It is no coincidence that the union busting drive at Garden Island has disturbing parallels with the tactics that management is using in bargaining with staff at USyd.
+
+Belinda Hutchinson sits at the top of the corporate oligarchy that runs both SUSyd and Thales. She lives in a $20 million mansion in Point Piper while both Thales and USyd attack the pay and conditions of their workers.
+
+According to Reside, “[USyd] is an elite institution, it’s a jewel in the crown of Sydney’s ruling class.
+
+“The alumni of the [U]niversity are sprinkled liberally across the various top companies in Sydney and the Liberal Party and they really want to make sure that they retain control of Sydney University.”
+
+On the same day of the MUA’s protest against Parkinson’s sacking, NTEU members at USyd were on their second day of a 48-hour strike for secure work, an end to forced redundancies, an end to wage theft, and a pay rise above inflation.
+
+Despite generating a $1 billion surplus in 2021, university management has thus far refused to meet the key demands of staff throughout 13 months of negotiations.
+
+Perhaps worse than this, they have flown in notorious union busting lawyer Stuart Pill of Clayton Utz from Melbourne for negotiations. While senior members of management would normally be present for negotiations, they have instead been represented by Pill.
+
+Previously, Pill was employed by Murdoch University during their negotiations with its NTEU branch in 2017. The negotiations successfully terminated the Enterprise Agreement between Murdoch and the NTEU, making it easier for the university to sack and exploit staff through restructuring.
+
+Apparently, Pill was so proud of this achievement that he hosted a forum on how a university can successfully apply for a termination of its enterprise agreement.
+
+Reside was scathing about the way that corporatism has affected universities.
+
+“Despite the fact that [Sydney University] is supposed to be a public institution they very much consider it their own and they treat it like their own,” he says.
+
+“And the way that these people behave in the private sector is exactly the way that they’re behaving in Sydney Uni.
+
+“We don’t want that kind of untethered ruling class prerogative in the private sector, and we don’t want it in the public sector either.
+
+“Private sector and public sector workers — MUA members and NTEU members — we’ve got everything to gain from standing together, because it’s only with each other that we are going to find the power to resist the edicts of these princes and princesses that seem to run all of these large organisations.”
+
+With regards to the outcome of the MUA’s legal challenge would be, Reside says: “We always like to say at the MUA, ‘you can never win at the negotiating table or the courtroom what you can’t hold at the gate.’”
+
+The only answer to union busting is solidarity and collective action. The MUA have come to pickets and helped run NTEU barbecues during the strikes at USyd. If the MUA needs support, staff and students at Sydney Uni must be ready to answer the call. We have a common enemy and a common struggle."
+Bahrain Airport Company and Thales-SITA renew partnership at Bahrain International Airshow - Routesonline,"Fri, 11 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5yb3V0ZXNvbmxpbmUuY29tL2FpcnBvcnRzLzEyODQ4L2JhaHJhaW4taW50ZXJuYXRpb25hbC1haXJwb3J0L25ld3MvMjk4OTU1L2JhaHJhaW4tYWlycG9ydC1jb21wYW55LWFuZC10aGFsZXMtc2l0YS1yZW5ldy1wYXJ0bmVyc2hpcC1hdC1iYWhyYWluLWludGVybmF0aW9uYWwtYWlyc2hvdy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Bahrain Airport Company (BAC) and Thales-SITA, a consortium specializing in airport operations and communications systems.
+
+Bahrain Airport Company (BAC) and Thales-SITA, a consortium specializing in airport operations and communications systems, signed an agreement for the provision of support and maintenance services for Bahrain International Airport (BIA). This will cover mission-critical systems relevant to airport security and operational passenger processing.
+
+BAC Chief Executive Officer Mohamed Yousif AlBinfalah signed the three-year agreement alongside Thales Vice President Sales Roger Nakouziand SITA Country Director Christophe Ravoire during the second day at Bahrain International Airshow. In attendance were BAC Vice President of Information, Communication, and Technology Mahmood Alsiddiqi, and other officials from both companies. The new agreement comes into effect in January 2023 following the expiration of the current two-year contract, reaffirming the long and strategic partnership between the companies.
+
+BAC CEO Mohamed AlBinfalah said: “We are pleased to renew our partnership with Thales-SITA, which has provided advanced solutions for BIA for the past two years. This brings us another step closer to realizing the Kingdom’s digital transformation goals and ensuring BIA continues to operate with modern and reliable mission-critical systems that optimize performance, allowing us to make faster and more informed data-driven decisions.”
+
+Christophe Ravoire, CEO of Thales in Bahrain, said: “Thales has been awarded – alongside SITA- by BAC for the additional 3 years maintenance contract of the security and operational systems. Thales is honored that, BIA, which is recently awarded as the best new airport in the world by Skytrax, confirms the long-term commitments and trusted partnership with us. At Thales in Bahrain, we are proud to support the Kingdom’s Economic Vision 2030 and its ambition to develop a more digital, knowledge-based economy with distinguished infrastructure, and strong local industrial technology.”
+
+Hani El-Assaad, President, of Middle East & Africa (MEA), SITA, said: “We’ve enjoyed a successful and long-term partnership with BAC, collaborating on new technology projects to drive greater efficiencies, smarter passenger processing, and more agile resource management. We’re excited to renew this partnership and look forward to delivering the latest innovative solutions to optimize airport operations and boost passenger experience across the journey.”
+
+BIA is the most technologically advanced, efficient, and sustainable boutique airport in the Middle East. Its state-of-the-art ICT systems and infrastructure are designed to enhance efficiency, improve security, and meet passengers’ growing expectations for a more seamless airport experience."
+Belfast assembled missiles intended for Ukraine could be 'reverse engineered' by Iran after falling into hands of Russia - Belfast Telegraph,"Tue, 08 Nov 2022 08:00:00 GMT",https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5iZWxmYXN0dGVsZWdyYXBoLmNvLnVrL25ld3MvcG9saXRpY3MvYmVsZmFzdC1hc3NlbWJsZWQtbWlzc2lsZXMtaW50ZW5kZWQtZm9yLXVrcmFpbmUtY291bGQtYmUtcmV2ZXJzZS1lbmdpbmVlcmVkLWJ5LWlyYW4tYWZ0ZXItZmFsbGluZy1pbnRvLWhhbmRzLW9mLXJ1c3NpYS80MjEyODk0Ny5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"An anti-tank missile which is partly assembled by the Thales Group at the firm’s factory in Belfast could have been transported to Iran after falling into the hands of Russia.
+
+According to Sky News, a security source has claimed a Russian military aircraft secretly flew the NLAW anti-tank missile, a US Javeline anti-tank missile, a Stinger anti-aircraft missile and around 140m Euros in cash to an airport in Tehran back in August.
+
+Thales – which has a factory in east Belfast and an operation in Crossgar – assembles a number of weapons which have been used in the Ukraine conflict.
+
+The French company took over what was Shorts Missile Systems in 2001 and supplies a range of weapons to the Ministry of Defence and others.
+
+It employs around 650 locally, with the Belfast factory designing and manufacturing two weapons which have been used in Ukraine — the LNM and the STARStreak missile.
+
+It also assembles Saab’s next generation light anti-tank weapon (NLAW).
+
+Read more Workers at Belfast-based missile manufacturer Thales vote in favour of strike action
+
+Both former Prime Minister Boris Johnson and current PM Rishi Sunak have previously visited the Belfast factory to inspect the NLAW system.
+
+According to the anonymous security source, the weapons had been part of a shipment of UK and US equipment intended for the Ukrainian military.
+
+The source also told Sky News Iran could seek to potentially “reverse-engineer” the weapons and use them “in future wars”.
+
+Satellite images received by Sky appear to show two Russian military cargo planes at an airport in Tehran on August 20.
+
+Rishi Sunak visiting the Belfast factory during a hustings event
+
+It is understood by the source the transportation of the cash and equipment is part of a deal between the two countries in exchange for Iran supplying Russia with more than 160 unmanned aerial vehicles (UAVs), including 100 Shahed-136 drones.
+
+It is also reported the government in Tehran has agreed to supply more of the drones in a further deal, alongside bigger and more sophisticated ballistic missiles to Russia.
+
+Speaking to Sky News, Vadym Prystaiko, the Ukrainian ambassador to the UK, said if the reports were confirmed this would “pose a real, real threat"".
+
+""If they [Iranian ballistic missiles] come in numbers, we will have real trouble,” he added.
+
+Iran has dismissed the missile allegation as ""completely false"" but admitted to supplying ""a limited number of drones"" to Moscow.
+
+However, according to the Iranian foreign minister Hossein Amirabdollahian this happened before the Russian invasion of Ukraine back in February.
+
+Formerly known as Thomson-CSF until a rebrand in 2000, Thales has had a long local connection dating back to 1936, working with Shorts for years before taking over its missile systems arm at the turn of the millennium.
+
+Thales Group has been contacted."

@@ -1,0 +1,752 @@
+Titre,Date de publication,URL,Contenu,sentiment_finbert,sentiment_label,sentiment_score,sentiment_numerique
+Thales acquires Gemalto for €4.8bn to become leader in digital identity and security - Technology Magazine,"Sun, 17 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMigwFodHRwczovL3RlY2hub2xvZ3ltYWdhemluZS5jb20vZGF0YS1hbmQtZGF0YS1hbmFseXRpY3MvdGhhbGVzLWFjcXVpcmVzLWdlbWFsdG8tZXVybzQ4Ym4tYmVjb21lLWxlYWRlci1kaWdpdGFsLWlkZW50aXR5LWFuZC1zZWN1cml0edIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Group, a multinational designer and builder of electrical systems for the aerospace industry, has announced the completed acquisition of Gemalto, a Netherlands-based digital security firm, for €4.8bn.
+
+In its press release, Thales said the acquisition will enable it to become a global leader in digital identity and security with a workforce of 80,000 staff.
+
+“With Gemalto, a global leader in digital identification and data protection, Thales has acquired a set of highly complementary technologies and competencies with applications in all of our five vertical markets, which are now redefined as aerospace; space; ground transportation; digital identity and security; and defence and security,” said Patrice Caine, Chairman and CEO of Thales, in the press release.
+
+SEE ALSO:
+
+“These are the smart technologies that help people make the best choices at every decisive moment. The acquisition is a turning point for the Group's 80,000 employees. Together, we are creating a giant in digital identity and security with the capabilities to compete in the big leagues worldwide.""
+
+The combined portfolio of digital identity and security solution is “unrivalled”, according to Thales, and includes technologies based on biometry, cybersecurity and data protection which will enable it to provide end-to-end security services to clients.","{'label': 'Neutral', 'score': 0.8413703441619873}",neutral,0.8413703441619873,0
+The PROMISE project led by Thales Alenia Space will enable the creation of satellites 100% European - Thales,"Tue, 26 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvcHJlc3MtcmVsZWFzZS9wcm9taXNlLXByb2plY3QtbGVkLXRoYWxlcy1hbGVuaWEtc3BhY2Utd2lsbC1lbmFibGUtY3JlYXRpb27SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The PROMISE project led by Thales Alenia Space will enable the creation of satellites 100% European Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Thales Alenia Space in Spain to lead a consortium in the frame of the Horizon 2020 program of the European Commission
+
+PROMISE project to improve competitiveness and autonomy of the European space industry
+
+To develop a library of blocks designed and tested for microchips in order to cut production lead time by one third.
+
+The first initiative of this dimension in the sector, with the participation of companies in Spain, Greece, France, Belgium, Portugal and Finland.
+
+Madrid, May 26, 2020 - Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), leads from Spain the consortium of a revolutionary project, PROMISE (PROgrammable MIxed Signal Electronics), that will provide technological independency to Europe in future space missions and guarantee its competitiveness in the field. PROMISE, which will see the light in 2022, is an integral part of the HORIZON 2020 research and innovation program of the European Commission, which has European autonomy in space as one of its pillars.
+
+The European aerospace industry depends today on non-European countries as USA, where most of the Mixed Signal ASIC (Application-Specific Integrated Circuit) are produced, the electronic chips considered to be the “brains” of the satellites and one of the elements that are more costly to produce. The PROMISE project will develop a library of blocks designed and tested to be used in these chips, allowing to cut by one third the lead time of these satellite components and to sensibly reducing its cost.
+
+“At Thales Alenia Space we are proud to lead from Spain a revolutionary and pioneering initiative in the continent that will enable the development of satellites fully “Made in Europe”. PROMISE will position the European space industry at the forefront of cost-competitive solutions and enable participating companies to take a leading role in the space projects of the future”, said Eduardo Bellido, CEO of Thales Alenia Space in Spain.
+
+A fully innovative concept of library open to all countries in the European Union, containing the processing units for future space missions for telecommunications, navigation, Earth observation and exploration.
+
+According to Ángel Álvaro, R&D responsible at Thales Alenia Space, “this system of blocks already existed in the digital arena but not in the analogue arena. We will be able to build in a single chip systems that include both parts, therefore sensibly reducing the cost and size of the circuits. From taking measurements, to controlling a camera, controlling a motor ... all within a single chip”. Moreover, a prototype chip will be produced to guarantee the proper functionality of all library contents. “This is really an important step for the future of the European space industry”, he added.
+
+Reducing development costs and lead time for the benefit of industrial competitiveness
+
+The project team estimates a 20% to 40% reduction in the lead time for new Mixed Signal ASIC fully based on the PROMISE library. In terms of cost, the design and production of a new Mixed Signal ASIC will be reduced by a factor of 5, meaning that the number of recurrent units needed to make a new design profitable will go from 200 (with the current technology) down to 85.
+
+This project will enable the design of many of the chips that will be used in future satellite mega-constellations. Considering a single ASIC based on PROMISE per constellation, it means a volume close to 3000 units over 5 years.
+
+Making space accessible to everyone
+
+The project follows the trends in the sector: the space market is increasingly trending towards satellite miniaturization and mass production for constellations, drastically reducing production costs and accelerating development cycles. These trends, combined with initiatives to reduce launch costs, will make space more accessible to the independent private sector, scientists, academia and the population at large.
+
+Thales Alenia Space in Spain is leading the PROMISE consortium along with major satellite manufacturer Thales Alenia Space in France, plus the innovative small businesses ISD (Greece) and MENTA (France), and the R&T institutes IMEC (Belgium), IT (Portugal) and VTT (Finland).
+
+The PROMISE project was officially kicked off in Tres Cantos (Madrid) on January 24, 2020. Despite the current global situation caused by COVID-19, the partners have already started working on the project. The final results will be presented to end-users and the general public in a workshop scheduled for the second half of 2022.
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 2.15 billion euros in 2019 and has around 7,700 employees in nine countries.
+
+ABOUT THALES ALENIA SPACE IN SPAIN
+
+Thales Alenia Space is well represented in Spain and is the country’s leading space company in the satellite segment, with 31 years of experience in the design, development and sale of advanced space systems and equipment. It has contributed to 600 satellites, space probes and vehicles used in telecommunications, Earth observation, science, exploration, navigation and orbital infrastructure missions, and delivered more than 4000 equipment and subsystems accumulating 200,000,000 hours of flight operations. Thales Alenia Space in Spain offers a wide range of solutions spanning the design and integration of payloads and subsystems for telecommunications, data transmission and TT&C (tracking, telemetry and command), optical observation instruments, radiofrequency equipment, data processing and digital electronics, network management systems for the ground segment, telemetry transmitters for launchers and communication systems for spaceports. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel: +33 (0)4 92 92 72 82
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 126 85
+
+marija.kovac-somministrato@thalesaleniaspace.com
+
+Oriol Casas Thio
+
+Tel : 34 618 509 197
+
+oriol.casasthio@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.6311721801757812}",neutral,0.6311721801757812,0
+Thales InFlyt workforce realignment includes staffers in Irvine - Runway Girl Network,"Tue, 26 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcnVud2F5Z2lybG5ldHdvcmsuY29tLzIwMjAvMDUvdGhhbGVzLWluZmx5dC13b3JrZm9yY2UtcmVhbGlnbm1lbnQtaW5jbHVkZXMtc3RhZmZlcnMtaW4taXJ2aW5lL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales InFlyt Experience’s workforce realignment strategy, executed earlier this year, was not limited to its Florida operations. A large number of Thales employees involved in the company’s inflight connectivity activities in Irvine, California were also let go.
+
+A source told RGN that Thales laid off 132 people in Irvine, including connectivity team members. Asked by Runway Girl Network if this information is correct, and if the move was part of its previously confirmed realignment strategy, a Thales spokesman said, “With respect to the layoff you mention, we can confirm they were part of the overall realignment strategy that occurred a few months ago.”
+
+It is not clear if further layoffs are being contemplated.
+
+Thales has faced a number of challenges in its bid to forge a leadership position in inflight connectivity in the United States. In 2018, JetBlue handed over prime ISP positioning to Viasat as the airline began graduating to Viasat’s Gen 2 connectivity kit and capacity, though Thales acquired LiveTV from the carrier in 2014 for $400 million (and with it prime positioning on the JetBlue connectivity contract).
+
+The French multinational corporation has grappled with delays to its IFC program for Spirit Airlines due to technical glitches with the antenna, as confirmed by Spirit management in the fall of last year. At that time, Spirit’s website said installs on the A320 family fleet would be completed in 2020. Now Spirit’s web site says the fleet is expected to be finished in 2021, though one wonders where IFC equipage falls in the carrier’s list of priorities at present, given the COVID-19 crisis.
+
+Outside of the fact that Spirit passengers have expressed a strong interest in being connected, the airline might be further incentivized to push forward with equipage, and flip the switch on equipped birds when the Internet service is deemed ready for primetime.
+
+It is generally not widely known by the traveling public that point-of-sale devices used to transact food/beverage and retail sales on board aircraft without connectivity do not authorize credit cards in real time. Rather, these transactions occur when the aircraft lands and arrives at the gate, and when passengers are long gone.
+
+Some passengers have cottoned on to the fact that Spirit is unable to process credit card transactions in real time. That can make onboard theft a concern.
+
+Related Articles:","{'label': 'Neutral', 'score': 0.9990150928497314}",neutral,0.9990150928497314,0
+AW159 Wildcat conducts first successful firing of Thales 'Martlet' missile - Vertical Magazine,"Wed, 27 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdmVydGljYWxtYWcuY29tL3ByZXNzLXJlbGVhc2VzL2F3MTU5LXdpbGRjYXQtY29uZHVjdHMtZmlyc3Qtc3VjY2Vzc2Z1bC1maXJpbmctb2YtdGhhbGVzLW1hcnRsZXQtbWlzc2lsZS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Leonardo and Thales recently announced the first successful firing of the Thales “Martlet” Lightweight Multirole Missile (LMM) from Leonardo’s AW159 Wildcat helicopter. The firings were conducted as part of the U.K. Ministry of Defence’s Future Anti-Surface Guided Weapon (FASGW) program and demonstrated the integration of the Martlet onto the AW159 platform. This represents a major milestone for the program and will enable this high-end capability to enter service with the Royal Navy later this year.
+
+The firing trials were conducted from April 27 to May 21, 2020, and despite the current Covid-19 situation, Leonardo and Thales were able to support the U.K. Ministry of Defence by completing this critical activity. All of the teams involved had to adopt strict distancing procedures, in some cases having to find new ways of working, in order to make sure that the trials could go ahead. It is a testimony to the professionalism of those involved that these trials were successfully completed under such challenging and novel circumstances.
+
+“This major milestone demonstrates that the combination of the AW159 Wildcat and Martlet missile will be a flexible and effective tool for the Royal Navy. Next year the Wildcat fleet will embark on carrier strike group missions with HMS Queen Elizabeth on its maiden operational deployment. As the only British company to design and manufacture helicopters on-shore, we’re extremely proud to be equipping the U.K. Armed Forces with world-beating sovereign capabilities,” said Nick Whitney, managing director of Leonardo Helicopters (U.K.).
+
+“The successful live firings of the Thales LMM Martlet from the AW159 Wildcat is a key milestone in the program, delivering a significant step-change in capability for the platform,” said Philip McBride, general manager, Integrated Airspace-protection Systems, Thales U.K. “LMM Martlet will ensure that the Wildcat has the best-in-class offensive capability to protect HMS Queen Elizabeth and her task group during her maiden operational deployment next year. With each platform capable of carrying up to 20 Martlet, the Wildcats deployed with the task group will be a significant deterrent to anyone wishing to interfere with U.K. interests.”
+
+In July 2014, Leonardo signed a contract with the U.K. Ministry of Defence to integrate, test and install the MBDA Sea Venom (heavy) and Thales LMM (light) missile systems onto Royal Navy AW159 Wildcat helicopters, a program called Future Anti Surface Guided Weapon (FASGW).
+
+The FASGW (light) part of the program has now seen the LMM, with its associated launcher and airborne laser guidance unit, successfully integrated into the Leonardo AW159 Wildcat sensor, displays and avionics systems. The LMM provides a step-change in capability for the Royal Navy which, in the maritime environment, faces a major challenge in engaging smaller, fast-moving, asymmetric threats, due to their high mobility, their small thermal and radar signatures and the severe background clutter encountered. The LMM is capable of surmounting these issues where traditional electro-optic and radar guidance systems do not provide the certainty of hit required.
+
+On-board the AW159 Wildcat platform, the LMM Martlet could also allow operators to engage air targets such as UAVs and other maritime helicopters.
+
+The launchers are mounted to the AW159 via the new Leonardo Weapon Wing, developed at the company’s design and manufacturing facility in Yeovil and first trialled last year. Each weapon wing will be able to carry either 10 Martlet or two Sea Venom missiles and generates additional lift for the helicopter in forward flight, reducing demands on the main rotor.
+
+The twin-engine multi-role AW159 is able to conduct missions ranging from constabulary to high end warfighting where it has the capability to autonomously detect, identify and attack targets on land and at sea, including submarine threats. The platform has state-of-the-art systems, including a Leonardo Seaspray multi-mode electronically-scanning (E-scan) radar, and integrated electronic warfare Defensive Aids Suite (DAS).
+
+Over 50,000 flight hours have been logged by the helicopter. The AW159 has also been chosen by the British Army, the Republic of Korea Navy and the Philippine Navy as a new maritime operator of the helicopter.","{'label': 'Neutral', 'score': 0.6999824047088623}",neutral,0.6999824047088623,0
+Thales Canada: Creating the world's biggest underground signalling system - Business Chief North America,"Tue, 19 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYnVzaW5lc3NjaGllZi5jb20vY29tcGFueS1yZXBvcnRzL3RoYWxlcy1jYW5hZGEtY3JlYXRpbmctd29ybGRzLWJpZ2dlc3QtdW5kZXJncm91bmQtc2lnbmFsbGluZy1zeXN0ZW3SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The history of the Thales Group goes as far back as 1893, when the Compagnie Française Thomson-Houston formed to operate patents for the emerging markets of power generation and transmission. An acquisition and a merger later, after the 1970s oil crises, the company started getting contracts in the Middle East and expanded its portfolio to include telecommunications and other forms of technology.
+
+Later renamed Thales, it switched to defence electronics, still a big part of the business today along with aerospace, security and transport. The 9/11 attack made Thales strengthen its focus on areas like technology-centric warfare, and it has since acquired full control of several defence and aerospace subsidiaries. Thales in the UK is now Britain's second-largest defence contractor, selected for various sizable Ministry of Defence programs.
+
+In 2007 it acquired security, space and transport activities from longstanding partner Alcatel-Lucent, increasing its employees and revenue. More recently Thales acquired a big data management company, adding the Internet of Things and digitization to its ever-growing roster.
+
+Transportation
+
+The urban rail transport Centre of Competence of Thales is located in Toronto, Ontario, Canada. It has built automated signalling for metro systems all over the globe, including in Dubai, Santiago and Hong Kong; it has also produced the two longest driverless train lines in the world, in Vancouver and Dubai. Supply of materials and services to support this construction work is overseen by Mike White, the Vice President of Procurement and Supply Chain of its Urban Rail Signalling Business Line, in Toronto.
+
+""Last year we had quite a few substantial projects finished on time, which in this industry isn't always the case,"" he explains. ""Approximately 50 percent of the project value is through procurement and supply chain. We play a very significant part in its success. Normally we meet between the engineer and the installation guys, if design is late this doesn't mean the installation can be late, so we have to do the magic in the middle to make sure everything is delivered on time.""
+
+In London, Thales upgraded the underground's Northern and Jubilee Lines to include automated signalling systems, on the back of which it won the Four Lines Modernization contract. This will advance four of the capital's most important lines: the Circle, District, Hammersmith & City and Metropolitan lines. The London Underground carries 1.34 billion passengers per year, and between them these lines account for 40 percent of the network's traffic.
+
+This is the largest project of the sort that's ever been created worldwide. It's a vast, complex task, as construction workers only have two to three hours each night to install the equipment.
+
+Finding the right suppliers
+
+This makes it essential to have good relationships with partners in installation and other processes. A good example of one of the close relations Thales has is with a USA-owned China based electronics manufacturer, which has been supplying most of its electromechanical equipment to Thales on urban rail projects for a number of years, delivering on time and with competitive costs.
+
+""They're fantastic for us,"" White says. ""The work they do is highly complex and subject to a lot of changes from designers, but they always manage to do it and it hardly ever impacts on the delivery to the customers. If we had another supplier we wouldn't have got that.""
+
+Thanks to partners like this there is often no need to pit suppliers against each other; however Thales has a network called ""Family Buyers"" who are managers in different categories. Whenever a request for a quote or proposal is launched the relevant manager will ensure the right suppliers are consulted. These are bundled together and a view standardized to suit the company's needs.
+
+""Prior to any orders being placed we have a robust gate process at different stages which the relevant manager is included in,"" he says. ""This enables us to assess supplier offers, mandate any negotiations and invoke lessons learned to ensure that we gain the most cost competitive offer while meeting the design requirements and securing the delivery lead time in line with the project needs.""
+
+It's also very important to talk to the suppliers as early as possible. ""This can be as early as our product development stage where we work with our suppliers to look at manufacturability of the product components, the global availability of piece parts and general design to cost activities,"" he says.
+
+""In addition to this, for large spend items, we would engage with our supply chain to effectively price and build our proposal to bid for the project. This would include working with suppliers of materials and equipment as well as service providers such as installation services. This would entail conducting design for manufacturing, installation and cost activities to make their inputs and our overall bid price competitive for our end customers.""
+
+Equally important is ensuring sources are sustainable, as each project has a 20-30 year life cycle. All the suppliers must sign a corporate social responsibility charter, stating they are committed to ethical sourcing, no pollution and no child labour. Thales is part of the United Nations Global Compact, a voluntary initiative to encourage companies around the world to adopt socially responsible policies. ""At the end of the day, this is Thales' reputation,"" White says.
+
+Challenges and strategies
+
+The biggest challenge is competition, not just in procurement but for Thales as a whole. White explains that the Chinese market is its biggest rival, as it's no longer focused internally but is widening its footprint to the rest of the world. China's low cost labour means Thales has to drive its prices down.
+
+However, Thales has strategy to handle this. ""Within the Thales group, we have a program called Ambition 10 – that's a ten-year program to make sure everything we do is lean and agile. We reduce our internal costs and improve our competitiveness. That then translates down to the business entity levels to specific action plans, so each function will have an ambition boost transformation plan each year which is then acted upon and driven down into our annual objectives. Everyone gets an annual objective based on the business plans within the company.""
+
+In procurement specifically, this improves the competency and capability of staff, and how the warehousing is managed more effectively. Some of this is achieved internally and some by using 3PL, in other words, outsourcing to third party logistics services.
+
+""We make sure we're using contemporary tools and processes as well, instead of just sitting back on our laurels and accepting what we've got is good,"" White says. He explains there is a large focus on improvement, and while it used to be the case that each part of the business would had its own plan, with the new Ambition 10 program they all work seamlessly together. ""If I've got a savings or competitiveness target to achieve this year that's also now linked to engineering, because the only way we can really do it now is with value engineering or design to cost. We're now starting to link the plans together which was not done before.""","{'label': 'Positive', 'score': 0.6389340162277222}",positive,0.6389340162277222,1
+"Positioning, The Next Generation - RailwayAge Magazine","Mon, 04 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnJhaWx3YXlhZ2UuY29tL25ld3MvcG9zaXRpb25pbmctdGhlLW5leHQtZ2VuZXJhdGlvbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Among the final duties that former MTA New York City Transit Vice President Network and Resignaling Pete Tomlin discharged before he left the agency following Andy Byford’s resignation as President was demonstrating an innovative piece of new technology—UWB (Ultra-Wide Band), wireless technology that offers faster and less-expensive installation of modern CBTC (communications-based train control) by eliminating much of the onboard and wayside equipment traditionally required for advanced-technology signaling. Tomlin—arguably one of the finest signaling and train control people on the planet—collaborated with suppliers Thales and Piper Networks in an impressive public demonstration of UWB.
+
+NYCT’s UWB proof-of-concept was the culmination of a pilot program on the Flushing (7) Line that came together in only nine months, thanks to Tomlin’s expertise and that of Thales, Piper Networks and MTA Chief Innovation Officer Mark Dowd. UWB traces its roots to the MTA’s Genius Transit Challenge program, launched in 2017, which “challenged leading companies from around the world to improve subway signals, capacity and communications for the future.”
+
+In March 2019, the NYCT awarded Thales and Piper a contract for a UWB-based Train Control System Pilot Program on the Flushing Line. At the same time, NYCT awarded Siemens and Humatics a contract for a UWB pilot on the Canarsie (L) Line. The pilot’s scope involved preparing UWB for safety certification. It consisted of nine months of testing and collecting 2,500 hours of operational data. An automated data upload facility at NYCT’s Corona Yard enabled Cloud-based processing of all collected sensor data from the line that can be compared with data from the CBTC system and a LiDAR (light detection and ranging)-based “ground truth” digital map.
+
+The Thales/Piper UWB system employs five conveniently located onboard sensors. There is no undercarriage equipment. Thales illustration.
+
+Four trainsets on the Flushing Line, one of two lines equipped with CBTC, were outfitted with the Thales’ CBTC system that integrates Piper’s UWB technology. Four on the Canarsie Line were outfitted with a Siemens CBTC system that integrates Humatics UWB technology.
+
+The Flushing Line demonstration took place on the center express track between the 61 Street/Woodside and 40th Street stations. The demo “showed the potential of an even more precise positioning system, UWB, to improve system performance and recovery,” NYCT noted. “The pilot proved it could also help accelerate the implementation of CBTC.” Additionally, UWB technology is installed on the wayside rather than directly on the railbed, so “it could be considerably easier for NYCT personnel to maintain in the long term and cut down on delays stemming from malfunctioning track-borne equipment.”
+
+Thales Vice President Research and Innovation Walter Kinio explains how UWB determines train position and velocity with a high degree of accuracy. William C. Vantuono photo.
+
+Key advantages and features of UWB:
+
+• Rapid implementation, achieved through a reduction of onboard equipment by elimination of vehicle undercarriage installation. This could enable NYCT to modernize aging subway infrastructure on an accelerated timeline.
+
+• Improved train positioning accuracy, called NGP (Next-Generation Positioning), achieved through utilization of modern onboard sensors including UWB radios. The UWB test runs are used to evaluate the accuracy and fault tolerance of the NGP system. Each end-of-the-test train is equipped with a Thales Vehicle On Board Computer (VOBC), part of the CBTC system, integrated with the NGP sensors.
+
+William C. Vantuono photo.
+
+• Accelerated start-up position initialization. The NGP system is described as “highly tolerant of equipment or sensor failures without impacting overall function.” Upon power-up and initialization, the NGP system tells the onboard controller precisely where it is located, enabling a train to initialize and engage Automatic Train Operation (ATO) faster than current-generation CBTC systems.
+
+• High accuracy and availability: NGP provides greater positional accuracy and can support much greater separation between wayside landmarks. This means that future CBTC systems based on this technology will support more precise station stopping accuracy and will be able to travel a greater distance between wayside landmarks. If inputs from sensors or UWB controllers at one end of the train fail, the system can seamlessly switch over to inputs from the other end of the train.
+
+“We took an exciting step in safety certifying Piper’s Ultra-Wide Band technology for the MTA, and we’re looking forward to rolling out this technology across other subway lines as part of the Fast Forward program.” — Robert Hanczor, CEO, Piper Networks. William C. Vantuono photo.
+
+There are five high-tech components/sensors integrated with Thales’ NGP systems:
+
+• UWB, a type of radio communications that uses a very low amount of energy with short-range, high-bandwidth waves employing a wide range of the radio spectrum. NYCT’s Flushing Line system uses Piper onboard UWB radios and controllers and Piper UWB wayside “anchors.” The NGP system uses UWB to receive location updates every 100 milliseconds.
+
+William C. Vantuono photo.
+
+NYCT photo.
+
+• IMUs (Inertial Measurement Units) that detect changes in speed and direction with an “extraordinary” level of accuracy. The NGP system uses the IMU for inertial navigation and orientation verification.
+
+• Radar (radio detection and ranging). Radar, which uses radio waves to measure the distance and speed of objects, is employed by the NGP system for speed measurement and zero speed/stationary status.
+
+NYCT R-188 outfitted with UWB equipment. Joseph M. Calisi photo.
+
+• LiDAR, which uses pulsed laser light to measure distance with high precision to any targets within range to create a dense 3D map of its surroundings. LiDAR was used to scan the route and create a “ground truth” digital map that the positioning system data can be compared with.
+
+• High-definition camera: Using advanced image processing techniques, the camera can detect objects such as rails, wayside equipment or trackside workers. These functions are still in the preliminary testing phase.
+
+A weather-resistant transponder for NYCT’s CBTC system on the Flushing Line. Joseph M. Calisi photo.
+
+“All of these features will contribute to faster system deployment and more reliable service with fewer delays for our passengers,” NYCT notes.
+
+“Thanks to this partnership with NYCT, we’re delivering cutting-edge technology as we test the next generation of train positioning,” said Dominique Gaiardo, Thales Vice President and Managing Director for Urban Rail Signaling. “Thales has integrated modern onboard sensors with a UWB network to create an enhanced next-generation positioning system for our CBTC digital signaling architecture. The new system has higher accuracy, resiliency and availability, and is quicker to deploy than current-generation products.”
+
+“We took an exciting step in safety certifying Piper’s Ultra-Wide Band technology for the MTA, and we’re looking forward to rolling out this technology across other subway lines as part of the Fast Forward program,” said Robert Hanczor, CEO of Piper Networks. “Together with our partner Thales, we worked closely with the NYCT leadership team, who continually demonstrated their desire to support new technology providers and encourage innovation in the transit sector.”
+
+Pete Tomlin graphic.
+
+NYCT said it “will take the lessons learned from CBTC implementation on the Flushing Line and incorporate industry best practices to improve and expedite future implementation on other subway line corridors, including better costing estimates, formalized personnel structure and responsibilities, enhanced project and contractor monitoring, more frequent surveys and enhanced attention on subway car interfacing. NYCT has created a new database to capture cross-discipline feedback and information from CBTC projects to better-track such valuable information to help improve future CBTC processes.”
+
+All this may be a tall order for NYCT following the loss of Pete Tomlin and Andy Byford. No doubt, high-tech projects such as UWB require innovative suppliers like Thales, Piper, Siemens and Humatics, skilled engineering consultants like Parsons Transportation Group and others, and NYCT’s equally skilled and dedicated workers. But they also require strong, focused leadership at the agency level, one or more “champions” who can get the job done, providing motivation and guidance.
+
+Wayside installation on the Flushing Line. Pete Tomlin photo.
+
+Below is a video from Thales of the MTA Press Demo of the Next Generation Positioning System Integrated with Ultra-Wideband Pilot Program:","{'label': 'Neutral', 'score': 0.9997798800468445}",neutral,0.9997798800468445,0
+Thales radar tracks the Crew Dragon on its way to the ISS - Thales,"Sun, 31 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9uZXRoZXJsYW5kcy9uZXdzL3RoYWxlcy1yYWRhci10cmFja3MtY3Jldy1kcmFnb24taXRzLXdheS1pc3PSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales radar tracks the Crew Dragon on its way to the ISS Space Andre Kuipers Royal Netherlands Airforce ESA Share this article
+
+
+
+LinkedIn
+
+On 30th of May 2020 SpaceX and NASA made history with their successful launch of the manned Demonstration Flight 2. This is the first commercial launch bringing Astronauts Bob Behnken and Doug Hurley to the International Space Station. A big achievement for all the people who worked so hard and once again showed that the Sky is Not the Limit!
+
+During this event there also was a success in the Netherlands with the SMART-L Multi Mission radar from Thales. Through autonomous surveillance we detected and tracked, from our site in Hengelo, both the Crew Dragon and the Second Stage while they passed over Europe with 28.000 km/h.
+
+To witness this special moment we invited Astronaut André Kuipers and Major Petra Wijnja from the Netherlands Defence Space Security Centre to join us in Hengelo. This gave us a great the opportunity to exchange many insights on Space travel and the importance of Space Situational Awareness.
+
+
+
+About the Thales SMART-L MM
+
+The SMART-L MM is a 3D multibeam radar designed to provide long-range Space, Air & Surface surveillance and tracking capabilities. It is a fully digitally controlled Active Electronically Scanned Array (AESA) radar. The applied high-end techniques result in a radar with an unrivalled long range performance of 2000 km. Within this enormous range it detects a wide spectrum of targets: Air breathing targets, stealth targets and ballistic missiles. It can be installed on landbased locations, on sea and as a Deployable Air Defence Radar. For more information, see our SMART-L MM internet page.
+
+In 2020 the SMART-L MM gets into operational hands onboard of the Royal Netherlands Navy Air-Defence & Command Frigates and as part of the Ground Based system of the Royal Netherlands Airforce.","{'label': 'Positive', 'score': 0.9999812841415405}",positive,0.9999812841415405,1
+Christophe Valorge is appointed Chief Technical Officer of Thales Alenia Space - Thales,"Wed, 13 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vd29ybGR3aWRlL3NwYWNlL3ByZXNzLXJlbGVhc2UvY2hyaXN0b3BoZS12YWxvcmdlLWFwcG9pbnRlZC1jaGllZi10ZWNobmljYWwtb2ZmaWNlci10aGFsZXMtYWxlbmlhLTLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Christophe Valorge is appointed Chief Technical Officer of Thales Alenia Space Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Cannes, 13 May, 2020 – Thales Alenia Space, a joint venture between Thales (67%) and Leonardo (33%), has appointed Christophe Valorge as Chief Technical Officer, effective on May 1st, 2020. He succeeds to Patrick Mauté who will be retiring.
+
+Christophe Valorge has been Director of R&D and Product Policy at Thales Alenia Space in Toulouse since 2016. He has a long and proven track record in space industry. Holding degrees from the Ecole Polytechnique (1987) and the Sup'Aero aeronautical engineering school (1989), Christophe Valorge started his career in 1989 as an engineer at CNES, the French Space Agency. He was promoted to various management positions, from Advisor on Technical Policy in 2005 up to the roles of Deputy Director of Scientific Payloads and Imaging in 2008 and Deputy Director of Orbital Projects in 2011.
+
+ABOUT THALES ALENIA SPACE
+
+Drawing on over 40 years of experience and a unique combination of skills, expertise and cultures, Thales Alenia Space delivers cost-effective solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. Governments and private industry alike count on Thales Alenia Space to design satellite-based systems that provide anytime, anywhere connections and positioning, monitor our planet, enhance management of its resources, and explore our Solar System and beyond. Thales Alenia Space sees space as a new horizon, helping to build a better, more sustainable life on Earth. A joint venture between Thales (67%) and Leonardo (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ Space Alliance, which offers a complete range of services. Thales Alenia Space posted consolidated revenues of approximately 2.15 billion euros in 2019 and has around 7,700 employees in nine countries. www.thalesaleniaspace.com
+
+THALES ALENIA SPACE – PRESS CONTACTS
+
+Sandrine Bielecki
+
+Tel: +33 (0)4 92 92 70 94
+
+sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis
+
+Tel: +33 (0)4 92 92 72 82
+
+catherine.des-arcis@thalesaleniaspace.com
+
+Marija Kovac
+
+Tel: +39 (0)6 415 126 85
+
+marija.kovac-somministrato@thalesaleniaspace.com","{'label': 'Neutral', 'score': 0.9999775886535645}",neutral,0.9999775886535645,0
+Herschel & Planck 11 years on: Universe's darkest secrets revealed - Thales,"Thu, 14 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9oZXJzY2hlbC1wbGFuY2stMTEteWVhcnMtdW5pdmVyc2VzLWRhcmtlc3Qtc2VjcmV0cy1yZXZlYWxlZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Herschel & Planck 11 years on: Universe’s darkest secrets revealed Thales Alenia Space Share this article
+
+
+
+LinkedIn
+
+Eleven years ago, on May 14, 2009, the Herschel and Planck spacecraft blasted into orbit from the Guiana Space Center in French Guiana at 9:12 am local time (13:12 UTC).
+
+These two space telescopes were destined to unveil some of the Universe’s most closely guarded secrets: the formation of stars and galaxies (Herschel) and the Big Bang (Planck).
+
+A remarkable endeavor
+
+Behind this remarkable endeavor was a team of over 500 people, as well as more than 90 companies in 17 countries. Thales Alenia Space invested all its expertise and passion in this mission and all our facilities were involved, including Cannes, Turin, Madrid, Charleroi, Milan, Toulouse, Rome, L’Aquila, Bristol and Zurich.
+
+Herschel, Europe’s giant observatory
+
+The Herschel space telescope was designed to observe the cold, dust-laden regions of the Universe, which lay beyond the reach of other telescopes at the time. It studied the birth of galaxies and how stars form. It observed gas and dust clouds, which would eventually become stars, as well as protoplanetary disks and complex organic molecules in the tails of comets. Herschel was also the first to study the complete spectrum of wavelengths in the far-infrared region. Herschel’s telescope was built by Airbus Defense and Space under Thales Alenia Space prime contractorship. Our company was responsible for the satellite’s platform.
+
+The Planck survey mission
+
+From the tiniest fraction of a second after the Big Bang to the evolution of stars and galaxies over 13.8 billion years, the Planck space telescope has given us new insights into the history of the Universe and our own Solar System. For instance, it detected a number of regions where stars are about to be born, or are just starting to develop.
+
+Missions accomplished
+
+Herschel and Planck completed their missions to perfection. Indeed, they went beyond the call of duty: Planck exceeded its specified mission lifetime by 18 months and Herschel by 6 months, continuing to operate until late October 2013 and late April 2013, respectively. To this day, they’re still considered two of the most sophisticated scientific spacecraft ever built in Europe.
+
+This impressive performance earned kudos from the global science community and awards from two leading astronautics associations: 3AF in France (Association Aéronautique et Astronautique de France) in 2010 and the American Institute of Aeronautics and Astronautics (AIAA) in 2015. On the industry side, the program won the 2014 Gold Medal from the International Project Management Association (IPMA) in the Mega Sized Projects category.
+
+For Thales Alenia Space, the Herschel/Planck program was a springboard to further success in space science. The company later won the Euclid contract and part of the Plato mission, which both involve requirements and orbits similar to Herschel/Planck.
+
+Copyrights: © ESA - © NASA/JPL-Caltech - © Thales Alenia Space","{'label': 'Neutral', 'score': 0.9999932050704956}",neutral,0.9999932050704956,0
+Thales links up with partners to boost the supply chain for the Ventilator Challenge - Thales,"Tue, 12 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL3RoYWxlcy1saW5rcy1wYXJ0bmVycy1ib29zdC1zdXBwbHktY2hhaW4tdmVudGlsYXRvci1jaGFsbGVuZ2XSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales links up with partners to boost the supply chain for the Ventilator Challenge Covid-19 ventilator challenge healthcare nhs manufacturing Share this article
+
+
+
+LinkedIn
+
+Last week we highlighted how Thales has developed digital training guides to help both NHS staff and manufacturers, new to critical care and ventilators, to get to grips with the Smiths ParaPAC ventilators. But there is much more to our role in the Ventilator Challenge.
+
+As part of the UK Ventilator Challenge, we have been responsible for all the Printed Circuit Board Assemblies (PCBA) needed for production, and have worked closely with NEMCO, the incumbent supplier to Smiths, to increase their industrial capability to manufacture the required volume needed in a very short timeframe. In this post we will discuss how it has been one colossal effort for us and our supply chain to make all this possible.
+
+Supporting the supply chain
+
+At Thales we are no stranger to working with industry partners to bring projects to life over time. But with COVID-19 at large, time is a precious resource, and as such we have worked non-stop with NEMCO, to achieve steady state manufacturing in just three weeks.
+
+The enormous effort has not gone without its challenges though. To understand fully the ferocity of the challenge, first and foremost, it is important to understand what parts are needed, how many and where to source from. So, in saying that, the first test we faced was in the availability of electronic components. The geographical scale of this global crisis quickly saw demand for vital supplies outpace supply with nearly every country also in a race to source the parts needed to overcome the COVID-19 crisis. Looking at ventilators in particular, Thales worked with six different suppliers to source 1.8 million electronic components, with 36,000 parts to be manufactured from those.
+
+The nature of managing the effort, and speeding up the process, meant the consortium faced an issue on scaling up resources, and quickly. Each manufacturing facility required a replication of the manufacturing and test set up from existing Suppliers, meaning that Thales had to set up and create new tests sets for each supplier that we dealt with. These additional Suppliers in the UK were paramount in order to increase resilience in manufacturing, in case of an outbreak in a facility. Thales designed and manufactured test sets in less than a week to support this testing set up.
+
+Trusting each other to get the job done
+
+Another key challenge to understand is the issue and impact social distancing had on the project. With most people working remotely, it meant a lot of trust and faith had to be given to each part of the supply chain, from the suppliers of the components, to the manufacturing companies and assembly workers. Each of us had to trust every element of the supply chain would stand up and it is ultimately showed that the UK’s manufacturing capabilities are strong.
+
+Caroline Quill, Head of the Technical Directorate, Innovation and Growth, Flight Avionics, Thales said:
+
+“It’s been amazing to see the collective effort that’s gone in to ensuring not only could we set up the supply chain quickly, but keep it running smoothly. What has made me the most proud is the personal stories of seeing people going the extra mile, from parents working through the night having taken care of kids and elderly relatives during the day, to those with loved ones on ventilators themselves. Every company we’ve worked with too has been so willing to help and have truly gone to enormous lengths, beyond anything we’ve asked. This challenge has asked difficult questions of our capabilities, but it shows what we can do if we put our minds to it and come together for a good cause.”
+
+Find out more about Caroline's involvement here and also see Ian DeWalley and Steven Waterman's roles in the Ventilator Challenge.
+
+As the Covid-19 pandemic continues to spread, Thales employees are fully mobilised in the battle to overcome the virus and deal with its consequences. Find out what Thales is doing as a company and how individual employees are showing their solidarity by lending technical expertise and innovative ideas here.","{'label': 'Neutral', 'score': 0.888967752456665}",neutral,0.888967752456665,0
+ELIX-IR finds a new home on the RAF Wedgetail - Thales,"Thu, 28 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2VsaXgtaXItZmluZHMtbmV3LWhvbWUtcmFmLXdlZGdldGFpbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Boeing has selected Leonardo and Thales in the UK to deliver a UK sovereign Defensive Aids System (DAS) for the UK’s new fleet of five Boeing E-7 Wedgetail Airborne Early Warning (AEW) MK1 aircraft, in another success for our world beating single-colour, Infra-Red, Threat Warner and our Countermeasures Dispensing System (CMDS).
+
+Boeing’s selection builds on last year’s announcement that Thales’ Elix-IR™ Threat Warner and Leonardo’s DAS controller and Miysis™ Directed Infra-Red Counter Measure (DIRCM) had been selected to equip the RAF’s fleet of Shadow Intelligence, Surveillance and Reconnaissance aircraft to protect against the latest-generation of missile and hostile fire threats.
+
+Air platforms are fundamental in the support of war fighting, peace-keeping, peace-enforcement and humanitarian operations worldwide. These varied missions often present hostile and threatening conditions to the safety of the crew and passengers. In all operations, air platforms remain high value assets that present a prime target for conventional and unconventional adversaries alike.
+
+Elix-IR™ is the world’s most advanced multi-function passive Threat Warning System (TWS), offering the core functionalities of a simultaneous Missile Approach Warner (MAW) and Hostile Fire Indication (HFI) solution to counter existing and future missile threats. It is suitable for use on a wide range of rotary and fixed wing platforms such as helicopters, transport aircraft, UAVs and VIP aircraft.
+
+For the RAF’s Boeing Wedgetail, Thales UK, under a subcontract from Leonardo, are providing the Elix-IR™ Threat Warning System (TWS) and Vicon XF intelligent Countermeasures Dispensing System (CMDS) into Leonardo’s Modular Advanced Platform Protection System (MAPPS). The integrated DAS is fully designed, developed, manufactured and supported in the UK.","{'label': 'Positive', 'score': 0.7371364235877991}",positive,0.7371364235877991,1
+Major Study demonstrates value of spending defence dollars in Australia - Thales,"Sun, 31 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9jb3VudHJpZXMtYXNpYS9hdXN0cmFsaWEvcHJlc3MtcmVsZWFzZS9tYWpvci1zdHVkeS1kZW1vbnN0cmF0ZXMtdmFsdWUtc3BlbmRpbmctZGVmZW5jZS1kb2xsYXJz0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"The most detailed economic analysis to date of how Australia’s Defence Industry spending flows through the national economy has found significant benefits to Australian SMEs and a strong economic benefit from Sovereign Industry Capabilities.
+
+In the first major study of its type, economic analysts AlphaBeta Advisers were given unprecedented access to data on hundreds of thousands of payments by Thales Australia to its Australian suppliers over a three-year period.
+
+AlphaBeta lead researcher Dr Andrew Charlton said greater understanding of the value and impact of Defence spending in the Australian economy was critical as the Government ramped up major acquisition programs under its Integrated Investment Program (IIP).
+
+“Prime Defence contractors such as Thales are key to translating IIP spend into effective supply chain and investment programs because they provide a link between the Department of Defence’s investment and the many other Australian businesses in the supply chain, many of which may not be defence specialists.”
+
+Minister for Defence Industry, the Hon Melissa Price MP, said the Morrison Government’s unwavering commitment to supporting small businesses in the defence supply chain was having a clear impact.
+
+“It has always been this Government’s intention that the $200 billion we’re investing in a record build-up of defence capability flows through to the thousands of small businesses that make up our defence industry,” Minister Price said.
+
+“This analysis by Thales demonstrates how our investments are creating local jobs, and also building the critical defence capability we need to deliver a capable, agile Defence Force.
+
+“We’ve been upfront with the prime contractors about their obligations to partner with Australian businesses, and Thales is leading by example.”
+
+Thales Australia CEO Chris Jenkins said the data-driven approach demonstrated there was a triple-dividend for Australia from increasing spending on Australia’s advanced industrial capabilities.
+
+“First and foremost, Australia’s sovereign defence industry capabilities are vital to delivering a capability advantage to the Australian Defence Force.
+
+“Secondly, these sovereign industry capabilities build Australia’s self-reliance and the capability of the broader Australian advanced manufacturing sector.
+
+“Thirdly, as this data clearly shows, there is a substantial jobs and economic activity benefit from spending more of the Defence dollar in Australia. It delivers thousands of jobs spread through hundreds of business across the nation.
+
+“For more than 30 years we’ve been building a whole industrial ecosystem in Australia to support the ADF and exports, and it shows in this data in the broad range of industry sectors that are part of our Australian supply chain – from metal fabrication and engineering to professional and scientific services.
+
+“This analysis provides strong evidence in support of the Government’s policy of requiring high levels of Australian Industry Capability (AIC) in its acquisition and sustainment programs. There is a strong correlation between Sovereign Industry Capability and the greatest benefit flowing to Australian suppliers.
+
+“In our case, the areas where we deliver Sovereign Industry Capability – notably Munitions and Small Arms, Protected Vehicles and Maritime support – are where the greatest benefit accrues to our Australian supply chain.”","{'label': 'Positive', 'score': 0.9999778270721436}",positive,0.9999778270721436,1
+How to enable mobile payment for transit? - Thales,"Sat, 02 May 2020 18:47:08 GMT",https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi9tYXJrZXRzL2RpZ2l0YWwtaWRlbnRpdHktYW5kLXNlY3VyaXR5L2JhbmtpbmctcGF5bWVudC9jdXN0b21lci1jYXNlcy9ob25nLWtvbmctb2N0b3B1c9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"You will certainly agree that the fragmentation of mobile devices, the myriad of security options and a growing number of players can make the implementation of a digital payment strategy seem like a daunting task.","{'label': 'Neutral', 'score': 0.9669977426528931}",neutral,0.9669977426528931,0
+The Royal Navy tests Thales Martlet missile on AW159 Wildcat helicopter - Inceptive Mind,"Sat, 30 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmluY2VwdGl2ZW1pbmQuY29tL3JveWFsLW5hdnktdGVzdHMtdGhhbGVzLW1hcnRsZXQtbWlzc2lsZS1hdzE1OS13aWxkY2F0LWhlbGljb3B0ZXIvMTM1MDcv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Leonardo and Thales successfully performed tests with ‘Martlet’ Lightweight Multirole Missile (LMM) fired from Leonardo’s AW159 Wildcat helicopter. The test was part of the UK Ministry of Defense’s Future Anti-Surface Guided Weapon (FASGW) program and demonstrated the integration of the Martlet system into the AW159 helicopter platform.
+
+The FASGM program concerns the certification of MBDA’s Sea Venom missiles, weighing 110 kg and with a maximum range of 20 km, and Thales’ Martlet or LMM, weighing 13 kg and with a maximum range of 8 km, in Naval Cooperation helicopters.
+
+The fire tests were conducted from April 27 to May 21, 2020, and, despite the current COVID-19 emergency, Leonardo and Thales were able to support the United Kingdom Ministry of Defense by completing the activity.
+
+It will enable this high-end capability to enter service with the Royal Navy later this year.
+
+The tests mark an important milestone in testing the new system that will arm Wildcat helicopters that will be deployed as part of HMS Queen Elizabeth’s inaugural operational deployment next year. There, the system will be integrated with a Leonardo Seaspray multi-mode electronically-scanning (E-scan) radar and electronic warfare Defensive Aids Suite (DAS), among the other things.
+
+“The successful firings from the AW159 Wildcat, further demonstrate that the Martlet missile will be a flexible and effective tool for the Royal Navy as the Wildcat fleet embarks on its carrier strike mission with the HMS Queen Elizabeth next year for its maiden operational deployment,” said Nick Whitney, Managing Director of Leonardo Helicopters (UK).
+
+Onboard the AW159 Wildcat LMM Martlet can also allow operators to combat aerial targets such as UAVs (Unmanned Aerial Vehicle) and other marine helicopters. Launchers are mounted on AW159 via a new weapon wing developed at the Leonardo design and production plant in Yeovil (UK) first tested last year. Each weapon wing will be able to carry ten Martlet or two Sea Venom shells, while improving the helicopter’s forward flight performance, reducing its main rotor requirements.
+
+The Wildcat, the new configuration can carry up to 20 rockets in a new wing arms developed by Leonardo, allowing it to engage smaller targets.","{'label': 'Neutral', 'score': 0.9872592091560364}",neutral,0.9872592091560364,0
+Delivering Under Lockdown: Keeping the UK and our Employees Safe - Thales,"Tue, 19 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi91bml0ZWQta2luZ2RvbS9uZXdzL2RlbGl2ZXJpbmctdW5kZXItbG9ja2Rvd24ta2VlcGluZy11ay1hbmQtb3VyLWVtcGxveWVlcy1zYWZl0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Delivering Under Lockdown: Keeping the UK and our Employees Safe Corona Virus Covid-19 MoD Royal Navy Share this article
+
+
+
+LinkedIn
+
+The impact of the Coronavirus on business and manufacturing has been staggering, bringing offices and factories across the UK to a standstill. However, when it comes to delivering the Nation’s Defence there can be no stopping, with some manufacturing required to deliver solutions that the Ministry of Defence deem urgent capability requirements (UCRs) and services which are critical to maintaining military capabilities on Land, Sea and in the Air.
+
+Bernie O’Neil, Head of Operations at Thales’ Glasgow site
+
+Throughout this challenging time Thales has kept the factories going where necessary even if it means adopting some rather novel approaches in order to get the job done.
+
+“The response from our whole team has been outstanding,” says Bernie O’Neil, Head of Operations at Thales’ Glasgow site. “The way the remote Project Engineering teams have responded to this new way of working has been brilliant. Our ability to maintain our deliveries and our customer commitments is testament to the outstanding people we have in our team”.
+
+The COVID-19 situation has meant big changes to work patterns and the factory itself. “In order to continue to deliver to our customers we have changed how we achieve that,” continues Bernie, “by introducing shift working for production, with all other staff working from home, significantly reducing numbers on site. The whole site has had to be reconfigured to support safe working during this time”.
+
+This is just one of a whole host of changes that have had to rapidly be brought into force to meet the ‘new normal’ for working practices, not least the need to keep Thales employees safe.
+
+Bernie easily rattles off the list of actions taken; “We’ve introduced a full suite of C-19 protective measures. We have two meter distancing in place across all activities, including break-out areas, clean rooms, people traffic and desk areas. Drop-off points have been introduced at key places to negate unnecessary handovers. We’ve even designed, 3D printed, and distributed door opening devices, as well as issued personal hand sanitizers and individual styluses for keypads”.
+
+The Thales designed and 3D printed opening device
+
+Bernie and her team of Industrial Architects and shift managers have also removed or restricted the number of common touch points (turnstiles, keypads, PPE doors), introduced a one way system throughout the facility, and closed off entirely areas of the facility to help focus cleaning efforts where they are most needed.
+
+The list of actions taken is seemingly endless.
+
+However behind this activity lies a very good reason why Thales is continuing to work during this time: to support the UK MoD. Giving evidence to MPs on the House of Commons Defence Select Committee, the UK’s Defence Secretary, Ben Wallace, made clear that there was evidence that the UK’s enemies were trying to exploit Covid-19, “in order to damage us”, emphasising that the work of national security continues regardless.
+
+Whether delivering crucial services to the Royal Navy and their submarines, including spare parts and repairs, or providing new and critical capabilities that have arisen as a counter to an ongoing threat, Bernie and her team are finding a way to deliver.
+
+Beyond the factory some Thales staff, armed with ‘Key Worker’ letters from the Dept of Trade (issued via the company’s online HR portal), have even been working in support of the MoD ‘in the field’. The last few weeks have seen critical trials of a new system for the Royal Navy which will have a direct positive impact on the deployment of the UK’s new Aircraft Carrier, HMS Queen Elizabeth II, on her maiden voyage next year. To meet the timeline of her deployment the trials had to go ahead, but under some rather unique and at times challenging circumstances.
+
+The outdoor trials in the west of Wales saw significant social distancing measures, separate offices and a one-way system put in place on the range. Any manual handling or physical operations that required more than one engineer had to be coordinated around strict two meter separation guidelines and whilst wearing PPE. Most unusual, for trials at least, was that travel was strictly by ferry rather than air routes, separate vehicles were hired for each team member, and self-catering cottages were hired, instead of hotels, with local farm produce made available to minimise travel and provide necessary team separation.
+
+When asked what the biggest challenge has been during this current situation, Bernie O’Neil said that it was making so many changes in such a short space of time whilst still delivering for the customer.
+
+“The innovation we apply to delivering solutions to our customers has been applied to great effect to this challenge”, she noted, adding; “the commitment and dedication the production team have displayed throughout this time has been truly amazing.”
+
+As the Covid-19 pandemic continues to spread, Thales employees are fully mobilised in the battle to overcome the virus and deal with its consequences. Find out what Thales is doing as a company and how individual employees are showing their solidarity by lending technical expertise and innovative ideas here.","{'label': 'Neutral', 'score': 0.9997609257698059}",neutral,0.9997609257698059,0
+"May 28, 585 BC: The Battle Of The Solar Eclipse - Ancient Origins","Thu, 28 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmFuY2llbnQtb3JpZ2lucy5uZXQvbmV3cy1zY2llbmNlLXNwYWNlL3NvbGFyLWVjbGlwc2UtYmF0dGxlLTAwMTM3NzbSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"On this day, 28 May, in 585 BC, a fierce battle was underway in Asia Minor when the light vanished in the middle of the day causing the warring armies to lay down their arms and declare a truce. This famous solar eclipse was allegedly predicted by the Greek mathematician Thales of Miletus, and it provides a debatable calculation point for some major dates in ancient history. But how on Earth did he accomplish this incredible astronomical observation and subsequent prediction?
+
+The Violence of Ancient Astronomy
+
+Greek historian Herodotus wrote that Thales predicted a solar eclipse in a year when “the Medians and the Lydians were at war” and by reverse engineering the methodology used when calculating future eclipses, modern astronomers have been able to calculate precisely when historical eclipses occurred.
+
+According to an entry on Moon Blink a total eclipse of the Sun occurred on 28 May, 0585 BC, Universal Time Old Style, with the maximum eclipse occurring at 14:22 UT, and the event is described as a “dramatic” total eclipse that plunged the Sun into darkness for 6 minutes and 4 seconds at maximum, creating an “amazing spectacle” for observers in a very broad path, 271 km wide at maximum. This spectacular event would have been seen by ancient cultures in central America, France, and northern Mediterranean countries while a partial eclipse would have been visible across the Americas, Europe, north Africa and north-western Asia.
+
+On May 28, 585 BC, a total eclipse was witnesses Americas, Europe, north Africa and north-western Asia. (IgorZh / Adobe Stock)
+
+The Mechanics of a Monumentally Difficult Prediction
+
+The reason this astronomical event is thought of as being so important is that predicting a solar eclipse, compared with a lunar eclipse, is exceptionally difficult. The astronomer must not only calculate when it will occur, but where on Earth’s surface it will be visible and according to NASA, in a lunar eclipse the moon passes through the Earth's sun shadow and the phenomena is visible on the whole side of the Earth that is in nighttime, and they often last longer than an hour. In solar eclipses, however, the moon's shadow falls across the Earth in a comparatively narrow path with a maximum duration at any given location of about 7½ minutes.
+
+So to accurately calculate a solar eclipse the observer requires an intimate understanding of the Moon's orbit around Earth to within fractions of a degree of accuracy, and what makes Thales’ prediction a historical mystery is that historians know early Greeks, at large, didn’t have this essential lunar data and there are no other records of Greek astronomers in this period accurately predicting any other eclipses. Thus, it is thought by historians that the only place Thales’ advanced astronomical knowledge could have come from was Egypt.
+
+The Birth of Geometry and Astronomy
+
+Historians Herodotus (c. 450 BC) and Strabo (c. 24 BC) both said Greek mathematicians adapted many of the Egyptian calculation and surveying techniques, modifying and developing them with their own sophisticated advancements into a very refined system. Furthermore, it's known Thales studied Egyptian techniques for measuring sections of land with rope, and when his notes were transferred onto clay tablets by Greek geometers, and later codified by Euclid, geometry was born ( Geo -“Earth” and Metry -“Measure” in Greek).
+
+Having learned so many practical mathematical skills, like bisecting angles, trigonometry and calculating passing time using shadows, from Egyptian surveyors, some researchers speculate that Thales may not have made the famous eclipse prediction himself, but may simply have lifted the date from the Egyptians.
+
+Annular solar eclipse in desert with a silhouette of a dromedary camel. Liwa desert, Abu Dhabi, United Arab Emirates. (Kertu / Adobe Stock)
+
+The Astronomical Conclusion of the Battle of the Solar Eclipse
+
+Returning the war described in the opening paragraph, after 15 years of fighting, on 28 May 585 BC, the armies of King Aylattes of Lydia were in battle with the forces of King Cyaxares of Medes, near the River Halys in what is today central Turkey. Chroniclers noted the “heavens darkening” and soldiers on both sides laying down their weapons in awe of the spectacle and that the event ended both the battle and the war. The kings of Cilicia and Babylon intervened and a peace treaty was negotiated and the River Halys, where the “Battle of the Eclipse” was fought became the border between the Lydians and the Medes.
+
+While most astronomers would agree that May 28, 585 BC, is the most likely candidate date for Thales’ predicted eclipse, a Wired article says this famous astronomical event has been debated by hundreds of scholars for nearly two millennia and that some authorities believe Thales’ eclipse may have occurred 25 years earlier in 610 BC. But the reason most agree with the 585 BC date is the record of the famous battle in Asia Minor ending when “the day was suddenly turned to night”.
+
+Top image: The total solar eclipse of May 28 585 caused a cease in fighting between the Medians and the Lydians. Source: zef art / Adobe Stock
+
+By Ashley Cowie","{'label': 'Neutral', 'score': 0.9999185800552368}",neutral,0.9999185800552368,0
+Thales and Skyports partner to conduct drone delivery trial for the NHS in Scotland to support UK COVID-19 response - Thales,"Tue, 26 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50aGFsZXNncm91cC5jb20vZW4vdW5pdGVkLWtpbmdkb20vbmV3cy90aGFsZXMtYW5kLXNreXBvcnRzLXBhcnRuZXItY29uZHVjdC1kcm9uZS1kZWxpdmVyeS10cmlhbC1uaHMtc2NvdGxhbmQtc3VwcG9ydNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales and Skyports partner to conduct drone delivery trial for the NHS in Scotland to support UK COVID-19 response Covid-19 nhs Drones Share this article
+
+
+
+LinkedIn
+
+The aim of the trial, backed by Argyll and Bute Health and Social Care Partnership (HSCP) – part of NHS Highland, is to prove the delivery of urgent medical cargo, such as COVID-19 test kits and Personal Protective Equipment (PPE), between remote medical facilities by delivery drone.
+
+UK drone delivery provider Skyports will conduct the trial and operate the flights using delivery drones supplied by unmanned aircraft-maker Wingcopter, because of its proven capability through numerous delivery operations around the world. These trial flights will be planned through Thales’s leading drone operations management platform, SOARIZON, which offers digital tools to maintain compliant and safe drone flying operations.
+
+Skysports/Wingcopter delivery drone taking off
+
+Based at Lorn and Islands Hospital in Oban, the trial will consist of two-way flights between the hospital and Mull and Iona Community Hospital in Craignure 10 miles (16km) away on the Isle of Mull.
+
+As COVID-19 testing rapidly gathers pace in the UK, the proposed delivery service will help to ensure that isolated communities have access to tests, delivered in a fast and efficient way. Currently, the majority of medical supplies and specimens are transported between the laboratory at Lorn and Islands Hospital and surrounding general practitioners’ surgeries and other healthcare settings by sea and road, a long and complicated journey.
+
+This service will see delivery times cut from up to 6 hours one-way by ground transport and ferry to around 15 minutes, on-demand, by drone, bringing considerable savings in terms of time and resource cost, as well as keeping front line medical and delivery personnel safer.
+
+Answering the call from government and Argyll and Bute HSCP, in response to the COVID-19 crisis, this trial is the result of rapid mobilisation from industry as well as the Civil Aviation Authority (CAA), Local Government, the NHS in Scotland and the Department for Transport (DfT). Argyll and Bute HSCP has been at the forefront of exploring with Skyports the use of unmanned aircraft technology, building on preliminary work with the Scottish Government on the possibility of drone use by the public sector emergency services in Scotland.
+
+Arriving at Mull Hospital
+
+The two-week trial represents a crucial milestone for unmanned aviation in the UK. Under current rules, drones must always be flown within visual line of sight of the remote pilot. To undertake these more extended flights, the project team has been in close consultation with the CAA.
+
+Through this trial, the alliance aims to prove the long-term, sustainable viability of such services; bringing together regulation, government and industry to unlock the transformational potential of drones for society when used in a safe, secure and controlled way.
+
+Alex Cresswell, CEO of Thales UK, said of the project: “Thales’s technologies are playing a crucial part in the response to COVID-19 - both globally and here in the UK. This trial demonstrates the positive role that unmanned technology can play in our society and represents a landmark step to accelerate its adoption. We look forward to continuing to work collaboratively with industry partners, regulators and government to establish the UK as a world leader in this exciting new industry.”
+
+Duncan Walker, CEO of Skyports, said: “Delivery drones are a fast and reliable solution for vital medical supplies. Skyports is proud to assist the NHS in Scotland with their COVID-19 response, helping to provide the essential healthcare that people need in harder-to-reach areas. Our trial in Argyll and Bute provides an important short-term response to the current pandemic and lays the foundations from which to grow a permanent drone delivery operation across a network of healthcare facilities around the country.”
+
+Joanna Macdonald, Chief Officer for Argyll and Bute Health and Social Care Partnership, said: “I am delighted that Argyll and Bute Health and Social Care Partnership is again at the forefront in Scotland using new technologies to benefit our patients.
+
+“The use of drones provides real opportunities to improve services and will help enable quicker diagnosis for our patients.""
+
+“We are excited to be working with Skyports in the design of this new service.”
+
+Innovation Minister Ivan McKee said:
+
+“I am delighted that this trial will help deliver critical NHS supplies of PPE and testing kits to our island communities quickly and safely. This trial shows once again that innovation is key to finding new ways to deliver vital equipment and services to people. It also builds on our significant innovation investment and will help us to ensure Scotland becomes a destination of choice for the development, testing and deployment of robotics and autonomous technologies like drones.”
+
+Thales and Skyports are also working together within the CAA Regulatory Sandbox programme, exploring how regulatory approvals can be granted for more widespread BVLoS drone operations in the UK.
+
+Once the trial has been successfully completed, the team will continue to work closely with the CAA and the NHS to make services available in Scotland and across the UK to provide access to this innovative technology to a wide range of organisations, in particular a number of other NHS Boards and Trusts.
+
+© Images courtesy of Skysports/Wingcopter","{'label': 'Neutral', 'score': 0.9999756813049316}",neutral,0.9999756813049316,0
+Royal Navy's Wildcat Helicopter Test-Fires Martlet LMM For the 1st Time - Naval News,"Sun, 24 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIwLzA1L3JveWFsLW5hdnlzLXdpbGRjYXQtaGVsaWNvcHRlci10ZXN0LWZpcmVzLW1hcnRsZXQtbG1tLWZvci10aGUtMXN0LXRpbWUv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Royal Navy’s Wildcat Helicopter Test-Fires Martlet LMM For the 1st Time A Royal Navy AW159 Wildcat maritime helicopter successfully conducted the first test-firing of the Thales Martlet (Lightweight Multirole Missile or LMM) this week.
+
+The trials mark an important milestone in the testing of the new system which will arm the Wildcat helicopters that deploy as part of HMS Queen Elizabeth’s maiden operational deployment next year. The LMM, which the Royal Navy will call Martlet when it enters service later this year, will provide an enhanced level of protection for both service personnel in the Royal Navy and vital assets at sea, such as the Queen Elizabeth Carrier.
+
+“This test firing shows the Wildcat helicopter will be ready to help defend our Queen Elizabeth-class carriers and their strike groups for years to come. The Royal Navy and Army introduced Wildcat helicopters into service five years ago and the firing of the Martlet this week is a very significant milestone and represents a huge success for the joint industry and MoD team. This firing underpins future Royal Navy offensive capability and the defence of the surface fleet.” Commander Matt Boulind Royal Navy, Wildcat Maritime Force Commander.
+
+Managed by the Lightweight and Medium Attack Systems and Wildcat delivery teams at DE&S, and manufactured by Thales, the laser-sensor missile can be used against stationary and moving targets.
+
+Martlet, also known as the LMM, has already been successfully launched off frigate HMS Sutherland so the latest firing was to test it in its primary role.
+
+The Royal Navy AW159 Wildcat can carry up to 10 Martlet missiles on each of the two specialy designed wing stub mounts. Royal Navy picture.
+
+When it enters service later this year, LMM will give the Wildcat increased protection capability able to address highly mobile maritime threats such as weaponised speed boats and jet skis.
+
+“Martlet will ensure the Wildcat has the best-in-class offensive capability to protect the carrier strike group. With each helicopter capable of carrying up to 20 missiles, the Wildcats deployed will be a significant deterrent to anyone wishing to interfere with UK interests.”
+
+Philip McBride, general manager of Integrated Airspace-protection Systems as Thales UK
+
+Wildcat helicopters from @RNASYeovilton have successfully fired a new missile system this week. The Martlet missile will arm the Wildcats that deploy as part of @HMSQNLZ's maiden operational deployment next year
+
+
+
+? https://t.co/ef7xAjcXEa pic.twitter.com/UpO1BvaZhm — Royal Navy (@RoyalNavy) May 24, 2020
+
+“This major milestone demonstrates that the combination of the AW159 Wildcat and Martlet missile will be a flexible and effective tool for the Royal Navy. Next year the Wildcat fleet will embark on Carrier Strike Group missions with HMS Queen Elizabeth on its maiden operational deployment. As the only British company to design and manufacture helicopters on-shore, we’re extremely proud to be equipping the UK Armed Forces with world-beating sovereign capabilities.’”
+
+Nick Whitney, Managing Director of Leonardo Helicopters
+
+About Martlet / LMM / FASGW(L)
+
+According to Thales, LMM is a low cost, lightweight, precision strike, missile, which has been designed to be fired from tactical platforms including fixed or rotary winged UAV s and surface platforms. The system is designed to provide a rapid reaction to a wide range of the surface threats from wheeled or tracked vehicles, towed artillery or static installations; naval threats from small ships and fast inshore attack craft and an air threat from light aircraft.
+
+Key Features
+
+• Max Range: >6 km (Surface Launch)
+
+• Min Range: <400 m• Guidance: Laser Beam Riding
+
+• Max Mach: ~1.5
+
+• Diameter: 76 mm
+
+• Length: 1.3 m
+
+• Max Weight: 13 kg
+
+• Warhead: Dual Effect, Blast Fragmentation and Shaped Charge
+
+• Fuze: Impact and Proximity Modes, selectablepre-launch
+
+• Propulsion: 2 Stage Solid fuel, Low Smoke Propellant
+
+• High level of Insensitive Munition compliance
+
+• Immune to all known Countermeasures","{'label': 'Positive', 'score': 0.995618999004364}",positive,0.995618999004364,1
+"Bangabandhu Satellite-1, the pride of Bangladesh! - Thales","Mon, 11 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoYWxlc2dyb3VwLmNvbS9lbi93b3JsZHdpZGUvc3BhY2UvbmV3cy9iYW5nYWJhbmRodS1zYXRlbGxpdGUtMS1wcmlkZS1iYW5nbGFkZXNo0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Bangabandhu Satellite-1, the pride of Bangladesh! Thales Alenia Space Telecommunications Share this article
+
+
+
+LinkedIn
+
+Two years ago to the day, Bangladesh’s first satellite, Bangabandhu Satellite-1, was launched from Cape Canaveral in Florida on a Falcon 9.
+
+The successful launch was celebrated across the country, with extensive media coverage.
+
+Bangabandhu Satellite-1 contributes to boosting the country’s economy by providing all citizens with a wide range of telecommunications services (direct-to-home TV, radio, telemedicine, education and internet access). Hardly surprising that it was named in honor of Bangabandhu Sheikh Mujibur Rahman, the “father of the country”. Bangladesh was eagerly awaiting its first telecom satellite, since it helps the country affirm its independence in this area, and allow it to offer communications and broadcasting services to a number of neighboring countries, including Nepal, Myanmar and Bhutan.
+
+Thales Alenia Space’s contribution
+
+Built on Thales Alenia Space’s Spacebus 4000B2 platform, the satellite is fitted with both Ku and C-band transponders. Its coverage zone spans Bangladesh and neighboring regions. Positioned at 119.1° East, it will provide Ku-band services for Bangladesh and its territorial waters in the Gulf of Bengal, India, Nepal, Bhutan, Sri Lanka, the Philippines and Indonesia, while also offering C-band capacity over the entire region.
+
+Thales Alenia Space was prime contractor for this turnkey system, working for the Bangladesh Telecommunication Regulatory Commission (BTRC). We were responsible for the design, construction, testing and in-orbit delivery of the satellite.
+
+Thales Alenia Space was also in charge of the ground segment, based on the dedicated SpaceOps solution for mission configuration and monitoring. This work package includes two buildings, for the satellite control center and operational network center, which is based on Thales Alenia Space’s comprehensive SpaceGate solution. Our partner in Bangladesh, Spectra Engineers Ltd., handled civil engineering for the ground infrastructure.
+
+Like Brazil, Turkey and Argentine, exemplary cases of successful partnerships between Thales Alenia Space and countries wanting to join the space club and enhance their autonomy in space technology, the partnership set up for Bangabandhu Satellite-1 allowed Bangladesh to become a full-fledged member of the space community.
+
+Driving economic growth and recognition in Asia
+
+Bangladesh’s satellite contributes to bridging the digital divide in both large cities and rural areas. These isolated villages will gradually benefit from all the advantages of digital connectivity.
+
+Bangabandhu Satellite-1 is a strong symbol, conveying the nation’s ambitious hopes and spurring the country’s economy, while also generating jobs. Even the slightest facts and figures posted on social media have stimulated unprecedented enthusiasm. The satellite is a fantastic driver of economic growth and recognition in Asia, supporting improvements in a number of different sectors across the region, including defense, telemedicine, training, online searches and videoconference services.
+
+Bridging the digital divide worldwide
+
+As reflected in Bangabandhu Satellite-1, Thales Alenia Space has always been a key industry partner in efforts to bridge the digital divide around the world. For example, we are now building EUTELSAT KONNECT VHTS, an advanced very high throughput satellite. This extremely powerful spacecraft (in the 500 Gbps class) will be able to bring high-speed internet connectivity even to the most isolated areas in Europe, zones where it’s difficult or impossible to set up terrestrial infrastructures.
+
+© Thales Alenia Space
+
+Thales Alenia Space is also prime contractor for Indonesia’s SATRIA satellite. Also working to reduce the digital divide, like Bangabandhu Satellite-1, SATRIA is designed to connect some 145,000 different zones not currently linked via satellite or terrestrial networks, including 90,000 schools, 40,000 hospitals and public buildings, along with government facilities. Also a very high throughput satellite, SATRIA will help Indonesia develop its digital capabilities.
+
+Through its different product lines, including proven expertise in constellations, Thales Alenia Space offers custom-tailored solutions that meet the emerging expectations of the telecommunications market. From satellites based on the Spacebus 4000 B2 platform, well suited to regional operators, to the Spacebus NEO family, the foundation of very high throughput satellites (VHTS) that enhance connectivity around the world, and Space Inspire, the latest all-digital and reconfigurable in-orbit product line, Thales Alenia Space delivers tailored connectivity and mobility solutions to operators from around the world to help bridge the digital divide.
+
+
+
+Today, celebrations are in order! Long live Bangabandhu Satellite-1, a very special satellite that we are very proud of having made, and one that all Bangladeshis are proud of, since it has become a priceless new part of their culture.
+
+Copyrights: © Thales Alenia Space/Briot - © Thales Alenia Space/Imag[IN] - © Thales Alenia Space/Master Image Programmes","{'label': 'Neutral', 'score': 0.8843939304351807}",neutral,0.8843939304351807,0
+APDR May 2020: Thales Australia CEO Chris Jenkins in conversation with APDR Editor Kym Bergmann - Asia Pacific Defence Reporter,"Tue, 26 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMihgFodHRwczovL2FzaWFwYWNpZmljZGVmZW5jZXJlcG9ydGVyLmNvbS9hcGRyLW1heS0yMDIwLXRoYWxlcy1hdXN0cmFsaWEtY2VvLWNocmlzLWplbmtpbnMtaW4tY29udmVyc2F0aW9uLXdpdGgtYXBkci1lZGl0b3Ita3ltLWJlcmdtYW5uL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en,"Kym: Let’s start with SEA 1000. How do you see the potential role of Thales in that one?
+
+Chris: SEA 1000 involves a level of competition for the various elements that interest us, so I can’t comment directly on ongoing evaluations. However, there are a few important points I would like to make. If you look at all of the programs that are currently running in the Australian naval domain…
+
+Read more at https://venturaapdr.partica.online/apdr/apdr-may-2020/features/thales-australia-ceo-chris-jenkins-in-conversation-with-apdr-editor-kym-bergmann or
+
+Download the latest issue of APDR here.
+
+For Editorial Inquiries Contact:
+
+Editor Kym Bergmann at kym.bergmann@venturamedia.net
+
+Online Editorial Mike Yeo at mike.yeo@venturamedia.net
+
+For Advertising Inquiries Contact
+
+Director of Sales Graham Joss at graham.joss@venturamedia.net","{'label': 'Neutral', 'score': 0.9999308586120605}",neutral,0.9999308586120605,0
+Thales Australia Limited has completed BLU-111 | APDR - Asia Pacific Defence Reporter,"Fri, 01 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL3RoYWxlcy1jb21wbGV0ZXMtZmlyc3QtcHJvZHVjdGlvbi1sb3Qtb2YtYmx1LTExMS1haXItZHJvcHBlZC1tdW5pdGlvbnMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en,"Thales Australia Limited has completed the first production lot of Australian-made BLU-111 air-dropped munitions which can be utilised by the F-35A Lightning II Joint Strike Fighters of the Royal Australian Air Force.
+
+The 500-lb (227-kg) munitions, which are being manufactured at Benalla, Victoria and Mulwala, NSW, will have the same range and performance metrics as current General Purpose Bombs but will be significantly safer to store, transport and operate.
+
+This is on account of the BLU-111 using a plastic-bonded explosive known as PBXN-109 as its explosive filler, compared with the externally similar Mk 82 aerial bomb, which is filled with Composition H6 that is more sensitive to accidental detonation.
+
+When added with a guidance kit such the Paveway laser seeker or GPS-guided Joint Direct Attack Munition, the BLU-111 can be transformed into a precision guided bomb for accurate all-weather operations
+
+Minister for Defence Industry Melissa Price MP said 15 Australian companies, including five small businesses, were delivering this important capability for Defence.
+
+“This work establishes a strategically important sovereign manufacturing capability to support the Australian Defence Force,” Minister Price said.
+
+“It is a practical example of the Government’s ongoing commitment to domestic manufacturing of munitions, which is one of the 10 Sovereign Industrial Capability Priorities under the 2018 Defence Industrial Capability Plan.”
+
+The Government released the Sovereign Industrial Capability Priority Industry Plan for Munitions and Small Arms Research, Design, Development and Manufacture last year, which states that “Australian industry must be able to manufacture propellants, munitions, ammunition and small arms that provide our soldiers with a warfighting advantage.”","{'label': 'Neutral', 'score': 0.9853864908218384}",neutral,0.9853864908218384,0
+Thales — how to buy a country - Daily Maverick,"Wed, 20 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmRhaWx5bWF2ZXJpY2suY28uemEvYXJ0aWNsZS8yMDIwLTA1LTIwLXRoYWxlcy1ob3ctdG8tYnV5LWEtY291bnRyeS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"The previous Unaccountable profile detailed Jacob Zuma’s infamous battle with the South African legal system to escape scrutiny for his role in the 1999 Arms Deal. We explored the hard evidence against the former president, from the conviction of his adviser Schabir Shaik to secret code-phrases, encrypted fax messages and million-rand handshakes with a French multinational arms corporation. These actors placed profit over principle and undermined state institutions in an attempt to get away with it.
+
+***
+
+Sitting in the dock next to Jacob Zuma is Thales. Unfortunately, local media coverage presents Thales as a sideshow in the long and complex Zuma litigation. It suggests a glaring blind spot which glosses over corporate power to focus only on the elected politicians. But we should not forget that this arms company faces its own charges of fraud, corruption and money laundering, all linked to paying bribes to undermine South Africa’s democratic institutions. The tale of Thales’ involvement in the Arms Deal, and in a series of other corruption scandals, is equally demanding of our attention.
+
+Like Zuma, Thales has spent the last two decades denying any wrongdoing on the part of the company or its employees during or after the Arms Deal. It has vocally challenged court decisions and the conduct of investigative bodies at every turn — essentially, doing all it could to remain unaccountable. It is deeply ironic that it stands accused of bribing Zuma precisely to stave off prosecution, but has relied on delays in the case to try and avoid accountability permanently. This door is now closed after the Constitutional Court dismissed Thales’ latest appeal in early May 2020 to have its charges permanently set aside. Thales, like Zuma, has run out of legal mechanisms to try to avoid accountability and will finally be made to answer these allegations in court. The crème of Europe’s arms trade is finally faced with the prospect of justice on African soil.
+
+Thomson to Thales: New name, same corrupt game
+
+Thales is a Paris-based multinational defence and aerospace corporation with offices and subsidiaries in 68 countries. Originally trading as Thomson-CSF during the Cold War, the company underwent rebranding at the end of 2000 when it sought to reposition its corporate image within the global market. What it also sought to cover with a fresh coat of paint were a number of allegations of fraud and corruption. Thomson-CSF has a murky history in South Africa, and was an important ally to the apartheid state and military. It is implicated in violating the arms embargo that was in place against the apartheid regime.
+
+The company has also been implicated in bribery elsewhere. In 2010, The International Court of Arbitration ruled that Thales (Thomson-CSF) and France — through their foreign Minister Roland Dumas — had breached anti-corruption clauses relating to a 1991 frigate contract they had signed with Taiwan. The bribes to Chinese and Taiwanese officials totalled around US$500-million. Following an appeal by the arms company and the French government, the order was upheld and the parties were fined €630-million — the total amount of bribes that were paid, plus interest — a cost that would be split between the French state (72.5%) and Thales (27.5%).
+
+Today, Thales is partly owned by the French State which held a quarter of the company’s shares as of December 2019. The company has long had a mutually beneficial relationship with the French government and various politicians, with Thales allegedly being able to call on French presidents and ministers to help secure lucrative international contracts or protect them from international investigations.
+
+French friends of the apartheid state
+
+Thales has a long history of flouting international laws to profit from its links to South Africa. The company’s official website boasts a 35-year-long relationship with South Africa and its commitment to prioritising development and Black Economic Empowerment. The French arms giant proudly states that its South African subsidiary has a Level 2 BEE status, all while conveniently erasing its much longer history of apartheid-era profiteering and sanctions-busting that continued to keep the apartheid government in power throughout the anti-apartheid struggle, and enabled the violent and systematic oppression of the black majority.
+
+As early as 1969, PW Botha, the South African Defence Minister at the time, played a critical role in establishing and fostering a close relationship with Thomson-CSF executives and French government officials. Declassified military records obtained by Open Secrets reveal that Botha joined Thales’ chairman, P Richard, in France in June 1969 to test the new Cactus missile that Thales had been developing with South Africa. The visit, which included generals and ambassadors from both countries, solidified an already strong military relationship between the two countries which would be maintained throughout the height of global anti-apartheid protests of the 1970s and 80s.
+
+Following the Soweto Uprising in 1976 and the death of Steve Biko in detention in September 1977, the United Nations Security Council (UNSC) imposed a mandatory arms embargo on apartheid South Africa. This had little impact on the willingness of Thomson-CSF to supply the apartheid military.
+
+Military documents show that Thomson-CSF remained one of the most consistent suppliers of military equipment after the embargo became compulsory in 1977. Beyond being one of the largest suppliers of military aircraft, one of the closest areas of collaboration remained the area of missile development that had started with Botha’s visit a decade earlier. As late as 1987 the CEO of Thomson-CSF confirmed it was ready to accept a military delegation to France for a “European high technology scanning mission”.
+
+When open collaboration was made increasingly difficult, the company engaged in willing subterfuge, including a 1988 three-way negotiation that provided for the provision of updated missile systems (the Cactus) through a clandestine channel in Chile, then under the rule of notorious dictator Augusto Pinochet.
+
+Instead of starving the apartheid regime of the weapons and technology it needed to continue its illegitimate rule, Thomson-CSF and the French state continued to fuel apartheid’s war machine and assisted with the clandestine sanction-busting processes that the countries’ continued partnership required. The role of the French state extended to knowingly allowing Armscor officials to broker illegal arms deals with arms companies and middlemen from inside the South African embassy right in the centre of Paris.
+
+This apartheid-era partnership laid the groundwork for post-apartheid networks of corruption to thrive.
+
+Thales and the 1999 Arms Deal
+
+Arms companies in the UK, France, Italy and Germany all benefited from the 1999 Arms Deal. Upon the signing of the final agreements related to the multi-billion-rand Strategic Defence Procurement Package on 3 December 1999, Thales (then called Thomson-CSF) had managed to win itself a R2.6-billion piece of the pie. Thomson-CSF formed part of a consortium — the German Frigate Consortium (GFC) — that was established to deliver four warships (corvettes) purchased by the South African Navy as part of the deal. Thomson was to supply the “combat suites” for the corvettes — essentially the software or “brain” of the weapons systems on board — but needed a South African partner.
+
+One of the businessmen who wanted in on this lucrative deal was Schabir Shaik. We know that Thomson-CSF representative Pierre Moynot and Shaik had met for the first time in September of 1995 to discuss potential collaboration, well before the arms deal was confirmed. What makes this date notable is the fact that at that point, public pressure had resulted in the procurement of the warships being taken off of the table. Due to backlash, discussions related to buying these arms were scrapped, with no public information that would suggest that this decision would be reconsidered. So what did Thomson-CSF or Shaik know about the arms acquisition process that others did not? Why would they have planned for a contract that appeared to have been scrapped?
+
+It later emerged that the Arms Deal procurement process was littered with these kinds of inconsistencies, illustrating knowledge of insider secrets and clear conflicts of interest which ensured the selection of certain suppliers over others — something we will continue to explore in upcoming instalments of Unaccountable.
+
+When the time to select a local BEE partner came, Thomson-CSF decided to partner with Altech Defence Systems. It went on to purchase 50% of Altech Defence Systems, before later purchasing the remainder of the shares and renaming the company African Defence Systems (ADS). The initial intent was to give shares in ADS to Nkobi holdings. While Nkobi had little capacity to deliver on any sort of contract — it crucially included Shaik in the deal. However, acting on rumours that Shaik was disliked by Thabo Mbeki, then deputy president and the most senior government official overseeing the Arms Deal, Thomson-CSF initially excluded Nkobi Holdings as a shareholder.
+
+Shaik, upset by this exclusion and determined to be cut in, allegedly called upon both Jacob Zuma and his brother Chippy Shaik, who headed the arms procurement process, to intervene. After all, the courts later determined that this kind of political influence was precisely why Shaik made regular payments to Zuma. Respectively, Zuma and Chippy Shaik met with Thomson-CSF representatives on Schabir Shaik’s behalf. Although details from these meetings are scarce, it is alleged that Chippy informed Thomson representatives that he would make the acquisition process difficult for the French arms company if they did not include Shaik in the contract.
+
+A still trepidatious Thomson-CSF, appearing to cave to the pressure from these meetings, granted Nkobi Holdings shares in ADS. However, perhaps hedging its bets, it chose to also include another local partner, Futuristic Business Solutions (FBS). FBS was owned by relatives of then defence minister, the late Joe Modise. Modise also faced allegations of corruption related to the Arms Deal.
+
+Thales thus engaged in an extensive process of local business acquisitions and buying of political influence by cutting in companies with vast political connectivity in order to ensure its selection in the deal. But that is not all it stands accused of. What then ensued was a cover-up — and the allegation that Thales bribed Zuma to protect it from investigation or prosecution linked to its other conduct.
+
+Buying impunity — evidence from the Shaik trial
+
+The true extent of the relationship between Schabir Shaik, Thales and Jacob Zuma was relatively unknown until 2004, when the company’s South African subsidiary, then called Thint, was charged as Shaik’s co-accused, in the trial that would come to define post-apartheid politics.
+
+Although charges against Thint would be dropped before proceedings began, details emerged from the trial which implicated Thales and its South African subsidiary in a complex web of corruption aimed specifically at avoiding accountability for allegations related to the Arms Deal acquisition process.
+
+It is alleged that in 1999, amid growing calls for an investigation into allegations of corruption in the Arms Deal, the French arms company and its South African subsidiary sought to protect itself from possible prosecution. Upon advice from Schabir Shaik, a meeting was arranged with the deputy president of South Africa at the time, Jacob Zuma. Thales’ South African representative — Alain Thétard, met with Zuma and Shaik in Durban in March of 2000. This was the meeting in which it was agreed that R500,000 per year would be paid to Zuma by Thales through a network of Shaik’s business accounts, in exchange for Zuma’s political protection and support for future contracts.
+
+During Shaik’s trial, all parties denied that this meeting took place and that any such agreement was made. However, Sue Delique, Thétard’s former secretary, was able to provide evidence in the form of the now-infamous encrypted fax sent by Thétard to Thales’ sales director for Africa. The fax not only confirmed that the meeting had indeed taken place, but also that an agreement had been reached between Thales and Zuma.
+
+In the Shaik trial, Judge Squires concluded that all parties present at this March 2000 meeting knew exactly what it was that they were agreeing to and that this payment was clearly made to ensure the protection of Thales from investigation and prosecution.
+
+Bribe payments pay off?
+
+In the wake of Shaik’s 2005 guilty judgment, the State charged Zuma and Thales for their involvement in the Deal. Yet with the alleged support of Thales, Zuma and his legal team were emboldened in their adoption of their notorious “Stalingrad strategy” to delay legal proceedings at every possible turn.
+
+These delays were crucial in allowing Zuma to continue to pursue his presidential aspirations. Zuma was elected as the president of the ANC in 2007 and subsequently of South Africa in 2009. It was this position of power which enabled him to oversee the disbandment of the Scorpions — an independent agency that had up to then successfully investigated and prosecuted serious organised crime and corruption. To achieve this, Zuma and his backers used the signature of President Kgalema Motlanthe, a cardboard cut-out who was caretaker of the executive while Zuma awaited his election as president.
+
+It was the Scorpions that had indicted Zuma in 2007 and was central to the successful prosecution of Shaik. The Scorpions were replaced by the Hawks, which fell directly under Cabinet control, and would quickly come to terminate its own Arms Deal investigation.
+
+In October 2011, President Zuma, giving into public demands for accountability and pre-empting possible court judgments in this regard, announced a commission of inquiry headed by Judge Willie Seriti to investigate allegations of corruption in the Arms Deal. The commission, which failed to consider key evidence or call important witnesses, produced a white-washed report that exonerated all parties. This report has been used by Zuma and his allies to further bolster their defence and claim their innocence. That is, until just last year, when The North Gauteng High Court found that the commission had fundamentally failed to do its job — finding “a clear failure [by the Seriti Commission and its judges] to test evidence of key witnesses [and] a refusal to take account of documentary evidence which contained the most serious allegations”.
+
+It is also alleged that Zuma used state funding to continue to oppose multiple legal actions that were filed in order to challenge the decision to drop the case against him and Thales. Although Zuma was ultimately unsuccessful in his attempts to have these charges permanently dropped, the long delay has managed to defer justice and created a culture of impunity which has allowed both Zuma and Thales to continue to profit from their allegedly corrupt partnership.
+
+Ajay Sooklal: Thales fixer turned whistleblower?
+
+At the hearings of The People’s Tribunal on Economic Crime in 2018, attorney Ajay Sooklal emerged as a previously unnamed witness in the proceedings. Sooklal was employed by Thales from 2003 to 2009 as a fixer, and alleged that he was told by the Chairperson of Thales International, Jean-Paul Perrier, that they would need to be ready to prevent any indictment that might follow the findings of the Shaik trial.
+
+Some of Sooklal’s submission to The Tribunal had already been public knowledge since transcripts of his ongoing legal battles with his former employer emerged in 2014. These transcripts seemingly confirm the 2000 bribe payment agreement and include allegations that Sooklal facilitated payments, gifts, legal fees and all-expenses-paid international trips for Zuma on behalf of Thales, long after the Arms Deal had been wrapped up.
+
+Sooklal’s testimony went further, implicating former French president Jacques Chirac in a conspiracy by Thales to have investigations shut down. Sooklal alleges, based on information shared with him by Dr Peneull Maduna, the South African minister of justice at the time, that between September and November of 2003, president Thabo Mbeki was approached by president Chirac regarding the ongoing Thales scandal while in France on state business. Chirac allegedly requested that Mbeki use his powers to put an end to the prosecution of Thales. Sooklal claims that Mbeki then tasked Maduna, Kgalema Motlanthe (then Secretary-General of the ANC) and Mendi Msimang (then ANC treasurer) to find a “solution” to the issue.
+
+Sooklal claims that shortly after this meeting in France, he facilitated a series of meetings between Thales representatives and the National Prosecuting Authority. It was during these meetings that it was agreed that Thales would be removed as a co-accused in the Shaik trial if Alain Thétard would confirm, by affidavit, the authenticity of the infamous encrypted fax. This piece of evidence was central in the successful prosecution of Shaik. However, Thétard would later break the terms of this agreement when he was asked to testify in the Shaik trial, and he contradicted his affidavit.
+
+If this testimony is to be believed, it would not be the first time Thales relied on French leaders to avoid accountability and continue its underhanded profiteering.
+
+Is accountability finally possible?
+
+Scandal after scandal, Thales seems to somehow come out on top of it all. In the wake of its Taiwanese frigate fiasco, it was noted that Thales’s stock price was barely affected. With the support of the French government, the company was quickly able to move on from the fine and continue to do business around the world, without any additional checks and balances being put into place.
+
+The Zuma and Thales case, which is scheduled to resume proceedings on 23 June 2020, is an important opportunity for South Africa — using the integrity of its legal system — to hold Thales accountable for the devastation it has wrought on the country and its people. This would send the message to Thales and corporations like it that corruption, the looting of state funds and the buying of political influence will no longer go unpunished. This is a chance for South Africa to challenge impunity and the corrupt networks that it sustains. DM
+
+Open Secrets is a non-profit organisation which exposes and builds accountability for private-sector economic crimes through investigative research, advocacy and the law. Tip-offs for Open Secrets may be submitted here.
+
+Previous articles in the Unaccountable series are:","{'label': 'Neutral', 'score': 0.9824084639549255}",neutral,0.9824084639549255,0
+Agency for Air Navigation Safety in Africa and Madagascar (ASECNA) study on satellite navigation services provision ... - Pulse Uganda,"Tue, 19 May 2020 07:00:00 GMT",https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnB1bHNlLnVnL2FnZW5jeS1mb3ItYWlyLW5hdmlnYXRpb24tc2FmZXR5LWluLWFmcmljYS1hbmQtbWFkYWdhc2Nhci1hc2VjbmEtc3R1ZHktb24tc2F0ZWxsaXRlL3AzM3hyZzDSAQA?oc=5&hl=en-US&gl=US&ceid=US:en,"Planned from 2022, these services will be used to augment the positioning accuracy provided by current satellite navigation constellations, including GPS and Galileo. The new system will improve accuracy to within a meter, while also boosting the integrity, availability and continuity of safety-related applications. In addition to aviation, it will benefit land, sea and rail transport in post Covid-19 changing environment, as supporting user safety, cost-effectiveness and sustainable development. In addition to defining the system’s architecture to support these SBAS services, the study will provide ASECNA and its member States a clear view of the development, deployment and operation of the “SBAS for Africa and the Indian Ocean”.
+
+This study is being carried out jointly by ASECNA and Thales Alenia Space, with funding from the European Union, as part of an ambitious programme to develop the aviation sector in Africa. Set for completion by the end of the year, it also includes the provision of a pre-operational service, along with field demonstrations of how to use the service in conjunction with partner airlines. Thales Alenia Space has now completed acceptance testing of the demonstrator, which will subsequently be deployed at various sites.
+
+[1] European Geostationary Navigation Overlay System
+
+ADVERTISEMENT
+
+Distributed by APO Group on behalf of Thales Alenia Space.
+
+Media Contact: ASECNA Harouna Kindo Email: kindohar@asecna.org Tel: +221 77375 36 69 or +221 33849 67 23
+
+Abdoulaye Faye Email: fayeabd@asecna.org Tel: +221 77649 01 92
+
+Thales Alenia Space Sandrine Bielecki Tel: +33 (0)4 92 92 70 94 sandrine.bielecki@thalesaleniaspace.com
+
+Catherine des Arcis Tel: +33 (0)4 92 92 72 82 catherine.des-arcis@thalesaleniaspace.com
+
+ADVERTISEMENT
+
+Marija Kovac Tel: +39 (0)6415 126 85 marija.kovac-somministrato@thalesaleniaspace.com
+
+About ASECNA: ASECNA is an International public organisation. Its main mission is to provide air navigation services within an airspace of 16,500,000 square kilometers, divided into six flight information regions (F.I.R) as defined by the International Civil Aviation Organization (ICAO). ASECNA also develops solutions for airport management, aviation infrastructure studies and construction, equipment maintenance, calibration of air navigation instruments and training for civil aviation staff. Its 18 Member States are: Benin, Burkina Faso, Cameroon, Central African Republic, Comoros, Congo, Côte d’Ivoire, France, Gabon, Guinea Bissau, Equatorial Guinea, Madagascar, Mali, Mauritania, Niger, Senegal, Chad and Togo.","{'label': 'Neutral', 'score': 0.9994145631790161}",neutral,0.9994145631790161,0
